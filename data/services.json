@@ -3192,5 +3192,1867 @@
       "Proof of address",
       "Your local program will tell you exactly which documents it needs"
     ]
+  },
+  {
+    "agency": "California Department of Social Services (CDSS)",
+    "applyLinks": [
+      {
+        "label": "Apply at GetCalFresh",
+        "url": "https://www.getcalfresh.org"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CalFresh info line",
+        "value": "1-877-847-3663"
+      },
+      {
+        "kind": "web",
+        "label": "GetCalFresh",
+        "value": "https://www.getcalfresh.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits are issued monthly once approved."
+      }
+    ],
+    "description": "Monthly food benefits on an EBT card for eligible low-income households — California's version of SNAP. Applications are submitted through BenefitsCal; the GetCalFresh partner page walks applicants through the process.",
+    "eligibility": [
+      "California resident",
+      "Household income within program limits",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "id": "ca-calfresh",
+    "languages": [
+      "English"
+    ],
+    "name": "CalFresh (SNAP) — Food Benefits",
+    "prerequisites": [
+      "Meet the program's income and residency rules",
+      "Apply online at BenefitsCal or getcalfresh.org"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.getcalfresh.org",
+      "https://www.cdss.ca.gov/Portals/9/CalFreshOutreach/CalFresh%20Awareness%20Month/English_CalFresh%20Awareness%20Info%20Card.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by county office; call ahead"
+    ]
+  },
+  {
+    "agency": "California Department of Health Care Services (DHCS)",
+    "applyLinks": [
+      {
+        "label": "How to apply for Medi-Cal",
+        "url": "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medi-Cal eligibility",
+        "value": "(916) 552-9200"
+      },
+      {
+        "kind": "web",
+        "label": "DHCS — How to get care",
+        "value": "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply year-round — no open-enrollment window."
+      }
+    ],
+    "description": "Free or low-cost health coverage for eligible California residents, including doctor visits, hospital care, prescriptions, and dental. You can apply year-round online, by mail, phone, fax, email, or in person.",
+    "eligibility": [
+      "California resident",
+      "Income-based eligibility; other pathways for seniors, people with disabilities, and former foster youth",
+      "Apply year-round"
+    ],
+    "id": "ca-medi-cal",
+    "languages": [
+      "English"
+    ],
+    "name": "Medi-Cal — Free or Low-Cost Health Coverage",
+    "prerequisites": [
+      "Apply online, by mail, phone, fax, email, or in person",
+      "Provide income and household information"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by county office; call ahead"
+    ]
+  },
+  {
+    "agency": "Covered California",
+    "applyLinks": [
+      {
+        "label": "Shop plans at Covered California",
+        "url": "https://coveredca.com/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Covered California",
+        "value": "https://coveredca.com/"
+      }
+    ],
+    "cost": "Free to enroll; premiums vary by plan",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Annual open enrollment each fall; qualifying life events allow special enrollment."
+      }
+    ],
+    "description": "California's official health insurance marketplace, where individuals and families can compare health plans and see if they qualify for financial help with premiums.",
+    "eligibility": [
+      "California resident",
+      "Not eligible for Medi-Cal or affordable employer coverage",
+      "Financial help based on income"
+    ],
+    "id": "ca-covered-california",
+    "languages": [
+      "English"
+    ],
+    "name": "Covered California — Health Insurance Marketplace",
+    "prerequisites": [
+      "Not eligible for Medi-Cal or affordable employer coverage",
+      "Provide income and household information"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://coveredca.com/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; check the Covered California site before enrolling"
+    ]
+  },
+  {
+    "agency": "California Department of Social Services (CDSS)",
+    "applyLinks": [
+      {
+        "label": "CalWORKs services and how to apply",
+        "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CDSS — CalWORKs services",
+        "value": "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at your county office."
+      }
+    ],
+    "description": "Temporary cash assistance for eligible families with children, plus employment services, to help pay for housing, food, utilities, and clothing. County-administered; applicants complete an application and interview and provide proof of income, residence, and other factors.",
+    "eligibility": [
+      "Families with children in California",
+      "Income and property limits — vary by household",
+      "Apply at your county welfare department"
+    ],
+    "id": "ca-calworks",
+    "languages": [
+      "English"
+    ],
+    "name": "CalWORKs — Cash Aid for Families",
+    "prerequisites": [
+      "Contact your county welfare department"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income and property",
+      "Proof of residence and shelter costs",
+      "Social Security numbers, IDs, and immigration/citizenship documents as applicable"
+    ]
+  },
+  {
+    "agency": "California Department of Community Services and Development (CSD)",
+    "applyLinks": [
+      {
+        "label": "Find a local LIHEAP provider",
+        "url": "https://csd.ca.gov/energybills"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CSD — Energy bills",
+        "value": "https://csd.ca.gov/energybills"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through your local service provider; funding is limited."
+      }
+    ],
+    "description": "Help paying heating and cooling bills for income-eligible households. California had received FY2026 federal funding, but funding is limited and local providers prioritize vulnerable households; apply through a local service provider.",
+    "eligibility": [
+      "California resident",
+      "Income-eligible household",
+      "Funding limited — local providers prioritize vulnerable households"
+    ],
+    "id": "ca-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "LIHEAP — Utility Bill Assistance",
+    "prerequisites": [
+      "Find your local service provider on the CSD page"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://csd.ca.gov/energybills"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Recent utility bills",
+      "ID for household members"
+    ]
+  },
+  {
+    "agency": "California Employment Development Department (EDD)",
+    "applyLinks": [
+      {
+        "label": "Apply for Unemployment Insurance",
+        "url": "https://edd.ca.gov/en/unemployment/step-2-apply"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EDD Unemployment",
+        "value": "1-800-300-5616"
+      },
+      {
+        "kind": "web",
+        "label": "EDD — Apply for UI",
+        "value": "https://edd.ca.gov/en/unemployment/step-2-apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you lose your job; benefit-year rules apply."
+      }
+    ],
+    "description": "Weekly benefit payments for workers who lose their jobs through no fault of their own. The fastest way to file is online with a myEDD account; free interpreter services are available by phone.",
+    "eligibility": [
+      "Worked in California and earned enough wages in the base period",
+      "Unemployed or working reduced hours through no fault of your own",
+      "Able, available, and actively seeking work"
+    ],
+    "id": "ca-edd-ui",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (UI)",
+    "prerequisites": [
+      "Create a myEDD account for the fastest filing"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://edd.ca.gov/en/unemployment/step-2-apply"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Employment history and earnings information",
+      "ID and Social Security number"
+    ]
+  },
+  {
+    "agency": "California Employment Development Department (EDD)",
+    "applyLinks": [
+      {
+        "label": "Apply for Disability Insurance",
+        "url": "https://edd.ca.gov/en/disability/step-2-apply/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EDD Disability Insurance",
+        "value": "1-800-480-3287"
+      },
+      {
+        "kind": "web",
+        "label": "EDD — Apply for SDI",
+        "value": "https://edd.ca.gov/en/disability/step-2-apply/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Filing window",
+        "note": "Apply no earlier than 9 days and no later than 49 days after the disability begins."
+      }
+    ],
+    "description": "Partial wage replacement for workers who cannot work because of a non-work-related illness, injury, or pregnancy. Apply no earlier than 9 days and no later than 49 days after your disability begins.",
+    "eligibility": [
+      "Unable to do your regular work for at least 8 consecutive days due to a non-work-related disability",
+      "Employed or actively looking for work when the disability began",
+      "Apply within the 9-day to 49-day filing window"
+    ],
+    "id": "ca-edd-sdi",
+    "languages": [
+      "English"
+    ],
+    "name": "State Disability Insurance (SDI)",
+    "prerequisites": [
+      "Create a myEDD account",
+      "Have your doctor complete the medical certification"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://edd.ca.gov/en/disability/step-2-apply/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Medical certification from your doctor",
+      "Employment and earnings information"
+    ]
+  },
+  {
+    "agency": "California Employment Development Department (EDD)",
+    "applyLinks": [
+      {
+        "label": "Apply for Paid Family Leave",
+        "url": "https://edd.ca.gov/en/disability/paid-family-leave/step-2-apply/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EDD Paid Family Leave",
+        "value": "1-877-238-4373"
+      },
+      {
+        "kind": "web",
+        "label": "EDD — Apply for PFL",
+        "value": "https://edd.ca.gov/en/disability/paid-family-leave/step-2-apply/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Filing window",
+        "note": "Apply no earlier than the first day of leave and no later than 41 days after leave begins; bonding leave within 12 months of birth or placement."
+      }
+    ],
+    "description": "Partial wage replacement for workers who take time off to bond with a new child or care for a seriously ill family member. Bonding benefits must be taken within 12 months of the birth or placement; apply no earlier than your first leave day and no later than 41 days after leave begins.",
+    "eligibility": [
+      "Need time off to bond with a new child or care for a seriously ill family member",
+      "Paid into State Disability Insurance through payroll deductions",
+      "Apply within the filing window"
+    ],
+    "id": "ca-edd-pfl",
+    "languages": [
+      "English"
+    ],
+    "name": "Paid Family Leave (PFL)",
+    "prerequisites": [
+      "Create a myEDD account"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://edd.ca.gov/en/disability/paid-family-leave/step-2-apply/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Documentation of the new child or family member's serious health condition",
+      "Employment and earnings information"
+    ]
+  },
+  {
+    "agency": "California Franchise Tax Board (FTB)",
+    "applyLinks": [
+      {
+        "label": "CalEITC details and Form FTB 3514",
+        "url": "https://www.ftb.ca.gov/file/personal/credits/california-earned-income-Tax-credit.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FTB — CalEITC",
+        "value": "https://www.ftb.ca.gov/file/personal/credits/california-earned-income-Tax-credit.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax season",
+        "note": "Claim on your state return; prior-year claims generally up to four years back."
+      }
+    ],
+    "description": "Refundable state tax credit for low-to-moderate-income working Californians, claimed on the state return with Form FTB 3514. Prior-year claims can generally go back up to four years.",
+    "eligibility": [
+      "Earned income from work in California",
+      "File a California state tax return",
+      "Income limits — see the FTB page for the tax year"
+    ],
+    "id": "ca-caleitc",
+    "languages": [
+      "English"
+    ],
+    "name": "California Earned Income Tax Credit (CalEITC)",
+    "prerequisites": [
+      "File a California state tax return"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.ftb.ca.gov/file/personal/credits/california-earned-income-Tax-credit.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "W-2s and other income documents",
+      "Completed Form FTB 3514"
+    ]
+  },
+  {
+    "agency": "California Student Aid Commission (CSAC)",
+    "applyLinks": [
+      {
+        "label": "Cal Grant information",
+        "url": "http://www.csac.ca.gov/cal-grant"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CSAC student support",
+        "value": "(888) 224-7268"
+      },
+      {
+        "kind": "email",
+        "label": "CSAC student support",
+        "value": "studentsupport@csac.ca.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual deadlines",
+        "note": "Priority deadline March 2 each year; September 2 for California Community College applicants — confirm the current cycle on CSAC."
+      }
+    ],
+    "description": "State financial aid for California students attending eligible colleges, universities, and career schools — no repayment required. Priority deadline is March 2 each year; September 2 for California Community College applicants.",
+    "eligibility": [
+      "California resident attending an eligible school",
+      "Meet GPA and income requirements",
+      "Submit FAFSA or California Dream Act application by the deadline"
+    ],
+    "id": "ca-cal-grant",
+    "languages": [
+      "English"
+    ],
+    "name": "Cal Grant — State Financial Aid",
+    "prerequisites": [
+      "Submit the FAFSA or California Dream Act application"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "http://www.csac.ca.gov/cal-grant"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Financial and household information for the aid application"
+    ]
+  },
+  {
+    "agency": "California Housing Finance Agency (CalHFA)",
+    "applyLinks": [
+      {
+        "label": "MyHome assistance programs",
+        "url": "http://www.calhfa.ca.gov/homebuyer/programs/myhome.htm"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CalHFA — MyHome",
+        "value": "http://www.calhfa.ca.gov/homebuyer/programs/myhome.htm"
+      }
+    ],
+    "cost": "Free to apply; mortgage and program costs apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a CalHFA-approved loan officer."
+      }
+    ],
+    "description": "Down-payment and closing-cost assistance for first-time homebuyers buying a primary residence in California. Borrowers must meet income limits and complete homebuyer education; apply through an approved private loan officer.",
+    "eligibility": [
+      "First-time homebuyer purchasing a primary residence in California",
+      "Household income within CalHFA limits",
+      "Complete required homebuyer education"
+    ],
+    "id": "ca-calhfa-myhome",
+    "languages": [
+      "English"
+    ],
+    "name": "CalHFA MyHome — Down Payment Assistance",
+    "prerequisites": [
+      "Apply through a CalHFA-approved loan officer",
+      "Complete homebuyer education"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "http://www.calhfa.ca.gov/homebuyer/programs/myhome.htm"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Income and asset documentation",
+      "Homebuyer education certificate"
+    ]
+  },
+  {
+    "agency": "California Department of Veterans Affairs (CalVet)",
+    "applyLinks": [
+      {
+        "label": "CalVet home loan application",
+        "url": "https://www.ca.gov/departments/163/services/64/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CalVet home loans",
+        "value": "866-653-2510"
+      },
+      {
+        "kind": "web",
+        "label": "CalVet — Home loans",
+        "value": "https://www.ca.gov/departments/163/services/64/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through the program application."
+      }
+    ],
+    "description": "State home loans for eligible California veterans, with features designed for those who have served. Apply through the program's application link; call for eligibility questions.",
+    "eligibility": [
+      "Veteran with qualifying service in California",
+      "Meet program underwriting requirements — see the CalVet page"
+    ],
+    "id": "ca-calvet-homeloans",
+    "languages": [
+      "English"
+    ],
+    "name": "CalVet Home Loans",
+    "prerequisites": [
+      "Veteran with qualifying California service",
+      "Meet program underwriting requirements"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.ca.gov/departments/163/services/64/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call CalVet before applying"
+    ]
+  },
+  {
+    "agency": "California Department of Rehabilitation (DOR)",
+    "applyLinks": [
+      {
+        "label": "How to apply for DOR services",
+        "url": "https://www.dor.ca.gov/Home/HowToApply"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DOR — How to apply",
+        "value": "https://www.dor.ca.gov/Home/HowToApply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Eligibility determined within 60 days after the application and gathered information are received."
+      }
+    ],
+    "description": "Vocational rehabilitation services — counseling, training, and job placement — for Californians with disabilities seeking employment. The online application portal is currently unavailable; apply by phone or in person at a local DOR office, or mail in form DR 222.",
+    "eligibility": [
+      "California resident with a disability that is a barrier to employment",
+      "DOR determines eligibility within 60 days of receiving the application and gathered information"
+    ],
+    "id": "ca-dor-vr",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation (DOR)",
+    "prerequisites": [
+      "Contact a local DOR office to start — phone, in person, mail, or email"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.dor.ca.gov/Home/HowToApply"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Documents about your disability",
+      "Recent records and benefit letters",
+      "Contact info for doctors and other professionals"
+    ]
+  },
+  {
+    "agency": "California Department of Aging (CDA)",
+    "applyLinks": [
+      {
+        "label": "CDA programs and services",
+        "url": "https://aging.ca.gov/Programs_and_Services/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "California Department of Aging",
+        "value": "800-510-2020"
+      },
+      {
+        "kind": "web",
+        "label": "CDA — Programs and services",
+        "value": "https://aging.ca.gov/Programs_and_Services/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services delivered year-round through local Area Agencies on Aging."
+      }
+    ],
+    "description": "Statewide programs for older adults, adults with disabilities, and family caregivers: meal programs, home and community services, family caregiver support, fall prevention, and senior employment training. Services are delivered locally through Area Agencies on Aging.",
+    "eligibility": [
+      "Older adults, adults with disabilities, and family caregivers",
+      "Some programs (e.g., senior employment training) serve low-income unemployed adults 55+"
+    ],
+    "id": "ca-aging",
+    "languages": [
+      "English"
+    ],
+    "name": "California Department of Aging — Senior Services",
+    "prerequisites": [
+      "Find your local Area Agency on Aging on the CDA page"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://aging.ca.gov/Programs_and_Services/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ]
+  },
+  {
+    "agency": "California Department of Social Services (CDSS)",
+    "applyLinks": [
+      {
+        "label": "IHSS program information",
+        "url": "https://cdss.ca.gov/in-home-supportive-services"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CDSS — IHSS",
+        "value": "https://cdss.ca.gov/in-home-supportive-services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through your county IHSS office."
+      }
+    ],
+    "description": "In-home assistance for eligible aged, blind, and disabled Medi-Cal recipients so they can remain safely in their own homes. A county social worker assesses needs at a home visit; recipients hire their own care providers.",
+    "eligibility": [
+      "California resident",
+      "Medi-Cal eligibility determination",
+      "Live at home (not in a facility)",
+      "Submit a completed Health Care Certification form"
+    ],
+    "id": "ca-ihss",
+    "languages": [
+      "English"
+    ],
+    "name": "In-Home Supportive Services (IHSS)",
+    "prerequisites": [
+      "Contact the IHSS program in your county",
+      "Health Care Certification (SOC 873) from your doctor"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://cdss.ca.gov/in-home-supportive-services"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Completed Health Care Certification form",
+      "Proof of Medi-Cal eligibility"
+    ]
+  },
+  {
+    "agency": "California Department of Public Health (CDPH)",
+    "applyLinks": [
+      {
+        "label": "WIC program overview and how to apply",
+        "url": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/AboutWIC/ProgramOverview.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CDPH — WIC overview",
+        "value": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/AboutWIC/ProgramOverview.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a local WIC office."
+      }
+    ],
+    "description": "Nutrition support for pregnant, breastfeeding, and postpartum individuals, infants, and children under 5: healthy foods on a WIC Card, nutrition education, and breastfeeding support. Households at or below 185% of federal poverty guidelines qualify; CalFresh, Medi-Cal, and CalWORKs recipients are adjunctively eligible.",
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum individual, infant, or child under 5",
+      "Household income at or below 185% of federal poverty guidelines",
+      "Nutritional risk, determined at certification"
+    ],
+    "id": "ca-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC — Nutrition Support for Families",
+    "prerequisites": [
+      "Complete a certification appointment confirming eligibility and nutritional risk",
+      "Bring the family members applying, including infants or children"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/AboutWIC/ProgramOverview.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by local office; call ahead"
+    ]
+  },
+  {
+    "agency": "California Department of Motor Vehicles (DMV)",
+    "applyLinks": [
+      {
+        "label": "Apply for a REAL ID",
+        "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV — REAL ID",
+        "value": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+      }
+    ],
+    "cost": "Fees apply — see the DMV fee schedule",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Start online, then visit a DMV office with your original documents."
+      }
+    ],
+    "description": "Apply for a REAL ID driver license or identification card — a federally accepted form of ID marked with a golden bear and star. Complete the application online and upload documents, then bring originals and your confirmation code to a DMV office.",
+    "eligibility": [
+      "California resident with proof of identity and residency"
+    ],
+    "id": "ca-dmv-realid",
+    "languages": [
+      "English"
+    ],
+    "name": "REAL ID — Driver License and ID Card",
+    "prerequisites": [
+      "Gather identity and residency documents using the DMV checklist",
+      "Complete the online application and save your confirmation code"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Original documents submitted online",
+      "Confirmation code from the online application"
+    ]
+  },
+  {
+    "agency": "California Office of the Small Business Advocate (CalOSBA)",
+    "applyLinks": [
+      {
+        "label": "Business Learning Center and resources",
+        "url": "https://calosba.ca.gov/for-small-businesses-and-non-profits/business-learning-center/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CalOSBA — Business Learning Center",
+        "value": "https://calosba.ca.gov/for-small-businesses-and-non-profits/business-learning-center/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Guides and consulting available year-round."
+      }
+    ],
+    "description": "Resource guides for starting, managing, and growing a California small business — permits and licenses, financing, workforce, and contracting with the state. The Small Business Support Center network offers no-cost one-on-one consulting and training statewide in dozens of languages.",
+    "eligibility": [
+      "California small businesses and non-profits"
+    ],
+    "id": "ca-calosba",
+    "languages": [
+      "English"
+    ],
+    "name": "CalOSBA — Small Business Support",
+    "prerequisites": [
+      "Have a California business or business idea",
+      "Identify the consulting topic you need help with"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "state",
+      "state": "CA"
+    },
+    "sources": [
+      "https://calosba.ca.gov/for-small-businesses-and-non-profits/business-learning-center/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Business basics — vary by consulting topic; check the page"
+    ]
+  },
+  {
+    "agency": "211 LA County",
+    "applyLinks": [
+      {
+        "label": "Search 211 LA resources",
+        "url": "https://211la.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 LA County",
+        "value": "1-800-339-6993"
+      },
+      {
+        "kind": "web",
+        "label": "211 LA",
+        "value": "https://211la.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or search online any time."
+      }
+    ],
+    "description": "Local nonprofit guide to services across Los Angeles County — food, housing, health care, and disaster resources. Free; multilingual support.",
+    "eligibility": [
+      "Los Angeles County resident or person in need in LA County"
+    ],
+    "id": "la-211-la-county",
+    "languages": [
+      "English"
+    ],
+    "name": "211 LA County — Service Navigator",
+    "prerequisites": [
+      "None — call or search online directly"
+    ],
+    "scope": {
+      "city": "Los Angeles",
+      "county": "Los Angeles",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://211la.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call 211 for guidance"
+    ]
+  },
+  {
+    "agency": "Los Angeles County Department of Public Social Services (DPSS)",
+    "applyLinks": [
+      {
+        "label": "DPSS programs and benefits",
+        "url": "https://dpss.lacounty.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LA County DPSS",
+        "value": "https://dpss.lacounty.gov/"
+      },
+      {
+        "kind": "in-person",
+        "label": "DPSS district offices",
+        "value": "DPSS district offices — check the site for locations"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online, by phone, or at a district office."
+      }
+    ],
+    "description": "County-administered cash assistance, food and nutrition, health care, homeless services, and job services for LA County residents, including CalWORKs, CalFresh, and Medi-Cal. Apply online, by phone, or at a district office.",
+    "eligibility": [
+      "Los Angeles County resident",
+      "Income and household rules vary by program"
+    ],
+    "id": "la-dpss-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "LA County DPSS — Benefits and Employment Services",
+    "prerequisites": [
+      "LA County residency",
+      "Income and household information for the application"
+    ],
+    "scope": {
+      "city": "Los Angeles",
+      "county": "Los Angeles",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://dpss.lacounty.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Los Angeles County Metropolitan Transportation Authority (Metro)",
+    "applyLinks": [
+      {
+        "label": "LIFE program and online application",
+        "url": "https://www.metro.net/riding/life/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIFE / TAP",
+        "value": "866-827-8646"
+      },
+      {
+        "kind": "web",
+        "label": "Metro — LIFE",
+        "value": "https://www.metro.net/riding/life/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time; 20 free rides load to your TAP card each month."
+      }
+    ],
+    "description": "Free and discounted transit for qualifying LA County residents: new participants get unlimited free rides for the first 90 days, then 20 free rides a month on their TAP card. Income limits range from $48,550 (1 person) to $80,450 (6 people); enrollees in CalFresh, Medi-Cal, SSI, and similar programs qualify.",
+    "eligibility": [
+      "LA County resident, 18 or older",
+      "Household income within limits (e.g., $48,550 or less for 1 person)",
+      "Or enrolled in CalFresh, Medi-Cal, SSI, TANF, SNAP, or a reduced lunch program"
+    ],
+    "id": "la-metro-life",
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "Korean",
+      "Japanese",
+      "Vietnamese",
+      "Armenian",
+      "Russian"
+    ],
+    "name": "Metro LIFE — Low Income Fare is Easy",
+    "prerequisites": [
+      "Create or link a TAP card to your enrollment"
+    ],
+    "scope": {
+      "city": "Los Angeles",
+      "county": "Los Angeles",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.metro.net/riding/life/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income or proof of enrollment in a qualifying program"
+    ]
+  },
+  {
+    "agency": "United Way of the Bay Area — 211 Bay Area",
+    "applyLinks": [
+      {
+        "label": "211 Bay Area resource search",
+        "url": "https://211bayarea.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211",
+        "value": "211"
+      },
+      {
+        "kind": "web",
+        "label": "211 Bay Area",
+        "value": "https://211bayarea.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 211 any time, 24/7."
+      }
+    ],
+    "description": "Free, confidential information and referral service connecting Bay Area residents with local resources — dial 211 any time. Serves San Francisco and other Bay Area counties, 24 hours a day, 7 days a week, in multiple languages.",
+    "eligibility": [
+      "Bay Area resident or person in need in the Bay Area"
+    ],
+    "id": "sf-211-bay-area",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Bay Area — Service Navigator",
+    "prerequisites": [
+      "None — call or search online directly"
+    ],
+    "scope": {
+      "city": "San Francisco",
+      "county": "San Francisco",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://211bayarea.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call 211 for guidance"
+    ]
+  },
+  {
+    "agency": "San Francisco Human Services Agency (SFHSA)",
+    "applyLinks": [
+      {
+        "label": "SFHSA programs and services",
+        "url": "https://www.sfhsa.org/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SFHSA general information",
+        "value": "(415) 557-5000"
+      },
+      {
+        "kind": "web",
+        "label": "SFHSA",
+        "value": "https://www.sfhsa.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; current program changes are posted on the site."
+      }
+    ],
+    "description": "Food, cash, employment, and health care assistance for San Francisco residents — CalFresh, Medi-Cal, CalWORKs, and County Adult Assistance Programs. Apply online at BenefitsCal or by phone.",
+    "eligibility": [
+      "San Francisco resident",
+      "Income and household rules vary by program"
+    ],
+    "id": "sf-hsa-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "SFHSA — Food, Cash, and Health Assistance",
+    "prerequisites": [
+      "San Francisco residency",
+      "Apply online at BenefitsCal or by phone"
+    ],
+    "scope": {
+      "city": "San Francisco",
+      "county": "San Francisco",
+      "level": "city",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.sfhsa.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "City and County of San Francisco — 311 Customer Service Center",
+    "applyLinks": [
+      {
+        "label": "SF 311 online services",
+        "url": "https://sf311.org/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SF 311",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "SF 311",
+        "value": "https://sf311.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7 by phone, app, or web."
+      }
+    ],
+    "description": "One number for non-emergency city services: report potholes, graffiti, trash, and fallen trees, or get city program information. Available 24/7 online, by mobile app, or by phone in over 160 languages.",
+    "eligibility": [
+      "Anyone needing non-emergency city services in San Francisco"
+    ],
+    "id": "sf-311",
+    "languages": [
+      "English"
+    ],
+    "name": "SF 311 — Non-Emergency City Services",
+    "prerequisites": [
+      "None — call, use the app, or go online"
+    ],
+    "scope": {
+      "city": "San Francisco",
+      "county": "San Francisco",
+      "level": "city",
+      "state": "CA"
+    },
+    "sources": [
+      "https://sf311.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Location or address for the service request"
+    ]
+  },
+  {
+    "agency": "211 San Diego",
+    "applyLinks": [
+      {
+        "label": "211 San Diego resources",
+        "url": "https://211sandiego.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "211 San Diego",
+        "value": "https://211sandiego.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 211 or search online any time."
+      }
+    ],
+    "description": "Free information and referral service for San Diego County — food, housing, health care, and utility assistance. Call 2-1-1 or search the online database.",
+    "eligibility": [
+      "San Diego County resident or person in need in San Diego County"
+    ],
+    "id": "sd-211-san-diego",
+    "languages": [
+      "English"
+    ],
+    "name": "211 San Diego — Service Navigator",
+    "prerequisites": [
+      "None — call or search online directly"
+    ],
+    "scope": {
+      "city": "San Diego",
+      "county": "San Diego",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://211sandiego.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call 211 for guidance"
+    ]
+  },
+  {
+    "agency": "County of San Diego Health & Human Services Agency (HHSA)",
+    "applyLinks": [
+      {
+        "label": "HHSA services and programs",
+        "url": "https://www.sandiegocounty.gov/content/sdc/hhsa.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "San Diego County HHSA",
+        "value": "https://www.sandiegocounty.gov/content/sdc/hhsa.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; programs delivered through regional offices."
+      }
+    ],
+    "description": "Health and social services for San Diego County residents — public assistance benefits, health programs, and housing and community development services. Serves more than one in three county residents.",
+    "eligibility": [
+      "San Diego County resident",
+      "Income and household rules vary by program"
+    ],
+    "id": "sd-hhsa",
+    "languages": [
+      "English"
+    ],
+    "name": "San Diego County HHSA — Health and Social Services",
+    "prerequisites": [
+      "San Diego County residency",
+      "Income and household information for the application"
+    ],
+    "scope": {
+      "city": "San Diego",
+      "county": "San Diego",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.sandiegocounty.gov/content/sdc/hhsa.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "San Diego Public Library",
+    "applyLinks": [
+      {
+        "label": "Library services and resources",
+        "url": "https://www.sandiego.gov/public-library"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "San Diego Public Library",
+        "value": "https://www.sandiego.gov/public-library"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Free with a library card."
+      }
+    ],
+    "description": "Free library services across the City of San Diego — books, catalog, tech help, WiFi hotspots and Chromebooks, and community programs.",
+    "eligibility": [
+      "Open to the public; a library card unlocks full services"
+    ],
+    "id": "sd-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "San Diego Public Library",
+    "prerequisites": [
+      "Apply for a free library card"
+    ],
+    "scope": {
+      "city": "San Diego",
+      "county": "San Diego",
+      "level": "city",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.sandiego.gov/public-library"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Library card application — ID and proof of address help"
+    ]
+  },
+  {
+    "agency": "Inland SoCal United Way — 211",
+    "applyLinks": [
+      {
+        "label": "211 Inland SoCal resource search",
+        "url": "http://inlandsocaluw.org/211"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "Inland SoCal 211",
+        "value": "http://inlandsocaluw.org/211"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 211 any time, 24/7."
+      }
+    ],
+    "description": "24/7 information and referral helpline for Riverside and San Bernardino counties, connecting residents with food, housing, health care, and human services. Call 211 for assistance.",
+    "eligibility": [
+      "Riverside or San Bernardino County resident, or person in need in the region"
+    ],
+    "id": "riv-211-inland-socal",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Inland SoCal — Service Navigator",
+    "prerequisites": [
+      "None — call or search online directly"
+    ],
+    "scope": {
+      "city": "Riverside",
+      "county": "Riverside",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "http://inlandsocaluw.org/211"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call 211 for guidance"
+    ]
+  },
+  {
+    "agency": "Riverside County Department of Public Social Services (DPSS)",
+    "applyLinks": [
+      {
+        "label": "Riverside County DPSS programs",
+        "url": "https://www.rivcodpss.org/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Riverside County DPSS",
+        "value": "https://www.rivcodpss.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online or at a DPSS office."
+      }
+    ],
+    "description": "Cash assistance, food and nutrition, health care, housing help, and job services for Riverside County residents. Apply for benefits online or visit a DPSS office.",
+    "eligibility": [
+      "Riverside County resident",
+      "Income and household rules vary by program"
+    ],
+    "id": "riv-dpss",
+    "languages": [
+      "English"
+    ],
+    "name": "Riverside County DPSS — Benefits and Services",
+    "prerequisites": [
+      "Riverside County residency",
+      "Income and household information for the application"
+    ],
+    "scope": {
+      "city": "Riverside",
+      "county": "Riverside",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.rivcodpss.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Community Link Capital Region — 211 Sacramento",
+    "applyLinks": [
+      {
+        "label": "211 Sacramento resources",
+        "url": "https://211sacramento.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "211 Sacramento",
+        "value": "https://211sacramento.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 211 or search online any time."
+      }
+    ],
+    "description": "Coordinated information and referral service connecting Sacramento County residents with health and human services. A program of Community Link, supported by the County of Sacramento.",
+    "eligibility": [
+      "Sacramento County resident or person in need in Sacramento County"
+    ],
+    "id": "sac-211-sacramento",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Sacramento — Service Navigator",
+    "prerequisites": [
+      "None — call or search online directly"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.211sacramento.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call 211 for guidance"
+    ]
+  },
+  {
+    "agency": "Sacramento County Department of Human Assistance (DHA)",
+    "applyLinks": [
+      {
+        "label": "DHA programs and services",
+        "url": "https://ha.saccounty.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sacramento County DHA",
+        "value": "https://ha.saccounty.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online or at a DHA office."
+      }
+    ],
+    "description": "Public benefits, employment assistance, and supportive services for Sacramento County residents working toward self-sufficiency — including CalWORKs and General Assistance. Apply online or at a DHA office.",
+    "eligibility": [
+      "Sacramento County resident",
+      "Income and asset limits — vary by program"
+    ],
+    "id": "sac-dha",
+    "languages": [
+      "English"
+    ],
+    "name": "Sacramento County DHA — Public Benefits",
+    "prerequisites": [
+      "Sacramento County residency",
+      "Income and household information for the application"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "county",
+      "state": "CA"
+    },
+    "sources": [
+      "https://ha.saccounty.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Sacramento Public Library",
+    "applyLinks": [
+      {
+        "label": "Library services and resources",
+        "url": "https://www.saclibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sacramento Public Library",
+        "value": "https://www.saclibrary.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Free with a library card."
+      }
+    ],
+    "description": "Free library services across Sacramento County — book lending, events, reading programs, and school-year resources for students and families.",
+    "eligibility": [
+      "Open to the public; a library card unlocks full services"
+    ],
+    "id": "sac-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Sacramento Public Library",
+    "prerequisites": [
+      "Apply for a free library card"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "city",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.saclibrary.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Library card application — ID and proof of address help"
+    ]
+  },
+  {
+    "agency": "Centers for Medicare & Medicaid Services (CMS) — HealthCare.gov",
+    "applyLinks": [
+      {
+        "label": "HealthCare.gov",
+        "url": "https://www.healthcare.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HealthCare.gov",
+        "value": "https://www.healthcare.gov/"
+      }
+    ],
+    "cost": "Free to shop; premiums vary by plan",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Enrollment periods",
+        "note": "Californians generally apply through Covered California, the state's marketplace; annual open enrollment each fall."
+      }
+    ],
+    "description": "The federal Health Insurance Marketplace for comparing plans and enrolling in coverage; Californians generally apply through Covered California, the state's marketplace.",
+    "eligibility": [
+      "U.S. residents not eligible for employer coverage, Medicaid, or Medicare",
+      "Income-based subsidies available"
+    ],
+    "id": "fed-healthcare-marketplace",
+    "languages": [
+      "English"
+    ],
+    "name": "HealthCare.gov — Federal Marketplace",
+    "prerequisites": [
+      "Not eligible for employer coverage, Medicaid, or Medicare",
+      "Provide income and household information"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "federal",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.healthcare.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Income and household information"
+    ]
+  },
+  {
+    "agency": "Federal Emergency Management Agency (FEMA)",
+    "applyLinks": [
+      {
+        "label": "Apply for disaster assistance",
+        "url": "https://www.disasterassistance.gov/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DisasterAssistance.gov",
+        "value": "https://www.disasterassistance.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Application deadlines are set per declared disaster — check the site for current disasters."
+      }
+    ],
+    "description": "Disaster assistance for individuals in presidentially declared disaster areas — check whether your county is in a declared area and apply online. Deadlines vary by disaster; late applications may be accepted.",
+    "eligibility": [
+      "Resident of a county in a presidentially declared disaster area"
+    ],
+    "id": "fed-fema-disaster",
+    "languages": [
+      "English"
+    ],
+    "name": "FEMA Disaster Assistance",
+    "prerequisites": [
+      "Check whether your county is in a declared disaster area"
+    ],
+    "scope": {
+      "city": "Sacramento",
+      "county": "Sacramento",
+      "level": "federal",
+      "state": "CA"
+    },
+    "sources": [
+      "https://www.disasterassistance.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ID",
+      "Proof of occupancy or ownership",
+      "Insurance information if any"
+    ]
   }
 ]
