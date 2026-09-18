@@ -1,0 +1,3196 @@
+[
+  {
+    "agency": "City of Chicago — 311 City Services",
+    "applyLinks": [
+      {
+        "label": "Submit a service request",
+        "url": "https://311.chicago.gov"
+      },
+      {
+        "label": "311 City Services info",
+        "url": "https://chicago.gov/content/city/en/depts/311.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "3-1-1 — non-emergency line (verified on chicago.gov)",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "Submit a service request online",
+        "value": "https://311.chicago.gov"
+      },
+      {
+        "kind": "web",
+        "label": "CHI311 mobile app (iOS & Android, free)",
+        "value": "https://chicago.gov/content/city/en/depts/311.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Service requests",
+        "note": "Rolling — report issues anytime by phone, web, or app"
+      }
+    ],
+    "description": "One number for non-emergency city services: report potholes, garbage, graffiti, street-light outages, rodent problems, or get info on city programs and agencies. The free CHI311 mobile app also lets you pay bills and fines, seek debt relief, and request rent assistance.",
+    "eligibility": [
+      "Live, work, or visit within the City of Chicago",
+      "No ID or income requirements — open to everyone",
+      "For non-emergencies only (call 911 for emergencies)"
+    ],
+    "id": "chi-311",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "CHI311 — Non-Emergency City Services",
+    "prerequisites": [
+      "A Chicago address or location for the service request",
+      "Optional: create a free CHI311 account for status updates by email or text"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://chicago.gov/content/city/en/depts/311.html",
+      "https://311.chicago.gov"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "The address or location of the issue",
+      "Photos of the issue (if using the app or website)",
+      "Your service request number to track an existing request"
+    ]
+  },
+  {
+    "agency": "Chicago Department of Family & Support Services (DFSS)",
+    "applyLinks": [
+      {
+        "label": "RAP program page & application-status portal",
+        "url": "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg/svcs/homeless_prevention.html"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311 — ask for the Homelessness Prevention Call Center",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "phone",
+        "label": "HIV Resource Coordination Hub (verified on RAP page)",
+        "value": "1-844-HUB-4040"
+      },
+      {
+        "kind": "web",
+        "label": "RAP program page & application-status portal",
+        "value": "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg/svcs/homeless_prevention.html"
+      },
+      {
+        "kind": "in-person",
+        "label": "Auburn Gresham CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "1140 West 79th Street, Chicago, IL 60620 — 312-747-0200"
+      },
+      {
+        "kind": "in-person",
+        "label": "Garfield CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "10 South Kedzie Avenue, Chicago, IL 60612 — 312-746-5400"
+      },
+      {
+        "kind": "in-person",
+        "label": "Dr. Martin Luther King Jr. CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "4314 South Cottage Grove, Chicago, IL 60653 — 312-747-2300"
+      },
+      {
+        "kind": "in-person",
+        "label": "North Area CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "845 West Wilson Avenue, Chicago, IL 60640 — 312-744-2580"
+      },
+      {
+        "kind": "in-person",
+        "label": "South Chicago CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "8650 South Commercial Avenue, Chicago, IL 60617 — 312-747-0500"
+      },
+      {
+        "kind": "in-person",
+        "label": "Trina Davila CSC — Mon–Fri 9am–5pm (verified on RAP page)",
+        "value": "4312 West North Avenue, Chicago, IL 60639 — 312-744-2014"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Paused — not accepting new applications due to high application volume; submitted applicants can check status in the portal"
+      }
+    ],
+    "description": "Short-term rental help for Chicago renters at risk of homelessness after a temporary loss of income or another emergency. NOTE: the program is PAUSED — it is not accepting new applications as of the latest page update due to high volume. Six DFSS Community Service Centers citywide (Mon–Fri 9am–5pm) can help with existing applications.",
+    "eligibility": [
+      "Live in the City of Chicago",
+      "At risk of homelessness due to eviction, loss of income, or another emergency",
+      "Household income at or below 30% of Area Median Income (AMI)",
+      "Can demonstrate the ability to sustain housing after assistance",
+      "Landlord completes the RAP requirements",
+      "Open to all Chicago residents regardless of legal immigration status"
+    ],
+    "id": "chi-dfss-rent",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Rental Assistance Program (RAP)",
+    "prerequisites": [
+      "A 5-day notice of nonpayment or eviction notice",
+      "Proof of loss of income or another qualifying emergency",
+      "Current lease (minimum of 6 months)",
+      "Landlord willing to complete RAP agreement forms"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg/svcs/homeless_prevention.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID (driver's license, state ID, or CityKey)",
+      "Pay stubs, benefits statement, or affidavit explaining no income",
+      "Eviction or 5-day notice",
+      "Current lease"
+    ]
+  },
+  {
+    "agency": "Chicago Department of Family & Support Services (DFSS)",
+    "applyLinks": [
+      {
+        "label": "DFSS Homeless Services — how to get shelter",
+        "url": "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg.html"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "3-1-1 — request shelter, 24/7 (verified on DFSS page)",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "in-person",
+        "label": "SPARC — 24/7 single-adult shelter intake (verified on DFSS page)",
+        "value": "2241 S. Halsted St, Chicago, IL — open 24/7; offers food, showers, overflow shelter"
+      },
+      {
+        "kind": "web",
+        "label": "DFSS Homeless Services",
+        "value": "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Shelter requests",
+        "note": "Rolling — call 3-1-1 any time, 24/7"
+      }
+    ],
+    "description": "24/7 access to emergency shelter and housing resources for individuals and families experiencing homelessness in Chicago. Call 3-1-1 any time to submit a shelter request. Locations: SPARC (Shelter Placement and Resource Center) at 2241 S. Halsted St offers 24/7 intake for single adults; permanent-housing assessments run through Coordinated Entry access points — call 211 to find the nearest one.",
+    "eligibility": [
+      "Experiencing or at risk of homelessness in Chicago",
+      "Open to individuals and families",
+      "No income or immigration-status requirement published for emergency shelter access"
+    ],
+    "id": "chi-dfss-shelter",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Homeless Services & Shelter Access",
+    "prerequisites": [
+      "Call 3-1-1 to request shelter placement",
+      "Single adults can walk in to SPARC at 2241 S. Halsted St (open 24/7)",
+      "For a permanent-housing assessment, complete a Coordinated Entry assessment at an access point (find locations via 211)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.chicago.gov/content/city/en/depts/fss/provdrs/emerg.html",
+      "https://chicago.gov/content/city/en/depts/fss/provdrs/emerg/svcs/system-planning-and-coordination.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID if you have one (not always required in a crisis)",
+      "Any contact information where staff can reach you",
+      "List of current medications or medical needs"
+    ]
+  },
+  {
+    "agency": "Chicago Public Schools + Chicago Department of Family & Support Services",
+    "applyLinks": [
+      {
+        "label": "Apply for free preschool",
+        "url": "https://chicagoearlylearning.org/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Support Hotline (unverified — listed in official CPS application materials)",
+        "value": "(312) 229-1690"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for preschool",
+        "value": "https://chicagoearlylearning.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime; placement notifications arrive within two business days; accept offers promptly (they can expire)"
+      }
+    ],
+    "description": "Free preschool for 3- and 4-year-olds at CPS schools and community sites across the city. Apply online or by phone; proof of citizenship is not required. Families receive placement notifications within two business days of applying.",
+    "eligibility": [
+      "Child is 3 or 4 years old by September 1 of the school year",
+      "Family lives in Chicago",
+      "Open to all Chicago residents regardless of income; priority to need-based families",
+      "Proof of citizenship is not required"
+    ],
+    "id": "chi-early-learning",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Chicago Early Learning (Free Preschool)",
+    "prerequisites": [
+      "Create a family account at chicagoearlylearning.org",
+      "Rank program site preferences in the application",
+      "Accept or decline offers through the portal, hotline, or school"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://chicagoearlylearning.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Child's birth certificate or passport (proof of age)",
+      "Proof of Chicago residency",
+      "Proof of current household income"
+    ]
+  },
+  {
+    "agency": "City Colleges of Chicago",
+    "applyLinks": [
+      {
+        "label": "Star Scholarship — learn more & apply",
+        "url": "https://colleges.ccc.edu/chicago-star-scholarship/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "Star Scholarship office (listed in official CCC materials)",
+        "value": "starscholarship@ccc.edu"
+      },
+      {
+        "kind": "web",
+        "label": "Star Scholarship — details & application",
+        "value": "https://colleges.ccc.edu/chicago-star-scholarship/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Apply",
+        "note": "Apply within one year of high-school graduation; funds usable up to three years starting the first fall semester at CCC"
+      }
+    ],
+    "description": "Free tuition, books, and class materials at any of CCC's seven colleges for qualifying Chicago high school graduates. Funds can be used for up to three years toward an associate degree or certificate, and Star Scholars can earn a bachelor's at partner 4-year universities at no cost or a discount.",
+    "eligibility": [
+      "Graduate from a CPS, charter, or Big Shoulders Fund partner high school",
+      "3.0 GPA or higher",
+      "Test completion-ready in math and English (ACT/SAT scores or CCC placement exam)",
+      "Open to undocumented and international students"
+    ],
+    "id": "chi-ccc-star",
+    "languages": [
+      "English"
+    ],
+    "name": "Chicago Star Scholarship",
+    "prerequisites": [
+      "Apply to City Colleges and check the Star Scholarship box in the admissions application",
+      "Complete the FAFSA — or the Certification of Ineligibility form if unable to file",
+      "Complete financial-aid verification before the award is processed"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://colleges.ccc.edu/chicago-star-scholarship/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "High school transcripts/GPA",
+      "ACT or SAT scores (or take the CCC placement exam)",
+      "Valid email address for the application",
+      "FAFSA submission summary or certification-of-ineligibility form"
+    ]
+  },
+  {
+    "agency": "City Colleges of Chicago",
+    "applyLinks": [
+      {
+        "label": "Adult Education — apply & enroll",
+        "url": "https://ccc.edu/site/adult-education/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Adult Education — apply & find your college",
+        "value": "https://ccc.edu/site/adult-education/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Classes at six CCC colleges (verified on CCC page)",
+        "value": "Daley, Kennedy-King, Malcolm X, Truman, Olive-Harvey, and Wright colleges — in-person, online, and hybrid classes"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Enrollment",
+        "note": "Rolling — registration dates vary by term; check with your college's Adult Education office"
+      }
+    ],
+    "description": "Free English-as-a-Second-Language, high school equivalency (GED/HiSET), adult basic education, and citizenship classes at CCC's six colleges — Daley, Kennedy-King, Malcolm X, Truman, Olive-Harvey, and Wright — offered in person, online, or hybrid.",
+    "eligibility": [
+      "18 years or older (or provide proof of high-school separation)",
+      "Live in Illinois",
+      "F-1, F-2, J-1, J-2 visa holders are not eligible",
+      "All levels welcome, beginner to advanced"
+    ],
+    "id": "chi-ccc-adult-ed",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Adult Education — Free ESL & GED/HiSET Classes",
+    "prerequisites": [
+      "Complete the online application or visit your college's Adult Education office",
+      "Take the CASAS STEPS or CASAS GOALS placement test",
+      "Confirm Illinois residency by uploading your ID to the student portal"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://ccc.edu/site/adult-education/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of Illinois address",
+      "Proof of high-school separation if under 18"
+    ]
+  },
+  {
+    "agency": "Chicago Transit Authority / RTA",
+    "applyLinks": [
+      {
+        "label": "Reduced fare & free ride programs",
+        "url": "https://www.transitchicago.com/reduced-fare-programs/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RTA Reduced Fare Permits (verified on CTA page)",
+        "value": "(312) 913-3110"
+      },
+      {
+        "kind": "web",
+        "label": "CTA Reduced Fare & Free Ride Programs",
+        "value": "https://www.transitchicago.com/reduced-fare-programs/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Permit applications",
+        "note": "Rolling — apply anytime through RTA"
+      }
+    ],
+    "description": "Discounted CTA fares for seniors 65+, Medicare cardholders, people with disabilities, children 7–11, and students 20 & younger — $1.10 on buses and $1.25 on rail with an RTA Reduced Fare Permit; students ride for $0.75. Seniors and people with disabilities enrolled in the Illinois Benefit Access Program ride free.",
+    "eligibility": [
+      "Age 65+ for the RTA Reduced Fare Permit",
+      "All Medicare cardholders",
+      "People with disabilities (may qualify; ADA Paratransit permit holders ride reduced with an attendant)",
+      "Children ages 7–11 ride reduced; children under 7 ride free with a fare-paying customer",
+      "Students 20 & younger with a valid Student Ventra Card ($0.75, valid all day every day)",
+      "Illinois residents enrolled in the Illinois Department on Aging's Benefit Access Program ride free"
+    ],
+    "id": "chi-cta-fare",
+    "languages": [
+      "English"
+    ],
+    "name": "CTA Reduced Fare & Ride Free Programs",
+    "prerequisites": [
+      "Apply for the RTA Reduced Fare Permit (visit the RTA website or call)",
+      "Present the permit when paying a reduced fare",
+      "Students: get a Student Ventra Card through your school"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.transitchicago.com/reduced-fare-programs/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Medicare card (if applicable)",
+      "Proof of age (for seniors 65+)",
+      "Disability documentation (if applicable)"
+    ]
+  },
+  {
+    "agency": "Chicago Housing Authority",
+    "applyLinks": [
+      {
+        "label": "Apply online — CHA housing waitlists",
+        "url": "https://applyonline.thecha.org/"
+      },
+      {
+        "label": "CHA Help Center — waitlist & applicant info",
+        "url": "https://www.thecha.org/help-center"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHA Customer Call Center (verified on thecha.org)",
+        "value": "312-935-2600"
+      },
+      {
+        "kind": "phone",
+        "label": "CHA Main Office (verified on thecha.org)",
+        "value": "312-742-8500"
+      },
+      {
+        "kind": "in-person",
+        "label": "CHA Client Center — walk-in help (verified on thecha.org)",
+        "value": "60 E. Van Buren St, Chicago, IL 60605 — central office closed to the public on Fridays"
+      },
+      {
+        "kind": "web",
+        "label": "CHA Help Center — waitlists & eligibility",
+        "value": "https://www.thecha.org/help-center"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlists",
+        "note": "Rolling — Public Housing, PBV, and PBRA waitlists are open; the HCV (tenant-based) waitlist is closed at this time"
+      }
+    ],
+    "description": "CHA serves 63,000+ low-income families through 21,000+ public-housing units and ~47,000 Housing Choice Vouchers across all 77 community areas. As of September 2026 the HCV waitlist is CLOSED, but Public Housing, Project-Based Voucher, and PBRA waitlists are OPEN — apply online, never pay a fee to join a waitlist. In-person help: CHA Client Center, 60 E. Van Buren St, Chicago, IL 60605 (central office closed to the public on Fridays).",
+    "eligibility": [
+      "At least one household member is a U.S. citizen or has eligible immigration status",
+      "Household income within HUD limits (public housing: at or below 80% of Area Median Income; 2026 limits published by household size)",
+      "Good history of paying rent on time; no money owed to CHA",
+      "Background check under Cook County Just Housing rules",
+      "Waitlist preferences available for veterans, people with disabilities, domestic-violence victims, and people experiencing homelessness"
+    ],
+    "id": "chi-cha-hcv",
+    "languages": [
+      "English"
+    ],
+    "name": "CHA Housing Choice Vouchers & Waitlists",
+    "prerequisites": [
+      "Apply online at applyonline.thecha.org",
+      "Applications are placed on waitlists by lottery; CHA never charges a fee",
+      "If selected from the waitlist, complete full eligibility screening"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.thecha.org/help-center",
+      "https://www.thecha.org/contact-us"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID for all adult household members",
+      "Proof of income (pay stubs, benefit letters)",
+      "Social Security cards",
+      "Birth certificates"
+    ]
+  },
+  {
+    "agency": "Chicago Department of Public Health",
+    "applyLinks": [
+      {
+        "label": "CDPH immunization clinics — locations & registration",
+        "url": "https://www.chicago.gov/content/city/en/depts/cdph/supp_info/clinical_health/immunization_clinics.html"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Chicago CareVan schedule line (verified on CDPH page)",
+        "value": "312-746-6181"
+      },
+      {
+        "kind": "email",
+        "label": "Vaccination help (verified on CDPH page)",
+        "value": "getvaxchi@chicago.gov"
+      },
+      {
+        "kind": "web",
+        "label": "CDPH Immunization Clinics — locations & registration",
+        "value": "https://www.chicago.gov/content/city/en/depts/cdph/supp_info/clinical_health/immunization_clinics.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-09-01",
+        "label": "2026–27 flu vaccine available",
+        "note": "Updated flu vaccine at CDPH clinics for any Chicago resident; updated 2026–27 COVID-19 vaccine expected sometime in fall 2026"
+      },
+      {
+        "date": null,
+        "label": "Vaccinations",
+        "note": "Rolling — walk-ins welcome year-round"
+      }
+    ],
+    "description": "Free childhood vaccines for children 0–18 whose parents/guardians can't pay (uninsured, underinsured, Medicaid/CHIP). Starting September 1, 2026, updated 2026–27 flu shots are available to ANY Chicago resident regardless of insurance; updated 2026–27 COVID-19 vaccines expected in fall 2026. Walk-ins welcome; registration encouraged at GetVaxChi. Clinic locations, hours, and the event calendar are listed on the official page; the mobile Chicago CareVan visits Head Start sites, schools, WIC centers, and community events.",
+    "eligibility": [
+      "Children 0–18 whose parents/guardians are unable to pay (uninsured, underinsured, Medicaid/CHIP) — routine childhood vaccines",
+      "All Chicago residents — flu, MMR, and Mpox vaccines",
+      "Updated 2026–27 flu vaccine (from September 1, 2026) for any Chicago resident regardless of insurance status",
+      "A parent/guardian should accompany minors; an adult 18+ must be present at the time of vaccination"
+    ],
+    "id": "chi-cdph",
+    "languages": [
+      "English"
+    ],
+    "name": "CDPH Immunization Clinics",
+    "prerequisites": [
+      "Register at GetVaxChi (registration encouraged; walk-ins welcome)",
+      "Bring your child's immunization record",
+      "Bring your insurance card if insured"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.chicago.gov/content/city/en/depts/cdph/supp_info/clinical_health/immunization_clinics.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Child's immunization (shot) record",
+      "Insurance card if you have one",
+      "Proof of Chicago residence may be requested"
+    ]
+  },
+  {
+    "agency": "United Way of Metro Chicago (with City of Chicago & Cook County)",
+    "applyLinks": [
+      {
+        "label": "Searchable resource directory & live chat",
+        "url": "https://211metrochicago.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "2-1-1 — 24/7 helpline (verified on 211metrochicago.org)",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "phone",
+        "label": "Resource Navigators (verified on 211metrochicago.org)",
+        "value": "(773) 362-4401"
+      },
+      {
+        "kind": "web",
+        "label": "Resource directory & live chat — text ZIP to 898-211",
+        "value": "https://211metrochicago.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Helpline",
+        "note": "Rolling — available 24/7/365"
+      }
+    ],
+    "description": "Free 24/7/365 helpline connecting Chicago and suburban Cook County residents to local help — housing, food, utility assistance, mental-health and substance-use services, and more. Call 2-1-1, text your ZIP code to 898-211, or use the live-chat directory at 211metrochicago.org.",
+    "eligibility": [
+      "Live in Chicago or suburban Cook County",
+      "Open to everyone — no income or documentation requirement to call"
+    ],
+    "id": "chi-211",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Metro Chicago",
+    "prerequisites": [
+      "Dial 2-1-1 from any phone, or call (773) 362-4401",
+      "Or text your ZIP code to 898-211, or use the website live chat",
+      "Have your ZIP code and a brief description of your need ready"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://211metrochicago.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Your ZIP code",
+      "A list of what you need help with",
+      "Any deadlines you're facing (eviction date, shutoff notice)"
+    ]
+  },
+  {
+    "agency": "Chicago Public Library",
+    "applyLinks": [
+      {
+        "label": "Borrow a WiFi hotspot from CPL",
+        "url": "https://www.chipublib.org/news/borrow-a-wifi-hotspot-from-chicago-public-library/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Borrow a WiFi hotspot — branch list & FAQs",
+        "value": "https://www.chipublib.org/news/borrow-a-wifi-hotspot-from-chicago-public-library/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Hotspot lending",
+        "note": "Rolling — reserve online or by phone at a lending branch"
+      }
+    ],
+    "description": "Borrow a free portable WiFi hotspot from Chicago Public Library for home internet — it works anywhere on the T-Mobile network. Check out a hotspot for three weeks (renewable up to 15 times). Available at 18 branches: Austin, Brighton Park, Canaryville, Chicago Lawn, Chinatown, Daley (W. Humboldt), Douglass, Dunning, Greater Grand Crossing, Jeffrey Manor, King, Legler Regional, North Pulaski, Sherman Park, Vodak–East Side, West Lawn, West Pullman, and Woodson Regional. All CPL locations also offer free computers, printing, scanning, and WiFi in-branch.",
+    "eligibility": [
+      "Chicago Public Library cardholder",
+      "Chicago resident, age 14 or older"
+    ],
+    "id": "chi-library",
+    "languages": [
+      "English"
+    ],
+    "name": "CPL Internet to Go — Free WiFi Hotspot Lending",
+    "prerequisites": [
+      "Get a free CPL library card (available at any branch)",
+      "Reserve a hotspot online or by phone at one of the 18 lending branches",
+      "Pick up and return at the circulation desk of the branch where it was checked out"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "city",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.chipublib.org/news/borrow-a-wifi-hotspot-from-chicago-public-library/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "CPL library card",
+      "Photo ID to get a library card (if you don't have one yet)"
+    ]
+  },
+  {
+    "agency": "Community and Economic Development Association of Cook County (CEDA)",
+    "applyLinks": [
+      {
+        "label": "Find a CEDA intake site near you",
+        "url": "https://cedaorg.net/en/locations-map?service=gas-and-electric"
+      },
+      {
+        "label": "State LIHEAP information (Illinois DCEO)",
+        "url": "https://dceo.illinois.gov/communityservices/homeweatherization/communityactionagencies/helpillinoisfamilies.html"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CEDA toll-free hotline",
+        "value": "(800) 571-2332"
+      },
+      {
+        "kind": "phone",
+        "label": "CEDA general inquiries",
+        "value": "(312) 782-2332"
+      },
+      {
+        "kind": "in-person",
+        "label": "CEDA office (NOT an intake site — applications are not taken here)",
+        "value": "567 W. Lake St., Suite 1200, Chicago, IL 60661 — Mon–Fri 8:30am–7:00pm (Maps-listed hours)"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Priority applications open",
+        "note": "Older adults 60+, people with disabilities, families with a child under 6, and households disconnected or facing imminent disconnection"
+      },
+      {
+        "date": "2026-11-01",
+        "label": "All income-eligible households",
+        "note": "Open to every income-eligible household"
+      },
+      {
+        "date": "2027-08-15",
+        "label": "Program year ends",
+        "note": "Or earlier if funds are exhausted"
+      }
+    ],
+    "description": "LIHEAP helps income-eligible Cook County households pay natural gas, propane, and electric bills with a one-time benefit paid directly to the utility. It can also cover reconnection assistance and furnace repair or replacement for qualifying homeowners.",
+    "eligibility": [
+      "Live in Cook County",
+      "30-day gross household income at or below 60% of state median income",
+      "Be responsible for paying the home's energy costs",
+      "Households may apply regardless of immigration status",
+      "Priority enrollment from Oct 1 for adults 60+, people with disabilities, families with a child under 6, and disconnected households"
+    ],
+    "id": "cook-ceda-liheap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "LIHEAP Utility Bill Assistance",
+    "prerequisites": [
+      "Apply through a CEDA partner intake site or CEDA's online application",
+      "LIHEAP-PIPP payment-plan applications must be completed with a partner intake site, not online"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://dceo.illinois.gov/communityservices/homeweatherization/communityactionagencies/ceda.html",
+      "https://dceo.illinois.gov/communityservices/homeweatherization/communityactionagencies/helpillinoisfamilies.html",
+      "https://dceo.illinois.gov/content/dam/soi/en/web/dceo/communityservices/utilitybillassistance/documents/draft-fy27-liheap-state-plan-liheap-model-plan.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of past 30-day income for all household members (pay stubs, or SSA/VA/DHS benefit letters)",
+      "Current utility bill for the help you are seeking",
+      "Social Security card or ITIN for residents who have them (you can still apply without one)"
+    ]
+  },
+  {
+    "agency": "Community and Economic Development Association of Cook County (CEDA)",
+    "applyLinks": [
+      {
+        "label": "Home Weatherization program page and application",
+        "url": "https://www.cedaorg.net/en/find-services/home-weatherization"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CEDA toll-free line",
+        "value": "(800) 571-2332"
+      },
+      {
+        "kind": "in-person",
+        "label": "CEDA partner intake sites",
+        "value": "Find the closest intake site at cedaorg.net/sites"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime; eligible households may be placed on a waiting list depending on funding"
+      }
+    ],
+    "description": "Free energy-efficiency upgrades for income-qualified homes — sealing drafts, insulating attics, walls and basements, repairing or replacing heating systems, and improving ventilation — to lower energy bills and make homes safer and more comfortable.",
+    "eligibility": [
+      "Meet CEDA's published income guidelines (e.g. 1-person household: $31,920/yr; 2-person: $43,280; 4-person: $66,000)",
+      "Live in a single-family or multi-family home that meets minimum structural requirements",
+      "Automatically income-qualify if you receive SSI or an approved LIHEAP benefit"
+    ],
+    "id": "cook-ceda-wap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Home Weatherization Assistance",
+    "prerequisites": [
+      "Apply online through the DCEO pre-application on CEDA's page, call the toll-free line, or visit a CEDA partner intake site",
+      "Buildings with 5 or more units: contact CEDA directly"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.cedaorg.net/en/find-services/home-weatherization",
+      "https://tubr.cedaorg.net/public/laa/v2"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of 30-day gross income for all household members 18 and older",
+      "Current gas and electric bills",
+      "State-issued ID or driver's license for the head of household",
+      "Proof of Social Security numbers for all household members",
+      "Proof of home ownership (property tax bill, mortgage statement, recorded deed, or mobile home title)"
+    ]
+  },
+  {
+    "agency": "Cook County Health",
+    "applyLinks": [
+      {
+        "label": "CareLink program page",
+        "url": "https://cookcountyhealth.org/carelink/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Financial counselors (set up an appointment)",
+        "value": "(866) 223-2817"
+      },
+      {
+        "kind": "phone",
+        "label": "Cook County Health appointments",
+        "value": "(312) 864-0200"
+      },
+      {
+        "kind": "in-person",
+        "label": "Any Cook County Health facility with a Financial Counselor",
+        "value": "e.g. John H. Stroger, Jr. Hospital, 1901 W. Harrison St., Chicago, IL"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime; eligibility lasts up to 12 months, then you must reapply each year"
+      }
+    ],
+    "description": "CareLink is Cook County Health's financial assistance program. It discounts medical care at Cook County Health facilities on a sliding scale based on income — for uninsured and underinsured Cook County residents, regardless of immigration status. It is not insurance and is a payer of last resort after Medicaid and other programs.",
+    "eligibility": [
+      "Cook County resident (at least 30 days before applying)",
+      "Annual family income at or below 600% of the federal poverty guidelines",
+      "Uninsured, or underinsured with a plan where Cook County Health is in-network",
+      "Ineligible for Medicaid or other public health coverage"
+    ],
+    "id": "cook-health-carelink",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "CareLink Financial Assistance",
+    "prerequisites": [
+      "Apply in person with a Financial Counselor at any Cook County Health location",
+      "You can apply before or after being seen for care",
+      "Eligibility is decided during your meeting with the counselor"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://cookcountyhealth.org/carelink/",
+      "https://cookcountyhealth.org/wp-content/uploads/CareLink_Use_and_Renewal_FAQs_032224.pdf",
+      "https://cookcountyhealth.org/wp-content/uploads/Financial-Assistance-Policy-_English.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identification: passport, green card, birth certificate, or photo ID",
+      "Income: paycheck stubs, a signed letter from your employer, or a paid-in-cash form",
+      "Proof of Cook County address: utility bill, phone bill, bank statement, or letter from a church"
+    ]
+  },
+  {
+    "agency": "Cook County Bureau of Economic Development (with the Chicago Bar Foundation, Circuit Court of Cook County, and legal aid partners)",
+    "applyLinks": [
+      {
+        "label": "Cook County Legal Aid for Housing and Debt",
+        "url": "https://www.cookcountylegalaid.org"
+      },
+      {
+        "label": "County service page",
+        "url": "https://www.cookcountyil.gov/service/cook-county-legal-aid-housing-and-debt-cclahd"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Eviction and Consumer Debt Helpline",
+        "value": "(855) 956-5763 — Mon–Fri 9:00am–4:30pm"
+      },
+      {
+        "kind": "phone",
+        "label": "Mortgage Foreclosure Mediation Program Helpline",
+        "value": "(855) 452-2637 — Mon–Fri 8:30am–5:30pm"
+      },
+      {
+        "kind": "phone",
+        "label": "CARPLS Legal Aid Hotline (general civil legal advice and referrals)",
+        "value": "(312) 738-9200 — Mon–Fri 9:00am–4:30pm (until 7:30pm Mon & Wed)"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — call the helplines anytime during hours"
+      }
+    ],
+    "description": "Free legal help for Cook County residents: tenants facing eviction, small landlords dealing with eviction issues, homeowners behind on mortgages or property taxes, and people with consumer debt problems. Services include legal advice, pre-court mediation, counseling, and case management.",
+    "eligibility": [
+      "Cook County resident or property owner",
+      "Free regardless of income status"
+    ],
+    "id": "cook-legalaid",
+    "languages": [
+      "English",
+      "Spanish",
+      "Polish"
+    ],
+    "name": "Cook County Legal Aid for Housing and Debt (CCLAHD)",
+    "prerequisites": [
+      "Call the helpline that matches your issue during its hours",
+      "Services are also available through community partner organizations"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.cookcountyil.gov/service/cook-county-legal-aid-housing-and-debt-cclahd",
+      "https://www.cookcountylegalaid.org",
+      "https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/documents/2026-04/Cook%20County%20Additional%20Resources_2026.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Court papers, eviction notices, or summons",
+      "Lease or rental agreement",
+      "Mortgage statements or property tax bills (for foreclosure/tax issues)",
+      "Debt collection letters or bills (for consumer debt issues)"
+    ]
+  },
+  {
+    "agency": "Veterans Assistance Commission of Cook County",
+    "applyLinks": [
+      {
+        "label": "Cook County Veterans Affairs spotlight on the VAC",
+        "url": "https://content.govdelivery.com/accounts/ILCOOK/bulletins/30bcafd"
+      },
+      {
+        "label": "VAC services flyer (Village of Bellwood)",
+        "url": "https://www.vil.bellwood.il.us/veterans-assistance-commission-of-cook-county/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VAC office",
+        "value": "(312) 433-6010"
+      },
+      {
+        "kind": "in-person",
+        "label": "VAC office",
+        "value": "1100 S. Hamilton Ave., lower level, Chicago, IL 60612 — Mon–Fri 8:30am–4:00pm; sign-in closes at 3:00pm sharp; closed for lunch 12:45–1:30pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — walk in during office hours; sign-in window closes at 3:00pm sharp"
+      }
+    ],
+    "description": "Emergency financial assistance for eligible Cook County veterans and their families: help with rent or mortgage, utilities, food, transportation, burial costs, and military records — plus a veterans service officer who helps file VA benefits, disability, and discharge-upgrade claims.",
+    "eligibility": [
+      "Veteran with an honorable discharge",
+      "Cook County resident"
+    ],
+    "id": "cook-vac",
+    "languages": [
+      "English"
+    ],
+    "name": "Veterans Assistance Commission Emergency Aid",
+    "prerequisites": [
+      "Walk in Monday–Friday; arrive before the 3:00pm sign-in cutoff",
+      "Bring discharge, income, and billing documents to speed up service"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://content.govdelivery.com/accounts/ILCOOK/bulletins/30bcafd",
+      "https://www.vil.bellwood.il.us/veterans-assistance-commission-of-cook-county/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD214 showing honorable discharge",
+      "VA rating or award letter",
+      "Household income verification (two current pay stubs, pension, unemployment, Social Security, or GI Bill)",
+      "Current Illinois driver's license or photo ID",
+      "Billing statements reflecting the help you need"
+    ]
+  },
+  {
+    "agency": "Housing Authority of Cook County (HACC)",
+    "applyLinks": [
+      {
+        "label": "HACC homepage — watch for Open Waitlists",
+        "url": "https://thehacc.org/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HACC main line",
+        "value": "(312) 663-5447"
+      },
+      {
+        "kind": "in-person",
+        "label": "HACC office",
+        "value": "10 S. LaSalle St., Suite 2200, Chicago, IL 60603"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist openings",
+        "note": "Waitlists open periodically based on occupancy; sign up for waitlist alerts on thehacc.org. Recent example: a project-based voucher waitlist opened May 13–15, 2026 with a lottery."
+      }
+    ],
+    "description": "HACC provides rental assistance and affordable housing across suburban Cook County — Housing Choice Vouchers, project-based vouchers, and public housing — serving more than 15,000 households in 108 communities. New applicants join property waitlists that open periodically (online applications only, lottery-selected).",
+    "eligibility": [
+      "Income limits vary by program; project-based voucher waitlists use the very-low-income limit (50% of area median income, e.g. 1-person $42,000; 2-person $48,000; 4-person $59,950)",
+      "Housing is in suburban Cook County (the City of Chicago is served by the Chicago Housing Authority)"
+    ],
+    "id": "cook-hacc",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "HACC Rental Assistance (Housing Choice Vouchers)",
+    "prerequisites": [
+      "Apply online only while a waitlist is open — no paper or in-person applications accepted",
+      "Selected applicants are chosen by computer-generated lottery"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://thehacc.org/",
+      "https://thehacc.org/app/uploads/2026/04/WL-Ad-for-Poupard-Place-1.pdf-1.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Government-issued photo ID for adult household members",
+      "Proof of household income",
+      "Social Security numbers for household members",
+      "Specific documents are listed in each waitlist announcement"
+    ]
+  },
+  {
+    "agency": "Cook County Department of Public Health (CCDPH)",
+    "applyLinks": [
+      {
+        "label": "CCDPH vaccination clinics schedule and registration",
+        "url": "https://cookcountypublichealth.org/communicable-diseases/vaccination-clinics/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "CCDPH vaccination questions",
+        "value": "healthycook@cookcountyhhs.org"
+      },
+      {
+        "kind": "phone",
+        "label": "Year-round vaccines at Cook County Health locations",
+        "value": "(312) 864-0200"
+      },
+      {
+        "kind": "web",
+        "label": "Clinic schedule and registration",
+        "value": "https://cookcountypublichealth.org/communicable-diseases/vaccination-clinics/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-10-15",
+        "label": "Back-to-school clinic season",
+        "note": "Free back-to-school immunizations run July through mid-October 2026 (upcoming: Sep 19 in Countryside, Sep 27 in Hillside); Illinois students need proof of immunization by Oct 15"
+      }
+    ],
+    "description": "Free back-to-school immunizations for suburban Cook County children ages 6 months to 18, regardless of immigration or insurance status, plus free flu and COVID-19 shots at Saturday clinics each fall and winter. Note: CCDPH serves suburban Cook County — City of Chicago residents use the Chicago Department of Public Health.",
+    "eligibility": [
+      "Suburban Cook County children ages 6 months to 18 years for back-to-school clinics",
+      "No insurance required; immigration status does not affect eligibility"
+    ],
+    "id": "cook-dph",
+    "languages": [
+      "English"
+    ],
+    "name": "Free Vaccination Clinics",
+    "prerequisites": [
+      "Registration encouraged; walk-ins welcome at community clinic events"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://cookcountypublichealth.org/communicable-diseases/vaccination-clinics/",
+      "https://cookcountypublichealth.org/?p=987516503"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "A form of ID and insurance card if you have them (insurance is not required)"
+    ]
+  },
+  {
+    "agency": "Cook County Assessor's Office",
+    "applyLinks": [
+      {
+        "label": "Exemptions page — apply or renew online",
+        "url": "https://www.cookcountyassessoril.gov/senior-freeze-exemption"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Mail paper applications",
+        "value": "118 N. Clark St., Room 320, Chicago, IL 60602"
+      },
+      {
+        "kind": "phone",
+        "label": "Cook County Treasurer — Senior Citizen's Tax Deferral program",
+        "value": "(312) 443-5100"
+      },
+      {
+        "kind": "web",
+        "label": "Check your exemptions and application status",
+        "value": "https://www.cookcountyassessoril.gov/senior-freeze-exemption"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual filing period",
+        "note": "Senior Freeze must be reapplied for every year during the normal spring filing period; the 2025 filing period has ended, so late applications are processed as Certificates of Error"
+      }
+    ],
+    "description": "Property-tax savings for Cook County homeowners: the Homeowner Exemption for anyone whose home is their principal residence (auto-renews), the Senior Exemption for homeowners 65 and older (auto-renews), and the Senior Freeze, which freezes the assessed value for seniors with household income of $65,000 or less — but it must be reapplied for every year.",
+    "eligibility": [
+      "Homeowner Exemption: property is your principal place of residence",
+      "Senior Exemption: age 65 or older, property is your principal residence",
+      "Senior Freeze: born in 1960 or earlier, total household income of $65,000 or less, and own and occupy the home as your principal residence"
+    ],
+    "id": "cook-assessor-exempt",
+    "languages": [
+      "English",
+      "Spanish",
+      "Polish",
+      "Chinese"
+    ],
+    "name": "Property Tax Exemptions (Homeowner, Senior, Senior Freeze)",
+    "prerequisites": [
+      "Apply online or by mail; have your Property Index Number (PIN) ready",
+      "Senior Freeze is an annual filing — it does not auto-renew"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.cookcountyassessoril.gov/senior-freeze-exemption",
+      "https://www.cookcountyassessoril.gov/senior-citizen-exemption"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID (Illinois driver's license/ID, Matrícula Consular, Chicago city ID, or passport)",
+      "Occupancy affidavit (included in the online application)",
+      "Proof of property tax liability if you are not on the recorded deed",
+      "Income verification — or proof of enrollment in SNAP, LIHEAP, AABD, Benefit Access, or the Tax Deferral program instead"
+    ]
+  },
+  {
+    "agency": "The Chicago Cook Workforce Partnership",
+    "applyLinks": [
+      {
+        "label": "The Partnership homepage",
+        "url": "https://chicookworks.org/"
+      },
+      {
+        "label": "Find an American Job Center near you",
+        "url": "https://levelupajc.org/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get connected to services at an American Job Center",
+        "value": "https://levelupajc.org/"
+      },
+      {
+        "kind": "web",
+        "label": "Programs, hiring events, and annual report",
+        "value": "https://chicookworks.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — connect with an American Job Center anytime"
+      }
+    ],
+    "description": "Free job training, career coaching, resume help, and hiring connections through a network of more than 90 community organizations and American Job Centers across Chicago and Cook County — including tuition vouchers (Individual Training Accounts) for in-demand credentials, registered apprenticeships, and youth career programs.",
+    "eligibility": [
+      "Job seekers in Chicago and Cook County",
+      "Training vouchers and apprenticeships have their own eligibility screening through a Job Center"
+    ],
+    "id": "cook-workforce",
+    "languages": [
+      "English"
+    ],
+    "name": "Job Training and Employment Services",
+    "prerequisites": [
+      "Connect with an American Job Center in the network to get started"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "county",
+      "state": "IL"
+    },
+    "sources": [
+      "https://chicookworks.org/",
+      "https://www.chicago.gov/content/city/en/sites/community-safety/home/office-of-reentry/jobs-and-workforce-training.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Work authorization documents (the Job Center will confirm what is needed for your program)"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services (IDHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — ABE (Application for Benefits Eligibility)",
+        "url": "https://abe.illinois.gov/"
+      },
+      {
+        "label": "SNAP program info — IDHS",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=30357"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDHS Help Line (verified on dhs.state.il.us)",
+        "value": "1-800-843-6154"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDHS office — Office (Maps-listed, unverified)",
+        "value": "2650 W Fulton St, Chicago, IL 60612 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Monthly food benefits for low-income households, loaded onto the Illinois Link Card accepted at most grocery stores. Emergency SNAP benefits can be ready within 5 days of applying. Apply online through ABE or at a local IDHS Family Community Resource Center.",
+    "eligibility": [
+      "Low-income households; monthly gross income limits vary by household size (updated 10/1/2025)",
+      "Most households with low income can qualify — use the SNAP Eligibility Calculator for an estimate",
+      "Some federal restrictions apply (e.g., certain non-citizens, most strikers)"
+    ],
+    "id": "il-dhs-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois SNAP — Food Assistance",
+    "prerequisites": [
+      "Apply online through ABE (Application for Benefits Eligibility)",
+      "Or apply in person at the Family Community Resource Center serving your area",
+      "Your application is reviewed by IDHS staff before benefits are approved"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.dhs.state.il.us/page.aspx?item=30357",
+      "https://abe.illinois.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income, expenses, and household information (IDHS may ask for proof of certain information)"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services (IDHS)",
+    "applyLinks": [
+      {
+        "label": "WIC program info & how to sign up — IDHS",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=147345"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State WIC Office (verified on dhs.state.il.us)",
+        "value": "(217) 782-2166"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDHS office — Office (Maps-listed, unverified)",
+        "value": "2650 W Fulton St, Chicago, IL 60612 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Nutrition counseling, breastfeeding support, and healthy foods — fruits and vegetables, whole grains, dairy, eggs, and infant foods — for pregnant and postpartum people, infants, and children under 5 who meet income and nutrition requirements.",
+    "eligibility": [
+      "Pregnant or recently had a baby, including miscarriage or stillbirth in the last 6 months",
+      "Infants and children under 5 years old (including foster children)",
+      "Meet WIC income guidelines (current for July 1, 2026 through June 30, 2027)"
+    ],
+    "id": "il-dhs-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois WIC — Women, Infants & Children",
+    "prerequisites": [
+      "Use the DHS Office Locator to find your local WIC office",
+      "Make an appointment — WIC staff determine eligibility at the appointment"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.dhs.state.il.us/page.aspx?item=147345"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "The papers or documents the WIC office tells you to bring when you make the appointment"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Healthcare and Family Services (HFS)",
+    "applyLinks": [
+      {
+        "label": "Who can get Illinois Medicaid & how to apply — HFS",
+        "url": "http://hfs.illinois.gov/medicalclients/medicaidguide/apply.html"
+      },
+      {
+        "label": "Apply online — ABE (Application for Benefits Eligibility)",
+        "url": "https://abe.illinois.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDHS Help Line — DHS takes medical assistance applications (verified on dhs.state.il.us)",
+        "value": "1-800-843-6154"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDHS office — Office (Maps-listed, unverified)",
+        "value": "2650 W Fulton St, Chicago, IL 60612 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Health coverage for qualifying Illinois residents — including children under 19, pregnant women, adults ages 19–64 with limited income, seniors 65+, people with disabilities, and foster children. If you're not sure you qualify, apply anyway: there is no penalty for applying.",
+    "eligibility": [
+      "Illinois residents meeting income and other eligibility criteria",
+      "May include: pregnant women, children under 19, adults 19–64 with limited income, seniors 65+, people with disabilities, foster children",
+      "Income limits vary by eligibility category, based on federal poverty levels"
+    ],
+    "id": "il-hfs-medicaid",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Medicaid",
+    "prerequisites": [
+      "Apply online through ABE (Application for Benefits Eligibility)",
+      "There is no penalty for applying, even if you are not found eligible"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "http://hfs.illinois.gov/medicalclients/medicaidguide/apply.html",
+      "https://abe.illinois.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Household, income, and current coverage information needed to complete the application"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services (IDHS)",
+    "applyLinks": [
+      {
+        "label": "TANF program info & how to apply — IDHS",
+        "url": "http://www.dhs.state.il.us/page.aspx?item=30358"
+      },
+      {
+        "label": "Apply online — ABE (Application for Benefits Eligibility)",
+        "url": "https://abe.illinois.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS Help Line (verified on dhs.state.il.us)",
+        "value": "1-800-843-6154"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS Help Line TTY (verified on dhs.state.il.us)",
+        "value": "1-866-324-5553"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDHS office — Office (Maps-listed, unverified)",
+        "value": "2650 W Fulton St, Chicago, IL 60612 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Time-limited monthly cash assistance for basic needs — food, shelter, utilities — for pregnant women and families with dependent children, plus transitional services like GED preparation, vocational training, child-care help, and job placement. Benefits are issued through Illinois Link.",
+    "eligibility": [
+      "Pregnant or have a child under 19 living with you (an 18-year-old must be a full-time high school student)",
+      "Live in Illinois — you can be homeless and still qualify",
+      "U.S. citizen or meet certain immigration requirements",
+      "Develop a plan for becoming self-sufficient and follow it"
+    ],
+    "id": "il-dhs-tanf",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois TANF — Temporary Cash Assistance",
+    "prerequisites": [
+      "Apply online or at the Family Community Resource Center serving your area",
+      "Cash and SNAP benefits are issued through Illinois Link"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "http://www.dhs.state.il.us/page.aspx?item=30358",
+      "https://abe.illinois.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identification and household information (the office will tell you what documents are needed)"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services (IDHS)",
+    "applyLinks": [
+      {
+        "label": "Get Help Paying for Child Care — Digital CCAP Application",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=32192"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CCAP info & Digital CCAP Application — IDHS",
+        "value": "https://www.dhs.state.il.us/page.aspx?item=32192"
+      }
+    ],
+    "cost": "Free to apply; a parent co-payment may apply based on income",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Help paying for child care for children up to age 13 while parents work or attend school or training. Eligibility depends on children's ages, family income, and schedule. First-time applications are easiest through the Digital CCAP Application from any smartphone, tablet, or computer.",
+    "eligibility": [
+      "Families with children up to age 13",
+      "Parent or caregiver is working or attending school/training",
+      "Eligibility depends on family size, gross income, and schedule — check the CCAP eligibility calculator"
+    ],
+    "id": "il-dhs-ccap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Child Care Assistance Program (CCAP)",
+    "prerequisites": [
+      "Apply through the Digital CCAP Application",
+      "Eligibility is determined by your local Child Care Resource & Referral (CCR&R) agency"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.dhs.state.il.us/page.aspx?item=32192",
+      "https://www.dhs.state.il.us/page.aspx?item=87068"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Income, work or school schedule, and children's information needed for the application"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Employment Security (IDES)",
+    "applyLinks": [
+      {
+        "label": "File an Unemployment Claim — IDES",
+        "url": "https://ides.illinois.gov/unemployment/file-a-claim.html"
+      },
+      {
+        "label": "Unemployment Insurance — IDES",
+        "url": "https://ides.illinois.gov/unemployment"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File an Unemployment Claim — IDES",
+        "value": "https://ides.illinois.gov/unemployment/file-a-claim.html"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDES office — Office (Maps-listed, unverified)",
+        "value": "1700 W 18th St, Chicago, IL 60608 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — file as soon as you become unemployed"
+      }
+    ],
+    "description": "Unemployment insurance benefits for workers who lose their jobs. File your claim online through IDES, then certify on schedule to keep benefits coming. Claimant guides are available in Spanish, Polish, Chinese, Arabic, Tagalog, and Hindi.",
+    "eligibility": [
+      "Unemployed workers — file a claim online to start the process",
+      "After filing, review Eligibility & Next Steps and certify for benefits on time"
+    ],
+    "id": "il-ides-ui",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Unemployment Insurance",
+    "prerequisites": [
+      "File a claim online through IDES",
+      "After filing, return to the IDES page and review Eligibility & Next Steps"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://ides.illinois.gov/unemployment",
+      "https://ides.illinois.gov/unemployment/file-a-claim.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Employment history and personal information needed to complete the claim application"
+    ]
+  },
+  {
+    "agency": "Illinois Housing Development Authority (IHDA)",
+    "applyLinks": [
+      {
+        "label": "Rental Housing Support (RHS) Program — IHDA",
+        "url": "https://www.ihda.org/rental-housing-main/rhsrp/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RHS Program — participating properties & contacts",
+        "value": "https://www.ihda.org/rental-housing-main/rhsrp/"
+      },
+      {
+        "kind": "in-person",
+        "label": "IHDA — Office (Maps-listed, unverified)",
+        "value": "111 E Wacker Dr, Chicago, IL 60601 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free to apply; tenant rent share varies by property and income",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — contact a participating property or Local Administering Agency"
+      }
+    ],
+    "description": "State rental assistance for extremely low-income households living in participating properties. IHDA administers the program through Local Administering Agencies — check the current listing of participating properties and contacts to find one near you.",
+    "eligibility": [
+      "Extremely low-income households",
+      "Live in a participating RHS property — see IHDA's listing of participating properties and contacts"
+    ],
+    "id": "il-ihda-housing",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "IHDA Rental Housing Support (RHS) Program",
+    "prerequisites": [
+      "Contact a participating property or its Local Administering Agency (listings on the IHDA page)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.ihda.org/rental-housing-main/rhsrp/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Household income documentation"
+    ]
+  },
+  {
+    "agency": "Illinois Department on Aging",
+    "applyLinks": [
+      {
+        "label": "Find Assistance in My Home & Community for Seniors — illinois.gov",
+        "url": "https://www.illinois.gov/services/service.assistance-seniors.html"
+      },
+      {
+        "label": "Community Care Program details — IL Dept on Aging",
+        "url": "https://ilaging.illinois.gov/programs/comprehensive-care-in-residential-settings.html"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior Helpline (listed on the IL Dept on Aging's official profile)",
+        "value": "1-800-252-8966"
+      },
+      {
+        "kind": "in-person",
+        "label": "Chicago Dept on Aging office — Office (Maps-listed, unverified)",
+        "value": "6117 S Kedzie Ave, Chicago, IL 60629 — Mon–Fri 9:30am–5:30pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime through a Care Coordination Unit"
+      }
+    ],
+    "description": "In-home, adult day, and emergency home response services that help Illinoisans age 60+ with an assessed need for long-term care stay in their homes and communities instead of moving to a nursing facility. Services are coordinated locally by Care Coordination Units (CCUs).",
+    "eligibility": [
+      "Illinois residents age 60 or older",
+      "Assessed need for long-term care (at risk of nursing facility placement)",
+      "Services coordinated locally by Care Coordination Units (CCUs) in the Aging Network"
+    ],
+    "id": "il-doa-ccp",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Community Care Program (CCP)",
+    "prerequisites": [
+      "Contact a local Care Coordination Unit — use the Department on Aging's map tool to find yours"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.illinois.gov/services/service.assistance-seniors.html",
+      "https://ilaging.illinois.gov/programs/comprehensive-care-in-residential-settings.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Information about health needs and difficulties with daily tasks for the needs assessment"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services — Division of Rehabilitation Services (DRS)",
+    "applyLinks": [
+      {
+        "label": "Division of Rehabilitation Services — IDHS",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=170120"
+      },
+      {
+        "label": "DRS Fact Sheet (DHS 4029) — IDHS",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=57374"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DRS — Voice (verified on dhs.state.il.us)",
+        "value": "877-761-9780"
+      },
+      {
+        "kind": "phone",
+        "label": "DRS — video phone (VP) (verified on dhs.state.il.us)",
+        "value": "312-957-4881"
+      },
+      {
+        "kind": "phone",
+        "label": "Dial 711 for the telephone relay operator (verified on dhs.state.il.us)",
+        "value": "711"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDHS office — Office (Maps-listed, unverified)",
+        "value": "2650 W Fulton St, Chicago, IL 60612 — Mon–Fri 8:30am–5:00pm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Illinois' lead agency for people with disabilities: one-on-one help preparing for, finding, and keeping quality employment; home services that support independent living; educational services including three residential schools; and disability determinations for SSDI/SSI.",
+    "eligibility": [
+      "Illinois residents with disabilities",
+      "Vocational rehabilitation: people with disabilities preparing for, finding, or maintaining employment",
+      "Home services: people with the most significant disabilities who want to live independently at home"
+    ],
+    "id": "il-dhs-drs",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "IDHS Division of Rehabilitation Services (DRS)",
+    "prerequisites": [
+      "Contact a local DRS office — 46 local offices statewide",
+      "Or apply for services online via the DRS website"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.dhs.state.il.us/page.aspx?item=170120",
+      "https://www.dhs.state.il.us/page.aspx?item=57374"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Documentation of your disability and your employment or education goals"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Veterans Affairs (IDVA)",
+    "applyLinks": [
+      {
+        "label": "Veteran Service Officers — IDVA",
+        "url": "https://veterans.illinois.gov/serviceoffices.html"
+      },
+      {
+        "label": "IDVA benefits overview",
+        "url": "https://veterans.illinois.gov/services-benefits/benefits.html"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDVA (listed on IDVA's official profile)",
+        "value": "1-800-437-9824"
+      },
+      {
+        "kind": "in-person",
+        "label": "IDVA — Office (Maps-listed, unverified)",
+        "value": "69 W Washington St, 16th floor, Chicago, IL 60602"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — request help anytime"
+      }
+    ],
+    "description": "Free, accredited help from Veteran Service Officers — fellow veterans who are experts on federal, state, and local benefits: compensation and pension, health care, education and training, employment, housing, burial and survivor benefits, and military records. No benefits require face-to-face interaction; remote help is available.",
+    "eligibility": [
+      "Veterans, their dependents, and survivors",
+      "Free assistance from VSOs trained and accredited by the U.S. Department of Veterans Affairs"
+    ],
+    "id": "il-idva",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "IDVA Veteran Service Officers",
+    "prerequisites": [
+      "Find a VSO with the VSO Lookup, or submit a VSO Support Request to be contacted by a VSO"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://veterans.illinois.gov/serviceoffices.html",
+      "https://veterans.illinois.gov/services-benefits/benefits.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Military discharge paperwork (DD-214) if available, plus any benefit documents"
+    ]
+  },
+  {
+    "agency": "Illinois Student Assistance Commission (ISAC)",
+    "applyLinks": [
+      {
+        "label": "MAP Program Overview — ISAC",
+        "url": "https://www.isac.org/isac-gift-assistance-programs/map/program-overview-map.html"
+      },
+      {
+        "label": "Applying for MAP — ISAC",
+        "url": "https://www.isac.org/isac-gift-assistance-programs/map/applying-for-map/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ISAC — 800.899.ISAC (verified on isac.org)",
+        "value": "800-899-4722"
+      },
+      {
+        "kind": "in-person",
+        "label": "ISAC office (verified on isac.org)",
+        "value": "1755 Lake Cook Road, Deerfield, IL 60015-5209"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Apply early — funding is limited; returning recipients get priority by filing before ISAC's annual priority deadline"
+      }
+    ],
+    "description": "Need-based grants applied toward tuition and mandatory fees for eligible Illinois undergraduates at approved in-state colleges. For Illinois residents the FAFSA is the MAP application. Note (verified 2026-09-18): per a July 24, 2026 federal court ruling, undocumented students are not eligible for 2026-27 ISAC aid and the 2026-27 Alternative Application is unavailable; the 2027-28 Alternative Application is scheduled for release October 1, 2026.",
+    "eligibility": [
+      "Illinois residents demonstrating financial need",
+      "Undergraduate students at approved Illinois public/private colleges, universities, hospital schools, and certain degree-granting institutions",
+      "Complete the FAFSA as soon as possible after it becomes available — funding is limited, so apply early"
+    ],
+    "id": "il-isac-map",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois MAP Grant — Monetary Award Program",
+    "prerequisites": [
+      "File the FAFSA — it doubles as the MAP application for Illinois residents",
+      "Alternative Application for Illinois Financial Aid: 2026-27 unavailable per July 2026 court ruling; 2027-28 version scheduled for release October 1, 2026 (see isac.org/AlternativeApp)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.isac.org/isac-gift-assistance-programs/map/program-overview-map.html",
+      "https://www.isac.org/isac-gift-assistance-programs/map/applying-for-map/",
+      "https://www.isac.org/isac-gift-assistance-programs/map/applying-for-map/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Financial information needed to complete the FAFSA"
+    ]
+  },
+  {
+    "agency": "Illinois Secretary of State",
+    "applyLinks": [
+      {
+        "label": "Illinois Secretary of State — Driver & ID Services",
+        "url": "https://www.ilsos.gov/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Chicago Central SOS Facility — Office (Maps-listed, unverified)",
+        "value": "160 N La Salle St, Chicago, IL 60601 — Mon–Fri 7:30am–5:00pm"
+      },
+      {
+        "kind": "web",
+        "label": "Do it online — renewals, replacements & more",
+        "value": "https://www.ilsos.gov/"
+      }
+    ],
+    "cost": "Fees apply — vary by credential; check ilsos.gov for current fees",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Driver's licenses and state ID cards — first-time, renewal, replacement, and REAL ID. Skip the line: many services, including renewals and replacements, can be done online at ilsos.gov.",
+    "eligibility": [
+      "Illinois residents needing a driver's license or state ID",
+      "First-time, renewal, and replacement services available; REAL ID available"
+    ],
+    "id": "il-sos-id",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Driver's License / State ID",
+    "prerequisites": [
+      "First-time applicants: bring documents covering the required groups (identity, residency, signature)",
+      "Many renewals and replacements can be completed online"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.ilsos.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Documents proving identity, Illinois residency, and signature — check the requirements before you go"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Human Services — Office of Welcoming Centers for Refugee and Immigrant Services",
+    "applyLinks": [
+      {
+        "label": "Illinois Welcoming Center — IDHS",
+        "url": "https://www.dhs.state.il.us/page.aspx?item=146538"
+      }
+    ],
+    "category": "Immigration",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Welcoming Centers (verified on dhs.state.il.us)",
+        "value": "312-793-7120"
+      },
+      {
+        "kind": "email",
+        "label": "Welcoming Centers email (verified on dhs.state.il.us)",
+        "value": "DHS.BRIS@illinois.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office of Welcoming Centers (verified on dhs.state.il.us)",
+        "value": "401 S Clinton St, 4th Floor, Chicago, IL 60607"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — contact anytime"
+      }
+    ],
+    "description": "One-stop, culturally and linguistically responsive case management and service coordination for immigrants and refugees — help navigating state benefits, referrals to community services, and community education workshops through nearly 50 partner organizations statewide.",
+    "eligibility": [
+      "Immigrants, refugees, asylees, and other newcomers in Illinois",
+      "Services delivered in a linguistically and culturally responsive manner"
+    ],
+    "id": "il-welcoming",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Welcoming Center",
+    "prerequisites": [
+      "Contact the Office of Welcoming Centers or a local Welcoming Center partner near you"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.dhs.state.il.us/page.aspx?item=146538"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Immigration documents and household information, if available"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Commerce and Economic Opportunity (DCEO)",
+    "applyLinks": [
+      {
+        "label": "Illinois Small Business Development Centers — DCEO",
+        "url": "https://dceo.illinois.gov/smallbizassistance/beginhere/sbdc.html"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Information Center (verified on dceo.illinois.gov)",
+        "value": "800-252-2923"
+      },
+      {
+        "kind": "web",
+        "label": "Illinois SBDC — find a center & sign up",
+        "value": "https://dceo.illinois.gov/smallbizassistance/beginhere/sbdc.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — sign up as a new client anytime"
+      }
+    ],
+    "description": "One-on-one business advice and management assistance at Small Business Development Centers across Illinois: business-plan help, financing guidance, marketing and financial planning, plus training and specialized technology and innovation services for startups and existing small businesses.",
+    "eligibility": [
+      "Startups and existing small businesses in Illinois",
+      "Confidential business guidance and training"
+    ],
+    "id": "il-dceo-biz",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Small Business Development Center (SBDC)",
+    "prerequisites": [
+      "Find an SBDC in your area",
+      "Sign up as a new client at a center near you"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "https://dceo.illinois.gov/smallbizassistance/beginhere/sbdc.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "A description of your business idea or current business and your questions"
+    ]
+  },
+  {
+    "agency": "Illinois Department of Revenue (IDOR)",
+    "applyLinks": [
+      {
+        "label": "MyTax Illinois — file & manage your Illinois taxes",
+        "url": "https://tax.illinois.gov/programs/mytax/help/mytax-illinois-functions.html"
+      },
+      {
+        "label": "Pub-132 — Illinois Earned Income Tax Credit Information",
+        "url": "http://tax.illinois.gov/research/publications/pubs/illinois-earned-income-tax-credit-information.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDOR (verified on tax.illinois.gov)",
+        "value": "1-800-732-8866"
+      },
+      {
+        "kind": "phone",
+        "label": "IDOR TTY (verified on tax.illinois.gov)",
+        "value": "1-800-544-5304"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Claimed on your Illinois IL-1040 when you file; free filing available through MyTax Illinois"
+      }
+    ],
+    "description": "A refundable Illinois tax credit for working people with low to moderate income — 20% of the federal EITC (2025 maximums: $130 with no children up to $1,609 with three or more). Claim it on Schedule IL-E/EITC with your IL-1040; qualifying filers can file free through MyTax Illinois.",
+    "eligibility": [
+      "Working people with low to moderate income",
+      "Earned income under $68,675 for tax year 2025 (varies by filing status and qualifying children); investment income below $11,950",
+      "Valid Social Security number or ITIN; age 18+ by end of 2025; U.S. citizen or resident alien all year"
+    ],
+    "id": "il-dor-eic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Illinois Earned Income Tax Credit (EITC)",
+    "prerequisites": [
+      "File an Illinois IL-1040 and attach Schedule IL-E/EITC",
+      "Qualifying filers can file free through MyTax Illinois"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "state",
+      "state": "IL"
+    },
+    "sources": [
+      "http://tax.illinois.gov/research/publications/pubs/illinois-earned-income-tax-credit-information.html",
+      "https://tax.illinois.gov/programs/mytax/help/mytax-illinois-functions.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Your federal Form 1040 (pages 1–2 and Schedule 1) and income documents"
+    ]
+  },
+  {
+    "agency": "Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "Apply for retirement benefits online",
+        "url": "https://www.ssa.gov/onlineservices/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national line (Mon–Fri, 8am–7pm local)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local SSA field office (call first to make an appointment)",
+        "value": "Find your nearest office via ssa.gov — call 1-800-772-1213 to schedule"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Apply",
+        "note": "Rolling — apply up to 4 months before you want your benefits to start"
+      }
+    ],
+    "description": "Monthly retirement payments based on your lifetime earnings. Apply online, by phone, or at a local Social Security office — no need to visit in person.",
+    "eligibility": [
+      "Age 62 or older (you must be at least 62 for the entire month to receive benefits that month)",
+      "Can apply up to 4 months before you want benefits to start"
+    ],
+    "id": "fed-ssa-retirement",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Social Security Retirement Benefits",
+    "prerequisites": [
+      "Create or log in to a personal my Social Security account (verified through Login.gov or ID.me) to apply online",
+      "If applying by phone or in person, call first to make an appointment"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.ssa.gov/onlineservices/",
+      "https://www.ssa.gov/benefits/retirement/",
+      "http://www.ssa.gov/faqs/en/questions/KA-01891.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number",
+      "Birth certificate",
+      "W-2 forms or self-employment tax return for last year",
+      "Military discharge papers if you had military service",
+      "Spouse's birth certificate and SSN if they are applying for or receiving benefits",
+      "Children's birth certificates and SSNs if applying for children's benefits",
+      "Proof of U.S. citizenship or lawful alien status if not born in the United States",
+      "Bank routing number and account number for direct deposit"
+    ]
+  },
+  {
+    "agency": "Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "Learn how to apply for disability benefits",
+        "url": "https://www.ssa.gov/benefits/disability/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national line (Mon–Fri, 8am–7pm local)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local SSA field office",
+        "value": "Find your nearest office via ssa.gov — call 1-800-772-1213 to schedule"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Apply",
+        "note": "Rolling — apply as soon as a qualifying disability develops"
+      }
+    ],
+    "description": "Monthly payments to people whose disability stops or limits their ability to work. Payment amount is based on your work history before the disability began.",
+    "eligibility": [
+      "Age 18 or older",
+      "Unable to work because of a medical condition expected to last at least 12 months or result in death",
+      "Enough work history (credits earned from jobs where you paid Social Security taxes)",
+      "Not currently receiving benefits on your own Social Security record"
+    ],
+    "id": "fed-ssa-ssdi",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Social Security Disability Insurance (SSDI)",
+    "prerequisites": [
+      "Create or log in to a personal my Social Security account to apply online",
+      "Gather information about your medical conditions, how they limit your ability to work, and your education and job history"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.ssa.gov/benefits/disability/",
+      "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Medical records and contact information for doctors, hospitals, and clinics",
+      "Work history: employers, job titles, and dates for recent jobs",
+      "Education history",
+      "List of medications you take"
+    ]
+  },
+  {
+    "agency": "Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "Check SSI eligibility and start the application",
+        "url": "https://www.ssa.gov/ssi/eligibility"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national line (Mon–Fri, 8am–7pm local)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local SSA field office",
+        "value": "Find your nearest office via ssa.gov — call 1-800-772-1213 to schedule"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Apply",
+        "note": "Rolling — apply as soon as possible; SSA cannot pay benefits for periods before your application date"
+      }
+    ],
+    "description": "Monthly payments for adults and children with a disability or blindness who have limited income and resources, and for people 65 and older with limited income and resources.",
+    "eligibility": [
+      "Little or no income (generally no more than $2,073/month from work for individuals; limit is higher for couples and parents applying for children)",
+      "Limited resources: no more than $2,000 for individuals or $3,000 for couples",
+      "Aged 65 or older, blind, or have a qualifying disability",
+      "U.S. citizen or qualifying noncitizen, and resident of the 50 states, DC, or the Northern Mariana Islands"
+    ],
+    "id": "fed-ssa-ssi",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Supplemental Security Income (SSI)",
+    "prerequisites": [
+      "Anyone may apply; there is no charge to apply",
+      "You must also apply for any other benefits you may be eligible for (e.g., pensions, Social Security benefits)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.ssa.gov/ssi/eligibility",
+      "https://www.ssa.gov/blog/en/posts/2024-12-16.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number and proof of identity",
+      "Proof of income (pay stubs, benefit letters) and resources (bank statements)",
+      "Medical records documenting disability or blindness",
+      "Proof of residence",
+      "Immigration documents if you are a noncitizen"
+    ]
+  },
+  {
+    "agency": "Centers for Medicare & Medicaid Services (CMS)",
+    "applyLinks": [
+      {
+        "label": "Sign up for Medicare (via Social Security)",
+        "url": "https://www.ssa.gov/medicare/sign-up"
+      },
+      {
+        "label": "Medicare.gov",
+        "url": "https://www.medicare.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicare (1-800-MEDICARE)",
+        "value": "1-800-633-4227"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicare TTY",
+        "value": "1-877-486-2048"
+      },
+      {
+        "kind": "phone",
+        "label": "Social Security (for enrollment)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "Medicare.gov",
+        "value": "https://www.medicare.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Initial Enrollment Period",
+        "note": "7-month window: 3 months before, the month of, and 3 months after your 65th birthday"
+      },
+      {
+        "date": "2026-12-07",
+        "label": "Medicare Open Enrollment",
+        "note": "Runs October 15–December 7 each year; changes take effect January 1"
+      },
+      {
+        "date": null,
+        "label": "General Enrollment Period",
+        "note": "January 1–March 31 each year if you missed your initial window (late penalties may apply)"
+      }
+    ],
+    "description": "Federal health insurance for people 65 and older and certain younger people with disabilities. Part A covers hospital care; Part B covers medical services.",
+    "eligibility": [
+      "Age 65 or older, or qualifying disability/end-stage renal disease",
+      "If you already receive Social Security benefits, you are automatically enrolled in Parts A and B",
+      "If not receiving Social Security benefits, sign up yourself starting 3 months before your 65th birthday"
+    ],
+    "id": "fed-medicare",
+    "languages": [
+      "English"
+    ],
+    "name": "Medicare Enrollment",
+    "prerequisites": [
+      "Create a secure my Social Security account to sign up online at Social Security (Medicare enrollment is handled through SSA)",
+      "Sign up for Part B when first eligible to avoid a late enrollment penalty"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.medicare.gov/",
+      "https://www.ssa.gov/medicare/sign-up",
+      "https://www.ssa.gov/blog/en/posts/2024-10-17.html",
+      "https://www.hhs.gov/answers/medicare-and-medicaid/when-should-i-sign-up-for-medicare/index.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number and proof of age/identity",
+      "If delaying Part B because of group health plan coverage: documentation of that coverage (W-2s showing pre-tax medical contributions, pay stubs showing premium deductions, health insurance cards, or explanations of benefits)"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "applyLinks": [
+      {
+        "label": "Find a HUD-approved housing counselor",
+        "url": "https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD housing counseling hotline",
+        "value": "1-800-569-4287"
+      },
+      {
+        "kind": "web",
+        "label": "HUD housing counseling locator",
+        "value": "https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "description": "Free or low-cost advice from HUD-approved counselors on buying a home, renting, avoiding foreclosure or eviction, and credit issues. Search by ZIP code to find an agency near you.",
+    "eligibility": [
+      "Open to everyone — renters, homebuyers, and homeowners",
+      "Counseling covers buying a home, renting, mortgage defaults, forbearance, foreclosure, eviction, and credit issues",
+      "Services are often free or low-cost"
+    ],
+    "id": "fed-hud-counseling",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "HUD-Approved Housing Counseling",
+    "prerequisites": [
+      "No prerequisites — search the locator by ZIP code and contact an agency directly"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home",
+      "https://www.hud.gov/hud-partners/housing-national-agencies",
+      "https://archives.hud.gov/news/2022/pr22-107.cfm"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Lease or mortgage statement",
+      "Proof of income (pay stubs, benefit letters)",
+      "Any eviction, foreclosure, or default notices you have received"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for VA health care",
+        "url": "https://www.va.gov/health-care/how-to-apply/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA health care hotline (Mon–Fri, 8am–8pm ET)",
+        "value": "877-222-8387"
+      },
+      {
+        "kind": "in-person",
+        "label": "Jesse Brown VA Medical Center (cross-verified on va.gov)",
+        "value": "820 S Damen Ave, Chicago, IL 60612 — main phone 312-569-8387"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime; VA typically makes an enrollment decision in less than 1 week"
+      }
+    ],
+    "description": "Comprehensive health coverage for veterans — primary care, prescriptions, mental health, and specialty care. It costs nothing to apply, and you can apply even if you have other insurance. Locations: Jesse Brown VA Medical Center serves Chicago.",
+    "eligibility": [
+      "Veterans and some service members; all are encouraged to apply even with private insurance",
+      "Each veteran is assigned to one of eight priority groups at enrollment based on service history, disability rating, and income"
+    ],
+    "id": "fed-va-health",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Health Care Enrollment",
+    "prerequisites": [
+      "No income reporting required if eligible on other factors, but have prior-year household income ready in case it is needed"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.va.gov/health-care/how-to-apply/",
+      "https://www.va.gov/chicago-health-care/contact-us/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Military discharge papers (DD214 or other separation documents)",
+      "Social Security numbers for you, your spouse, and dependents",
+      "Insurance card information for all coverage (Medicare, private, employer)",
+      "Gross household income from the previous calendar year",
+      "VA disability rating decision, if you have one"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "applyLinks": [
+      {
+        "label": "How to file a VA disability claim",
+        "url": "https://www.va.gov/disability/how-to-file-claim/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA general line (1-800-MyVA411)",
+        "value": "1-800-698-2411"
+      },
+      {
+        "kind": "in-person",
+        "label": "Nearest VA regional office",
+        "value": "Bring your application to a VA regional office — find one at va.gov/find-locations"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Filing",
+        "note": "Rolling — file any time after service; online applications can be saved and completed within 365 days, and the start date counts as your date of claim"
+      }
+    ],
+    "description": "Monthly tax-free payments to veterans who got sick or injured while serving, or whose service made an existing condition worse. You can apply at any time, no matter how long ago you separated.",
+    "eligibility": [
+      "A physical or mental health condition connected to military service (including conditions that developed before, during, or after service, or were worsened by service)",
+      "Monthly payments are available with a disability rating of 10% or more; a 10%+ rating also opens access to free or low-cost VA health care"
+    ],
+    "id": "fed-va-disability",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Disability Compensation",
+    "prerequisites": [
+      "No evidence required to start — VA may schedule a claim exam and you have up to a year after filing to submit evidence",
+      "If filing on paper, consider submitting an intent-to-file first to preserve an earlier effective date"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.va.gov/disability/how-to-file-claim/",
+      "https://www.va.gov/disability/",
+      "https://news.va.gov/127968/what-can-va-disability-compensation-do-for-you/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "VA Form 21-526EZ (Application for Disability Compensation)",
+      "Discharge papers (DD214 or other separation documents)",
+      "Private medical records and hospital reports related to your condition",
+      "Supporting statements from family, friends, clergy, or fellow service members",
+      "Mail paper claims to: Department of Veterans Affairs, Claims Intake Center, PO Box 4444, Janesville, WI 53547-4444"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration (SBA)",
+    "applyLinks": [
+      {
+        "label": "7(a) loans — find a lender via Lender Match",
+        "url": "https://www.sba.gov/loans/7a-loans/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Answer Desk (Mon–Fri, 9am–6pm ET)",
+        "value": "1-800-827-5722"
+      },
+      {
+        "kind": "in-person",
+        "label": "SBA Illinois District Office (cross-verified on sba.gov)",
+        "value": "332 S. Michigan Ave., Suite 600, Chicago, IL 60604 — Tel 312-353-4528"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply through a participating lender anytime; use SBA Lender Match to find one"
+      }
+    ],
+    "description": "SBA's primary business loan program: the SBA guarantees loans made by local lenders (up to $5 million) for real estate, working capital, equipment, debt refinancing, or buying a business. You apply through the lender, not SBA directly.",
+    "eligibility": [
+      "For-profit small business operating in the U.S. (SBA size standards apply)",
+      "Reasonable credit history; eligibility also depends on what the business does and where it operates",
+      "SBA guarantees 85% of loans of $150,000 or less and 75% of larger loans"
+    ],
+    "id": "fed-sba-loans",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA 7(a) Small Business Loans",
+    "prerequisites": [
+      "Apply directly through a local participating lender — SBA does not lend directly",
+      "Your lender determines the exact application documents based on loan size and type"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.sba.gov/loans/7a-loans/",
+      "https://www.sba.gov/about-sba/organization/contact-sba"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Business financial statements and recent tax returns",
+      "Business plan and description of how the loan will be used",
+      "Personal financial statement of owners",
+      "Information on collateral being offered"
+    ]
+  },
+  {
+    "agency": "Federal Student Aid, U.S. Department of Education",
+    "applyLinks": [
+      {
+        "label": "Start the 2026–27 FAFSA",
+        "url": "https://fafsa.gov/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Federal Student Aid info center (National line (unverified))",
+        "value": "1-800-433-3243"
+      },
+      {
+        "kind": "web",
+        "label": "FAFSA application site",
+        "value": "https://fafsa.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2027-06-30",
+        "label": "2026–27 FAFSA federal deadline",
+        "note": "Federal deadline is June 30, 2027 — but state and school deadlines are often much earlier, so file as soon as possible"
+      }
+    ],
+    "description": "The free application that determines your eligibility for federal grants, work-study, and student loans for college or career school. The 2026–27 form covers attendance from July 1, 2026 to June 30, 2027.",
+    "eligibility": [
+      "U.S. citizens and eligible noncitizens planning to attend college or career/trade school between July 1, 2026 and June 30, 2027",
+      "Must submit a new FAFSA every year you are in school"
+    ],
+    "id": "fed-fafsa",
+    "languages": [
+      "English"
+    ],
+    "name": "FAFSA — Free Application for Federal Student Aid",
+    "prerequisites": [
+      "Create an FSA ID (StudentAid.gov account) for yourself; a parent or spouse contributor needs their own FSA ID too"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://fafsa.gov/",
+      "https://studentaid.gov/announcements-events/fafsa-support",
+      "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-earliest-fafsa-form-launch-program-history"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number",
+      "Driver's license number",
+      "Alien registration number if you are not a U.S. citizen",
+      "Federal income tax returns, W-2s, and other records of money earned",
+      "Bank statements and records of investments",
+      "Records of untaxed income"
+    ]
+  },
+  {
+    "agency": "Internal Revenue Service (IRS)",
+    "applyLinks": [
+      {
+        "label": "IRS Free File — choose a free filing option",
+        "url": "https://www.irs.gov/freefile"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IRS Free File portal",
+        "value": "https://www.irs.gov/freefile"
+      },
+      {
+        "kind": "in-person",
+        "label": "IRS Taxpayer Assistance Center, Chicago (appointment required; cross-verified on apps.irs.gov)",
+        "value": "230 S Dearborn St, Chicago, IL 60604 — Mon–Fri 8:30am–4:30pm; book at irs.gov/appointment"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-10-15",
+        "label": "IRS Free File closes for 2025 returns",
+        "note": "Free File remains available through Oct 15, 2026 for 2025 federal returns (per IRS)"
+      },
+      {
+        "date": "2026-04-15",
+        "label": "2025 tax filing deadline",
+        "note": "Standard filing deadline for 2025 returns (has passed; late filers can still use Free File through Oct 15)"
+      }
+    ],
+    "description": "File your federal taxes free: guided tax software (for adjusted gross income of $89,000 or less) or Free File Fillable Forms (any income). Free File helps you find and calculate credits like the Earned Income Tax Credit (EITC) and Child Tax Credit.",
+    "eligibility": [
+      "Guided tax software: adjusted gross income of $89,000 or less (2025 tax year)",
+      "Free File Fillable Forms: any income level (you prepare the return yourself)",
+      "You must start at IRS.gov/freefile — going directly to a partner's commercial site does not give you the free offer"
+    ],
+    "id": "fed-irs-freefile",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "IRS Free File + Earned Income Tax Credit",
+    "prerequisites": [
+      "Begin at IRS.gov/freefile and use the 'Find your trusted partner' tool — each partner sets its own eligibility (income, age, state residency)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.irs.gov/freefile",
+      "https://www.irs.gov/newsroom/free-options-and-resources-for-preparing-and-filing-taxes-in-2026",
+      "https://www.irs.gov/newsroom/its-not-too-late-use-irs-free-file-today",
+      "https://apps.irs.gov/app/office-locator/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "W-2s, 1099s, and other income documents",
+      "Social Security number or ITIN",
+      "Prior-year tax return",
+      "Bank account and routing numbers for direct deposit of refunds",
+      "Records supporting credits: Earned Income Tax Credit, Child Tax Credit, Child and Dependent Care Credit"
+    ]
+  },
+  {
+    "agency": "U.S. Office of Personnel Management (OPM)",
+    "applyLinks": [
+      {
+        "label": "Search federal jobs on USAJOBS",
+        "url": "https://www.usajobs.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USAJOBS job search",
+        "value": "https://www.usajobs.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — each job announcement has its own closing date; set up job alerts to catch new postings"
+      }
+    ],
+    "description": "The federal government's official employment site. Search job openings by keyword or location (including Chicago), build a federal resume, save searches, and track applications.",
+    "eligibility": [
+      "Varies by announcement — read the 'Who May Apply' and 'Qualifications' sections of each posting",
+      "U.S. citizenship is commonly required; veterans may have hiring preference"
+    ],
+    "id": "fed-usajobs",
+    "languages": [
+      "English"
+    ],
+    "name": "USAJOBS — Federal Employment",
+    "prerequisites": [
+      "Create a login.gov account, then create a USAJOBS profile to apply",
+      "Build or upload a federal-style resume (include hours worked, supervisor names, and announcement-specific details)"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.usajobs.gov/",
+      "https://www.opm.gov/frequently-asked-questions/employment-faq/federal-hiring/how-do-i-apply-for-federal-jobs/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Federal resume (up to 5 can be stored in your profile)",
+      "Transcripts, if the announcement requires them",
+      "DD-214 (veterans) or SF-50 (current/former federal employees), if applicable",
+      "Any other documents listed under 'Required Documents' in the announcement"
+    ]
+  },
+  {
+    "agency": "Federal Communications Commission (FCC)",
+    "applyLinks": [
+      {
+        "label": "Apply for Lifeline (National Verifier)",
+        "url": "https://www.lifelinesupport.org/"
+      },
+      {
+        "label": "FCC Lifeline program details",
+        "url": "https://www.fcc.gov/lifeline-consumers"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lifeline Support Center",
+        "value": "1-800-234-9473"
+      },
+      {
+        "kind": "email",
+        "label": "Lifeline Support",
+        "value": "LifelineSupport@usac.org"
+      },
+      {
+        "kind": "web",
+        "label": "Check eligibility and apply",
+        "value": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — apply anytime; you must recertify eligibility every year or you will be de-enrolled"
+      }
+    ],
+    "description": "A monthly discount of up to $9.25 on phone or internet service for low-income households (up to $34.25 on Tribal lands). Only one benefit per household; you pick a participating provider after qualifying.",
+    "eligibility": [
+      "Household income at or below 135% of the Federal Poverty Guidelines, OR",
+      "Participation in SNAP, Medicaid, Federal Public Housing Assistance, Supplemental Security Income (SSI), Veterans Pension benefits, or certain Tribal assistance programs",
+      "Survivors of domestic violence or human trafficking may qualify for emergency support under the Safe Connections Act"
+    ],
+    "id": "fed-fcc-lifeline",
+    "languages": [
+      "English"
+    ],
+    "name": "FCC Lifeline — Phone & Internet Discount",
+    "prerequisites": [
+      "Apply first through the National Verifier (online, by mail, or with provider help), then choose a participating company near you"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://www.fcc.gov/lifeline-consumers",
+      "https://www.lifelinesupport.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of program participation (e.g., SNAP or Medicaid approval letter) OR proof of income (pay stub or tax return)",
+      "Proof of identity and address",
+      "If more than one household shares your address, a one-per-household worksheet"
+    ]
+  },
+  {
+    "agency": "Administration for Children and Families, U.S. Dept. of Health & Human Services",
+    "applyLinks": [
+      {
+        "label": "How to apply for Head Start",
+        "url": "https://headstart.gov/how-apply"
+      },
+      {
+        "label": "Find a Head Start program near you",
+        "url": "https://headstart.gov/center-locator"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Head Start locator helpline (toll-free, Mon–Fri 12pm–6pm ET)",
+        "value": "1-866-763-6481"
+      },
+      {
+        "kind": "email",
+        "label": "Head Start help",
+        "value": "headstart@eclkc.info"
+      },
+      {
+        "kind": "web",
+        "label": "Head Start Center Locator",
+        "value": "https://headstart.gov/center-locator"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Applications",
+        "note": "Rolling — contact your local program; space is limited and waitlists are common"
+      }
+    ],
+    "description": "Free early learning and development services for children from birth to age 5 in low-income families. Early Head Start also serves pregnant women with prenatal services.",
+    "eligibility": [
+      "Household income at or below the federal poverty level",
+      "Families receiving TANF, SSI, or SNAP qualify regardless of income",
+      "Children in foster care and children experiencing homelessness qualify regardless of income",
+      "All programs welcome children with disabilities"
+    ],
+    "id": "fed-headstart",
+    "languages": [
+      "English"
+    ],
+    "name": "Head Start / Early Head Start",
+    "prerequisites": [
+      "Contact the local program directly — it provides the forms and confirms eligibility"
+    ],
+    "scope": {
+      "city": "Chicago",
+      "county": "Cook",
+      "level": "federal",
+      "state": "IL"
+    },
+    "sources": [
+      "https://headstart.gov/how-apply",
+      "https://headstart.gov/center-locator",
+      "https://www.hhs.gov/answers/programs-for-families-and-children/how-can-i-get-my-child-into-head-start/index.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of household income",
+      "Child's birth certificate",
+      "Immunization and health records",
+      "Proof of address",
+      "Your local program will tell you exactly which documents it needs"
+    ]
+  }
+]
