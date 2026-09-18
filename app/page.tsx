@@ -80,6 +80,7 @@ const ROADMAP = [
   { label: "Chicago", status: "live", note: "City + Cook County programs indexed" },
   { label: "Illinois", status: "next", note: "Statewide agencies and county programs" },
   { label: "California", status: "live", note: "41 services indexed" },
+  { label: "Texas", status: "live", note: "50 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 

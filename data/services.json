@@ -5054,5 +5054,2262 @@
       "Proof of occupancy or ownership",
       "Insurance information if any"
     ]
+  },
+  {
+    "id": "tx-snap",
+    "name": "Texas SNAP — Food Benefits",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Food",
+    "description": "Monthly food benefits on a Lone Star Card for eligible low-income households. Note: SNAP purchase restrictions took effect April 1, 2026.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income Texas household"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A YourTexasBenefits.com account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Texas residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP information",
+        "value": "877-541-7905"
+      },
+      {
+        "kind": "web",
+        "label": "YourTexasBenefits.com",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on YourTexasBenefits.com",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.hhs.texas.gov/services/food/snap-food-benefits",
+      "https://www.yourtexasbenefits.com"
+    ]
+  },
+  {
+    "id": "tx-medicaid",
+    "name": "Texas Medicaid",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income Texans, including families, children, pregnant people, older adults, and people with disabilities.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas resident",
+      "Income and household rules vary by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A YourTexasBenefits.com account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Texas residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "YourTexasBenefits.com",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on YourTexasBenefits.com",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services",
+      "https://www.yourtexasbenefits.com"
+    ]
+  },
+  {
+    "id": "tx-chip",
+    "name": "Texas CHIP — Children's Health Insurance Program",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Healthcare",
+    "description": "Low-cost health coverage for children in families that earn too much for Medicaid. Status: FirstCare left CHIP in the Lubbock service area on August 31, 2026; members were automatically moved to Superior HealthPlan on September 1, 2026.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Child under 19",
+      "Family income too high for Medicaid but within CHIP limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A YourTexasBenefits.com account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Texas residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHIP information",
+        "value": "800-964-2777"
+      },
+      {
+        "kind": "web",
+        "label": "YourTexasBenefits.com",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on YourTexasBenefits.com",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; low-cost premiums and copays",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-members/chip",
+      "https://www.yourtexasbenefits.com"
+    ]
+  },
+  {
+    "id": "tx-wic",
+    "name": "Texas WIC",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Food",
+    "description": "Nutrition benefits, breastfeeding support, and nutrition education for pregnant and breastfeeding people and families with children under five.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Pregnant or breastfeeding, or a family with a child under 5",
+      "Income guidelines apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — apply directly online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Texas WIC",
+        "value": "800-942-3678"
+      },
+      {
+        "kind": "web",
+        "label": "TexasWIC.org",
+        "value": "https://texaswic.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for WIC",
+        "url": "https://texaswic.org/apply"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://texaswic.org/about-wic",
+      "https://texaswic.org/apply"
+    ]
+  },
+  {
+    "id": "tx-tanf",
+    "name": "Texas TANF — Cash Help for Families",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Money & Taxes",
+    "description": "Monthly cash payments to help families with children 18 or younger cover basic needs when income and resources are limited.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Family with a child 18 or younger",
+      "Limited income and resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A YourTexasBenefits.com account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Texas residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "YourTexasBenefits.com",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on YourTexasBenefits.com",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.hhs.texas.gov/services/financial/cash/tanf-cash-help",
+      "https://www.yourtexasbenefits.com"
+    ]
+  },
+  {
+    "id": "tx-ceap",
+    "name": "Texas CEAP — Utility Bill Help",
+    "agency": "Texas Department of Housing and Community Affairs",
+    "category": "Utilities",
+    "description": "Helps low-income households pay heating and cooling bills through local providers. Funding is limited and availability is not guaranteed — contact your local provider early.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income Texas household",
+      "Responsible for home energy costs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Funding is limited; availability is not guaranteed."
+      }
+    ],
+    "prerequisites": [
+      "Find your local CEAP provider through TDHCA"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and your utility bill — the provider lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Texas Information and Referral Line",
+        "value": "877-541-7905"
+      },
+      {
+        "kind": "web",
+        "label": "TDHCA Help for Texans",
+        "value": "https://www.tdhca.texas.gov/help-for-texans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a local CEAP provider (TDHCA)",
+        "url": "https://www.tdhca.texas.gov/help-for-texans"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.tdhca.texas.gov/help-for-texans"
+    ]
+  },
+  {
+    "id": "tx-ui",
+    "name": "Texas Unemployment Benefits",
+    "agency": "Texas Workforce Commission",
+    "category": "Employment",
+    "description": "Temporary income for eligible workers who lost a job through no fault of their own. Note: the waiting week is not payable until you return to full-time work or exhaust your benefits.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Lost your job through no fault of your own",
+      "Earned enough wages in the base period"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply as soon as you lose your job."
+      }
+    ],
+    "prerequisites": [
+      "Work history and employer information"
+    ],
+    "whatToBring": [
+      "Social Security number, work history, and employer contact information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TWC unemployment claims",
+        "value": "800-558-8321"
+      },
+      {
+        "kind": "phone",
+        "label": "TWC Tele-Serv",
+        "value": "800-939-6631"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for unemployment benefits (TWC)",
+        "url": "https://www.twc.texas.gov/jobseekers/unemployment-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.twc.texas.gov/jobseekers/unemployment-benefits"
+    ]
+  },
+  {
+    "id": "tx-tvc",
+    "name": "Texas Veterans Commission",
+    "agency": "Texas Veterans Commission",
+    "category": "Veterans",
+    "description": "State agency serving Texas veterans, service members, and families: VA claims help, employment services, education benefits, grant-funded services, and veteran legal clinics.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas veteran, service member, or family member"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round."
+      }
+    ],
+    "prerequisites": [
+      "Military service documentation for some programs"
+    ],
+    "whatToBring": [
+      "DD214 or other proof of service if you have it"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Texas Veterans Call Center",
+        "value": "1-800-252-8387"
+      },
+      {
+        "kind": "web",
+        "label": "Texas Veterans Commission",
+        "value": "https://tvc.texas.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Texas Veterans Commission",
+        "url": "https://tvc.texas.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://tvc.texas.gov/",
+      "https://tvc.texas.gov/news/partnering-to-bring-state-services-to-veterans-wherever-they-are/"
+    ]
+  },
+  {
+    "id": "tx-hazlewood",
+    "name": "Hazlewood Act — Texas Veteran Tuition Exemption",
+    "agency": "Texas Veterans Commission",
+    "category": "Education",
+    "description": "Up to 150 credit hours of tuition exemption at Texas public colleges and universities for qualified veterans, spouses, and dependent children. Does not cover living expenses, books, or supply fees.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas veteran with 181+ days of active duty and an honorable discharge",
+      "Spouse or dependent child of a qualifying veteran"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check your college's application packet deadlines; the college decides eligibility."
+      }
+    ],
+    "prerequisites": [
+      "Accepted as a student by a Texas public college or university",
+      "Hazlewood account registration on the TVC website"
+    ],
+    "whatToBring": [
+      "DD214, application packet, and certificate of eligibility for VA federal benefits if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hazlewood education benefits",
+        "value": "512-463-3168"
+      },
+      {
+        "kind": "email",
+        "label": "Hazlewood email",
+        "value": "hazlewood@tvc.texas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hazlewood database login (TVC)",
+        "url": "https://hazlewood.tvc.texas.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.tvc.texas.gov/education/hazlewood-act/",
+      "https://hazlewood.tvc.texas.gov"
+    ]
+  },
+  {
+    "id": "tx-aaa",
+    "name": "Texas Area Agencies on Aging",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Seniors",
+    "description": "Connects Texans 60 and older — and their caregivers — with meals, transportation, caregiver support, benefits counseling, and other aging services.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Age 60 or older",
+      "Caregiver of an older adult"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None — call or browse online"
+    ],
+    "whatToBring": [
+      "ID and any relevant benefit or insurance information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Texas aging services",
+        "value": "800-252-9240"
+      },
+      {
+        "kind": "web",
+        "label": "HHSC aging services",
+        "value": "https://hhs.texas.gov/services/aging"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Aging services (HHSC)",
+        "url": "https://hhs.texas.gov/services/aging"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://hhs.texas.gov/services/aging"
+    ]
+  },
+  {
+    "id": "tx-dps-dl",
+    "name": "Texas Driver License & ID",
+    "agency": "Texas Department of Public Safety",
+    "category": "Transportation",
+    "description": "Apply for, renew, or replace a Texas driver license or ID card; check requirements and schedule office visits.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas resident applying for a license or ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Offices open weekdays; appointments recommended."
+      }
+    ],
+    "prerequisites": [
+      "Proof of identity, residency, and lawful presence per DPS requirements"
+    ],
+    "whatToBring": [
+      "Required identity and residency documents — check the DPS checklist before your visit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DPS driver license",
+        "value": "512-424-2600"
+      },
+      {
+        "kind": "web",
+        "label": "DPS driver license",
+        "value": "https://www.dps.texas.gov/section/driver-license"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services (DPS)",
+        "url": "https://www.dps.texas.gov/section/driver-license"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dps.texas.gov/section/driver-license",
+      "https://www.dps.texas.gov/section/driver-license/contact-us"
+    ]
+  },
+  {
+    "id": "tx-drtx",
+    "name": "Disability Rights Texas",
+    "agency": "Disability Rights Texas",
+    "category": "Disability",
+    "description": "The federally designated protection and advocacy agency for Texans with disabilities — free legal advocacy on disability rights.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texan with a disability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Intake open year-round."
+      }
+    ],
+    "prerequisites": [
+      "None — apply for services online"
+    ],
+    "whatToBring": [
+      "Description of the disability-rights issue and any related documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Disability Rights Texas",
+        "value": "https://disabilityrightstx.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Disability Rights Texas",
+        "url": "https://disabilityrightstx.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://disabilityrightstx.org/"
+    ]
+  },
+  {
+    "id": "tx-texaslawhelp",
+    "name": "TexasLawHelp.org",
+    "agency": "Texas Legal Services Center",
+    "category": "Legal Aid",
+    "description": "Free legal information, court forms, and referrals to legal aid across Texas for civil legal problems.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas resident with a civil legal issue"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TexasLawHelp.org",
+        "value": "https://texaslawhelp.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TexasLawHelp.org",
+        "url": "https://texaslawhelp.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://texaslawhelp.org/"
+    ]
+  },
+  {
+    "id": "tx-claimit",
+    "name": "ClaimItTexas — Unclaimed Property",
+    "agency": "Texas Comptroller of Public Accounts",
+    "category": "Money & Taxes",
+    "description": "Search for and claim money Texas is holding for you — dormant bank accounts, uncashed checks, utility deposits, mineral royalties, and more. There is no time limit to file a claim.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Anyone who may have unclaimed property in Texas"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No statute of limitations — claim any time."
+      }
+    ],
+    "prerequisites": [
+      "None — search free online"
+    ],
+    "whatToBring": [
+      "ID and proof of ownership or address history if you file a claim"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unclaimed property",
+        "value": "1-800-321-2274"
+      },
+      {
+        "kind": "web",
+        "label": "ClaimItTexas.gov",
+        "value": "https://claimittexas.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Search unclaimed property",
+        "url": "https://claimittexas.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://claimittexas.gov/",
+      "https://www.claimittexas.gov/docs/53-118.pdf"
+    ]
+  },
+  {
+    "id": "tx-211",
+    "name": "2-1-1 Texas",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Healthcare",
+    "description": "Free statewide helpline connecting Texans to local help with food, health care, housing, employment, veterans services, legal aid, aging and disability services, and childcare.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Anyone in Texas"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24 hours a day, 7 days a week."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "A description of what you need help with"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "211Texas.org",
+        "value": "https://www.211texas.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "211Texas.org",
+        "url": "https://www.211texas.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.211texas.org/"
+    ]
+  },
+  {
+    "id": "tx-tdhca-help",
+    "name": "TDHCA — Help for Texans",
+    "agency": "Texas Department of Housing and Community Affairs",
+    "category": "Housing",
+    "description": "State housing help: rental assistance, homelessness services, homebuyer programs, and referrals to local housing providers.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas household needing housing help"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; funding varies by program."
+      }
+    ],
+    "prerequisites": [
+      "None — start with the Help for Texans page"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and housing need — each program lists its documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TDHCA Help for Texans",
+        "value": "https://www.tdhca.texas.gov/help-for-texans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Help for Texans (TDHCA)",
+        "url": "https://www.tdhca.texas.gov/help-for-texans"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.tdhca.texas.gov/help-for-texans"
+    ]
+  },
+  {
+    "id": "tx-applytexas",
+    "name": "ApplyTexas",
+    "agency": "ApplyTexas",
+    "category": "Education",
+    "description": "Apply to college with a single application — any Texas public university and many Texas community colleges and private universities. Three steps: a screener, core questions shared across schools, and school-specific questions or essays.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Student applying to a Texas college or university"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Deadlines vary by school — check each college's dates."
+      }
+    ],
+    "prerequisites": [
+      "Create an ApplyTexas account"
+    ],
+    "whatToBring": [
+      "Transcripts, test scores, and essays per each school's requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ApplyTexas",
+        "value": "https://www.applytexas.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ApplyTexas",
+        "url": "https://www.applytexas.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to use; schools may charge application fees",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.applytexas.org/"
+    ]
+  },
+  {
+    "id": "tx-tdi",
+    "name": "Texas Department of Insurance — Consumer Help",
+    "agency": "Texas Department of Insurance",
+    "category": "Money & Taxes",
+    "description": "Get help with insurance questions or file a complaint against an insurance company, agent, or adjuster. The Consumer Help Line is open weekdays from 8 a.m. to 5 p.m. Central time.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "state",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Texas insurance consumer with a question or complaint"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File complaints any time."
+      }
+    ],
+    "prerequisites": [
+      "Try resolving the issue with your insurer first"
+    ],
+    "whatToBring": [
+      "Policy number, claim details, and correspondence with your insurer"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TDI Consumer Help Line",
+        "value": "800-252-3439"
+      },
+      {
+        "kind": "web",
+        "label": "TDI consumer help",
+        "value": "https://tdi.texas.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get help with an insurance complaint (TDI)",
+        "url": "http://www.tdi.texas.gov/CONSUMER/get-help-with-an-insurance-complaint.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://www.tdi.texas.gov/CONSUMER/get-help-with-an-insurance-complaint.html",
+      "https://tdi.texas.gov/webinfo/compact-tdi.html"
+    ]
+  },
+  {
+    "id": "dallas-311",
+    "name": "Dallas 311",
+    "agency": "City of Dallas",
+    "category": "Money & Taxes",
+    "description": "Non-emergency City of Dallas services: report issues, pay bills, and get city information.",
+    "scope": {
+      "city": "Dallas",
+      "county": "Dallas",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Dallas resident or visitor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Details of the issue or service you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dallas 311",
+        "value": "214-670-3111"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dallas 311 services",
+        "url": "https://dallascityhall.com/services/311/Pages/about-us.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://dallascityhall.com/services/311/Pages/about-us.aspx"
+    ]
+  },
+  {
+    "id": "dallas-dart-fare",
+    "name": "DART Discount GoPass Tap Card",
+    "agency": "Dallas Area Rapid Transit",
+    "category": "Transportation",
+    "description": "Half-price bus and train fares on a reloadable tap card for qualifying riders — seniors 65+, Medicare cardholders, people with disabilities, and qualifying assistance-program participants.",
+    "scope": {
+      "city": "Dallas",
+      "county": "Dallas",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Senior 65 or older, Medicare cardholder, person with a disability, or qualifying assistance-program participant"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; the card arrives by mail within 15 business days."
+      }
+    ],
+    "prerequisites": [
+      "Proof of participation in a qualifying assistance program"
+    ],
+    "whatToBring": [
+      "ID and proof of eligibility — participant card or agency letter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DART Tap for Half",
+        "value": "972-482-6491"
+      },
+      {
+        "kind": "web",
+        "label": "DART",
+        "value": "https://www.dart.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DART Discount GoPass Tap Card",
+        "url": "https://dart.org/fare/general-fares-and-overview/discount-gopass-tap-card/-page-1-"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Card is free; $6 minimum load to start",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://dart.org/fare/general-fares-and-overview/discount-gopass-tap-card/-page-1-",
+      "https://www.dart.org/contact"
+    ]
+  },
+  {
+    "id": "dallas-library",
+    "name": "Dallas Public Library",
+    "agency": "City of Dallas",
+    "category": "Education",
+    "description": "Free books, movies, and media with a mobile-friendly catalog, plus public programs across Dallas library locations.",
+    "scope": {
+      "city": "Dallas",
+      "county": "Dallas",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Open to the public; free library card for borrowing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a card any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dallas Public Library",
+        "value": "214-670-1400"
+      },
+      {
+        "kind": "web",
+        "label": "Dallas Public Library",
+        "value": "https://www.dallaslibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dallas Public Library",
+        "url": "https://www.dallaslibrary.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dallaslibrary.org"
+    ]
+  },
+  {
+    "id": "dallas-parkland",
+    "name": "Parkland Health",
+    "agency": "Parkland Health & Hospital System",
+    "category": "Healthcare",
+    "description": "Dallas County's public health system — hospital and clinic care for residents, including the uninsured and underinsured.",
+    "scope": {
+      "city": "Dallas",
+      "county": "Dallas",
+      "level": "county",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Dallas County resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Care available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None for emergency care"
+    ],
+    "whatToBring": [
+      "ID, proof of income, and insurance information if you have it"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Parkland Health",
+        "value": "214-590-8000"
+      },
+      {
+        "kind": "web",
+        "label": "Parkland Health",
+        "value": "https://www.parklandhealth.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Parkland Health",
+        "url": "https://www.parklandhealth.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding-scale and charity care available",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.parklandhealth.org/"
+    ]
+  },
+  {
+    "id": "tarrant-jps",
+    "name": "JPS Health Network",
+    "agency": "JPS Health Network",
+    "category": "Healthcare",
+    "description": "Tarrant County's public health system — hospital and clinic care for county residents.",
+    "scope": {
+      "city": "Fort Worth",
+      "county": "Tarrant",
+      "level": "county",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Tarrant County resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Care available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None for emergency care"
+    ],
+    "whatToBring": [
+      "ID, proof of income, and insurance information if you have it"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "JPS Health Network",
+        "value": "817-702-3431"
+      },
+      {
+        "kind": "web",
+        "label": "JPS Health Network",
+        "value": "https://www.jpshealthnet.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JPS Health Network",
+        "url": "https://www.jpshealthnet.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding-scale and charity care available",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.jpshealthnet.org/"
+    ]
+  },
+  {
+    "id": "dallas-lanwt",
+    "name": "Legal Aid of NorthWest Texas",
+    "agency": "Legal Aid of NorthWest Texas",
+    "category": "Legal Aid",
+    "description": "Free legal advice and free civil legal services for low-income families across North and West Texas.",
+    "scope": {
+      "city": "Dallas",
+      "county": "Dallas",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income resident of North or West Texas"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — check eligibility and apply online"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid Line",
+        "value": "888-529-5277"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Aid of NorthWest Texas",
+        "value": "https://www.lanwt.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Aid of NorthWest Texas",
+        "url": "https://www.lanwt.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.lanwt.org/"
+    ]
+  },
+  {
+    "id": "houston-311",
+    "name": "Houston 311",
+    "agency": "City of Houston",
+    "category": "Money & Taxes",
+    "description": "Non-emergency City of Houston services and information.",
+    "scope": {
+      "city": "Houston",
+      "county": "Harris",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Houston resident or visitor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Details of the issue or service you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Houston 311",
+        "value": "713-837-0311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Houston 311",
+        "url": "https://311.houstontx.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://311.houstontx.gov"
+    ]
+  },
+  {
+    "id": "houston-metro-fare",
+    "name": "METRO Discount Fare Card",
+    "agency": "Metropolitan Transit Authority of Harris County",
+    "category": "Transportation",
+    "description": "Discounted 60-cent fares on Houston METRO with a RideMETRO Discount Fare Card; seniors 70+ and disabled or decorated veterans ride free. Note: the Q Card was retired April 5, 2026 and replaced by the RideMETRO card.",
+    "scope": {
+      "city": "Houston",
+      "county": "Harris",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Senior, person with a disability, Medicare cardholder, veteran, or student — card or ID required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Eligibility documentation for the discount category"
+    ],
+    "whatToBring": [
+      "ID and proof of eligibility (age, disability, Medicare, veteran, or student status)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "METRO Customer Service (call or text)",
+        "value": "713-635-4000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Ride METRO — fares FAQ",
+        "url": "https://websiteprod.ridemetro.org/riding-metro/faqs/-in-category/topics/fares-metrorail"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discounted 60-cent fare; some riders free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://websiteprod.ridemetro.org/riding-metro/faqs/-in-category/topics/fares-metrorail"
+    ]
+  },
+  {
+    "id": "houston-lonestar-legal",
+    "name": "Lone Star Legal Aid",
+    "agency": "Lone Star Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income residents of East Texas, including Houston — housing, family, benefits, disaster, and more.",
+    "scope": {
+      "city": "Houston",
+      "county": "Harris",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income resident of the Lone Star Legal Aid service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — apply for help online"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lone Star Legal Aid",
+        "value": "800-733-8394"
+      },
+      {
+        "kind": "phone",
+        "label": "Houston office",
+        "value": "713-652-0077"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get help (Lone Star Legal Aid)",
+        "url": "https://lonestarlegal.org/get-help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://lonestarlegal.org/get-help/"
+    ]
+  },
+  {
+    "id": "harris-health",
+    "name": "Harris Health Financial Assistance Program",
+    "agency": "Harris Health System",
+    "category": "Healthcare",
+    "description": "Financial assistance program for Harris County residents at or below 150% of the federal poverty level — reduced-cost care at Harris Health facilities. This is not health insurance.",
+    "scope": {
+      "city": "Houston",
+      "county": "Harris",
+      "level": "county",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Harris County resident",
+      "Household income at or below 150% of the federal poverty level"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Harris Health Application for Financial Assistance"
+    ],
+    "whatToBring": [
+      "Proof of identity, Harris County residency, and household income for the past 30 days"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Eligibility Call Center",
+        "value": "713-566-6509"
+      },
+      {
+        "kind": "web",
+        "label": "Harris Health eligibility",
+        "value": "https://WWW.HARRISHEALTH.ORG/access-care-hh/eligibility/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Patient eligibility (Harris Health)",
+        "url": "https://WWW.HARRISHEALTH.ORG/access-care-hh/eligibility/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; reduced-cost care",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://WWW.HARRISHEALTH.ORG/access-care-hh/eligibility/"
+    ]
+  },
+  {
+    "id": "sanantonio-311",
+    "name": "San Antonio 311",
+    "agency": "City of San Antonio",
+    "category": "Money & Taxes",
+    "description": "Non-emergency City of San Antonio services and information, with Spanish and other translation services.",
+    "scope": {
+      "city": "San Antonio",
+      "county": "Bexar",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "San Antonio resident or visitor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Details of the issue or service you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "San Antonio 311",
+        "value": "210-207-6000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "San Antonio 311",
+        "url": "https://www.sa.gov/Directory/Departments/311"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.sa.gov/Directory/Departments/311"
+    ]
+  },
+  {
+    "id": "sanantonio-via-fare",
+    "name": "VIA Reduced Fares",
+    "agency": "VIA Metropolitan Transit",
+    "category": "Transportation",
+    "description": "Reduced VIA fares for children 5-13, seniors 62+, Medicare recipients, qualifying riders with disabilities, active-duty military, and students.",
+    "scope": {
+      "city": "San Antonio",
+      "county": "Bexar",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Child 5-13, senior 62+, Medicare recipient, qualifying disabled rider, active-duty military, or student"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "Eligibility documentation for the reduced-fare category"
+    ],
+    "whatToBring": [
+      "ID and proof of eligibility (age, Medicare, disability, military, or student status)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VIA information",
+        "value": "210-362-2020"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VIA fares",
+        "url": "https://www.viainfo.net/rates/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Reduced fare",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.viainfo.net/rates/"
+    ]
+  },
+  {
+    "id": "sanantonio-trla",
+    "name": "Texas RioGrande Legal Aid",
+    "agency": "Texas RioGrande Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free legal counsel, representation, and education for people with low income in 68 Southwest Texas counties, including San Antonio.",
+    "scope": {
+      "city": "San Antonio",
+      "county": "Bexar",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income resident of TRLA's 68-county service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Hotline open weekdays 9 a.m. to 5 p.m. Central."
+      }
+    ],
+    "prerequisites": [
+      "None — call the hotline or apply online"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TRLA hotline",
+        "value": "956-996-8752"
+      },
+      {
+        "kind": "web",
+        "label": "Texas RioGrande Legal Aid",
+        "value": "https://www.trla.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Texas RioGrande Legal Aid",
+        "url": "https://www.trla.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.trla.org/"
+    ]
+  },
+  {
+    "id": "austin-311",
+    "name": "Austin 311",
+    "agency": "City of Austin",
+    "category": "Money & Taxes",
+    "description": "Non-emergency City of Austin services and information.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Austin resident or visitor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Details of the issue or service you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Austin 311",
+        "value": "512-974-2000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Austin 311",
+        "url": "https://www.austintexas.gov/department/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.austintexas.gov/department/311"
+    ]
+  },
+  {
+    "id": "austin-capmetro-fare",
+    "name": "CapMetro Reduced Fare ID",
+    "agency": "Capital Metropolitan Transportation Authority",
+    "category": "Transportation",
+    "description": "Half-price CapMetro fares with a $3 Reduced Fare ID card good for 2 years. Kids 18 and under ride free with a school ID.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Senior 65 or older, Medicare cardholder, active or reserve military, or rider with a disability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Valid government-issued ID, Texas photo ID, or Texas driver license"
+    ],
+    "whatToBring": [
+      "ID and proof of eligibility; disability applications require the paper form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CapMetro reduced fare",
+        "value": "512-389-7475"
+      },
+      {
+        "kind": "web",
+        "label": "CapMetro",
+        "value": "https://www.capmetro.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CapMetro Reduced Fare ID",
+        "url": "https://www.capmetro.org/rfid/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$3 for the card; half-price fares",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.capmetro.org/rfid/"
+    ]
+  },
+  {
+    "id": "austin-library",
+    "name": "Austin Public Library",
+    "agency": "City of Austin",
+    "category": "Education",
+    "description": "Free books, ebooks, movies, research resources, and programs; get a library card online.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Open to the public; free card for borrowing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a card any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Austin Public Library",
+        "value": "https://library.austintexas.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Austin Public Library",
+        "url": "https://library.austintexas.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://library.austintexas.gov/"
+    ]
+  },
+  {
+    "id": "austin-public-health",
+    "name": "Austin Public Health — RBJ Health Center",
+    "agency": "City of Austin",
+    "category": "Healthcare",
+    "description": "STD testing, counseling, and treatment plus tuberculosis evaluation and treatment at the RBJ Health Center, 15 Waller Street.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Austin/Travis County resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for an appointment."
+      }
+    ],
+    "prerequisites": [
+      "Schedule a clinic appointment online or by phone"
+    ],
+    "whatToBring": [
+      "ID and insurance information if you have it"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Clinic appointments",
+        "value": "512-972-5430"
+      },
+      {
+        "kind": "web",
+        "label": "RBJ Health Center",
+        "value": "https://austintexas.gov/health/rbj-health-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RBJ Health Center (Austin Public Health)",
+        "url": "https://austintexas.gov/health/rbj-health-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Low-cost; call for current fees",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://austintexas.gov/health/rbj-health-center"
+    ]
+  },
+  {
+    "id": "elpaso-sunmetro",
+    "name": "Sun Metro Fares",
+    "agency": "City of El Paso",
+    "category": "Transportation",
+    "description": "El Paso's Sun Metro bus fares and passes, including reduced-fare options.",
+    "scope": {
+      "city": "El Paso",
+      "county": "El Paso",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Sun Metro rider"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "ID for reduced-fare eligibility"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sun Metro",
+        "value": "915-212-3333"
+      },
+      {
+        "kind": "web",
+        "label": "Sun Metro",
+        "value": "https://www.sunmetro.net/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sun Metro fares",
+        "url": "https://www.sunmetro.net/fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares and passes; reduced-fare options",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.sunmetro.net/fares"
+    ]
+  },
+  {
+    "id": "elpaso-public-health",
+    "name": "El Paso Public Health",
+    "agency": "City of El Paso",
+    "category": "Healthcare",
+    "description": "City of El Paso public health services, clinics, and health programs.",
+    "scope": {
+      "city": "El Paso",
+      "county": "El Paso",
+      "level": "city",
+      "state": "TX"
+    },
+    "eligibility": [
+      "El Paso resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None for most services"
+    ],
+    "whatToBring": [
+      "ID and insurance information if you have it"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "El Paso Public Health",
+        "value": "915-212-0200"
+      },
+      {
+        "kind": "web",
+        "label": "El Paso Public Health",
+        "value": "https://www.elpasotexas.gov/public-health/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "El Paso Public Health",
+        "url": "https://www.elpasotexas.gov/public-health/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.elpasotexas.gov/public-health/"
+    ]
+  },
+  {
+    "id": "fed-sba",
+    "name": "U.S. Small Business Administration",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Loans, free counseling, and federal contracting help for small businesses.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "federal",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Small business owner"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Programs open year-round."
+      }
+    ],
+    "prerequisites": [
+      "Business plan and financial information for loan programs"
+    ],
+    "whatToBring": [
+      "Business documents, tax returns, and financial statements for loan applications"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA.gov",
+        "value": "https://www.sba.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA.gov",
+        "url": "https://www.sba.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling; loan terms vary",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.sba.gov/"
+    ]
+  },
+  {
+    "id": "fed-healthcare-gov",
+    "name": "HealthCare.gov — Health Insurance Marketplace",
+    "agency": "Centers for Medicare & Medicaid Services",
+    "category": "Healthcare",
+    "description": "Shop for health insurance and see if you qualify for savings on premiums; special enrollment is available after qualifying life changes.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "federal",
+      "state": "TX"
+    },
+    "eligibility": [
+      "U.S. resident needing health coverage"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open enrollment is annual; special enrollment follows qualifying life events."
+      }
+    ],
+    "prerequisites": [
+      "Household and income information"
+    ],
+    "whatToBring": [
+      "Social Security numbers, income information, and current coverage details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Marketplace call center",
+        "value": "1-800-318-2596"
+      },
+      {
+        "kind": "web",
+        "label": "HealthCare.gov",
+        "value": "https://www.healthcare.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HealthCare.gov",
+        "url": "https://www.healthcare.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; premiums vary with subsidies",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.healthcare.gov/"
+    ]
+  },
+  {
+    "id": "fed-fema-assistance",
+    "name": "FEMA Disaster Assistance",
+    "agency": "Federal Emergency Management Agency",
+    "category": "Housing",
+    "description": "Apply for federal help after a declared disaster — housing, repairs, and other recovery needs.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "federal",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Disaster survivor in a federally declared disaster area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Event-based",
+        "note": "Apply after a disaster declaration; registration deadlines are announced per disaster."
+      }
+    ],
+    "prerequisites": [
+      "Losses in a declared disaster area"
+    ],
+    "whatToBring": [
+      "ID, proof of occupancy or ownership, insurance information, and a list of disaster-caused damage"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "FEMA helpline",
+        "value": "1-800-621-3362"
+      },
+      {
+        "kind": "web",
+        "label": "DisasterAssistance.gov",
+        "value": "https://www.disasterassistance.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DisasterAssistance.gov",
+        "url": "https://www.disasterassistance.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.disasterassistance.gov/"
+    ]
+  },
+  {
+    "id": "fed-lifeline",
+    "name": "Lifeline — Phone & Broadband Discount",
+    "agency": "Federal Communications Commission",
+    "category": "Utilities",
+    "description": "Monthly discount on phone or broadband service for qualifying low-income consumers — one discount per household. The program is administered by the Universal Service Administrative Company (USAC).",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "federal",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Low-income household",
+      "One Lifeline discount per household"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a participating provider."
+      }
+    ],
+    "prerequisites": [
+      "Eligibility through a qualifying program or income"
+    ],
+    "whatToBring": [
+      "Proof of eligibility — program participation or income documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FCC Lifeline",
+        "value": "https://www.fcc.gov/lifeline"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "FCC Lifeline program",
+        "url": "https://www.fcc.gov/lifeline"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discount on service; one per household",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.fcc.gov/lifeline"
+    ]
+  },
+  {
+    "id": "fed-uscis",
+    "name": "USCIS — Immigration Services",
+    "agency": "U.S. Citizenship and Immigration Services",
+    "category": "Immigration",
+    "description": "Apply for immigration benefits: citizenship, green cards, work authorization, and check case status.",
+    "scope": {
+      "city": "Austin",
+      "county": "Travis",
+      "level": "federal",
+      "state": "TX"
+    },
+    "eligibility": [
+      "Person with an immigration benefit need"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Filing windows vary by benefit type."
+      }
+    ],
+    "prerequisites": [
+      "Eligibility for the specific benefit you seek"
+    ],
+    "whatToBring": [
+      "Identity documents and evidence required for your form — check the USCIS form instructions"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USCIS",
+        "value": "https://www.uscis.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USCIS",
+        "url": "https://www.uscis.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by form",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.uscis.gov"
+    ]
   }
 ]
