@@ -15694,5 +15694,1922 @@
     "sources": [
       "https://www.hud.gov/counseling"
     ]
+  },
+  {
+    "id": "atl-311",
+    "name": "ATL311 — City of Atlanta Non-Emergency Services",
+    "agency": "City of Atlanta",
+    "category": "Money & Taxes",
+    "description": "Single point of contact for non-emergency City of Atlanta services and information: potholes, trash and recycling, streetlights, water and sewer, code enforcement, housing assistance, permits, police reports, and recreation. Call center Mon-Fri 7 a.m.-7 p.m.; the ATL311 mobile app accepts requests 24/7.",
+    "eligibility": [
+      "Atlanta residents and businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open service requests any time; call center hours Mon-Fri 7 a.m.-7 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Call 311 within city limits or 404-546-0311 from a mobile phone or outside the city"
+    ],
+    "whatToBring": [
+      "Location or address of the issue",
+      "Description of the problem"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ATL311 (within city limits)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "ATL311 (mobile / outside city)",
+        "value": "404-546-0311"
+      },
+      {
+        "kind": "web",
+        "label": "City of Atlanta directory (ATL311)",
+        "value": "https://atlantaga.gov/residents/city-directory"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Atlanta directory (ATL311)",
+        "url": "https://atlantaga.gov/residents/city-directory"
+      }
+    ],
+    "sources": [
+      "https://atlantaga.gov/residents/city-directory"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "augusta-311",
+    "name": "Augusta 311",
+    "agency": "Augusta-Richmond County Government",
+    "category": "Money & Taxes",
+    "description": "Central hub of customer service for all non-emergency Augusta-Richmond County services and information: waste concerns, complaints to any county department, issue follow-up, and general government information. Records complaints, forwards them to the responsible department, and informs callers of actions taken.",
+    "eligibility": [
+      "Residents, businesses, and visitors in Richmond County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Non-emergency requests any time."
+      }
+    ],
+    "prerequisites": [
+      "Dial 311 within Augusta-Richmond County"
+    ],
+    "whatToBring": [
+      "Location or address of the issue",
+      "Description of the problem"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 311 (unverified)",
+        "value": "311"
+      },
+      {
+        "kind": "web",
+        "label": "Augusta 311",
+        "value": "https://www.augustaga.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Augusta 311",
+        "url": "https://www.augustaga.gov/311"
+      }
+    ],
+    "sources": [
+      "https://www.augustaga.gov/311"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Augusta",
+      "county": "Richmond",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "columbus-metra-fares",
+    "name": "METRA Transit Reduced Fares",
+    "agency": "Columbus Consolidated Government, METRA Transit System",
+    "category": "Transportation",
+    "description": "Reduced bus fares in Columbus/Muscogee County: seniors (minimum age 62) and people with disabilities ride at reduced fares with a METRA ID; Medicare recipients ride for half fare with a Medicare card and valid photo ID. Transfer Center at 814 Linwood Blvd, Mon-Sat 4 a.m.-6:30 p.m.; administration Mon-Fri 8 a.m.-5 p.m. Paratransit (Dial-A-Ride) also available.",
+    "eligibility": [
+      "Seniors age 62+",
+      "People with disabilities",
+      "Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Obtain a METRA ID for senior/disabled fares at the Transfer Center."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a METRA ID (senior/disabled fares)",
+      "Show Medicare card and photo ID (Medicare half fare)"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of age or disability",
+      "Medicare card (for half fare)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "METRA route information / lost & found",
+        "value": "706-225-4673"
+      },
+      {
+        "kind": "phone",
+        "label": "Dial-A-Ride / paratransit",
+        "value": "706-225-4596"
+      },
+      {
+        "kind": "phone",
+        "label": "METRA administration",
+        "value": "706-225-4381"
+      },
+      {
+        "kind": "web",
+        "label": "METRA Transit System",
+        "value": "https://www.columbusga.gov/metra/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "METRA Transit System",
+        "url": "https://www.columbusga.gov/metra/"
+      }
+    ],
+    "sources": [
+      "https://www.columbusga.gov/metra/",
+      "https://resources.columbusga.gov/metra/pdfs/RidersGuideEnglish.pdf"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Columbus",
+      "county": "Muscogee",
+      "state": "GA"
+    },
+    "cost": "Varies by fare type — see the official METRA fare guide",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "macon-mbcta-reduced-fare",
+    "name": "Macon-Bibb County Transit Authority (MBCTA) Reduced Fares",
+    "agency": "Macon-Bibb County Transit Authority",
+    "category": "Transportation",
+    "description": "Reduced fares on MBCTA fixed-route buses in Macon/Bibb County: seniors age 62 and older ride at the senior fare by showing picture ID with age; people with disabilities and Medicare cardholders ride at reduced fares with an MTA Reduced Fare ID card. Ten fixed routes serve Bibb County from the Terminal Station transfer hub at 200 Cherry Street.",
+    "eligibility": [
+      "Seniors age 62+",
+      "People with disabilities",
+      "Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Apply for the MTA Reduced Fare ID card through MBCTA."
+      }
+    ],
+    "prerequisites": [
+      "Picture ID showing age (seniors)",
+      "MTA Reduced Fare ID card (disabled persons and Medicare cardholders)"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of age or disability",
+      "Medicare card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Macon-Bibb County Transit Authority",
+        "value": "https://www.mta-mac.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Macon-Bibb County Transit Authority",
+        "url": "https://www.mta-mac.com/"
+      }
+    ],
+    "sources": [
+      "https://www.mta-mac.com/"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Macon",
+      "county": "Bibb",
+      "state": "GA"
+    },
+    "cost": "Varies by fare type — see the official MBCTA fare information",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "savannah-cat-half-fare",
+    "name": "Chatham Area Transit (CAT) Half-Fare Program",
+    "agency": "Chatham Area Transit Authority",
+    "category": "Transportation",
+    "description": "Half-fare discounts on CAT one-way trips, day passes, and monthly passes for seniors age 65+, people with disabilities, honorably discharged veterans, and youth ages 6-18. Apply by printing the application, calling (912) 233-5767, or visiting the Joe Murray Rivers Jr. Intermodal Transit Center (610 W. Oglethorpe Ave); photos taken Mon-Thu 9 a.m.-4 p.m. A Medicare card can be shown on boarding for half-fare at any time. $3 application processing fee; $5 replacement fee for lost/damaged cards.",
+    "eligibility": [
+      "Seniors age 65+",
+      "People with disabilities",
+      "Honorably discharged veterans",
+      "Youth ages 6-18",
+      "Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Applications processed at the Joe Murray Rivers Jr. Intermodal Transit Center, Mon-Thu 9 a.m.-4 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Print and complete the half-fare application",
+      "Provide proof of qualifying age, disability, veteran status, or Medicare card"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Medicare card, discharge documents/veteran ID, or age proof",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAT half-fare program",
+        "value": "912-233-5767"
+      },
+      {
+        "kind": "web",
+        "label": "CAT Half-Fare Program",
+        "value": "https://www.catchacat.org/fares-passes/half-fare-program/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAT Half-Fare Program",
+        "url": "https://www.catchacat.org/fares-passes/half-fare-program/"
+      }
+    ],
+    "sources": [
+      "https://www.catchacat.org/fares-passes/half-fare-program/"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Savannah",
+      "county": "Chatham",
+      "state": "GA"
+    },
+    "cost": "$3 application processing fee; $5 card replacement fee",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "dekalb-311",
+    "name": "DeKalb 311 Citizen Help Center",
+    "agency": "DeKalb County Government",
+    "category": "Money & Taxes",
+    "description": "Single point of contact for DeKalb County services and information: report potholes, request sanitation pickup, get details on county programs and departments. Dial 311 from any landline in DeKalb County or 404-371-2000, or use the online portal. Hours Mon-Fri 7:30 a.m.-5:30 p.m.",
+    "eligibility": [
+      "DeKalb County residents and businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call center hours Mon-Fri 7:30 a.m.-5:30 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Call 311 within DeKalb County or 404-371-2000"
+    ],
+    "whatToBring": [
+      "Location or address of the issue",
+      "Description of the problem"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DeKalb 311 (within county)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "DeKalb 311 (outside county)",
+        "value": "404-371-2000"
+      },
+      {
+        "kind": "web",
+        "label": "DeKalb County 311 Citizen Help Center",
+        "value": "https://dekalbcountyga.gov/residents/report-311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DeKalb County 311 Citizen Help Center",
+        "url": "https://dekalbcountyga.gov/residents/report-311"
+      }
+    ],
+    "sources": [
+      "https://dekalbcountyga.gov/residents/report-311"
+    ],
+    "scope": {
+      "level": "county",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "fulton-homestead",
+    "name": "Fulton County Homestead Exemptions",
+    "agency": "Fulton County Board of Assessors",
+    "category": "Money & Taxes",
+    "description": "Property tax relief for owner-occupied primary residences in Fulton County: the basic homestead exemption plus additional exemptions for seniors (including new 2026 senior school-district exemptions) and people with full medical or veterans disabilities. Apply online at fultonassessor.org or in person at a Board of Assessors office. Standard deadline is April 1 each year (April 1, 2026 has passed; applications now apply to tax year 2027).",
+    "eligibility": [
+      "Own and occupy a home in Fulton County as primary residence as of January 1",
+      "Seniors age 62+ (additional exemptions at 65/70)",
+      "People with full medical or veterans disabilities and surviving spouses"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-04-01",
+        "label": "Homestead exemption deadline",
+        "note": "April 1 each year for that tax year's bill. The April 1, 2026 deadline has passed; homeowners who did not own as of Jan. 1 can apply now for the 2027 tax year."
+      }
+    ],
+    "prerequisites": [
+      "Own and occupy the home as your primary residence as of January 1",
+      "Apply online or in person with required documents"
+    ],
+    "whatToBring": [
+      "Valid Georgia driver's license or state ID",
+      "Social Security number",
+      "Vehicle registrations for owner and spouse",
+      "Income tax returns or Social Security award letter (senior/income-based exemptions)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fulton County Board of Assessors",
+        "value": "404-612-6440"
+      },
+      {
+        "kind": "web",
+        "label": "Fulton County homestead exemptions",
+        "value": "https://fultonassessor.org/wp-content/uploads/sites/16/2026/01/Homestead-Exemption-Explainer-FINAL.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fulton County Board of Assessors — homestead exemptions",
+        "url": "https://fultonassessor.org/wp-content/uploads/sites/16/2026/01/Homestead-Exemption-Explainer-FINAL.pdf"
+      }
+    ],
+    "sources": [
+      "https://fultonassessor.org/wp-content/uploads/sites/16/2026/01/Homestead-Exemption-Explainer-FINAL.pdf",
+      "https://fultoncountyga.gov/News/2026/06/19/Fulton-County-2026-Assessments-Now-Available-Online"
+    ],
+    "scope": {
+      "level": "county",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free to apply",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "fulton-library",
+    "name": "Fulton County Library System",
+    "agency": "Fulton County Library System",
+    "category": "Education",
+    "description": "Free public library system with 34 branches across Fulton County: books and e-books, audiobooks, movies, streaming, public computers and Wi-Fi, homework help, job-search and learning tools, and museum passes. Fulton County residents can get a free library card online (temporary card for digital resources) or in person; Atlanta Public Schools students and staff can use their APS ID through CLASS PASS.",
+    "eligibility": [
+      "Fulton County residents",
+      "Atlanta Public Schools students and employees (CLASS PASS)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a card any time online or at any branch."
+      }
+    ],
+    "prerequisites": [
+      "Complete the library card application online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fulton County Library System",
+        "value": "404-612-8700"
+      },
+      {
+        "kind": "web",
+        "label": "Fulton County Library System",
+        "value": "https://www.fulcolibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fulton County Library System",
+        "url": "https://www.fulcolibrary.org/"
+      }
+    ],
+    "sources": [
+      "https://www.fulcolibrary.org/"
+    ],
+    "scope": {
+      "level": "county",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "fulton-seniors",
+    "name": "Fulton County Senior Services",
+    "agency": "Fulton County Department of Senior Services",
+    "category": "Seniors",
+    "description": "County-run senior centers and multipurpose facilities for adults 55+: congregate and home-delivered meals, life-enrichment classes, fitness, transportation to medical appointments and senior centers, adult day programs, and volunteer opportunities. Four multipurpose facilities are free for Fulton County residents; neighborhood senior centers offer group meals and activities.",
+    "eligibility": [
+      "Age 55+ for multipurpose facilities",
+      "Fulton County resident (non-residents pay a $100 annual facility fee)",
+      "Transportation programs: age 60+ and Fulton County resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the STARline or a senior center for intake."
+      }
+    ],
+    "prerequisites": [
+      "Contact the STARline or visit a senior center to enroll"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of Fulton County residency",
+      "Proof of age"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fulton County STARline",
+        "value": "404-613-6000"
+      },
+      {
+        "kind": "web",
+        "label": "Fulton County Senior Centers",
+        "value": "https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Senior-Services/Senior-Centers"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fulton County Senior Centers",
+        "url": "https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Senior-Services/Senior-Centers"
+      }
+    ],
+    "sources": [
+      "https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Senior-Services/Senior-Centers"
+    ],
+    "scope": {
+      "level": "county",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free for Fulton County residents",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "marta-reduced-fare",
+    "name": "MARTA Reduced Fare Program",
+    "agency": "Metropolitan Atlanta Rapid Transit Authority (MARTA)",
+    "category": "Transportation",
+    "description": "Discounted Breeze cards for seniors age 65+, people with disabilities, and Medicare cardholders: rides are $1.00 per trip on all MARTA buses and trains. Apply in person at the Reduced Fare Office at MARTA Headquarters (2424 Piedmont Road NE, across from Lindbergh Center), Mon-Fri 8:30 a.m.-5 p.m. Current status: the Five Points Reduced Fare location is closed for long-term construction; older Reduced Fare Breeze cards are no longer valid after the Better Breeze upgrade.",
+    "eligibility": [
+      "Age 65 or older",
+      "Person with a physical or mental disability (documented)",
+      "Medicare cardholder (red/white/blue)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Cards certify for up to 3 years; recertify in person with current documentation."
+      }
+    ],
+    "prerequisites": [
+      "Valid photo ID with date of birth",
+      "Completed Reduced Fare Form",
+      "Proof of age, disability, or Medicare status"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Medicare card, disability documentation, or age proof",
+      "Completed Reduced Fare Form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Reduced Fare office",
+        "value": "404-848-5112"
+      },
+      {
+        "kind": "email",
+        "label": "Reduced Fare office",
+        "value": "reducedfare@itsmarta.com"
+      },
+      {
+        "kind": "web",
+        "label": "MARTA Reduced Fare Program",
+        "value": "http://atlantaairport.itsmarta.com/reduced-fare-program.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MARTA Reduced Fare Program",
+        "url": "http://atlantaairport.itsmarta.com/reduced-fare-program.aspx"
+      }
+    ],
+    "sources": [
+      "http://atlantaairport.itsmarta.com/reduced-fare-program.aspx"
+    ],
+    "scope": {
+      "level": "county",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "$1.00 per ride; card issuance free",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "ga-aging-services",
+    "name": "Aging Services — Programs for Older Georgians",
+    "agency": "Georgia Department of Human Services, Division of Aging Services (DAS)",
+    "category": "Seniors",
+    "description": "Home and community-based programs helping Georgians 60+ live independently: meals, in-home care, caregiver support, and service referrals through 12 Area Agencies on Aging. Also operates Adult Protective Services, Georgia SHIP Medicare counseling, the Long-Term Care Ombudsman, and free legal assistance (ELAP) for those 60+.",
+    "eligibility": [
+      "Age 60+ for most programs (some from 55)",
+      "Georgia resident",
+      "Adult Protective Services: adults 65+ or adults with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your local Area Agency on Aging for intake."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local Area Agency on Aging"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of age and Georgia residency"
+    ],
+    "contacts": [
+      {
+        "label": "DAS programs and services",
+        "value": "https://aging.georgia.gov/programs-and-services",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DAS programs and services",
+        "url": "https://aging.georgia.gov/programs-and-services"
+      }
+    ],
+    "sources": [
+      "https://aging.georgia.gov/programs-and-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-dca-hcv",
+    "name": "Housing Choice Voucher & Special Housing Programs (DCA)",
+    "agency": "Georgia Department of Community Affairs (DCA)",
+    "category": "Housing",
+    "description": "DCA administers the federal Housing Choice Voucher program in 149 of Georgia's 159 counties (the other 10 run their own), plus special programs: Foster Youth to Independence vouchers for ages 18-24 leaving foster care, Project-Based Vouchers, a homeownership voucher option, Family Self-Sufficiency escrow accounts, and veteran referrals through VA Supportive Housing.",
+    "eligibility": [
+      "Low-income household",
+      "DCA administers HCV in 149 of 159 Georgia counties",
+      "Foster Youth to Independence: ages 18-24, left or leaving foster care, homeless or at risk",
+      "VASH: homeless veterans referred by VA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlists vary",
+        "note": "Voucher waitlists open and close by county and property — check the PBV open-waitlist list and apply directly to each property."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the DCA regional office or local housing authority serving your county"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Social Security numbers",
+      "Proof of residency"
+    ],
+    "contacts": [
+      {
+        "label": "DCA housing special programs",
+        "value": "https://dca.georgia.gov/housing-choice-voucher/special-programs",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DCA housing special programs",
+        "url": "https://dca.georgia.gov/housing-choice-voucher/special-programs"
+      }
+    ],
+    "sources": [
+      "https://dca.georgia.gov/housing-choice-voucher/special-programs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-dds",
+    "name": "Driver's License & ID Services (DDS)",
+    "agency": "Georgia Department of Driver Services (DDS)",
+    "category": "Transportation",
+    "description": "Renew or replace a driver's license or ID card, change an address, check suspensions and license status, pay Super Speeder and reinstatement fees, get a driving history report, and schedule road tests — most transactions available online through a DDS account or the DDS 2 GO mobile app. New licenses and permits require an in-person visit to a Customer Service Center.",
+    "eligibility": [
+      "Georgia resident 18+ for a Class C license (teens under 18 have graduated requirements)",
+      "US citizen or lawful presence documentation for first issuance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Renew up to 150 days before expiration",
+        "note": "Licenses can be renewed up to 150 days before expiration; allow up to 45 days for the permanent card to arrive."
+      }
+    ],
+    "prerequisites": [
+      "Create a DDS online account for online services",
+      "Submit the License/ID/Permit form online before visiting a center"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful status",
+      "Proof of Georgia residency",
+      "Proof of Social Security number (first issuance)"
+    ],
+    "contacts": [
+      {
+        "label": "DDS online services",
+        "value": "https://dds.georgia.gov/your-georgia-drivers-license/online-services",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DDS online services",
+        "url": "https://dds.georgia.gov/your-georgia-drivers-license/online-services"
+      }
+    ],
+    "sources": [
+      "https://dds.georgia.gov/your-georgia-drivers-license/online-services"
+    ],
+    "cost": "Fees apply — vary by transaction",
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-georgia-access",
+    "name": "Georgia Access — State Health Insurance Marketplace",
+    "agency": "Office of Commissioner of Insurance and Safety Fire, Georgia Access",
+    "category": "Healthcare",
+    "description": "Georgia's state-based health insurance marketplace: shop, compare, and enroll in comprehensive health and dental coverage, with financial assistance that may reduce or eliminate premiums. Applications for 2027 coverage open November 1, 2026; 2026 special-enrollment coverage is handled via healthcare.gov.",
+    "eligibility": [
+      "Georgia resident",
+      "Not eligible for Medical Assistance (Medicaid)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Open enrollment for 2027 starts November 1, 2026",
+        "note": "Georgia Gateway notice states applications for 2027 coverage begin November 1, 2026; prior-year special enrollment for 2026 used healthcare.gov."
+      }
+    ],
+    "prerequisites": [
+      "Create a Georgia Access account to enroll online"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Household income information",
+      "Email address"
+    ],
+    "contacts": [
+      {
+        "label": "Georgia Access enrollment options",
+        "value": "https://georgiaaccess.gov/explore-enrollment-options/",
+        "kind": "web"
+      },
+      {
+        "label": "Georgia Access Contact Center",
+        "value": "888-687-1503",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Georgia Access enrollment options",
+        "url": "https://georgiaaccess.gov/explore-enrollment-options/"
+      }
+    ],
+    "sources": [
+      "https://georgiaaccess.gov/explore-enrollment-options/",
+      "https://oci.georgia.gov/press-releases/2025-10-31/georgia-access-opens-its-2026-open-enrollment-period"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-georgia-dream",
+    "name": "Georgia Dream Homeownership Program",
+    "agency": "Georgia Department of Community Affairs (DCA)",
+    "category": "Housing",
+    "description": "Affordable mortgage financing, down payment assistance, and homebuyer education for eligible low- and moderate-income Georgians. Loans are originated by participating lenders statewide; down payment assistance is a 0% interest second mortgage with no monthly payment, repaid on sale, refinance, or move-out. HUD-approved homebuyer education is required.",
+    "eligibility": [
+      "First-time homebuyer, or no home owned in the past 3 years, or purchasing in a targeted area",
+      "Minimum middle credit score of 640",
+      "Meet income and purchase-price limits (vary by county and household size)",
+      "Limited liquid assets (no more than $20,000 or 20% of sales price, whichever is greater)",
+      "Minimum $1,000 of own or gift funds in the transaction"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender; rates are set by DCA and typically published weekly."
+      }
+    ],
+    "prerequisites": [
+      "Apply through a Georgia Dream participating lender — not directly to DCA",
+      "Complete HUD-approved homebuyer education (classes $50-$100)"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Credit documentation",
+      "Bank statements"
+    ],
+    "contacts": [
+      {
+        "label": "Georgia Dream loan program FAQs",
+        "value": "https://dca.georgia.gov/georgia-dream-loan-program-faqs",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Georgia Dream loan program FAQs",
+        "url": "https://dca.georgia.gov/georgia-dream-loan-program-faqs"
+      }
+    ],
+    "sources": [
+      "https://dca.georgia.gov/georgia-dream-loan-program-faqs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-hope-grant",
+    "name": "HOPE Grant — Technical College Aid",
+    "agency": "Georgia Student Finance Commission (GSFC) / GAfutures",
+    "category": "Education",
+    "description": "Tuition assistance for Georgia residents enrolled in certificate or diploma programs at Technical College System of Georgia (TCSG) or participating USG institutions. No specific high school GPA or graduation requirement to start; students must maintain a cumulative 2.0 postsecondary GPA at checkpoints and have not earned a bachelor's degree.",
+    "eligibility": [
+      "Georgia resident; U.S. citizen or eligible non-citizen",
+      "Enrolled in a certificate or diploma program at a TCSG or participating USG institution",
+      "Maintain cumulative 2.0 postsecondary GPA at checkpoints",
+      "No bachelor's degree earned"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "FAFSA/GSFAPP per school term",
+        "note": "Students must complete a GSFAPP or current-year FAFSA; check the school's financial aid deadlines."
+      }
+    ],
+    "prerequisites": [
+      "Complete a GSFAPP or current-year FAFSA",
+      "Enroll at an eligible technical college"
+    ],
+    "whatToBring": [
+      "Proof of Georgia residency",
+      "FAFSA or GSFAPP confirmation"
+    ],
+    "contacts": [
+      {
+        "label": "HOPE Grant eligibility",
+        "value": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-grants/hope-grant/eligibility/",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HOPE Grant eligibility",
+        "url": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-grants/hope-grant/eligibility/"
+      }
+    ],
+    "sources": [
+      "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-grants/hope-grant/eligibility/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "agency": "Georgia Student Finance Commission (GSFC)",
+    "applyLinks": [
+      {
+        "label": "HOPE Scholarship application and deadline (GAfutures)",
+        "url": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/application-and-deadline/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GAfutures — HOPE Scholarship",
+        "value": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/application-and-deadline/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Per-term deadline",
+        "note": "Application deadline is the last day of the school term (or the student's withdrawal date, whichever comes first). Submit the FAFSA or GSFAPP as early as possible; colleges may have their own earlier deadlines."
+      }
+    ],
+    "description": "Merit-based scholarship covering a portion of tuition at eligible Georgia public and private colleges and universities for Georgia residents. Apply each year with the FAFSA or the Georgia Student Finance Application (GSFAPP). Males ages 18-25 must register with Selective Service to receive state aid.",
+    "eligibility": [
+      "Georgia resident",
+      "Meet HOPE GPA requirements",
+      "Enrolled at an eligible Georgia postsecondary institution",
+      "Males 18-25: registered with Selective Service"
+    ],
+    "id": "ga-hope-scholarship",
+    "languages": [
+      "English"
+    ],
+    "name": "HOPE Scholarship",
+    "prerequisites": [
+      "Complete the FAFSA each year or the GSFAPP",
+      "Create a GAfutures account to track HOPE GPA and eligibility"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/application-and-deadline/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies by college — check with your school's financial aid office for supplemental forms"
+    ]
+  },
+  {
+    "agency": "Atlanta Legal Aid Society / Georgia Legal Services Program (via GeorgiaLegalAid.org)",
+    "applyLinks": [
+      {
+        "label": "Find legal help (GeorgiaLegalAid.org)",
+        "url": "https://www.georgialegalaid.org/find-legal-help"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Atlanta Legal Aid intake (Fulton, Clayton, Cobb, Gwinnett, DeKalb)",
+        "value": "404-524-5811"
+      },
+      {
+        "kind": "phone",
+        "label": "Georgia Legal Services Program intake (all other counties)",
+        "value": "833-457-7529"
+      },
+      {
+        "kind": "phone",
+        "label": "Georgia Senior Legal Aid (age 60+)",
+        "value": "404-389-9992"
+      },
+      {
+        "kind": "web",
+        "label": "GeorgiaLegalAid.org",
+        "value": "https://www.georgialegalaid.org/find-legal-help"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time by phone or online intake."
+      }
+    ],
+    "description": "Statewide gateway to free civil (non-criminal) legal help for low-income Georgians. Atlanta Legal Aid serves the five metro-Atlanta counties; the Georgia Legal Services Program serves all other Georgia counties; Georgia Senior Legal Aid serves adults 60 and older.",
+    "eligibility": [
+      "Low-income Georgia resident",
+      "Civil (non-criminal) legal issue",
+      "Metro Atlanta (Fulton, Clayton, Cobb, Gwinnett, DeKalb) → Atlanta Legal Aid; all other counties → Georgia Legal Services Program; age 60+ → Georgia Senior Legal Aid"
+    ],
+    "id": "ga-legal-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Georgia Legal Aid — Free Civil Legal Help",
+    "prerequisites": [
+      "Apply online or call the intake line for your county"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://www.georgialegalaid.org/find-legal-help"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Documents related to your legal issue",
+      "Proof of income",
+      "Photo ID"
+    ]
+  },
+  {
+    "agency": "Georgia Division of Family & Children Services (DFCS)",
+    "applyLinks": [
+      {
+        "label": "LIHEAP program page — find your local Community Action Agency",
+        "url": "https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DFCS LIHEAP program page",
+        "value": "https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local Community Action Agency (apply in your county of residence)",
+        "value": "Find your agency through the DFCS LIHEAP page"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Heating: first workday of December (age 65+/medically homebound), first workday of January (all others). Cooling: first workday of April (65+/homebound), first workday of May (all others). 2026 cooling opened April 1 / May 1, 2026. First-come, first-served until funds are exhausted."
+      }
+    ],
+    "description": "Federally funded help with home heating and cooling bills, paid directly to energy suppliers, plus crisis assistance and weatherization. Applications go through local Community Action Agencies on a first-come, first-served basis until funding runs out.",
+    "eligibility": [
+      "U.S. citizen or legally admitted immigrant",
+      "Household income at or below 60% of Georgia's state median income (2026 cooling: $34,549 for a household of one; $77,071 for a household of five)",
+      "Responsible for paying home energy bills",
+      "Not eligible if the household's energy bill has a credit of $1,000 or more"
+    ],
+    "id": "ga-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "LIHEAP — Low Income Home Energy Assistance Program",
+    "prerequisites": [
+      "Contact your local Community Action Agency to learn how it accepts applications"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap",
+      "https://dhs.georgia.gov/press-releases/2026-04-06/liheap-cooling-open"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Most recent energy bill or statement of service",
+      "Social Security numbers for each household member",
+      "Proof of citizenship for each household member",
+      "Proof of income for the last 30 days for each adult household member"
+    ]
+  },
+  {
+    "id": "ga-medicaid",
+    "name": "Medicaid (Medical Assistance)",
+    "agency": "Georgia Department of Community Health (DCH); applications via DFCS / Georgia Gateway",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income parents and caretakers with children under 19, children under 19, pregnant women, and people who are 65+, blind, or disabled. Administered by the Georgia Department of Community Health; most members receive care through a Care Management Organization. Apply through Georgia Gateway or by phone.",
+    "eligibility": [
+      "Low-income parent or caretaker with child under 19",
+      "Children under 19",
+      "Pregnant women",
+      "People age 65+, blind, or disabled"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Apply any time; renew coverage on schedule in Georgia Gateway."
+      }
+    ],
+    "prerequisites": [
+      "Apply through Georgia Gateway or by phone through DFCS"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Proof of Georgia residency",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "label": "Georgia Gateway — apply for benefits",
+        "value": "https://gateway.ga.gov",
+        "kind": "web"
+      },
+      {
+        "label": "DFCS Customer Contact Center",
+        "value": "1-877-423-4746",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Georgia Gateway — apply for benefits",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "sources": [
+      "https://gateway.ga.gov",
+      "https://oci.georgia.gov/press-releases/2025-10-31/georgia-access-opens-its-2026-open-enrollment-period"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "agency": "Georgia Department of Community Health (DCH)",
+    "applyLinks": [
+      {
+        "label": "Apply at Georgia Gateway",
+        "url": "https://gateway.ga.gov"
+      },
+      {
+        "label": "Pathways FAQs",
+        "url": "http://pathways.georgia.gov/about-pathways/faqs"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pathways / DFCS Customer Contact Center",
+        "value": "1-877-423-4746"
+      },
+      {
+        "kind": "web",
+        "label": "Georgia Pathways to Coverage",
+        "value": "http://pathways.georgia.gov/about-pathways/faqs"
+      }
+    ],
+    "cost": "Free to apply; small copays for some services (primary care $0)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Program extended through December 31, 2026; eligibility requirements change January 1, 2027."
+      }
+    ],
+    "description": "Medicaid coverage for Georgians ages 19-64 who do not qualify for traditional Medicaid, built around 80 hours per month of qualifying activities (work, volunteering, education, caregiving, job training). Covers doctor visits, hospital stays, prescriptions, mental health, and preventive care with small copays.",
+    "eligibility": [
+      "Georgia resident age 19-64",
+      "U.S. citizen or legally residing non-citizen",
+      "Household income up to 100% of the Federal Poverty Level (2026: $15,960/year or $1,330/month for one person)",
+      "Complete at least 80 hours per month of qualifying activities",
+      "Not eligible for any other type of Medicaid; not incarcerated"
+    ],
+    "id": "ga-pathways",
+    "languages": [
+      "English"
+    ],
+    "name": "Georgia Pathways to Coverage (Medicaid)",
+    "prerequisites": [
+      "Document qualifying activities (work, school, volunteering hours)",
+      "Reasonable modifications available for people with disabilities, including GVRA referral"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "http://pathways.georgia.gov/about-pathways/faqs",
+      "https://gateway.ga.gov"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Proof of Georgia residency",
+      "Proof of citizenship or immigration status",
+      "Documentation of qualifying activities"
+    ]
+  },
+  {
+    "agency": "Georgia Department of Community Health (DCH)",
+    "applyLinks": [
+      {
+        "label": "Apply at Georgia Gateway (Medical Assistance application)",
+        "url": "https://gateway.ga.gov"
+      },
+      {
+        "label": "PeachCare benefits and costs (DCH)",
+        "url": "https://dch.georgia.gov/peachcare-kids/program-benefits-and-cost"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PeachCare for Kids (payments and information)",
+        "value": "877-427-3224"
+      },
+      {
+        "kind": "web",
+        "label": "PeachCare for Kids (DCH)",
+        "value": "https://dch.georgia.gov/peachcare-kids/program-benefits-and-cost"
+      }
+    ],
+    "cost": "Free to apply; premiums and small copays apply for some families (resumed October 1, 2024)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. No separate application needed — children are screened through the Medical Assistance application on Georgia Gateway."
+      }
+    ],
+    "description": "Georgia's CHIP program: comprehensive health coverage for uninsured children under 19, including doctor visits, dental, vision, prescriptions, mental health, hospitalization, and 12 months of postpartum care. Premiums and copays ($0.50–$12.50) resumed October 1, 2024, but there are none for children under 6, children in foster care, or American Indian/Alaska Native children.",
+    "eligibility": [
+      "Child under age 19",
+      "Uninsured and not eligible for Medicaid",
+      "U.S. citizen or qualified immigrant",
+      "Household income within program limits",
+      "Not an inmate of a public institution"
+    ],
+    "id": "ga-peachcare",
+    "languages": [
+      "English"
+    ],
+    "name": "PeachCare for Kids — Children's Health Insurance",
+    "prerequisites": [
+      "Apply through Georgia Gateway as part of the Medical Assistance application — no separate PeachCare application needed"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://dch.georgia.gov/peachcare-kids/program-benefits-and-cost",
+      "https://gateway.ga.gov"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of household income",
+      "Proof of citizenship or immigration status",
+      "Social Security number for each child"
+    ]
+  },
+  {
+    "id": "ga-prek",
+    "name": "Georgia's Pre-K Program",
+    "agency": "Georgia Department of Early Care and Learning (DECAL), Bright from the Start",
+    "category": "Education",
+    "description": "Free, lottery-funded pre-kindergarten for Georgia's four-year-olds preparing them for kindergarten: a 6.5-hour instructional day, 5 days a week, 180 days a year, at no cost to families, offered through public schools and private providers. Participation is voluntary; some communities use lotteries or waitlists when spaces are limited.",
+    "eligibility": [
+      "Child four years old on or before September 1 of the school year",
+      "Georgia resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Provider-set enrollment windows",
+        "note": "Each Pre-K provider sets its own application process, deadlines, and selection criteria; contact providers directly."
+      }
+    ],
+    "prerequisites": [
+      "Apply directly to a local Pre-K provider"
+    ],
+    "whatToBring": [
+      "Proof of child's age (birth certificate, passport, hospital record)",
+      "Proof of Georgia residency (lease, utility bill, shelter letter)",
+      "Vision, hearing, dental, and nutrition screening certificate (Form 3300) within 90 days of entry",
+      "Immunization certificate (Form 3231) within 30 days of entry"
+    ],
+    "contacts": [
+      {
+        "label": "About Georgia's Pre-K",
+        "value": "https://www.DECAL.ga.gov/Prek/About.aspx",
+        "kind": "web"
+      },
+      {
+        "label": "Bright from the Start",
+        "value": "404-656-5957",
+        "kind": "phone"
+      },
+      {
+        "label": "Toll-free Pre-K line",
+        "value": "1-888-442-7735",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "About Georgia's Pre-K",
+        "url": "https://www.DECAL.ga.gov/Prek/About.aspx"
+      }
+    ],
+    "sources": [
+      "https://www.DECAL.ga.gov/Prek/About.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "agency": "Georgia Division of Family & Children Services (DFCS)",
+    "applyLinks": [
+      {
+        "label": "Apply for benefits at Georgia Gateway",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DFCS Customer Contact Center",
+        "value": "1-877-423-4746"
+      },
+      {
+        "kind": "web",
+        "label": "Georgia Gateway",
+        "value": "https://gateway.ga.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits are issued monthly once approved."
+      }
+    ],
+    "description": "Monthly food benefits on an EBT card for eligible low-income households, applied for through the Georgia Gateway portal, by phone, or at any county DFCS office. DFCS also runs Senior SNAP with a simplified application for older adults.",
+    "eligibility": [
+      "Georgia resident",
+      "Household income within program limits",
+      "U.S. citizens and certain lawfully present immigrants",
+      "Work requirements may apply — see program page"
+    ],
+    "id": "ga-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "SNAP — Food Benefits (Georgia Gateway)",
+    "prerequisites": [
+      "Create a Georgia Gateway account to apply online"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://gateway.ga.gov"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income (pay stubs)",
+      "Proof of Georgia residency",
+      "Social Security numbers for household members",
+      "Recent utility bills"
+    ]
+  },
+  {
+    "id": "ga-sos-corporations",
+    "name": "Business Registration — Corporations Division",
+    "agency": "Georgia Secretary of State (SOS), Corporations Division",
+    "category": "Small Business",
+    "description": "Register corporations, LLCs, and limited partnerships in Georgia; file annual registrations, search business records, reserve a name, or reinstate an entity. Annual registration runs January 1 to April 1 each year and can be completed online for up to three years at a time.",
+    "eligibility": [
+      "Anyone forming or operating a business entity in Georgia"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual registration: January 1 – April 1",
+        "note": "Entities must file annual registration between January 1 and April 1 each year; failure can lead to administrative dissolution."
+      }
+    ],
+    "prerequisites": [
+      "Create an eCorp account to file online",
+      "Choose a distinguishable business name"
+    ],
+    "whatToBring": [
+      "Business name and Georgia registered agent with street address",
+      "Principal office address",
+      "Names and addresses of officers"
+    ],
+    "contacts": [
+      {
+        "label": "Corporations Division",
+        "value": "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office",
+        "kind": "web"
+      },
+      {
+        "label": "Corporations Division (unverified)",
+        "value": "404-656-2817",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Corporations Division — business services",
+        "url": "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office"
+      }
+    ],
+    "sources": [
+      "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office"
+    ],
+    "cost": "Fees apply — vary by filing; see the official Corporations fee schedule",
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-tanf",
+    "name": "Temporary Assistance for Needy Families (TANF)",
+    "agency": "Georgia Department of Human Services, Division of Family & Children Services (DFCS)",
+    "category": "Money & Taxes",
+    "description": "Monthly cash assistance with an employment-services component for low-income families with children under 18 (or 18 and in school full-time) and pregnant women. Cooperation with Child Support Services is required unless good cause exists. Apply online through Georgia Gateway (Mon-Fri 5 a.m.-midnight), by phone, or by mailing paper Form 297 to your county DFCS office.",
+    "eligibility": [
+      "Low-income family with child under 18 (or age 18 and in school full-time)",
+      "Pregnant women",
+      "Parent or caretaker included in the grant must participate in a work program",
+      "Cooperate with Child Support Services unless good cause is established"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Recipients undergo periodic review of continued eligibility; renew online in Georgia Gateway or with Form 508."
+      }
+    ],
+    "prerequisites": [
+      "File application via Georgia Gateway, phone, or paper Form 297 mailed to the county DFCS office"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income and household size",
+      "Proof of Georgia residency",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "label": "TANF program page",
+        "value": "https://dfcs.georgia.gov/services/temporary-assistance-needy-families",
+        "kind": "web"
+      },
+      {
+        "label": "DFCS Customer Contact Center",
+        "value": "(877) 423-4746",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TANF program page",
+        "url": "https://dfcs.georgia.gov/services/temporary-assistance-needy-families"
+      },
+      {
+        "label": "Georgia Gateway — apply for benefits",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "sources": [
+      "https://dfcs.georgia.gov/services/temporary-assistance-needy-families"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "agency": "Georgia Department of Labor (GDOL)",
+    "applyLinks": [
+      {
+        "label": "File a new UI claim (MyUI Claimant Portal)",
+        "url": "https://georgia.gov/file-new-unemployment-insurance-claim"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File a new unemployment insurance claim (Georgia.gov)",
+        "value": "https://georgia.gov/file-new-unemployment-insurance-claim"
+      },
+      {
+        "kind": "in-person",
+        "label": "Any GDOL career center",
+        "value": "File in person at a Georgia Department of Labor career center"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed; request benefit payments weekly. Note: phone (IVR) weekly payment requests ended June 8, 2026 — weekly claims must now be filed online."
+      }
+    ],
+    "description": "Weekly benefit payments for Georgians who lost work through no fault of their own. File through the MyUI Claimant Portal or a GDOL career center, then request payments weekly and meet work-search requirements. Emergency Unemployment Compensation and State Extended Benefits are currently not available.",
+    "eligibility": [
+      "Earned enough wages in the base period",
+      "Separated from last employer through no fault of your own",
+      "U.S. citizen or authorized to work in the U.S.",
+      "Able, available, and actively seeking work"
+    ],
+    "id": "ga-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (UI)",
+    "prerequisites": [
+      "Create a MyUI Claimant Portal account with password and PIN",
+      "Register for employment services at WorkSource Georgia unless exempt by law"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://georgia.gov/file-new-unemployment-insurance-claim"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number",
+      "Unexpired government-issued photo ID",
+      "Work history for the last 18 months (employer names, addresses, dates, pay)",
+      "Bank account and routing number for direct deposit",
+      "Separation notice from employer, if available"
+    ]
+  },
+  {
+    "agency": "Georgia Department of Veterans Service (GDVS)",
+    "applyLinks": [
+      {
+        "label": "GDVS — schedule an appointment with a Veterans Service Officer",
+        "url": "https://veterans.georgia.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GDVS main line (unverified)",
+        "value": "404-656-2300"
+      },
+      {
+        "kind": "phone",
+        "label": "Veterans Crisis Line",
+        "value": "988 (Press 1)"
+      },
+      {
+        "kind": "web",
+        "label": "Georgia Department of Veterans Service",
+        "value": "https://veterans.georgia.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule an appointment online or visit one of 50+ GDVS field offices statewide."
+      }
+    ],
+    "description": "Free help for Georgia veterans, family members, caregivers, and survivors in figuring out and applying for earned federal and state veterans benefits, plus claims and appeals support. Offers online appointment scheduling and the Unite Georgia coordinated-care resource directory.",
+    "eligibility": [
+      "Veteran, family member, caregiver, or survivor",
+      "Georgia resident",
+      "No benefit is automatic — eligible veterans must apply"
+    ],
+    "id": "ga-veterans-service",
+    "languages": [
+      "English"
+    ],
+    "name": "Georgia Department of Veterans Service — Benefits Assistance",
+    "prerequisites": [
+      "Schedule an appointment with a Veterans Service Officer online or visit a GDVS field office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://veterans.georgia.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD-214 or discharge papers",
+      "VA medical or claims records, if available"
+    ]
+  },
+  {
+    "agency": "Georgia Vocational Rehabilitation Agency (GVRA)",
+    "applyLinks": [
+      {
+        "label": "Apply for GVRA services (referral form)",
+        "url": "https://gvs.georgia.gov/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GVRA Customer Care (unverified)",
+        "value": "844-367-4872"
+      },
+      {
+        "kind": "web",
+        "label": "Georgia Vocational Rehabilitation Agency",
+        "value": "https://gvs.georgia.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; intake can be completed by phone."
+      }
+    ],
+    "description": "Free employment services for Georgians with disabilities: counseling, training, education support, and job placement through an Individualized Plan for Employment. Applying for or receiving VR services does not affect SSI/SSDI, SNAP, or TANF benefits.",
+    "eligibility": [
+      "Physical or mental impairment",
+      "Impairment is a substantial impediment to employment",
+      "VR services needed to prepare for, secure, retain, or regain employment",
+      "Goal of competitive integrated employment"
+    ],
+    "id": "ga-vocational-rehab",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation (GVRA)",
+    "prerequisites": [
+      "Complete the GVRA referral form online or call customer care"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "GA"
+    },
+    "sources": [
+      "https://gvs.georgia.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID and proof of Social Security number",
+      "Proof of legal authorization to work in the U.S.",
+      "Medical or psychological records of the disability, if available",
+      "SSI/SSDI award letter, if applicable"
+    ]
+  },
+  {
+    "id": "ga-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "Georgia Department of Public Health (DPH)",
+    "category": "Food",
+    "description": "Supplemental nutritious foods, nutrition education, breastfeeding support, and health-care referrals for pregnant, breastfeeding, and postpartum women and for infants and children up to age 5 found to be at nutritional risk. Delivered through local county and district health-department clinics; apply through Georgia Gateway or contact your local clinic.",
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum woman; or infant or child under 5",
+      "Georgia resident",
+      "Family income at or below 185% of the federal poverty level, or enrolled in Medicaid, SNAP, or TANF",
+      "Determined to be at nutritional risk"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "After applying in Gateway, the county WIC clinic contacts you to schedule a nutrition assessment appointment."
+      }
+    ],
+    "prerequisites": [
+      "Apply through Georgia Gateway or contact the local WIC clinic"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Proof of Georgia residency"
+    ],
+    "contacts": [
+      {
+        "label": "Georgia WIC program",
+        "value": "https://dph.georgia.gov/WIC",
+        "kind": "web"
+      },
+      {
+        "label": "Georgia WIC (unverified)",
+        "value": "1-800-228-9173",
+        "kind": "phone"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Georgia WIC program",
+        "url": "https://dph.georgia.gov/WIC"
+      },
+      {
+        "label": "Georgia Gateway — apply",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "sources": [
+      "https://dph.georgia.gov/WIC"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ga-workforce",
+    "name": "WorkSource Georgia — Workforce Development (WIOA)",
+    "agency": "Technical College System of Georgia (TCSG), Office of Workforce Development",
+    "category": "Employment",
+    "description": "Georgia's federally funded employment and training system under the Workforce Innovation and Opportunity Act (WIOA): job matching, career advising, occupational skills training, apprenticeships, rapid response services, veteran services, and senior community-service employment, delivered through local Workforce Development Areas and One-Stop career centers.",
+    "eligibility": [
+      "Job seekers — adult, dislocated worker, youth, and senior programs each have specific criteria",
+      "Employers seeking hiring and training support"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a local One-Stop career center or Workforce Development Area for intake."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local One-Stop career center"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of work authorization"
+    ],
+    "contacts": [
+      {
+        "label": "GDOL education and training (WorkSource Georgia)",
+        "value": "https://dol.georgia.gov/learn-about-education-and-training",
+        "kind": "web"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GDOL education and training (WorkSource Georgia)",
+        "url": "https://dol.georgia.gov/learn-about-education-and-training"
+      }
+    ],
+    "sources": [
+      "https://dol.georgia.gov/learn-about-education-and-training"
+    ],
+    "verifiedAt": "2026-09-19",
+    "scope": {
+      "level": "state",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-ssa-disability",
+    "name": "Social Security Disability Insurance (SSDI)",
+    "agency": "U.S. Social Security Administration",
+    "category": "Disability",
+    "description": "Monthly payments to people with a disability or blindness that stops or limits their ability to work. Benefits may include a monthly payment and Medicare; payment amounts are based on work history before the disability began. You may be able to return to work or continue working without losing benefits. Apply online through the Social Security Administration.",
+    "eligibility": [
+      "Have a disability or blindness",
+      "Have enough work history (Social Security work credits)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling application",
+        "note": "Apply any time; report changes to work, income, and personal information after approval."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or at a Social Security office"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Medical records documenting the disability",
+      "Work history details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Security Administration (unverified)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "SSA Disability benefits",
+        "value": "https://www.ssa.gov/benefits/disability/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SSA Disability benefits",
+        "url": "https://www.ssa.gov/benefits/disability/"
+      }
+    ],
+    "sources": [
+      "https://www.ssa.gov/benefits/disability/"
+    ],
+    "scope": {
+      "level": "federal",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "state": "GA"
+    },
+    "cost": "Free to apply",
+    "languages": [
+      "English"
+    ],
+    "verifiedAt": "2026-09-19"
   }
 ]
