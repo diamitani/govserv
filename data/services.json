@@ -96385,5 +96385,2168 @@
     "sources": [
       "https://www.uscis.gov/about-us/find-a-uscis-office/field-offices"
     ]
+  },
+  {
+    "id": "gu-snap",
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — Guam",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Bureau of Economic Security",
+    "category": "Food",
+    "description": "Monthly food assistance for eligible low-income households in Guam, issued through DPHSS's Bureau of Economic Security. Applications are made with the DPHSS Application for Public Benefits (SNAP, Medicaid, Cash, MIP) at the Dededo, Tamuning, or Inarajan BES offices.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents meeting federal SNAP household and income criteria",
+      "Document requirements in the DPHSS Application for Public Benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "No fixed deadline published; apply year-round"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DPHSS Application for Public Benefits"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of citizenship/alien status, proof of income, proof of Guam residency",
+      "Other documents listed in the application form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern / Dededo BES office",
+        "value": "(671) 635-7432 / (671) 635-7485"
+      },
+      {
+        "kind": "phone",
+        "label": "Central / Tamuning BES office",
+        "value": "(671) 300-8853 / (671) 300-8863"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern / Inarajan BES office",
+        "value": "(671) 828-7542"
+      },
+      {
+        "kind": "in-person",
+        "label": "BES offices (Dededo, Tamuning, Inarajan)",
+        "value": "761 South Marine Corps Drive, RAN-Care Commercial Building, Tamuning, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Application for Public Benefits (SNAP, Medicaid, Cash, MIP)",
+        "url": "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphss.guam.gov/bureau-of-economic-security/",
+      "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+    ]
+  },
+  {
+    "id": "gu-medicaid",
+    "name": "Medicaid — Guam (DPHSS)",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS)",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income Guam residents, administered by DPHSS. Temporary Medicaid flexibilities were in effect as of September 2026 following Typhoons Sinlaku and Bavi. Applications use the DPHSS Application for Public Benefits.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents meeting Medicaid income and category criteria",
+      "Temporary post-typhoon flexibilities announced September 2026 — see the DPHSS release for details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "Apply year-round; temporary flexibilities active as of 2026-09-15 (PR26-167)"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DPHSS Application for Public Benefits"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of citizenship/alien status, proof of income, proof of Guam residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern / Dededo BES office",
+        "value": "(671) 635-7432 / (671) 635-7485"
+      },
+      {
+        "kind": "phone",
+        "label": "Central / Tamuning BES office",
+        "value": "(671) 300-8853 / (671) 300-8863"
+      },
+      {
+        "kind": "web",
+        "label": "DPHSS homepage",
+        "value": "http://dphss.guam.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Application for Public Benefits (SNAP, Medicaid, Cash, MIP)",
+        "url": "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+    ]
+  },
+  {
+    "id": "gu-tanf",
+    "name": "TANF (Temporary Assistance for Needy Families) — Guam Cash Assistance",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Bureau of Economic Security",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance for families in need, administered by DPHSS's Bureau of Economic Security as Guam's welfare/cash program. Applications use the DPHSS Application for Public Benefits at the Dededo, Tamuning, or Inarajan BES offices.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Families in Guam meeting TANF income and need criteria",
+      "Document requirements in the DPHSS Application for Public Benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "No fixed deadline published; apply year-round"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DPHSS Application for Public Benefits"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of citizenship/alien status, proof of income, proof of Guam residency, household composition documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern / Dededo BES office",
+        "value": "(671) 635-7432 / (671) 635-7485"
+      },
+      {
+        "kind": "phone",
+        "label": "Central / Tamuning BES office",
+        "value": "(671) 300-8853 / (671) 300-8863"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern / Inarajan BES office",
+        "value": "(671) 828-7542"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Application for Public Benefits (SNAP, Medicaid, Cash, MIP)",
+        "url": "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphss.guam.gov/bureau-of-economic-security/",
+      "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+    ]
+  },
+  {
+    "id": "gu-mip",
+    "name": "Medically Indigent Program (MIP) — Guam",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS)",
+    "category": "Healthcare",
+    "description": "Coverage for medically indigent Guam residents who do not qualify for Medicaid but cannot afford medical care. Applications use the DPHSS Application for Public Benefits.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents who are medically indigent and ineligible for Medicaid",
+      "Document requirements in the DPHSS Application for Public Benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "No fixed deadline published; apply year-round"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DPHSS Application for Public Benefits"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of citizenship/alien status, proof of income, proof of Guam residency, medical documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern / Dededo BES office",
+        "value": "(671) 635-7432 / (671) 635-7485"
+      },
+      {
+        "kind": "phone",
+        "label": "Central / Tamuning BES office",
+        "value": "(671) 300-8853 / (671) 300-8863"
+      },
+      {
+        "kind": "web",
+        "label": "DPHSS homepage",
+        "value": "http://dphss.guam.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Application for Public Benefits (SNAP, Medicaid, Cash, MIP)",
+        "url": "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+    ]
+  },
+  {
+    "id": "gu-wic",
+    "name": "Guam WIC — Women, Infants, and Children Nutrition Program",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Bureau of Nutrition Services",
+    "category": "Food",
+    "description": "Nutrition assistance and education for pregnant and postpartum women, infants, and children under 5 in Guam. Clinics operate in Dededo, Tiyan, Santa Rita, and Inalahan; the Tiyan clinic adjusted its hours effective September 3, 2026, so call ahead.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum women",
+      "Infants and children under 5",
+      "Guam residents meeting WIC income and nutritional-risk criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "No fixed deadline published; apply year-round at a WIC clinic"
+      }
+    ],
+    "prerequisites": [
+      "Schedule an appointment at a WIC clinic"
+    ],
+    "whatToBring": [
+      "ID, proof of income, proof of Guam residency, immunization records (for children)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern / Dededo WIC clinic",
+        "value": "(671) 635-7471 / (671) 635-7472"
+      },
+      {
+        "kind": "phone",
+        "label": "Tiyan WIC clinic",
+        "value": "(671) 475-0295 / (671) 475-0296"
+      },
+      {
+        "kind": "phone",
+        "label": "Santa Rita WIC clinic",
+        "value": "(671) 565-3536"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern WIC clinic",
+        "value": "(671) 828-7550"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHSS WIC clinic locations and hours (September 2026 release)",
+        "url": "https://dphss.guam.gov/sites/default/files/news_1781573159_PR26-110%20DPHSS%20WIC%20Clinics%20to%20Close%20Temporarily%20for%20Emergency%20Preparedness%20Training.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "https://dphss.guam.gov/sites/default/files/news_1781573159_PR26-110%20DPHSS%20WIC%20Clinics%20to%20Close%20Temporarily%20for%20Emergency%20Preparedness%20Training.pdf"
+    ]
+  },
+  {
+    "id": "gu-ccdf",
+    "name": "Child Care and Development Fund (CCDF) — Guam Child Care Subsidy",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Bureau of Child Care Services",
+    "category": "Family & Childcare",
+    "description": "Child care subsidies for eligible working families in Guam. As of September 3, 2026, DPHSS placed new CCDF applicants on a waitlist; updated income eligibility guidelines took effect October 1, 2026.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam families with a qualifying need for child care",
+      "New applicants were placed on a waitlist as of 2026-09-03 (PR26-159)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlisted",
+        "note": "New applicants placed on a waitlist per the 2026-09-03 DPHSS announcement; updated income guidelines effective 2026-10-01"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Bureau of Child Care Services"
+    ],
+    "whatToBring": [
+      "ID, proof of income, proof of Guam residency, child's birth certificate, work or school verification"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Bureau of Child Care Services",
+        "value": "https://dphss.guam.gov/bureau-of-child-care-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Bureau of Child Care Services (DPHSS)",
+        "url": "https://dphss.guam.gov/bureau-of-child-care-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "https://dphss.guam.gov/bureau-of-child-care-services/"
+    ]
+  },
+  {
+    "id": "gu-dphss-health-clinics",
+    "name": "DPHSS Public Health Clinics — Northern and Southern Regional Community Health Centers",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Division of Public Health",
+    "category": "Healthcare",
+    "description": "Guam's public health clinics provide doctor visits, children's and women's care, immunizations, TB control, dental, mental health, labs, and pharmacy. The Northern Regional Community Health Center is in Dededo and the Southern Regional Community Health Center in Inalahan; uninsured patients are not turned away. Hours were disrupted by 2026 typhoons — call ahead.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Open to Guam residents; uninsured patients are not turned away",
+      "Sliding-fee or free care per DPHSS policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead to confirm current hours after the 2026 typhoon season"
+      }
+    ],
+    "prerequisites": [
+      "Call the clinic to confirm current hours and schedule a visit"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured, immunization records (for children)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern Regional Community Health Center (Dededo)",
+        "value": "(671) 635-7412"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern Regional Community Health Center (Inalahan)",
+        "value": "(671) 828-7511"
+      },
+      {
+        "kind": "in-person",
+        "label": "NRCHC",
+        "value": "520 West Santa Monica Avenue, Dededo, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHSS Division of Public Health — clinics",
+        "url": "http://dphss.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or sliding-scale; uninsured not turned away",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "http://ghs.guam.gov/sites/default/files/jic_recovery_release_no._12_-_dphss_update.pdf"
+    ]
+  },
+  {
+    "id": "gu-senior-citizens",
+    "name": "DPHSS Division of Senior Citizens — Senior Services",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Division of Senior Citizens",
+    "category": "Seniors",
+    "description": "Guam's senior services include senior centers, adult day care, meal services, and support programs. Operations were affected by the 2026 typhoon season — per the April 2026 recovery update, senior centers closed until power and water were restored while adult day care was fully operational; call ahead to confirm current schedules.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Older adults in Guam",
+      "Program-specific criteria apply — call the division for current enrollment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead to confirm current schedules after the 2026 typhoon season"
+      }
+    ],
+    "prerequisites": [
+      "Call the Division of Senior Citizens to enroll"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of age — call ahead for program-specific requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior Centers",
+        "value": "(671) 735-7415 / (671) 735-7421"
+      },
+      {
+        "kind": "email",
+        "label": "Senior Centers",
+        "value": "seniorcenters@dphss.guam.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Adult Day Care (direct line)",
+        "value": "(671) 475-6266"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHSS homepage — senior services",
+        "url": "http://dphss.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "http://ghs.guam.gov/sites/default/files/jic_recovery_release_no._12_-_dphss_update.pdf"
+    ]
+  },
+  {
+    "id": "gu-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance Program (Guam Energy Office)",
+    "agency": "Guam Energy Office",
+    "category": "Utilities",
+    "description": "Energy-bill assistance for low-income Guam households, administered by the Guam Energy Office. Both 2026 assistance cycles are now closed: Crisis Assistance ran 2026-03-16 through 2026-08-14, and the Cooling Assistance Credit ran 2026-03-16 through 2026-03-27. Future cycles depend on federal funding.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Low-income households in Guam",
+      "Applications open only during announced assistance periods"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-08-14",
+        "label": "Crisis Assistance — closed",
+        "note": "2026 Crisis Assistance ran 2026-03-16 to 2026-08-14"
+      },
+      {
+        "date": "2026-03-27",
+        "label": "Cooling Assistance Credit — closed",
+        "note": "2026 Cooling Assistance Credit ran 2026-03-16 to 2026-03-27"
+      }
+    ],
+    "prerequisites": [
+      "Wait for the next announced assistance period; check the Guam Energy Office page for new cycles"
+    ],
+    "whatToBring": [
+      "ID, proof of income, utility bill in applicant's name — confirm the document list for the next cycle"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Guam Energy Office LIHEAP",
+        "value": "(671) 646-4361"
+      },
+      {
+        "kind": "in-person",
+        "label": "LIHEAP submission location",
+        "value": "548 North Marine Corps Drive, Tamuning, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Energy Office — LIHEAP",
+        "url": "https://energy.guam.gov/liheap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://energy.guam.gov/liheap/"
+    ]
+  },
+  {
+    "id": "gu-ghura-public-housing",
+    "name": "GHURA Public Housing — Rental Assistance",
+    "agency": "Guam Housing and Urban Renewal Authority (GHURA)",
+    "category": "Housing",
+    "description": "Affordable public housing units in GHURA-managed Asset Management Project (AMP) sites islandwide for low-income families, seniors, and people with disabilities. Applications are submitted in person at GHURA site offices; wait lists open and close by AMP site, so check current announcements before applying.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Low-income families, seniors, and persons with disabilities in Guam",
+      "Wait lists open/close by AMP site — check GHURA's announcements for the current status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Site-specific wait lists",
+        "note": "Recent announcements include an AMP4 wait list opening 2026-03-20 to 2026-03-31 and an AMP3 site-base wait list closing 2026-07-15; confirm current status on ghura.org"
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at a GHURA site office"
+    ],
+    "whatToBring": [
+      "ID, Social Security cards, proof of income, proof of Guam residency — confirm the full list with the site office"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GHURA main line",
+        "value": "(671) 477-9851"
+      },
+      {
+        "kind": "phone",
+        "label": "GHURA TTY",
+        "value": "(671) 472-3701"
+      },
+      {
+        "kind": "in-person",
+        "label": "GHURA Main Office (Sinajana)",
+        "value": "117 Bien Venida Avenue, Sinajana, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GHURA — Public Housing applications (ghura.org)",
+        "url": "https://ghura.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ghura.org/",
+      "https://ghura.org/section-8"
+    ]
+  },
+  {
+    "id": "gu-ghura-section8-hcv",
+    "name": "GHURA Section 8 Housing Choice Voucher (HCV) Program",
+    "agency": "Guam Housing and Urban Renewal Authority (GHURA)",
+    "category": "Housing",
+    "description": "Rental vouchers for low-income families, seniors, and people with disabilities to rent in the private market in Guam. Applications are accepted online only when the wait list opens, and openings are announced in advance on ghura.org — there is no general open wait list at this time.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Low-income families, seniors, and persons with disabilities in Guam",
+      "Wait list openings are announced on ghura.org; the Section 8 Project-Based Voucher wait list ran 2025-12-01 to 2025-12-31"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Wait list openings announced",
+        "note": "No general open wait list; watch ghura.org for announced openings"
+      }
+    ],
+    "prerequisites": [
+      "Wait for an announced wait-list opening; apply online during the opening"
+    ],
+    "whatToBring": [
+      "ID, Social Security cards, proof of income, proof of Guam residency — confirm the document list in the opening announcement"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GHURA main line",
+        "value": "(671) 477-9851"
+      },
+      {
+        "kind": "phone",
+        "label": "GHURA TTY",
+        "value": "(671) 472-3701"
+      },
+      {
+        "kind": "in-person",
+        "label": "GHURA Main Office (Sinajana)",
+        "value": "117 Bien Venida Avenue, Sinajana, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GHURA — Section 8 HCV (ghura.org)",
+        "url": "https://ghura.org/section-8"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ghura.org/",
+      "https://ghura.org/section-8"
+    ]
+  },
+  {
+    "id": "gu-ghura-fss",
+    "name": "GHURA Family Self-Sufficiency (FSS) Program",
+    "agency": "Guam Housing and Urban Renewal Authority (GHURA)",
+    "category": "Employment",
+    "description": "Voluntary employment and savings program for active Section 8 HCV and Public Housing participants in good standing. Participants set self-sufficiency goals under a 5-year contract and may earn an escrow account as earned income increases; applications of interest are placed on a waitlist.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Active Section 8 HCV or Public Housing participants in good standing",
+      "Voluntary enrollment; applications of interest are waitlisted"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications of interest",
+        "note": "Applications of interest are placed on a waitlist"
+      }
+    ],
+    "prerequisites": [
+      "Must be an active GHURA HCV or Public Housing participant in good standing"
+    ],
+    "whatToBring": [
+      "Photo ID — contact the FSS coordinators for program-specific requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sandrina Cepeda, FSS Coordinator",
+        "value": "(671) 475-1333"
+      },
+      {
+        "kind": "phone",
+        "label": "Reina Capati, FSS Coordinator",
+        "value": "(671) 475-1339"
+      },
+      {
+        "kind": "email",
+        "label": "Sandrina Cepeda",
+        "value": "scepeda@ghura.org"
+      },
+      {
+        "kind": "email",
+        "label": "Reina Capati",
+        "value": "rcapati@ghura.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GHURA Family Self-Sufficiency program",
+        "url": "https://ghura.org/about-fss-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ghura.org/about-fss-program"
+    ]
+  },
+  {
+    "id": "gu-ghc-fthap",
+    "name": "Guam Housing Corporation — First-Time Homeowners Assistance Program (FTHAP)",
+    "agency": "Guam Housing Corporation",
+    "category": "Housing",
+    "description": "Down-payment and closing-cost assistance for first-time homebuyers in Guam. Eligible buyers must be first-time homeowners for the preceding five years, U.S. citizens or permanent residents, Guam residents for the preceding five years, complete a homeownership education workshop, use a participating lender, and keep the transaction at or below $420,000. Confirm program and funding availability before applying.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "First-time homeowners for the preceding five years",
+      "U.S. citizen or permanent resident alien",
+      "Guam resident for the preceding five years",
+      "Transaction amount at or below $420,000",
+      "Homeownership education workshop completion and participating lender required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Confirm current program and funding availability before applying"
+      }
+    ],
+    "prerequisites": [
+      "Complete the homeownership education workshop",
+      "Use a participating lender"
+    ],
+    "whatToBring": [
+      "ID, citizenship or permanent-resident documentation, proof of Guam residency, income and asset documents, workshop certificate — see the official requirements document"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Guam Housing Corporation",
+        "value": "(671) 647-4143 / (671) 647-4146"
+      },
+      {
+        "kind": "in-person",
+        "label": "Guam Housing Corporation",
+        "value": "590 South Marine Corps Drive, Suite 514, ITC Building, Tamuning, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Housing Corporation (guamhousing.org)",
+        "url": "https://guamhousing.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://guamhousing.org/",
+      "https://guamhousing.org/wp-content/uploads/2025/04/FTHAP-Requirements_Revised-10.18.22.pdf"
+    ]
+  },
+  {
+    "id": "gu-american-job-center",
+    "name": "Guam American Job Center (HIREGUAM)",
+    "agency": "Guam Department of Labor (GDOL)",
+    "category": "Employment",
+    "description": "Job-seeker services for Guam residents: job listings, career counseling, training referrals, resume help, and free computer, phone, and fax access. Start by registering with HIREGUAM or visiting/calling the center.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Open to Guam job seekers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-ins and appointments during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Register with HIREGUAM (online or at the center)"
+    ],
+    "whatToBring": [
+      "Photo ID, resume (if available), work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Theresa Camacho, GDOL",
+        "value": "(671) 300-4555"
+      },
+      {
+        "kind": "web",
+        "label": "GDOL job-seekers page",
+        "value": "http://dol.guam.gov/employment-and-training/job-seekers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GDOL — Job Seekers (American Job Center)",
+        "url": "http://dol.guam.gov/employment-and-training/job-seekers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dol.guam.gov/employment-and-training/job-seekers/"
+    ]
+  },
+  {
+    "id": "gu-dua",
+    "name": "Disaster Unemployment Assistance (DUA) — Guam",
+    "agency": "Guam Department of Labor (GDOL)",
+    "category": "Employment",
+    "description": "Temporary unemployment benefits for Guam workers who lost work as a direct result of a declared disaster and are not eligible for regular unemployment insurance. DUA activates only for specific disaster declarations — applicants must wait for an official filing announcement, and once announced, initial claims normally have a 30-day filing period.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Workers unemployed as a direct result of a declared disaster",
+      "Not eligible for regular unemployment insurance",
+      "Only available after an official DUA filing announcement"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Declaration-specific",
+        "note": "Wait for the official filing announcement; initial claims normally have a 30-day window once announced"
+      }
+    ],
+    "prerequisites": [
+      "Wait for GDOL's official DUA filing announcement for the specific disaster"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of employment/self-employment at the time of the disaster — confirm with the announcement"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GDOL Disaster Unemployment Assistance",
+        "value": "http://dol.guam.gov/dua/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GDOL — Disaster Unemployment Assistance",
+        "url": "http://dol.guam.gov/dua/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dol.guam.gov/dua/"
+    ]
+  },
+  {
+    "id": "gu-real-id",
+    "name": "Guam REAL ID Driver's License / Identification Card",
+    "agency": "Guam Department of Revenue and Taxation (DRT), Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "REAL ID-compliant Guam driver's licenses and ID cards accepted for federal purposes. Applicants must present original documents proving identity, date of birth, lawful status, Social Security number, and Guam residency (two residency documents, or a mayor's letter within 30 days addressed to DRT, under the published conditions).",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents applying for a REAL ID driver's license or ID card",
+      "Original documents required for identity, date of birth, lawful status, SSN, and residency"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply at the DMV during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Gather original identity, lawful-status, SSN, and residency documents before visiting"
+    ],
+    "whatToBring": [
+      "Original identity and date-of-birth documents",
+      "Original Social Security documentation",
+      "Lawful-status documentation",
+      "Two residency documents (or a mayor's letter within 30 days addressed to DRT, per published conditions)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Guam DRT REAL ID policy",
+        "value": "https://www.guamtax.com/help/realIDpolicy.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam REAL ID policy and document requirements",
+        "url": "https://www.guamtax.com/help/realIDpolicy.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — see DRT for current license/ID fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.guamtax.com/help/realIDpolicy.html"
+    ]
+  },
+  {
+    "id": "gu-gbhwc-outpatient",
+    "name": "Guam Behavioral Health and Wellness Center — Outpatient Services",
+    "agency": "Guam Behavioral Health and Wellness Center (GBHWC)",
+    "category": "Healthcare",
+    "description": "Mental health and substance-use outpatient services for Guam residents. First-time clients start by submitting the Request and Appointment form on the GBHWC website, then go through intake at the GBHWC Main Facility.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents seeking mental health or substance-use services",
+      "First-time clients must complete intake at the GBHWC Main Facility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit the Request and Appointment form, then complete in-person intake"
+      }
+    ],
+    "prerequisites": [
+      "Submit the Request and Appointment form on gbhwc.guam.gov",
+      "Complete intake at the GBHWC Main Facility (first-time clients)"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance information (if insured) — confirm with the center"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GBHWC — Request and Appointment form",
+        "value": "https://gbhwc.guam.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GBHWC — Request and Appointment form",
+        "url": "https://gbhwc.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or fee-based by service — confirm with the center",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://gbhwc.guam.gov/"
+    ]
+  },
+  {
+    "id": "gu-gbhwc-crisis",
+    "name": "GBHWC Crisis Hotline and 988 — Guam",
+    "agency": "Guam Behavioral Health and Wellness Center (GBHWC)",
+    "category": "Healthcare",
+    "description": "24/7 crisis support for anyone in Guam experiencing a mental health or substance-use emergency, provided through the GBHWC Crisis Hotline and the 988 Suicide and Crisis Lifeline.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Anyone in Guam in crisis or supporting someone in crisis"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always available",
+        "note": "24/7, including holidays"
+      }
+    ],
+    "prerequisites": [
+      "None — call the hotline or 988 directly in a crisis"
+    ],
+    "whatToBring": [
+      "None needed — just call"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GBHWC Crisis Hotline (24/7)",
+        "value": "(671) 647-8833 / (671) 647-8834"
+      },
+      {
+        "kind": "phone",
+        "label": "988 Suicide and Crisis Lifeline",
+        "value": "988"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Leon Guerrero-Tenorio administration statement on Guam's crisis response",
+        "url": "https://governor.guam.gov/press_release/leon-guerrero-tenorio-administration-addressing-mental-health-crisis/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://governor.guam.gov/press_release/leon-guerrero-tenorio-administration-addressing-mental-health-crisis/"
+    ]
+  },
+  {
+    "id": "gu-gls-pa",
+    "name": "Guam Legal Services — Protection and Advocacy (P&A) for People with Disabilities",
+    "agency": "Guam Legal Services Corporation — Disability Law Center (GLSC-DLC)",
+    "category": "Disability",
+    "description": "Free legal advocacy for people with disabilities in Guam on disability-related legal issues. No citizenship requirement, but the applicant must be physically on Guam; some outside costs may apply. Apply by phone, email, or office visit; interpreters available on request.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Person with a disability with a disability-related legal issue",
+      "Must be physically on Guam; no citizenship requirement",
+      "Free services (some outside costs may apply)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply by phone, email, or in person, Mon-Fri 8am-5pm"
+      }
+    ],
+    "prerequisites": [
+      "Contact GLSC by phone, email, or office visit to request services"
+    ],
+    "whatToBring": [
+      "ID and documents related to your legal issue — confirm with GLSC when you call"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GLSC main line",
+        "value": "(671) 477-9811 / (671) 477-9812"
+      },
+      {
+        "kind": "in-person",
+        "label": "GLSC office",
+        "value": "434 West O'Brien Drive, Suite 102, Hagatna, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GLSC — How to get legal help (FAQ)",
+        "url": "https://www.guamlegalservices.org/node/34"
+      }
+    ],
+    "languages": [
+      "English",
+      "Interpreters available on request"
+    ],
+    "cost": "Free (some outside costs may apply)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.guamlegalservices.org/node/34"
+    ]
+  },
+  {
+    "id": "gu-gls-lav",
+    "name": "Guam Legal Services — Legal Assistance for Victims (LAV)",
+    "agency": "Guam Legal Services Corporation — Disability Law Center (GLSC-DLC)",
+    "category": "Legal Aid",
+    "description": "No-cost civil legal help for survivors of sexual assault, domestic violence, stalking, or dating violence in Guam, including protective orders, divorce, and custody matters. Income requirements apply.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Survivors of sexual assault, domestic violence, stalking, or dating violence in Guam",
+      "Income requirements apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply by phone or email; no-cost services"
+      }
+    ],
+    "prerequisites": [
+      "Contact GLSC by phone or email to request LAV services"
+    ],
+    "whatToBring": [
+      "ID and documents related to your case — confirm with GLSC when you call"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GLSC LAV line",
+        "value": "(671) 477-9811"
+      },
+      {
+        "kind": "email",
+        "label": "GLSC",
+        "value": "information@guamlsc.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GLSC LAV program announcement",
+        "url": "https://guamlegalservices.org/sites/default/files/press_release_lav.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Interpreters available on request"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://guamlegalservices.org/sites/default/files/press_release_lav.pdf",
+      "https://www.guamlegalservices.org/node/34"
+    ]
+  },
+  {
+    "id": "gu-mlsc",
+    "name": "Micronesian Legal Services Corporation — Guam Office",
+    "agency": "Micronesian Legal Services Corporation (MLSC), Guam Office",
+    "category": "Legal Aid",
+    "description": "Free civil legal assistance for eligible low-income Guam residents (no criminal cases). Income below 125% — or 200% in some cases — of the U.S. Federal Poverty Guidelines for Hawaii. By appointment only, Monday–Friday 8am–5pm.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Eligible low-income Guam residents",
+      "Income generally below 125% of the Hawaii Federal Poverty Guidelines (200% in some cases)",
+      "Civil cases only — no criminal cases"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "By appointment only"
+      }
+    ],
+    "prerequisites": [
+      "Call or email to schedule an appointment; apply through the online application linked on the office page"
+    ],
+    "whatToBring": [
+      "ID, proof of income, documents related to your legal issue — confirm when scheduling"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MLSC Guam office",
+        "value": "(671) 969-5504 / (671) 969-5604 / (671) 969-5704"
+      },
+      {
+        "kind": "email",
+        "label": "MLSC Guam office",
+        "value": "guam@mlscnet.org"
+      },
+      {
+        "kind": "in-person",
+        "label": "MLSC Guam office",
+        "value": "238 Archbishop Flores Street, Suite 902, DNA Building, Hagatna, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MLSC Guam office — services and intake",
+        "url": "https://micronesianlegal.org/?page_id=340"
+      }
+    ],
+    "languages": [
+      "English",
+      "Chamorro",
+      "Chuukese"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://micronesianlegal.org/?page_id=340"
+    ]
+  },
+  {
+    "id": "gu-grta-fixed-route",
+    "name": "GRTA Fixed-Route Bus — Islandwide Public Transit",
+    "agency": "Guam Regional Transit Authority (GRTA)",
+    "category": "Transportation",
+    "description": "Islandwide fixed-route public bus service in Guam. Discounted fares for students ages 6–18, seniors 55+, and ADA-certified riders: $0.50 per ride, $1.50 day, $7.50 week, $25 month. Regular fares: $1.50 per ride, $4 day, $20 week, $65 month. Bus passes are sold at the Barrigada, Dededo, Mangilao, and Yigo mayor's offices (Tamuning does not sell passes); cash or business checks only.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Discounted fares: students 6-18, seniors 55+, ADA-certified riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Passes sold at participating mayor's offices during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Buy a pass at a participating mayor's office or pay the fare on the bus"
+    ],
+    "whatToBring": [
+      "ID showing age for discounted fares; ADA certification for ADA discounted fare"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GRTA — bus fares and pass sales",
+        "value": "https://grta.guam.gov/how-do-i/bus-fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GRTA — bus fares and pass-sales locations",
+        "url": "https://grta.guam.gov/how-do-i/bus-fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discounted: $0.50/ride, $1.50 day, $7.50 week, $25 month. Regular: $1.50/ride, $4 day, $20 week, $65 month. Cash or business checks for passes.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "gu-grta-paratransit",
+    "name": "GRTA ADA Paratransit — Complementary Transit for Eligible Riders",
+    "agency": "Guam Regional Transit Authority (GRTA)",
+    "category": "Transportation",
+    "description": "Island-wide complementary paratransit for riders certified eligible under the ADA, operating during the same days and hours as GRTA fixed-route service. Reservations are made by phone (not email), generally the day before the trip; there is no service waitlist, and eligibility may be unconditional or conditional.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Riders certified eligible under GRTA's ADA eligibility process (unconditional or conditional)",
+      "Trips within the GRTA service area during fixed-route operating days and hours"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reserve rides by phone, generally the day before"
+      }
+    ],
+    "prerequisites": [
+      "Complete GRTA's ADA eligibility determination",
+      "Call to reserve each ride by phone (email reservations not accepted)"
+    ],
+    "whatToBring": [
+      "Eligibility documentation — see GRTA's ADA directives page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GRTA — ADA directives and paratransit",
+        "value": "https://grta.guam.gov/services/paratransit-riders-guide/american-disabilities-ada-directives"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GRTA — ADA directives / paratransit rider's guide",
+        "url": "https://grta.guam.gov/services/paratransit-riders-guide/american-disabilities-ada-directives"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fare applies — see GRTA fare information",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://grta.guam.gov/services/paratransit-riders-guide/american-disabilities-ada-directives"
+    ]
+  },
+  {
+    "id": "gu-gpls-library",
+    "name": "Guam Public Library System (GPLS) — Library Cards and Branch Services",
+    "agency": "Guam Public Library System (GPLS)",
+    "category": "Education",
+    "description": "Free library cards for Guam residents (age 6 and up, with ID) at the main Nieves M. Flores Memorial Library in Hagatna and branches in Agat, Barrigada, Dededo, Merizo, and Yona, plus a Bookmobile. Libraries offer printing/scanning, computer use, room use, librarian help, and children/teen programming. Branch schedules were reduced to limited weekly hours in 2024 due to staff shortages — call ahead.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents age 6 and up; card requires ID in person"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Branch schedules limited — call ahead before visiting"
+      }
+    ],
+    "prerequisites": [
+      "Apply in person with ID"
+    ],
+    "whatToBring": [
+      "Photo ID (proof of Guam residency)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GPLS main library",
+        "value": "(671) 475-4751 / (671) 475-4752 / (671) 475-4753 / (671) 475-4754"
+      },
+      {
+        "kind": "phone",
+        "label": "Dededo branch",
+        "value": "(671) 632-5503"
+      },
+      {
+        "kind": "in-person",
+        "label": "Main library",
+        "value": "254 Martyr Street, Hagatna, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Public Library System (gpls.guam.gov)",
+        "url": "http://gpls.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Guam residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://gpls.guam.gov/",
+      "http://gpls.guam.gov/wp-content/uploads/2016/11/How-To-Get-A-Library-Card_2020.pdf",
+      "http://gpls.guam.gov/wp-content/uploads/2024/01/Risk-Assessments-Staff-Shortages.pdf"
+    ]
+  },
+  {
+    "id": "gu-gec-vote",
+    "name": "Guam Election Commission — Voter Registration and 2026 General Election",
+    "agency": "Guam Election Commission (GEC)",
+    "category": "Legal Aid",
+    "description": "Voter registration and election information for Guam. For the 2026 General Election (November 3, 2026): registration deadline is October 19, 2026; early voting runs October 8–28, 2026; homebound voting begins October 5, 2026; off-island absentee ballot requests are due October 31, 2026. Dates are subject to change — confirm on gec.guam.gov.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "U.S. citizens 18 or older by Election Day who are Guam residents"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-19",
+        "label": "Voter registration deadline (General Election)",
+        "note": "15 days before the election; dates subject to change"
+      },
+      {
+        "date": "2026-10-08",
+        "label": "Early voting begins",
+        "note": "At GEC-designated early voting sites"
+      },
+      {
+        "date": "2026-10-28",
+        "label": "Last day of early voting",
+        "note": "Per the GEC 2026 important dates page"
+      },
+      {
+        "date": "2026-10-31",
+        "label": "Off-island absentee ballot request deadline",
+        "note": "Per the GEC 2026 important dates page"
+      },
+      {
+        "date": "2026-11-03",
+        "label": "2026 General Election",
+        "note": "Polls open islandwide"
+      }
+    ],
+    "prerequisites": [
+      "Register to vote by 2026-10-19 (or update your registration)"
+    ],
+    "whatToBring": [
+      "Valid ID for registration and voting — confirm requirements on the GEC site"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GEC — 2026 important dates",
+        "value": "https://gec.guam.gov/2026-important-dates/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GEC — 2026 important dates (registration, early voting, absentee)",
+        "url": "https://gec.guam.gov/2026-important-dates/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://gec.guam.gov/2026-important-dates/"
+    ]
+  },
+  {
+    "id": "gu-sbdc",
+    "name": "Guam Small Business Development Center (SBDC) — Business Counseling",
+    "agency": "Guam Small Business Development Center, University of Guam School of Business and Public Administration",
+    "category": "Small Business",
+    "description": "Free, confidential one-on-one business counseling and training (at low or no cost) for Guam's small businesses, located at the University of Guam in Mangilao.",
+    "scope": {
+      "level": "state",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Small business owners and prospective owners in Guam"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the SBDC to schedule counseling or training"
+      }
+    ],
+    "prerequisites": [
+      "Contact the SBDC to request counseling"
+    ],
+    "whatToBring": [
+      "Business plan or business documents if available — confirm when scheduling"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Guam SBDC",
+        "value": "(671) 735-2590"
+      },
+      {
+        "kind": "in-person",
+        "label": "Guam SBDC",
+        "value": "University of Guam, School of Business and Public Administration, Mangilao, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam SBDC (uog.edu)",
+        "url": "https://www.uog.edu/sbdc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling; trainings at low or no cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.uog.edu/sbdc/"
+    ]
+  },
+  {
+    "id": "dededo-mayor-office",
+    "name": "Dededo Mayor's Office — Village Services and Verification of Residence",
+    "agency": "Municipality of Dededo (Mayor Peter John Benavente)",
+    "category": "Legal Aid",
+    "description": "Dededo's village office provides community services including verification-of-residence (VOR) letters for registered households (ready the next business day, can be emailed), GRTA bus pass sales, flea-market reservations and transactions, smoke-alarm requests for substandard housing, and used-cooking-oil collection. Per the most recent published village news (June 2021), services were as described — call to confirm current availability.",
+    "scope": {
+      "level": "city",
+      "city": "Dededo",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Dededo residents; VOR requires a registered household"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "VOR requests ready the next business day; flea-market transactions Wednesdays and Thursdays 9am-4pm (per 2021 village news)"
+      }
+    ],
+    "prerequisites": [
+      "For VOR: household must be registered; request in person, by phone, or email"
+    ],
+    "whatToBring": [
+      "Proof of Dededo residency for VOR and other services — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dededo Mayor's Office",
+        "value": "(671) 632-5203 / (671) 632-5019"
+      },
+      {
+        "kind": "phone",
+        "label": "Flea market (Charlene/Boboy)",
+        "value": "(671) 637-9014"
+      },
+      {
+        "kind": "email",
+        "label": "Dededo Mayor's Office",
+        "value": "dededo.astumbo@gmail.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mayors' Council of Guam — directory",
+        "url": "https://mcog.guam.gov/directory"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mcog.guam.gov/directory",
+      "http://mcog.guam.gov/dededo-village-news-0",
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "dededo-nrchc",
+    "name": "Northern Regional Community Health Center (NRCHC) — Dededo",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Division of Public Health",
+    "category": "Healthcare",
+    "description": "DPHSS's northern public health center in Dededo, offering doctor visits, children's and women's care, immunizations, and pharmacy. The WIC Dededo clinic operates from the same center ((671) 635-7471/72, Mon–Sat 8am–5pm). Uninsured patients are not turned away; call ahead — operations were disrupted by the 2026 typhoon season.",
+    "scope": {
+      "level": "city",
+      "city": "Dededo",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Open to Guam residents; uninsured patients are not turned away"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead to confirm current hours after the 2026 typhoon season"
+      }
+    ],
+    "prerequisites": [
+      "Call to confirm hours and schedule a visit"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured, immunization records (for children)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NRCHC (Dededo)",
+        "value": "(671) 635-7412"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC Dededo clinic (at NRCHC)",
+        "value": "(671) 635-7471 / (671) 635-7472"
+      },
+      {
+        "kind": "in-person",
+        "label": "NRCHC",
+        "value": "520 West Santa Monica Avenue, Dededo, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHSS homepage — health services",
+        "url": "http://dphss.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or sliding-scale; uninsured not turned away",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dphss.guam.gov/",
+      "http://ghs.guam.gov/sites/default/files/jic_recovery_release_no._12_-_dphss_update.pdf",
+      "https://dphss.guam.gov/sites/default/files/news_1781573159_PR26-110%20DPHSS%20WIC%20Clinics%20to%20Close%20Temporarily%20for%20Emergency%20Preparedness%20Training.pdf"
+    ]
+  },
+  {
+    "id": "dededo-library",
+    "name": "GPLS Dededo Branch Library",
+    "agency": "Guam Public Library System (GPLS)",
+    "category": "Education",
+    "description": "GPLS branch library in Dededo. Free library cards for Guam residents (age 6 and up, with ID) are issued here, along with the library's standard print/scan, computer, and programming services. Per the library's 2024 staffing schedule, the Dededo branch was open Tuesdays 9am–12pm and 1pm–5:30pm — call ahead to confirm current hours.",
+    "scope": {
+      "level": "city",
+      "city": "Dededo",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents age 6 and up; card requires ID in person"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead — branch hours are limited"
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card in person with ID"
+    ],
+    "whatToBring": [
+      "Photo ID (proof of Guam residency)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dededo branch",
+        "value": "(671) 632-5503"
+      },
+      {
+        "kind": "phone",
+        "label": "GPLS main library",
+        "value": "(671) 475-4751"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Public Library System (gpls.guam.gov)",
+        "url": "http://gpls.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Guam residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://gpls.guam.gov/",
+      "http://gpls.guam.gov/wp-content/uploads/2016/11/How-To-Get-A-Library-Card_2020.pdf",
+      "http://gpls.guam.gov/wp-content/uploads/2024/01/Risk-Assessments-Staff-Shortages.pdf"
+    ]
+  },
+  {
+    "id": "barrigada-mayor-office",
+    "name": "Barrigada Mayor's Office — Village Services",
+    "agency": "Municipality of Barrigada (Mayor June U. Blas)",
+    "category": "Legal Aid",
+    "description": "Barrigada's village office is the local point for community services, including GRTA bus pass sales. Call the office for current services and hours.",
+    "scope": {
+      "level": "city",
+      "city": "Barrigada",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Barrigada residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "GRTA bus passes sold during office business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to confirm current services and hours"
+    ],
+    "whatToBring": [
+      "Proof of Barrigada residency where applicable — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Barrigada Mayor's Office",
+        "value": "(671) 734-3737 / (671) 734-3859"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mayors' Council of Guam — directory",
+        "url": "https://mcog.guam.gov/directory"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mcog.guam.gov/directory",
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "barrigada-library",
+    "name": "GPLS Barrigada Branch Library",
+    "agency": "Guam Public Library System (GPLS)",
+    "category": "Education",
+    "description": "GPLS branch library in Barrigada. Free library cards for Guam residents (age 6 and up, with ID) are issued here. Per the library's 2024 staffing schedule, the Barrigada branch was open Thursdays 9am–12pm and 1pm–5:30pm — call the main library to confirm current hours.",
+    "scope": {
+      "level": "city",
+      "city": "Barrigada",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents age 6 and up; card requires ID in person"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead — branch hours are limited"
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card in person with ID"
+    ],
+    "whatToBring": [
+      "Photo ID (proof of Guam residency)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GPLS main library (for Barrigada branch hours)",
+        "value": "(671) 475-4751"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Public Library System (gpls.guam.gov)",
+        "url": "http://gpls.guam.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Guam residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://gpls.guam.gov/",
+      "http://gpls.guam.gov/wp-content/uploads/2016/11/How-To-Get-A-Library-Card_2020.pdf",
+      "http://gpls.guam.gov/wp-content/uploads/2024/01/Risk-Assessments-Staff-Shortages.pdf"
+    ]
+  },
+  {
+    "id": "barrigada-drt-business-license",
+    "name": "DRT Business Licensing — New Licenses and Online Renewals (Barrigada/Tamuning)",
+    "agency": "Guam Department of Revenue and Taxation (DRT), Business License Branch",
+    "category": "Small Business",
+    "description": "Business license applications for Guam businesses: Form BL-01 (new business license), one required per activity and location. New applications are processed through DRT's Business License Branch (main office in Barrigada) and the Business License and Permit Center at the DWP Compound in Tamuning (by appointment). Existing licenses can be renewed online at guamtax.com with an EIN or SSN, a GRT account number, and a valid email address.",
+    "scope": {
+      "level": "city",
+      "city": "Barrigada",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Businesses operating in Guam; one application per activity and location"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "New applications by mail/drop box at the DRT main office in Barrigada; BLPC Tamuning by appointment only"
+      }
+    ],
+    "prerequisites": [
+      "Complete Form BL-01 per activity and location",
+      "For online renewal: EIN or SSN, GRT account number, valid email address"
+    ],
+    "whatToBring": [
+      "Completed Form BL-01 and supporting agency clearances/inspections as required for your business activity"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DRT Business License",
+        "value": "(671) 646-3102"
+      },
+      {
+        "kind": "email",
+        "label": "Business license inquiries",
+        "value": "maelinda.bayona@revtax.guam.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "DRT main office (drop box)",
+        "value": "Barrigada, GU"
+      },
+      {
+        "kind": "in-person",
+        "label": "Business License and Permit Center (by appointment)",
+        "value": "DWP Compound, Tamuning, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GuamTax — Business licenses online renewal",
+        "url": "https://www.guamtax.com/efile/biz.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by business activity",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.guamtax.com/efile/biz.html",
+      "https://www.guamtax.com/notices/DRTMediaRelease-BLPC2020.09.27.pdf"
+    ]
+  },
+  {
+    "id": "tamuning-mayor-office",
+    "name": "Tamuning-Tumon-Harmon Mayor's Office — Village Services",
+    "agency": "Municipality of Tamuning (Mayor Louise C. Rivera)",
+    "category": "Legal Aid",
+    "description": "Tamuning-Tumon-Harmon's village office is the local point for community services. Note that the Tamuning mayor's office does NOT sell GRTA bus passes — passes are sold at the Barrigada, Dededo, Mangilao, and Yigo mayor's offices. Call for current services and hours.",
+    "scope": {
+      "level": "city",
+      "city": "Tamuning",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Tamuning-Tumon-Harmon residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the office for current services and hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to confirm current services and hours"
+    ],
+    "whatToBring": [
+      "Proof of Tamuning residency where applicable — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tamuning-Tumon-Harmon Mayor's Office",
+        "value": "(671) 646-5211 / (671) 646-8646"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mayors' Council of Guam — directory",
+        "url": "https://mcog.guam.gov/directory"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mcog.guam.gov/directory",
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "tamuning-bes-central",
+    "name": "DPHSS Bureau of Economic Security — Central Office (Tamuning)",
+    "agency": "Guam Department of Public Health and Social Services (DPHSS), Bureau of Economic Security",
+    "category": "Money & Taxes",
+    "description": "Central-region office of the Bureau of Economic Security in Tamuning, where residents apply in person for SNAP, Medicaid, cash assistance, and the Medically Indigent Program and get help with benefit eligibility and applications.",
+    "scope": {
+      "level": "city",
+      "city": "Tamuning",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Guam residents applying for public benefits (SNAP, Medicaid, cash, MIP)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling applications",
+        "note": "Apply year-round"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DPHSS Application for Public Benefits"
+    ],
+    "whatToBring": [
+      "ID, Social Security number, proof of citizenship/alien status, proof of income, proof of Guam residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central / Tamuning BES office",
+        "value": "(671) 300-8853 / (671) 300-8863"
+      },
+      {
+        "kind": "email",
+        "label": "Central BES",
+        "value": "centralbes@dphss.guam.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "BES Central Office",
+        "value": "761 South Marine Corps Drive, RAN-Care Commercial Building, Tamuning, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Application for Public Benefits (SNAP, Medicaid, Cash, MIP)",
+        "url": "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphss.guam.gov/bureau-of-economic-security/",
+      "https://dphss.guam.gov/sites/default/files/Application%20for%20Public%20Benefits%2010.2023.pdf"
+    ]
+  },
+  {
+    "id": "mangilao-mayor-office",
+    "name": "Mangilao Mayor's Office — Village Services",
+    "agency": "Municipality of Mangilao (Mayor Allan R.G. Ungacta)",
+    "category": "Legal Aid",
+    "description": "Mangilao's village office is the local point for community services, including GRTA bus pass sales. Call the office for current services and hours.",
+    "scope": {
+      "level": "city",
+      "city": "Mangilao",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Mangilao residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "GRTA bus passes sold during office business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to confirm current services and hours"
+    ],
+    "whatToBring": [
+      "Proof of Mangilao residency where applicable — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mangilao Mayor's Office",
+        "value": "(671) 734-2163"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mayors' Council of Guam — directory",
+        "url": "https://mcog.guam.gov/directory"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mcog.guam.gov/directory",
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "yigo-mayor-office",
+    "name": "Yigo Mayor's Office — Village Services",
+    "agency": "Municipality of Yigo (Mayor Frances S. Lizama)",
+    "category": "Legal Aid",
+    "description": "Yigo's village office is the local point for community services, including GRTA bus pass sales. Call the office for current services and hours.",
+    "scope": {
+      "level": "city",
+      "city": "Yigo",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Yigo residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "GRTA bus passes sold during office business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to confirm current services and hours"
+    ],
+    "whatToBring": [
+      "Proof of Yigo residency where applicable — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Yigo Mayor's Office",
+        "value": "(671) 653-5248 / (671) 653-9446 / (671) 653-9119"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mayors' Council of Guam — directory",
+        "url": "https://mcog.guam.gov/directory"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mcog.guam.gov/directory",
+      "https://grta.guam.gov/how-do-i/bus-fares"
+    ]
+  },
+  {
+    "id": "fed-va-guam-clinic",
+    "name": "Guam VA Clinic (Pacific Islands Health Care System)",
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "category": "Veterans",
+    "description": "VA outpatient clinic in Agana Heights providing primary care and other veteran health services on Guam. Care is free for eligible veterans.",
+    "scope": {
+      "level": "federal",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Eligible veterans enrolled in VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll in VA health care, then schedule an appointment"
+      }
+    ],
+    "prerequisites": [
+      "Enroll in VA health care (online, by phone, or in person)"
+    ],
+    "whatToBring": [
+      "DD-214 or discharge papers, photo ID — confirm with the clinic"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Guam VA Clinic",
+        "value": "(800) 214-1306"
+      },
+      {
+        "kind": "in-person",
+        "label": "Guam VA Clinic",
+        "value": "498 Chalan Palasyo, Agana Heights, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam VA Clinic (va.gov)",
+        "url": "https://www.va.gov/pacific-islands-health-care/locations/guam-va-clinic/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible veterans",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/pacific-islands-health-care/locations/guam-va-clinic/"
+    ]
+  },
+  {
+    "id": "fed-va-vet-center",
+    "name": "Guam Vet Center — Readjustment Counseling",
+    "agency": "U.S. Department of Veterans Affairs (VA), Vet Center Program",
+    "category": "Veterans",
+    "description": "Free, confidential, non-medical counseling for eligible veterans, service members, and their families in Guam — including readjustment counseling. No VA health-care enrollment or service-connected rating required; walk-ins available for many services; 24/7 call center.",
+    "scope": {
+      "level": "federal",
+      "state": "GU"
+    },
+    "eligibility": [
+      "Eligible veterans, service members, and their families",
+      "No VA health-care enrollment or service-connected rating required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-ins available for many services; 24/7 call center"
+      }
+    ],
+    "prerequisites": [
+      "Call or walk in to request counseling"
+    ],
+    "whatToBring": [
+      "Photo ID; DD-214 or service documentation if available — confirm with the center"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Guam Vet Center 24/7 call center",
+        "value": "(877) 927-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "Veterans Crisis Line",
+        "value": "988 (press 1)"
+      },
+      {
+        "kind": "in-person",
+        "label": "Guam Vet Center",
+        "value": "400 Route 8, Suite 301, Maite, GU"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Guam Vet Center (va.gov)",
+        "url": "https://www.va.gov/guam-vet-center/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/guam-vet-center/"
+    ]
   }
 ]
