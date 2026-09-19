@@ -73233,5 +73233,1574 @@
     "sources": [
       "https://www.va.gov/manchester-health-care/"
     ]
+  },
+  {
+    "id": "billings-met-transit",
+    "name": "MET Transit — Billings Public Bus",
+    "agency": "City of Billings (MET Transit)",
+    "category": "Transportation",
+    "description": "Fixed-route public bus service in Billings with reduced fares for eligible riders. The city's fare payment page lists current fixed-route fare categories and reduced-fare options.",
+    "scope": {
+      "level": "city",
+      "city": "Billings",
+      "state": "MT"
+    },
+    "eligibility": [
+      "All riders",
+      "Reduced fares for eligible riders — see city fare schedule"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs continuously; check the city page for current fares and schedules"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — pay fare on board or see the fare page for pass options"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MET Transit office",
+        "value": "406-657-8218"
+      },
+      {
+        "kind": "web",
+        "label": "MET Transit fare payment page",
+        "value": "https://billingsmt.gov/3075/Pay"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MET Transit — pay fares and see options",
+        "url": "https://billingsmt.gov/3075/Pay"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see city fare schedule",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://billingsmt.gov/3075/Pay"
+    ]
+  },
+  {
+    "id": "billings-public-library",
+    "name": "Billings Public Library — Library Card",
+    "agency": "Billings Public Library",
+    "category": "Education",
+    "description": "Free library cards for Montana residents, with access to books, e-books, audiobooks, research databases, and 24/7 express lockers. Start the application online, then visit the Circulation Desk with photo ID to complete it.",
+    "scope": {
+      "level": "city",
+      "city": "Billings",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana residents — free card",
+      "Non-residents of Montana — card available for $60 per year"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Cards issued year-round; online applications must be validated at the library within 90 days"
+      }
+    ],
+    "prerequisites": [
+      "Photo identification with current address and birth date",
+      "In-person visit to the Circulation Desk to complete the application"
+    ],
+    "whatToBring": [
+      "Valid photo ID with current address and birth date"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main desk (unverified)",
+        "value": "406-657-8258"
+      },
+      {
+        "kind": "web",
+        "label": "How to get a card",
+        "value": "https://billingslibrary.org/326/How-to-get-a-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Billings Public Library — how to get a card",
+        "url": "https://billingslibrary.org/326/How-to-get-a-card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Montana residents; $60 per year for non-residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://billingslibrary.org/326/How-to-get-a-card"
+    ]
+  },
+  {
+    "id": "yellowstone-riverstone-health",
+    "name": "RiverStone Health — Community Health Center",
+    "agency": "RiverStone Health (Yellowstone County health department)",
+    "category": "Healthcare",
+    "description": "Yellowstone County's public health department and federally qualified health center, providing primary, dental, and behavioral health care, immunizations, WIC, and public health services. Evening and Saturday appointments available at the South Side clinic; staff can help with Medicaid and health insurance enrollment.",
+    "scope": {
+      "level": "county",
+      "county": "Yellowstone",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Open to the public; serves patients regardless of ability to pay",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments scheduled year-round; call the clinic line"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead",
+      "Typically: photo ID, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Immunization clinic",
+        "value": "406-247-3382"
+      },
+      {
+        "kind": "web",
+        "label": "Care in your community — clinics and services",
+        "value": "https://riverstonehealth.org/clinic-services/care-in-your-community/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RiverStone Health — clinics and services",
+        "url": "https://riverstonehealth.org/clinic-services/care-in-your-community/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding fee scale; varies by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://riverstonehealth.org/clinic-services/care-in-your-community/"
+    ]
+  },
+  {
+    "id": "missoula-mountain-line",
+    "name": "Mountain Line — Missoula Public Transit",
+    "agency": "Mountain Line",
+    "category": "Transportation",
+    "description": "Missoula's public transit system covering the city and surrounding areas. All Mountain Line services are zero-fare — board and ride for free.",
+    "scope": {
+      "level": "city",
+      "city": "Missoula",
+      "state": "MT"
+    },
+    "eligibility": [
+      "All riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs continuously; check the official site for routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — zero-fare service"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Mountain Line — how to ride",
+        "value": "https://mountainline.com/your-trip/how-to-ride/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mountain Line — how to ride",
+        "url": "https://mountainline.com/your-trip/how-to-ride/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — all services are zero-fare",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mountainline.com/your-trip/how-to-ride/"
+    ]
+  },
+  {
+    "id": "missoula-public-library",
+    "name": "Missoula Public Library — Library Card",
+    "agency": "Missoula Public Library",
+    "category": "Education",
+    "description": "Free library cards for Montana residents, usable at Missoula Public Library branches and partner libraries across the state. Begin the application online or in person; patrons under 15 need a parent or guardian's permission, and limited-use cards are available for people without a permanent address.",
+    "scope": {
+      "level": "city",
+      "city": "Missoula",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana residents — free card",
+      "Patrons under 15 need a parent or guardian's permission",
+      "Limited-use cards for patrons without a permanent place of residence",
+      "Temporary cards for visitors — ask staff"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Cards issued year-round at any branch"
+      }
+    ],
+    "prerequisites": [
+      "Valid photo identification",
+      "Proof of address"
+    ],
+    "whatToBring": [
+      "Valid photo ID and proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library main line",
+        "value": "406-721-2665"
+      },
+      {
+        "kind": "web",
+        "label": "Library cards page",
+        "value": "https://www.missoulapubliclibrary.org/home/services/library-cards/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Missoula Public Library — library cards",
+        "url": "https://www.missoulapubliclibrary.org/home/services/library-cards/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.missoulapubliclibrary.org/home/services/library-cards/"
+    ]
+  },
+  {
+    "id": "missoula-county-public-health",
+    "name": "Missoula Public Health — Immunization Clinic",
+    "agency": "Missoula Public Health (Missoula City-County Health Department)",
+    "category": "Healthcare",
+    "description": "County public health clinic offering routine vaccines for all ages, walk-in services, travel consults, and pop-up immunization clinics. The clinic uses a sliding fee scale so no one is turned away.",
+    "scope": {
+      "level": "county",
+      "county": "Missoula",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Open to the public — all ages",
+      "Sliding fee scale; no one turned away"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-in services Monday, Tuesday, Thursday, Friday; Wednesday by appointment — call ahead"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance card if you have one"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Missoula Public Health immunization clinic",
+        "value": "406-258-3363"
+      },
+      {
+        "kind": "web",
+        "label": "Missoula Public Health",
+        "value": "https://missoulapublichealth.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Missoula Public Health — services and clinic",
+        "url": "https://missoulapublichealth.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding fee scale",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://missoulapublichealth.org/"
+    ]
+  },
+  {
+    "id": "great-falls-transit",
+    "name": "Great Falls Transit",
+    "agency": "Great Falls Transit District",
+    "category": "Transportation",
+    "description": "Public bus service in Great Falls and Black Eagle with fixed routes and paratransit options. Check the official site for routes, schedules, and fares.",
+    "scope": {
+      "level": "city",
+      "city": "Great Falls",
+      "state": "MT"
+    },
+    "eligibility": [
+      "All riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs continuously; check the official site for routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — see fare page for payment options"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Great Falls Transit",
+        "value": "http://www.gftransit.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Great Falls Transit — routes and fares",
+        "url": "http://www.gftransit.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see official site",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.gftransit.com/"
+    ]
+  },
+  {
+    "id": "great-falls-public-library",
+    "name": "Great Falls Public Library — Library Card",
+    "agency": "Great Falls Public Library",
+    "category": "Education",
+    "description": "Free library cards for Cascade County residents and taxpayers, with e-books, magazines, and digital resources through Montana Library2Go. Active military personnel stationed at Malmstrom Air Force Base and their dependents are eligible with military ID; limited-use cards are available for those without proof of address.",
+    "scope": {
+      "level": "city",
+      "city": "Great Falls",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Cascade County residents and taxpayers — free card",
+      "Active military at Malmstrom Air Force Base and dependents — eligible with military ID",
+      "Limited-use cards for applicants without proof of address"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Cards issued year-round at the library"
+      }
+    ],
+    "prerequisites": [
+      "Photo identification",
+      "Proof of Cascade County address"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address (lease, utility bill, or similar)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library main line",
+        "value": "406-453-0349"
+      },
+      {
+        "kind": "web",
+        "label": "Great Falls Public Library",
+        "value": "https://greatfallslibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Great Falls Public Library",
+        "url": "https://greatfallslibrary.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://greatfallslibrary.org"
+    ]
+  },
+  {
+    "id": "cascade-county-screening",
+    "name": "Cascade City-County Health Department — Cancer Screening Program",
+    "agency": "Cascade City-County Health Department (CCHD)",
+    "category": "Healthcare",
+    "description": "Low- or no-cost cancer screening tests for qualifying Cascade County residents through the Montana Cancer Control Programs, including clinical breast exams, mammograms, Pap tests, and colorectal screenings, plus referrals and payment assistance for services not provided on site.",
+    "scope": {
+      "level": "county",
+      "county": "Cascade",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Qualifying residents of Cascade County",
+      "Breast cancer screening: qualifying women ages 40 to 64",
+      "Cervical cancer screening: women ages 21 and over",
+      "Colorectal cancer screening: qualifying adults ages 45 to 64"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for an enrollment form or appointment"
+      }
+    ],
+    "prerequisites": [
+      "Call 406-791-9272 for an enrollment form or appointment"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CCHD screening program",
+        "value": "406-791-9272"
+      },
+      {
+        "kind": "web",
+        "label": "CCHD screening program",
+        "value": "https://www.cascadecountymt.gov/341/Screening-Program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CCHD — cancer screening program",
+        "url": "https://www.cascadecountymt.gov/341/Screening-Program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Low or no cost for those who qualify",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cascadecountymt.gov/341/Screening-Program"
+    ]
+  },
+  {
+    "id": "bozeman-streamline",
+    "name": "Streamline — Bozeman Area Transit",
+    "agency": "Human Resource Development Council of District IX (HRDC)",
+    "category": "Transportation",
+    "description": "Public transportation for the greater Bozeman area: fixed-route daytime, late-night, and weekend service in Bozeman, commuter routes to Belgrade and Livingston, seasonal Bridger Bowl shuttle, and complementary paratransit through Galavan. See the official site for routes, schedules, and fares.",
+    "scope": {
+      "level": "city",
+      "city": "Bozeman",
+      "state": "MT"
+    },
+    "eligibility": [
+      "All riders",
+      "Galavan paratransit for riders with disabilities — see official site"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs continuously; check the official site for routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — see fare page for payment options"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Streamline — routes and schedules",
+        "value": "https://streamlinebus.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Streamline — routes and schedules",
+        "url": "https://streamlinebus.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Check official site for current fare information",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://streamlinebus.com/"
+    ]
+  },
+  {
+    "id": "butte-silver-bow-transit",
+    "name": "Butte-Silver Bow Transit",
+    "agency": "City and County of Butte-Silver Bow",
+    "category": "Transportation",
+    "description": "Fixed-route public bus service across Butte and Walkerville, operating from the downtown Transit Center. See the official site for routes, schedules, and fares.",
+    "scope": {
+      "level": "city",
+      "city": "Butte",
+      "state": "MT"
+    },
+    "eligibility": [
+      "All riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs continuously; check the official site for routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — see fare page for payment options"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Butte-Silver Bow Transit",
+        "value": "https://buttebus.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Butte-Silver Bow Transit — routes and schedules",
+        "url": "https://buttebus.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Check official site for fares",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://buttebus.org"
+    ]
+  },
+  {
+    "id": "butte-silver-bow-library",
+    "name": "Butte-Silver Bow Public Library",
+    "agency": "Butte-Silver Bow Public Library",
+    "category": "Education",
+    "description": "Public library serving Butte-Silver Bow from the Uptown branch, with books, digital resources, public computers, teen programs, and community events. Contact the library for card registration details and current hours.",
+    "scope": {
+      "level": "city",
+      "city": "Butte",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Butte-Silver Bow residents — verify card requirements with the library"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Cards issued year-round; check current branch hours before visiting"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID and proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main library",
+        "value": "(406) 792-1080"
+      },
+      {
+        "kind": "web",
+        "label": "Butte-Silver Bow Public Library",
+        "value": "http://buttepubliclibrary.blogspot.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Butte-Silver Bow Public Library",
+        "url": "http://buttepubliclibrary.blogspot.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://buttepubliclibrary.blogspot.com/"
+    ]
+  },
+  {
+    "id": "silver-bow-family-planning",
+    "name": "Butte Family Planning Clinic",
+    "agency": "Butte-Silver Bow Health Department, Community Health Division",
+    "category": "Healthcare",
+    "description": "Affordable reproductive and sexual health services for teens and adults of every sex and gender: clinical exams, cancer screening, STI screening and treatment, HIV testing and PrEP, pregnancy testing, and birth control options including IUDs, implants, and emergency contraception. All services are on a sliding fee schedule and confidential; telehealth appointments available.",
+    "scope": {
+      "level": "county",
+      "county": "Silver Bow",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Teens and adults of every sex and gender"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments scheduled year-round"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID and insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Butte-Silver Bow Health — patient services",
+        "value": "http://www.co.silverbow.mt.us/3317/Services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Butte Family Planning Clinic — services",
+        "url": "http://www.co.silverbow.mt.us/3317/Services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding fee scale; services confidential",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.co.silverbow.mt.us/3317/Services"
+    ]
+  },
+  {
+    "id": "mt-snap",
+    "name": "Montana SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Food",
+    "description": "Monthly food benefits for low-income households, issued on an electronic benefits card. Apply online at apply.mt.gov, by phone, or at a county Office of Public Assistance; current income limits and benefit amounts are published on the program page for October 1, 2025 through September 30, 2026.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana residents",
+      "Household income within published SNAP limits — see program page",
+      "Resource limits apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "Apply online at apply.mt.gov, by phone, or in person at a county Office of Public Assistance"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID, proof of income, proof of household expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "phone",
+        "label": "EBT customer service",
+        "value": "1-866-850-1556"
+      },
+      {
+        "kind": "web",
+        "label": "DPHHS SNAP page",
+        "value": "https://dphhs.mt.gov/hcsd/SNAP"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHHS SNAP — apply online",
+        "url": "https://dphhs.mt.gov/hcsd/SNAP"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/hcsd/SNAP"
+    ]
+  },
+  {
+    "id": "mt-healthy-kids",
+    "name": "Healthy Montana Kids (HMK / CHIP)",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Healthcare",
+    "description": "Free or low-cost health coverage for eligible Montana children through age 19, covering doctor visits, dental, vision, and more. Coverage is delivered through private managed care plans; check eligibility by county on the program page.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana children through age 19",
+      "Household income within published HMK limits — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: proof of income and child information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "phone",
+        "label": "BCBS of Montana HMK benefits",
+        "value": "(855) 258-3489"
+      },
+      {
+        "kind": "phone",
+        "label": "Montana Healthcare Programs",
+        "value": "(800) 362-8312"
+      },
+      {
+        "kind": "web",
+        "label": "DPHHS Healthy Montana Kids page",
+        "value": "https://dphhs.mt.gov/HMK/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHHS Healthy Montana Kids — apply",
+        "url": "https://dphhs.mt.gov/HMK/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/HMK/"
+    ]
+  },
+  {
+    "id": "mt-tanf",
+    "name": "Montana TANF — Temporary Assistance for Needy Families",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance and employment support for low-income Montana families with dependent children, including the TANF Pathways employment program run with MAXIMUS. Apply online at apply.mt.gov or through a county Office of Public Assistance.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana families with dependent children",
+      "Income and resource limits apply — see program page",
+      "Work participation and child support cooperation requirements apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID, proof of income, child information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "phone",
+        "label": "TANF Pathways (MAXIMUS)",
+        "value": "(844) 680-4700"
+      },
+      {
+        "kind": "web",
+        "label": "DPHHS TANF page",
+        "value": "https://www.dphhs.mt.gov/hcsd/tanf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHHS TANF — program details and application routes",
+        "url": "https://www.dphhs.mt.gov/hcsd/tanf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dphhs.mt.gov/hcsd/tanf"
+    ]
+  },
+  {
+    "id": "mt-wic",
+    "name": "Montana WIC — Women, Infants, and Children",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Food",
+    "description": "Nutrition support for pregnant and postpartum women, infants, and children under 5: healthy foods, nutrition education, and breastfeeding support. New applicants visit a local WIC clinic to apply; current participants can use the WIC Participant Portal for benefits and appointments.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana residents who are pregnant, breastfeeding, or recently postpartum",
+      "Infants and children under age 5",
+      "Income within published WIC guidelines — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round at local WIC clinics"
+      }
+    ],
+    "prerequisites": [
+      "Visit a local WIC clinic to apply in person"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by clinic; call ahead",
+      "Typically: photo ID, proof of income, proof of pregnancy or child birthdate"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC state office",
+        "value": "1-800-433-4298"
+      },
+      {
+        "kind": "web",
+        "label": "WIC Participant Portal",
+        "value": "https://dphhs.mt.gov/ecfsd/WIC/WICParticipantPortal"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana WIC Participant Portal",
+        "url": "https://dphhs.mt.gov/ecfsd/WIC/WICParticipantPortal"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/ecfsd/WIC/WICParticipantPortal"
+    ]
+  },
+  {
+    "id": "mt-liheap",
+    "name": "Montana LIHEAP & Weatherization Assistance",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Utilities",
+    "description": "Helps low-income households pay heating costs during the heating season, plus year-round weatherization assistance to make homes more energy efficient. Applications go through local LIHEAP offices listed on the program page.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana households with income at or below published limits — see program page",
+      "Weatherization available year-round; heating assistance follows the October 1–April 30 season"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal (October 1 – April 30)",
+        "note": "Heating assistance applications accepted October 1 through April 30; weatherization applications accepted year-round, per the program page"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the LIHEAP office serving your county — see program page for local offices"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID, proof of income, recent heating bill"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DPHHS LIHEAP and Weatherization page",
+        "value": "https://dphhs.mt.gov/hcsd/energyAssistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPHHS — LIHEAP and Weatherization assistance",
+        "url": "https://dphhs.mt.gov/hcsd/energyAssistance/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/hcsd/energyAssistance/"
+    ]
+  },
+  {
+    "id": "mt-unemployment-insurance",
+    "name": "Montana Unemployment Insurance",
+    "agency": "Montana Department of Labor and Industry (DLI)",
+    "category": "Employment",
+    "description": "Weekly benefits for workers who are unemployed or have reduced hours through no fault of their own and meet Montana wage and eligibility requirements. File a new claim online or by phone; gather employment history, banking information, and any applicable military, immigration, union, or federal-employment documents first.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Workers unemployed or with reduced hours through no fault of their own",
+      "Meet Montana wage and work requirements — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you lose work; weekly claim filing requirements apply once approved"
+      }
+    ],
+    "prerequisites": [
+      "File a new claim online at uiclaimant.mt.gov or by phone"
+    ],
+    "whatToBring": [
+      "Employment history for recent employers",
+      "Banking information for direct deposit",
+      "Military, immigration, union, or federal-employment documents if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI claims filing",
+        "value": "(406) 444-2545"
+      },
+      {
+        "kind": "web",
+        "label": "UI claimant information page",
+        "value": "https://uid.dli.mt.gov/claimants/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana UI — claimant information and filing",
+        "url": "https://uid.dli.mt.gov/claimants/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://uid.dli.mt.gov/claimants/"
+    ]
+  },
+  {
+    "id": "mt-vocational-rehabilitation",
+    "name": "Montana Vocational Rehabilitation & Blind Services",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Disability",
+    "description": "Helps Montanans with disabilities find, keep, or advance in jobs: career counseling, training, assistive technology, and job placement. Contact the local VR office or the statewide consumer line to start the application process.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montanans with a physical or mental disability that affects work",
+      "Desire to work and need for VR services to reach an employment goal"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round; contact a local office to begin"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: medical or disability documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VR statewide consumer line",
+        "value": "1-877-296-1197"
+      },
+      {
+        "kind": "phone",
+        "label": "Helena VR office (voice/TTY)",
+        "value": "(406) 444-1710"
+      },
+      {
+        "kind": "web",
+        "label": "VRBS services page",
+        "value": "https://dphhs.mt.gov/detd/vocrehab/VRBSServices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana VRBS — services and application",
+        "url": "https://dphhs.mt.gov/detd/vocrehab/VRBSServices"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/detd/vocrehab/VRBSServices"
+    ]
+  },
+  {
+    "id": "mt-best-beginnings",
+    "name": "Best Beginnings Child Care Scholarship",
+    "agency": "Montana DPHHS, Early Childhood and Family Support Division",
+    "category": "Family & Childcare",
+    "description": "Helps qualifying Montana families pay for licensed child care while parents work, attend school, or train for jobs. Families pay an income-based copayment; a Montana Okta account is required before using the Parent Portal. Check the official page for current policy updates.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana families within published income guidelines — see program page",
+      "Child in licensed or registered child care",
+      "Parents working, attending school, or in job training — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through the Parent Portal"
+      }
+    ],
+    "prerequisites": [
+      "Create a Montana Okta account before using the Best Beginnings Parent Portal"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: proof of income, work or school schedule, child care provider information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Best Beginnings scholarships page",
+        "value": "https://prod-dphhs.mt.gov/ecfsd/ChildCare/BestBeginningsScholarships"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Best Beginnings Child Care Scholarships — apply",
+        "url": "https://prod-dphhs.mt.gov/ecfsd/ChildCare/BestBeginningsScholarships"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Income-based copayment — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://prod-dphhs.mt.gov/ecfsd/ChildCare/BestBeginningsScholarships"
+    ]
+  },
+  {
+    "id": "mt-board-of-housing-loans",
+    "name": "Montana Board of Housing — Home Loans",
+    "agency": "Montana Department of Commerce, Board of Housing",
+    "category": "Housing",
+    "description": "Affordable mortgage programs for qualifying first-time Montana homebuyers, including the Regular Bond Program for buyers who qualify for FHA, VA, USDA Rural Development, or HUD-184 financing. Work with a participating lender; income and purchase-price limits apply.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Qualifying first-time homebuyers",
+      "Qualify for an FHA, VA, RD, or HUD-184 loan",
+      "Income and purchase-price limits apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender — see program page"
+      }
+    ],
+    "prerequisites": [
+      "Work with a participating Montana Board of Housing lender"
+    ],
+    "whatToBring": [
+      "Standard mortgage documents — varies by lender; call ahead",
+      "Typically: proof of income, ID, and homebuyer education certificate if required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Board of Housing — home loans",
+        "value": "https://commerce.mt.gov/Housing/Homeownership/Home-Loans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana Board of Housing — home loans",
+        "url": "https://commerce.mt.gov/Housing/Homeownership/Home-Loans"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Loan terms vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://commerce.mt.gov/Housing/Homeownership/Home-Loans"
+    ]
+  },
+  {
+    "id": "mt-legal-services",
+    "name": "Montana Legal Services Association (MLSA)",
+    "agency": "Montana Legal Services Association",
+    "category": "Legal Aid",
+    "description": "Free civil legal assistance for eligible low-income Montanans statewide — housing, family, consumer, benefits, and other civil issues. Apply online; the HelpLine is staffed Tuesday through Thursday, 9 a.m. to 1 p.m., and online intake generally gets a response within 3 to 5 business days.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Income-eligible Montana residents with civil legal issues",
+      "Varies by program — see eligibility screening"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "HelpLine open Tuesday–Thursday, 9 a.m.–1 p.m.; seek help before legal deadlines pass"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — court papers, notices, contracts"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MLSA HelpLine (Tue–Thu, 9 a.m.–1 p.m.)",
+        "value": "1-800-666-6899"
+      },
+      {
+        "kind": "web",
+        "label": "MLSA — apply for services",
+        "value": "http://www.mtlsa.org/apply-for-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana Legal Services — apply for services",
+        "url": "http://www.mtlsa.org/apply-for-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mtlsa.org/apply-for-services/"
+    ]
+  },
+  {
+    "id": "mt-ship-medicare",
+    "name": "Montana SHIP — State Health Insurance Assistance Program",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Seniors",
+    "description": "Free, confidential, one-on-one Medicare counseling for beneficiaries, their families, and caregivers — plan comparisons, enrollment help, fraud and billing questions, and low-income subsidy screening.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Medicare beneficiaries, families, and caregivers in Montana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling available year-round"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Medicare card and current plan or prescription information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Montana SHIP",
+        "value": "1-800-551-3191"
+      },
+      {
+        "kind": "web",
+        "label": "DPHHS SHIP page",
+        "value": "https://dphhs.mt.gov/sltc/aging/SHIP"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana SHIP — Medicare counseling",
+        "url": "https://dphhs.mt.gov/sltc/aging/SHIP"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dphhs.mt.gov/sltc/aging/SHIP"
+    ]
+  },
+  {
+    "id": "mt-job-service",
+    "name": "Job Service Montana — Employment & Training",
+    "agency": "Montana Department of Labor and Industry (DLI), Workforce Services Division",
+    "category": "Employment",
+    "description": "Free job-search and skills-development help through 18 Job Service offices statewide: career planning, resume help, training referrals, and employer connections. Check the office list and services on the Workforce Services page.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana job seekers and workers — all ages",
+      "Businesses hiring in Montana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-ins and appointments at 18 offices statewide"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Resume or work history if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DLI Workforce Services",
+        "value": "https://wsd.dli.mt.gov/?type=InfoBox"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DLI Workforce Services — Job Service offices",
+        "url": "https://wsd.dli.mt.gov/?type=InfoBox"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wsd.dli.mt.gov/?type=InfoBox"
+    ]
+  },
+  {
+    "id": "mt-veteran-affairs",
+    "name": "Montana Veteran Affairs Division — Benefits Assistance",
+    "agency": "Montana Department of Military Affairs, Montana Veteran Affairs Division",
+    "category": "Veterans",
+    "description": "Free help for Montana veterans, surviving spouses, and dependents with state and federal veterans benefits — disability claims, pensions, education, burial, and state veteran benefits. Nine veteran service offices across Montana provide in-person assistance.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana veterans",
+      "Surviving spouses and dependents of veterans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Offices serve walk-ins and appointments statewide"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "DD-214 or discharge paperwork if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Montana Veteran Affairs Division",
+        "value": "https://veterans.mt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montana Veteran Affairs — office locations and services",
+        "url": "https://veterans.mt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://veterans.mt.gov/"
+    ]
+  },
+  {
+    "id": "mt-quit-now",
+    "name": "Quit Now Montana",
+    "agency": "Montana DPHHS, Tobacco Use Prevention Program",
+    "category": "Healthcare",
+    "description": "Free, confidential help quitting tobacco and nicotine for all Montanans regardless of insurance: personalized quit plan, coaching by phone or live chat, and cessation support that varies by program — including special programs for pregnant callers, American Indians, and youth.",
+    "scope": {
+      "level": "state",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Montana residents who use tobacco or nicotine products",
+      "Special programs for pregnant people, American Indians, and youth"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Sign up any time; coaching available 24/7"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Not applicable — register online or by phone"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Quit Now Montana",
+        "value": "1-800-784-8669"
+      },
+      {
+        "kind": "web",
+        "label": "Quit Now Montana",
+        "value": "https://quitnowmontana.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Quit Now Montana — enroll",
+        "url": "https://quitnowmontana.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://quitnowmontana.com/"
+    ]
+  },
+  {
+    "id": "fed-va-montana-health",
+    "name": "VA Montana Health Care",
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "category": "Veterans",
+    "description": "Health and support services for eligible veterans through the Fort Harrison VA Medical Center and VA clinics across Montana, including primary care, mental health, and specialty services. Manage care and appointments online or in person.",
+    "scope": {
+      "level": "federal",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Veterans meeting VA health care eligibility — see VA eligibility page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enrollment open year-round"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see VA enrollment page",
+      "Typically: DD-214, photo ID, insurance information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Montana health care",
+        "value": "https://www.va.gov/montana-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Montana Health Care System",
+        "url": "https://www.va.gov/montana-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by eligibility — see VA",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/montana-health-care/"
+    ]
+  },
+  {
+    "id": "fed-sba-montana",
+    "name": "SBA Montana District Office",
+    "agency": "U.S. Small Business Administration (SBA), Montana District Office",
+    "category": "Small Business",
+    "description": "Free help starting and growing a small business across all 56 Montana counties: business planning, loan guarantees, disaster assistance, and free counseling. Main office in Helena with a virtual office in Billings.",
+    "scope": {
+      "level": "federal",
+      "state": "MT"
+    },
+    "eligibility": [
+      "Small businesses and aspiring entrepreneurs in Montana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling available year-round; loan programs have their own terms"
+      }
+    ],
+    "prerequisites": [
+      "None — walk in, call, or use the apply link"
+    ],
+    "whatToBring": [
+      "Business idea or business plan if available — varies by request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Montana District Office",
+        "value": "406-441-1081"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Montana District Office",
+        "value": "https://legacy.sba.gov/district/montana"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Montana District Office",
+        "url": "https://legacy.sba.gov/district/montana"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling; loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://legacy.sba.gov/district/montana"
+    ]
   }
 ]
