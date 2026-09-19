@@ -60678,5 +60678,1721 @@
     "whatToBring": [
       "No documents needed — just call, text, or chat 988"
     ]
+  },
+  {
+    "agency": "Wichita Transit",
+    "applyLinks": [
+      {
+        "label": "Routes, schedules, and rider notices",
+        "url": "https://www.wichitatransit.org"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Wichita Transit",
+        "value": "https://www.wichitatransit.org"
+      }
+    ],
+    "cost": "Fares apply; check current fare information on the Wichita Transit site",
+    "deadlines": [],
+    "description": "Wichita Transit operates fixed-route bus service across Wichita, publishing current routes, schedules, and rider notices online. A current rider notice lets veterans ride free.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "wichita-transit-fixed-route",
+    "languages": [
+      "English"
+    ],
+    "name": "Wichita Transit fixed-route bus service",
+    "prerequisites": [
+      "None published on the program page"
+    ],
+    "scope": {
+      "city": "Wichita",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.wichitatransit.org"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment for boarding"
+    ]
+  },
+  {
+    "agency": "Wichita Transit",
+    "applyLinks": [
+      {
+        "label": "Paratransit FAQ and application info (PDF)",
+        "url": "https://www.golfwichita.com/DocumentCenter/View/30810/Wichita-Transit-ADA-Paratransit-Services-Frequently-Asked-Questions-PDF"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Paratransit scheduling",
+        "value": "316-352-4828"
+      },
+      {
+        "kind": "phone",
+        "label": "Paratransit service information",
+        "value": "316-352-4826"
+      }
+    ],
+    "cost": "$3.50 one-way; 10 rides $34; 20 rides $68",
+    "deadlines": [],
+    "description": "Door-to-door paratransit for people with disabilities or health conditions that prevent use of fixed-route buses. Operates Monday through Friday 5:30 a.m. to 7:30 p.m. and Saturday until 6:30 p.m.; no Sunday service. Rides are generally reserved the day before and can be booked up to seven days ahead.",
+    "eligibility": [
+      "People with disabilities or health conditions that prevent fixed-route use",
+      "Approved paratransit eligibility application required"
+    ],
+    "id": "wichita-ada-paratransit",
+    "languages": [
+      "English"
+    ],
+    "name": "Wichita Transit ADA Paratransit",
+    "prerequisites": [
+      "Complete and receive approval of the paratransit eligibility application"
+    ],
+    "scope": {
+      "city": "Wichita",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.golfwichita.com/DocumentCenter/View/30810/Wichita-Transit-ADA-Paratransit-Services-Frequently-Asked-Questions-PDF"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Eligibility determination information when scheduling rides"
+    ]
+  },
+  {
+    "agency": "Sedgwick County Health Department",
+    "applyLinks": [
+      {
+        "label": "Clinic locations and hours",
+        "url": "https://www.sedgwickcounty.org/health/locations-and-hours/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Health Department main line",
+        "value": "316-660-7300"
+      }
+    ],
+    "cost": "Fees vary by service; contact the department for current fees",
+    "deadlines": [],
+    "description": "County public-health services including immunizations, health screenings, family planning, STI and TB services, children's dental services, Healthy Babies, WIC, and laboratory services. See the locations and hours page for clinic sites and times.",
+    "eligibility": [
+      "Sedgwick County residents and visitors seeking public-health services"
+    ],
+    "id": "sedgwick-county-health-department",
+    "languages": [
+      "English"
+    ],
+    "name": "Sedgwick County Health Department",
+    "prerequisites": [
+      "None published on the program page"
+    ],
+    "scope": {
+      "county": "Sedgwick",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "http://www.sedgwickcounty.org/health/about-the-schd/",
+      "https://www.sedgwickcounty.org/health/locations-and-hours/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance card if insured",
+      "Immunization records for vaccination visits"
+    ]
+  },
+  {
+    "agency": "COMCARE (Sedgwick County)",
+    "applyLinks": [
+      {
+        "label": "About COMCARE and accessing services",
+        "url": "https://www.sedgwickcounty.org/comcare"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "24-hour crisis hotline",
+        "value": "316-660-7500"
+      },
+      {
+        "kind": "phone",
+        "label": "First appointment",
+        "value": "316-660-7540"
+      }
+    ],
+    "cost": "Contact COMCARE for current fees",
+    "deadlines": [],
+    "description": "COMCARE is Sedgwick County's Certified Community Behavioral Health Clinic (CCBHC) and licensed Community Mental Health Center, providing adult and youth mental-health and addiction services, same-day assessment, crisis care, medication services, and community services. A 24-hour crisis hotline is available.",
+    "eligibility": [
+      "Sedgwick County residents seeking mental-health or addiction services"
+    ],
+    "id": "sedgwick-comcare",
+    "languages": [
+      "English"
+    ],
+    "name": "COMCARE community mental health services",
+    "prerequisites": [
+      "Call to schedule a first appointment"
+    ],
+    "scope": {
+      "county": "Sedgwick",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.sedgwickcounty.org/comcare"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance information if insured"
+    ]
+  },
+  {
+    "agency": "Johnson County Department of Health and Environment",
+    "applyLinks": [
+      {
+        "label": "Clinic dates and locations",
+        "url": "https://www.jocogov.org/department/health/immunizations/catch-vaccination-clinics"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Immunization clinic questions",
+        "value": "913-826-1261"
+      },
+      {
+        "kind": "email",
+        "label": "Clinic email",
+        "value": "jcdhe@jocogov.org"
+      }
+    ],
+    "cost": "No one is turned away for inability to pay; immunization fees are listed on the clinic page",
+    "deadlines": [
+      {
+        "date": "2026-10-09",
+        "label": "Next catch-up clinic",
+        "note": "Friday, Oct. 9, 2026, 8 a.m. to 3 p.m., for 7th- and 11th-grade students at 11875 S. Sunset Drive, Olathe. The Sept. 12, 2026 clinic has passed."
+      }
+    ],
+    "description": "Walk-in vaccination clinics for kindergarten through 12th-grade students to receive recommended and required vaccines for the 2026-2027 school year. No appointment needed; a parent must accompany the student. Next clinic: Friday, Oct. 9, 2026, 8 a.m. to 3 p.m. for 7th- and 11th-grade students at the Health Services Building, 11875 S. Sunset Drive, Olathe.",
+    "eligibility": [
+      "Students in kindergarten through 12th grade",
+      "A parent must accompany the student"
+    ],
+    "id": "johnson-county-catchup-immunization-clinics",
+    "languages": [
+      "English",
+      "Translation services available at clinics"
+    ],
+    "name": "Johnson County school catch-up vaccination clinics",
+    "prerequisites": [
+      "None; walk in during clinic hours"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.jocogov.org/department/health/immunizations/catch-vaccination-clinics"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Signed immunization consent form",
+      "Insurance card if you have one",
+      "Student vaccination record if available",
+      "Letter from the school if available"
+    ]
+  },
+  {
+    "agency": "Johnson County Department of Health and Environment",
+    "applyLinks": [
+      {
+        "label": "Prenatal care information and requirements",
+        "url": "https://www.jocogov.org/department/health/pregnancy-services/prenatal-care"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Prenatal care appointments and information",
+        "value": "913-826-1200"
+      },
+      {
+        "kind": "in-person",
+        "label": "Olathe clinic",
+        "value": "11875 S. Sunset Drive, Suite 300, Olathe, KS"
+      }
+    ],
+    "cost": "Fees and payment options disclosed before the first appointment; cash, check, or major credit card accepted; no one denied service for inability to pay",
+    "deadlines": [],
+    "description": "Routine prenatal care from Advanced Practice Registered Nurses in collaboration with University of Kansas OB/GYN physicians, with delivery and hospital services through the University of Kansas Medical Center. Social workers and dietitians provide assessment and counseling, plus adoption-services referral. Appointments are required; no one is denied service due to inability to pay.",
+    "eligibility": [
+      "Johnson County, Kansas, residents"
+    ],
+    "id": "johnson-county-prenatal-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Johnson County prenatal care",
+    "prerequisites": [
+      "Appointment required; call for information or an appointment"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.jocogov.org/department/health/pregnancy-services/prenatal-care"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of current Johnson County address (rental lease, utility bill, mail with name and address, paycheck stubs from last two months, or JCDHE address verification form)",
+      "Photo ID",
+      "Proof of gross family income for the last 30 days (paycheck stub, employer letter, federal tax return, or verification of support)"
+    ]
+  },
+  {
+    "agency": "Johnson County Mental Health Center",
+    "applyLinks": [
+      {
+        "label": "Access to Care walk-in services",
+        "url": "https://jocogov.org/dept/mental-health/accessing-services/walk-initial-visit"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Care Center",
+        "value": "913-826-4200"
+      }
+    ],
+    "cost": "No cost for the Access to Care visit; sliding fee scale available for those without insurance if additional services are recommended",
+    "deadlines": [],
+    "description": "Same-day, walk-in mental-health assessment for anyone in Johnson County. A mental-health professional listens, asks questions, and helps determine next steps, whether a referral to community providers or additional JCMHC services. First-come, first-served, Monday through Friday, 8 a.m. to 3 p.m., at the Shawnee office (6440 Nieman Rd.) and the Olathe office (1125 W. Spruce St.).",
+    "eligibility": [
+      "Anyone in Johnson County needing mental-health support"
+    ],
+    "id": "johnson-county-mental-health-access-to-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Johnson County Mental Health Center Access to Care walk-in",
+    "prerequisites": [
+      "None; walk in during hours"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://jocogov.org/dept/mental-health/accessing-services/walk-initial-visit"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing required; an intake assessment can take up to two hours if additional services are recommended"
+    ]
+  },
+  {
+    "agency": "Johnson County Mental Health Center",
+    "applyLinks": [
+      {
+        "label": "Emergency mental-health services",
+        "url": "https://www.jocogov.org/department/mental-health/our-services/emergency-services"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Suicide & Crisis Lifeline (24/7)",
+        "value": "988"
+      },
+      {
+        "kind": "phone",
+        "label": "JCMHC crisis line (24/7)",
+        "value": "913-268-0156"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "Free, confidential, 24/7 help for mental-health or substance-use crises: call the 988 Suicide & Crisis Lifeline or JCMHC's local crisis line. Calls are answered by JCMHC mental-health professionals housed with 911 dispatchers. The Mobile Crisis Response Team can provide free in-person community support, and the Co-Responder Program embeds clinicians with most Johnson County police departments.",
+    "eligibility": [
+      "Anyone in Johnson County, for any reason, at any time"
+    ],
+    "id": "johnson-county-crisis-line",
+    "languages": [
+      "English"
+    ],
+    "name": "Johnson County mental-health crisis services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.jocogov.org/department/mental-health/our-services/emergency-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing required"
+    ]
+  },
+  {
+    "agency": "Johnson County Transit",
+    "applyLinks": [
+      {
+        "label": "Fares, payment, and reduced-fare information",
+        "url": "http://www.jocogov.org/department/transit-ridekc-johnson-county/ridekc-fares-return-johnson-county-june-2026"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Johnson County Transit (option 1 dispatch, option 6 feedback)",
+        "value": "913-362-3500"
+      },
+      {
+        "kind": "email",
+        "label": "Johnson County Transit email",
+        "value": "johnsoncountytransit@jocogov.org"
+      }
+    ],
+    "cost": "Single ride $2; day pass $4; weekly $20; monthly $62.50; K-10 Connector $4 single / $35 weekly / $125 monthly; reduced fares available",
+    "deadlines": [],
+    "description": "Fixed-route bus service across Johnson County, coordinated with regional RideKC partners and serving Overland Park, Olathe, Kansas City, JCCC, and other destinations. Fare collection resumed June 1, 2026 with contactless tap-to-pay (no cash accepted) and fare capping: never more than $4 a day, $20 a week, or $62.50 a month when using the same tap-to-pay method. Reduced fares remain for youth, seniors 65+, Medicare holders, people with disabilities, and low-income riders.",
+    "eligibility": [
+      "Open to the public",
+      "Reduced fares for ages 6-18, adults 65+, Medicare card holders, qualifying low-income riders, and people with disabilities"
+    ],
+    "id": "johnson-county-ridekc-fixed-route",
+    "languages": [
+      "English"
+    ],
+    "name": "RideKC Johnson County fixed-route bus service",
+    "prerequisites": [
+      "Reduced-fare riders must apply with valid ID and documentation, such as proof of participation in SNAP, WIC, TANF, Medicaid, Section 8, or Kansas LIEAP"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "http://www.jocogov.org/department/transit-ridekc-johnson-county/ridekc-fares-return-johnson-county-june-2026"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Contactless bank card, mobile wallet, or the RideKCGO app for payment; no cash accepted"
+    ]
+  },
+  {
+    "agency": "Johnson County Transit",
+    "applyLinks": [
+      {
+        "label": "RideJoCo Microtransit booking and information",
+        "url": "http://www.jocogov.org/department/transit-ridekc-johnson-county/micro-transit"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RideJoCo booking (option 3)",
+        "value": "913-362-3500"
+      }
+    ],
+    "cost": "$5 for the first five miles; $2 for each additional mile",
+    "deadlines": [],
+    "description": "Johnson County's on-demand, shared-ride curb-to-curb service. Request rides when needed through the RideJoCo app or online portal, or by phone; no advance reservation required. Service hours are Monday through Friday, 6 a.m. to 8 p.m. Accessible vehicles are available.",
+    "eligibility": [
+      "Riders must be at least 16 to ride alone; riders under 16 must travel with an adult"
+    ],
+    "id": "johnson-county-ridejoco-microtransit",
+    "languages": [
+      "English"
+    ],
+    "name": "RideJoCo Microtransit",
+    "prerequisites": [
+      "Create an account in the RideJoCo app or online portal, or call to book"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "http://www.jocogov.org/department/transit-ridekc-johnson-county/micro-transit"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Payment through the app or exact cash when boarding; drivers cannot make change"
+    ]
+  },
+  {
+    "agency": "Workforce Partnership",
+    "applyLinks": [
+      {
+        "label": "WIOA orientation schedule and locations",
+        "url": "https://workforcepartnership.com/2018/02/01/wioa-orientation/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Johnson County workforce center (confirm workshop dates)",
+        "value": "913-577-5900"
+      },
+      {
+        "kind": "in-person",
+        "label": "Overland Park workforce center",
+        "value": "9875 W. 87th St., Overland Park, KS"
+      }
+    ],
+    "cost": "No cost stated",
+    "deadlines": [],
+    "description": "Workforce Innovation and Opportunity Act (WIOA) orientation covering tools for today's workforce, training opportunities (classroom and work-based), high-demand careers, and assessment services. Sessions are held every Tuesday from 2:30 to 3:30 p.m. at the Johnson County Workforce Center, 9875 W. 87th St., Overland Park, with services also at the Center of Grace location, 520 S. Harrison St., Olathe.",
+    "eligibility": [
+      "Job seekers interested in WIOA-funded training and employment services"
+    ],
+    "id": "johnson-county-workforce-partnership-wioa",
+    "languages": [
+      "English"
+    ],
+    "name": "Workforce Partnership WIOA orientation (Johnson County)",
+    "prerequisites": [
+      "Call to confirm upcoming workshop dates"
+    ],
+    "scope": {
+      "county": "Johnson",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://workforcepartnership.com/2018/02/01/wioa-orientation/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing specified"
+    ]
+  },
+  {
+    "agency": "Unified Government of Wyandotte County and Kansas City, Kansas",
+    "applyLinks": [
+      {
+        "label": "Unified Government service information",
+        "url": "https://www.wycokck.org/Engage-With-Us/News-articles/UG-Offices-will-be-closed-on-Wednesday-February-19"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UG 311 call center (24/7)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Direct dial for 311 services",
+        "value": "913-573-5311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Unified Government's 311 call center is available 24/7 for reporting non-emergency municipal service issues and getting help with city and county services.",
+    "eligibility": [
+      "Anyone in Kansas City, Kansas / Wyandotte County"
+    ],
+    "id": "kck-ug-311",
+    "languages": [
+      "English"
+    ],
+    "name": "Unified Government of Wyandotte County / Kansas City, Kansas 311",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.wycokck.org/Engage-With-Us/News-articles/UG-Offices-will-be-closed-on-Wednesday-February-19"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Address or location details for the issue being reported"
+    ]
+  },
+  {
+    "agency": "Wyandotte County Public Health Department",
+    "applyLinks": [
+      {
+        "label": "Wyandotte County Public Health Department",
+        "url": "https://wycokck.org/Departments/Health"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Appointments and general questions",
+        "value": "913-573-8855"
+      },
+      {
+        "kind": "phone",
+        "label": "Childhood immunizations",
+        "value": "913-573-6725"
+      },
+      {
+        "kind": "phone",
+        "label": "Limited primary care",
+        "value": "913-573-5131"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC",
+        "value": "913-573-6720"
+      },
+      {
+        "kind": "in-person",
+        "label": "Health department",
+        "value": "619 Ann Ave., Kansas City, KS 66101"
+      }
+    ],
+    "cost": "Low-cost or sliding-scale services for the uninsured or underinsured; call for current fees",
+    "deadlines": [],
+    "description": "Clinical services at 619 Ann Ave., Kansas City, KS, including family planning, immunizations, laboratory services, limited primary care, prenatal care and resources, STI counseling/testing/treatment, and free naloxone (Narcan) and fentanyl test strips. Low-cost or sliding-scale options are available for people who are uninsured or underinsured.",
+    "eligibility": [
+      "Wyandotte County residents; clinical services emphasize people who are uninsured or underinsured"
+    ],
+    "id": "wyandotte-county-public-health-clinical-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Wyandotte County Public Health clinical services",
+    "prerequisites": [
+      "Call to make an appointment for most services"
+    ],
+    "scope": {
+      "county": "Wyandotte",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://wycokck.org/Departments/Health"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Immunization record for vaccination visits",
+      "Insurance information if insured"
+    ]
+  },
+  {
+    "agency": "Kansas City Kansas Housing Authority",
+    "applyLinks": [
+      {
+        "label": "HCV applicant information and waitlist status",
+        "url": "https://www.kckha.org/housing/voucher_holders/applicants.php"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KCK Housing Authority applicant information",
+        "value": "https://www.kckha.org/housing/voucher_holders/applicants.php"
+      }
+    ],
+    "cost": "No application fee stated",
+    "deadlines": [],
+    "description": "The Housing Authority's Housing Choice Voucher (Section 8) program is currently not accepting applications. When the waitlist opens, announcements will appear on the Housing Authority's website. Eligibility, when open, requires meeting HUD family, income-limit, citizenship or eligible-immigrant status, Social Security number, and consent requirements.",
+    "eligibility": [
+      "Applications are not currently being accepted",
+      "When open: families meeting HUD income limits, citizenship or eligible-immigrant status, and other program requirements"
+    ],
+    "id": "kck-housing-authority-hcv",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas City, Kansas Housing Authority Housing Choice Voucher program",
+    "prerequisites": [
+      "Wait for the waitlist to open; watch the Housing Authority website for announcements"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.kckha.org/housing/voucher_holders/applicants.php"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing to submit while applications are closed"
+    ]
+  },
+  {
+    "agency": "Workforce Partnership",
+    "applyLinks": [
+      {
+        "label": "WIOA orientation schedule and locations",
+        "url": "https://workforcepartnership.com/2018/02/01/wioa-orientation/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wyandotte County workforce center (confirm workshop dates)",
+        "value": "913-279-2600"
+      },
+      {
+        "kind": "in-person",
+        "label": "Wyandotte County workforce center",
+        "value": "400 State Ave., Suite 120, Kansas City, KS"
+      }
+    ],
+    "cost": "No cost stated",
+    "deadlines": [],
+    "description": "Workforce Innovation and Opportunity Act (WIOA) orientation covering tools for today's workforce, training opportunities (classroom and work-based), high-demand careers, and assessment services. Sessions are held every Thursday from 10:00 to 11:00 a.m. at the Wyandotte County Workforce Center, 400 State Ave., Suite 120, Kansas City, KS.",
+    "eligibility": [
+      "Job seekers interested in WIOA-funded training and employment services"
+    ],
+    "id": "wyandotte-county-workforce-partnership-wioa",
+    "languages": [
+      "English"
+    ],
+    "name": "Workforce Partnership WIOA orientation (Wyandotte County)",
+    "prerequisites": [
+      "Call to confirm upcoming workshop dates"
+    ],
+    "scope": {
+      "county": "Wyandotte",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://workforcepartnership.com/2018/02/01/wioa-orientation/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing specified"
+    ]
+  },
+  {
+    "agency": "Topeka Metropolitan Transit Authority",
+    "applyLinks": [
+      {
+        "label": "Topeka Metro contact and service information",
+        "url": "https://www.topekametro.org/?page_id=213"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Topeka Metro customer service",
+        "value": "785-783-7000"
+      },
+      {
+        "kind": "email",
+        "label": "Topeka Metro email",
+        "value": "info@topekametro.org"
+      },
+      {
+        "kind": "in-person",
+        "label": "Topeka Metro headquarters",
+        "value": "820 SE Quincy Street, Topeka, KS 66612"
+      }
+    ],
+    "cost": "Fares apply; call customer service for current routes, fares, and passes",
+    "deadlines": [],
+    "description": "Topeka Metro operates fixed-route bus service across Topeka. Buses run Monday through Friday from 5:35 a.m. to 6:40 p.m. and Saturday from 8:15 a.m. to 6:40 p.m. Customer service is available Monday through Friday 6 a.m. to 6 p.m. and Saturday 8 a.m. to 6 p.m.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "topeka-metro-fixed-route",
+    "languages": [
+      "English"
+    ],
+    "name": "Topeka Metro fixed-route bus service",
+    "prerequisites": [
+      "None published"
+    ],
+    "scope": {
+      "city": "Topeka",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.topekametro.org/?page_id=213"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment for boarding"
+    ]
+  },
+  {
+    "agency": "Topeka Metropolitan Transit Authority",
+    "applyLinks": [
+      {
+        "label": "The Lift eligibility and service details",
+        "url": "https://www.topekametro.org/routes-and-detours/the-lift-paratransit-service"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Topeka Metro / The Lift",
+        "value": "785-783-7000"
+      }
+    ],
+    "cost": "$4.00 one-way; strip of 10 tickets $40.00",
+    "deadlines": [],
+    "description": "The Lift provides origin-to-destination bus service for persons with disabilities who are unable to use the wheelchair-accessible fixed-route system. It operates within 3/4 mile of any fixed-route bus stop, on the same days and hours as fixed-route service (Monday-Friday 5:35 a.m. to 6:40 p.m., Saturday 8:15 a.m. to 6:40 p.m.; no Sunday or major-holiday service). Note: premium Lift service beyond the 3/4-mile corridor was discontinued effective August 3, 2025.",
+    "eligibility": [
+      "Persons with disabilities who are unable to use the fixed-route bus system",
+      "Eligibility determination required"
+    ],
+    "id": "topeka-metro-lift-paratransit",
+    "languages": [
+      "English"
+    ],
+    "name": "Topeka Metro The Lift paratransit",
+    "prerequisites": [
+      "Complete the Lift eligibility determination process"
+    ],
+    "scope": {
+      "city": "Topeka",
+      "level": "city",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.topekametro.org/routes-and-detours/the-lift-paratransit-service"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Eligibility information when scheduling rides"
+    ]
+  },
+  {
+    "agency": "Shawnee County Health Department",
+    "applyLinks": [
+      {
+        "label": "Immunization services and school requirements",
+        "url": "https://www.shawneehealth.org/hd/immunizations.php"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Travel vaccine appointments and immunization information",
+        "value": "785-251-5700"
+      }
+    ],
+    "cost": "Fees vary by service; Aetna Commercial, Ambetter, BCBS (excl. Value Blue), Coventry, Medicaid/KanCare, Medicare, and UnitedHealthcare accepted",
+    "deadlines": [],
+    "description": "Vaccinations for infants, children, and adults, plus travel immunizations, tuberculosis skin tests, and seasonal flu shots. Immunizations are done on a walk-in basis; appointments for travel vaccines are encouraged. The department is a Yellow Fever certified provider. Fees vary by service and several insurance plans, including Medicaid/KanCare and Medicare, are accepted.",
+    "eligibility": [
+      "Open to the public; 2026-2027 school-year immunization requirements published in English and Spanish"
+    ],
+    "id": "shawnee-county-immunizations",
+    "languages": [
+      "English",
+      "Spanish (2026-2027 school immunization requirements)"
+    ],
+    "name": "Shawnee County Health Department immunizations",
+    "prerequisites": [
+      "Travel vaccine appointments encouraged; walk in for routine immunizations",
+      "Yellow Fever vaccine only for ages 9 months and older; ages 60 and older need a primary-care prescription"
+    ],
+    "scope": {
+      "county": "Shawnee",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.shawneehealth.org/hd/immunizations.php"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your immunization record",
+      "Insurance information if insured"
+    ]
+  },
+  {
+    "agency": "Topeka & Shawnee County Public Library",
+    "applyLinks": [
+      {
+        "label": "Hours and locations",
+        "url": "https://tscpl.org/hours-and-locations"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main library",
+        "value": "785-580-4400"
+      },
+      {
+        "kind": "phone",
+        "label": "Text-a-librarian",
+        "value": "785-322-4099"
+      },
+      {
+        "kind": "email",
+        "label": "Ask a librarian",
+        "value": "ask@tscpl.org"
+      }
+    ],
+    "cost": "Free; mail delivery $1.99 per item",
+    "deadlines": [],
+    "description": "Public library service for Topeka and Shawnee County from the main library at 1515 SW 10th Ave. Hours: Monday-Friday 9 a.m. to 9 p.m., Saturday 9 a.m. to 6 p.m., Sunday noon to 9 p.m. TSCPL@Home delivers items to your home every other week, and mail delivery is available for $1.99 per item.",
+    "eligibility": [
+      "Open to the public; library card for borrowing"
+    ],
+    "id": "topeka-shawnee-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Topeka & Shawnee County Public Library",
+    "prerequisites": [
+      "None published"
+    ],
+    "scope": {
+      "county": "Shawnee",
+      "level": "county",
+      "state": "KS"
+    },
+    "sources": [
+      "https://tscpl.org/hours-and-locations"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing specified"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Children and Families",
+    "applyLinks": [
+      {
+        "label": "SNAP Outreach contractors and contact info",
+        "url": "https://www.dcf.ks.gov/services/ees/Pages/Food-Assistance-Application-Assistance-%28SNAP-Outreach%29.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mirror Inc. (Sedgwick, Johnson, Shawnee, Harvey and other counties)",
+        "value": "316-283-6743"
+      },
+      {
+        "kind": "phone",
+        "label": "Catholic Charities of Northeast Kansas (Johnson, Wyandotte, Shawnee and other counties)",
+        "value": "913-433-2100"
+      },
+      {
+        "kind": "phone",
+        "label": "Catholic Charities of Southwest Kansas",
+        "value": "620-272-0010"
+      },
+      {
+        "kind": "phone",
+        "label": "Harvesters",
+        "value": "816-929-3276"
+      }
+    ],
+    "cost": "Free assistance",
+    "deadlines": [],
+    "description": "SNAP Outreach contractors educate the public about food assistance benefits, provide eligibility assessments, and help clients complete food assistance applications and answer program questions. Contractors include Mirror Inc. (Newton, 316-283-6743, serving Johnson, Shawnee, Harvey, and Sedgwick counties among others), Catholic Charities of Northeast Kansas (Overland Park, 913-433-2100, serving Johnson, Wyandotte, Shawnee, and 17 more counties), Catholic Charities of Southwest Kansas (Garden City, 620-272-0010), and Harvesters (816-929-3276).",
+    "eligibility": [
+      "Anyone who feels they may qualify for food assistance"
+    ],
+    "id": "ks-snap-outreach",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas SNAP food assistance application assistance",
+    "prerequisites": [
+      "Contact the contractor nearest you"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.dcf.ks.gov/services/ees/Pages/Food-Assistance-Application-Assistance-%28SNAP-Outreach%29.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and household information for the eligibility assessment"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Children and Families",
+    "applyLinks": [
+      {
+        "label": "DCF self-service application portal",
+        "url": "https://cssp.kees.ks.gov/apspssp/sspNonMed.portal"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCF toll-free assistance line",
+        "value": "1-888-369-4777"
+      }
+    ],
+    "cost": "No cost to apply",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Current TANF State Plan period ends",
+        "note": "The Kansas TANF State Plan on file covers Oct. 1, 2023 through Sept. 30, 2026; the program continues under state and federal authority."
+      }
+    ],
+    "description": "TANF provides temporary cash assistance, paid through Electronic Benefit Transfer, for no more than 24 months to families with children under 18 (or up to 19 while working toward a high school diploma) and to pregnant women when financially eligible. Eligibility is limited to families whose income is less than 30% of the federal poverty level. Adults are assigned a career navigator and must participate in work-related activities; relatives within the fifth degree of kinship caring for a child may also qualify.",
+    "eligibility": [
+      "Families with children under 18 (up to 19 if pursuing a high school diploma)",
+      "Pregnant women when financially eligible",
+      "Family income less than 30% of the federal poverty level",
+      "Relatives within the 5th degree of kinship with primary caregiving responsibility for a child"
+    ],
+    "id": "ks-tanf",
+    "languages": [
+      "English",
+      "Literacy and language programs may be available for those lacking English proficiency"
+    ],
+    "name": "Kansas Temporary Assistance for Needy Families (TANF)",
+    "prerequisites": [
+      "Apply through DCF",
+      "Cooperate with child support services",
+      "Adults must engage in TANF Employment Services work activities"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://Www.Dcf.Ks.gov/services/ees/Documents/Reports/TANF%20State%20Plan%20FFY%202024%20-%202026.pdf",
+      "https://cssp.kees.ks.gov/apspssp/sspNonMed.portal"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Identification for household members"
+    ]
+  },
+  {
+    "agency": "Kansas Department of Health and Environment",
+    "applyLinks": [
+      {
+        "label": "Kansas WIC - find and contact your local clinic",
+        "url": "https://www.kansaswic.org"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas WIC",
+        "value": "https://www.kansaswic.org"
+      },
+      {
+        "kind": "phone",
+        "label": "Wyandotte County WIC (example local clinic)",
+        "value": "913-573-6720"
+      }
+    ],
+    "cost": "No cost stated for WIC benefits",
+    "deadlines": [],
+    "description": "Kansas WIC provides supplemental foods at local grocery stores, breastfeeding support and peer counseling, nutrition counseling, and referrals to health and social services for low-income women who are pregnant or breastfeeding (up to one year) or recently delivered (up to six months), infants, and children under age five. Contact your local WIC clinic to apply; the state site is primarily in English with some Spanish documents and a Google Translate tool.",
+    "eligibility": [
+      "Low-income women who are pregnant or breastfeeding for up to one year, or recently delivered up to six months",
+      "Infants and children under age five"
+    ],
+    "id": "ks-wic",
+    "languages": [
+      "English",
+      "Spanish (some documents)",
+      "Google Translate tool on the state site"
+    ],
+    "name": "Kansas WIC nutrition program",
+    "prerequisites": [
+      "Contact your local WIC clinic"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.kansaswic.org",
+      "https://wycokck.org/Departments/Health"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income, residency, and identification as requested by the local clinic"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Children and Families",
+    "applyLinks": [
+      {
+        "label": "LIEAP information and FAQ (PDF)",
+        "url": "https://www.dcf.ks.gov/services/ees/Documents/Low%20Income%20Energy%20Assistance%20Program%20FAQ_final.pdf"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCF toll-free (request a paper LIEAP application)",
+        "value": "1-888-369-4777"
+      }
+    ],
+    "cost": "No cost to apply; benefit amounts vary based on funding, income, household size, dwelling type, and heating fuel",
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "label": "2026 LIEAP application deadline (passed)",
+        "note": "The 2026 season is closed; applications were due by 5 p.m. March 31, 2026."
+      }
+    ],
+    "description": "LIEAP is a federally funded program that helps eligible households pay a portion of their primary home heating costs with a one-time benefit per year. The 2026 application period ran January 20 through March 31, 2026 (deadline 5 p.m.) and is now closed. Eligibility requires an adult household member responsible for heating costs and combined gross household income at or below 150% of the federal poverty level (for example, $1,956 per month for a one-person household in 2026).",
+    "eligibility": [
+      "An adult in the household personally responsible for heating costs",
+      "Combined gross income of all persons at the address at or below 150% of the federal poverty level"
+    ],
+    "id": "ks-lieap",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Low Income Energy Assistance Program (LIEAP)",
+    "prerequisites": [
+      "Apply during the annual application period: online at dcfapp.kees.ks.gov, paper applications at local DCF Service Centers, or by phone"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.dcf.ks.gov/services/ees/Documents/Low%20Income%20Energy%20Assistance%20Program%20FAQ_final.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income for everyone in the residence",
+      "Copies of fuel bills",
+      "Proof of child support received or court order, if applicable",
+      "Rental agreement if in subsidized housing or if heating is included in rent"
+    ]
+  },
+  {
+    "agency": "Kansas Department of Labor",
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance overview and claimant portal",
+        "url": "https://www.dol.ks.gov/unemployment/overview"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Contact Center (local)",
+        "value": "785-575-1460"
+      },
+      {
+        "kind": "phone",
+        "label": "Unemployment Contact Center (toll-free; no in-person service)",
+        "value": "1-800-292-6333"
+      }
+    ],
+    "cost": "No cost to apply; employer-funded program",
+    "deadlines": [],
+    "description": "Unemployment Insurance is a state-operated insurance program providing temporary, partial wage replacement to Kansas workers who are unemployed through no fault of their own and meet legal requirements. Apply through the Claimant Self Service Portal, where you can also enter work-search activities, complete weekly certifications, and manage payment options. For the benefit year July 1, 2026 through June 30, 2027, the weekly benefit amount ranges from $165 to $663. A Spanish claimant handbook is available.",
+    "eligibility": [
+      "Kansas workers unemployed through no fault of their own who meet the eligibility requirements of the law"
+    ],
+    "id": "ks-unemployment-insurance",
+    "languages": [
+      "English",
+      "Spanish (claimant handbook)"
+    ],
+    "name": "Kansas Unemployment Insurance",
+    "prerequisites": [
+      "File an application through the Claimant Self Service Portal",
+      "Complete weekly certifications while claiming"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.dol.ks.gov/unemployment/overview",
+      "https://www.getkansasbenefits.gov/Home.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Employment history and wage information",
+      "Identity verification documents if requested"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Children and Families, Rehabilitation Services",
+    "applyLinks": [
+      {
+        "label": "VR application and eligibility policy (PDF)",
+        "url": "https://Www.Dcf.Ks.gov/services/RS/Documents/Policy/Policy%20Manual%20Section%202-A.pdf"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VR application and eligibility policy (PDF)",
+        "value": "https://Www.Dcf.Ks.gov/services/RS/Documents/Policy/Policy%20Manual%20Section%202-A.pdf"
+      }
+    ],
+    "cost": "No cost stated",
+    "deadlines": [],
+    "description": "Vocational Rehabilitation helps Kansans whose physical or mental impairment substantially impedes employment to prepare for, secure, retain, advance in, or regain employment through an Individualized Plan for Employment. Eligibility is determined within 60 days of application. Applications may be made in person, by phone, by email, or by dropping off or mailing an application at a local DCF office. People with temporary conditions such as broken limbs or pregnancy are not eligible on that basis alone.",
+    "eligibility": [
+      "Physical or mental impairment that substantially impedes employment",
+      "Requires VR services to achieve an employment outcome",
+      "Available to pursue employment"
+    ],
+    "id": "ks-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Vocational Rehabilitation services",
+    "prerequisites": [
+      "Submit an application with basic information (name, contact info, disability) to initiate an assessment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://Www.Dcf.Ks.gov/services/RS/Documents/Policy/Policy%20Manual%20Section%202-A.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medical records or disability documentation if available",
+      "Work history and educational background"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Aging and Disability Services",
+    "applyLinks": [
+      {
+        "label": "Senior Care Act program details",
+        "url": "https://www.kdads.ks.gov/services-programs/aging/senior-care-act-sca"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Area Agency on Aging (Senior Care Act information)",
+        "value": "855-200-2372"
+      }
+    ],
+    "cost": "Sliding fee scale: customers pay between donation and 100% of service cost based on income and assets",
+    "deadlines": [],
+    "description": "The Senior Care Act helps older Kansans who have functional limitations in self-care and independent living but can remain in a community-based residence if services are provided. Services vary by county and may include attendant care, respite care, homemaker, chore services, and adult day care. Customers contribute to the cost on a sliding fee scale based on income and assets, from donation up to 100% of service cost, following a functional assessment and plan of care. The program is administered through the Area Agency on Aging.",
+    "eligibility": [
+      "Kansas residents aged 60 or older",
+      "Functional limitations in self-care or independent living; must meet the SCA functional threshold score",
+      "Must meet SCA income eligibility guidelines (adjusted annually in July)"
+    ],
+    "id": "ks-senior-care-act",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Senior Care Act",
+    "prerequisites": [
+      "Functional assessment and plan of care"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.kdads.ks.gov/services-programs/aging/senior-care-act-sca"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and asset information for the sliding fee scale"
+    ]
+  },
+  {
+    "agency": "Kansas Department for Aging and Disability Services, Aging Services Commission",
+    "applyLinks": [
+      {
+        "label": "Aging Services programs",
+        "url": "https://www.kdads.ks.gov/about-us/about-our-commissions/aging-services"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KDADS Aging Services",
+        "value": "https://www.kdads.ks.gov/about-us/about-our-commissions/aging-services"
+      }
+    ],
+    "cost": "Varies by program; contact KDADS for details",
+    "deadlines": [],
+    "description": "Aging Services administers community-based programs for older Kansans through state and federal funds, including Older Americans Act programs, congregate and home-delivered meals, caregiver programs, in-home services, Senior Care Act services, and the Program of All-Inclusive Care for the Elderly (PACE). It also oversees Senior Health Insurance Counseling for Kansas (SHICK) for Medicare questions, the Senior Medicare Patrol against fraud, and MIPPA outreach to low-income Medicare beneficiaries.",
+    "eligibility": [
+      "Older Kansans; specific programs have their own age and need requirements"
+    ],
+    "id": "ks-aging-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Aging Services (Older Americans Act programs)",
+    "prerequisites": [
+      "Contact KDADS or the Area Agency on Aging for program-specific requirements"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.kdads.ks.gov/about-us/about-our-commissions/aging-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing specified"
+    ]
+  },
+  {
+    "agency": "Kansas Housing Resources Corporation",
+    "applyLinks": [
+      {
+        "label": "Find TBRA providers by county",
+        "url": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KHRC Community Solutions provider lookup",
+        "value": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "cost": "No cost stated",
+    "deadlines": [],
+    "description": "Tenant Based Rental Assistance helps income-eligible households with rent, security deposits, and/or utility deposits. The program is delivered through local direct service providers; use the county lookup on the KHRC Community Solutions page to find a provider near you.",
+    "eligibility": [
+      "Income-eligible households"
+    ],
+    "id": "ks-khrc-tbra",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Tenant Based Rental Assistance (TBRA)",
+    "prerequisites": [
+      "Apply through a local TBRA provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://kshousingcorp.org/housing-partners/community-solutions/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation as requested by the local provider"
+    ]
+  },
+  {
+    "agency": "Kansas Housing Resources Corporation",
+    "applyLinks": [
+      {
+        "label": "Weatherization program information and how to apply",
+        "url": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KHRC Community Solutions provider lookup",
+        "value": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "cost": "Free of charge to eligible households",
+    "deadlines": [],
+    "description": "Weatherization improves energy efficiency and lowers utility bills by making sure homes hold in heat and air conditioning. Eligible households receive a comprehensive home energy audit to identify inefficiencies and health and safety concerns; all services and upgrades are provided free of charge by certified energy auditors and professional crews and contractors.",
+    "eligibility": [
+      "Eligible households; contact a local weatherization provider for income guidelines"
+    ],
+    "id": "ks-khrc-weatherization",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Weatherization Assistance Program",
+    "prerequisites": [
+      "Apply through a local weatherization provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://kshousingcorp.org/housing-partners/community-solutions/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and household information as requested by the provider"
+    ]
+  },
+  {
+    "agency": "Kansas Housing Resources Corporation",
+    "applyLinks": [
+      {
+        "label": "Check eligibility and apply through participating lenders",
+        "url": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KHRC First Time Homebuyer resources",
+        "value": "https://kshousingcorp.org/housing-partners/community-solutions/"
+      }
+    ],
+    "cost": "0% interest loan; forgiven after 10 years in the home",
+    "deadlines": [],
+    "description": "The First Time Homebuyer Program helps first-time buyers with down payment and closing costs through a network of participating lenders. Homebuyers can apply for a 0% interest loan of 15 or 20% of the home's purchase price; if the buyer remains in the home for 10 years, the loan is forgiven.",
+    "eligibility": [
+      "First-time homebuyers; check eligibility details with a participating lender"
+    ],
+    "id": "ks-khrc-first-time-homebuyer",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas First Time Homebuyer Program (FTHB)",
+    "prerequisites": [
+      "Apply through a participating lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://kshousingcorp.org/housing-partners/community-solutions/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Financial and home-purchase documentation as requested by the lender"
+    ]
+  },
+  {
+    "agency": "Kansas Legal Services, Inc.",
+    "applyLinks": [
+      {
+        "label": "KLS office locations and online application",
+        "url": "https://www.kansaslegalservices.org/contact-us-office-locations"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "KLS statewide client intake",
+        "value": "316-267-3975"
+      },
+      {
+        "kind": "phone",
+        "label": "KLS application line",
+        "value": "1-800-723-6953"
+      },
+      {
+        "kind": "phone",
+        "label": "Kansas City office (Johnson, Wyandotte and nearby counties)",
+        "value": "913-621-0200"
+      },
+      {
+        "kind": "phone",
+        "label": "Topeka office (Shawnee and nearby counties)",
+        "value": "785-354-8531"
+      },
+      {
+        "kind": "phone",
+        "label": "Wichita office (Sedgwick and nearby counties)",
+        "value": "316-265-9681"
+      }
+    ],
+    "cost": "Free or low-cost legal help for eligible clients; contact intake for details",
+    "deadlines": [],
+    "description": "Kansas Legal Services provides civil legal assistance to eligible Kansans statewide, working toward equal access to justice. Start with the online application or the statewide client intake line. Offices include Kansas City (400 State Ave., Suite 1015, 913-621-0200, serving Johnson, Wyandotte, Franklin, Leavenworth, Linn, and Miami counties), Topeka (712 S. Kansas Ave., Suite 201, 785-354-8531, serving Shawnee, Douglas, Jefferson, Osage, and Wabaunsee counties), and Wichita (110 S. Main, Suite 300, 316-265-9681, serving Sedgwick and nine more counties).",
+    "eligibility": [
+      "Income-eligible Kansans; complete the application or call intake to determine eligibility",
+      "No distinction on the basis of race, color, religion, sex, national origin, age, disability, marital status, gender orientation, or political affiliation"
+    ],
+    "id": "ks-legal-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Legal Services",
+    "prerequisites": [
+      "Complete the online application or call statewide intake"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.kansaslegalservices.org/contact-us-office-locations"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ]
+  },
+  {
+    "agency": "Kansas Board of Regents",
+    "applyLinks": [
+      {
+        "label": "Scholarships and grants (2026-2027 application open)",
+        "url": "https://kansasregents.gov/scholarships_and_grants"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas Board of Regents scholarships and grants",
+        "value": "https://kansasregents.gov/scholarships_and_grants"
+      }
+    ],
+    "cost": "No cost to apply",
+    "deadlines": [
+      {
+        "date": "2027-01-31",
+        "label": "National Guard Educational Assistance, spring 2027 semester",
+        "note": "Spring 2027 semester deadline is Jan. 31, 2027; the fall 2026 deadline (Aug. 31, 2026) has passed."
+      }
+    ],
+    "description": "The State of Kansas offers undergraduate and graduate scholarships and grants; the online application for the 2026-2027 school year is open. Programs include the Kansas Promise Act Scholarship (high-wage, high-demand, critical-need programs at community and technical colleges, based on FAFSA), the Kansas Adult Learner Grant (residents 25+ seeking a bachelor's in designated fields, first-come first-served), the Kansas Comprehensive Grant ($200-$10,000 at private institutions and $100-$4,000 at public institutions, via FAFSA), plus nursing, teacher service, Hero's, military service, National Guard, and state scholar programs.",
+    "eligibility": [
+      "Kansas residents; specific programs add field-of-study, age, service, or need requirements",
+      "Most programs require the FAFSA"
+    ],
+    "id": "ks-board-of-regents-scholarships",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas Board of Regents scholarships and grants",
+    "prerequisites": [
+      "Create an account and apply online; use a personal email address, not a school email"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://kansasregents.gov/scholarships_and_grants"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA information",
+      "Program-specific documentation (for example, DD-214 for the Military Service Scholarship)"
+    ]
+  },
+  {
+    "agency": "Kansas Department of Revenue, Division of Vehicles",
+    "applyLinks": [
+      {
+        "label": "Contact the Division of Vehicles about your driver's license",
+        "url": "https://ksrevenue.gov/dovdlcontact.html"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Vehicles (Mon-Fri 8 a.m. to 4 p.m.)",
+        "value": "785-296-3671"
+      },
+      {
+        "kind": "email",
+        "label": "Credential issuance questions, required documents, status of issued credential",
+        "value": "KDOR_DL@ks.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Division of Vehicles office",
+        "value": "Zibell Building, 300 SW 29th Street, Topeka, KS 66611"
+      }
+    ],
+    "cost": "Fees apply; contact the Division for the current fee schedule",
+    "deadlines": [],
+    "description": "The Division of Vehicles issues Kansas driver licenses and identification cards through exam stations statewide. Contact the Division for office locations and hours, credential issuance questions, required documents, and the status of an issued credential, or for reinstatement requirements for withdrawn driving privileges.",
+    "eligibility": [
+      "Kansas residents meeting licensing requirements"
+    ],
+    "id": "ks-driver-license-id",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas driver licenses and ID cards",
+    "prerequisites": [
+      "Check required documents with the Division before visiting an exam station"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "sources": [
+      "https://ksrevenue.gov/dovdlcontact.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Required identity and residency documents (confirm the current list with the Division)"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "VA Eastern Kansas contact information",
+        "url": "https://www.va.gov/eastern-kansas-health-care/contact-us/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Colmery-O'Neil VA Medical Center, Topeka (local)",
+        "value": "785-350-3111"
+      },
+      {
+        "kind": "phone",
+        "label": "Colmery-O'Neil VA Medical Center (toll-free)",
+        "value": "800-574-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "Eisenhower VA Medical Center, Leavenworth (local)",
+        "value": "913-682-2000"
+      },
+      {
+        "kind": "phone",
+        "label": "Eisenhower VA Medical Center (toll-free)",
+        "value": "800-952-8387"
+      }
+    ],
+    "cost": "VA health care costs depend on priority group and enrollment; contact the VA for details",
+    "deadlines": [],
+    "description": "VA Eastern Kansas Health Care provides health care for enrolled veterans across eastern Kansas and northwestern Missouri, anchored by the Colmery-O'Neil VA Medical Center in Topeka (2200 SW Gage Blvd., 785-350-3111, toll-free 800-574-8387) and the Dwight D. Eisenhower VA Medical Center in Leavenworth (4101 4th St. Trafficway, 913-682-2000, toll-free 800-952-8387), plus community-based outpatient clinics including the Wyandotte County VA Clinic. Services include patient advocates, medical records, billing and insurance, and pharmacy.",
+    "eligibility": [
+      "Enrolled veterans; VA eligibility rules apply"
+    ],
+    "id": "fed-va-eastern-kansas",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Eastern Kansas Health Care",
+    "prerequisites": [
+      "Enroll in VA health care"
+    ],
+    "scope": {
+      "country": "United States",
+      "level": "federal",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.va.gov/eastern-kansas-health-care/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or discharge papers",
+      "Insurance information if applicable"
+    ]
+  },
+  {
+    "agency": "U.S. Substance Abuse and Mental Health Services Administration (via local centers)",
+    "applyLinks": [
+      {
+        "label": "Johnson County emergency mental-health services (988 answered locally)",
+        "url": "https://www.jocogov.org/department/mental-health/our-services/emergency-services"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Suicide & Crisis Lifeline (call or text, 24/7)",
+        "value": "988"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The 988 Suicide & Crisis Lifeline provides free, confidential, 24/7 support for mental-health and substance-use crises by call or text. In Johnson County, local 988 calls are answered by Johnson County Mental Health Center professionals housed at the county Emergency Communications Center alongside 911 dispatchers.",
+    "eligibility": [
+      "Anyone, for any reason, at any time"
+    ],
+    "id": "fed-988-suicide-crisis-lifeline",
+    "languages": [
+      "English"
+    ],
+    "name": "988 Suicide & Crisis Lifeline",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "country": "United States",
+      "level": "federal",
+      "state": "KS"
+    },
+    "sources": [
+      "https://www.jocogov.org/department/mental-health/our-services/emergency-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing required"
+    ]
   }
 ]
