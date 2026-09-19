@@ -13932,5 +13932,1767 @@
     "sources": [
       "https://www.lackawannacounty.org"
     ]
+  },
+  {
+    "id": "oh-snap",
+    "name": "SNAP — Food Assistance",
+    "agency": "Ohio Department of Job and Family Services (ODJFS)",
+    "category": "Food",
+    "description": "Monthly food benefits loaded onto an Ohio Direction Card for eligible low-income Ohio households to buy groceries. Apply online through the Ohio Benefits Self-Service Portal.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Low-income Ohio household",
+      "Income limits vary by household size — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "An Ohio Benefits Self-Service Portal account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Ohio residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio Benefits helpline",
+        "value": "844-640-6446"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP program page",
+        "value": "https://benefits.ohio.gov/home/resources/assistance-programs/01-snap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Learn about SNAP and apply",
+        "url": "https://benefits.ohio.gov/home/resources/assistance-programs/01-snap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://benefits.ohio.gov/home/resources/assistance-programs/01-snap"
+    ]
+  },
+  {
+    "id": "oh-medicaid",
+    "name": "Ohio Medicaid",
+    "agency": "Ohio Department of Medicaid",
+    "category": "Healthcare",
+    "description": "Free or low-cost health coverage for eligible low-income Ohioans, including children, pregnant women, adults, seniors, and people with disabilities. Most members enroll in a managed care plan.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohio resident",
+      "Meets income and category requirements — varies by group, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through Ohio Benefits, by phone, or through a county JFS office"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Ohio residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio Medicaid consumer hotline",
+        "value": "1-800-324-8680"
+      },
+      {
+        "kind": "web",
+        "label": "Ohio Medicaid",
+        "value": "https://medicaid.ohio.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Learn about Ohio Medicaid and apply",
+        "url": "https://benefits.ohio.gov/home/resources/assistance-programs/03-medicaid"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply; no premiums for most members",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://benefits.ohio.gov/home/resources/assistance-programs/03-medicaid",
+      "https://medicaid.ohio.gov"
+    ]
+  },
+  {
+    "id": "oh-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "Ohio Department of Health — WIC Program",
+    "category": "Food",
+    "description": "Nutrition education, breastfeeding support, healthy foods, and health-care referrals for pregnant and postpartum women, infants, and children under 5. Free language assistance is available.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohio residents who are pregnant, postpartum, or breastfeeding; infants and children under 5",
+      "Meets income guidelines and has a nutrition-related health risk",
+      "US citizenship is not required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to schedule a certification appointment"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Ohio residency — the clinic confirms required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio WIC",
+        "value": "614-644-8006"
+      },
+      {
+        "kind": "web",
+        "label": "Ohio WIC program page",
+        "value": "https://odh.ohio.gov/know-our-programs/women-infant-children-wic"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a WIC clinic and apply",
+        "url": "https://odh.ohio.gov/know-our-programs/women-infant-children-wic"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://odh.ohio.gov/know-our-programs/women-infant-children-wic"
+    ]
+  },
+  {
+    "id": "oh-heap",
+    "name": "HEAP — Home Energy Assistance Program",
+    "agency": "Ohio Department of Development / ODJFS Office of Community Assistance",
+    "category": "Utilities",
+    "description": "Seasonal heating assistance paid toward the utility bills of eligible low-income Ohio households. Applications are handled by local Community Action Agencies.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohio household with income at or below program guidelines — varies, see program page",
+      "Responsible for home heating costs"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-05-31",
+        "label": "Program year ends",
+        "note": "The 2026-27 HEAP program year runs July 1, 2026 through May 31, 2027."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local Community Action Agency"
+    ],
+    "whatToBring": [
+      "Proof of income, utility bills, and household information — the agency lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Energy assistance info",
+        "value": "1-800-282-0880"
+      },
+      {
+        "kind": "phone",
+        "label": "Ohio Consumers' Counsel HEAP info",
+        "value": "1-877-742-5622"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your local energy assistance provider",
+        "url": "https://www.energyhelp.ohio.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.energyhelp.ohio.gov",
+      "https://occ.ohio.gov/factsheet/home-energy-assistance-program-heap"
+    ]
+  },
+  {
+    "id": "oh-unemployment-insurance",
+    "name": "Ohio Unemployment Insurance",
+    "agency": "Ohio Department of Job and Family Services — Office of Unemployment Insurance Operations",
+    "category": "Employment",
+    "description": "Temporary weekly benefits for Ohio workers who lost a job through no fault of their own and meet work and wage requirements. File initial and weekly claims online.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Able, available, and actively seeking work",
+      "Meets Ohio work-history and wage requirements — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed; weekly claims have filing deadlines."
+      }
+    ],
+    "prerequisites": [
+      "Social Security number and employer/wage information for the past 18 months"
+    ],
+    "whatToBring": [
+      "Identification and recent employment and earnings details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment claimant line",
+        "value": "1-877-644-6562"
+      },
+      {
+        "kind": "phone",
+        "label": "Unemployment claimant TTY",
+        "value": "1-800-750-0750"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for unemployment online",
+        "url": "https://unemployment.ohio.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://unemployment.ohio.gov",
+      "https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/ouio/pdf/QuickTipsAndStepByStepGuide.pdf"
+    ]
+  },
+  {
+    "id": "oh-bmv-online-services",
+    "name": "Ohio BMV Online Services",
+    "agency": "Ohio Bureau of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Renew or replace a driver license or ID card, renew vehicle registration, change your address, schedule testing, and handle other BMV transactions online.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Anyone needing Ohio BMV credential or registration services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "An OH|ID account may be required for secure services"
+    ],
+    "whatToBring": [
+      "Driver license or ID number, vehicle information, and payment method as required by the service"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Ohio BMV Online Services",
+        "value": "https://bmvonline.dps.ohio.gov/bmvonline/home"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Use Ohio BMV online services",
+        "url": "https://bmvonline.dps.ohio.gov/bmvonline/home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by credential/service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bmvonline.dps.ohio.gov/bmvonline/home"
+    ]
+  },
+  {
+    "id": "oh-business-registration",
+    "name": "Register a Business in Ohio",
+    "agency": "Ohio Secretary of State — Business Services",
+    "category": "Small Business",
+    "description": "File to form an LLC, corporation, or other business entity in Ohio and access the state's step-by-step roadmap for starting a business.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Ohio"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time."
+      }
+    ],
+    "prerequisites": [
+      "Chosen business name and entity type"
+    ],
+    "whatToBring": [
+      "Business name, registered agent information, and filing fee"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State (877-SOS-FILE)",
+        "value": "877-SOS-FILE"
+      },
+      {
+        "kind": "web",
+        "label": "Starting a business roadmap",
+        "value": "https://www.ohiosos.gov/business/ohio-business-roadmap/starting-a-business"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start the business filing roadmap",
+        "url": "https://www.ohiosos.gov/business/ohio-business-roadmap/starting-a-business"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ohiosos.gov/business/ohio-business-roadmap/starting-a-business"
+    ]
+  },
+  {
+    "id": "oh-college-opportunity-grant",
+    "name": "Ohio College Opportunity Grant (OCOG)",
+    "agency": "Ohio Department of Higher Education",
+    "category": "Education",
+    "description": "Need-based grant aid for Ohio residents pursuing an associate degree, first bachelor's degree, or nurse diploma at eligible Ohio institutions. Apply by filing the FAFSA.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohio resident",
+      "Enrolled at an eligible Ohio college, university, or career school",
+      "Pursuing an associate degree, first bachelor's degree, or nurse diploma",
+      "Meets financial-need requirements — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "FAFSA deadline for 2026-27 consideration",
+        "note": "File the 2026-27 FAFSA by October 1, 2026 to be considered."
+      }
+    ],
+    "prerequisites": [
+      "File the Free Application for Federal Student Aid (FAFSA)"
+    ],
+    "whatToBring": [
+      "Tax and income information required by the FAFSA"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "OCOG program page",
+        "value": "https://highered.ohio.gov/educators/financial-aid/sgs/ocog"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File the FAFSA",
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      },
+      {
+        "label": "OCOG program details",
+        "url": "https://highered.ohio.gov/educators/financial-aid/sgs/ocog"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://highered.ohio.gov/educators/financial-aid/sgs/ocog",
+      "https://studentaid.gov/h/apply-for-aid/fafsa"
+    ]
+  },
+  {
+    "id": "oh-ohfa-homebuyer-program",
+    "name": "OHFA Homebuyer Program",
+    "agency": "Ohio Housing Finance Agency (OHFA)",
+    "category": "Housing",
+    "description": "30-year fixed-rate mortgage options and down-payment assistance for qualifying Ohio homebuyers, offered through OHFA-approved lenders. Applicants do not apply directly to OHFA.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "First-time homebuyer (no ownership interest in a primary residence in the prior three years), honorably discharged veteran, or purchasing in a target area",
+      "Meets income and purchase-price limits — varies, see program page",
+      "Must work with an OHFA-approved lender"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available through participating lenders any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact an OHFA-approved lender to begin"
+    ],
+    "whatToBring": [
+      "Income, employment, and credit documentation as required by the lender"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "My Ohio Home",
+        "value": "888-362-6432"
+      },
+      {
+        "kind": "web",
+        "label": "OHFA Homebuyer Program",
+        "value": "https://myohiohome.org/homebuyerprogram.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find an approved lender and program options",
+        "url": "https://myohiohome.org/homebuyerprogram.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://myohiohome.org/homebuyerprogram.aspx"
+    ]
+  },
+  {
+    "id": "oh-ood-vocational-rehabilitation",
+    "name": "OOD Vocational Rehabilitation",
+    "agency": "Opportunities for Ohioans with Disabilities (OOD)",
+    "category": "Disability",
+    "description": "Employment services for Ohioans with disabilities, including career counseling, training, education support, and job placement assistance.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohioan with a disability",
+      "Disability presents a substantial barrier to employment",
+      "Can benefit from VR services and needs them to prepare for, get, or keep a job"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the online or phone application to start"
+    ],
+    "whatToBring": [
+      "Disability and employment documentation as requested during intake"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Start an OOD application",
+        "value": "https://ood.ohio.gov/information-for-individuals/oodworks/03-start-application/start-an-application"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start an OOD application",
+        "url": "https://ood.ohio.gov/information-for-individuals/oodworks/03-start-application/start-an-application"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ood.ohio.gov/information-for-individuals/oodworks/03-start-application/start-an-application"
+    ]
+  },
+  {
+    "id": "oh-passport-waiver",
+    "name": "PASSPORT Home Care Waiver",
+    "agency": "Ohio Department of Medicaid / Ohio Department of Aging",
+    "category": "Seniors",
+    "description": "Medicaid home- and community-based services that let eligible older Ohioans get care at home instead of in a nursing facility, including personal care and home-delivered meals.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Age 60 or older",
+      "Medicaid-eligible",
+      "Needs a nursing-facility level of care",
+      "Able to remain safely at home with waiver services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request an assessment any time."
+      }
+    ],
+    "prerequisites": [
+      "Request an assessment through Ohio Benefits Long-Term Services and Supports"
+    ],
+    "whatToBring": [
+      "Medicaid information and medical documentation of care needs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio Benefits long-term care line",
+        "value": "844-644-6582"
+      },
+      {
+        "kind": "web",
+        "label": "PASSPORT rule (OAC 5160-31-03)",
+        "value": "https://codes.ohio.gov/ohio-administrative-code/rule-5160-31-03"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Read the PASSPORT program rule",
+        "url": "https://codes.ohio.gov/ohio-administrative-code/rule-5160-31-03"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://codes.ohio.gov/ohio-administrative-code/rule-5160-31-03",
+      "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Families%2C%20Individuals/Programs/Waivers/HCBSWaivers/2025/Waiver_Comparison_Chart_April_2025.pdf"
+    ]
+  },
+  {
+    "id": "oh-department-veterans-services",
+    "name": "Ohio Department of Veterans Services",
+    "agency": "Ohio Department of Veterans Services (DVS)",
+    "category": "Veterans",
+    "description": "State programs for Ohio veterans, including connections to County Veterans Service Offices in all 88 counties, veterans homes, and benefits advocacy.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Ohio veterans and their families",
+      "County Veterans Service Offices serve resident veterans of each county"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time."
+      }
+    ],
+    "prerequisites": [
+      "None to contact DVS; county offices may request discharge documentation"
+    ],
+    "whatToBring": [
+      "DD-214 or other proof of military service if applying for benefits"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio Department of Veterans Services",
+        "value": "614-644-0898"
+      },
+      {
+        "kind": "web",
+        "label": "Ohio Department of Veterans Services",
+        "value": "https://dvs.ohio.gov/home"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find veterans programs and county offices",
+        "url": "https://dvs.ohio.gov/home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dvs.ohio.gov/home"
+    ]
+  },
+  {
+    "id": "oh-legal-help",
+    "name": "Ohio Legal Help",
+    "agency": "Ohio Legal Help (nonprofit)",
+    "category": "Legal Aid",
+    "description": "Free civil legal information, court forms, and referrals to legal aid and lawyer referral services across Ohio — housing, family, consumer, and public benefits topics.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Anyone in Ohio with a civil legal question"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Details about your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Ohio Legal Help",
+        "value": "https://www.ohiolegalhelp.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find legal information and referrals",
+        "url": "https://www.ohiolegalhelp.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ohiolegalhelp.org"
+    ]
+  },
+  {
+    "id": "oh-211",
+    "name": "Ohio 211 — Community Resource Helpline",
+    "agency": "Ohio 211 / United Way partners",
+    "category": "Family & Childcare",
+    "description": "Free, confidential referrals to local food, housing, utility, health, and crisis services anywhere in Ohio. Search the statewide directory online or dial 2-1-1.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Anyone in Ohio needing help finding community resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Your ZIP code and a description of what you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio 211 (unverified)",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "Ohio 211",
+        "value": "https://ohio211.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Search Ohio 211 resources",
+        "url": "https://ohio211.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ohio211.org"
+    ]
+  },
+  {
+    "id": "oh-crime-victim-compensation",
+    "name": "Ohio Crime Victim Compensation",
+    "agency": "Ohio Attorney General",
+    "category": "Legal Aid",
+    "description": "Financial help for innocent victims of violent crime in Ohio — medical and counseling bills, lost wages, and funeral expenses. Property losses are generally excluded.",
+    "scope": {
+      "level": "state",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Innocent victim of a violent crime in Ohio (or dependents of a deceased victim)",
+      "Reported the crime and cooperated with law enforcement"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "3-year filing window",
+        "note": "File within 3 years of the crime, per the current official application."
+      }
+    ],
+    "prerequisites": [
+      "Police report or law enforcement documentation of the crime"
+    ],
+    "whatToBring": [
+      "Medical bills, proof of lost wages, and crime report information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio Crime Victim Services",
+        "value": "800-582-2877"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for victims compensation",
+        "value": "https://ohioattorneygeneral.gov/Individuals-and-Families/Victims/Apply-for-Victims-Compensation"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for victims compensation",
+        "url": "https://ohioattorneygeneral.gov/Individuals-and-Families/Victims/Apply-for-Victims-Compensation"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ohioattorneygeneral.gov/Individuals-and-Families/Victims/Apply-for-Victims-Compensation"
+    ]
+  },
+  {
+    "id": "columbus-311",
+    "name": "Columbus 311 — City Service Requests",
+    "agency": "City of Columbus — 311 Customer Service Center",
+    "category": "Transportation",
+    "description": "One-stop non-emergency service for Columbus residents: report potholes, missed trash, streetlights, code issues, and track requests online, by app, or by phone. Language assistance in 240+ languages.",
+    "scope": {
+      "level": "city",
+      "state": "OH",
+      "city": "Columbus",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Columbus residents, businesses, and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online requests 24/7; phone lines Monday-Friday 7 AM-7 PM."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Columbus 311",
+        "value": "614-645-3111"
+      },
+      {
+        "kind": "web",
+        "label": "Columbus 311",
+        "value": "https://www.columbus.gov/311-Customer-Service-Center?lang_update=638591699996606225"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Submit a Columbus 311 request",
+        "url": "https://www.columbus.gov/311-Customer-Service-Center?lang_update=638591699996606225"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.columbus.gov/311-Customer-Service-Center?lang_update=638591699996606225"
+    ]
+  },
+  {
+    "id": "cota-income-assistance",
+    "name": "COTA Income Assistance / Reduced Fare",
+    "agency": "Central Ohio Transit Authority (COTA)",
+    "category": "Transportation",
+    "description": "50% fare discount for riders receiving SNAP, publicly funded childcare, Ohio Works First, PRC, Medicaid, TANF, or WIC, plus existing half-fare discounts for seniors, children, veterans, and riders with disabilities. Fares capped at $2.25/day and $31/month via the Transit app or COTA smartcard.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Recipients of SNAP, publicly funded childcare, Ohio Works First, PRC emergency assistance, Medicaid, TANF, or WIC",
+      "Seniors 65+, children, veterans, and qualifying riders with disabilities also get 50% off"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at the Customer Experience Center."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at 33 N. High St., Columbus, with verification of qualifying assistance",
+      "Use the Transit app or a COTA smartcard — discount does not apply to cash fares"
+    ],
+    "whatToBring": [
+      "Benefit verification letter from a qualifying agency showing your name, plus photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "COTA customer service",
+        "value": "614-228-1776"
+      },
+      {
+        "kind": "web",
+        "label": "COTA Income Assistance Program",
+        "value": "https://cota.com/blog/cota-to-launch-income-assistance-pilot-program-on-march-1-to-improve-transit-fare-equity/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "COTA Income Assistance Program details",
+        "url": "https://cota.com/blog/cota-to-launch-income-assistance-pilot-program-on-march-1-to-improve-transit-fare-equity/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Half fare; capped at $2.25/day and $31/month",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cota.com/blog/cota-to-launch-income-assistance-pilot-program-on-march-1-to-improve-transit-fare-equity/"
+    ]
+  },
+  {
+    "id": "columbus-omj",
+    "name": "OhioMeansJobs Columbus-Franklin County",
+    "agency": "OhioMeansJobs Columbus-Franklin County / Workforce Development Board of Central Ohio",
+    "category": "Employment",
+    "description": "Free job search help, resume and interview assistance, training funds, and employer connections for job seekers in Columbus and Franklin County.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "Job seekers in Franklin County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit Monday-Friday 8 AM-5 PM."
+      }
+    ],
+    "prerequisites": [
+      "None — walk-ins welcome"
+    ],
+    "whatToBring": [
+      "Resume if you have one, plus ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OhioMeansJobs Columbus-Franklin County",
+        "value": "614-559-5052"
+      },
+      {
+        "kind": "web",
+        "label": "OhioMeansJobs Columbus-Franklin County",
+        "value": "https://www.omjcfc.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OhioMeansJobs Columbus-Franklin County",
+        "url": "https://www.omjcfc.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.omjcfc.org/"
+    ]
+  },
+  {
+    "id": "columbus-homeless-hotline",
+    "name": "Columbus Homeless Hotline / Coordinated Access",
+    "agency": "Community Shelter Board (CSB)",
+    "category": "Housing",
+    "description": "Single front door to emergency shelter and homelessness services in Columbus and Franklin County. Call the 24-hour homeless hotline for screening and shelter placement; families with minor children, pregnant women, and veterans are prioritized.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Franklin"
+    },
+    "eligibility": [
+      "People experiencing homelessness in Columbus or Franklin County",
+      "Single adults may be placed on a waitlist when beds are full"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Hotline operates 24/7."
+      }
+    ],
+    "prerequisites": [
+      "Call the homeless hotline for screening"
+    ],
+    "whatToBring": [
+      "ID if available; no documents required to call"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Homeless Hotline (24-hour)",
+        "value": "614-274-7000"
+      },
+      {
+        "kind": "web",
+        "label": "Community Shelter Board",
+        "value": "https://www.csb.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Shelter Board",
+        "url": "https://www.csb.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.csb.org/"
+    ]
+  },
+  {
+    "id": "cleveland-311",
+    "name": "Cleveland 311 — City Service Requests",
+    "agency": "City of Cleveland — 311 Citizen Support Center",
+    "category": "Transportation",
+    "description": "Centralized non-emergency service and information center for Cleveland: report potholes, waste collection issues, vacant properties, and building or park problems online or by phone, 24/7.",
+    "scope": {
+      "level": "city",
+      "state": "OH",
+      "city": "Cleveland",
+      "county": "Cuyahoga"
+    },
+    "eligibility": [
+      "Cleveland residents, visitors, and local businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call center available 24 hours a day, 7 days a week."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cleveland 311",
+        "value": "216-664-2000"
+      },
+      {
+        "kind": "web",
+        "label": "Cleveland 311",
+        "value": "https://www.clevelandohio.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Report an issue to Cleveland 311",
+        "url": "https://www.clevelandohio.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.clevelandohio.gov/311"
+    ]
+  },
+  {
+    "id": "cleveland-transit-reduced-fare",
+    "name": "GCRTA Senior and Disability Discount Fare",
+    "agency": "Greater Cleveland Regional Transit Authority (GCRTA)",
+    "category": "Transportation",
+    "description": "Discounted fixed-route fares for seniors 65+, Medicare cardholders, people with disabilities, and service-connected veterans. Apply with the application form at 1240 W. 6th St.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Cuyahoga"
+    },
+    "eligibility": [
+      "Age 65 or older with photo ID",
+      "Medicare cardholders",
+      "People with a disability verified by a health-care professional or licensed social worker",
+      "Service-connected veterans with veterans ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Bring the completed application, photo ID, and eligibility proof to 1240 W. 6th St."
+    ],
+    "whatToBring": [
+      "Photo ID, Medicare or veterans card if applicable, and professional certification of disability if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GCRTA discount fare application (PDF)",
+        "value": "https://riderta.com/sites/default/files/FixedRouteDisabilityFareApp.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GCRTA discount fare application (PDF)",
+        "url": "https://riderta.com/sites/default/files/FixedRouteDisabilityFareApp.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discount Fare ID $5.00; Senior ID $3.00; replacement $5.00",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://riderta.com/sites/default/files/FixedRouteDisabilityFareApp.pdf"
+    ]
+  },
+  {
+    "id": "cleveland-omj",
+    "name": "OhioMeansJobs Cleveland-Cuyahoga County",
+    "agency": "OhioMeansJobs Cleveland-Cuyahoga County",
+    "category": "Employment",
+    "description": "Free employment and career services for Cuyahoga County job seekers — resume help, job leads, training opportunities, and youth services. Walk-ins welcome.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Cuyahoga"
+    },
+    "eligibility": [
+      "Job seekers in Cuyahoga County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open Monday-Friday 8 AM-4:30 PM."
+      }
+    ],
+    "prerequisites": [
+      "Complete a profile on OhioMeansJobs.com and the local application"
+    ],
+    "whatToBring": [
+      "Resume if you have one"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OhioMeansJobs Cuyahoga County",
+        "value": "216-777-8200"
+      },
+      {
+        "kind": "web",
+        "label": "OhioMeansJobs Cuyahoga County",
+        "value": "https://greaterclevelandworks.org/find-a-job/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find job support in Cuyahoga County",
+        "url": "https://greaterclevelandworks.org/find-a-job/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://greaterclevelandworks.org/find-a-job/"
+    ]
+  },
+  {
+    "id": "cleveland-legal-aid",
+    "name": "Legal Aid Society of Cleveland",
+    "agency": "The Legal Aid Society of Cleveland",
+    "category": "Legal Aid",
+    "description": "Free legal advice and representation for low-income people in civil cases — housing, family, consumer, health, employment, and public benefits — across Ashtabula, Cuyahoga, Geauga, Lake, and Lorain counties.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Cuyahoga"
+    },
+    "eligibility": [
+      "Low-income residents of Ashtabula, Cuyahoga, Geauga, Lake, or Lorain County",
+      "Civil legal matters (not criminal)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone intake weekdays; online application 24/7."
+      }
+    ],
+    "prerequisites": [
+      "Complete the online application and schedule a callback, or apply by phone"
+    ],
+    "whatToBring": [
+      "Information about your legal problem, people involved, and household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid intake (toll-free)",
+        "value": "888-817-3777"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for free legal aid",
+        "value": "https://lasclev.org/apply-for-free-legal-aid/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for free legal aid",
+        "url": "https://lasclev.org/apply-for-free-legal-aid/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lasclev.org/apply-for-free-legal-aid/"
+    ]
+  },
+  {
+    "id": "cincinnati-311",
+    "name": "311Cincy — City Service Requests",
+    "agency": "City of Cincinnati — Emergency Communications Center",
+    "category": "Transportation",
+    "description": "Cincinnati's non-emergency customer service system: request pothole repairs, trash pickup, graffiti removal, and other city services 24/7 online, by app, or by phone.",
+    "scope": {
+      "level": "city",
+      "state": "OH",
+      "city": "Cincinnati",
+      "county": "Hamilton"
+    },
+    "eligibility": [
+      "Cincinnati residents, visitors, and businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online requests 24/7."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311Cincy",
+        "value": "513-765-1212"
+      },
+      {
+        "kind": "web",
+        "label": "311Cincy",
+        "value": "https://www.cincinnati-oh.gov/311/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Open a 311Cincy request",
+        "url": "https://www.cincinnati-oh.gov/311/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cincinnati-oh.gov/311/"
+    ]
+  },
+  {
+    "id": "cincinnati-transit-fare-deal",
+    "name": "Metro Fare Deal Program",
+    "agency": "Southwest Ohio Regional Transit Authority (Metro/SORTA)",
+    "category": "Transportation",
+    "description": "Half-price fares on all Metro trips for adults 65+, Medicare cardholders, riders with disabilities, and Access card holders. Monthly unlimited stickers available.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Hamilton"
+    },
+    "eligibility": [
+      "Adults 65 and older (proof of age)",
+      "Medicare cardholders",
+      "Riders with disabilities (certified application required)",
+      "Access paratransit card holders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply at the Fare Deal office Monday, Wednesday, Friday."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at the Fare Deal office, 7000 Montgomery Rd., with original documents"
+    ],
+    "whatToBring": [
+      "Current state-issued photo ID plus Medicare card, proof of age, or physician disability certification"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metro Fare Deal office",
+        "value": "513-632-7540"
+      },
+      {
+        "kind": "web",
+        "label": "Metro Fare Deal Program",
+        "value": "https://www.go-metro.com/fares-passes/fare-deal-program/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Metro Fare Deal Program details",
+        "url": "https://www.go-metro.com/fares-passes/fare-deal-program/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Half fare; monthly sticker $44",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.go-metro.com/fares-passes/fare-deal-program/"
+    ]
+  },
+  {
+    "id": "cincinnati-legal-aid",
+    "name": "Legal Aid Society of Greater Cincinnati",
+    "agency": "Legal Aid Society of Greater Cincinnati",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income people in the Cincinnati area — housing, family, consumer, and benefits matters.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Hamilton"
+    },
+    "eligibility": [
+      "Low-income residents of the Greater Cincinnati service area",
+      "Civil legal matters (not criminal)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact intake by phone or online"
+    ],
+    "whatToBring": [
+      "Information about your legal problem and household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid Society of Greater Cincinnati",
+        "value": "513-241-9400"
+      },
+      {
+        "kind": "phone",
+        "label": "Legal Aid intake (toll-free)",
+        "value": "1-800-582-2682"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Aid Society of Greater Cincinnati",
+        "url": "https://lascinti.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lascinti.org/"
+    ]
+  },
+  {
+    "id": "toledo-311",
+    "name": "Engage Toledo — City Service Requests",
+    "agency": "City of Toledo — Engage Toledo",
+    "category": "Transportation",
+    "description": "24/7 customer service for all City of Toledo service requests: potholes, tall grass, water emergencies, illegal parking, and more — by phone, email, app, or online portal.",
+    "scope": {
+      "level": "city",
+      "state": "OH",
+      "city": "Toledo",
+      "county": "Lucas"
+    },
+    "eligibility": [
+      "Toledo residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7 by phone and online."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address of the issue and a description; photos help"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Engage Toledo (24/7)",
+        "value": "419-936-2020"
+      },
+      {
+        "kind": "web",
+        "label": "Engage Toledo",
+        "value": "https://toledo.oh.gov/engage-toledo"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Request a Toledo city service",
+        "url": "https://toledo.oh.gov/engage-toledo"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://toledo.oh.gov/engage-toledo"
+    ]
+  },
+  {
+    "id": "toledo-transit-reduced-fare",
+    "name": "TARTA Reduced Fare Program",
+    "agency": "Toledo Area Regional Transit Authority (TARTA)",
+    "category": "Transportation",
+    "description": "Reduced $0.75 fixed-route fares for seniors 65+, veterans and active-duty military, SSI/SSDI recipients, and people with disabilities. Apply at the TARTA Transit Hub, 612 N. Huron St., Toledo.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Lucas"
+    },
+    "eligibility": [
+      "Age 65 or older",
+      "Veterans and active-duty military with proof of service",
+      "Recipients of Social Security or SSI benefits",
+      "People with disabilities (documentation required)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at the Transit Hub."
+      }
+    ],
+    "prerequisites": [
+      "Complete the reduced fare application and bring documentation to the TARTA Transit Hub"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of eligibility (age, veteran status, SSA benefit letter, or medical documentation)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TARTA information line",
+        "value": "419-243-7433"
+      },
+      {
+        "kind": "web",
+        "label": "TARTA reduced fare application process",
+        "value": "https://tarta.com/ride-tarta/how-to-ride/fares-passes/reduced-fare-application-process/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TARTA reduced fare application process",
+        "url": "https://tarta.com/ride-tarta/how-to-ride/fares-passes/reduced-fare-application-process/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$0.75 per reduced-fare ride",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tarta.com/ride-tarta/how-to-ride/fares-passes/reduced-fare-application-process/"
+    ]
+  },
+  {
+    "id": "akron-311",
+    "name": "Akron 3-1-1 — City Service Requests",
+    "agency": "City of Akron — 3-1-1 Call Center",
+    "category": "Transportation",
+    "description": "One call to Akron City Hall for non-emergency services: tall grass, snow plowing, potholes, trash and recycling, streetlights, and housing complaints. Open Monday-Friday 7 AM-6 PM.",
+    "scope": {
+      "level": "city",
+      "state": "OH",
+      "city": "Akron",
+      "county": "Summit"
+    },
+    "eligibility": [
+      "Akron residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone lines Monday-Friday 7 AM-6 PM; online any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Akron 3-1-1",
+        "value": "330-375-2311"
+      },
+      {
+        "kind": "web",
+        "label": "Akron 3-1-1",
+        "value": "https://www.akronohio.gov/departments/neighborhood_assistance/311.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Enter an Akron 311 service request",
+        "url": "https://www.akronohio.gov/departments/neighborhood_assistance/311.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.akronohio.gov/departments/neighborhood_assistance/311.php"
+    ]
+  },
+  {
+    "id": "akron-transit-reduced-fare",
+    "name": "METRO RTA Reduced Fare Program",
+    "agency": "METRO Regional Transit Authority (Akron)",
+    "category": "Transportation",
+    "description": "Discounted fixed-route fares for seniors and people with disabilities in Summit County. Disability applications require certification by a medical professional or agency official.",
+    "scope": {
+      "level": "county",
+      "state": "OH",
+      "county": "Summit"
+    },
+    "eligibility": [
+      "Seniors (proof of age)",
+      "People with disabilities (medical professional certification on the application)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the reduced fare application; disability applicants need Part B completed by a medical professional or agency official"
+    ],
+    "whatToBring": [
+      "Completed application, photo ID, and proof of age or disability"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "METRO RTA",
+        "value": "330-376-5353"
+      },
+      {
+        "kind": "web",
+        "label": "METRO reduced fare application (PDF)",
+        "value": "https://www.yourmetrobus.org/Data/Sites/2/pdf/reduced-fare-app-final-11.10.16.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "METRO reduced fare application (PDF)",
+        "url": "https://www.yourmetrobus.org/Data/Sites/2/pdf/reduced-fare-app-final-11.10.16.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discounted fixed-route fares; card fees vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.yourmetrobus.org/Data/Sites/2/pdf/reduced-fare-app-final-11.10.16.pdf"
+    ]
+  },
+  {
+    "id": "fed-va-health-care",
+    "name": "VA Health Care",
+    "agency": "US Department of Veterans Affairs",
+    "category": "Healthcare",
+    "description": "Comprehensive health care for eligible veterans, including through Ohio VA medical centers and clinics. Apply online, by phone, or in person.",
+    "scope": {
+      "level": "federal",
+      "state": "OH"
+    },
+    "eligibility": [
+      "Veterans meeting VA service and discharge requirements — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "DD-214 or other discharge documentation"
+    ],
+    "whatToBring": [
+      "Military discharge papers and income information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA health benefits hotline",
+        "value": "877-327-0022"
+      },
+      {
+        "kind": "web",
+        "label": "VA Health Care",
+        "value": "https://www.va.gov/health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for VA health care",
+        "url": "https://www.va.gov/health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; copays vary by priority group",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/health-care/"
+    ]
+  },
+  {
+    "id": "fed-hud-housing-counseling",
+    "name": "HUD Housing Counseling",
+    "agency": "US Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "Free or low-cost counseling from HUD-approved agencies in Ohio — buying a home, avoiding foreclosure, renting, and homelessness assistance.",
+    "scope": {
+      "level": "federal",
+      "state": "OH"
+    },
+    "eligibility": [
+      "Anyone needing housing advice; some programs have income limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a counselor any time."
+      }
+    ],
+    "prerequisites": [
+      "Find a HUD-approved counseling agency near you"
+    ],
+    "whatToBring": [
+      "Housing and financial documents relevant to your situation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Talk to a HUD-approved housing counselor",
+        "value": "https://www.hud.gov/counseling"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a HUD-approved housing counselor",
+        "url": "https://www.hud.gov/counseling"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/counseling"
+    ]
   }
 ]
