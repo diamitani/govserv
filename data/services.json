@@ -47343,5 +47343,1782 @@
     "sources": [
       "https://988lifeline.org"
     ]
+  },
+  {
+    "id": "la-snap",
+    "name": "Louisiana SNAP — LA CAFÉ",
+    "agency": "Louisiana Department of Children and Family Services (DCFS)",
+    "category": "Food",
+    "description": "Apply for SNAP (Supplemental Nutrition Assistance Program) food assistance through Louisiana's LA CAFÉ online self-service portal.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana household",
+      "Income and household rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time through LA CAFÉ"
+      }
+    ],
+    "prerequisites": [
+      "Create a LA CAFÉ online account to apply"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence, Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LA CAFÉ self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LA CAFÉ — apply for benefits",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "la-fitap",
+    "name": "Louisiana FITAP — Family Independence Temporary Assistance Program",
+    "agency": "Louisiana Department of Children and Family Services (DCFS)",
+    "category": "Family & Childcare",
+    "description": "Temporary cash assistance for Louisiana families with children through the Family Independence Temporary Assistance Program (FITAP); apply via LA CAFÉ.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana family with dependent children",
+      "Income and work rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time through LA CAFÉ"
+      }
+    ],
+    "prerequisites": [
+      "Create a LA CAFÉ online account to apply"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence, Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LA CAFÉ self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LA CAFÉ — apply for benefits",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "la-kcsp",
+    "name": "Louisiana KCSP — Kinship Care Subsidy Program",
+    "agency": "Louisiana Department of Children and Family Services (DCFS)",
+    "category": "Family & Childcare",
+    "description": "Kinship Care Subsidy Program (KCSP) — cash assistance for kinship caregivers raising related children; apply via LA CAFÉ.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Kinship caregiver of a related child",
+      "Income rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time through LA CAFÉ"
+      }
+    ],
+    "prerequisites": [
+      "Create a LA CAFÉ online account to apply"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence, proof of kinship relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LA CAFÉ self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LA CAFÉ — apply for benefits",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "la-child-support",
+    "name": "Louisiana Child Support Enforcement",
+    "agency": "Louisiana Department of Children and Family Services (DCFS), Child Support Enforcement",
+    "category": "Family & Childcare",
+    "description": "Request Louisiana child support services — including help establishing paternity and support orders and collecting payments — through the LA CAFÉ portal.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana parent or caregiver needing child support services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request services online any time through LA CAFÉ"
+      }
+    ],
+    "prerequisites": [
+      "Create a LA CAFÉ online account to request services"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, birth certificates for children, Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LA CAFÉ self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LA CAFÉ — request child support services",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "la-ccap",
+    "name": "Louisiana CCAP — Child Care Assistance Program",
+    "agency": "Louisiana Department of Education",
+    "category": "Family & Childcare",
+    "description": "Louisiana's Child Care Assistance Program (CCAP) helps eligible families pay for child care; apply through the Louisiana Department of Education's CAFÉ Child Care self-service portal.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana family needing help paying for child care",
+      "Income and activity rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time through the CAFÉ Child Care portal"
+      }
+    ],
+    "prerequisites": [
+      "Create an account in the CAFÉ Child Care portal"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of work or school attendance, child's birth certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CAFÉ Child Care self-service portal",
+        "value": "https://cafe-cp.doe.louisiana.gov/edselfservice/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAFÉ Child Care — apply for CCAP",
+        "url": "https://cafe-cp.doe.louisiana.gov/edselfservice/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cafe-cp.doe.louisiana.gov/edselfservice/"
+    ]
+  },
+  {
+    "id": "la-medicaid",
+    "name": "Louisiana Medicaid",
+    "agency": "Louisiana Department of Health (LDH)",
+    "category": "Healthcare",
+    "description": "Apply for Louisiana Medicaid health coverage for qualifying Louisiana residents; get help by phone or through the LDH Medicaid page.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "Income and eligibility rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online or call the Medicaid helpline"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence, Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid helpline",
+        "value": "1-888-342-6207"
+      },
+      {
+        "kind": "web",
+        "label": "Louisiana Medicaid page",
+        "value": "http://ldh.la.gov/medicaid"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Louisiana Medicaid — program information",
+        "url": "http://ldh.la.gov/medicaid"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://ldh.la.gov/medicaid"
+    ]
+  },
+  {
+    "id": "la-wic",
+    "name": "Louisiana WIC — Women, Infants, and Children",
+    "agency": "Louisiana Department of Health (LDH), Office of Public Health",
+    "category": "Food",
+    "description": "Louisiana's WIC nutrition program provides nutrition support, healthy foods, breastfeeding support, and referrals to eligible women, infants, and children. The program moved to a new EBT card system effective August 1, 2026. Enroll through your local parish health unit or WIC clinic.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "Income and nutritional-risk rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time through a local WIC clinic or parish health unit"
+      }
+    ],
+    "prerequisites": [
+      "Contact your local parish health unit or WIC clinic to enroll"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence, proof of pregnancy or child's age if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LDH WIC program information",
+        "value": "https://ldh.la.gov/news/7689"
+      },
+      {
+        "kind": "web",
+        "label": "Find a parish health unit",
+        "value": "https://ldh.la.gov/oph-regional-offices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LDH — WIC information",
+        "url": "https://ldh.la.gov/news/7689"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ldh.la.gov/news/7689",
+      "https://ldh.la.gov/oph-regional-offices"
+    ]
+  },
+  {
+    "id": "la-liheap",
+    "name": "Louisiana LIHEAP — Low Income Home Energy Assistance Program",
+    "agency": "Louisiana Housing Corporation (LHC)",
+    "category": "Utilities",
+    "description": "Louisiana LIHEAP helps low-income households pay heating and cooling bills. As observed September 19, 2026, statewide online applications are closed; local intake agencies take applications April 13–September 30, 2026 (or until funds are exhausted), and handle crisis applications locally.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Low-income Louisiana household",
+      "Income rules apply — contact your local intake agency"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Local intake closes",
+        "note": "Local intake runs April 13–September 30, 2026 or until funds are exhausted; statewide online applications are closed; crisis applications are handled by local intake agencies"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the local intake agency serving your parish; statewide online applications are closed"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, current utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Louisiana LIHEAP — energy assistance",
+        "value": "http://www.lhc.la.gov/energy-assistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Louisiana LIHEAP — find your local intake agency",
+        "url": "http://www.lhc.la.gov/energy-assistance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.lhc.la.gov/energy-assistance"
+    ]
+  },
+  {
+    "id": "la-hire-unemployment",
+    "name": "Louisiana HiRE — Unemployment Insurance Claims",
+    "agency": "Louisiana Workforce Commission",
+    "category": "Employment",
+    "description": "File and manage Louisiana unemployment insurance claims and benefits through the Louisiana Workforce Commission's HiRE online system.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana worker who lost a job through no fault of their own",
+      "Work-history and wage rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a claim any time; weekly certifications are required while collecting benefits"
+      }
+    ],
+    "prerequisites": [
+      "Create a HiRE account at louisianaworks.net"
+    ],
+    "whatToBring": [
+      "Typically: Social Security number, work history, employer information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Louisiana HiRE portal",
+        "value": "http://www.louisianaworks.net/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HiRE — file an unemployment claim",
+        "url": "http://www.louisianaworks.net/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.louisianaworks.net/"
+    ]
+  },
+  {
+    "id": "la-rehab-services",
+    "name": "Louisiana Rehabilitation Services (LRS) — Vocational Rehabilitation",
+    "agency": "Louisiana Workforce Commission, Louisiana Rehabilitation Services",
+    "category": "Disability",
+    "description": "Louisiana Rehabilitation Services (LRS) helps people with disabilities prepare for, find, and keep employment through vocational rehabilitation services.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident with a disability",
+      "Employment-related eligibility rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply for vocational rehabilitation services through LRS"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, documentation of disability"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Louisiana Rehabilitation Services",
+        "value": "https://www.laworks.net/workforcedev/lrs/lrs_rehabilitation.asp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LRS — vocational rehabilitation services",
+        "url": "https://www.laworks.net/workforcedev/lrs/lrs_rehabilitation.asp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.laworks.net/workforcedev/lrs/lrs_rehabilitation.asp"
+    ]
+  },
+  {
+    "id": "la-elderly-protective-services",
+    "name": "Louisiana Elderly Protective Services",
+    "agency": "Louisiana Governor's Office of Elderly Affairs (GOEA)",
+    "category": "Seniors",
+    "description": "Elderly Protective Services investigates reports of abuse, neglect, exploitation, and extortion of Louisianans age 60 and older and adults with disabilities. Reports can be made by phone; a 24-hour after-hours hotline is available.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Adults 60 and older or adults with disabilities in Louisiana",
+      "Reports can be made by anyone who suspects abuse, neglect, or exploitation"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report any time; after-hours hotline is available 24 hours"
+      }
+    ],
+    "prerequisites": [
+      "None to report — call the hotline or use the online report form"
+    ],
+    "whatToBring": [
+      "Details about the person at risk and the situation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Elderly Protective Services (Mon–Fri 8:00 AM–4:30 PM)",
+        "value": "1-833-577-6532"
+      },
+      {
+        "kind": "phone",
+        "label": "EPS after-hours hotline (24 hours)",
+        "value": "1-844-945-2377"
+      },
+      {
+        "kind": "phone",
+        "label": "Spanish-language line",
+        "value": "1-800-737-1813"
+      },
+      {
+        "kind": "phone",
+        "label": "Louisiana Relay / TTY",
+        "value": "1-800-846-5277"
+      },
+      {
+        "kind": "phone",
+        "label": "GOEA general line",
+        "value": "225-342-7100"
+      },
+      {
+        "kind": "web",
+        "label": "Elderly Protective Services page",
+        "value": "https://goea.la.gov/services/elderly-protective-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Elderly Protective Services — report online or by phone",
+        "url": "https://goea.la.gov/services/elderly-protective-services/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://goea.la.gov/services/elderly-protective-services/"
+    ]
+  },
+  {
+    "id": "la-ldva-benefits-counseling",
+    "name": "LDVA Veterans Benefits Counseling",
+    "agency": "Louisiana Department of Veterans Affairs (LDVA)",
+    "category": "Veterans",
+    "description": "Free counseling from the Louisiana Department of Veterans Affairs to help veterans, dependents, and survivors understand and apply for veterans benefits.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana veterans, dependents, and survivors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact LDVA any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact LDVA for free counseling"
+    ],
+    "whatToBring": [
+      "Typically: discharge papers (DD-214), photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LDVA benefits counseling",
+        "value": "225-219-5000"
+      },
+      {
+        "kind": "web",
+        "label": "LDVA benefits page",
+        "value": "http://vetaffairs.la.gov/benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LDVA — veterans benefits",
+        "url": "http://vetaffairs.la.gov/benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://vetaffairs.la.gov/benefits"
+    ]
+  },
+  {
+    "id": "la-ldva-military-family-fund",
+    "name": "LDVA Military Family Assistance Fund",
+    "agency": "Louisiana Department of Veterans Affairs (LDVA)",
+    "category": "Veterans",
+    "description": "The Military Family Assistance Fund may provide up to $10,000 for an eligible need-based claim within a 12-month period; apply through LDVA.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Need-based; eligibility rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Submit a claim through LDVA"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, documentation of the need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LDVA",
+        "value": "225-219-5000"
+      },
+      {
+        "kind": "web",
+        "label": "LDVA benefits page",
+        "value": "http://vetaffairs.la.gov/benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LDVA — Military Family Assistance Fund",
+        "url": "http://vetaffairs.la.gov/benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://vetaffairs.la.gov/benefits"
+    ]
+  },
+  {
+    "id": "la-ldva-veterans-homes",
+    "name": "Louisiana Veterans Homes",
+    "agency": "Louisiana Department of Veterans Affairs (LDVA)",
+    "category": "Veterans",
+    "description": "Louisiana veterans homes provide long-term residential care for eligible veterans; admissions are handled through LDVA.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana veteran",
+      "Eligibility and availability rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; admission depends on availability"
+      }
+    ],
+    "prerequisites": [
+      "Apply for admission through LDVA"
+    ],
+    "whatToBring": [
+      "Typically: discharge papers (DD-214), photo ID, medical information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LDVA veterans homes",
+        "value": "https://www.vetaffairs.la.gov/benefit-category/veterans-homes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LDVA — veterans homes",
+        "url": "https://www.vetaffairs.la.gov/benefit-category/veterans-homes"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Costs vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.vetaffairs.la.gov/benefit-category/veterans-homes"
+    ]
+  },
+  {
+    "id": "la-losfa",
+    "name": "LOSFA — Louisiana Student Financial Aid",
+    "agency": "Louisiana Office of Student Financial Assistance (LOSFA)",
+    "category": "Education",
+    "description": "Louisiana's student financial aid programs — including TOPS scholarships, grants, and related aid — are administered through the LOSFA portal; create an account to apply.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana student or resident",
+      "Program-specific rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through the LOSFA portal; program deadlines vary"
+      }
+    ],
+    "prerequisites": [
+      "Create a LOSFA portal account"
+    ],
+    "whatToBring": [
+      "Typically: Social Security number, school enrollment information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LOSFA portal",
+        "value": "https://mylosfa.la.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "About LOSFA",
+        "value": "https://mylosfa.la.gov/about/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LOSFA — apply for student financial aid",
+        "url": "https://mylosfa.la.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mylosfa.la.gov/",
+      "https://mylosfa.la.gov/about/"
+    ]
+  },
+  {
+    "id": "la-omv",
+    "name": "Louisiana Office of Motor Vehicles (OMV) — ExpressLane",
+    "agency": "Louisiana Office of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Louisiana Office of Motor Vehicles services — driver's licenses, ID cards, vehicle registration, and more — available online through ExpressLane or at OMV locations; check the OMV alerts page for service updates.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident needing driver or vehicle services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online services any time; office visits during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Varies by service — see the OMV page"
+    ],
+    "whatToBring": [
+      "Varies by service — typically: photo ID, proof of residence, vehicle documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OMV customer service",
+        "value": "225-925-6146"
+      },
+      {
+        "kind": "web",
+        "label": "ExpressLane OMV homepage",
+        "value": "http://www.expresslane.la.gov"
+      },
+      {
+        "kind": "web",
+        "label": "OMV alerts",
+        "value": "https://expresslane.la.gov/omv/alerts/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ExpressLane — OMV online services",
+        "url": "http://www.expresslane.la.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.expresslane.la.gov",
+      "https://expresslane.la.gov/omv/alerts/"
+    ]
+  },
+  {
+    "id": "la-geauxbiz",
+    "name": "Louisiana geauxBIZ — Start a Business",
+    "agency": "Louisiana Secretary of State",
+    "category": "Small Business",
+    "description": "Start and register a business in Louisiana through the Secretary of State's geauxBIZ resources: business registration guidance, filing, and startup information.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Anyone starting or operating a business in Louisiana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Register any time"
+      }
+    ],
+    "prerequisites": [
+      "None to research — register through the Secretary of State"
+    ],
+    "whatToBring": [
+      "Varies by filing — typically: business name, owner information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Secretary of State — Start a Business",
+        "value": "https://www.sos.la.gov/BusinessServices/StartABusiness/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start a Business — Louisiana Secretary of State",
+        "url": "https://www.sos.la.gov/BusinessServices/StartABusiness/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sos.la.gov/BusinessServices/StartABusiness/Pages/default.aspx"
+    ]
+  },
+  {
+    "id": "la-parish-health-units",
+    "name": "LDH Parish Health Units",
+    "agency": "Louisiana Department of Health (LDH), Office of Public Health",
+    "category": "Healthcare",
+    "description": "Parish health units across Louisiana's nine public-health regions serve as the hub for each parish's public health needs: immunizations, reproductive health care, STI testing and treatment, infectious-disease prevention and response, vital records, and WIC. The units serve the underinsured and uninsured.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "Open to the public; underinsured and uninsured residents are served"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your regional unit for appointments"
+      }
+    ],
+    "prerequisites": [
+      "Contact your regional parish health unit for an appointment"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of residence; insurance information if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find a parish health unit",
+        "value": "https://ldh.la.gov/oph-regional-offices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LDH — find your parish health unit",
+        "url": "https://ldh.la.gov/oph-regional-offices"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low cost — varies by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ldh.la.gov/oph-regional-offices"
+    ]
+  },
+  {
+    "id": "la-ldr-file-online",
+    "name": "Louisiana File Online — Free State Tax Filing",
+    "agency": "Louisiana Department of Revenue (LDR)",
+    "category": "Money & Taxes",
+    "description": "Louisiana File Online is LDR's free web application for filing Louisiana individual income tax returns. To use it you must register and create an LDR user account and have filed an individual income tax return with LDR for the 2004 tax year or later.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Individual who has filed a Louisiana individual income tax return with LDR for tax year 2004 or later",
+      "Register for an LDR user account"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File during tax season; check LDR for current filing dates"
+      }
+    ],
+    "prerequisites": [
+      "Register for an LDR user account"
+    ],
+    "whatToBring": [
+      "Typically: Social Security number, income documents, prior-year return information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LDR — file your Louisiana return online",
+        "value": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/can-i-file-my-louisiana-return-on-the-department-s-website/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Louisiana File Online — free filing",
+        "url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/can-i-file-my-louisiana-return-on-the-department-s-website/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/can-i-file-my-louisiana-return-on-the-department-s-website/"
+    ]
+  },
+  {
+    "id": "la-slls-legal-aid",
+    "name": "Southeast Louisiana Legal Services (SLLS) — Free Legal Aid",
+    "agency": "Southeast Louisiana Legal Services (SLLS)",
+    "category": "Legal Aid",
+    "description": "Southeast Louisiana Legal Services is a nonprofit law firm offering free legal advice and representation in civil matters to low-income people in southeast Louisiana — including housing, family, domestic violence, consumer, government benefits, employment, and disaster issues. It does not handle criminal or personal injury cases; an application process determines eligibility.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Low-income resident of southeast Louisiana",
+      "Income eligibility determined through the SLLS application process"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through the SLLS Get Help page"
+      }
+    ],
+    "prerequisites": [
+      "Complete the SLLS application process"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SLLS — Get Help",
+        "value": "https://slls.org/en/get-help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SLLS — get free legal help",
+        "url": "https://slls.org/en/get-help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://slls.org/en/get-help/",
+      "https://slls.org/en/about-slls/"
+    ]
+  },
+  {
+    "id": "fed-sba-louisiana",
+    "name": "SBA Louisiana District Office — Small Business Help",
+    "agency": "U.S. Small Business Administration (SBA)",
+    "category": "Small Business",
+    "description": "The SBA Louisiana District Office provides statewide help with business funding, counseling, federal-contracting certification, and disaster recovery. The New Orleans office is at 500 Poydras St., Suite 828.",
+    "scope": {
+      "level": "federal",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana small business owners and entrepreneurs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact the district office or a local resource partner"
+    ],
+    "whatToBring": [
+      "Typically: business plan, financial statements — varies by program"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Louisiana office",
+        "value": "504-589-6685"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Louisiana District Office",
+        "value": "https://www.sba.gov/district/louisiana"
+      },
+      {
+        "kind": "in-person",
+        "label": "SBA New Orleans office",
+        "value": "500 Poydras St., Suite 828, New Orleans, LA"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Louisiana District Office",
+        "url": "https://www.sba.gov/district/louisiana"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling; loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/louisiana",
+      "http://sba.gov/sites/default/files/staff-directories/SBA%20Louisiana%20Office%20Directory-508.pdf"
+    ]
+  },
+  {
+    "id": "fed-hud-pha-rental",
+    "name": "HUD Public Housing & Rental Assistance — Louisiana",
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "Louisiana public housing and rental assistance: use HUD's public housing authority (PHA) locator to find your local housing authority, or contact LHC rental help. Note: HUD does not maintain property vacancies or waiting lists — check directly with local PHAs.",
+    "scope": {
+      "level": "federal",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Low-income household",
+      "Income limits and waiting-list rules vary by housing authority — contact your local PHA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through your local PHA; waiting lists open and close periodically"
+      }
+    ],
+    "prerequisites": [
+      "Contact your local public housing authority"
+    ],
+    "whatToBring": [
+      "Typically: photo ID, proof of income, proof of residence"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PHA locator",
+        "value": "(800) 955-2232"
+      },
+      {
+        "kind": "phone",
+        "label": "LHC / rental help",
+        "value": "(225) 763-8700"
+      },
+      {
+        "kind": "phone",
+        "label": "Fair housing complaints",
+        "value": "1-800-669-9777"
+      },
+      {
+        "kind": "phone",
+        "label": "New Orleans HUD field office",
+        "value": "(504) 671-3000"
+      },
+      {
+        "kind": "web",
+        "label": "HUD Louisiana housing resources",
+        "value": "https://www.hud.gov/la"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD Louisiana — rental assistance resources",
+        "url": "https://www.hud.gov/la"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rents vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/la"
+    ]
+  },
+  {
+    "id": "nola-311",
+    "name": "New Orleans 311 — City Services",
+    "agency": "City of New Orleans",
+    "category": "Transportation",
+    "description": "Report potholes, traffic and streetlight issues, blighted property, and other non-emergency city issues to New Orleans 311.",
+    "scope": {
+      "level": "city",
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Anyone reporting a New Orleans city issue"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report any time"
+      }
+    ],
+    "prerequisites": [
+      "None — submit a report online or call"
+    ],
+    "whatToBring": [
+      "Location of the issue, description, and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311 (within Orleans Parish)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "From outside the parish or a mobile phone",
+        "value": "504-658-2299"
+      },
+      {
+        "kind": "web",
+        "label": "New Orleans 311 contact page",
+        "value": "https://nola.gov/contact-us/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Orleans 311 — report an issue",
+        "url": "https://nola.gov/contact-us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nola.gov/contact-us/"
+    ]
+  },
+  {
+    "id": "nola-rta",
+    "name": "New Orleans RTA — Jazzy Passes",
+    "agency": "New Orleans Regional Transit Authority (RTA)",
+    "category": "Transportation",
+    "description": "New Orleans RTA Jazzy Passes cover buses, streetcars, and ferries. A Regional Ride pass ($6) works on both RTA and Jefferson Transit for 24 hours after activation.",
+    "scope": {
+      "level": "city",
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time service operates"
+      }
+    ],
+    "prerequisites": [
+      "None — buy a pass to ride"
+    ],
+    "whatToBring": [
+      "Payment for fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RTA Rideline",
+        "value": "504-248-3900"
+      },
+      {
+        "kind": "web",
+        "label": "RTA Jazzy Passes",
+        "value": "https://www.norta.com/ride-with-us/how-to-pay/jazzy-passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RTA — Jazzy Passes",
+        "url": "https://www.norta.com/ride-with-us/how-to-pay/jazzy-passes"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page; Regional Ride $6 for 24 hours",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.norta.com/ride-with-us/how-to-pay/jazzy-passes"
+    ]
+  },
+  {
+    "id": "br-cats",
+    "name": "CATS — Capital Area Transit System (Baton Rouge)",
+    "agency": "Capital Area Transit System (CATS)",
+    "category": "Transportation",
+    "description": "Capital Area Transit System operates 29 bus lines across Baton Rouge; adult fare is $1.75 with reduced-fare options for qualifying riders. CATS On Demand paratransit is available for eligible riders.",
+    "scope": {
+      "level": "city",
+      "city": "Baton Rouge",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to the public; paratransit requires eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time service operates"
+      }
+    ],
+    "prerequisites": [
+      "None for fixed-route buses"
+    ],
+    "whatToBring": [
+      "Fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CATS customer care",
+        "value": "225-389-8282"
+      },
+      {
+        "kind": "phone",
+        "label": "CATS On Demand paratransit",
+        "value": "225-346-5557"
+      },
+      {
+        "kind": "web",
+        "label": "CATS FAQs",
+        "value": "http://www.brcats.com/page/faqs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CATS — routes, fares, and FAQs",
+        "url": "http://www.brcats.com/page/faqs"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Adult fare $1.75; reduced fares available — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.brcats.com/page/faqs"
+    ]
+  },
+  {
+    "id": "shreveport-sportran",
+    "name": "SporTran — Shreveport/Bossier City Transit",
+    "agency": "SporTran",
+    "category": "Transportation",
+    "description": "SporTran provides fixed-route and on-demand/paratransit bus service in Shreveport and Bossier City; all fixed-route buses are ADA accessible. Fares: fixed route $1.25, reduced $0.60, paratransit $2.50 one way.",
+    "scope": {
+      "level": "city",
+      "city": "Shreveport",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to the public; paratransit requires eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time service operates"
+      }
+    ],
+    "prerequisites": [
+      "None for fixed-route buses"
+    ],
+    "whatToBring": [
+      "Fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SporTran",
+        "value": "(318) 673-7400"
+      },
+      {
+        "kind": "web",
+        "label": "Louisiana DOTD — transit providers (Caddo Parish)",
+        "value": "https://wwwapps.dotd.la.gov/multimodal/publictransportation/transitresources/Providers.aspx?Parish=9"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOTD — Shreveport/Bossier transit providers",
+        "url": "https://wwwapps.dotd.la.gov/multimodal/publictransportation/transitresources/Providers.aspx?Parish=9"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fixed route $1.25; reduced $0.60; paratransit $2.50 one way",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wwwapps.dotd.la.gov/multimodal/publictransportation/transitresources/Providers.aspx?Parish=9"
+    ]
+  },
+  {
+    "id": "lafayette-transit",
+    "name": "Lafayette Transit System (LTS)",
+    "agency": "Lafayette Transit System",
+    "category": "Transportation",
+    "description": "Lafayette Transit System runs day and Night Owl bus service Monday–Saturday. Fares: adult $1.00, senior/Medicare $0.50, day pass $3.00. Paratransit service is available for eligible riders.",
+    "scope": {
+      "level": "city",
+      "city": "Lafayette",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to the public; paratransit requires eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time service operates"
+      }
+    ],
+    "prerequisites": [
+      "None for fixed-route buses"
+    ],
+    "whatToBring": [
+      "Fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LTS general / fares / customer service",
+        "value": "(337) 291-8570"
+      },
+      {
+        "kind": "phone",
+        "label": "LTS paratransit",
+        "value": "(337) 235-8976"
+      },
+      {
+        "kind": "web",
+        "label": "Ride LTS",
+        "value": "http://www.ridelts.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lafayette Transit System",
+        "url": "http://www.ridelts.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Adult $1.00; senior/Medicare $0.50; day pass $3.00",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.ridelts.com/"
+    ]
+  },
+  {
+    "id": "lake-charles-transit",
+    "name": "Lake Charles Transit System (LCTS)",
+    "agency": "City of Lake Charles, Transit Division",
+    "category": "Transportation",
+    "description": "Lake Charles Transit System operates five fixed routes Monday–Friday, 5:45 AM–5:45 PM, plus ADA paratransit. Full fare is $1.00 one way; senior citizens (65+) 50¢, disabled riders 25¢, students 50¢; children under 3 ride free. Transit Building: 1155 Ryan St., Lake Charles, LA 70615.",
+    "scope": {
+      "level": "city",
+      "city": "Lake Charles",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to the public; reduced fares require applying at the Transit Office; ADA paratransit requires certification"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride weekdays 5:45 AM–5:45 PM"
+      }
+    ],
+    "prerequisites": [
+      "Reduced-fare riders apply at the Transit Office with proper identification"
+    ],
+    "whatToBring": [
+      "Fare payment; photo ID for reduced-fare applications"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LCTS office (Mon–Fri 8:00 AM–4:30 PM)",
+        "value": "337-491-1253"
+      },
+      {
+        "kind": "phone",
+        "label": "LCTS paratransit certification",
+        "value": "337-491-1267"
+      },
+      {
+        "kind": "in-person",
+        "label": "LCTS Transit Building",
+        "value": "1155 Ryan St., Lake Charles, LA 70615"
+      },
+      {
+        "kind": "web",
+        "label": "LCTS fare and route brochure",
+        "value": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lakecharles-redesign/1377546958_41533_f05c9d15-285d-42a5-9d30-09c170bb9188.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LCTS — fares, routes, and schedules (brochure)",
+        "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lakecharles-redesign/1377546958_41533_f05c9d15-285d-42a5-9d30-09c170bb9188.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$1.00 full fare; 50¢ senior, 25¢ disabled, 50¢ student; under 3 free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lakecharles-redesign/1377546958_41533_f05c9d15-285d-42a5-9d30-09c170bb9188.pdf"
+    ]
+  },
+  {
+    "id": "orleans-public-library",
+    "name": "New Orleans Public Library — Get a Card",
+    "agency": "New Orleans Public Library",
+    "category": "Education",
+    "description": "Free New Orleans Public Library cards for Orleans Parish residents and eligible Jefferson/St. Bernard reciprocal borrowers. Adults 18+ living in Orleans Parish can apply online for a digital card; in-person applicants need photo ID and proof of residence when applicable.",
+    "scope": {
+      "level": "county",
+      "county": "Orleans Parish",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Orleans Parish resident, or eligible Jefferson/St. Bernard reciprocal borrower",
+      "Adults 18+ in Orleans Parish may apply online for a digital card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online or visit a branch"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of residence when applicable (in-person applications)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Borrower account line",
+        "value": "504-596-0205"
+      },
+      {
+        "kind": "web",
+        "label": "NOPL — need a card?",
+        "value": "https://nolalibrary.org/new-to-the-library-need-a-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Orleans Public Library — get a card",
+        "url": "https://nolalibrary.org/new-to-the-library-need-a-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nolalibrary.org/new-to-the-library-need-a-card/"
+    ]
+  },
+  {
+    "id": "ebr-parish-library",
+    "name": "East Baton Rouge Parish Library — Get a Card",
+    "agency": "East Baton Rouge Parish Library",
+    "category": "Education",
+    "description": "Free East Baton Rouge Parish Library cards for parish residents and property owners; a current picture ID and proof of address are required.",
+    "scope": {
+      "level": "county",
+      "county": "East Baton Rouge Parish",
+      "state": "LA"
+    },
+    "eligibility": [
+      "East Baton Rouge Parish resident or property owner"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Visit a branch with ID and proof of address"
+    ],
+    "whatToBring": [
+      "Current picture ID",
+      "Proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lost-card line",
+        "value": "(225) 231-3740"
+      },
+      {
+        "kind": "web",
+        "label": "EBR Parish Library — library cards",
+        "value": "http://ebrpl.libguides.com/c.php?g=44655&p=282554"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "East Baton Rouge Parish Library — library cards",
+        "url": "http://ebrpl.libguides.com/c.php?g=44655&p=282554"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://ebrpl.libguides.com/c.php?g=44655&p=282554"
+    ]
+  },
+  {
+    "id": "caddo-parish-library",
+    "name": "Shreve Memorial Library — Get a Card",
+    "agency": "Shreve Memorial Library",
+    "category": "Education",
+    "description": "Shreve Memorial Library cards for anyone who lives, works, goes to school, or owns land in Caddo Parish (active military personnel and families included). Fill out the online registration form, then visit your local branch with a photo ID to receive the card.",
+    "scope": {
+      "level": "county",
+      "county": "Caddo Parish",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Lives, works, goes to school, or owns land in Caddo Parish; active military personnel and families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Complete the online registration form, then visit a branch"
+    ],
+    "whatToBring": [
+      "Photo ID (to pick up the card at a branch)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Shreve Memorial Library — get a card",
+        "value": "http://shreve-lib.org/130/Get-a-Library-Card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Shreve Memorial Library — get a library card",
+        "url": "http://shreve-lib.org/130/Get-a-Library-Card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://shreve-lib.org/130/Get-a-Library-Card"
+    ]
+  },
+  {
+    "id": "lafayette-parish-library",
+    "name": "Lafayette Public Library — Get a Card",
+    "agency": "Lafayette Public Library",
+    "category": "Education",
+    "description": "Free Lafayette Public Library cards for people who live, work, own property, or attend school in Lafayette Parish. Apply in person with proof (a valid driver's license or work/school ID, plus address proof if the address is not on the ID). Adult cards expire after 5 years; replacement cards cost $1.00; non-resident cards are $20.00 per year.",
+    "scope": {
+      "level": "county",
+      "county": "Lafayette Parish",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Lives, works, owns property, or attends school in Lafayette Parish",
+      "Non-residents may purchase a $20.00/year card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at any LPL location"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address (printed check, mail, or rent/lease receipt if not on ID)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lafayette Public Library — library cards FAQ",
+        "value": "https://lafayettepubliclibrary.org/faq"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lafayette Public Library — library cards",
+        "url": "https://lafayettepubliclibrary.org/faq"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible applicants; $20.00/year non-resident card; $1.00 replacement",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lafayettepubliclibrary.org/faq"
+    ]
+  },
+  {
+    "id": "calcasieu-parish-library",
+    "name": "Calcasieu Parish Public Library — Get a Card",
+    "agency": "Calcasieu Parish Public Library",
+    "category": "Education",
+    "description": "Calcasieu Parish Public Library cards: adults 18+ can apply online for an online-only account, or visit any branch with proof of identification for a full-service physical card. Accounts expire every 5 years.",
+    "scope": {
+      "level": "county",
+      "county": "Calcasieu Parish",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Calcasieu Parish library users; online accounts require age 18+"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online (online-only account) or visit a branch (full-service card)"
+    ],
+    "whatToBring": [
+      "Proof of identification (for a full-service card); photo ID and proof of address for renewals"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Calcasieu Parish Public Library — FAQ",
+        "value": "https://calcasieulibrary.org/faq"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Calcasieu Parish Public Library — get a card",
+        "url": "https://calcasieulibrary.org/faq"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://calcasieulibrary.org/faq"
+    ]
   }
 ]
