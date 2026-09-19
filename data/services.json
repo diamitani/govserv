@@ -82339,5 +82339,2302 @@
     "whatToBring": [
       "Standard documents - varies by office; call ahead"
     ]
+  },
+  {
+    "id": "ri-dhs",
+    "name": "Rhode Island Department of Human Services (DHS) — Benefits Hub",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Money & Taxes",
+    "description": "Central entry point for Rhode Island benefit programs including SNAP, RI Works cash assistance, Medicaid, child care assistance, and energy assistance. Applications can be submitted online through the HealthyRhode customer portal.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents",
+      "Households meeting each program's eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create or sign in to a HealthyRhode account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-855-697-4347"
+      },
+      {
+        "kind": "web",
+        "label": "DHS homepage",
+        "value": "https://dhs.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits on HealthyRhode",
+        "url": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhs.ri.gov/",
+      "https://healthyrhode.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-snap",
+    "name": "SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Food",
+    "description": "Monthly food benefits for eligible low-income households. A state update dated 2026-02-17 describes narrower noncitizen eligibility rules, and new ABAWD work requirements began 2026-03-01 for some adults ages 18-64, requiring 80 hours of work per month with listed exemptions.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents",
+      "Households meeting SNAP income rules",
+      "U.S. citizens or eligible noncitizens under current rules",
+      "Some adults ages 18-64 must meet work requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through HealthyRhode or contact DHS"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of household income and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-855-697-4347"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-745-5555"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP updates page",
+        "value": "https://staycovered.ri.gov/SNAP-Updates"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits on HealthyRhode",
+        "url": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://staycovered.ri.gov/SNAP-Updates",
+      "https://dhs.ri.gov/",
+      "https://healthyrhode.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-works",
+    "name": "RI Works — Cash Assistance",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance for families with dependent children or pregnant individuals, with work requirements and support services to help families reach self-sufficiency.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Households with a dependent child or a pregnancy",
+      "Rhode Island residency",
+      "Income and asset limits",
+      "U.S. citizen or eligible noncitizen status",
+      "Work requirements apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or contact DHS; eligibility interview may be required"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of income and assets",
+      "Proof of dependent child or pregnancy"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-855-697-4347"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-745-5555"
+      },
+      {
+        "kind": "web",
+        "label": "RI Works eligibility and how to apply",
+        "value": "https://dhs.ri.gov/programs-and-services/ri-works-program/eligibility-how-apply?language=en"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RI Works eligibility and how to apply",
+        "url": "https://dhs.ri.gov/programs-and-services/ri-works-program/eligibility-how-apply?language=en"
+      },
+      {
+        "label": "Apply for benefits on HealthyRhode",
+        "url": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhs.ri.gov/programs-and-services/ri-works-program/eligibility-how-apply?language=en",
+      "https://dhs.ri.gov/",
+      "https://healthyrhode.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-medicaid",
+    "name": "HealthyRhode — Health Coverage and Benefits Portal",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Healthcare",
+    "description": "The state's customer portal for applying for health coverage, including Medicaid, and DHS benefit programs. Also available as the HealthyRhode mobile app.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents seeking health coverage or DHS benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a HealthyRhode account"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HealthyRhode portal",
+        "value": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on HealthyRhode",
+        "url": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://healthyrhode.ri.gov/",
+      "https://dhs.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-healthsource",
+    "name": "HealthSource RI — Health Insurance Marketplace",
+    "agency": "HealthSource RI",
+    "category": "Healthcare",
+    "description": "Rhode Island's official health insurance marketplace for individuals, families, and small businesses. Losing Medicaid is a qualifying life event with a 60-day enrollment window before and after the event.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents shopping for health coverage",
+      "Qualifying life events (such as losing Medicaid) trigger special enrollment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Compare plans and enroll online at HealthSource RI"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Household income information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HealthSource RI",
+        "value": "https://www.healthsourceri.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Shop and enroll at HealthSource RI",
+        "url": "https://www.healthsourceri.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to shop and enroll; plan premiums vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthsourceri.com/"
+    ]
+  },
+  {
+    "id": "ri-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "Rhode Island Department of Health",
+    "category": "Food",
+    "description": "Nutrition support at no cost for pregnant people, breastfeeding people, postpartum people up to six months after delivery, and caregivers of children under age five, subject to program guidelines.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents who are pregnant, breastfeeding, or postpartum up to six months",
+      "Caregivers of a child under age five",
+      "Must meet program guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact WIC client services to apply"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC client services",
+        "value": "401-222-4642"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC client services (Spanish)",
+        "value": "401-222-4623"
+      },
+      {
+        "kind": "web",
+        "label": "WIC program page",
+        "value": "https://health.ri.gov/wic"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WIC program page",
+        "url": "https://health.ri.gov/wic"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — no cost to participants",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.ri.gov/wic"
+    ]
+  },
+  {
+    "id": "ri-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Utilities",
+    "description": "Heating assistance for eligible households, administered through local Community Action Program (CAP) agencies; new applicants generally apply in person at their local CAP agency. The application period closed on 2026-04-15 and is expected to reopen on 2026-10-01. Households must be at or below 60% of Rhode Island median income.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island households at or below 60% of state median income",
+      "Apply through the local CAP agency serving your city or town"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Program reopens",
+        "note": "Application period closed 2026-04-15; expected to reopen 2026-10-01. Status verified 2026-09-19."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local CAP agency; new applicants generally apply in person"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of residency",
+      "Proof of household income",
+      "Heating/utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LIHEAP program page",
+        "value": "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-program?language=en"
+      },
+      {
+        "kind": "web",
+        "label": "RI Community Action agencies",
+        "value": "https://www.ricommunityaction.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP program page",
+        "url": "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-program?language=en"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-program?language=en",
+      "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/ffy-2026-low-income-guidelines",
+      "https://www.ricommunityaction.org/"
+    ]
+  },
+  {
+    "id": "ri-ccap",
+    "name": "CCAP — Child Care Assistance Program",
+    "agency": "Rhode Island Department of Human Services",
+    "category": "Family & Childcare",
+    "description": "Helps eligible families pay for child care so parents can focus on work, training, or education. The income limit for CCAP eligibility was raised to 261% of the federal poverty level for families applying starting January 1, 2025, and DHS processes CCAP applications within 30 days.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Families within the CCAP income limit (261% of the federal poverty level for applications from January 1, 2025)",
+      "Rhode Island residents with qualifying child care need"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the HealthyRhode customer portal or submit a DHS-2 paper application at a DHS office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Rhode Island residency",
+      "Proof of household income",
+      "Child care need documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS call center (1-855-MY-RIDHS)",
+        "value": "1-855-697-4347"
+      },
+      {
+        "kind": "web",
+        "label": "CCAP eligibility expansion announcement",
+        "value": "https://dhs.ri.gov/press-releases/more-ri-households-become-eligible-child-care-assistance-through-fy25-budget"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for CCAP on HealthyRhode",
+        "url": "https://healthyrhode.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; copays may apply based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhs.ri.gov/press-releases/more-ri-households-become-eligible-child-care-assistance-through-fy25-budget",
+      "https://dhs.ri.gov/",
+      "https://healthyrhode.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-unemployment-insurance",
+    "name": "Unemployment Insurance",
+    "agency": "Rhode Island Department of Labor and Training",
+    "category": "Employment",
+    "description": "Temporary income support for workers who lose their jobs through no fault of their own and meet the state's wage and base-period requirements.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Workers meeting Rhode Island wage and base-period requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File a claim with the Department of Labor and Training"
+    ],
+    "whatToBring": [
+      "Work history and wage information",
+      "Proof of identity"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance page",
+        "value": "https://www.dlt.ri.gov/individuals/unemployment-insurance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance information",
+        "url": "https://www.dlt.ri.gov/individuals/unemployment-insurance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dlt.ri.gov/individuals/unemployment-insurance"
+    ]
+  },
+  {
+    "id": "ri-homebuyer-loans",
+    "name": "RIHousing — First-Time Homebuyer Loans",
+    "agency": "RIHousing",
+    "category": "Housing",
+    "description": "First-time homebuyer mortgage loans and down-payment assistance from the state's housing finance agency. First-time RIHousing borrowers must complete homebuyer education before closing. Note: the RI REALTORS Homebuyer Grant is closed because all funds are reserved.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "First-time homebuyers purchasing in Rhode Island",
+      "Borrowers meeting RIHousing income and purchase-price rules",
+      "Completion of homebuyer education before closing (required for first-time RIHousing borrowers)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Get pre-qualified through a participating lender",
+      "Complete required homebuyer education before closing"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Homebuyer education certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RIHousing homebuyers page",
+        "value": "https://www.rihousing.com/homebuyers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RIHousing homebuyer programs",
+        "url": "https://www.rihousing.com/homebuyers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rihousing.com/homebuyers/",
+      "https://www.rihousing.com/"
+    ]
+  },
+  {
+    "id": "ri-homebuyer-education",
+    "name": "RIHousing — Homebuyer Education",
+    "agency": "RIHousing",
+    "category": "Education",
+    "description": "Homebuyer education courses for prospective buyers. Completion is required before closing for first-time RIHousing borrowers.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "First-time RIHousing borrowers (required before closing)",
+      "Other prospective homebuyers welcome"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Register for a homebuyer education course through RIHousing"
+    ],
+    "whatToBring": [
+      "Course registration"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RIHousing homebuyers page",
+        "value": "https://www.rihousing.com/homebuyers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RIHousing homebuyer education",
+        "url": "https://www.rihousing.com/homebuyers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Course fees may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rihousing.com/homebuyers/"
+    ]
+  },
+  {
+    "id": "ri-risla",
+    "name": "RISLA — Student Loans",
+    "agency": "Rhode Island Student Loan Authority (RISLA)",
+    "category": "Education",
+    "description": "Nonprofit education lender. RI Advantage is an exclusive student-loan interest-rate discount for any student attending a college or university in Rhode Island and for Rhode Island resident students attending college anywhere in the country. Borrower benefits include income-based repayment options and payment forbearance.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island residents attending college anywhere",
+      "Nonresidents attending a college or university in Rhode Island"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online; most undergraduate borrowers apply with a cosigner"
+    ],
+    "whatToBring": [
+      "School enrollment information",
+      "Income and credit information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RISLA student loans",
+        "value": "https://www.risla.com/student-loans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RISLA student loan options",
+        "url": "https://www.risla.com/student-loans"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; loan interest and terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.risla.com/student-loans",
+      "https://www.risla.com/"
+    ]
+  },
+  {
+    "id": "ri-dmv-license-renewal",
+    "name": "DMV — Driver's License Renewal",
+    "agency": "Rhode Island Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Renew Rhode Island driver's licenses and state identification cards through the Division of Motor Vehicles, online or in person.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island licensed drivers and ID card holders eligible for renewal"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Have your current license or ID information ready"
+    ],
+    "whatToBring": [
+      "Current driver's license or ID",
+      "Proof of identity if required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RI DMV",
+        "value": "https://www.dmv.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RI DMV license services",
+        "url": "https://www.dmv.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal fees apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dmv.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-dmv-registration-renewal",
+    "name": "DMV — Vehicle Registration Renewal",
+    "agency": "Rhode Island Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Renew vehicle registrations online through the RIDMV online services portal.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Island vehicle owners with registrations eligible for renewal"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Have your registration or plate information ready"
+    ],
+    "whatToBring": [
+      "Current registration or plate number",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RIDMV online services",
+        "value": "https://ridmvservices.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew registration online",
+        "url": "https://ridmvservices.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal fees apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ridmvservices.ri.gov/",
+      "https://www.dmv.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-business-registration",
+    "name": "Business Registration — Secretary of State",
+    "agency": "Rhode Island Secretary of State",
+    "category": "Small Business",
+    "description": "Register business entities and file business documents with the Rhode Island Secretary of State's business services portal.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Businesses forming or operating in Rhode Island"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Choose a business structure and name"
+    ],
+    "whatToBring": [
+      "Business name and structure information",
+      "Registered agent information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business services portal",
+        "value": "https://business.sos.ri.gov/corp"
+      },
+      {
+        "kind": "web",
+        "label": "Secretary of State",
+        "value": "https://sos.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register a business",
+        "url": "https://business.sos.ri.gov/corp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://business.sos.ri.gov/corp",
+      "https://sos.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-vocational-rehabilitation",
+    "name": "Vocational Rehabilitation (ORS)",
+    "agency": "Rhode Island Office of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Employment services for people with disabilities: counseling, training, education support, and job-placement assistance through the Office of Rehabilitation Services.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Islanders with disabilities facing barriers to employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact ORS to apply for vocational rehabilitation services"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Disability documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of Rehabilitation Services",
+        "value": "https://ors.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ORS vocational rehabilitation",
+        "url": "https://ors.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ors.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-blind-services",
+    "name": "Services for the Blind and Visually Impaired (ORS)",
+    "agency": "Rhode Island Office of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Specialized services for Rhode Islanders who are blind or visually impaired, administered by the Office of Rehabilitation Services.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Islanders who are blind or visually impaired"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact ORS for an intake"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Vision documentation if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of Rehabilitation Services",
+        "value": "https://ors.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ORS services for the blind and visually impaired",
+        "url": "https://ors.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ors.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-assistive-technology",
+    "name": "Assistive Technology Access (ORS)",
+    "agency": "Rhode Island Office of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Access to assistive technology devices and services that help people with disabilities live and work more independently, coordinated through the Office of Rehabilitation Services.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Islanders with disabilities who need assistive technology"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact ORS about assistive technology services"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Documentation of need if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of Rehabilitation Services",
+        "value": "https://ors.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ORS assistive technology",
+        "url": "https://ors.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ors.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-office-healthy-aging",
+    "name": "Office of Healthy Aging — Aging & Disability Resource Center",
+    "agency": "Rhode Island Office of Healthy Aging",
+    "category": "Seniors",
+    "description": "State agency connecting older adults, adults with disabilities, and caregivers to services, information, and referrals. Public comments on the draft 2026-2029 State Plan on Aging are accepted through 4:00 PM on 2026-09-30.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Older Rhode Islanders",
+      "Adults with disabilities and their caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Public comment deadline",
+        "note": "Comments on the draft 2026-2029 State Plan on Aging accepted through 4:00 PM on 2026-09-30."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Office of Healthy Aging or the Point (ADRC) for referrals"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of age or disability where required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of Healthy Aging",
+        "value": "https://oha.ri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Office of Healthy Aging",
+        "url": "https://oha.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oha.ri.gov/"
+    ]
+  },
+  {
+    "id": "ri-legal-services",
+    "name": "Rhode Island Legal Services",
+    "agency": "Rhode Island Legal Services, Inc.",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income Rhode Islanders, including housing, family, public benefits, and consumer matters.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Low-income Rhode Island residents with civil legal needs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply for help online or call the intake line"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to the legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Services intake",
+        "value": "401-274-2652"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free intake",
+        "value": "800-662-5034"
+      },
+      {
+        "kind": "web",
+        "label": "RI Legal Services",
+        "value": "https://www.rils.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for legal help",
+        "url": "https://www.rils.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rils.org/"
+    ]
+  },
+  {
+    "id": "ri-disability-rights",
+    "name": "Disability Rights Rhode Island",
+    "agency": "Disability Rights Rhode Island",
+    "category": "Legal Aid",
+    "description": "Protection and advocacy for the legal rights of people with disabilities in Rhode Island, including help with discrimination, benefits, and access issues.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Islanders with disabilities facing rights violations or access barriers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact Disability Rights Rhode Island for intake"
+    ],
+    "whatToBring": [
+      "Description of the issue",
+      "Relevant documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Disability Rights Rhode Island",
+        "value": "401-831-3150"
+      },
+      {
+        "kind": "web",
+        "label": "Disability Rights Rhode Island",
+        "value": "https://drri.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Contact Disability Rights Rhode Island",
+        "url": "https://drri.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://drri.org/",
+      "https://DRRI.ORG/wp-content/uploads/2026/01/FINAL-DRRI-Grievance-Procedure-2025.pdf"
+    ]
+  },
+  {
+    "id": "ri-211",
+    "name": "RI 211 — United Way",
+    "agency": "United Way of Rhode Island",
+    "category": "Money & Taxes",
+    "description": "Free statewide helpline connecting Rhode Islanders to food, housing, employment training, utility help, and other community services, by phone, online chat, and the web.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Any Rhode Islander seeking help finding services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Dial 211 or visit the website to search the resource directory"
+    ],
+    "whatToBring": [
+      "Description of the need",
+      "ZIP code for local referrals"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "United Way of Rhode Island",
+        "value": "https://www.uwri.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find help through RI 211",
+        "url": "https://www.uwri.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free and confidential",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.uwri.org/"
+    ]
+  },
+  {
+    "id": "ri-food-bank",
+    "name": "Rhode Island Community Food Bank — Food Finder",
+    "agency": "Rhode Island Community Food Bank",
+    "category": "Food",
+    "description": "Find free food assistance through the Food Bank's Food Finder and Get Assistance tools, which connect Rhode Islanders with member agencies and pantries statewide.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Rhode Islanders facing food insecurity"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Use the Food Finder to locate nearby assistance"
+    ],
+    "whatToBring": [
+      "ZIP code or address for the search"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RI Community Food Bank",
+        "value": "https://rifoodbank.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find food assistance",
+        "url": "https://rifoodbank.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rifoodbank.org/"
+    ]
+  },
+  {
+    "id": "ri-veterans-services",
+    "name": "RIVETS — RI Office of Veterans Services",
+    "agency": "Rhode Island Office of Veterans Services",
+    "category": "Veterans",
+    "description": "The state's coordination center for veterans, active-duty service members, National Guard and Reserve members, and their families — help with benefits, referrals, and veteran services.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Veterans",
+      "Active-duty service members",
+      "National Guard and Reserve members",
+      "Military families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Office of Veterans Services"
+    ],
+    "whatToBring": [
+      "Proof of military service (such as DD-214) if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of Veterans Services",
+        "value": "https://vets.ri.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "Contact Veterans Services",
+        "value": "https://vets.ri.gov/contact"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RI Office of Veterans Services",
+        "url": "https://vets.ri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vets.ri.gov/",
+      "https://vets.ri.gov/contact"
+    ]
+  },
+  {
+    "id": "ri-ripta",
+    "name": "RIPTA — Public Transit",
+    "agency": "Rhode Island Public Transit Authority",
+    "category": "Transportation",
+    "description": "Statewide public bus service across Rhode Island, with current service alerts and route information posted on the agency website.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Anyone traveling in Rhode Island"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Check routes and fares on ripta.com"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RIPTA",
+        "value": "https://www.ripta.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RIPTA routes and fares",
+        "url": "https://www.ripta.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares vary by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ripta.com/"
+    ]
+  },
+  {
+    "id": "ri-ripta-reduced-fare",
+    "name": "RIPTA Reduced Fare Bus Pass",
+    "agency": "Rhode Island Public Transit Authority",
+    "category": "Transportation",
+    "description": "Reduced-fare bus passes for low-income seniors age 65 and over and low-income persons with disabilities. Qualifying riders receive a photo ID pass valid for two years with a $10 processing fee. Seniors and riders with disabilities also receive half-fare boarding during off-peak hours, and a Medicare card can be used to board.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Low-income seniors age 65 and over",
+      "Low-income persons with qualifying disabilities",
+      "Proof such as an SSI/SSDI award letter, Medicare card, or VA disability letter"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Reduced Fare Bus Pass application with proof of eligibility"
+    ],
+    "whatToBring": [
+      "Proof of age or disability",
+      "Photo ID",
+      "Proof of low income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Reduced fare bus pass program",
+        "value": "https://vets.ri.gov/find-your-benefits/find-your-benefits/bus-pass-program-individuals-disabilities"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Reduced fare bus pass program information",
+        "url": "https://vets.ri.gov/find-your-benefits/find-your-benefits/bus-pass-program-individuals-disabilities"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 processing fee per pass issuance",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vets.ri.gov/find-your-benefits/find-your-benefits/bus-pass-program-individuals-disabilities",
+      "https://www.ripta.com/"
+    ]
+  },
+  {
+    "id": "ri-sba-district",
+    "name": "SBA Rhode Island District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Help with SBA funding programs, counseling, federal contracting certifications, and disaster recovery. The Rhode Island District Office serves the entire state; the Providence office is at 380 Westminster St., Room 511, open Monday-Friday 8:00 AM-4:30 PM, closed on federal holidays.",
+    "scope": {
+      "level": "state",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Small business owners and entrepreneurs in Rhode Island"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact the district office or send a message to set up an appointment"
+    ],
+    "whatToBring": [
+      "Business information related to your request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Rhode Island District Office",
+        "value": "401-528-4561"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Rhode Island District",
+        "value": "https://www.sba.gov/district/rhode-island"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Rhode Island District Office",
+        "url": "https://www.sba.gov/district/rhode-island"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling and guidance",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/rhode-island"
+    ]
+  },
+  {
+    "id": "fed-va-providence",
+    "name": "VA Providence Healthcare System",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA health care for eligible veterans at the Providence VA Medical Center, 830 Chalkstone Avenue, Providence, plus affiliated clinics.",
+    "scope": {
+      "level": "federal",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Eligible veterans enrolled in VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply for VA health care online or at the medical center"
+    ],
+    "whatToBring": [
+      "DD-214 or service documentation",
+      "Proof of identity"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Providence Healthcare System",
+        "value": "https://www.va.gov/providence-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Providence Healthcare System",
+        "url": "https://www.va.gov/providence-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible veterans; copays may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/providence-health-care/"
+    ]
+  },
+  {
+    "id": "fed-hud-voucher-ri",
+    "name": "Housing Choice Vouchers — RI Centralized Waitlist",
+    "agency": "U.S. Department of Housing and Urban Development / RI housing authorities",
+    "category": "Housing",
+    "description": "Rhode Island's participating housing authorities, including Warwick, use a centralized application process for the Housing Choice Voucher program, as described in HUD's Rhode Island Resource Guide.",
+    "scope": {
+      "level": "federal",
+      "state": "RI"
+    },
+    "eligibility": [
+      "Eligible low-income families, older adults, and people with disabilities",
+      "Applicants must meet the participating housing authority's rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist openings vary by housing authority."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the centralized process described in the HUD RI Resource Guide"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HUD RI Resource Guide (PDF)",
+        "value": "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD RI Resource Guide — centralized voucher information",
+        "url": "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+    ]
+  },
+  {
+    "id": "providence-311",
+    "name": "PVD311 — Providence Service Requests",
+    "agency": "City of Providence",
+    "category": "Money & Taxes",
+    "description": "Providence's 311 system for submitting non-emergency service requests to the city, via the PVD311 portal, app, or phone.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Providence",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Anyone in Providence needing non-emergency city services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Describe the issue and its location"
+    ],
+    "whatToBring": [
+      "Address or location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "PVD311 portal",
+        "value": "https://311.providenceri.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "City constituent toolkit",
+        "value": "https://www.providenceri.gov/mayor-city-services/constituent-toolkit/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Submit a PVD311 service request",
+        "url": "https://311.providenceri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://311.providenceri.gov/",
+      "https://www.providenceri.gov/mayor-city-services/constituent-toolkit/"
+    ]
+  },
+  {
+    "id": "providence-housing-authority",
+    "name": "Providence Housing Authority",
+    "agency": "Providence Housing Authority",
+    "category": "Housing",
+    "description": "Manages 2,606 public housing units and 2,432 Housing Choice Vouchers, plus 8 AMETEK affordable housing developments, serving low-income Providence families.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Providence",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Eligible low-income families, older adults, and people with disabilities in Providence"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist openings vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply when waitlists are open"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Providence Housing Authority",
+        "value": "https://www.provhousing.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Providence Housing Authority",
+        "url": "https://www.provhousing.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.provhousing.org/"
+    ]
+  },
+  {
+    "id": "providence-public-library",
+    "name": "Providence Public Library",
+    "agency": "Providence Public Library",
+    "category": "Education",
+    "description": "Open to all, with free programs, books and media, and a computer lab with public wifi access.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Providence",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Open to all"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID for a library card if desired"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Providence Public Library",
+        "value": "https://www.provlib.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Providence Public Library",
+        "url": "https://www.provlib.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.provlib.org/"
+    ]
+  },
+  {
+    "id": "warwick-public-library",
+    "name": "Warwick Public Library",
+    "agency": "Warwick Public Library",
+    "category": "Education",
+    "description": "Free library services including 10,000+ free online video courses in multiple languages and lending of nontraditional items such as craft tools, kitchen appliances, health devices, home improvement tools, and learning kits.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Warwick",
+      "county": "Kent"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID for a library card if desired"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Warwick Public Library",
+        "value": "https://warwicklibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Warwick Public Library",
+        "url": "https://warwicklibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://warwicklibrary.org/"
+    ]
+  },
+  {
+    "id": "warwick-housing-authority",
+    "name": "Warwick Housing Authority — Housing Choice Vouchers",
+    "agency": "Warwick Housing Authority / HUD",
+    "category": "Housing",
+    "description": "Warwick participates in Rhode Island's centralized Housing Choice Voucher waitlist, per HUD's Rhode Island Resource Guide. Check the guide for how centralized applications work.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Warwick",
+      "county": "Kent"
+    },
+    "eligibility": [
+      "Eligible low-income households under participating authority rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist openings vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the centralized process when the waitlist opens"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HUD RI Resource Guide (PDF)",
+        "value": "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD RI Resource Guide — centralized voucher information",
+        "url": "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://HUD.Gov/sites/dfiles/State/documents/RI-Resource-Guide.pdf"
+    ]
+  },
+  {
+    "id": "cranston-public-library",
+    "name": "Cranston Public Library",
+    "agency": "Cranston Public Library",
+    "category": "Education",
+    "description": "Free movies, television shows, and music streaming with a library card, research databases, on-demand K-12 tutoring through Tutor.com, and local history collections. Central Library: 140 Sockanosset Cross Rd, Cranston, RI 02920. Hours: Mon-Wed 9 AM-8 PM; Thu-Sat 9 AM-5 PM.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Cranston",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID for a library card if desired"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cranston Public Library",
+        "value": "401-943-9080"
+      },
+      {
+        "kind": "web",
+        "label": "Cranston Public Library",
+        "value": "https://www.cranstonlibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cranston Public Library",
+        "url": "https://www.cranstonlibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cranstonlibrary.org/"
+    ]
+  },
+  {
+    "id": "pawtucket-city-services",
+    "name": "City of Pawtucket — City Services",
+    "agency": "City of Pawtucket",
+    "category": "Money & Taxes",
+    "description": "Official city portal for Pawtucket municipal services, departments, news, and events, under Mayor Donald R. Grebien. City Hall: 137 Roosevelt Avenue, Pawtucket, RI 02860.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Pawtucket",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Pawtucket residents and businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pawtucket City Hall",
+        "value": "401-728-0500"
+      },
+      {
+        "kind": "web",
+        "label": "City of Pawtucket",
+        "value": "https://www.pawtucketri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Pawtucket",
+        "url": "https://www.pawtucketri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.pawtucketri.gov/"
+    ]
+  },
+  {
+    "id": "pawtucket-housing-authority",
+    "name": "Pawtucket Housing Authority",
+    "agency": "Pawtucket Housing Authority",
+    "category": "Housing",
+    "description": "Administers Housing Choice Vouchers and public housing in Pawtucket; dedicated to providing quality housing to low-income residents.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Pawtucket",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Eligible low-income families, older adults, and people with disabilities in Pawtucket"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist openings vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply when waitlists are open"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pawtucket Housing Authority",
+        "value": "401-725-9116"
+      },
+      {
+        "kind": "web",
+        "label": "Pawtucket Housing Authority",
+        "value": "https://www.pawthousing.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pawtucket Housing Authority",
+        "url": "https://www.pawthousing.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.pawthousing.org/"
+    ]
+  },
+  {
+    "id": "pawtucket-public-library",
+    "name": "Pawtucket Public Library",
+    "agency": "Pawtucket Public Library",
+    "category": "Education",
+    "description": "Library catalog, ebooks and audiobooks, mobile printing, a bookmobile schedule, and a passport acceptance office. Status note: the library posted that it will be closed Saturday 9/19 and Monday 9/21 — check the site for reopening information.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Pawtucket",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Check hours before visiting; closed 9/19 and 9/21 per posted notice"
+    ],
+    "whatToBring": [
+      "Photo ID for a library card or passport services"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Pawtucket Public Library",
+        "value": "https://pawtucketlibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pawtucket Public Library",
+        "url": "https://pawtucketlibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://pawtucketlibrary.org/"
+    ]
+  },
+  {
+    "id": "pawtucket-bvchc",
+    "name": "Blackstone Valley Community Health Care",
+    "agency": "Blackstone Valley Community Health Care",
+    "category": "Healthcare",
+    "description": "Federally qualified community health center accepting new primary-care patients, with 7 locations including Pawtucket and Central Falls. Services include family medicine, pediatrics, dental, optometry, behavioral health, OB/GYN, and pharmacy; walk-in Express Health offers same-day sick visits in Central Falls.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "Pawtucket",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Accepting new patients; serves the community regardless of ability to pay"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call or walk in for Express Health same-day sick visits"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Blackstone Valley Community Health Care",
+        "value": "https://www.bvchc.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Blackstone Valley Community Health Care",
+        "url": "https://www.bvchc.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Low-cost care; sliding scale available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.bvchc.org/"
+    ]
+  },
+  {
+    "id": "east-providence-housing-authority",
+    "name": "East Providence Housing Authority",
+    "agency": "East Providence Housing Authority",
+    "category": "Housing",
+    "description": "Serves eligible low-income families, older adults, and people with disabilities through public housing and the Housing Choice Voucher program. The authority owns and manages 419 public housing units and administers 445 vouchers; residents generally pay 30% of adjusted income toward rent.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "East Providence",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Eligible low-income families, older adults, and people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist openings vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply when waitlists are open"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "East Providence Housing Authority",
+        "value": "https://www.ephousing.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "East Providence Housing Authority",
+        "url": "https://www.ephousing.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ephousing.org/"
+    ]
+  },
+  {
+    "id": "east-providence-city",
+    "name": "City of East Providence — City Services",
+    "agency": "City of East Providence",
+    "category": "Money & Taxes",
+    "description": "Official city portal for East Providence municipal services, departments, and community information.",
+    "scope": {
+      "level": "city",
+      "state": "RI",
+      "city": "East Providence",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "East Providence residents and businesses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "City of East Providence",
+        "value": "https://www.eastprovidenceri.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of East Providence",
+        "url": "https://www.eastprovidenceri.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.eastprovidenceri.gov/"
+    ]
+  },
+  {
+    "id": "providence-county-capp",
+    "name": "Community Action Partnership of Providence County (CAPP)",
+    "agency": "Community Action Partnership of Providence County",
+    "category": "Utilities",
+    "description": "LIHEAP heating assistance and weatherization services for eligible Providence County residents; residents must be approved for LIHEAP to access weatherization. Office: 518 Hartford Avenue, Providence.",
+    "scope": {
+      "level": "county",
+      "state": "RI",
+      "county": "Providence"
+    },
+    "eligibility": [
+      "Eligible Providence County residents",
+      "Households meeting LIHEAP income rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "LIHEAP season openings vary; the 2026 season begins October 1."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through CAPP's LIHEAP portal or call the LIHEAP department"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of residency",
+      "Proof of household income",
+      "Heating/utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPP LIHEAP (unverified)",
+        "value": "401-273-2000"
+      },
+      {
+        "kind": "web",
+        "label": "CAPP LIHEAP",
+        "value": "https://cappri.org/programs/low-income-home-energy-assistance-liheap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAPP LIHEAP application portal",
+        "url": "https://cappri.org/programs/low-income-home-energy-assistance-liheap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cappri.org/programs/low-income-home-energy-assistance-liheap"
+    ]
+  },
+  {
+    "id": "kent-county-westbay",
+    "name": "Westbay Community Action — Kent County",
+    "agency": "Westbay Community Action, Inc.",
+    "category": "Utilities",
+    "description": "Community action agency serving Kent County since 1966: heating assistance, childcare, emergency and supplemental food, senior nutrition programs, and case-management services to help families build self-sufficiency.",
+    "scope": {
+      "level": "county",
+      "state": "RI",
+      "county": "Kent"
+    },
+    "eligibility": [
+      "Kent County residents in need, including low-income families, older adults, and people in crisis"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact Westbay for intake"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of residency",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Westbay Community Action (unverified)",
+        "value": "401-732-4660"
+      },
+      {
+        "kind": "web",
+        "label": "Westbay Community Action",
+        "value": "https://www.westbaycap.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Westbay programs and services",
+        "url": "https://www.westbaycap.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.westbaycap.org/"
+    ]
   }
 ]
