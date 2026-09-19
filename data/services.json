@@ -26932,5 +26932,1412 @@
     "whatToBring": [
       "Nothing for bus service; Dial-A-Lift application documentation as specified on the application"
     ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Apply online via Health-e-Arizona Plus",
+        "url": "https://healthearizonaplus.gov"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES Nutrition Assistance",
+        "value": "1-855-432-7587"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online",
+        "value": "https://healthearizonaplus.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Arizona's SNAP program: monthly food benefits for low-income households to buy groceries.",
+    "eligibility": [
+      "Arizona residents with limited income and resources",
+      "Varies — see program page"
+    ],
+    "id": "az-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Nutrition Assistance (SNAP)",
+    "prerequisites": [
+      "Create a Health-e-Arizona Plus account to apply online"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://healthearizonaplus.gov",
+      "https://des.az.gov/node/4100"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Health Care Cost Containment System (AHCCCS)",
+    "applyLinks": [
+      {
+        "label": "How to apply for AHCCCS",
+        "url": "https://azahcccs.gov/members/getcovered/apply.html"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "AHCCCS",
+        "value": "1-888-621-6880"
+      },
+      {
+        "kind": "web",
+        "label": "AHCCCS application page",
+        "value": "https://azahcccs.gov/members/getcovered/apply.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Arizona's Medicaid program: low-cost or free health coverage, including long-term care (ALTCS) for eligible residents.",
+    "eligibility": [
+      "Arizona residents with limited income",
+      "Varies — see program page"
+    ],
+    "id": "az-ahcccs",
+    "languages": [
+      "English"
+    ],
+    "name": "AHCCCS Health Insurance (Arizona Medicaid)",
+    "prerequisites": [
+      "None published — apply online or by phone"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://azahcccs.gov/members/getcovered/apply.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Health Services (ADHS)",
+    "applyLinks": [
+      {
+        "label": "Arizona WIC program page",
+        "url": "https://www.azdhs.gov/prevention/azwic/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Arizona WIC",
+        "value": "1-800-252-5942"
+      },
+      {
+        "kind": "web",
+        "label": "Arizona WIC program page",
+        "value": "https://www.azdhs.gov/prevention/azwic/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Nutrition support, breastfeeding help, and healthy foods for eligible women, infants, and children.",
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "id": "az-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Arizona WIC — Women, Infants, and Children",
+    "prerequisites": [
+      "Contact a local WIC clinic to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.azdhs.gov/prevention/azwic/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by clinic; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Cash Assistance program page",
+        "url": "https://des.az.gov/ca"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES Cash Assistance",
+        "value": "1-855-432-7587"
+      },
+      {
+        "kind": "web",
+        "label": "Cash Assistance program page",
+        "value": "https://des.az.gov/ca"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Temporary cash assistance for low-income families with children (Arizona's TANF program).",
+    "eligibility": [
+      "Low-income families with dependent children",
+      "Varies — see program page"
+    ],
+    "id": "az-tanf-cash",
+    "languages": [
+      "English"
+    ],
+    "name": "Cash Assistance (TANF)",
+    "prerequisites": [
+      "None published — apply online, by phone, or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://des.az.gov/ca",
+      "https://des.az.gov/node/4100"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation program page",
+        "url": "https://des.az.gov/services/employment/rehabilitation-services/vocational-rehabilitation-vr"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES Vocational Rehabilitation",
+        "value": "1-800-563-1221"
+      },
+      {
+        "kind": "web",
+        "label": "Vocational Rehabilitation program page",
+        "value": "https://des.az.gov/services/employment/rehabilitation-services/vocational-rehabilitation-vr"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Employment services, counseling, and training for Arizonans whose disability affects their ability to work.",
+    "eligibility": [
+      "A disability that affects the ability to work",
+      "Need for VR services to prepare for, obtain, or keep employment"
+    ],
+    "id": "az-vocational-rehab",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation (VR)",
+    "prerequisites": [
+      "Apply for VR services through DES"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://des.az.gov/services/employment/rehabilitation-services/vocational-rehabilitation-vr"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Division of Developmental Disabilities",
+        "url": "https://des.az.gov/ddd"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES Division of Developmental Disabilities",
+        "value": "1-844-770-9500"
+      },
+      {
+        "kind": "web",
+        "label": "DDD program page",
+        "value": "https://des.az.gov/ddd"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Long-term services and supports for Arizonans with developmental disabilities and their families.",
+    "eligibility": [
+      "Arizona residents with a developmental disability",
+      "Varies — see program page"
+    ],
+    "id": "az-ddd",
+    "languages": [
+      "English"
+    ],
+    "name": "Division of Developmental Disabilities (DDD)",
+    "prerequisites": [
+      "Apply for DDD eligibility determination"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://des.az.gov/ddd",
+      "https://des.az.gov/node/4100"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Child Care Assistance program page",
+        "url": "https://des.az.gov/services/child-and-family/child-care"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES Child Care Assistance",
+        "value": "1-833-947-6396"
+      },
+      {
+        "kind": "phone",
+        "label": "Child Care Resources and Referral",
+        "value": "1-800-308-9000"
+      },
+      {
+        "kind": "web",
+        "label": "Child Care Assistance program page",
+        "value": "https://des.az.gov/services/child-and-family/child-care"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Help paying for child care for eligible working families in Arizona.",
+    "eligibility": [
+      "Working families with limited income",
+      "Varies — see program page"
+    ],
+    "id": "az-child-care-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Child Care Assistance",
+    "prerequisites": [
+      "None published — apply online, by phone, or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://des.az.gov/services/child-and-family/child-care",
+      "https://des.az.gov/node/4100"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "AZ Job Connection",
+        "url": "https://azjobconnection.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "AZ Job Connection",
+        "value": "602-542-2460"
+      },
+      {
+        "kind": "web",
+        "label": "AZ Job Connection",
+        "value": "https://azjobconnection.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Free statewide job board: search job openings, post a resume, and find training resources.",
+    "eligibility": [
+      "Open to all job seekers"
+    ],
+    "id": "az-job-connection",
+    "languages": [
+      "English"
+    ],
+    "name": "AZ Job Connection",
+    "prerequisites": [
+      "Create a free account to apply for jobs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://azjobconnection.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "A resume helps, but is not required to browse jobs"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Transportation, Motor Vehicle Division",
+    "applyLinks": [
+      {
+        "label": "AZ MVD Now online services",
+        "url": "https://azmvdnow.gov/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "AZ MVD Now",
+        "value": "https://azmvdnow.gov/"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Online driver licenses and IDs, vehicle registration, plates, and title services.",
+    "eligibility": [
+      "Arizona drivers and vehicle owners",
+      "Varies by transaction — see program page"
+    ],
+    "id": "az-mvd-now",
+    "languages": [
+      "English"
+    ],
+    "name": "AZ MVD Now — Driver and Vehicle Services",
+    "prerequisites": [
+      "Create an AZ MVD Now account for online services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://azmvdnow.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by transaction; see program page"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Veterans' Services (ADVS)",
+    "applyLinks": [
+      {
+        "label": "Veteran Benefits Counselors",
+        "url": "https://dvs.az.gov/services/veteran-benefits-counselors-vbcs"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADVS Veteran Benefits Counselors",
+        "value": "602-535-1215"
+      },
+      {
+        "kind": "web",
+        "label": "Veteran Benefits Counselors page",
+        "value": "https://dvs.az.gov/services/veteran-benefits-counselors-vbcs"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Free help from accredited counselors filing VA claims and accessing earned veterans benefits.",
+    "eligibility": [
+      "Veterans, service members, and their families"
+    ],
+    "id": "az-veteran-benefits-counselors",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran Benefits Counselors",
+    "prerequisites": [
+      "None published — contact a counselor to start"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://dvs.az.gov/services/veteran-benefits-counselors-vbcs"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Military service records help; the counselor will advise"
+    ]
+  },
+  {
+    "agency": "Arizona Department of Economic Security (DES)",
+    "applyLinks": [
+      {
+        "label": "Request Assistance (Ombudsman)",
+        "url": "https://des.az.gov/how-do-i/request-assistance-ombudsman"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DES Ombudsman request assistance page",
+        "value": "https://des.az.gov/how-do-i/request-assistance-ombudsman"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Independent help resolving problems with DES programs or services.",
+    "eligibility": [
+      "Anyone with an unresolved DES issue"
+    ],
+    "id": "az-des-ombudsman",
+    "languages": [
+      "English"
+    ],
+    "name": "DES Ombudsman — Request Assistance",
+    "prerequisites": [
+      "Try resolving the issue with the program office first, if possible"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://des.az.gov/how-do-i/request-assistance-ombudsman"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Case or reference numbers, if you have them"
+    ]
+  },
+  {
+    "agency": "Arizona Secretary of State",
+    "applyLinks": [
+      {
+        "label": "Business services",
+        "url": "https://azsos.gov/business"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Arizona Secretary of State Business Services",
+        "value": "602-542-4285"
+      },
+      {
+        "kind": "web",
+        "label": "Business services page",
+        "value": "https://azsos.gov/business"
+      }
+    ],
+    "cost": "Fees apply — vary by filing",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; file any time."
+      }
+    ],
+    "description": "Register a business entity and manage business filings with the state.",
+    "eligibility": [
+      "Anyone registering or maintaining an Arizona business"
+    ],
+    "id": "az-sos-business-filing",
+    "languages": [
+      "English"
+    ],
+    "name": "Business Filing — Arizona Secretary of State",
+    "prerequisites": [
+      "Create an online account to file"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://azsos.gov/business"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Business name and entity details for your filing"
+    ]
+  },
+  {
+    "agency": "City of Phoenix Housing Department",
+    "applyLinks": [
+      {
+        "label": "Phoenix Housing Department",
+        "url": "https://www.phoenix.gov/housing"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Phoenix Housing Department",
+        "value": "602-534-1974"
+      },
+      {
+        "kind": "email",
+        "label": "Phoenix Housing Department",
+        "value": "housing@phoenix.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Phoenix Housing Department",
+        "value": "https://www.phoenix.gov/housing"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; contact the department for current availability."
+      }
+    ],
+    "description": "Affordable housing programs, public housing, and rental assistance for Phoenix residents.",
+    "eligibility": [
+      "Phoenix residents with limited income",
+      "Varies — see program page"
+    ],
+    "id": "phoenix-housing",
+    "languages": [
+      "English"
+    ],
+    "name": "City of Phoenix Housing Department",
+    "prerequisites": [
+      "Contact the department to check program and waitlist status"
+    ],
+    "scope": {
+      "city": "Phoenix",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.phoenix.gov/housing"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ]
+  },
+  {
+    "agency": "Valley Metro",
+    "applyLinks": [
+      {
+        "label": "Reduced Fare Program",
+        "url": "https://www.valleymetro.org/fares/reduced-fare-program"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Reduced Fare Program page",
+        "value": "https://www.valleymetro.org/fares/reduced-fare-program"
+      }
+    ],
+    "cost": "Reduced fares — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Discounted fares on Valley Metro bus and light rail across the Phoenix metro, including Mesa, Chandler, and Scottsdale.",
+    "eligibility": [
+      "Youth",
+      "Seniors 65+",
+      "People with disabilities",
+      "Medicare cardholders"
+    ],
+    "id": "phoenix-valley-metro-reduced-fare",
+    "languages": [
+      "English"
+    ],
+    "name": "Valley Metro Reduced Fare Program",
+    "prerequisites": [
+      "Apply for a reduced fare card"
+    ],
+    "scope": {
+      "city": "Phoenix",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.valleymetro.org/fares/reduced-fare-program"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of eligibility — see program page"
+    ]
+  },
+  {
+    "agency": "City of Phoenix",
+    "applyLinks": [
+      {
+        "label": "Phoenix Public Library",
+        "url": "https://www.phoenixpubliclibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Phoenix Public Library",
+        "value": "https://www.phoenixpubliclibrary.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Books, digital media, and free community programs across Phoenix library locations.",
+    "eligibility": [
+      "Open to all; a library card is needed to borrow materials"
+    ],
+    "id": "phoenix-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Phoenix Public Library",
+    "prerequisites": [
+      "Get a free library card in person or online"
+    ],
+    "scope": {
+      "city": "Phoenix",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.phoenixpubliclibrary.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID to get a library card"
+    ]
+  },
+  {
+    "agency": "City of Phoenix, Office of Public Health",
+    "applyLinks": [
+      {
+        "label": "Office of Public Health",
+        "url": "https://www.phoenix.gov/administration/departments/health.html"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "Phoenix Office of Public Health",
+        "value": "publichealth@phoenix.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Office of Public Health page",
+        "value": "https://www.phoenix.gov/administration/departments/health.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "City public health services and community health information for Phoenix residents.",
+    "eligibility": [
+      "Phoenix residents"
+    ],
+    "id": "phoenix-public-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Phoenix Office of Public Health",
+    "prerequisites": [
+      "None published"
+    ],
+    "scope": {
+      "city": "Phoenix",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.phoenix.gov/administration/departments/health.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "Maricopa County Department of Public Health",
+    "applyLinks": [
+      {
+        "label": "Maricopa County Public Health",
+        "url": "https://www.maricopa.gov/5302/Public-Health"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Maricopa County Public Health",
+        "value": "602-506-3011"
+      },
+      {
+        "kind": "phone",
+        "label": "Maricopa County Public Health (alternate)",
+        "value": "602-506-6767"
+      },
+      {
+        "kind": "web",
+        "label": "Public Health page",
+        "value": "https://www.maricopa.gov/5302/Public-Health"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "County public health services: clinics, immunizations, and community health programs for Maricopa County residents.",
+    "eligibility": [
+      "Maricopa County residents"
+    ],
+    "id": "maricopa-county-public-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Maricopa County Public Health",
+    "prerequisites": [
+      "None published"
+    ],
+    "scope": {
+      "county": "Maricopa",
+      "level": "county",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.maricopa.gov/5302/Public-Health"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "Pima County Health Department",
+    "applyLinks": [
+      {
+        "label": "Pima County Health Department",
+        "url": "https://www.pima.gov/2031/Health"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pima County Health Department",
+        "value": "520-724-7770"
+      },
+      {
+        "kind": "web",
+        "label": "Health Department page",
+        "value": "https://www.pima.gov/2031/Health"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Disease surveillance, clinical services, and public health programs for Pima County residents.",
+    "eligibility": [
+      "Pima County residents"
+    ],
+    "id": "pima-county-health-department",
+    "languages": [
+      "English"
+    ],
+    "name": "Pima County Health Department",
+    "prerequisites": [
+      "None published"
+    ],
+    "scope": {
+      "county": "Pima",
+      "level": "county",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.pima.gov/2031/Health"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "Pima County",
+    "applyLinks": [
+      {
+        "label": "Pima County Public Library",
+        "url": "https://www.library.pima.gov/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Pima County Public Library",
+        "value": "https://www.library.pima.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Books, digital media, and free programs at libraries across Pima County.",
+    "eligibility": [
+      "Open to all; a library card is needed to borrow materials"
+    ],
+    "id": "pima-county-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Pima County Public Library",
+    "prerequisites": [
+      "Get a free library card in person or online"
+    ],
+    "scope": {
+      "county": "Pima",
+      "level": "county",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.library.pima.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID to get a library card"
+    ]
+  },
+  {
+    "agency": "City of Chandler",
+    "applyLinks": [
+      {
+        "label": "Library card sign-up information",
+        "url": "https://www.chandleraz.gov/blog/september-library-card-sign-month"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Chandler Public Library",
+        "value": "480-782-2800"
+      },
+      {
+        "kind": "web",
+        "label": "Library card sign-up information",
+        "value": "https://www.chandleraz.gov/blog/september-library-card-sign-month"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Books, eBooks, streaming media, and programs at four Chandler Public Library locations.",
+    "eligibility": [
+      "Free for Maricopa County residents",
+      "Photo ID required for a card"
+    ],
+    "id": "chandler-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Chandler Public Library",
+    "prerequisites": [
+      "Bring photo ID to any Chandler library location"
+    ],
+    "scope": {
+      "city": "Chandler",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.chandleraz.gov/blog/september-library-card-sign-month"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID"
+    ]
+  },
+  {
+    "agency": "Mesa Public Schools",
+    "applyLinks": [
+      {
+        "label": "Enroll in Mesa Public Schools",
+        "url": "https://www.mpsaz.org/o/mpsaz/page/enroll"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Mesa Public Schools enrollment page",
+        "value": "https://www.mpsaz.org/o/mpsaz/page/enroll"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published enrollment deadline found; enroll any time."
+      }
+    ],
+    "description": "Enroll a student in Mesa Public Schools online.",
+    "eligibility": [
+      "Students living in the Mesa Public Schools district boundaries",
+      "Open enrollment options may apply — see program page"
+    ],
+    "id": "mesa-public-schools-enrollment",
+    "languages": [
+      "English"
+    ],
+    "name": "Mesa Public Schools Enrollment",
+    "prerequisites": [
+      "Create a parent portal account during the enrollment process"
+    ],
+    "scope": {
+      "city": "Mesa",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.mpsaz.org/o/mpsaz/page/enroll"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by school; call ahead"
+    ]
+  },
+  {
+    "agency": "Sun Tran (City of Tucson transit system)",
+    "applyLinks": [
+      {
+        "label": "Sun Tran",
+        "url": "https://www.suntran.com/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sun Tran",
+        "value": "https://www.suntran.com/"
+      }
+    ],
+    "cost": "Fares apply — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Public bus, streetcar (Sun Link), paratransit (Sun Van), and on-demand service across Tucson.",
+    "eligibility": [
+      "Open to all riders"
+    ],
+    "id": "tucson-sun-tran",
+    "languages": [
+      "English"
+    ],
+    "name": "Sun Tran Public Transit",
+    "prerequisites": [
+      "None published — plan your trip on the Sun Tran site"
+    ],
+    "scope": {
+      "city": "Tucson",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.suntran.com/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Fare payment — see program page"
+    ]
+  },
+  {
+    "agency": "City of Scottsdale, Housing and Community Assistance Office",
+    "applyLinks": [
+      {
+        "label": "Scottsdale Housing programs",
+        "url": "https://scottsdaleaz.gov/housing"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Scottsdale Community Assistance Office",
+        "value": "480-312-7717"
+      },
+      {
+        "kind": "web",
+        "label": "Scottsdale Housing programs",
+        "value": "https://scottsdaleaz.gov/housing"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; contact the office for current availability."
+      }
+    ],
+    "description": "Affordable housing programs including the Housing Choice Voucher Program and housing rehabilitation assistance.",
+    "eligibility": [
+      "Scottsdale residents with limited income",
+      "Varies — see program page"
+    ],
+    "id": "scottsdale-housing",
+    "languages": [
+      "English"
+    ],
+    "name": "Scottsdale Housing and Community Assistance",
+    "prerequisites": [
+      "Contact the office to check program and waitlist status"
+    ],
+    "scope": {
+      "city": "Scottsdale",
+      "level": "city",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://scottsdaleaz.gov/housing"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Phoenix VA Health Care System",
+        "url": "https://www.va.gov/phoenix-health-care/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Phoenix VA Health Care",
+        "value": "602-277-5551"
+      },
+      {
+        "kind": "phone",
+        "label": "Phoenix VA (alternate)",
+        "value": "602-222-2752"
+      },
+      {
+        "kind": "phone",
+        "label": "VA national line",
+        "value": "800-698-2411"
+      },
+      {
+        "kind": "web",
+        "label": "Phoenix VA Health Care System",
+        "value": "https://www.va.gov/phoenix-health-care/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "VA hospital and clinics serving veterans in the Phoenix area.",
+    "eligibility": [
+      "Eligible veterans"
+    ],
+    "id": "fed-va-phoenix-health-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Phoenix VA Health Care System",
+    "prerequisites": [
+      "Enroll in VA health care"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.va.gov/phoenix-health-care/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Southern Arizona VA Health Care System",
+        "url": "https://www.va.gov/southern-arizona-health-care/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Southern Arizona VA Health Care",
+        "value": "520-792-1450"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern Arizona VA (alternate)",
+        "value": "520-629-4884"
+      },
+      {
+        "kind": "phone",
+        "label": "VA national line",
+        "value": "800-698-2411"
+      },
+      {
+        "kind": "web",
+        "label": "Southern Arizona VA Health Care System",
+        "value": "https://www.va.gov/southern-arizona-health-care/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "VA hospital and clinics serving veterans in southern Arizona, based in Tucson.",
+    "eligibility": [
+      "Eligible veterans"
+    ],
+    "id": "fed-va-tucson-health-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Southern Arizona VA Health Care System",
+    "prerequisites": [
+      "Enroll in VA health care"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://www.va.gov/southern-arizona-health-care/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Standard documents — varies; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration",
+    "applyLinks": [
+      {
+        "label": "SBA Arizona District Office",
+        "url": "https://legacy.sba.gov/district/arizona?page=0%2C1"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Arizona District Office",
+        "value": "602-745-7200"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Arizona District Office",
+        "value": "https://legacy.sba.gov/district/arizona?page=0%2C1"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; use any time."
+      }
+    ],
+    "description": "Small business counseling, SBA loan guidance, and contracting help statewide, with offices in Phoenix and Tucson.",
+    "eligibility": [
+      "Arizona small business owners and entrepreneurs"
+    ],
+    "id": "fed-sba-arizona",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA Arizona District Office",
+    "prerequisites": [
+      "None published — contact the office or a resource partner"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AZ"
+    },
+    "sources": [
+      "https://legacy.sba.gov/district/arizona?page=0%2C1"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Business information related to your question, if any"
+    ]
   }
 ]
