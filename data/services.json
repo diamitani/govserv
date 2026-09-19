@@ -69512,5 +69512,2219 @@
       "https://www.sba.gov/district/west-virginia/doing-business-west-virginia-district",
       "http://sba.gov/sites/default/files/staff-directories/west-virginia-district-office-directory-0207.pdf"
     ]
+  },
+  {
+    "agency": "City & County of Honolulu",
+    "applyLinks": [
+      {
+        "label": "HNL 311 app and web reporting — how to use",
+        "url": "https://www.honolulu.gov/mayor/heres-how-to-download-the-new-hnl311-app/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HNL 311",
+        "value": "https://www.honolulu.gov/mayor/heres-how-to-download-the-new-hnl311-app/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report non-emergency issues any time."
+      }
+    ],
+    "description": "The City and County of Honolulu's official non-emergency reporting system for potholes, faded signs, cracked sidewalks, broken streetlights, and other city maintenance issues, through the HNL 311 mobile app or the web portal.",
+    "eligibility": [
+      "Issues located on Oahu within City and County of Honolulu jurisdiction"
+    ],
+    "id": "honolulu-311",
+    "languages": [
+      "English"
+    ],
+    "name": "HNL 311 — City Service Requests",
+    "prerequisites": [
+      "None — reports can be filed through the app or web portal"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.honolulu.gov/mayor/heres-how-to-download-the-new-hnl311-app/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Location and description of the issue"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Transportation Services (DTS)",
+    "applyLinks": [
+      {
+        "label": "DTS transit fares and reduced-fare applications",
+        "url": "https://www.honolulu.gov/dts/skyline/transit-fares/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HOLO card / transit pass office",
+        "value": "808-768-4656"
+      },
+      {
+        "kind": "web",
+        "label": "DTS transit fares",
+        "value": "https://www.honolulu.gov/dts/skyline/transit-fares/"
+      }
+    ],
+    "cost": "Reduced fares with qualifying HOLO card",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; monthly and annual passes bought after the 20th activate on the 1st of the next month."
+      }
+    ],
+    "description": "Reduced-fare HOLO cards for qualifying riders on TheBus and Skyline. Seniors 65+ and people with disabilities: 2-hour pass $1.25, 24-hour pass $3.00, monthly cap $20.00 (kamaaina only). Youth 6-17: 2-hour pass $1.50, monthly cap $45.00. Monthly and annual passes require proof of Hawaii residency; passes bought after the 20th activate on the 1st of the next month.",
+    "eligibility": [
+      "Senior HOLO card: age 65 or older",
+      "Disability HOLO card: qualifying disability documentation",
+      "Medicare HOLO card: under 65 with a valid U.S. Medicare card",
+      "Monthly and annual passes: Hawaii residency proof (kamaaina)"
+    ],
+    "id": "honolulu-bus-fares",
+    "languages": [
+      "English"
+    ],
+    "name": "TheBus / Skyline Reduced Fares (Senior, Disability, Medicare)",
+    "prerequisites": [
+      "Complete the reduced-fare application form",
+      "Provide a valid government-issued photo ID and proof of age or eligibility"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.honolulu.gov/dts/skyline/transit-fares/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed application form",
+      "Valid government-issued photo ID",
+      "Proof of Hawaii residency (for monthly/annual passes)"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Real Property Assessment Division",
+    "applyLinks": [
+      {
+        "label": "Home exemption FAQ and claim form",
+        "url": "https://realproperty.honolulu.gov/tax-relief-and-forms/exemptions/exemption-faq/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Real Property Assessment Division",
+        "value": "808-768-3799"
+      },
+      {
+        "kind": "web",
+        "label": "Home exemption FAQ",
+        "value": "https://realproperty.honolulu.gov/tax-relief-and-forms/exemptions/exemption-faq/"
+      }
+    ],
+    "cost": "Free to claim",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Annual filing deadline",
+        "note": "File by September 30 each year to claim the exemption for the next tax year."
+      }
+    ],
+    "description": "Property-tax exemption for owner-occupied principal homes on Oahu. Claims can be filed online, by mail, or in person with the Real Property Assessment Division.",
+    "eligibility": [
+      "Own and occupy the property as your principal home on Oahu",
+      "Ownership recorded at the Bureau of Conveyances by the published deadline"
+    ],
+    "id": "honolulu-home-exemption",
+    "languages": [
+      "English"
+    ],
+    "name": "Honolulu Home Exemption (Real Property Tax)",
+    "prerequisites": [
+      "None — file the claim form by the deadline"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://realproperty.honolulu.gov/tax-relief-and-forms/exemptions/exemption-faq/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed home exemption claim form",
+      "Proof of ownership and occupancy — see FAQ"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Community Services",
+    "applyLinks": [
+      {
+        "label": "Honolulu Housing Choice Voucher program page",
+        "url": "https://www.honolulu.gov/dcs/dcs-cad-section-8-housing-choice-voucher/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Housing Choice Voucher program page",
+        "value": "https://www.honolulu.gov/dcs/dcs-cad-section-8-housing-choice-voucher/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist status",
+        "note": "Waiting list is CLOSED; 3,000 applicants were placed on the list from the July 14-18, 2025 pre-application period and it is not expected to reopen for approximately three years. Applications are online-only when the list reopens."
+      }
+    ],
+    "description": "Federally funded rental assistance helping low-income households on Oahu afford housing in the private market. The waiting list is currently closed following the July 2025 pre-application period (3,000 applicants placed); no application fee is ever charged.",
+    "eligibility": [
+      "Low-income household on Oahu",
+      "Varies — see program page when the waitlist reopens"
+    ],
+    "id": "honolulu-section8",
+    "languages": [
+      "English"
+    ],
+    "name": "Honolulu Housing Choice Voucher Program (Section 8)",
+    "prerequisites": [
+      "Wait for the waiting list to reopen — monitor the program page"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.honolulu.gov/dcs/dcs-cad-section-8-housing-choice-voucher/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; check the program page when the list reopens"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Transportation Services (DTS)",
+    "applyLinks": [
+      {
+        "label": "TheHandi-Van eligibility requirements",
+        "url": "https://www4.honolulu.gov/docushare/dsweb/Get/r_Document-342657/unknown"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TheHandi-Van Eligibility Center",
+        "value": "808-538-0033"
+      },
+      {
+        "kind": "in-person",
+        "label": "TheHandi-Van Eligibility Center",
+        "value": "1100 Ward Ave, Suite 835, Honolulu, HI 96814"
+      },
+      {
+        "kind": "web",
+        "label": "TheHandi-Van eligibility information",
+        "value": "https://www4.honolulu.gov/docushare/dsweb/Get/r_Document-342657/unknown"
+      }
+    ],
+    "cost": "Single fare $2.50 ($2.00 low-income fare)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for ADA eligibility any time; an in-person assessment is required."
+      }
+    ],
+    "description": "Curb-to-curb shared-ride paratransit for Oahu residents who are unable to independently use TheBus because of a disability. ADA eligibility is determined through an in-person assessment at the Handi-Van Eligibility Center.",
+    "eligibility": [
+      "Oahu resident",
+      "Unable to independently use TheBus due to a disability",
+      "Found eligible under the Americans with Disabilities Act (ADA) through an in-person assessment"
+    ],
+    "id": "honolulu-handivan",
+    "languages": [
+      "English"
+    ],
+    "name": "TheHandi-Van — ADA Paratransit",
+    "prerequisites": [
+      "Complete the ADA eligibility application",
+      "Attend an in-person assessment at the eligibility center"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www4.honolulu.gov/docushare/dsweb/Get/r_Document-342657/unknown"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed eligibility application",
+      "Documentation of the disability — see program instructions"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Community Services / DLIR Workforce Development Division",
+    "applyLinks": [
+      {
+        "label": "Find an American Job Center (CareerOneStop)",
+        "url": "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Oahu American Job Center",
+        "value": "808-768-5701"
+      },
+      {
+        "kind": "in-person",
+        "label": "Oahu American Job Center",
+        "value": "680 Iwilei Road, Suite 700, Dole Cannery Office Building, Honolulu, HI 96817"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open weekdays 7:45 a.m.–4:30 p.m.; appointments recommended."
+      }
+    ],
+    "description": "Comprehensive one-stop career center in Honolulu offering employment representatives, free internet and resume-writer computers, job training services, unemployment-benefit information, and links to related social services. Serves job seekers and employers, including veterans.",
+    "eligibility": [
+      "Open to job seekers and employers — no eligibility screen for core services"
+    ],
+    "id": "honolulu-ajc",
+    "languages": [
+      "English"
+    ],
+    "name": "American Job Center — Oahu (Honolulu)",
+    "prerequisites": [
+      "Call ahead for an appointment"
+    ],
+    "scope": {
+      "city": "Honolulu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Resume and work history",
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "Hawaii State Public Library System",
+    "applyLinks": [
+      {
+        "label": "Kailua Public Library branch page",
+        "url": "https://www.librarieshawaii.org/branch/kailua-public-library/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kailua Public Library",
+        "value": "808-266-9911"
+      },
+      {
+        "kind": "in-person",
+        "label": "Kailua Public Library",
+        "value": "239 Kuulei Rd, Kailua, HI 96734"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a library card any time during branch hours."
+      }
+    ],
+    "description": "Free public library branch in Kailua: books and media borrowing, public computers and internet, and community programs. A free library card (proof of ID and current address required) unlocks borrowing and digital services across the statewide system.",
+    "eligibility": [
+      "Open to the public",
+      "Library card requires proof of identity and current address"
+    ],
+    "id": "kailua-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Kailua Public Library — Branch Services",
+    "prerequisites": [
+      "Bring proof of ID and current address to get a library card"
+    ],
+    "scope": {
+      "city": "Kailua",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.librarieshawaii.org/branch/kailua-public-library/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of current address"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Community Services — WorkHawaii Division",
+    "applyLinks": [
+      {
+        "label": "WorkHawaiʻi Division — employment services",
+        "url": "https://www.honolulu.gov/dcs/workhawaii/?pno=3"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WorkHawaiʻi Division",
+        "value": "808-768-5701"
+      },
+      {
+        "kind": "web",
+        "label": "WorkHawaiʻi Division",
+        "value": "https://www.honolulu.gov/dcs/workhawaii/?pno=3"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Monthly",
+        "note": "Second Wednesday of each month, 1–4 p.m., at the Pearl City Public Library."
+      }
+    ],
+    "description": "Free satellite employment services from the City's WorkHawaiʻi Division at the Pearl City Public Library, 1 p.m.-4 p.m. on the second Wednesday of each month. Services include computer access for job search, résumé writing assistance, HireNetHawaii.com help, and WorkHawaiʻi program enrollment services by appointment. Call (808) 768-5701 for the current schedule.",
+    "eligibility": [
+      "Open to job seekers — no eligibility screen for core services"
+    ],
+    "id": "pearlcity-workhawaii",
+    "languages": [
+      "English"
+    ],
+    "name": "WorkHawaii Satellite Employment Services — Pearl City",
+    "prerequisites": [
+      "None — walk in during the monthly satellite hours"
+    ],
+    "scope": {
+      "city": "Pearl City",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.honolulu.gov/dcs/workhawaii/?pno=3",
+      "https://www.librarieshawaii.org/event/workhawaii-satellite-services-2025-10-ows/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None — call (808) 768-5701 for details and scheduling"
+    ]
+  },
+  {
+    "agency": "City & County of Honolulu, Department of Community Services — WorkHawaii Division",
+    "applyLinks": [
+      {
+        "label": "WorkHawaiʻi Division — employment services",
+        "url": "https://www.honolulu.gov/dcs/workhawaii/?pno=3"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WorkHawaiʻi Division",
+        "value": "808-768-5701"
+      },
+      {
+        "kind": "web",
+        "label": "WorkHawaiʻi Division",
+        "value": "https://www.honolulu.gov/dcs/workhawaii/?pno=3"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Monthly",
+        "note": "First Wednesday of each month, 1–4 p.m., at the Waipahu Public Library."
+      }
+    ],
+    "description": "Free satellite employment services from the City's WorkHawaiʻi Division at the Waipahu Public Library. Services include computer access for job search, résumé writing assistance, HireNetHawaii.com help, and WorkHawaiʻi program enrollment services by appointment. Call (808) 768-5701 for the current satellite schedule.",
+    "eligibility": [
+      "Open to job seekers — no eligibility screen for core services"
+    ],
+    "id": "waipahu-workhawaii",
+    "languages": [
+      "English"
+    ],
+    "name": "WorkHawaii Satellite Employment Services — Waipahu",
+    "prerequisites": [
+      "None — walk in during the monthly satellite hours"
+    ],
+    "scope": {
+      "city": "Waipahu",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.honolulu.gov/dcs/workhawaii/?pno=3",
+      "https://www.librarieshawaii.org/event/workhawaii-satellite-services-2025-10-ows/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None — call (808) 768-5701 for details and scheduling"
+    ]
+  },
+  {
+    "agency": "DLIR Workforce Development Division",
+    "applyLinks": [
+      {
+        "label": "Workforce Development Division — offices and services",
+        "url": "https://labor.hawaii.gov/wdd"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hilo Workforce Development Division (unverified)",
+        "value": "808-981-2860"
+      },
+      {
+        "kind": "in-person",
+        "label": "Hilo American Job Center",
+        "value": "1990 Kinoole Street, Suite 102, Hilo, HI 96720"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the office directly for current business hours."
+      }
+    ],
+    "description": "One-stop career services for East Hawaii: job-search assistance, training referrals, and HireNet Hawaii support at the Hilo American Job Center, co-located with other state workforce programs.",
+    "eligibility": [
+      "Open to job seekers — no eligibility screen for core services"
+    ],
+    "id": "hilo-ajc",
+    "languages": [
+      "English"
+    ],
+    "name": "American Job Center — Hilo",
+    "prerequisites": [
+      "Call ahead to confirm hours and whether an appointment is needed"
+    ],
+    "scope": {
+      "city": "Hilo",
+      "level": "city",
+      "state": "HI"
+    },
+    "sources": [
+      "https://labor.hawaii.gov/wdd/files/2013/01/ETF-Contact-Information.pdf",
+      "https://labor.hawaii.gov/wdd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Resume and work history",
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "County of Hawaii, Mass Transit Agency (Hele-On)",
+    "applyLinks": [
+      {
+        "label": "Hele-On fares page",
+        "url": "https://www.heleonbus.hawaiicounty.gov/fares"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hele-On fares",
+        "value": "https://www.heleonbus.hawaiicounty.gov/fares"
+      },
+      {
+        "kind": "in-person",
+        "label": "Hilo information center",
+        "value": "329 Kamehameha Ave, Hilo, HI"
+      }
+    ],
+    "cost": "Free (fare-free through 2028-12-31)",
+    "deadlines": [
+      {
+        "date": "2028-12-31",
+        "label": "Fare-free period ends",
+        "note": "Hele-On fixed-route fares are waived through this date per the County."
+      }
+    ],
+    "description": "Islandwide fixed-route bus service on Hawaii Island, currently fare-free through December 31, 2028. Operated by the County of Hawaii Mass Transit Agency; the Hilo information center is at 329 Kamehameha Ave.",
+    "eligibility": [
+      "Open to all riders on Hawaii Island"
+    ],
+    "id": "hilo-heleon-fixed-route",
+    "languages": [
+      "English"
+    ],
+    "name": "Hele-On — Fixed-Route Bus (Fare-Free)",
+    "prerequisites": [
+      "None — board and ride"
+    ],
+    "scope": {
+      "county": "Hawaii",
+      "level": "county",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.heleonbus.hawaiicounty.gov/fares"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "County of Hawaii, Mass Transit Agency (Hele-On)",
+    "applyLinks": [
+      {
+        "label": "Hele-On Ka Hookele rural door-to-door service",
+        "url": "https://www.heleonbus.hawaiicounty.gov/programs/hele-on-ka-ho-okele-rural-door-to-door-service"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ka Hookele reservations (HCEOC)",
+        "value": "808-731-7009"
+      },
+      {
+        "kind": "web",
+        "label": "Ka Hookele program page",
+        "value": "https://www.heleonbus.hawaiicounty.gov/programs/hele-on-ka-ho-okele-rural-door-to-door-service"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Free service; reserve at least one day in advance, up to 14 days ahead."
+      }
+    ],
+    "description": "Free shared-ride rural transit for the general public in areas outside Hele-On's fixed routes, including the Hilo district. Operated by the Hawaii County Economic Opportunity Council, Monday-Friday 7:30 a.m.-4:30 p.m. Reserve at least one day in advance by calling (808) 731-7009, option 3.",
+    "eligibility": [
+      "Seniors and people with disabilities in served rural districts, including Hilo",
+      "Varies — see program page"
+    ],
+    "id": "hilo-heleon-ka-hookele",
+    "languages": [
+      "English"
+    ],
+    "name": "Hele-On Ka Hookele — Rural Door-to-Door Transit",
+    "prerequisites": [
+      "Confirm eligibility and schedule rides in advance"
+    ],
+    "scope": {
+      "county": "Hawaii",
+      "level": "county",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.heleonbus.hawaiicounty.gov/programs/hele-on-ka-ho-okele-rural-door-to-door-service"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Eligibility documentation — see program page"
+    ]
+  },
+  {
+    "agency": "County of Hawaii, Mass Transit Agency (Hele-On)",
+    "applyLinks": [
+      {
+        "label": "Hele-On Route 403 schedule and flex-service details",
+        "url": "https://www.heleonbus.hawaiicounty.gov/getting-around/bus-schedules-and-maps/east-hawai-i/route-403-fern-acres-fern-forest-eden-roc"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Route 403 flex reservations",
+        "value": "808-961-8744"
+      },
+      {
+        "kind": "web",
+        "label": "Route 403 schedule page",
+        "value": "https://www.heleonbus.hawaiicounty.gov/getting-around/bus-schedules-and-maps/east-hawai-i/route-403-fern-acres-fern-forest-eden-roc"
+      }
+    ],
+    "cost": "Free (fare-free through 2028-12-31)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reserve flex deviations at least one hour ahead; no service Sundays or holidays."
+      }
+    ],
+    "description": "Flex-route bus serving Fern Acres, Fern Forest, and Eden Roc in the South Hilo/Puna area. The bus can deviate up to one mile off its route with at least one hour of advance reservation.",
+    "eligibility": [
+      "Open to all riders in the Route 403 service area"
+    ],
+    "id": "hilo-heleon-route-403",
+    "languages": [
+      "English"
+    ],
+    "name": "Hele-On Route 403 — Fern Acres Flex Service",
+    "prerequisites": [
+      "Call at least one hour ahead to request an off-route deviation"
+    ],
+    "scope": {
+      "county": "Hawaii",
+      "level": "county",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.heleonbus.hawaiicounty.gov/getting-around/bus-schedules-and-maps/east-hawai-i/route-403-fern-acres-fern-forest-eden-roc"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "County of Hawaii, Office of Housing and Community Development",
+    "applyLinks": [
+      {
+        "label": "Hawaii County housing assistance programs",
+        "url": "https://www.housing.hawaiicounty.gov/housing-assistance"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hawaii County Section 8 office (Hilo)",
+        "value": "808-959-4642"
+      },
+      {
+        "kind": "email",
+        "label": "Section 8 office email",
+        "value": "sec8info@hawaiicounty.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Hilo Section 8 office",
+        "value": "1990 Kinoole St., Suite 102, Hilo, HI"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist status",
+        "note": "Confirm current waitlist status with the Section 8 office — assistance levels depend on federal funding."
+      }
+    ],
+    "description": "County-administered HUD rental assistance helping low-income households on Hawaii Island afford rent in the private market. Funding-dependent — contact the Hilo Section 8 office for current waitlist status before applying.",
+    "eligibility": [
+      "Low-income household on Hawaii Island",
+      "Varies — see program page"
+    ],
+    "id": "hilo-section8",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawaii County Housing Choice Voucher Program",
+    "prerequisites": [
+      "Confirm the waitlist is open with the Section 8 office"
+    ],
+    "scope": {
+      "county": "Hawaii",
+      "level": "county",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.housing.hawaiicounty.gov/housing-assistance",
+      "https://www.housing.hawaiicounty.gov/housing-assistance/contact-section-8"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; call the Section 8 office ahead"
+    ]
+  },
+  {
+    "agency": "County of Hawaii, Real Property Tax Division",
+    "applyLinks": [
+      {
+        "label": "County of Hawaii real property tax website",
+        "url": "https://hawaiipropertytax.com"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Real Property Tax Division — Hilo (unverified)",
+        "value": "808-961-8201"
+      },
+      {
+        "kind": "phone",
+        "label": "Real Property Tax Division — Kona (unverified)",
+        "value": "808-323-4880"
+      },
+      {
+        "kind": "web",
+        "label": "County real property tax website",
+        "value": "https://hawaiipropertytax.com"
+      }
+    ],
+    "cost": "Free to claim",
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "label": "Homeowner exemption — year-end filing",
+        "note": "Applications received by December 31, 2026 begin benefits July 1, 2027; applications received by June 30 began benefits January 1, 2027. The filing calendar recurs each year."
+      }
+    ],
+    "description": "Reduced property taxes for Hawaii Island homeowners who occupy their home as a principal residence, including the homeowner tax class with a 3% annual growth cap. An application is required; commercial or short-term rental activity on the property disqualifies it from the homeowner class.",
+    "eligibility": [
+      "Own and occupy the property as your principal residence in Hawaii County",
+      "No commercial or short-term rental activity on the property"
+    ],
+    "id": "hilo-rpt-exemption",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawaii County Real Property Tax — Homeowner Exemption & Tax Class",
+    "prerequisites": [
+      "Submit the homeowner application with any required supporting documents"
+    ],
+    "scope": {
+      "county": "Hawaii",
+      "level": "county",
+      "state": "HI"
+    },
+    "sources": [
+      "https://hawaiipropertytax.com/wp-content/uploads/sites/114/2026/03/COH-Insert-2026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed homeowner application",
+      "Supporting documentation — see application instructions"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division (BESSD)",
+    "applyLinks": [
+      {
+        "label": "PAIS online application",
+        "url": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Toll Free Information Line",
+        "value": "1-855-643-1643"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP program page",
+        "value": "https://humanservices.hawaii.gov/bessd/snap/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; DHS warns of processing delays, so apply as early as possible."
+      }
+    ],
+    "description": "Monthly food assistance for eligible low-income households in Hawaii, issued on an EBT card usable at authorized retailers. Apply online through PAIS, by paper application, or by drop-off.",
+    "eligibility": [
+      "Hawaii resident",
+      "Household income within program limits — see program page"
+    ],
+    "id": "hi-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "SNAP — Food Benefits",
+    "prerequisites": [
+      "Meet income and household rules — see program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/bessd/snap/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Hawaii residence",
+      "Standard documents — varies; check the program page"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Med-QUEST Division",
+    "applyLinks": [
+      {
+        "label": "Med-QUEST online application (MyBenefits portal)",
+        "url": "https://medical.mybenefits.hawaii.gov"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Med-QUEST enrollment",
+        "value": "1-800-316-8005"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-855-889-4325"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for Med-QUEST",
+        "value": "https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; language assistance is available."
+      }
+    ],
+    "description": "Hawaii's Medicaid program providing health coverage — including medical and mental health services through managed-care health plans — to eligible residents. Apply online, by phone, by mail, or by fax.",
+    "eligibility": [
+      "Hawaii resident",
+      "Income and household criteria — see program page"
+    ],
+    "id": "hi-medquest",
+    "languages": [
+      "English"
+    ],
+    "name": "Med-QUEST — Medicaid Health Coverage",
+    "prerequisites": [
+      "Meet income and residency rules — see program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply.html",
+      "https://medquest.hawaii.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Hawaii residence",
+      "Standard documents — varies; check the program page"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division (BESSD)",
+    "applyLinks": [
+      {
+        "label": "H-HEAP program page — apply through your island Community Action Agency",
+        "url": "https://humanservices.hawaii.gov/bessd/liheap/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "H-HEAP program page",
+        "value": "https://humanservices.hawaii.gov/bessd/liheap/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Energy Credit window",
+        "note": "June 1–30 each year; crisis intervention for utility emergencies is year-round but funding-limited."
+      }
+    ],
+    "description": "One-time assistance toward electric or gas bills for eligible low-income households. The Energy Credit enrollment window runs June 1–30 each year; crisis intervention for utility emergencies is available year-round but is funding-limited. Applications are processed through the Community Action Agency serving your island.",
+    "eligibility": [
+      "Hawaii household",
+      "Income guidelines apply — see program page"
+    ],
+    "id": "hi-hheap",
+    "languages": [
+      "English"
+    ],
+    "name": "H-HEAP — Home Energy Assistance",
+    "prerequisites": [
+      "Apply through the Community Action Agency serving your island"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/bessd/liheap/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Current utility bill",
+      "Proof of income",
+      "Standard documents — varies by agency; call ahead"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Health, WIC Services Branch",
+    "applyLinks": [
+      {
+        "label": "WIC program details — clinic enrollment and pre-application",
+        "url": "https://health.hawaii.gov/wic/program_details/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC Services Branch",
+        "value": "808-586-8175"
+      },
+      {
+        "kind": "web",
+        "label": "WIC program details",
+        "value": "https://health.hawaii.gov/wic/program_details/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "WIC clinics statewide remain open for enrollment."
+      }
+    ],
+    "description": "Nutrition support — healthy foods, breastfeeding support, nutrition education, and health-care referrals — for pregnant and postpartum women, infants, and young children. Apply at a local WIC clinic or start with the online pre-application.",
+    "eligibility": [
+      "Pregnant or postpartum woman, infant, or child under 5",
+      "Hawaii resident",
+      "Income guidelines apply — see program page"
+    ],
+    "id": "hi-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC — Women, Infants, and Children",
+    "prerequisites": [
+      "Apply at a local WIC clinic or complete the online pre-application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://health.hawaii.gov/wic/program_details/",
+      "https://health.hawaii.gov/news/newsroom/hawai%ca%bbi-wic-clinics-and-enrollment-remain-open/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Hawaii residence"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Labor and Industrial Relations (DLIR)",
+    "applyLinks": [
+      {
+        "label": "HUI online claims portal — file an unemployment claim",
+        "url": "https://huiclaims.hawaii.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI — Honolulu Claims Office",
+        "value": "808-586-8970"
+      },
+      {
+        "kind": "phone",
+        "label": "UI — Hilo Claims Office",
+        "value": "808-974-4086"
+      },
+      {
+        "kind": "web",
+        "label": "UI FAQ",
+        "value": "https://labor.hawaii.gov/ui/faq/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss — a claim begins the Sunday of the week you file."
+      }
+    ],
+    "description": "Temporary wage replacement for workers who lost jobs through no fault of their own. File initial claims through the HUI online claims portal.",
+    "eligibility": [
+      "Hawaii worker who lost a job through no fault of their own",
+      "Meet earnings and work-history requirements — see DLIR page"
+    ],
+    "id": "hi-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (UI)",
+    "prerequisites": [
+      "Gather employment history and earnings information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://labor.hawaii.gov/ui/faq/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Employment history and earnings information"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division (BESSD)",
+    "applyLinks": [
+      {
+        "label": "PAIS online application",
+        "url": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TANF program page",
+        "value": "https://humanservices.hawaii.gov/bessd/tanf/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Temporary monthly cash assistance for low-income families with dependent children — federally funded TANF and state-funded TAONF — paired with the First-To-Work employment program.",
+    "eligibility": [
+      "Low-income family with dependent children",
+      "Hawaii resident",
+      "Varies — see program page"
+    ],
+    "id": "hi-tanf-taonf",
+    "languages": [
+      "English"
+    ],
+    "name": "TANF / TAONF — Cash Assistance for Families",
+    "prerequisites": [
+      "Apply online through PAIS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/bessd/tanf/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Hawaii residence",
+      "Standard documents — varies; check the program page"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division (BESSD)",
+    "applyLinks": [
+      {
+        "label": "PAIS online application",
+        "url": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "General Assistance program page",
+        "value": "https://humanservices.hawaii.gov/bessd/ga/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; the monthly benefit is set by annual legislative appropriation and may be adjusted during the year."
+      }
+    ],
+    "description": "Monthly cash assistance for food, clothing, shelter, and other essentials for adults ages 18-64 with no minor dependents who are temporarily disabled and do not qualify for Social Security. Applicants must be certified by a DHS medical board as unable to engage in 30 or more hours per week of substantial employment for at least 60 days, and assets may not exceed $2,000 for a single person or $3,000 for a couple. The monthly benefit is set by annual legislative appropriation and may be adjusted during the year.",
+    "eligibility": [
+      "Adult ages 18–64 with no minor dependents",
+      "Temporarily disabled; certified by a DHS medical board as unable to engage in 30+ hours/week of substantial employment for at least 60 days",
+      "Little or no income; does not qualify for a federal category of assistance",
+      "Assets at or below $2,000 (single) / $3,000 (couple)"
+    ],
+    "id": "hi-general-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "General Assistance (GA) — Cash Aid",
+    "prerequisites": [
+      "Medical board certification of temporary disability"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/bessd/ga/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Medical documentation for the DHS medical board review",
+      "Proof of income and assets"
+    ]
+  },
+  {
+    "agency": "Hawaii Public Housing Authority (HPHA)",
+    "applyLinks": [
+      {
+        "label": "HPHA — how to apply",
+        "url": "https://hpha.hawaii.gov/how-to-apply"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HPHA (unverified)",
+        "value": "808-832-5961"
+      },
+      {
+        "kind": "email",
+        "label": "HPHA email",
+        "value": "hpha@hawaii.gov"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply",
+        "value": "https://hpha.hawaii.gov/how-to-apply"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Program-dependent",
+        "note": "Applications are accepted only when a program is open and accepting; waitlist placement is program-dependent."
+      }
+    ],
+    "description": "State-administered public housing and rental-assistance programs for low-income households statewide. Applications are accepted only for programs currently open and accepting; check the HPHA application page for which programs are open.",
+    "eligibility": [
+      "Low-income household in Hawaii",
+      "Varies by program — see the HPHA application page"
+    ],
+    "id": "hi-public-housing",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawaii Public Housing Authority — Public Housing & Rental Assistance",
+    "prerequisites": [
+      "Check the HPHA application page to confirm a program is open and accepting applications"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://hpha.hawaii.gov/how-to-apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by program; see the application page"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Transportation (HDOT) / county DMVs",
+    "applyLinks": [
+      {
+        "label": "HDOT driver licensing page — links to each county DMV",
+        "url": "https://hidot.hawaii.gov/driverslicense/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HDOT driver licensing",
+        "value": "https://hidot.hawaii.gov/driverslicense/"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply in person at a county DMV office."
+      }
+    ],
+    "description": "Driver's licenses and state identification cards are issued in person through county DMV offices statewide. First-time applicants must provide documentary proof of legal name, date of birth, Social Security number, legal presence, and Hawaii principal residence address; a REAL ID-compliant (STAR) card requires the full document set and is accepted by TSA and at federal facilities.",
+    "eligibility": [
+      "Hawaii resident",
+      "Documentary proof of legal name, date of birth, Social Security number, legal presence, and Hawaii principal residence address"
+    ],
+    "id": "hi-drivers-license",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawaii Driver's License & State ID",
+    "prerequisites": [
+      "Gather the required documents — see the HDOT document guide"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://hidot.hawaii.gov/driverslicense/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of legal name and date of birth",
+      "Social Security number documentation",
+      "Proof of legal presence",
+      "Proof of Hawaii principal residence address"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division (BESSD)",
+    "applyLinks": [
+      {
+        "label": "Child Care Subsidy online application",
+        "url": "https://childcaresubsidyapplication.dhs.hawaii.gov/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Toll Free Information Line",
+        "value": "1-855-643-1643"
+      },
+      {
+        "kind": "in-person",
+        "label": "Child Care Subsidy Unit",
+        "value": "94-275 Mokuola St., Room 105, Waipahu, HI"
+      },
+      {
+        "kind": "web",
+        "label": "Child Care Subsidy program page",
+        "value": "https://humanservices.hawaii.gov/bessd/?p=162"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Accepted year-round; the separate Preschool Open Doors track has limited spring enrollment."
+      }
+    ],
+    "description": "Subsidies that help eligible working families pay for child care in Hawaii. Applications are accepted year-round through the DHS online portal.",
+    "eligibility": [
+      "Working family in Hawaii needing child care",
+      "Income guidelines apply — see program page"
+    ],
+    "id": "hi-child-care-subsidy",
+    "languages": [
+      "English"
+    ],
+    "name": "Child Care Subsidy Program",
+    "prerequisites": [
+      "Apply online through the DHS Child Care Subsidy portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/bessd/?p=162"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and work schedule",
+      "Child care provider information"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Taxation",
+    "applyLinks": [
+      {
+        "label": "Official EITC flyer — how to claim (Form N-356)",
+        "url": "https://files.hawaii.gov/tax/geninfo/info/Flyer-EITC.pdf"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hawaii EITC information",
+        "value": "https://files.hawaii.gov/tax/geninfo/info/Flyer-EITC.pdf"
+      }
+    ],
+    "cost": "Free to claim",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax filing",
+        "note": "Claim the credit with your annual Hawaii tax return."
+      }
+    ],
+    "description": "Refundable state tax credit for working filers who qualify for the federal Earned Income Tax Credit. For tax year 2025 the state credit was 40% of the federal credit; claim it by filing a Hawaii return with Form N-356 and Schedule CR. Later-year percentages are set by statute — check the Department of Taxation for the current year.",
+    "eligibility": [
+      "Qualify for the federal Earned Income Tax Credit",
+      "File a Hawaii individual income tax return with Form N-356 and Schedule CR"
+    ],
+    "id": "hi-eitc",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawaii Earned Income Tax Credit (EITC)",
+    "prerequisites": [
+      "File a federal return and claim the federal EITC",
+      "File a Hawaii return with Form N-356 and Schedule CR"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://files.hawaii.gov/tax/geninfo/info/Flyer-EITC.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Filed federal return with EITC claimed",
+      "Completed Hawaii Form N-356 and Schedule CR"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Labor and Industrial Relations (DLIR), Disability Compensation Division",
+    "applyLinks": [
+      {
+        "label": "TDI district office contact — request Form TDI-45",
+        "url": "https://labor.hawaii.gov/dcd/contact/1-2/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TDI — Honolulu",
+        "value": "808-586-9188"
+      },
+      {
+        "kind": "phone",
+        "label": "TDI — Hilo",
+        "value": "808-974-6464"
+      },
+      {
+        "kind": "web",
+        "label": "Disability Compensation Division contact",
+        "value": "https://labor.hawaii.gov/dcd/contact/1-2/"
+      }
+    ],
+    "cost": "Free to file",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as possible after a non-work-related disabling injury or illness."
+      }
+    ],
+    "description": "Partial wage replacement for employees who suffer a non-work-related injury or illness and cannot work. The claim form (TDI-45) is not available online — request it from your employer or a DLIR district office.",
+    "eligibility": [
+      "Hawaii employee covered by TDI",
+      "Unable to work due to a non-work-related injury or illness",
+      "Varies — see the Disability Compensation Division"
+    ],
+    "id": "hi-tdi",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Disability Insurance (TDI)",
+    "prerequisites": [
+      "Request Form TDI-45 from your employer or a DLIR district office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://labor.hawaii.gov/dcd/contact/1-2/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed Form TDI-45",
+      "Physician certification of the disability — see form instructions"
+    ]
+  },
+  {
+    "agency": "Aloha United Way",
+    "applyLinks": [
+      {
+        "label": "Aloha United Way 211",
+        "url": "https://auw211.org"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 (statewide)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "211 — Oahu local",
+        "value": "808-275-2000"
+      },
+      {
+        "kind": "phone",
+        "label": "211 — toll-free",
+        "value": "1-877-275-6569"
+      },
+      {
+        "kind": "web",
+        "label": "Aloha United Way 211",
+        "value": "https://auw211.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Live chat available 7 a.m.–10 p.m. daily; text 'Help' to 877-275-6569."
+      }
+    ],
+    "description": "Statewide confidential helpline connecting callers to food, housing, utility, health, employment, and crisis resources across Hawaii. Reach 211 by phone, by texting 'Help' to 877-275-6569, or through live chat on the website.",
+    "eligibility": [
+      "Open to anyone in Hawaii needing help finding services"
+    ],
+    "id": "hi-211",
+    "languages": [
+      "English"
+    ],
+    "name": "Aloha United Way 211 — Community Resource Helpline",
+    "prerequisites": [
+      "None — call, text, or chat"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://auw211.org"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None — describe your situation to the specialist"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Health, Executive Office on Aging",
+    "applyLinks": [
+      {
+        "label": "Executive Office on Aging",
+        "url": "https://health.hawaii.gov/eoa/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Executive Office on Aging",
+        "value": "808-586-0100"
+      },
+      {
+        "kind": "phone",
+        "label": "Honolulu County aging services",
+        "value": "808-768-7700"
+      },
+      {
+        "kind": "phone",
+        "label": "Hawaii County aging services",
+        "value": "808-961-8626"
+      },
+      {
+        "kind": "web",
+        "label": "Aging network — county offices",
+        "value": "https://health.hawaii.gov/eoa/home/aging-network/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the county aging office serving your island."
+      }
+    ],
+    "description": "Statewide coordination of aging services — meals, transportation, personal care, case management, caregiver support, and other home- and community-based services — delivered through the county Area Agencies on Aging.",
+    "eligibility": [
+      "Older adults in Hawaii and their caregivers",
+      "Varies by service — contact the county aging office"
+    ],
+    "id": "hi-aging-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Executive Office on Aging — Senior Services",
+    "prerequisites": [
+      "Contact the Area Agency on Aging in your county for an intake"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://health.hawaii.gov/eoa/",
+      "https://health.hawaii.gov/eoa/home/aging-network/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Standard documents — varies by service; call ahead"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Human Services, Division of Vocational Rehabilitation",
+    "applyLinks": [
+      {
+        "label": "Division of Vocational Rehabilitation",
+        "url": "https://humanservices.hawaii.gov/vr/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of Vocational Rehabilitation",
+        "value": "https://humanservices.hawaii.gov/vr/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Employment services for people with disabilities ages 14 and older, including career counseling, training, assistive technology, and job placement.",
+    "eligibility": [
+      "Person with a disability, age 14 or older",
+      "Varies — see program page"
+    ],
+    "id": "hi-vocational-rehab",
+    "languages": [
+      "English"
+    ],
+    "name": "Division of Vocational Rehabilitation (DVR)",
+    "prerequisites": [
+      "Contact the division to begin an intake"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://humanservices.hawaii.gov/vr/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Documentation of the disability — see program instructions"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Commerce and Consumer Affairs (DCCA), Regulated Industries Complaints Office (RICO)",
+    "applyLinks": [
+      {
+        "label": "RICO — file a complaint",
+        "url": "https://cca.hawaii.gov/rico"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RICO Consumer Resource Center",
+        "value": "808-587-4272"
+      },
+      {
+        "kind": "web",
+        "label": "RICO",
+        "value": "https://cca.hawaii.gov/rico"
+      }
+    ],
+    "cost": "Free — no fee to file a complaint",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "There is no time limit for filing, but file as soon as possible."
+      }
+    ],
+    "description": "Statewide enforcement office for more than 45 licensed professions and vocations. File a complaint about professional misconduct or unlicensed activity — complaint forms are available online or from RICO offices in Honolulu, Hilo, Kona, Lihue, and Wailuku. There is no fee to file.",
+    "eligibility": [
+      "Any consumer with a complaint about a Hawaii licensed professional or suspected unlicensed activity"
+    ],
+    "id": "hi-rico-complaint",
+    "languages": [
+      "English"
+    ],
+    "name": "RICO — Consumer Complaints (Licensed Professionals)",
+    "prerequisites": [
+      "Gather copies of supporting documents or evidence (do not send originals)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://cca.hawaii.gov/wp-content/uploads/2026/01/MISC-190903-RICO-brochure.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed RICO complaint form",
+      "Copies of contracts, receipts, or other evidence"
+    ]
+  },
+  {
+    "agency": "Hawaii Housing Finance and Development Corporation (HHFDC)",
+    "applyLinks": [
+      {
+        "label": "HHFDC — for homebuyers",
+        "url": "https://dbedt.hawaii.gov/hhfdc/for-homebuyers/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HHFDC homebuyer programs",
+        "value": "https://dbedt.hawaii.gov/hhfdc/for-homebuyers/"
+      }
+    ],
+    "cost": "Free to review; program terms vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Review each program's page for current availability and requirements."
+      }
+    ],
+    "description": "State programs that help Hawaii residents become homeowners, including the Equity Pilot, leasehold programs, Hale Kamaaina, and the Mortgage Credit Certificate (MCC) program.",
+    "eligibility": [
+      "Hawaii resident homebuyer",
+      "Varies by program — see each program's page"
+    ],
+    "id": "hi-hhfdc-homebuyer",
+    "languages": [
+      "English"
+    ],
+    "name": "HHFDC — Homebuyer Programs",
+    "prerequisites": [
+      "Review each program's eligibility and availability"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://dbedt.hawaii.gov/hhfdc/for-homebuyers/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by program; see program pages"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Defense, Office of Veterans' Services (OVS)",
+    "applyLinks": [
+      {
+        "label": "Office of Veterans' Services",
+        "url": "https://dod.hawaii.gov/ovs/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OVS — Honolulu / Tripler",
+        "value": "808-433-0420"
+      },
+      {
+        "kind": "phone",
+        "label": "OVS — Kapolei",
+        "value": "808-458-5072"
+      },
+      {
+        "kind": "phone",
+        "label": "OVS — Hilo",
+        "value": "808-369-3538"
+      },
+      {
+        "kind": "web",
+        "label": "OVS contact directory",
+        "value": "https://dod.hawaii.gov/ovs/contact/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the office nearest you."
+      }
+    ],
+    "description": "State assistance connecting veterans and their families to earned benefits, claims help, and referrals. OVS also operates the Hawaii State Veterans Cemetery in Kaneohe.",
+    "eligibility": [
+      "Veterans and their families in Hawaii",
+      "Varies by benefit — contact OVS"
+    ],
+    "id": "hi-veterans-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Office of Veterans' Services (OVS)",
+    "prerequisites": [
+      "Contact the OVS office nearest you for an intake"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://dod.hawaii.gov/ovs/",
+      "https://dod.hawaii.gov/ovs/contact/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other separation paperwork, if available",
+      "Proof of identity"
+    ]
+  },
+  {
+    "agency": "Hawaii Department of Labor and Industrial Relations (DLIR), Workforce Development Division",
+    "applyLinks": [
+      {
+        "label": "Workforce Development Division",
+        "url": "https://labor.hawaii.gov/wdd"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Workforce Development Division (statewide)",
+        "value": "808-586-8877"
+      },
+      {
+        "kind": "web",
+        "label": "Workforce Development Division",
+        "value": "https://labor.hawaii.gov/wdd"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the office directly for current business hours."
+      }
+    ],
+    "description": "Free career services statewide through the American Job Center network: career counseling, HireNet Hawaii support, training referrals, job-search help, and resource centers with computers, phones, and fax machines for job seekers. Also provides individualized services for veterans and adults with disabilities.",
+    "eligibility": [
+      "Open to job seekers and employers — no eligibility screen for core services"
+    ],
+    "id": "hi-american-job-centers",
+    "languages": [
+      "English"
+    ],
+    "name": "American Job Centers (One-Stop Career Centers)",
+    "prerequisites": [
+      "Contact the office directly — some locations ask job seekers to call for appointments"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://labor.hawaii.gov/wdd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Resume and work history",
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Legal Aid Society of Hawaii",
+    "applyLinks": [
+      {
+        "label": "Legal Aid Society of Hawaii",
+        "url": "https://www.legalaidhawaii.org/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intake — Oahu",
+        "value": "808-536-4302"
+      },
+      {
+        "kind": "phone",
+        "label": "Intake — neighbor islands",
+        "value": "1-800-499-4302"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Aid Society of Hawaii",
+        "value": "https://www.legalaidhawaii.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Intake is by phone; walk-in intake is not currently offered."
+      }
+    ],
+    "description": "Free civil legal help for low-income residents statewide — housing, family, consumer, public benefits, and immigration matters. Intake is by phone; walk-in intake is not currently offered.",
+    "eligibility": [
+      "Low-income Hawaii resident",
+      "Civil (non-criminal) legal matter"
+    ],
+    "id": "hi-legal-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid Society of Hawaii",
+    "prerequisites": [
+      "Call the intake line for your island"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.legalaidhawaii.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal matter",
+      "Proof of income"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "Apply for Social Security benefits online",
+        "url": "https://www.ssa.gov/apply"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national line (unverified)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for benefits",
+        "value": "https://www.ssa.gov/apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online through your my Social Security account, by phone, or at a local field office."
+      }
+    ],
+    "description": "Federal retirement, disability (SSDI), survivors, and Supplemental Security Income (SSI) benefits. You will need your Social Security number, birth certificate, work history, and bank information for direct deposit; SSA can help if you are missing a document.",
+    "eligibility": [
+      "Work credits for retirement, SSDI, and survivors benefits",
+      "SSI: limited income and resources",
+      "Varies — see SSA"
+    ],
+    "id": "fed-ssa-hi",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security — Retirement, Disability & SSI",
+    "prerequisites": [
+      "Create or sign in to a my Social Security account to apply online"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.ssa.gov/faqs/en/questions/KA-10117.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Birth certificate",
+      "W-2 forms or self-employment tax return",
+      "Bank routing and account numbers for direct deposit"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "applyLinks": [
+      {
+        "label": "Apply for VA health care online",
+        "url": "https://www.va.gov/health-care/apply/application/introduction"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA health care enrollment",
+        "value": "877-222-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "myVA411 (unverified)",
+        "value": "1-800-698-2411"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for VA health care",
+        "value": "https://www.va.gov/health-care/how-to-apply/?_ga=2.126150532.862941548.1716867488-2106451040.1716245727"
+      }
+    ],
+    "cost": "Free to enroll; copays vary by priority group",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time; once enrolled, coverage does not require annual re-enrollment."
+      }
+    ],
+    "description": "Comprehensive health care for eligible veterans — primary care, specialty care, mental health, prescriptions, and more — through VA medical centers and clinics, including facilities serving Hawaii. Enroll online (about 30 minutes), by phone, by mail with VA Form 10-10EZ, or in person.",
+    "eligibility": [
+      "Served in the active military and did not receive a dishonorable discharge",
+      "Minimum service requirements apply — see VA; exceptions for service-connected disability discharge"
+    ],
+    "id": "fed-va-health-care-hi",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Health Care — Enrollment",
+    "prerequisites": [
+      "Social Security number and basic military service history (DD-214 helpful but not required)"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.va.gov/health-care/how-to-apply/?_ga=2.126150532.862941548.1716867488-2106451040.1716245727"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Military service history or DD-214, if available"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Education, Federal Student Aid",
+    "applyLinks": [
+      {
+        "label": "FAFSA — 2026-27 form availability and application guidance",
+        "url": "https://studentaid.gov/announcements-events/fafsa-support"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Federal Student Aid (unverified)",
+        "value": "800-433-3243"
+      },
+      {
+        "kind": "web",
+        "label": "FAFSA",
+        "value": "https://studentaid.gov/h/applyforaid/fafsa"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "The 2026–27 FAFSA covers attendance July 1, 2026–June 30, 2027; online forms are typically processed in one to three days."
+      }
+    ],
+    "description": "The Free Application for Federal Student Aid unlocks federal grants, loans, and work-study for college or career school. Hawaii students — including those attending University of Hawaii campuses — also use it for state and college aid consideration.",
+    "eligibility": [
+      "U.S. citizen or eligible noncitizen",
+      "Enrolled or planning to enroll in an eligible college or career school"
+    ],
+    "id": "fed-fafsa-hi",
+    "languages": [
+      "English"
+    ],
+    "name": "FAFSA — Federal Student Aid",
+    "prerequisites": [
+      "Create an FSA ID (StudentAid.gov account) for the student and any required contributors"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "HI"
+    },
+    "sources": [
+      "https://studentaid.gov/announcements-events/fafsa-support"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Tax returns and W-2s",
+      "Bank and investment records"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "applyLinks": [
+      {
+        "label": "HUD housing counseling",
+        "url": "https://www.hud.gov/counseling"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD housing counseling hotline (unverified)",
+        "value": "800-569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY (unverified)",
+        "value": "202-708-1455"
+      },
+      {
+        "kind": "web",
+        "label": "HUD housing counseling",
+        "value": "https://www.hud.gov/counseling"
+      }
+    ],
+    "cost": "Free — foreclosure, eviction, and homeless counseling are always free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a HUD-approved counseling agency any time."
+      }
+    ],
+    "description": "Free or low-cost counseling from HUD-approved agencies on buying a home, renting, avoiding foreclosure, credit issues, and reverse mortgages. Search HUD's counselor directory or call the hotline to find Hawaii agencies; foreclosure, eviction, and homeless counseling are always free.",
+    "eligibility": [
+      "Open to anyone needing housing counseling"
+    ],
+    "id": "fed-hud-counseling-hi",
+    "languages": [
+      "English"
+    ],
+    "name": "HUD-Approved Housing Counseling",
+    "prerequisites": [
+      "None — search the directory or call the hotline"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "HI"
+    },
+    "sources": [
+      "https://www.hud.gov/counseling"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Housing and financial documents relevant to your situation"
+    ]
   }
 ]
