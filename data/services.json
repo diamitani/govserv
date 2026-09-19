@@ -25127,5 +25127,1810 @@
       "Prior-year income information",
       "Current ID cards for other health coverage"
     ]
+  },
+  {
+    "agency": "Washington State Department of Social and Health Services (DSHS)",
+    "applyLinks": [
+      {
+        "label": "Basic Food program page & how to apply",
+        "url": "https://www.dshs.wa.gov/esa/community-services-offices/basic-food?banner_hide=1"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSHS Customer Service Center (Basic Food)",
+        "value": "877-501-2233"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online — Washington Connection",
+        "value": "https://www.washingtonconnection.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits generally approved for 12 months with a mid-certification review at 6 months."
+      }
+    ],
+    "description": "Washington's name for SNAP: monthly food benefits on a Washington Quest EBT card for low-income households. The state-funded Food Assistance Program (FAP) covers legal immigrants ineligible for federal benefits solely because of immigration status; applying does not make you a public charge.",
+    "eligibility": [
+      "Live in Washington state",
+      "Meet income requirements based on household size",
+      "Meet citizenship or immigration status requirements",
+      "Undocumented immigrants and fugitive felons excluded"
+    ],
+    "id": "wa-basic-food",
+    "languages": [
+      "English",
+      "Spanish",
+      "Russian",
+      "Vietnamese",
+      "Somali",
+      "Korean",
+      "Laotian",
+      "Chinese",
+      "Cambodian"
+    ],
+    "name": "Basic Food (SNAP) — Food Benefits",
+    "prerequisites": [
+      "Submit application online, by phone, in person, or by mail",
+      "Complete the required interview at a Community Services Office or by phone at 877-501-2233"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.dshs.wa.gov/esa/community-services-offices/basic-food?banner_hide=1"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ID, proof of income and expenses — specific verification is requested in writing after your interview"
+    ]
+  },
+  {
+    "agency": "Washington State Health Care Authority (HCA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for or renew Apple Health (HCA)",
+        "url": "https://www.hca.wa.gov/free-or-low-cost-health-care/apply-or-renew-coverage"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Washington Healthplanfinder Customer Support Center",
+        "value": "1-855-923-4633"
+      },
+      {
+        "kind": "web",
+        "label": "Washington Healthplanfinder",
+        "value": "https://www.wahealthplanfinder.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Status flag: new federal law (H.R. 1) requires Apple Health for Adults members to renew every six months instead of twelve, beginning 2027-01-01."
+      }
+    ],
+    "description": "Washington's Medicaid program: free or low-cost medical, dental, vision, behavioral health, and long-term care coverage for eligible residents. Adults 19-64, children, parents/caretakers, and pregnant people apply through Washington Healthplanfinder; adults 65+, blind or disabled people, and those needing long-term services use Washington Connection (Classic Medicaid).",
+    "eligibility": [
+      "Washington resident",
+      "Adults 19-64, children, parents/caretakers, pregnant people — apply via Healthplanfinder",
+      "Age 65+, blind or disabled, or needing long-term services — apply via Washington Connection"
+    ],
+    "id": "wa-apple-health",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Apple Health (Medicaid) — Health Coverage",
+    "prerequisites": [
+      "Create a Washington Healthplanfinder account (or Washington Connection account for Classic Medicaid)",
+      "Have household income, birth dates, SSNs, and immigration information ready"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.hca.wa.gov/free-or-low-cost-health-care/apply-or-renew-coverage"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Household monthly income, immigration information if applicable, dates of birth, and SSNs for each applying household member"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Health (DOH)",
+    "applyLinks": [
+      {
+        "label": "Apply for WIC — find a clinic & book an appointment",
+        "url": "https://doh.wa.gov/you-and-your-family/wic/apply-wic"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC Cascades Support Line (help finding a clinic)",
+        "value": "1-800-841-1410"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; first appointment takes about 30-45 minutes and benefits start that day."
+      }
+    ],
+    "description": "Monthly food benefits, health screenings, nutrition education, and breastfeeding support for pregnant people, new parents, and children under 5. More than 200 WIC clinics statewide serve about 200,000 people; U.S. citizenship is not required and being on WIC does not affect immigration status.",
+    "eligibility": [
+      "Live in Washington state",
+      "Pregnant, recently delivered, breastfeeding/chestfeeding, or infant/child under age 5",
+      "Meet income guidelines (effective 2026-07-01; e.g., household of 4 up to $61,050/year)",
+      "Automatically eligible if on Medicaid, TANF, or Basic Food"
+    ],
+    "id": "wa-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "WIC — Women, Infants, and Children Nutrition Program",
+    "prerequisites": [
+      "Find a WIC clinic with the clinic locator or call 1-800-841-1410",
+      "Call to schedule an appointment (remote or in-person)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://doh.wa.gov/you-and-your-family/wic/apply-wic"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ID, proof of Washington residency, and proof of income — see the 'What to bring' list in your language"
+    ]
+  },
+  {
+    "agency": "Washington State Employment Security Department (ESD)",
+    "applyLinks": [
+      {
+        "label": "How to apply for unemployment benefits (ESD)",
+        "url": "https://esd.wa.gov/get-financial-help/unemployment-benefits/applying-unemployment-benefits/how-apply-unemployment-benefits"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Claims Center",
+        "value": "800-318-6022"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online in eServices (24/7)",
+        "value": "https://esd.wa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply within 2 weeks of separating from your job; longer waits may trigger extra questions. Weekly claims required each week benefits are wanted."
+      }
+    ],
+    "description": "Weekly cash benefits for workers who lost jobs or had hours cut through no fault of their own. Apply online in eServices 24/7 or by phone; claimants must register with WorkSource, complete weekly job-search requirements, and file a claim each week.",
+    "eligibility": [
+      "Worked in Washington and earned enough wages in your base year",
+      "Unemployed through no fault of your own, or hours reduced",
+      "Able, available, and actively seeking work"
+    ],
+    "id": "wa-unemployment-insurance",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Unemployment Insurance — Weekly Benefits",
+    "prerequisites": [
+      "Read the Unemployed Worker's Handbook",
+      "Create a SecureAccess Washington (SAW) account and eServices account",
+      "Register for work at WorkSourceWA.com within 1 week of your benefit-rights notice"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://esd.wa.gov/get-financial-help/unemployment-benefits/applying-unemployment-benefits/how-apply-unemployment-benefits"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number, employer names/addresses for the last 18 months, start/stop dates and reason for leaving each job — see the official required-information checklist"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Commerce",
+    "applyLinks": [
+      {
+        "label": "LIHEAP program page — find a provider to apply",
+        "url": "https://www.commerce.wa.gov/community-opportunities/liheap/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find a local LIHEAP provider (official locator)",
+        "value": "https://www.commerce.wa.gov/community-opportunities/liheap/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply once per program year (October 1 - September 30) through your local LIHEAP provider; the Department of Commerce does not schedule appointments."
+      }
+    ],
+    "description": "One-time heating and cooling grants paid directly to your energy provider for income-eligible households; can also repair or replace unsafe, inoperative heating or cooling systems. Local community action agencies take applications — the Department of Commerce does not schedule appointments.",
+    "eligibility": [
+      "Reside in Washington",
+      "Household income at or below 150% of the federal poverty level",
+      "No LIHEAP grant received in the current program year (October-September)"
+    ],
+    "id": "wa-liheap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Low-Income Home Energy Assistance Program (LIHEAP)",
+    "prerequisites": [
+      "Find the LIHEAP provider for your community",
+      "Schedule an appointment following that agency's process"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.commerce.wa.gov/community-opportunities/liheap/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identity, residence, heat costs, and income documentation — requirements vary by provider; confirm before your appointment"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Social and Health Services (DSHS)",
+    "applyLinks": [
+      {
+        "label": "TANF program page — how to apply",
+        "url": "http://www.dshs.wa.gov/esa/community-services-offices/temporary-assistance-needy-families"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSHS Customer Service Contact Center",
+        "value": "877-501-2233"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online — Washington Connection",
+        "value": "https://www.washingtonconnection.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; families can receive TANF for up to 60 months, with extensions for disability, homelessness, family violence, or high state unemployment."
+      }
+    ],
+    "description": "Temporary monthly cash grants for families with a pregnant individual or minor child; many recipients must participate in WorkFirst employment services. Includes Non-Needy (child-only/kinship) TANF for relatives and guardians caring for children, plus one-time Diversion Cash Assistance up to $1,250 for emergencies.",
+    "eligibility": [
+      "Pregnant, or caring for your own or a relative's minor child (under 19 and in school)",
+      "Meet income and resource limits by household size",
+      "Meet TANF time limits (60 months; extensions possible)"
+    ],
+    "id": "wa-tanf",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Temporary Assistance for Needy Families (TANF) — Cash Aid",
+    "prerequisites": [
+      "Submit application online, by phone, by fax (888-338-7410), by mail, or in person",
+      "Complete interview in person or by phone (Mon-Fri, 8am-2pm)",
+      "Complete WorkFirst orientation; may need to cooperate with child support"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "http://www.dshs.wa.gov/esa/community-services-offices/temporary-assistance-needy-families"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ID, proof of income and resources, pregnancy or child-care documentation — verification is requested after the interview"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Licensing (DOL)",
+    "applyLinks": [
+      {
+        "label": "Pre-apply online for driver license, ID, or permit (DOL)",
+        "url": "https://dol.wa.gov/pre-apply-online?contentpromo="
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOL Customer Contact Center",
+        "value": "360-902-3900"
+      },
+      {
+        "kind": "web",
+        "label": "Pre-apply online — License Express",
+        "value": "https://dol.wa.gov/pre-apply-online"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No appointment needed to pre-apply; schedule a driver licensing office visit after pre-applying."
+      }
+    ],
+    "description": "Standard and enhanced (REAL ID) driver licenses, ID cards, and instruction permits for Washington residents. Pre-apply online to start paperwork and get a WDL number, then finish at a driver licensing office; enhanced documents also serve for land/sea border crossings.",
+    "eligibility": [
+      "Washington residence street address",
+      "Valid identity and residency documents per the document checklist",
+      "Varies — see program page"
+    ],
+    "id": "wa-driver-license-id",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Driver License & ID Card",
+    "prerequisites": [
+      "Pre-apply online with a License Express account to get your WDL number",
+      "Make an appointment at a driver licensing office",
+      "Bring required identity/residency documents and payment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dol.wa.gov/pre-apply-online?contentpromo="
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identity and residency documents per the enhanced document checklist, Social Security number, payment for the licensing fee"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Revenue (DOR)",
+    "applyLinks": [
+      {
+        "label": "Apply for a new business license (DOR)",
+        "url": "https://dor.wa.gov/manage-business/my-dor-help/renew-or-update-business-license/apply-new-business-license"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Licensing Service",
+        "value": "360-705-6741"
+      },
+      {
+        "kind": "web",
+        "label": "My DOR — business licensing",
+        "value": "https://dor.wa.gov"
+      }
+    ],
+    "cost": "Fees apply — state processing fee plus endorsements vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply before doing business in Washington; hiring-employee and tax-filing obligations begin after registration."
+      }
+    ],
+    "description": "The state business license and Unified Business Identifier (UBI) number every Washington business needs, issued through the Department of Revenue's Business Licensing Service. One application can also add city license endorsements and registers you for workers' comp (L&I) and unemployment insurance (ESD) when hiring.",
+    "eligibility": [
+      "Any business operating in Washington state",
+      "Sole proprietorships, general partnerships, and other structures — see the application for your structure"
+    ],
+    "id": "wa-business-license",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Business License & UBI Registration",
+    "prerequisites": [
+      "Create a SecureAccess Washington (SAW) account and log in to My DOR",
+      "Have owner SSN/ITIN, business location, activities, and estimated gross revenue ready"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dor.wa.gov/manage-business/my-dor-help/renew-or-update-business-license/apply-new-business-license"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "SSN or ITIN and date of birth of all owners/officers, business location and activity details, FEIN if hiring employees"
+    ]
+  },
+  {
+    "agency": "Washington Student Achievement Council (WSAC)",
+    "applyLinks": [
+      {
+        "label": "Washington College Grant (WA Grant) — WSAC",
+        "url": "https://wsac.wa.gov/wcg"
+      },
+      {
+        "label": "WASFA — state aid application for non-FAFSA filers",
+        "url": "https://wsac.wa.gov/wasfa"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WSAC — WASFA help (option 2)",
+        "value": "888-535-0747"
+      },
+      {
+        "kind": "email",
+        "label": "WASFA questions",
+        "value": "wasfa@wsac.wa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No deadline or separate application — FAFSA or WASFA filers are automatically considered. 2026-27 FAFSA/WASFA open now; never too early or too late to apply."
+      }
+    ],
+    "description": "Free state money — not a loan — for career training, college, or registered apprenticeships; about half of Washington families qualify. Complete a FAFSA or WASFA to be automatically considered; award amounts depend on family size, income, and school cost, and undocumented students apply through WASFA.",
+    "eligibility": [
+      "Washington resident (including undocumented students)",
+      "Recent high school graduate or working-age adult",
+      "Low- to middle-income (2026-27: e.g., family of 4 up to $139,500 for partial award; $83,500 or less may mean free college/training)",
+      "Plan to attend an approved certificate program, job training, apprenticeship, or college"
+    ],
+    "id": "wa-college-grant",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Washington College Grant (WA Grant) — Financial Aid",
+    "prerequisites": [
+      "Complete the FAFSA or the WASFA (for non-FAFSA filers, including undocumented students)",
+      "Check email regularly for communications from your college or training program"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://wsac.wa.gov/wcg",
+      "https://wsac.wa.gov/wasfa"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Tax/income information for you and your family, Social Security number if you have one (WASFA does not require one)"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Social and Health Services (DSHS) — Division of Vocational Rehabilitation",
+    "applyLinks": [
+      {
+        "label": "DVR Guide to Services (how to apply)",
+        "url": "https://dshs.wa.gov/sites/default/files/publications/documents/22-366.pdf"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVR — call to find your nearest office",
+        "value": "1-800-637-5627"
+      },
+      {
+        "kind": "email",
+        "label": "DVR customer service",
+        "value": "DVRCSR@dshs.wa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Status flag: if funding is limited, DVR must use a waiting list prioritized by significance of disability."
+      }
+    ],
+    "description": "Employment services for people whose physical, mental, or sensory disability is a barrier to work: vocational assessment, training and education, job placement, assistive technology, benefits planning, and post-employment support. A counselor builds an Individualized Plan for Employment with you.",
+    "eligibility": [
+      "Have a physical, mental, or sensory disability that is a barrier to employment",
+      "Need vocational rehabilitation services to get or keep a job",
+      "Able to work as a result of receiving DVR services"
+    ],
+    "id": "wa-voc-rehab",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Division of Vocational Rehabilitation (DVR)",
+    "prerequisites": [
+      "Call DVR to select a time to meet at an office near you",
+      "Complete a DVR application; counselor reviews eligibility",
+      "Request interpreter or alternate formats when you call if needed"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dshs.wa.gov/sites/default/files/publications/documents/22-366.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identity, disability, and work-status records — DVR collects these; medical exams may be needed if no records exist"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Veterans Affairs (WDVA)",
+    "applyLinks": [
+      {
+        "label": "WDVA — benefits for veteran/military spouses and family members",
+        "url": "https://dva.wa.gov/veterans-service-members-and-their-families/benefits-veteranmilitary-spouses-and-family-members"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WDVA statewide referral (unverified)",
+        "value": "800-562-2308"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Connects veterans, service members, spouses, and survivors to earned benefits: VA disability compensation, pension, Aid & Attendance, medical care, education and vocational rehab, plus state homes, counseling, and county Veterans Assistance Fund aid. Veterans Service Offices statewide help file claims; bring service and dependent documents.",
+    "eligibility": [
+      "Veterans, service members, spouses, children, and survivors",
+      "Varies by benefit — discharge status, service-connected disability, wartime service, and income rules apply"
+    ],
+    "id": "wa-veterans-affairs",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Veterans Benefits & Claims Assistance (WDVA)",
+    "prerequisites": [
+      "Contact a WDVA Veterans Service Office or the statewide referral service",
+      "Gather service and dependent documents before your visit"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dva.wa.gov/veterans-service-members-and-their-families/benefits-veteranmilitary-spouses-and-family-members"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD214 or separation papers, marriage/divorce certificates, birth records for dependent children, death certificates, service medical records"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Social and Health Services (DSHS) — Aging and Long-Term Support Administration",
+    "applyLinks": [
+      {
+        "label": "Community Living Connections — find local LTSS services (DSHS)",
+        "url": "https://www.dshs.wa.gov/altsa/home-and-community-services/who-contact-find-local-services"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Living Connections (toll-free)",
+        "value": "1-855-567-0252"
+      },
+      {
+        "kind": "web",
+        "label": "Community Living Connections",
+        "value": "https://waclc.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "The front door for Washington's long-term services and supports: in-home care, adult day health, residential options, caregiver respite, and help paying for care through Apple Health LTSS (Medicaid). Adults 60+ start with free Senior Information & Assistance; 18–59 contact a local Home & Community Services office; caregivers can access TSOA and Family Caregiver Support services.",
+    "eligibility": [
+      "Adults 60+ — Senior Information & Assistance",
+      "Adults 18-59 — Home & Community Services office",
+      "Adults needing Medicaid-funded LTSS — financial and functional eligibility",
+      "Family caregivers of adults needing care — caregiver support programs"
+    ],
+    "id": "wa-aging-ltss",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Aging & Long-Term Services and Supports (ALTSA)",
+    "prerequisites": [
+      "Call Community Living Connections or your local office to be screened",
+      "Complete the financial application and functional assessment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.dshs.wa.gov/altsa/home-and-community-services/who-contact-find-local-services"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID, Social Security number, income and asset information, medical documentation of care needs"
+    ]
+  },
+  {
+    "agency": "Washington State Housing Finance Commission (WSHFC)",
+    "applyLinks": [
+      {
+        "label": "Here to Home — WSHFC homeownership portal",
+        "url": "http://heretohome.org/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WSHFC homeownership help (unverified)",
+        "value": "800.767.4663"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Funds for Home Advantage are continuously available, subject to market rates and conditions."
+      }
+    ],
+    "description": "State agency first-time homebuyer programs: Home Advantage and House Key Opportunity mortgages through trained lenders, with downpayment assistance of 0–4% interest deferred until sale, payoff, transfer, or refinance (average assistance ~$15,000). Requires a Commission-sponsored homebuyer seminar. Special tracks for veterans, teachers, and buyers with disabilities.",
+    "eligibility": [
+      "Washington residents buying a primary residence",
+      "Income limits apply (varies by county/program)",
+      "Credit score 620 or higher for most programs",
+      "Complete a 5-hour Commission-sponsored homebuyer class"
+    ],
+    "id": "wa-home-advantage",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Home Advantage — Homeownership & Downpayment Assistance (WSHFC)",
+    "prerequisites": [
+      "Complete a free Commission-sponsored homebuyer class",
+      "Apply through a WSHFC-trained/premier participating lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "http://heretohome.org/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Income and employment documentation for mortgage qualification, ID, proof of Washington residence"
+    ]
+  },
+  {
+    "agency": "Northwest Justice Project (NJP)",
+    "applyLinks": [
+      {
+        "label": "NJP — apply for legal help online",
+        "url": "https://nwjustice.org/get-legal-help"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CLEAR hotline (outside King County), weekdays 9:15am–12:15pm",
+        "value": "1-888-201-1014"
+      },
+      {
+        "kind": "phone",
+        "label": "CLEAR*Sr (age 60+)",
+        "value": "1-888-387-7111"
+      },
+      {
+        "kind": "phone",
+        "label": "Eviction defense line",
+        "value": "1-855-657-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "Foreclosure line",
+        "value": "1-800-606-4819"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Status flag: CLEAR/NJP cannot guarantee assistance to all callers — capacity and case-type limits apply."
+      }
+    ],
+    "description": "Washington's statewide nonprofit law firm for people with low incomes: free civil legal aid for housing/eviction, family law, public benefits, education, debt collection, and employment cases. Apply online, call CLEAR (King County callers start with 211), or use the eviction/foreclosure lines. Interpreters available; seniors 60+ can use CLEAR*Sr.",
+    "eligibility": [
+      "Civil (non-criminal) legal problem",
+      "Low income (or senior age 60+ — some senior cases served regardless of income)",
+      "Not already represented on the matter"
+    ],
+    "id": "wa-legal-aid-njp",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Northwest Justice Project — Free Civil Legal Aid",
+    "prerequisites": [
+      "Apply online or call the appropriate intake line",
+      "Complete the intake screening and financial eligibility review"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://d8.nwjustice.org/system/files/2022-06/Free%20Legal%20Help%20Flyer_final_English_May%202022.pdf",
+      "https://nwjustice.org/getlegalhelp"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID, proof of income, court or agency paperwork related to your legal problem"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Children, Youth, and Families (DCYF)",
+    "applyLinks": [
+      {
+        "label": "Working Connections Child Care (DCYF) — apply via Washington Connection",
+        "url": "https://dcyf.wa.gov/services/earlylearning-childcare/getting-help/wccc"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WCCC family line (multiple languages)",
+        "value": "844-626-8687"
+      },
+      {
+        "kind": "phone",
+        "label": "Provider Help Line",
+        "value": "1-800-394-4571"
+      }
+    ],
+    "cost": "Income-based copay — $0 to $215/month (see copay table)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; new copay table effective October 1, 2026."
+      }
+    ],
+    "description": "Helps families pay for licensed child care while parents work, attend school, or do approved training: the family pays a monthly copay to the provider (based on income and family size) and DCYF pays the rest. Families experiencing homelessness can get up to 12 months of care at no cost; families choose any WCCC-participating provider.",
+    "eligibility": [
+      "Child and family live in Washington state",
+      "Household income below 60% of State Median Income at application (65% at reapplication)",
+      "Parent/caregiver employed or self-employed, in high school (age 21 or younger), attending college, or in a WorkFirst/BFET plan"
+    ],
+    "id": "wa-wccc-childcare",
+    "languages": [
+      "English",
+      "Spanish",
+      "Somali"
+    ],
+    "name": "Working Connections Child Care (WCCC)",
+    "prerequisites": [
+      "Apply online via Washington Connection, by phone, or with a paper application",
+      "Choose a WCCC-participating child care provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dcyf.wa.gov/services/earlylearning-childcare/getting-help/wccc"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ID and Washington residency info, proof of earned and other household income, custody documentation, school enrollment verification if in school"
+    ]
+  },
+  {
+    "agency": "Washington Employment Security Department (ESD) — Paid Family and Medical Leave",
+    "applyLinks": [
+      {
+        "label": "Get ready to apply — Paid Family and Medical Leave",
+        "url": "https://paidleave.wa.gov/get-ready-to-apply/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Paid Leave contact center (unverified)",
+        "value": "833-717-2273"
+      },
+      {
+        "kind": "web",
+        "label": "paidleave.wa.gov",
+        "value": "https://paidleave.wa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "30-day application window",
+        "note": "Submit a complete application within 30 days after your qualifying event; backdating is possible for a good-cause reason (serious health condition, incapacity, natural disaster)."
+      }
+    ],
+    "description": "Paid time off for nearly every Washington worker for qualifying events: your own serious health condition, caring for a seriously ill family member, bonding with a new child (birth, adoption, foster), or military family leave. Up to 12 weeks of family or medical leave; up to 16 weeks combined for pregnancy/childbirth, plus 2 weeks for complications. Full-time, part-time, temporary, and seasonal hours all count.",
+    "eligibility": [
+      "Worked at least 820 hours in Washington in the qualifying period (~last year)",
+      "Experienced a qualifying event (serious health condition, new child, military family event)",
+      "Not solely employed by the federal government or a tribe that has not opted in"
+    ],
+    "id": "wa-paid-leave",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Paid Family and Medical Leave",
+    "prerequisites": [
+      "Give your employer(s) written notice at least 30 days before planned leave",
+      "Gather proof of ID and eligibility documents (provider certification for medical leave, birth/adoption documents for bonding leave)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://paidleave.wa.gov/get-ready-to-apply/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of ID (driver's license, passport, or utility bills), health care provider certification form or FMLA form/doctor's note, birth or adoption/placement documents"
+    ]
+  },
+  {
+    "agency": "Washington State Department of Revenue (DOR)",
+    "applyLinks": [
+      {
+        "label": "Property tax exemption for seniors, disabled, and disabled veterans (DOR)",
+        "url": "https://dor.wa.gov/taxes-rates/property-tax/property-tax-exemption-seniors-people-retired-due-disability-and-veterans-disabilities"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOR Property Tax Division (unverified)",
+        "value": "360-534-1400"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through your county assessor; check renewal requirements with your county. Income thresholds increased recently — re-check if you were denied before."
+      }
+    ],
+    "description": "Property tax reduction for seniors (61+), people retired due to disability (any age), and veterans with a service-connected rating of 80%+ or 100% VA compensation: qualifying applicants can get a reduced or frozen taxable value on their primary residence. Each county sets its own income thresholds based on county median household income. Note: EHB 1106 lowers the veteran rating requirement to 40%+ for taxes due in 2027 and beyond.",
+    "eligibility": [
+      "Own and occupy a primary residence in Washington",
+      "Qualifying combined disposable income (thresholds set per county)",
+      "At least 61 years old, OR disabled and unable to work, OR disabled veteran with 80%+ service-connected rating (40%+ for 2027+ taxes)",
+      "Surviving spouse/domestic partner (57+) of a deceased exemption participant"
+    ],
+    "id": "wa-property-tax-exemption",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Property Tax Exemption — Seniors, Disabled, Disabled Veterans",
+    "prerequisites": [
+      "Apply through your local county assessor",
+      "Complete the Senior Citizen and Disabled Persons Exemption application and income worksheet; disability claimants provide SSA/VA acknowledgment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dor.wa.gov/taxes-rates/property-tax/property-tax-exemption-seniors-people-retired-due-disability-and-veterans-disabilities"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of ownership and occupancy, income documentation, age verification or disability/veteran documentation (SSA or VA award letter)"
+    ]
+  },
+  {
+    "agency": "Washington 211 (WA 211 network / Crisis Connections)",
+    "applyLinks": [
+      {
+        "label": "WA 211 database search",
+        "url": "https://crisisconnections.org/211"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1 (M-F 9am-5pm; automated text 24/7)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "211 toll-free",
+        "value": "800-621-4636"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "711"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call, text, or search any time."
+      }
+    ],
+    "description": "Free, confidential referrals to 17,000+ verified local services statewide: food, housing, bills (rent and utility assistance), health and dental care, legal help, and caregiver/disability resources. Crisis Connections is the primary 211 provider in Washington; specialists listen and match you to the right resources.",
+    "eligibility": [
+      "Anyone in Washington state — trained specialists screen and refer",
+      "Help in over 155 languages via interpreter services"
+    ],
+    "id": "wa-211",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "2-1-1 Washington — Community Resource Referrals",
+    "prerequisites": [
+      "Dial 2-1-1 or 800-621-4636, text WAOD to 898211, or search the WA211 database"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "WA"
+    },
+    "sources": [
+      "https://crisisconnections.org/211",
+      "https://crisisconnections.org/wp-content/uploads/2026/03/211-Info-Card-ENG-Nov-2026_DESKTOP-PRINT.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None — referrals by phone, text, chat, or online search"
+    ]
+  },
+  {
+    "agency": "King County Metro",
+    "applyLinks": [
+      {
+        "label": "ORCA LIFT — reduced fare card (King County Metro)",
+        "url": "https://KingCounty.gov/en/dept/metro/fares-and-payment/reduced-fares/orca-lift"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHAP enrollment help / apply by phone",
+        "value": "800-756-5437"
+      },
+      {
+        "kind": "phone",
+        "label": "Metro customer service",
+        "value": "206-553-3000"
+      },
+      {
+        "kind": "phone",
+        "label": "ORCA Regional Call Center",
+        "value": "888-988-6722"
+      }
+    ],
+    "cost": "No card fee for qualified riders; load value to ride",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; card is good for 2 years, then reapply to renew."
+      }
+    ],
+    "description": "Reduced $1.00 fares for low-income riders on King County Metro buses, Water Taxi, Seattle Streetcar/Monorail, Sound Transit Link light rail, Sounder, and regional buses (PugetPass $36/month). Seniors 65+, people with disabilities, and Medicare card holders use the separate Regional Reduced Fare Permit (RRFP). Youth 18 and under ride most regional transit free.",
+    "eligibility": [
+      "Gross household income at or below 200% of the Federal Poverty Level",
+      "Apple Health Medicaid, WIC, and Basic Food recipients are categorically eligible",
+      "King County resident or rider"
+    ],
+    "id": "kingcounty-orca-lift",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "ORCA LIFT — Reduced Transit Fares",
+    "prerequisites": [
+      "Check eligibility (income table or Apple Health/WIC/Basic Food)",
+      "Apply online, by phone via CHAP, or in person at an enrollment office with proof of income and identity"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "King",
+      "state": "WA"
+    },
+    "sources": [
+      "https://KingCounty.gov/en/dept/metro/fares-and-payment/reduced-fares/orca-lift"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income (state program enrollment, award letters, paystubs, or tax return) and government-issued photo ID or two documents"
+    ]
+  },
+  {
+    "agency": "Public Health — Seattle & King County",
+    "applyLinks": [
+      {
+        "label": "Public Health Centers (King County)",
+        "url": "https://KingCounty.gov/ru-ru/dept/dph/health-safety/health-centers-programs-services/public-health-centers"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Downtown Public Health Center (unverified)",
+        "value": "206-477-1939"
+      },
+      {
+        "kind": "web",
+        "label": "Find a public health center",
+        "value": "https://KingCounty.gov/en/dept/dph"
+      }
+    ],
+    "cost": "Free or sliding scale",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services currently by appointment only — check your location's page."
+      }
+    ],
+    "description": "County-run health centers in Seattle, Bellevue/Eastgate, Kirkland, Kent, Renton, Auburn, Federal Way, and more: adult and child medical care, dental care, teen health, WIC, immunizations, and low-barrier buprenorphine treatment for opioid use disorder. Serves the uninsured and underinsured regardless of ability to pay.",
+    "eligibility": [
+      "Anyone — services not limited by residency",
+      "Varies — see program page"
+    ],
+    "id": "kingcounty-public-health",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "King County Public Health Centers",
+    "prerequisites": [
+      "Find your location's page and confirm current services and appointment requirements"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "King",
+      "state": "WA"
+    },
+    "sources": [
+      "https://KingCounty.gov/ru-ru/dept/dph/health-safety/health-centers-programs-services/public-health-centers"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID, insurance card if insured (uninsured welcome), immunization records for child visits"
+    ]
+  },
+  {
+    "agency": "City of Seattle — Customer Service Bureau",
+    "applyLinks": [
+      {
+        "label": "Seattle Customer Service Bureau — request tracker",
+        "url": "https://www.seattle.gov/customer-service-bureau/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Service Bureau M-F 8am-5pm (unverified)",
+        "value": "206-684-2489"
+      },
+      {
+        "kind": "web",
+        "label": "Find It, Fix It app",
+        "value": "https://www.seattle.gov/csb"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report issues any time; track status with the online service-request tracker."
+      }
+    ],
+    "description": "Seattle's 311-style customer service: report non-emergency issues (potholes, graffiti, illegal dumping, abandoned vehicles, streetlight outages) via the Find It, Fix It app, webform, or phone, and track them with the online tracker. Also handles complaints, compliments, suggestions, and claims for damages.",
+    "eligibility": [
+      "Anyone in the City of Seattle"
+    ],
+    "id": "seattle-311",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Seattle 311 — Customer Service Bureau",
+    "prerequisites": [
+      "Use the Find It, Fix It app or webform, or call the Customer Service Bureau"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.seattle.gov/customer-service-bureau/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Location and description of the issue (photo helps); email for status updates"
+    ]
+  },
+  {
+    "agency": "City of Spokane — My Spokane 311",
+    "applyLinks": [
+      {
+        "label": "My Spokane 311 — account help",
+        "url": "https://my.spokanecity.org/account/help/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "My Spokane 311 (outside city limits)",
+        "value": "509-755-2489"
+      },
+      {
+        "kind": "phone",
+        "label": "Dial 311 within city limits",
+        "value": "311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact 311 by phone, online, or in person at City Hall, 808 W Spokane Falls Blvd."
+      }
+    ],
+    "description": "Spokane's 311 customer-service hub: utility-billing questions and payment arrangements, solid-waste cart changes, parks-and-rec class registration, pothole and road-hazard reports, code and parking enforcement complaints, abandoned vehicles. One call, one click, or one visit.",
+    "eligibility": [
+      "Anyone in the City of Spokane (callers outside city limits use 509-755-2489)"
+    ],
+    "id": "spokane-311",
+    "languages": [
+      "English"
+    ],
+    "name": "My Spokane 311 — City Customer Service",
+    "prerequisites": [
+      "Call 311, use my.spokanecity.org, or visit the My Spokane counter on the first floor of City Hall"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Spokane",
+      "state": "WA"
+    },
+    "sources": [
+      "https://my.spokanecity.org/account/help/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Address/location and description of the issue; account number for utility billing"
+    ]
+  },
+  {
+    "agency": "Spokane Transit Authority",
+    "applyLinks": [
+      {
+        "label": "STA Reduced & Zero Fare Programs — apply online",
+        "url": "https://www.spokanetransit.com/reducedfare/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "STA Customer Service (509) 328-RIDE",
+        "value": "509-328-7433"
+      },
+      {
+        "kind": "web",
+        "label": "STA Plaza Customer Service, 701 W Riverside Ave",
+        "value": "https://www.spokanetransit.com/reducedfare/"
+      }
+    ],
+    "cost": "Reduced fares: $1.00 per ride ($2.00 daily cap, $30.00 monthly cap)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; Opportunity pilot cardholders recertify eligibility annually."
+      }
+    ],
+    "description": "Discounted STA transit fares: 50% off for riders 60+ or with disabilities (Honored Rider), active-duty military and veterans (Stars & Stripes), and Basic Food recipients (Opportunity pilot); free unlimited rides for youth 18 and under (Rider's License); 20% fare-capping discount for students in training programs. Apply online or in person at STA Plaza, 701 W Riverside.",
+    "eligibility": [
+      "Honored Rider: 60+ or documented disability",
+      "Stars & Stripes: active-duty military or veterans",
+      "Opportunity: receive Basic Food (DSHS), 2-year pilot",
+      "Rider's License: ages 18 and under",
+      "Student: enrolled in apprenticeship/trade/vocational training"
+    ],
+    "id": "spokane-sta-reduced-fare",
+    "languages": [
+      "English"
+    ],
+    "name": "STA Reduced & Zero Fare Programs",
+    "prerequisites": [
+      "Take the eligibility assessment, then apply online or in person with photo ID, portrait photo, and program-specific documents"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Spokane",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.spokanetransit.com/reducedfare/",
+      "https://www.spokanetransit.com/news/sta-launches-new-reduced-fare-option-for-low-income-riders/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID (except ages 12 and under), portrait-style photo, and program documentation (e.g., Basic Food proof, DD-214, Medicare card, disability affidavit)"
+    ]
+  },
+  {
+    "agency": "Spokane County Regional Veteran Services",
+    "applyLinks": [
+      {
+        "label": "Spokane County Veterans Services — eligibility & services",
+        "url": "https://www.spokanecounty.gov/1136/Eligibility-Criteria-Types-of-Services-A"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Spokane County Regional Veteran Services Center",
+        "value": "509-477-3690"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans Services pamphlet (PDF)",
+        "value": "http://www.spokanecounty.org/DocumentCenter/View/18759"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Business hours 8 AM–4 PM, Monday–Friday. Financial assistance is emergency crisis intervention, not an ongoing entitlement."
+      }
+    ],
+    "description": "Spokane County's Veterans' Assistance Fund provides emergency financial relief to indigent veterans: food and hygiene, rent, burial assistance, employment help, transportation, utilities facing shut-off, and training. Assistance is issued as vouchers to specific vendors (landlord, grocery store, etc.).",
+    "eligibility": [
+      "Honorably discharged veteran (DD-214 Copy 2 or 4, or VA HINQ)",
+      "WA resident for at least 12 months, currently residing in Spokane County",
+      "Proof of income at time of application",
+      "Complete an application"
+    ],
+    "id": "spokanecounty-veterans-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Spokane County Veterans Services — Emergency Relief",
+    "prerequisites": [
+      "Gather DD-214, proof of 12-month WA residency and Spokane County residence, and income documents (all current within 30 days), then apply"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Spokane",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.spokanecounty.gov/1136/Eligibility-Criteria-Types-of-Services-A",
+      "https://www.spokanecounty.gov/4280/About-Us"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD-214 (Copy 2 or 4), proof of residency (12+ months in WA), proof of income (last 30 days), marriage license/children's birth certificates if applicable"
+    ]
+  },
+  {
+    "agency": "Spokane Regional Health District",
+    "applyLinks": [
+      {
+        "label": "SRHD Opioid Treatment Services Program",
+        "url": "https://srhd.org/news/spokane-regional-health-district-srhd-opioid-treatment-services-program-increases-access-to-treatment-with-expanded-hours"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Treatment Services enrollment",
+        "value": "509-324-1420"
+      },
+      {
+        "kind": "phone",
+        "label": "SRHD main line",
+        "value": "509-324-1500"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Clinic hours: Mon–Fri 5:15 AM–5:15 PM, Sat 7:15 AM–2:15 PM; closed Sunday."
+      }
+    ],
+    "description": "Medication-assisted treatment for opioid use disorder at 312 W Eighth Ave, Spokane: individual counseling, group therapy, case management, mental health counseling, urinalysis, and medication dosing — including jail-based admissions. Also connects to SRHD's WIC clinics, vital records, and other public-health services.",
+    "eligibility": [
+      "Anyone with opioid use disorder seeking treatment in Spokane County"
+    ],
+    "id": "spokanecounty-srhd-opioid-treatment",
+    "languages": [
+      "English"
+    ],
+    "name": "SRHD Opioid Treatment Services",
+    "prerequisites": [
+      "Call 509-324-1420 during business hours to inquire about enrollment"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Spokane",
+      "state": "WA"
+    },
+    "sources": [
+      "https://srhd.org/news/spokane-regional-health-district-srhd-opioid-treatment-services-program-increases-access-to-treatment-with-expanded-hours"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID; insurance card if insured (call to confirm what's accepted)"
+    ]
+  },
+  {
+    "agency": "City of Tacoma — TacomaFIRST 311",
+    "applyLinks": [
+      {
+        "label": "TacomaFIRST 311 — police services / nuisance reporting (City of Tacoma)",
+        "url": "https://tacoma.gov/government/departments/police/tpd-services/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TacomaFIRST 311 (outside city limits)",
+        "value": "253-591-5000"
+      },
+      {
+        "kind": "phone",
+        "label": "Dial 311 within Tacoma city limits",
+        "value": "311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call center open Monday–Friday, 8 AM–5 PM; online reporting anytime."
+      }
+    ],
+    "description": "TacomaFIRST 311 is Tacoma's customer-support center: report nuisance issues (animal issues, suspected drug houses, illegal camping, potholes, graffiti) online or by phone, plus garbage/recycling, parking, and permit questions. Report crimes in progress to 911 and non-emergency crimes to (253) 287-4455.",
+    "eligibility": [
+      "Anyone in the City of Tacoma (dial 253-591-5000 outside city limits)"
+    ],
+    "id": "tacoma-311",
+    "languages": [
+      "English"
+    ],
+    "name": "TacomaFIRST 311 — City Customer Service",
+    "prerequisites": [
+      "Use Tacoma FIRST 311 online, dial 311, or call 253-591-5000"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Tacoma",
+      "state": "WA"
+    },
+    "sources": [
+      "https://tacoma.gov/government/departments/police/tpd-services/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Location and description of the issue; photos help"
+    ]
+  },
+  {
+    "agency": "Pierce Transit",
+    "applyLinks": [
+      {
+        "label": "Pierce Transit Fares & Passes",
+        "url": "https://piercetransit.org/fares-passes/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pierce Transit customer service",
+        "value": "253-581-8000"
+      }
+    ],
+    "cost": "ORCA LIFT: $1 one ride / $2 all-day / $31 monthly (local); discounted 65+/disabled/Medicare: $1 ride / $2 all-day / $36 regional monthly; youth 18 and under ride FREE",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for ORCA LIFT (≤200% FPL) or a Regional Reduced Fare Permit any time."
+      }
+    ],
+    "description": "Pierce Transit honors ORCA LIFT for low-income riders ($1 rides, $31 monthly local) plus $1 discounted fares for riders 65+, people with disabilities, and Medicare card holders (Regional Reduced Fare Permit), and free rides for youth 18 and under. ADA paratransit SHUTTLE: $1.75 per ride / $63 monthly.",
+    "eligibility": [
+      "ORCA LIFT: household income ≤200% FPL",
+      "RRFP: 65+, disability, or Medicare card",
+      "Youth: 18 and under",
+      "SHUTTLE: ADA paratransit eligibility"
+    ],
+    "id": "pierce-transit-fares",
+    "languages": [
+      "English"
+    ],
+    "name": "Pierce Transit Discounted Fares",
+    "prerequisites": [
+      "Get ORCA LIFT through CHAP/King County (or any regional enrollment office), or a Regional Reduced Fare Permit for senior/disability fares"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Pierce",
+      "state": "WA"
+    },
+    "sources": [
+      "https://piercetransit.org/fares-passes/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "ORCA LIFT card or RRFP when boarding; youth 13+ should tap a Youth ORCA card or show school ID"
+    ]
+  },
+  {
+    "agency": "Tacoma-Pierce County Health Department",
+    "applyLinks": [
+      {
+        "label": "TPCHD Opioid Treatment Services",
+        "url": "https://tpchd.org/health/behavioral/opioid-treatment-services/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Naloxone pickup appointments",
+        "value": "253-649-1406"
+      },
+      {
+        "kind": "phone",
+        "label": "Payment/insurance questions (Ursula Bradford)",
+        "value": "253-649-1626"
+      }
+    ],
+    "cost": "Most insurance including Medicaid accepted; cash/self-pay option — call for details",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Openings for new patients now; new-patient intake Mon–Fri 5–10:30 AM (walk-ins welcome); existing patients Mon–Fri 5–11:30 AM, Sat 5–8:30 AM."
+      }
+    ],
+    "description": "Medications for opioid use disorder (methadone, buprenorphine/Suboxone, injectables) with group and individual counseling at the Pacific Avenue Public Health Clinic — walk-ins welcome, same-day medication goal. Free naloxone (Narcan) kits walk-in Mon–Fri 8–11:30 AM, no ID required. Medicaid, cash, and most insurance accepted.",
+    "eligibility": [
+      "Anyone with opioid use disorder"
+    ],
+    "id": "tacomapierce-health-opioid-treatment",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "TPCHD Opioid Treatment Services",
+    "prerequisites": [
+      "Walk in through the Pacific Avenue Public Health Clinic entrance (lower level) and ask for services; first day takes a couple of hours"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Pierce",
+      "state": "WA"
+    },
+    "sources": [
+      "https://tpchd.org/health/behavioral/opioid-treatment-services/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "No ID required for naloxone; bring insurance card if insured for treatment (Medicaid and most plans accepted)"
+    ]
+  },
+  {
+    "agency": "Pierce County Human Services — Veterans Services",
+    "applyLinks": [
+      {
+        "label": "Pierce County Veterans Services",
+        "url": "https://www.piercecountywa.gov/veterans"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veterans Resource Center (Mon–Fri 8 AM–4:30 PM)",
+        "value": "253-798-7449"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-992-2456"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Assistance is emergency crisis intervention on a need basis, not an ongoing entitlement."
+      }
+    ],
+    "description": "Pierce County Veterans Resource Center (1501 Market Street, Suite 170, Tacoma) administers the state-mandated Veterans Assistance Fund: emergency vouchers for food, rent, utilities, medical, and burial for low-income veterans and families. Also a one-stop shop connecting veterans to benefits, housing, employment, and behavioral health resources. Assistance is vouchers only — no cash.",
+    "eligibility": [
+      "Qualifying discharge per RCW 73.08.005 (DD-214 or certificate of discharge)",
+      "WA resident for 90 days immediately prior to application, resident of Pierce County at application",
+      "ID and dependent documentation",
+      "Income verification (paystubs, Social Security, VA award letters)"
+    ],
+    "id": "piercecounty-veterans-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Pierce County Veterans Services — Emergency Relief",
+    "prerequisites": [
+      "Contact the Veterans Resource Center (Mon–Fri 8 AM–4:30 PM) to start the Emergency Assistance application"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Pierce",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.piercecountywa.gov/veterans"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD-214 (original/certified copy), proof of WA residency, proof of income, ID"
+    ]
+  },
+  {
+    "agency": "A Regional Coalition for Housing (ARCH)",
+    "applyLinks": [
+      {
+        "label": "ARCH — down payment assistance program updates (official board packet)",
+        "url": "https://www.archhousing.org/s/Executive-Board-Agenda-Packet-June-2026-h8ns.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ARCH — A Regional Coalition for Housing",
+        "value": "https://www.archhousing.org"
+      }
+    ],
+    "cost": "Free program; assistance is a deferred-payment second mortgage (amounts per board packet)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Updated program terms (max $65,000 at or below 80% AMI; $40,000 at 80–100% AMI) were moving to final agreement in mid-2026 — check the ARCH site for current status."
+      }
+    ],
+    "description": "Down payment assistance for first-time homebuyers purchasing in ARCH member cities — Bellevue, Kirkland, Redmond, Bothell, Issaquah, Sammamish, and other East King County cities. The House Key Plus ARCH program (with WSHFC and King County) provides a second mortgage for qualified buyers; buyers must complete free homebuyer education and counseling.",
+    "eligibility": [
+      "First-time homebuyer purchasing in an ARCH member city",
+      "Household income within program limits",
+      "Varies — see program page"
+    ],
+    "id": "bellevue-arch-dpa",
+    "languages": [
+      "English"
+    ],
+    "name": "ARCH East King County Down Payment Assistance",
+    "prerequisites": [
+      "Check current program status and income limits with ARCH, complete required homebuyer education and one-on-one counseling"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Bellevue",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.archhousing.org/s/Executive-Board-Agenda-Packet-June-2026-h8ns.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Income documentation, mortgage pre-approval, homebuyer-education certificate"
+    ]
+  },
+  {
+    "agency": "Snohomish County Human Services — Veterans Resources",
+    "applyLinks": [
+      {
+        "label": "WDVA resources — Snohomish County Veterans Resources (official)",
+        "url": "https://dva.wa.gov/resources?resource_type=All&services%5B%5D=487"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Snohomish County Veterans Resources (unverified)",
+        "value": "425-388-7255"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Office hours 8:00–11:00 AM and 1:00–4:00 PM."
+      }
+    ],
+    "description": "Snohomish County's Veterans Assistance program (Snohomish County Campus, 3000 Rockefeller Ave, Lower Level of the Drewel Building, Everett): claims assistance, emergency financial assistance, food assistance, homeless supports, referrals, and utility assistance for veterans and their families.",
+    "eligibility": [
+      "Veterans and dependents in Snohomish County",
+      "Varies — see program page"
+    ],
+    "id": "snohomish-veterans-resources",
+    "languages": [
+      "English"
+    ],
+    "name": "Snohomish County Veterans Resources",
+    "prerequisites": [
+      "Call 425-388-7255 or visit the county campus office during service hours"
+    ],
+    "scope": {
+      "level": "county",
+      "county": "Snohomish",
+      "state": "WA"
+    },
+    "sources": [
+      "https://dva.wa.gov/resources?resource_type=All&services%5B%5D=487"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD-214, photo ID, proof of Snohomish County residency, income documents"
+    ]
+  },
+  {
+    "agency": "Intercity Transit",
+    "applyLinks": [
+      {
+        "label": "Intercity Transit — zero-fare service (official news release)",
+        "url": "https://www.intercitytransit.com/news/intercity-transit-receives-first-prize-national-competition"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intercity Transit customer service (unverified)",
+        "value": "360-786-1881"
+      }
+    ],
+    "cost": "$0 — zero-fare",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Zero-fare demonstration extended; board any bus or Dial-A-Lift vehicle — no pass, ticket, or payment needed."
+      }
+    ],
+    "description": "Intercity Transit (Thurston County's transit agency, serving Olympia, Lacey, Tumwater, and Yelm) operates zero-fare: all bus and Dial-A-Lift service is free — just get on and go, no payment or pass required. ADA Dial-A-Lift door-to-door service for people with disabilities requires an eligibility application and certification.",
+    "eligibility": [
+      "Anyone — no income or residency requirements",
+      "Dial-A-Lift: people with disabilities who cannot use fixed-route buses (application + certification required)"
+    ],
+    "id": "olympia-intercity-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Intercity Transit — Zero-Fare Bus Service",
+    "prerequisites": [
+      "None for fixed routes — just board; Dial-A-Lift requires a completed eligibility application"
+    ],
+    "scope": {
+      "level": "city",
+      "city": "Olympia",
+      "state": "WA"
+    },
+    "sources": [
+      "https://www.intercitytransit.com/news/intercity-transit-receives-first-prize-national-competition"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Nothing for bus service; Dial-A-Lift application documentation as specified on the application"
+    ]
   }
 ]
