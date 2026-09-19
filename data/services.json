@@ -17611,5 +17611,1534 @@
       "English"
     ],
     "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "nc-work-first",
+    "name": "Work First Cash Assistance (TANF)",
+    "agency": "NC Department of Health and Human Services (NCDHHS) — Division of Social Services",
+    "category": "Money & Taxes",
+    "description": "North Carolina's Temporary Assistance for Needy Families (TANF) program. Provides short-term training and services to help parents become employed and move toward self-sufficiency; benefits can continue up to 24 months after entering work components, with a 60-month federal lifetime limit.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Families with children",
+      "Parents must sign a Mutual Responsibility Agreement (MRA)/Outcome Plan",
+      "Work First services available to low-income families with income at or below 200% of the federal poverty level"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS information line",
+        "value": "919-527-6300"
+      },
+      {
+        "kind": "web",
+        "label": "ePASS online application",
+        "value": "https://epass.nc.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ePASS online application",
+        "url": "https://epass.nc.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance"
+    ]
+  },
+  {
+    "id": "nc-fns",
+    "name": "Food and Nutrition Services (FNS) — SNAP Food Benefits",
+    "agency": "NC Department of Health and Human Services (NCDHHS) — Division of Social Services",
+    "category": "Food",
+    "description": "Monthly food assistance on an electronic benefit transfer (EBT) card to help households with limited income and resources buy the food needed for a healthy diet. Administered by county departments of social services.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "FNS information line",
+        "value": "1-866-719-0141"
+      },
+      {
+        "kind": "web",
+        "label": "FNS fact sheet",
+        "value": "https://www.ncdhhs.gov/dhhs-factsheet-dss-snap/open"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ePASS online application",
+        "url": "https://epass.nc.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/dhhs-factsheet-dss-snap/open"
+    ]
+  },
+  {
+    "id": "nc-medicaid",
+    "name": "NC Medicaid (including Medicaid Expansion)",
+    "agency": "NC Department of Health and Human Services — Division of Health Benefits",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible North Carolinians. Under Medicaid expansion, residents ages 19-64 with income under 138% of the federal poverty level can receive full health coverage. Apply online through ePASS or HealthCare.gov, or in person, by mail, or by phone at your local Department of Social Services.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "North Carolina resident",
+      "Ages 19-64",
+      "U.S. citizen or qualified non-citizen with eligible immigration status",
+      "Household income under 138% of the federal poverty level"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS information line",
+        "value": "919-527-6300"
+      },
+      {
+        "kind": "web",
+        "label": "ePASS online application",
+        "value": "https://epass.nc.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ePASS online application",
+        "url": "https://epass.nc.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://medicaid.ncdhhs.gov/nc-medicaid-expansion-newsletter-template/download?attachment"
+    ]
+  },
+  {
+    "id": "nc-wic",
+    "name": "WIC Nutrition Program",
+    "agency": "NC Department of Health and Human Services — Division of Child and Family Well-Being",
+    "category": "Food",
+    "description": "Provides nutritious foods, nutrition education, breastfeeding support, and referrals for pregnant women, new moms, infants, and children under 5. A WIC nutritionist assesses nutritional risk and issues a food package. Local agencies must respond to referrals within 20 business days.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Pregnant women, new moms (up to 6 months after delivery, or 1 year if breastfeeding), infants, and children up to age 5",
+      "Live in North Carolina",
+      "Household income at or below 185% of the federal poverty guidelines",
+      "Nutritional-risk assessment by a WIC nutritionist"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Documents needed to determine eligibility — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC Family Help Line",
+        "value": "1-844-601-6881"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for WIC",
+        "value": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/apply-wic"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for WIC",
+        "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/apply-wic"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/apply-wic"
+    ]
+  },
+  {
+    "id": "nc-unemployment",
+    "name": "Unemployment Insurance (DES)",
+    "agency": "NC Division of Employment Security (DES)",
+    "category": "Employment",
+    "description": "Weekly benefit payments to workers who lose their job through no fault of their own. Claimants must file weekly certifications, register with NCWorks, and complete the required number of job searches each week.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Lost job through no fault of your own",
+      "Meet state wage requirements",
+      "Registered with NCWorks and completing weekly job searches"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss — see program page"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DES customer service",
+        "value": "888-737-0259"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance FAQs",
+        "value": "https://www.des.nc.gov/need-help/faqs/ui"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance FAQs",
+        "url": "https://www.des.nc.gov/need-help/faqs/ui"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.des.nc.gov/need-help/faqs/ui"
+    ]
+  },
+  {
+    "id": "nc-child-support",
+    "name": "NC Child Support Services",
+    "agency": "NC Department of Health and Human Services — Division of Social Services",
+    "category": "Legal Aid",
+    "description": "Helps parents establish paternity, establish and enforce child support orders, and modify orders. The online application is open to custodial and non-custodial parents, custodial persons, and agencies; applications must be submitted within 10 business days of starting.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Custodial or non-custodial parents, custodial persons, or agencies"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Application window",
+        "note": "Must be submitted within 10 business days after starting the application"
+      }
+    ],
+    "prerequisites": [
+      "Create an NCID Individual account"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child support customer service",
+        "value": "800-992-9457"
+      },
+      {
+        "kind": "web",
+        "label": "NC Child Support online application",
+        "value": "https://ncchildsupport.ncdhhs.gov/ecoa/caseApplicationInfo/1.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NC Child Support online application",
+        "url": "https://ncchildsupport.ncdhhs.gov/ecoa/caseApplicationInfo/1.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 nonrefundable application fee; a reduced fee may apply for some applicants — see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://ncchildsupport.ncdhhs.gov/ecoa/caseApplicationInfo/1.htm"
+    ]
+  },
+  {
+    "id": "nc-lieap",
+    "name": "Energy Assistance (LIEAP / CIP)",
+    "agency": "NC Department of Health and Human Services — Division of Social Services",
+    "category": "Utilities",
+    "description": "NC's LIHEAP includes the Low Income Energy Assistance Program (LIEAP), a one-time vendor payment to help eligible households with heating bills during the heating season, and the Crisis Intervention Program (CIP) for households facing a heating or cooling crisis. Applications are handled by county DSS offices.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Low-income households — see program page for current limits"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "LIEAP heating season opens",
+        "note": "Heating component runs December 1, 2026 – March 31, 2027"
+      },
+      {
+        "date": "2027-03-31",
+        "label": "LIEAP heating season ends",
+        "note": "Crisis Intervention Program assistance is year-round"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS energy assistance line",
+        "value": "919-527-6300"
+      },
+      {
+        "kind": "web",
+        "label": "NC LIHEAP 2026-27 model plan",
+        "value": "https://www.ncdhhs.gov/efs-fnsep-12-2026a2/open"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NC LIHEAP 2026-27 model plan",
+        "url": "https://www.ncdhhs.gov/efs-fnsep-12-2026a2/open"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/efs-fnsep-12-2026a2/open",
+      "https://www.ncdhhs.gov/divisions/social-services/about-dss/dss-contact-information"
+    ]
+  },
+  {
+    "id": "nc-nchfa",
+    "name": "NC Home Advantage Mortgage & Down Payment Assistance",
+    "agency": "NC Housing Finance Agency (NCHFA)",
+    "category": "Housing",
+    "description": "Helps North Carolinians buy their first home through the NC Home Advantage Mortgage, the NC 1st Home Advantage Down Payment, and the Community Partners Loan Pool. Borrowers must finance through a participating lender.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Home buyers purchasing in North Carolina",
+      "See program page for income and eligibility details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Finance your mortgage through a participating NCHFA lender"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NCHFA home buyers",
+        "value": "https://www.nchfa.com/home-buyers"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NCHFA home buyer programs",
+        "url": "https://www.nchfa.com/home-buyers"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by program; see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.nchfa.com/home-buyers"
+    ]
+  },
+  {
+    "id": "nc-legal-aid",
+    "name": "Legal Aid of North Carolina",
+    "agency": "Legal Aid of North Carolina",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income residents statewide, including housing, family, consumer, and benefits matters. Apply through the JusticeHub online intake or call a specialized helpline (senior legal, navigator, fair housing, immigrant-victim intake).",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Low-income North Carolina residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Navigator helpline",
+        "value": "855-733-3711"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online (JusticeHub)",
+        "value": "http://legalaidnc.org/apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Legal Aid NC",
+        "url": "http://legalaidnc.org/apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://legalaidnc.org/apply/"
+    ]
+  },
+  {
+    "id": "nc-real-id",
+    "name": "NC REAL ID Driver License & ID Card",
+    "agency": "NC Division of Motor Vehicles (NCDMV)",
+    "category": "Transportation",
+    "description": "A NC REAL ID meets federal identification requirements for boarding domestic flights and entering federal facilities. Starting the federal enforcement date, a REAL ID, valid passport, or other approved document is required for domestic air travel. Apply in person at an NCDMV driver license office.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "North Carolina residents",
+      "Meet federal identity requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Gather required identity and residency documents before visiting"
+    ],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and NC residency — see program page for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NC REAL ID information",
+        "value": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NC REAL ID information",
+        "url": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by credential; see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx"
+    ]
+  },
+  {
+    "id": "nc-vrb-blind",
+    "name": "Vocational Rehabilitation for the Blind",
+    "agency": "NC Department of Health and Human Services — Division of Services for the Blind",
+    "category": "Disability",
+    "description": "Helps people with vision loss prepare for, find, and keep a job. Services can include counseling, training, job placement assistance, and other supports tailored to employment goals.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "North Carolina residents with vision loss",
+      "Need services to prepare for, obtain, or retain employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vocational Rehabilitation for the Blind",
+        "value": "https://www.ncdhhs.gov/divisions/services-blind/vision-loss/vocational-rehabilitation-blind"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation for the Blind",
+        "url": "https://www.ncdhhs.gov/divisions/services-blind/vision-loss/vocational-rehabilitation-blind"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/divisions/services-blind/vision-loss/vocational-rehabilitation-blind"
+    ]
+  },
+  {
+    "id": "nc-dmva",
+    "name": "NC Military & Veterans Affairs Benefits",
+    "agency": "NC Department of Military & Veterans Affairs (NC DMVA)",
+    "category": "Veterans",
+    "description": "Connects veterans and their families with state benefits including State Veterans Homes (skilled nursing for qualified veterans), NC Veterans Cemeteries, a property tax exclusion of up to $45,000 for disabled veterans, education benefits, and employment services.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Veterans, service members, and their families",
+      "Specific eligibility varies by benefit — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NC DMVA services",
+        "value": "https://www.milvets.nc.gov/services"
+      },
+      {
+        "kind": "web",
+        "label": "Wake County state benefits information",
+        "value": "https://www.wake.gov/departments-government/veterans-services/state-benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NC DMVA services",
+        "url": "https://www.milvets.nc.gov/services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.milvets.nc.gov/services",
+      "https://www.wake.gov/departments-government/veterans-services/state-benefits"
+    ]
+  },
+  {
+    "id": "nc-dss-directory",
+    "name": "NC DSS Benefits Contact Directory",
+    "agency": "NC Department of Health and Human Services — Division of Social Services",
+    "category": "Family & Childcare",
+    "description": "Official directory of phone numbers for benefits administered statewide by the Division of Social Services, including Food and Nutrition Services, energy/crisis assistance, Work First, refugee assistance, child support, and foster youth independent living.",
+    "scope": {
+      "level": "state",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Varies by program — contact the relevant line for eligibility information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies by program — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Energy/CIP/Work First/refugee assistance",
+        "value": "919-527-6300"
+      },
+      {
+        "kind": "phone",
+        "label": "Food and Nutrition Services",
+        "value": "1-866-719-0141"
+      },
+      {
+        "kind": "phone",
+        "label": "Child support",
+        "value": "919-855-4755"
+      },
+      {
+        "kind": "phone",
+        "label": "Foster youth independent living",
+        "value": "919-527-6351"
+      },
+      {
+        "kind": "web",
+        "label": "NC DSS contact information",
+        "value": "https://www.ncdhhs.gov/divisions/social-services/about-dss/dss-contact-information"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NC DSS contact information",
+        "url": "https://www.ncdhhs.gov/divisions/social-services/about-dss/dss-contact-information"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ncdhhs.gov/divisions/social-services/about-dss/dss-contact-information"
+    ]
+  },
+  {
+    "id": "charlotte-cats",
+    "name": "Charlotte Area Transit System (CATS)",
+    "agency": "Charlotte Area Transit System (CATS)",
+    "category": "Transportation",
+    "description": "Operates bus, light rail, and disability transportation services across the Charlotte region. The CATS website provides schedules, fares, rider information, and services for riders with disabilities.",
+    "scope": {
+      "level": "city",
+      "city": "Charlotte",
+      "county": "Mecklenburg",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Reduced fares available for eligible groups — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CATS transit information",
+        "value": "https://www.charlottenc.gov/CATS/Home?intent=info&agency_id=CATS"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CATS transit information",
+        "url": "https://www.charlottenc.gov/CATS/Home?intent=info&agency_id=CATS"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — vary by service; see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.charlottenc.gov/CATS/Home?intent=info&agency_id=CATS"
+    ]
+  },
+  {
+    "id": "charlotte-311",
+    "name": "CharMeck 311",
+    "agency": "City of Charlotte / Mecklenburg County",
+    "category": "Family & Childcare",
+    "description": "Central point of contact for City of Charlotte and Mecklenburg County services. Dial 311 (or 704-336-7600 from outside the area), use the CLT+ app, or submit a request online to request services, report issues, and get information about city and county programs.",
+    "scope": {
+      "level": "city",
+      "city": "Charlotte",
+      "county": "Mecklenburg",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all Charlotte and Mecklenburg County residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies by request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CharMeck 311 (dial 311 in the area)",
+        "value": "704-336-7600"
+      },
+      {
+        "kind": "web",
+        "label": "CharMeck 311",
+        "value": "https://www.charlottenc.gov/Help311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CharMeck 311",
+        "url": "https://www.charlottenc.gov/Help311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.charlottenc.gov/Help311"
+    ]
+  },
+  {
+    "id": "charlotte-cmlibrary",
+    "name": "Charlotte Mecklenburg Library",
+    "agency": "Charlotte Mecklenburg Library",
+    "category": "Education",
+    "description": "Free library cards for local residents for borrowing books and digital materials, plus access to programs and services. Local adults need photo ID and proof of residency or property ownership; phone support is available.",
+    "scope": {
+      "level": "county",
+      "county": "Mecklenburg",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Local residents with photo ID and proof of residency or property ownership",
+      "Nonresident rules and fees — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of residency or property ownership"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library support",
+        "value": "704-416-0101"
+      },
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "https://www.cmlibrary.org/get-a-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://www.cmlibrary.org/get-a-card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for local residents; nonresident fees may apply — see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.cmlibrary.org/get-a-card"
+    ]
+  },
+  {
+    "id": "raleigh-goraleigh",
+    "name": "GoRaleigh Transit",
+    "agency": "City of Raleigh",
+    "category": "Transportation",
+    "description": "Raleigh's transit service, with bus routes, park-and-ride lots, the GoPass, and connections to regional and intercity transportation. The Commute Smart Raleigh program helps residents find commuting options.",
+    "scope": {
+      "level": "city",
+      "city": "Raleigh",
+      "county": "Wake",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Commute Smart Raleigh",
+        "value": "https://raleighnc.gov/transportation/services/commute-smart-raleigh"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Commute Smart Raleigh",
+        "url": "https://raleighnc.gov/transportation/services/commute-smart-raleigh"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://raleighnc.gov/transportation/services/commute-smart-raleigh"
+    ]
+  },
+  {
+    "id": "raleigh-ebike",
+    "name": "Raleigh E-Bike Rebate Program",
+    "agency": "City of Raleigh",
+    "category": "Transportation",
+    "description": "Point-of-sale vouchers toward the purchase of an e-bike at participating local bike shops, to reduce emissions and expand transportation access. A $500 standard voucher is available to all eligible Raleigh residents; a $1,500 income-qualified voucher is available to households at or below 80% of area median income. Recipients are selected by lottery and redeem in person at a participating shop. City employees are not eligible.",
+    "scope": {
+      "level": "city",
+      "city": "Raleigh",
+      "county": "Wake",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Permanent resident of the City of Raleigh municipal limits",
+      "18 years or older at time of application",
+      "Income-qualified $1,500 voucher: household income at or below 80% of area median income",
+      "City of Raleigh employees not eligible"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-05-01",
+        "label": "Most recent application round opened",
+        "note": "Round opened May 1, 2026"
+      },
+      {
+        "date": "2026-05-15",
+        "label": "Most recent application round closed",
+        "note": "Closed May 15, 2026 at 11:59 PM; previous winners not eligible for future rounds — check program page for new rounds"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Proof of Raleigh residency",
+      "Proof of income for the income-qualified voucher"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Raleigh E-Bike Program",
+        "value": "https://raleighnc.gov/climate-action-and-sustainability/services/e-bike-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Raleigh E-Bike Program",
+        "url": "https://raleighnc.gov/climate-action-and-sustainability/services/e-bike-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://raleighnc.gov/climate-action-and-sustainability/services/e-bike-program"
+    ]
+  },
+  {
+    "id": "wake-ncworks",
+    "name": "NCWorks Career Center — Wake County",
+    "agency": "Wake County NCWorks Career Center",
+    "category": "Employment",
+    "description": "No-cost job-search tools, skills assessments, resume and interview assistance, and training through the Workforce Innovation and Opportunity Act (WIOA). The Raleigh center is reachable at 919-250-3770, with additional regional locations.",
+    "scope": {
+      "level": "county",
+      "county": "Wake",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all job seekers",
+      "WIOA training programs may have additional eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Raleigh NCWorks Career Center",
+        "value": "919-250-3770"
+      },
+      {
+        "kind": "web",
+        "label": "Wake County NCWorks Career Center",
+        "value": "http://wake.gov/departments-government/health-human-services/programs-assistance/employment-assistance/ncworks-career-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wake County NCWorks Career Center",
+        "url": "http://wake.gov/departments-government/health-human-services/programs-assistance/employment-assistance/ncworks-career-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://wake.gov/departments-government/health-human-services/programs-assistance/employment-assistance/ncworks-career-center"
+    ]
+  },
+  {
+    "id": "wake-fns",
+    "name": "Food and Nutrition Services — Wake County",
+    "agency": "Wake County Health & Human Services",
+    "category": "Food",
+    "description": "Wake County administers Food and Nutrition Services (SNAP) for county residents. Apply online through ePASS, by paper application, or by mail, fax, email, or in person at county drop-off sites.",
+    "scope": {
+      "level": "county",
+      "county": "Wake",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Wake County residents",
+      "Meet SNAP income and resource requirements — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to apply for Wake County FNS",
+        "value": "https://www.wake.gov/departments-government/health-human-services/programs-assistance/food-and-nutrition-services/how-apply-food-and-nutrition-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for Wake County FNS",
+        "url": "https://www.wake.gov/departments-government/health-human-services/programs-assistance/food-and-nutrition-services/how-apply-food-and-nutrition-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.wake.gov/departments-government/health-human-services/programs-assistance/food-and-nutrition-services/how-apply-food-and-nutrition-services"
+    ]
+  },
+  {
+    "id": "wake-veterans",
+    "name": "Veterans Services — Wake County",
+    "agency": "Wake County Veterans Services",
+    "category": "Veterans",
+    "description": "Helps veterans enroll in VA health care at the Durham VA Health Care System (enroll online, by phone at 919-286-0411, or in person at 508 Fulton St., Durham) and apply for NC DMVA state benefits including State Veterans Homes, cemetery burial, and education benefits.",
+    "scope": {
+      "level": "county",
+      "county": "Wake",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Veterans eligible for VA health care",
+      "NC DMVA state benefits have program-specific eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "VA Form 10-10EZ for VA health care enrollment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Durham VA enrollment",
+        "value": "919-286-0411"
+      },
+      {
+        "kind": "web",
+        "label": "Wake County VA health care information",
+        "value": "https://www.wake.gov/departments-government/veterans-services/va-health-care"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wake County VA health care information",
+        "url": "https://www.wake.gov/departments-government/veterans-services/va-health-care"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.wake.gov/departments-government/veterans-services/va-health-care",
+      "https://www.wake.gov/departments-government/veterans-services/state-benefits"
+    ]
+  },
+  {
+    "id": "greensboro-gta",
+    "name": "Greensboro Transit Agency (GTA)",
+    "agency": "Greensboro Transit Agency",
+    "category": "Transportation",
+    "description": "Fixed-route bus service across Greensboro. The GTA rider page covers how to ride and schedules, with a $1.50 fare; customer service is available at 336-335-6499.",
+    "scope": {
+      "level": "city",
+      "city": "Greensboro",
+      "county": "Guilford",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all riders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GTA customer service",
+        "value": "336-335-6499"
+      },
+      {
+        "kind": "web",
+        "label": "How to ride GTA",
+        "value": "https://www.greensboro-nc.gov/departments/transit/for-our-riders/how-to-ride-gta"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to ride GTA",
+        "url": "https://www.greensboro-nc.gov/departments/transit/for-our-riders/how-to-ride-gta"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1.50 fare — see program page for passes and discounts",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.greensboro-nc.gov/departments/transit/for-our-riders/how-to-ride-gta"
+    ]
+  },
+  {
+    "id": "durham-godurham",
+    "name": "GoDurham Transit",
+    "agency": "City of Durham",
+    "category": "Transportation",
+    "description": "The City of Durham's transit service, including fixed-route buses and ACCESS paratransit. Call 919-485-7433 for GoDurham and ACCESS service information.",
+    "scope": {
+      "level": "city",
+      "city": "Durham",
+      "county": "Durham",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "ACCESS paratransit requires eligibility determination"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GoDurham/ACCESS information",
+        "value": "919-485-7433"
+      },
+      {
+        "kind": "web",
+        "label": "City of Durham transit information",
+        "value": "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Durham transit information",
+        "url": "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+    ]
+  },
+  {
+    "id": "durham-onecall",
+    "name": "Durham One Call",
+    "agency": "City of Durham",
+    "category": "Family & Childcare",
+    "description": "The City of Durham's central service line for non-emergency requests, questions, and service information. Reach it online, through the mobile app, or by calling 919-560-1200.",
+    "scope": {
+      "level": "city",
+      "city": "Durham",
+      "county": "Durham",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all City of Durham residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies by request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Durham One Call",
+        "value": "919-560-1200"
+      },
+      {
+        "kind": "web",
+        "label": "City of Durham service information",
+        "value": "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Durham service information",
+        "url": "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://www.durhamnc.gov/m/newsflash/Home/Detail/4255"
+    ]
+  },
+  {
+    "id": "durham-library",
+    "name": "Durham County Library",
+    "agency": "Durham County Library",
+    "category": "Education",
+    "description": "Physical and digital lending, account services, and programs. The library is fine-free, and account or renewal support is available at 919-680-2524.",
+    "scope": {
+      "level": "county",
+      "county": "Durham",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to residents — see the borrowing and accounts page for eligibility details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Account and renewal support",
+        "value": "919-680-2524"
+      },
+      {
+        "kind": "web",
+        "label": "Borrowing and accounts",
+        "value": "https://durhamcountylibrary.org/borrowing-and-accounts/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Durham County Library borrowing and accounts",
+        "url": "https://durhamcountylibrary.org/borrowing-and-accounts/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://durhamcountylibrary.org/borrowing-and-accounts/"
+    ]
+  },
+  {
+    "id": "winstonsalem-wsta",
+    "name": "Winston-Salem Transit Authority (WSTA)",
+    "agency": "Winston-Salem Transit Authority",
+    "category": "Transportation",
+    "description": "Fixed-route bus service in Winston-Salem. The WSTA FAQ covers current fares, half-fare rules for seniors, people with disabilities, and Medicare card holders, with a contact at 336-727-2000 for reduced-fare applications.",
+    "scope": {
+      "level": "city",
+      "city": "Winston-Salem",
+      "county": "Forsyth",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Seniors, people with disabilities, and Medicare card holders may qualify for half fares"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WSTA",
+        "value": "336-727-2000"
+      },
+      {
+        "kind": "web",
+        "label": "WSTA FAQ",
+        "value": "https://www.wstransit.com/faq"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WSTA FAQ",
+        "url": "https://www.wstransit.com/faq"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see program page",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.wstransit.com/faq"
+    ]
+  },
+  {
+    "id": "forsyth-ncworks",
+    "name": "NCWorks Career Center — Forsyth County",
+    "agency": "Piedmont Triad Regional Council (PTRC)",
+    "category": "Employment",
+    "description": "No-cost workforce services including job-search tools, skills assessments, resume and interview assistance, and training. The Forsyth County center is at 2701 University Parkway, Winston-Salem (336-464-0520), with additional locations at Forsyth Tech sites.",
+    "scope": {
+      "level": "county",
+      "county": "Forsyth",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Open to all job seekers",
+      "Training programs may have additional eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Forsyth County NCWorks Career Center",
+        "value": "336-464-0520"
+      },
+      {
+        "kind": "web",
+        "label": "NCWorks Career Centers — Forsyth County",
+        "value": "https://www.ptrc.org/services/workforce-development/career-seeker-services/ncworks-career-centers-local-area-locations/-sortn-FCPhone/-sortd-asc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NCWorks Career Centers — Forsyth County",
+        "url": "https://www.ptrc.org/services/workforce-development/career-seeker-services/ncworks-career-centers-local-area-locations/-sortn-FCPhone/-sortd-asc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ptrc.org/services/workforce-development/career-seeker-services/ncworks-career-centers-local-area-locations/-sortn-FCPhone/-sortd-asc"
+    ]
+  },
+  {
+    "id": "fed-va-durham",
+    "name": "VA Health Care — Durham VA Health Care System",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Healthcare",
+    "description": "Health care for enrolled veterans through the Durham VA Health Care System. Apply online, by phone, by mail, or in person; the standard enrollment form is VA Form 10-10EZ. Wake County Veterans Services can help with enrollment at 919-286-0411.",
+    "scope": {
+      "level": "federal",
+      "city": "Durham",
+      "county": "Durham",
+      "state": "NC"
+    },
+    "eligibility": [
+      "Veterans meeting VA health care eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "VA Form 10-10EZ"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Durham VA enrollment",
+        "value": "919-286-0411"
+      },
+      {
+        "kind": "web",
+        "label": "Register for Durham VA care",
+        "value": "https://www.va.gov/durham-health-care/register-for-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register for Durham VA care",
+        "url": "https://www.va.gov/durham-health-care/register-for-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.va.gov/durham-health-care/register-for-care/",
+      "https://www.wake.gov/departments-government/veterans-services/va-health-care"
+    ]
   }
 ]
