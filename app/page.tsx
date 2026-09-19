@@ -132,6 +132,7 @@ const ROADMAP = [
   { label: "U.S. Virgin Islands", status: "live", note: "47 services indexed" },
   { label: "Northern Mariana Islands", status: "live", note: "20 services indexed" },
   { label: "Delaware", status: "live", note: "42 services indexed" },
+  { label: "American Samoa", status: "live", note: "18 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 

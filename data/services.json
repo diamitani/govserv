@@ -104512,5 +104512,553 @@
       "https://www.kentcountyde.gov/files/sharedassets/public/v/1/website-pdfs_web/admin/kent-co-winter-2024-25-web-1.pdf",
       "https://www.kentcountyde.gov/files/sharedassets/public/v/2/content-publishers/finance_tax/finance-pdf/elderly-disability-exemption.pdf"
     ]
+  },
+  {
+    "agency": "American Samoa Department of Human & Social Services (DHSS)",
+    "applyLinks": [
+      {
+        "label": "USDA — American Samoa NAP summary (how to apply)",
+        "url": "https://fns-prod.azureedge.us/nap/american-samoa-summary"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USDA — American Samoa NAP summary",
+        "value": "https://fns-prod.azureedge.us/nap/american-samoa-summary"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time — see program page"
+      }
+    ],
+    "description": "American Samoa's federally funded nutrition assistance program (a separate program from SNAP). Provides nutrition assistance to eligible low-income residents; administered by the territorial Department of Human & Social Services.",
+    "eligibility": [
+      "Low-income people who are elderly (over 60), blind, or disabled — see program page"
+    ],
+    "id": "as-nap",
+    "languages": [
+      "English"
+    ],
+    "name": "Nutrition Assistance Program (NAP)",
+    "prerequisites": [
+      "Contact DHSS to confirm application requirements — see program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://fns-prod.azureedge.us/nap/american-samoa-summary"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Government — Territorial Energy Office",
+    "applyLinks": [
+      {
+        "label": "ACF — American Samoa LIHEAP contact listing",
+        "url": "https://acf.gov/ocs/map/liheap-map-state-and-territory-contact-listing"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Territorial Energy Office (LIHEAP)",
+        "value": "(684) 699-1101"
+      },
+      {
+        "kind": "email",
+        "label": "LIHEAP manager",
+        "value": "malelega684@gmail.com"
+      },
+      {
+        "kind": "in-person",
+        "label": "Territorial Energy Office",
+        "value": "Samoa Energy House, Tafuna, American Samoa 96799"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Year-round",
+        "note": "Cooling and crisis assistance applications accepted year-round"
+      }
+    ],
+    "description": "Federally funded home energy assistance administered by the Territorial Energy Office in Tafuna. Because American Samoa is tropical, no heating assistance is provided; cooling and crisis assistance are available year-round.",
+    "eligibility": [
+      "Low-income households in American Samoa — see program office for income criteria"
+    ],
+    "id": "as-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "LIHEAP — Low Income Home Energy Assistance Program",
+    "prerequisites": [
+      "Contact the Territorial Energy Office to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://acf.gov/ocs/map/liheap-map-state-and-territory-contact-listing"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Medicaid State Agency (ASMSA)",
+    "applyLinks": [
+      {
+        "label": "American Samoa Medicaid State Agency (ASMSA)",
+        "url": "https://www.asmsa.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ASMSA (unverified)",
+        "value": "(684) 699-4777 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "ASMSA website",
+        "value": "https://www.asmsa.gov/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact ASMSA for how residents access covered care — see agency site"
+      }
+    ],
+    "description": "Territorial Medicaid program administered by ASMSA. American Samoa does not operate a standard Medicaid application and enrollment process; federal Medicaid funds support care delivered through territorial providers. Contact ASMSA for how residents access covered care.",
+    "eligibility": [
+      "Varies — contact ASMSA to ask how to access covered care"
+    ],
+    "id": "as-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "Medicaid — American Samoa",
+    "prerequisites": [
+      "Contact ASMSA to ask how to access covered care"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.asmsa.gov/",
+      "https://www.medicaid.gov/medicaid/spa/downloads/AS-22-0001.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Government — Tax Office",
+    "applyLinks": [
+      {
+        "label": "American Samoa Tax Office",
+        "url": "https://www.americansamoa.gov/tax-office"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tax Office",
+        "value": "(684) 633-4181"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Filing-season dates vary year to year — see the Tax Office page"
+      }
+    ],
+    "description": "American Samoa operates its own territory individual income-tax system (Form 390). The Tax Office provides forms and filing information for territorial income taxes.",
+    "eligibility": [
+      "Individuals required to file American Samoa territory income taxes — see Tax Office page"
+    ],
+    "id": "as-tax-office",
+    "languages": [
+      "English"
+    ],
+    "name": "Territory Individual Income Tax Filing (Form 390)",
+    "prerequisites": [
+      "See the Tax Office page for current-year forms and instructions"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.americansamoa.gov/tax-office"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Department of Human & Social Services (DHSS)",
+    "applyLinks": [
+      {
+        "label": "DHSS — Childcare office contact",
+        "url": "http://dhss.as/contact_childcare.html"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS childcare office",
+        "value": "(684) 633-1571"
+      },
+      {
+        "kind": "phone",
+        "label": "DHSS childcare office",
+        "value": "(684) 633-1572"
+      },
+      {
+        "kind": "phone",
+        "label": "DHSS childcare office",
+        "value": "(684) 633-1573"
+      },
+      {
+        "kind": "email",
+        "label": "DHSS childcare office",
+        "value": "childcare@dhss.as"
+      },
+      {
+        "kind": "in-person",
+        "label": "DHSS childcare office",
+        "value": "Fagatogo Square / Centennial Office Building, Utulei"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the DHSS childcare office for enrollment timing"
+      }
+    ],
+    "description": "The DHSS childcare office administers territorial childcare programs. Contact the office for program availability and enrollment details.",
+    "eligibility": [
+      "Varies — contact the DHSS childcare office"
+    ],
+    "id": "as-childcare",
+    "languages": [
+      "English"
+    ],
+    "name": "Childcare Programs — DHSS",
+    "prerequisites": [
+      "Contact the DHSS childcare office for enrollment requirements"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "http://dhss.as/contact_childcare.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Small Business Development Center",
+    "applyLinks": [
+      {
+        "label": "AS-SBDC",
+        "url": "https://as-sbdc.com/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "AS-SBDC (unverified)",
+        "value": "(684) 256-7232 (unverified)"
+      },
+      {
+        "kind": "phone",
+        "label": "AS-SBDC (unverified)",
+        "value": "(684) 699-2929 (unverified)"
+      },
+      {
+        "kind": "email",
+        "label": "AS-SBDC (unverified)",
+        "value": "info@assbdc.net (unverified)"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact AS-SBDC to schedule advising"
+      }
+    ],
+    "description": "Confidential, no-cost technical assistance and advising for existing and aspiring business owners in American Samoa.",
+    "eligibility": [
+      "Existing and aspiring business owners in American Samoa"
+    ],
+    "id": "as-sbdc",
+    "languages": [
+      "English"
+    ],
+    "name": "Small Business Development Center (AS-SBDC)",
+    "prerequisites": [
+      "Contact AS-SBDC to schedule advising"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://as-sbdc.com/",
+      "https://as-sbdc.com/wp-content/uploads/2026/01/2024-2025-Annual-Report-AS-SBDC.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Department of Commerce",
+    "applyLinks": [
+      {
+        "label": "Department of Commerce — SSBCI information (PDF)",
+        "url": "https://www.doc.as.gov/_files/ugd/614e4b_dbbd715c568849548dbfe094dde7b1d6.pdf"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department of Commerce (unverified)",
+        "value": "684-633-5255 ext. 1118 (unverified)"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the Department of Commerce — see program page"
+      }
+    ],
+    "description": "Federally backed SSBCI program supporting access to bank financing for American Samoa small businesses. SSBCI supports lending and investment — it is not a grant program.",
+    "eligibility": [
+      "American Samoa small businesses seeking financing — see program page"
+    ],
+    "id": "as-ssbci",
+    "languages": [
+      "English"
+    ],
+    "name": "State Small Business Credit Initiative (SSBCI)",
+    "prerequisites": [
+      "Contact the Department of Commerce — see program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.doc.as.gov/_files/ugd/614e4b_dbbd715c568849548dbfe094dde7b1d6.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "American Samoa Community College — Financial Aid Office",
+    "applyLinks": [
+      {
+        "label": "ASCC — Financial Aid Handbook (PDF)",
+        "url": "https://www.amsamoa.edu/files/2024/10.October/2024-25%20ASCC%20FINANCIAL%20AID%20HANDBOOK%20as%20of%2009302024-1.pdf"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ASCC Financial Aid Office (unverified)",
+        "value": "(684) 699-2722 ext. 2208 (unverified)"
+      },
+      {
+        "kind": "email",
+        "label": "ASCC Financial Aid Office (unverified)",
+        "value": "faid@amsamoa.edu (unverified)"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "Complete a FAFSA every year of enrollment — see the financial aid handbook"
+      }
+    ],
+    "description": "American Samoa Community College participates in federal student aid programs, including federal grants and federal work-study. FAFSA school code: 010010.",
+    "eligibility": [
+      "ASCC students seeking federal student aid — see the financial aid handbook"
+    ],
+    "id": "as-ascc-financial-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "ASCC Financial Aid",
+    "prerequisites": [
+      "Complete the FAFSA with ASCC school code 010010"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.amsamoa.edu/files/2024/10.October/2024-25%20ASCC%20FINANCIAL%20AID%20HANDBOOK%20as%20of%2009302024-1.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see the financial aid handbook"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs — VA Pacific Islands Health Care System",
+    "applyLinks": [
+      {
+        "label": "VA — Faleomavaega Eni Faauaa Hunkin VA Clinic (Pago Pago)",
+        "url": "https://www.va.gov/pacific-islands-health-care/locations/faleomavaega-eni-faauaa-hunkin-va-clinic/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pago Pago VA clinic",
+        "value": "800-214-1306"
+      },
+      {
+        "kind": "phone",
+        "label": "VA Health Connect (option 3)",
+        "value": "833-983-0487"
+      },
+      {
+        "kind": "in-person",
+        "label": "Pago Pago VA clinic",
+        "value": "Fiatele Teo Army Reserve Building, Pago Pago, AS 96799"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments — see VA page"
+      }
+    ],
+    "description": "VA outpatient clinic in Pago Pago offering primary care, laboratory/pathology, geriatrics, telehealth, women's Veterans' care, an advice nurse, and beneficiary travel services for enrolled Veterans.",
+    "eligibility": [
+      "Veterans enrolled in VA health care"
+    ],
+    "id": "pagopago-va-clinic",
+    "languages": [
+      "English"
+    ],
+    "name": "Pago Pago VA Clinic (Faleomavaega Eni Faauaa Hunkin VA Clinic)",
+    "prerequisites": [
+      "Enroll in VA health care — see va.gov/health-care/how-to-apply/"
+    ],
+    "scope": {
+      "city": "Pago Pago",
+      "level": "city",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.va.gov/pacific-islands-health-care/locations/faleomavaega-eni-faauaa-hunkin-va-clinic/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs — Vet Center Program",
+    "applyLinks": [
+      {
+        "label": "VA — American Samoa Vet Center",
+        "url": "https://www.va.gov/american-samoa-vet-center/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vet Center after-hours (unverified)",
+        "value": "877-927-8387 (unverified)"
+      },
+      {
+        "kind": "in-person",
+        "label": "American Samoa Vet Center",
+        "value": "Ottoville Road, Equator Building, Pago Pago"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule — see VA page"
+      }
+    ],
+    "description": "Community-based Vet Center in Pago Pago providing confidential readjustment counseling for Veterans, service members, and their families.",
+    "eligibility": [
+      "Veterans, service members, and their families — see VA"
+    ],
+    "id": "fed-va-vet-center-as",
+    "languages": [
+      "English"
+    ],
+    "name": "American Samoa Vet Center — Readjustment Counseling",
+    "prerequisites": [
+      "Call to schedule — see VA page"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AS"
+    },
+    "sources": [
+      "https://www.va.gov/american-samoa-vet-center/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
   }
 ]
