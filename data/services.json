@@ -21550,5 +21550,2031 @@
     "sources": [
       "https://www.gstmiworks.org/"
     ]
+  },
+  {
+    "id": "nj-snap",
+    "name": "NJ SNAP — Food Benefits",
+    "agency": "NJ Department of Human Services",
+    "category": "Food",
+    "description": "Monthly food benefits loaded onto a Families First EBT card for eligible low-income New Jersey households to buy groceries. The state program page covers eligibility, how to apply, and county welfare offices.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Low-income New Jersey household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — apply online, by mail, or in person at a county welfare agency"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP hotline",
+        "value": "1-800-687-9512"
+      },
+      {
+        "kind": "web",
+        "label": "NJ SNAP program page",
+        "value": "https://www.nj.gov/humanservices/njsnap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ SNAP program information",
+        "url": "https://www.nj.gov/humanservices/njsnap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/humanservices/njsnap/",
+      "https://www.nj.gov/humanservices/njsnap/library/posters/english/SNAP_poster_INDIVIDUAL_DISABILITY_ENG.pdf"
+    ]
+  },
+  {
+    "id": "nj-familycare",
+    "name": "NJ FamilyCare — Health Coverage",
+    "agency": "NJ Department of Human Services, Division of Medical Assistance and Health Services",
+    "category": "Healthcare",
+    "description": "New Jersey's Medicaid and CHIP program covering children under 19, adults, pregnant women, and aged, blind, or disabled residents. The program page notes translators are available for most languages.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey resident in a covered group: child under 19, adult, pregnant woman, or aged/blind/disabled",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — apply online through the NJ FamilyCare portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJ FamilyCare",
+        "value": "1-800-701-0710"
+      },
+      {
+        "kind": "web",
+        "label": "NJ FamilyCare program page",
+        "value": "https://www.nj.gov/humanservices/dmahs/individuals-families/familycare/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ FamilyCare program information",
+        "url": "https://www.nj.gov/humanservices/dmahs/individuals-families/familycare/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/humanservices/dmahs/individuals-families/familycare/"
+    ]
+  },
+  {
+    "id": "nj-liheap",
+    "name": "LIHEAP — Heating and Cooling Assistance",
+    "agency": "NJ Department of Community Affairs (DCA)",
+    "category": "Utilities",
+    "description": "Help paying heating and cooling costs for eligible low-income New Jersey households, administered by DCA. The program page notes the past-due electric and gas application period is open.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Low-income New Jersey household responsible for heating or cooling costs",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — applications are accepted on a rolling, first-come basis per the program page"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and utility bills — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIHEAP",
+        "value": "1-800-510-3102"
+      },
+      {
+        "kind": "web",
+        "label": "LIHEAP program page",
+        "value": "https://www.nj.gov/dca/dhcr/offices/hea.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP program information",
+        "url": "https://www.nj.gov/dca/dhcr/offices/hea.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/dca/dhcr/offices/hea.shtml"
+    ]
+  },
+  {
+    "id": "nj-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "NJ Department of Health",
+    "category": "Food",
+    "description": "Wholesome food, nutrition education, and community support for income-eligible pregnant and postpartum women, infants, and children up to five years old.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Pregnant or postpartum woman, infant, or child under five",
+      "Income-eligible New Jersey resident",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to start the application"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the clinic lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to apply for WIC",
+        "value": "https://nj.gov/health/fhs/wic/participants/apply-wic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for WIC",
+        "url": "https://nj.gov/health/fhs/wic/participants/apply-wic/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nj.gov/health/fhs/wic/participants/apply-wic/",
+      "https://nj.gov/health/fhs/wic/"
+    ]
+  },
+  {
+    "id": "nj-workfirst",
+    "name": "WorkFirst NJ — Cash Assistance",
+    "agency": "NJ Department of Human Services, Division of Family Development",
+    "category": "Employment",
+    "description": "New Jersey's cash assistance and work program for eligible families and individuals, administered with county welfare agencies. The Work First New Jersey page links program information and applications.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey resident with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the county welfare agency or the state application portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WorkFirst NJ program page",
+        "value": "https://nj.gov/humanservices/wfnj/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WorkFirst NJ program information",
+        "url": "https://nj.gov/humanservices/wfnj/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nj.gov/humanservices/wfnj/"
+    ]
+  },
+  {
+    "id": "nj-unemployment",
+    "name": "Unemployment Insurance",
+    "agency": "NJ Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "Temporary income for New Jersey workers who lose their jobs through no fault of their own. File new claims and certify for benefits online through MyUnemployment.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey worker unemployed through no fault of their own with sufficient wage history",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A MyUnemployment account to file and certify online"
+    ],
+    "whatToBring": [
+      "Social Security number, employment history, and proof of wages — the claim lists required information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment help line",
+        "value": "732-761-2020"
+      },
+      {
+        "kind": "web",
+        "label": "MyUnemployment portal",
+        "value": "https://www.myunemployment.nj.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for unemployment benefits",
+        "url": "https://www.myunemployment.nj.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nj.gov/labor/myunemployment/before/about/howtoapply/forms.shtml",
+      "https://www.myunemployment.nj.gov"
+    ]
+  },
+  {
+    "id": "nj-onestop",
+    "name": "One-Stop Career Centers",
+    "agency": "NJ Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "Free career services at local One-Stop Career Centers statewide: resource rooms, computers, career counseling, resume and interview help, training, ESL, HSE preparation, and services for veterans, youth, and mature workers. The directory lists centers with local phone numbers and hours.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Open to New Jersey job seekers",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — walk in or contact a local center"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "One-Stop Career Center directory",
+        "value": "https://www.nj.gov/labor/career-services/contact-us/one-stops/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a One-Stop Career Center",
+        "url": "https://www.nj.gov/labor/career-services/contact-us/one-stops/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/labor/career-services/contact-us/one-stops/"
+    ]
+  },
+  {
+    "id": "nj-dvrs",
+    "name": "Division of Vocational Rehabilitation Services (DVRS)",
+    "agency": "NJ Department of Labor and Workforce Development",
+    "category": "Disability",
+    "description": "Employment services for New Jersey residents whose physical, mental, cognitive, or other disabilities substantially impede employment. Core services such as diagnostic evaluation, counseling, placement, and supported employment are no cost; cost services require a financial-needs determination.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey resident with a disability that substantially impedes employment",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply for DVRS services through the program page"
+    ],
+    "whatToBring": [
+      "Medical or disability documentation — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVRS toll-free",
+        "value": "1-866-871-7867"
+      },
+      {
+        "kind": "web",
+        "label": "DVRS program page",
+        "value": "https://www.nj.gov/labor/career-services/special-services/individuals-with-disabilities/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DVRS program information",
+        "url": "https://www.nj.gov/labor/career-services/special-services/individuals-with-disabilities/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/labor/career-services/special-services/individuals-with-disabilities/"
+    ]
+  },
+  {
+    "id": "nj-anchor",
+    "name": "ANCHOR — Property Tax Relief",
+    "agency": "NJ Department of the Treasury, Division of Taxation",
+    "category": "Money & Taxes",
+    "description": "State property-tax relief payments for eligible New Jersey homeowners and renters. The program page notes many eligible residents under 65 may be automatically filed.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Eligible New Jersey homeowner or renter",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "label": "2025 application deadline",
+        "note": "Current 2025 ANCHOR applications are due 2026-11-02 per the official program page."
+      }
+    ],
+    "prerequisites": [
+      "File the ANCHOR application or confirm automatic filing"
+    ],
+    "whatToBring": [
+      "Proof of homeownership or rent paid, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ANCHOR program page",
+        "value": "https://www.nj.gov/treasury/taxation/anchor/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ANCHOR program information",
+        "url": "https://www.nj.gov/treasury/taxation/anchor/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/treasury/taxation/anchor/"
+    ]
+  },
+  {
+    "id": "nj-senior-freeze",
+    "name": "Senior Freeze — Property Tax Reimbursement",
+    "agency": "NJ Department of the Treasury, Division of Taxation",
+    "category": "Money & Taxes",
+    "description": "Reimbursement of property-tax increases for eligible senior and disabled New Jersey homeowners and mobile-home owners. Seniors and disabled applicants may use a combined application with ANCHOR.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Senior or disabled New Jersey homeowner or mobile-home owner meeting income limits",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File the Senior Freeze application; a combined ANCHOR application may be available"
+    ],
+    "whatToBring": [
+      "Proof of age or disability, homeownership, income, and property taxes paid — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Senior Freeze program page",
+        "value": "https://www.nj.gov/treasury/taxation/ptr/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Senior Freeze program information",
+        "url": "https://www.nj.gov/treasury/taxation/ptr/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/treasury/taxation/ptr/"
+    ]
+  },
+  {
+    "id": "nj-eitc",
+    "name": "New Jersey Earned Income Tax Credit",
+    "agency": "NJ Department of the Treasury, Division of Taxation",
+    "category": "Money & Taxes",
+    "description": "A refundable state tax credit for low- and moderate-income workers; New Jersey's age expansion may cover qualifying adults 18 and older whose only federal disqualification is age. Claimed on the state income tax return.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Low- or moderate-income New Jersey worker",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File a New Jersey income tax return claiming the credit"
+    ],
+    "whatToBring": [
+      "Income and dependent documentation for your tax return"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJ EITC information",
+        "value": "1-800-908-9946"
+      },
+      {
+        "kind": "web",
+        "label": "NJ EITC FAQ",
+        "value": "https://www.nj.gov/treasury/taxation/eitc/eitcfaq.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ EITC information",
+        "url": "https://www.nj.gov/treasury/taxation/eitc/eitcfaq.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/treasury/taxation/eitc/eitcfaq.shtml"
+    ]
+  },
+  {
+    "id": "nj-mvc",
+    "name": "NJ Motor Vehicle Commission Services",
+    "agency": "NJ Motor Vehicle Commission",
+    "category": "Transportation",
+    "description": "Driver licenses, permits, vehicle registration and titles, and related motor-vehicle services through the NJ Motor Vehicle Commission, online and at agencies statewide.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Varies by transaction — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies by transaction — see the MVC site"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and vehicle ownership as required for the transaction"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NJ MVC",
+        "value": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ MVC services",
+        "url": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/mvc/"
+    ]
+  },
+  {
+    "id": "nj-business",
+    "name": "Business.NJ.gov — Business Portal",
+    "agency": "State of New Jersey",
+    "category": "Small Business",
+    "description": "The state's official business portal: register a business, find licenses and permits, and explore funding, hiring, and incentive resources.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New or existing New Jersey business",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — use the portal to register and explore resources"
+    ],
+    "whatToBring": [
+      "Business formation and ownership details — the portal lists what each filing needs"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business.NJ.gov",
+        "value": "https://business.nj.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business.NJ.gov portal",
+        "url": "https://business.nj.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://business.nj.gov/"
+    ]
+  },
+  {
+    "id": "nj-getcovered",
+    "name": "GetCoveredNJ — Health Insurance Marketplace",
+    "agency": "State of New Jersey",
+    "category": "Healthcare",
+    "description": "New Jersey's official health insurance marketplace for Affordable Care Act plans and financial help paying for coverage.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey resident needing health coverage",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Special enrollment",
+        "note": "2026 open enrollment ended 2026-01-31; special enrollment may be available after a qualifying major life event."
+      }
+    ],
+    "prerequisites": [
+      "Create a GetCoveredNJ account to shop and enroll"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GetCoveredNJ",
+        "value": "https://www.getcovered.nj.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Shop for health coverage",
+        "url": "https://www.getcovered.nj.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.getcovered.nj.gov/"
+    ]
+  },
+  {
+    "id": "nj-hmfa",
+    "name": "NJ Housing and Mortgage Finance Agency Programs",
+    "agency": "NJ Housing and Mortgage Finance Agency (NJHMFA)",
+    "category": "Housing",
+    "description": "Affordable home loans, down-payment assistance, and rental housing programs from the NJ Housing and Mortgage Finance Agency.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey homebuyer or renter meeting program income limits",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact NJHMFA or a participating lender to apply"
+    ],
+    "whatToBring": [
+      "Proof of income, assets, and homebuyer education where required — the program lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJHMFA",
+        "value": "(609) 278-7400"
+      },
+      {
+        "kind": "web",
+        "label": "NJHMFA contact page",
+        "value": "https://www.nj.gov/dca/hmfa/about/contactus/index.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJHMFA programs and contact",
+        "url": "https://www.nj.gov/dca/hmfa/about/contactus/index.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/dca/hmfa/about/contactus/index.shtml"
+    ]
+  },
+  {
+    "id": "nj-accesslink",
+    "name": "Access Link — ADA Paratransit",
+    "agency": "NJ TRANSIT",
+    "category": "Transportation",
+    "description": "NJ TRANSIT's ADA paratransit service for riders whose disabilities prevent use of regular bus or light rail. Apply for eligibility, then book rides and manage trips by phone.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Rider with a disability preventing use of fixed-route transit",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the ADA paratransit eligibility application"
+    ],
+    "whatToBring": [
+      "Disability and medical documentation — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Access Link",
+        "value": "973-491-4224"
+      },
+      {
+        "kind": "web",
+        "label": "Access Link paratransit page",
+        "value": "https://www.njtransit.com/accessibility/access-link-ada-paratransit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access Link eligibility and reservations",
+        "url": "https://www.njtransit.com/accessibility/access-link-ada-paratransit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.njtransit.com/accessibility/access-link-ada-paratransit"
+    ]
+  },
+  {
+    "id": "nj-dds",
+    "name": "Division of Disability Services",
+    "agency": "NJ Department of Human Services, Division of Disability Services",
+    "category": "Disability",
+    "description": "Information, referral, and advocacy for New Jersey residents with disabilities, including personal assistance services and community resources, from the Division of Disability Services.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey resident with a disability",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the division for information and referral"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Disability Services",
+        "value": "1-888-285-3036"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Disability Services",
+        "value": "https://www.nj.gov/humanservices/dds/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Disability services information",
+        "url": "https://www.nj.gov/humanservices/dds/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/humanservices/dds/"
+    ]
+  },
+  {
+    "id": "nj-aging",
+    "name": "Division of Aging Services — Programs for Older Adults",
+    "agency": "NJ Department of Human Services, Division of Aging Services",
+    "category": "Seniors",
+    "description": "State programs for older New Jersey residents: home and community-based services, caregiver support, county aging offices, and Medicare counseling. The contact page lists statewide hotlines including general aging/Medicare counseling and county aging access.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Older New Jersey resident; some programs serve caregivers and adults with disabilities",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the division or a county aging office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Aging and Medicare counseling",
+        "value": "1-800-792-8820"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Aging Services contact",
+        "value": "https://nj.gov/humanservices/doas/contact/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Aging services contact and programs",
+        "url": "https://nj.gov/humanservices/doas/contact/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nj.gov/humanservices/doas/contact/"
+    ]
+  },
+  {
+    "id": "nj-njsave",
+    "name": "NJSave — Medicare and Prescription Savings",
+    "agency": "NJ Department of Human Services, Division of Aging Services",
+    "category": "Seniors",
+    "description": "A single application that screens older and disabled New Jersey residents for help with Medicare premiums, prescription costs, and other savings programs. The Division of Aging lists a dedicated NJSave line.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Older or disabled New Jersey resident",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the NJSave application"
+    ],
+    "whatToBring": [
+      "Proof of income, assets, and Medicare enrollment — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJSave",
+        "value": "1-800-792-9745"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Aging Services contact",
+        "value": "https://nj.gov/humanservices/doas/contact/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJSave information",
+        "url": "https://nj.gov/humanservices/doas/contact/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nj.gov/humanservices/doas/contact/"
+    ]
+  },
+  {
+    "id": "nj-lsnj",
+    "name": "Legal Services of New Jersey — Free Civil Legal Aid",
+    "agency": "Legal Services of New Jersey (LSNJ)",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income New Jersey residents in housing, family, consumer, and public-benefits cases, coordinated statewide by Legal Services of New Jersey. A state education resource lists the statewide legal aid hotline.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Low-income New Jersey resident with a civil legal issue",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or call the statewide hotline for intake"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — intake will advise what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Statewide legal aid hotline",
+        "value": "888-576-5529"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Services of New Jersey",
+        "value": "https://www.lsnj.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal aid intake",
+        "url": "https://www.lsnj.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.lsnj.org/",
+      "https://www.nj.gov/education/specialed/parents/docs/FreeLowCostLegalAdvocateServices2024.pdf"
+    ]
+  },
+  {
+    "id": "nj-veterans",
+    "name": "NJ Veterans Services",
+    "agency": "NJ Department of Military and Veterans Affairs",
+    "category": "Veterans",
+    "description": "State benefits and services for New Jersey veterans and their families, including counseling, claims assistance, and state veterans programs.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey veteran or eligible family member",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the department for benefits counseling"
+    ],
+    "whatToBring": [
+      "Military service records (such as DD-214) — the office will advise what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veterans services",
+        "value": "609-530-4600"
+      },
+      {
+        "kind": "web",
+        "label": "NJ veterans services",
+        "value": "https://www.nj.gov/military/veterans/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ veterans services",
+        "url": "https://www.nj.gov/military/veterans/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/military/veterans/"
+    ]
+  },
+  {
+    "id": "nj-hesaa",
+    "name": "HESAA State Grants and Scholarships",
+    "agency": "NJ Higher Education Student Assistance Authority (HESAA)",
+    "category": "Education",
+    "description": "New Jersey state grants and scholarships for college students, including TAG and NJ STARS. The HESAA aid booklet notes the FAFSA must be completed annually to be considered for federal and state aid.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey student attending an approved college",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the FAFSA each year for federal and state aid consideration"
+    ],
+    "whatToBring": [
+      "Tax and income information for the FAFSA — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HESAA Customer Care",
+        "value": "609-584-4480"
+      },
+      {
+        "kind": "web",
+        "label": "HESAA aid booklet (PDF)",
+        "value": "https://www.hesaa.org/Documents/Publications/state_and_federal.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "State and federal aid information",
+        "url": "https://www.hesaa.org/Documents/Publications/state_and_federal.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hesaa.org/Documents/Publications/state_and_federal.pdf"
+    ]
+  },
+  {
+    "id": "nj-dfd",
+    "name": "Division of Family Development — Family Support Programs",
+    "agency": "NJ Department of Human Services, Division of Family Development",
+    "category": "Family & Childcare",
+    "description": "The Division of Family Development oversees cash assistance, child care, child support, and related support programs for New Jersey families, working through county welfare agencies.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey families and individuals with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the county welfare agency or the state portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and New Jersey residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Family Development",
+        "value": "1-800-792-9773"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Family Development",
+        "value": "https://www.nj.gov/humanservices/dfd/home/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Family support programs",
+        "url": "https://www.nj.gov/humanservices/dfd/home/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/humanservices/dfd/home/"
+    ]
+  },
+  {
+    "id": "nj-usf",
+    "name": "BPU Utility Assistance Programs (USF and Related)",
+    "agency": "NJ Board of Public Utilities (BPU)",
+    "category": "Utilities",
+    "description": "Board of Public Utilities programs that help eligible households pay energy bills, including the Universal Service Fund (USF), Fresh Start, Winter Termination protections, and Lifeline. The assistance page lists program hotlines.",
+    "scope": {
+      "level": "state",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "New Jersey household meeting program income guidelines",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the program page or the listed hotlines"
+    ],
+    "whatToBring": [
+      "Utility bills and proof of income — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "USF information",
+        "value": "1-866-240-1347"
+      },
+      {
+        "kind": "web",
+        "label": "BPU assistance and grants",
+        "value": "https://www.nj.gov/bpu/home/grants.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Utility assistance programs",
+        "url": "https://www.nj.gov/bpu/home/grants.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nj.gov/bpu/home/grants.html"
+    ]
+  },
+  {
+    "id": "newark-311",
+    "name": "Newark 311 — Non-Emergency Call Center",
+    "agency": "City of Newark, Department of Public Works",
+    "category": "Money & Taxes",
+    "description": "Newark's non-emergency call center for refuse collection, street sweeping, recycling, bulk pickup, sanitation code enforcement, and other municipal programs and policies.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Newark",
+      "county": "Essex"
+    },
+    "eligibility": [
+      "Newark residents and businesses",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or use the city's service directory"
+    ],
+    "whatToBring": [
+      "Address or location details for the reported issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311 Non-Emergency Call Center",
+        "value": "973-733-4311"
+      },
+      {
+        "kind": "web",
+        "label": "Public Works directory",
+        "value": "https://newarknj.gov/Directory.aspx?did=47"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City service directory",
+        "url": "https://newarknj.gov/Directory.aspx?did=47"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://newarknj.gov/Directory.aspx?did=47"
+    ]
+  },
+  {
+    "id": "newark-library",
+    "name": "Newark Public Library",
+    "agency": "Newark Public Library",
+    "category": "Education",
+    "description": "Free public library services: books and media, public computers and computer classes, reference help, and community programs across Newark branches. The library's telephone page lists branch numbers and addresses.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Newark",
+      "county": "Essex"
+    },
+    "eligibility": [
+      "Open to the public; a library card is free for residents",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — visit a branch or call for hours and services"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address to get a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library hours and information",
+        "value": "(973) 733-7800"
+      },
+      {
+        "kind": "web",
+        "label": "Library telephone numbers and addresses",
+        "value": "https://www.npl.org/about-the-library/library-telephone-numbers-and-addresses/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library locations and phone numbers",
+        "url": "https://www.npl.org/about-the-library/library-telephone-numbers-and-addresses/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.npl.org/about-the-library/library-telephone-numbers-and-addresses/"
+    ]
+  },
+  {
+    "id": "newark-ha",
+    "name": "Newark Housing Authority — Public Housing and Vouchers",
+    "agency": "Newark Housing Authority",
+    "category": "Housing",
+    "description": "Public housing, Housing Choice Voucher (Section 8), and Emergency Housing Voucher programs for eligible low-income Newark households, with an online applicant self-service portal and language-access documents.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Newark",
+      "county": "Essex"
+    },
+    "eligibility": [
+      "Low-income Newark household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the applicant portal when waiting lists are open"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of income, and household information — the application lists exact documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Newark Housing Authority",
+        "value": "https://newarkha.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Authority programs and application portal",
+        "url": "https://newarkha.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://newarkha.org/"
+    ]
+  },
+  {
+    "id": "essex-welfare",
+    "name": "Essex County Division of Family Assistance and Benefits",
+    "agency": "Essex County",
+    "category": "Food",
+    "description": "Essex County's welfare agency: public assistance, SNAP, FamilyCare/Medicaid, and senior services intake for county residents.",
+    "scope": {
+      "level": "county",
+      "state": "NJ",
+      "county": "Essex"
+    },
+    "eligibility": [
+      "Essex County resident with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply at the county office or through the state portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Essex County residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Essex County welfare",
+        "value": "973-621-4400"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Family Assistance and Benefits",
+        "value": "https://essexcountynj.org/dfab/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County welfare services",
+        "url": "https://essexcountynj.org/dfab/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://essexcountynj.org/dfab/"
+    ]
+  },
+  {
+    "id": "jerseycity-rrc",
+    "name": "Jersey City Resident Response Center",
+    "agency": "City of Jersey City",
+    "category": "Money & Taxes",
+    "description": "Jersey City's one-stop Resident Response Center for city-service information and assistance, including reporting nuisances, safety concerns, and code violations.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Jersey City",
+      "county": "Hudson"
+    },
+    "eligibility": [
+      "Jersey City residents and businesses",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or use the online reporting tools"
+    ],
+    "whatToBring": [
+      "Address or location details for the reported issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Resident Response Center",
+        "value": "(201) 547-4900"
+      },
+      {
+        "kind": "web",
+        "label": "Resident Response Center",
+        "value": "https://jerseycitynj.gov/residentresources/rrc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Resident Response Center",
+        "url": "https://jerseycitynj.gov/residentresources/rrc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jerseycitynj.gov/residentresources/rrc"
+    ]
+  },
+  {
+    "id": "jerseycity-ha",
+    "name": "Jersey City Housing Authority — Public Housing and Vouchers",
+    "agency": "Jersey City Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Vouchers for eligible low-income Jersey City families, seniors, and residents with disabilities. The homepage links an online applicant portal.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Jersey City",
+      "county": "Hudson"
+    },
+    "eligibility": [
+      "Low-income Jersey City household, senior, or person with a disability",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the applicant portal when waiting lists are open"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of income, and household information — the application lists exact documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Jersey City Housing Authority",
+        "value": "201-706-4600"
+      },
+      {
+        "kind": "web",
+        "label": "Jersey City Housing Authority",
+        "value": "https://www.jerseycityha.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Authority programs and application portal",
+        "url": "https://www.jerseycityha.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.jerseycityha.org/"
+    ]
+  },
+  {
+    "id": "hudson-family",
+    "name": "Hudson County Department of Family Services",
+    "agency": "Hudson County",
+    "category": "Family & Childcare",
+    "description": "Hudson County's Department of Family Services: intake and eligibility for economic assistance, emergency assistance, child support, home health care for seniors, workforce case management, and homelessness prevention.",
+    "scope": {
+      "level": "county",
+      "state": "NJ",
+      "county": "Hudson"
+    },
+    "eligibility": [
+      "Hudson County resident with financial or family service needs",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact the department for intake and eligibility screening"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Hudson County residency — intake lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Services",
+        "value": "(201) 420-3000"
+      },
+      {
+        "kind": "web",
+        "label": "Department of Family Services",
+        "value": "https://www.hcnj.us/family-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County family services",
+        "url": "https://www.hcnj.us/family-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hcnj.us/family-services/"
+    ]
+  },
+  {
+    "id": "paterson-ha",
+    "name": "Paterson Housing Authority — Section 8 and Public Housing",
+    "agency": "Housing Authority of the City of Paterson",
+    "category": "Housing",
+    "description": "Section 8 Housing Choice Vouchers and public housing for eligible Paterson residents, plus HUD-certified homeownership counseling. Admission preferences include Paterson residents and workers.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Paterson",
+      "county": "Passaic"
+    },
+    "eligibility": [
+      "Low-income Paterson household; preference for Paterson residents and workers",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply when waiting lists are open; the authority verifies eligibility before voucher issuance"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of income, and household information — the application lists exact documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Paterson Housing Authority",
+        "value": "(973) 345-5080"
+      },
+      {
+        "kind": "web",
+        "label": "Paterson Housing Authority",
+        "value": "https://patersonhousingauthority.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Authority programs",
+        "url": "https://patersonhousingauthority.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://patersonhousingauthority.org/"
+    ]
+  },
+  {
+    "id": "passaic-bss",
+    "name": "Passaic County Board of Social Services",
+    "agency": "Passaic County Board of Social Services",
+    "category": "Food",
+    "description": "Passaic County's welfare agency administering SNAP, Medicaid/NJ FamilyCare, cash assistance, child care, and emergency aid. Offices in Paterson (main), Passaic, and Haskell.",
+    "scope": {
+      "level": "county",
+      "state": "NJ",
+      "county": "Passaic"
+    },
+    "eligibility": [
+      "Passaic County resident with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply at a county office or through the state portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Passaic County residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Passaic County Board of Social Services",
+        "value": "973-881-0100"
+      },
+      {
+        "kind": "web",
+        "label": "Passaic County Board of Social Services",
+        "value": "https://pcbss.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County social services",
+        "url": "https://pcbss.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://pcbss.org/"
+    ]
+  },
+  {
+    "id": "atlanticcity-ha",
+    "name": "Atlantic City Housing Authority — Housing Choice Vouchers",
+    "agency": "Housing Authority of the City of Atlantic City",
+    "category": "Housing",
+    "description": "Housing Choice Voucher (Section 8) rental assistance in Atlantic City, administered by the Atlantic City Housing Authority. The voucher department page lists program staff contacts and the online application process.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Atlantic City",
+      "county": "Atlantic"
+    },
+    "eligibility": [
+      "Low-income Atlantic City household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through the Housing Authority website when applications are accepted"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of income, and household information — the application lists exact documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing Choice Voucher Department",
+        "value": "(609) 347-1207"
+      },
+      {
+        "kind": "web",
+        "label": "Housing Choice Voucher Department",
+        "value": "https://www.atlanticcityha.org/section_8/section_8_staff.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Choice Voucher program",
+        "url": "https://www.atlanticcityha.org/section_8/section_8_staff.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.atlanticcityha.org/section_8/section_8_staff.php"
+    ]
+  },
+  {
+    "id": "atlantic-dfcd",
+    "name": "Atlantic County Department of Family and Community Development",
+    "agency": "Atlantic County",
+    "category": "Food",
+    "description": "Atlantic County's Department of Family and Community Development administers SNAP, Work First New Jersey, and related benefits. The county page posts case-status tools, benefit updates, and program notices.",
+    "scope": {
+      "level": "county",
+      "state": "NJ",
+      "county": "Atlantic"
+    },
+    "eligibility": [
+      "Atlantic County resident with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply at the county office or through the state portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Atlantic County residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family and Community Development",
+        "value": "(609) 343-2153"
+      },
+      {
+        "kind": "web",
+        "label": "County SNAP and benefits page",
+        "value": "https://www.atlanticcountynj.gov/government/county-departments/department-of-family-and-community-development/nj-snap-food-stamps"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County benefits information",
+        "url": "https://www.atlanticcountynj.gov/government/county-departments/department-of-family-and-community-development/nj-snap-food-stamps"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.atlanticcountynj.gov/government/county-departments/department-of-family-and-community-development/nj-snap-food-stamps"
+    ]
+  },
+  {
+    "id": "trenton-ha",
+    "name": "Trenton Housing Authority — Public Housing",
+    "agency": "Trenton Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and rental assistance for eligible low-income Trenton households through the Trenton Housing Authority's housing developments and programs.",
+    "scope": {
+      "level": "city",
+      "state": "NJ",
+      "city": "Trenton",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Low-income Trenton household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Housing Authority when waiting lists are open"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of income, and household information — the application lists exact documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Trenton Housing Authority",
+        "value": "(609) 278-5000"
+      },
+      {
+        "kind": "web",
+        "label": "Trenton Housing Authority",
+        "value": "https://www.tha-nj.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Authority programs",
+        "url": "https://www.tha-nj.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tha-nj.org/"
+    ]
+  },
+  {
+    "id": "mercer-bss",
+    "name": "Mercer County Board of Social Services",
+    "agency": "Mercer County Board of Social Services",
+    "category": "Food",
+    "description": "Mercer County's social services agency: NJ SNAP, medical assistance, housing assistance, and GA/TANF cash assistance, serving residents since 1932 with offices and a mobile unit countywide.",
+    "scope": {
+      "level": "county",
+      "state": "NJ",
+      "county": "Mercer"
+    },
+    "eligibility": [
+      "Mercer County resident with financial need",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply at the county office, mobile unit, or through the state portal"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Mercer County residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mercer County Board of Social Services",
+        "value": "(609) 989-4320"
+      },
+      {
+        "kind": "web",
+        "label": "Mercer County Board of Social Services",
+        "value": "https://www.mcboss.org/cms/One.aspx?portalId=10377127&pageId=10377138"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County social services",
+        "url": "https://www.mcboss.org/cms/One.aspx?portalId=10377127&pageId=10377138"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mcboss.org/cms/One.aspx?portalId=10377127&pageId=10377138"
+    ]
   }
 ]
