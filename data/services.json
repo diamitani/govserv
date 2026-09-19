@@ -19140,5 +19140,2415 @@
       "https://www.va.gov/durham-health-care/register-for-care/",
       "https://www.wake.gov/departments-government/veterans-services/va-health-care"
     ]
+  },
+  {
+    "id": "mi-snap",
+    "name": "Food Assistance Program (SNAP) — Michigan",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Food",
+    "description": "Monthly food benefits on a Bridge Card for eligible low-income Michigan households to purchase groceries. Apply online through MI Bridges, or by mail, fax, or in person at a local MDHHS office.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Household income and asset limits apply — see the MDHHS food assistance page",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Create a MI Bridges account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, expenses, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MI Bridges online application",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/food"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHHS Food Assistance Program",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/food"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/food"
+    ]
+  },
+  {
+    "id": "mi-medicaid",
+    "name": "Medicaid — Healthcare Assistance",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Healthcare",
+    "description": "Free or low-cost health coverage for eligible Michigan residents, including children, pregnant women, people with disabilities, and low-income adults. Apply online through MI Bridges, by phone, mail, or in person.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Income limits apply — vary by household size and coverage group",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Create a MI Bridges account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDHHS healthcare assistance",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/healthcare"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHHS healthcare assistance",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/healthcare"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/healthcare"
+    ]
+  },
+  {
+    "id": "mi-healthy-michigan-plan",
+    "name": "Healthy Michigan Plan",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Healthcare",
+    "description": "Health coverage for low-income Michigan adults ages 19 to 64 who are not eligible for or enrolled in Medicare. Covers doctor visits, prescriptions, hospital care, mental health and substance use services, and preventive care.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident ages 19-64",
+      "Income at or below 133% of the federal poverty level (plus 5% disregard)",
+      "Not eligible for or enrolled in Medicare"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or in person"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Healthy Michigan Plan beneficiary helpline",
+        "value": "1-855-789-5610"
+      },
+      {
+        "kind": "web",
+        "label": "Healthy Michigan Plan",
+        "value": "https://www.michigan.gov/healthymiplan"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Healthy Michigan Plan",
+        "url": "https://www.michigan.gov/healthymiplan"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/healthymiplan"
+    ]
+  },
+  {
+    "id": "mi-cash-assistance",
+    "name": "Family Independence Program (FIP) — Cash Assistance",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Money & Taxes",
+    "description": "Temporary monthly cash assistance for eligible low-income Michigan families with children, to help cover basic needs while working toward self-sufficiency. Apply through MI Bridges, by mail, fax, or in person.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Families with minor children meeting income and asset limits",
+      "Work participation requirements may apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Create a MI Bridges account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, assets, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDHHS cash assistance",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/cash"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHHS cash assistance (FIP)",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/cash"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/cash"
+    ]
+  },
+  {
+    "id": "mi-wic",
+    "name": "Women, Infants, and Children (WIC)",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Food",
+    "description": "Nutrition support, breastfeeding help, and healthy food benefits for qualifying pregnant, breastfeeding, and postpartum women, infants, and children under age five who are at nutritional risk. Materials are available in English, Spanish, and Arabic.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Pregnant, breastfeeding, or postpartum woman; infant; or child under age five",
+      "Income at or below program limits, or enrolled in Medicaid, SNAP, or TANF",
+      "Determined to be at nutritional risk by a health professional"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to schedule an appointment"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan WIC",
+        "value": "1-800-942-1636"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan WIC",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/wic/aboutwic"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "About Michigan WIC",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/wic/aboutwic"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Arabic"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/wic/aboutwic"
+    ]
+  },
+  {
+    "id": "mi-unemployment-insurance",
+    "name": "Unemployment Insurance (UIA)",
+    "agency": "Michigan Department of Labor and Economic Opportunity — Unemployment Insurance Agency",
+    "category": "Employment",
+    "description": "Temporary wage replacement for Michigan workers who lost a job through no fault of their own and meet work and wage requirements. File claims and certify online through MiWAM, by phone, or in person.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages during the base period",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Create a MiWAM account to file online"
+    ],
+    "whatToBring": [
+      "Social Security number, employer history, and wage records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Insurance Agency",
+        "value": "1-866-500-0017"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance Agency",
+        "value": "https://www.michigan.gov/leo/bureaus-agencies/uia"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Unemployment Insurance Agency",
+        "url": "https://www.michigan.gov/leo/bureaus-agencies/uia"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/leo/bureaus-agencies/uia"
+    ]
+  },
+  {
+    "id": "mi-state-emergency-relief",
+    "name": "State Emergency Relief (SER)",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Money & Taxes",
+    "description": "Emergency assistance for Michigan households facing a crisis — including help with utilities, home repairs, relocation, homeownership services, and burial costs. Eligibility and covered services vary by situation.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident facing an emergency need",
+      "Income and asset limits apply — vary by service",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply through MI Bridges, by phone, or in person at a local MDHHS office"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and documentation of the emergency (e.g., shutoff notice)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "State Emergency Relief",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/emergency-relief/overview/ser"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "State Emergency Relief overview",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/emergency-relief/overview/ser"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/emergency-relief/overview/ser"
+    ]
+  },
+  {
+    "id": "mi-home-heating-credit",
+    "name": "Home Heating Credit",
+    "agency": "Michigan Department of Treasury",
+    "category": "Money & Taxes",
+    "description": "State tax credit that helps low-income Michigan households with the cost of heating their homes. Claimed on the MI-1040CR-7 form; the official page lists a September 30 filing deadline for the current claim year.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Owned or rented a Michigan home subject to heating costs during the claim year",
+      "Income limits apply — see the official instructions"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Filing deadline",
+        "note": "Published on the official Home Heating Credit page for the current claim year."
+      }
+    ],
+    "prerequisites": [
+      "Complete the MI-1040CR-7 Home Heating Credit Claim form"
+    ],
+    "whatToBring": [
+      "Heating cost records and income documentation for the claim year"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Home Heating Credit information",
+        "value": "https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Home Heating Credit information",
+        "url": "https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1"
+    ]
+  },
+  {
+    "id": "mi-energy-weatherization",
+    "name": "Weatherization Assistance Program",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Utilities",
+    "description": "Free home weatherization services — such as insulation, air sealing, and furnace repair or replacement — for eligible low-income Michigan households to lower energy bills and improve home safety and comfort.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Household income within program limits",
+      "Priority may be given to elderly residents, people with disabilities, and families with children"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply through a local Community Action Agency or the MDHHS energy programs page"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and homeownership or landlord permission"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDHHS energy and weatherization",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/cash/energy/energy-weatherization"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Energy and weatherization assistance",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/cash/energy/energy-weatherization"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/cash/energy/energy-weatherization"
+    ]
+  },
+  {
+    "id": "mi-eitc",
+    "name": "Michigan Earned Income Tax Credit (EITC)",
+    "agency": "Michigan Department of Treasury",
+    "category": "Money & Taxes",
+    "description": "Refundable state tax credit for working Michigan residents who qualify for the federal Earned Income Tax Credit. Claimed on the Michigan individual income tax return (MI-1040).",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Qualify for and claim the federal Earned Income Tax Credit",
+      "File a Michigan MI-1040 return"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Claim the federal EITC on your federal return first"
+    ],
+    "whatToBring": [
+      "Federal and state tax records for the tax year"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Michigan EITC guidance",
+        "value": "https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan EITC guidance",
+        "url": "https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc"
+    ]
+  },
+  {
+    "id": "mi-missg",
+    "name": "Michigan Competitive Scholarship / Michigan Tuition Grant (MiSSG)",
+    "agency": "Michigan Department of Lifelong Education, Advancement, and Potential (MiLEAP) — Office of Student Scholarships and Grants",
+    "category": "Education",
+    "description": "State grants that help Michigan undergraduate students pay for college, including the Michigan Competitive Scholarship (based on merit and financial need) and the Michigan Tuition Grant (for students at independent nonprofit colleges).",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "U.S. citizen or eligible noncitizen",
+      "Enrolled at an approved Michigan postsecondary institution",
+      "Demonstrate financial need; Competitive Scholarship also considers merit"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "File the FAFSA",
+      "Michigan Competitive Scholarship applicants take the SAT/ACT as required"
+    ],
+    "whatToBring": [
+      "FAFSA confirmation and school enrollment records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MiSSG",
+        "value": "888-447-2687"
+      },
+      {
+        "kind": "phone",
+        "label": "MiSSG (Lansing)",
+        "value": "517-241-5835"
+      },
+      {
+        "kind": "web",
+        "label": "MiSSG",
+        "value": "https://www.michigan.gov/mistudentaid/missg"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MiSSG scholarships and grants",
+        "url": "https://www.michigan.gov/mistudentaid/missg"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mistudentaid/missg"
+    ]
+  },
+  {
+    "id": "mi-rehabilitation-services",
+    "name": "Michigan Rehabilitation Services (MRS)",
+    "agency": "Michigan Department of Labor and Economic Opportunity — Michigan Rehabilitation Services",
+    "category": "Employment",
+    "description": "Employment services for Michigan residents with disabilities — including career counseling, job training and placement, assistive technology, and supported employment — to help individuals obtain and keep competitive work.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident with a disability",
+      "Disability creates a barrier to employment",
+      "Require vocational rehabilitation services to prepare for, obtain, or retain employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for services through a local MRS office"
+    ],
+    "whatToBring": [
+      "Documentation of disability and employment history"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan Rehabilitation Services",
+        "value": "1-800-605-6722"
+      },
+      {
+        "kind": "phone",
+        "label": "MRS (Lansing)",
+        "value": "517-241-5324"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan Rehabilitation Services",
+        "value": "https://www.michigan.gov/leo/bureaus-agencies/mrs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Rehabilitation Services",
+        "url": "https://www.michigan.gov/leo/bureaus-agencies/mrs"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/leo/bureaus-agencies/mrs"
+    ]
+  },
+  {
+    "id": "mi-veterans-affairs",
+    "name": "Michigan Veterans Affairs Agency (MVAA)",
+    "agency": "Michigan Veterans Affairs Agency",
+    "category": "Veterans",
+    "description": "State agency connecting Michigan veterans, service members, and their families to earned benefits — including disability claims help, education and employment resources, emergency assistance, and the Michigan Veteran Homes.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Veteran, service member, or eligible family member",
+      "Michigan resident or connection to Michigan",
+      "Varies by benefit — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Contact MVAA or a county veteran service officer"
+    ],
+    "whatToBring": [
+      "DD-214 or other discharge documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan Veterans Affairs Agency",
+        "value": "1-800-642-4838"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan Veterans Affairs Agency",
+        "value": "https://www.michigan.gov/mvaa"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Veterans Affairs Agency",
+        "url": "https://www.michigan.gov/mvaa"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mvaa"
+    ]
+  },
+  {
+    "id": "mi-housing-development",
+    "name": "Michigan State Housing Development Authority (MSHDA)",
+    "agency": "Michigan State Housing Development Authority",
+    "category": "Housing",
+    "description": "Michigan's housing finance agency — offering affordable mortgage programs for first-time homebuyers, down payment assistance, and rental assistance and housing counseling resources through partner agencies statewide.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Income and purchase-price limits apply to mortgage programs — vary by program",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Contact an MSHDA-approved lender or counseling agency"
+    ],
+    "whatToBring": [
+      "Proof of income, employment, and credit documentation (for mortgage programs)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MSHDA",
+        "value": "1-855-646-7432"
+      },
+      {
+        "kind": "web",
+        "label": "MSHDA",
+        "value": "https://www.michigan.gov/mshda"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan State Housing Development Authority",
+        "url": "https://www.michigan.gov/mshda"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mshda"
+    ]
+  },
+  {
+    "id": "mi-childcare-scholarship",
+    "name": "Child Development and Care (CDC) Scholarship",
+    "agency": "Michigan Department of Lifelong Education, Advancement, and Potential (MiLEAP)",
+    "category": "Family & Childcare",
+    "description": "Helps cover the cost of childcare for eligible Michigan families while a parent works, trains, completes qualifying education, or participates in specified family-preservation activities. Apply online through MI Bridges.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Child under age 13 (or under 18 with special needs)",
+      "Income within program limits",
+      "Parent working, in training, in qualifying education, or in specified family-preservation activities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply through MI Bridges",
+      "Choose an eligible childcare provider"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, work or school schedule, and child's age"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CDC Scholarship",
+        "value": "844-464-3447"
+      },
+      {
+        "kind": "phone",
+        "label": "CDC Scholarship (alternate)",
+        "value": "866-990-3227"
+      },
+      {
+        "kind": "web",
+        "label": "CDC Scholarship — parent information",
+        "value": "https://www.michigan.gov/mileap/early-childhood-education/early-learners-and-care/cdc/parents"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CDC Scholarship parent information",
+        "url": "https://www.michigan.gov/mileap/early-childhood-education/early-learners-and-care/cdc/parents"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mileap/early-childhood-education/early-learners-and-care/cdc/parents"
+    ]
+  },
+  {
+    "id": "mi-cshcs",
+    "name": "Children's Special Health Care Services (CSHCS)",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Healthcare",
+    "description": "Helps Michigan residents under age 26 with qualifying chronic physical conditions or physical disabilities pay for specialty medical care, equipment, and related services. Some participants have fee waivers; costs vary by family.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident under age 26",
+      "Qualifying chronic physical condition or physical disability",
+      "Financial eligibility rules apply — some participants have fee waivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the local health department or the CSHCS office"
+    ],
+    "whatToBring": [
+      "Medical records documenting the qualifying condition"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Children's Special Health Care Services",
+        "value": "1-800-359-3722"
+      },
+      {
+        "kind": "web",
+        "label": "CSHCS family information",
+        "value": "https://www.michigan.gov/mdhhs/assistance-programs/cshcs/general-information-for-families-about-cshcs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CSHCS general information for families",
+        "url": "https://www.michigan.gov/mdhhs/assistance-programs/cshcs/general-information-for-families-about-cshcs"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — some participants have fee waivers",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/cshcs/general-information-for-families-about-cshcs"
+    ]
+  },
+  {
+    "id": "mi-aging-services",
+    "name": "Aging and Adult Services — Area Agency on Aging Network",
+    "agency": "Michigan Department of Health and Human Services (MDHHS) — Aging and Adult Services Agency",
+    "category": "Seniors",
+    "description": "Connects older Michigan adults and caregivers to local services through the Area Agency on Aging network — including caregiver support, community and in-home services, nutrition programs, and transportation. Contact your local Area Agency on Aging to find services near you.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident age 60 or older (most programs)",
+      "Caregivers of older adults",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local Area Agency on Aging"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDHHS aging services",
+        "value": "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/aging-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHHS aging services",
+        "url": "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/aging-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/aging-services"
+    ]
+  },
+  {
+    "id": "mi-sos-online-services",
+    "name": "Secretary of State — Driver's Licenses, IDs, and Online Services",
+    "agency": "Michigan Department of State",
+    "category": "Transportation",
+    "description": "Driver's licenses, state IDs, vehicle registration and title services, and online self-service transactions (renewals, replacements, address changes, appointments) through the Michigan Secretary of State. Fees apply and vary by credential.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Meet identification and eligibility requirements for the credential",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Create an online account for self-service transactions, or book an office visit"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and legal presence as required for the transaction"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan Secretary of State",
+        "value": "1-888-767-6424"
+      },
+      {
+        "kind": "web",
+        "label": "SOS online services",
+        "value": "https://www.michigan.gov/sos/faqs/resources/online-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SOS online services",
+        "url": "https://www.michigan.gov/sos/faqs/resources/online-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by credential",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.michigan.gov/sos/faqs/resources/online-services",
+      "https://www.michigan.gov/sos/faqs/license-and-id/licenses-and-id"
+    ]
+  },
+  {
+    "id": "mi-211",
+    "name": "Michigan 2-1-1",
+    "agency": "Michigan 2-1-1 (United Way-supported statewide network)",
+    "category": "Healthcare",
+    "description": "Free, confidential 24/7 helpline connecting Michigan residents to local health and human services — food, housing, utility help, healthcare, crisis support, and more. Dial 2-1-1 or search the online resource database.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Anyone seeking help finding local community resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "None — call, text, or search online"
+    ],
+    "whatToBring": [
+      "Describe your need and ZIP code to get matched to local resources"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan 2-1-1",
+        "value": "844-875-9211"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan 2-1-1",
+        "value": "https://mi211.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan 2-1-1",
+        "url": "https://mi211.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://mi211.org/"
+    ]
+  },
+  {
+    "id": "mi-legal-help",
+    "name": "Michigan Legal Help",
+    "agency": "Michigan Legal Help (Michigan State Bar Foundation-supported)",
+    "category": "Legal Aid",
+    "description": "Free online legal information, self-help tools, and court form preparation for Michigan residents handling civil legal matters — including family law, housing, consumer, and public benefits issues. Not a law firm; does not provide individual legal advice.",
+    "scope": {
+      "level": "state",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Michigan resident with a civil legal issue",
+      "Self-help tools are free to all; eligibility for referred services varies"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "None — use the website's guided interviews and articles"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue (for court forms or referrals)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Michigan Legal Help",
+        "value": "https://michiganlegalhelp.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Legal Help",
+        "url": "https://michiganlegalhelp.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://michiganlegalhelp.org/"
+    ]
+  },
+  {
+    "id": "detroit-improve",
+    "name": "Improve Detroit",
+    "agency": "City of Detroit",
+    "category": "Legal Aid",
+    "description": "Detroit's official 311-style reporting system: report potholes, missed trash pickup, broken streetlights, blight, and other neighborhood issues online or through the Improve Detroit app. Tracks requests to resolution.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Anyone can report an issue in the City of Detroit"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Submit a report online or via the Improve Detroit app"
+    ],
+    "whatToBring": [
+      "Location of the issue and a description (photos help)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Improve Detroit",
+        "value": "https://detroitmi.gov/ImproveDetroit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Improve Detroit",
+        "url": "https://detroitmi.gov/ImproveDetroit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitmi.gov/ImproveDetroit"
+    ]
+  },
+  {
+    "id": "detroit-ddot-reduced-fare",
+    "name": "DDOT Reduced Fare Program",
+    "agency": "City of Detroit — Detroit Department of Transportation (DDOT)",
+    "category": "Transportation",
+    "description": "Reduced DDOT bus fares for seniors ages 65 and older, people with disabilities, Medicare cardholders, and students with proper school ID. Apply with the Reduced Fare Card Application, submitted to the Rosa Parks Transit Center at 360 Michigan Ave, Detroit.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Senior age 65 or older, person with a disability, Medicare cardholder, or student with proper school ID",
+      "DDOT rider"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Reduced Fare Card Application"
+    ],
+    "whatToBring": [
+      "Proof of age, disability, Medicare enrollment, or student status as applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DDOT",
+        "value": "(313) 933-1300"
+      },
+      {
+        "kind": "web",
+        "label": "DDOT transportation fares",
+        "value": "https://detroitmi.gov/departments/detroit-department-transportation/transportation-fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DDOT transportation fares and reduced fare application",
+        "url": "https://detroitmi.gov/departments/detroit-department-transportation/transportation-fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitmi.gov/departments/detroit-department-transportation/transportation-fares"
+    ]
+  },
+  {
+    "id": "detroit-housing-revitalization",
+    "name": "Housing and Revitalization Department (HRD)",
+    "agency": "City of Detroit — Housing and Revitalization Department",
+    "category": "Housing",
+    "description": "Detroit's housing office: foreclosure prevention counseling, home repair assistance, property tax relief programs (including the Homeowners Property Tax Assistance Program), and rental housing resources. The Detroit Housing Resource HelpLine connects residents to housing help.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Detroit resident",
+      "Program-specific income and eligibility rules apply — vary by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Contact HRD or the Housing Resource HelpLine to be screened for programs"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and homeownership or lease as applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Detroit Housing and Revitalization Department",
+        "value": "(313) 224-6380"
+      },
+      {
+        "kind": "phone",
+        "label": "Detroit Housing Resource HelpLine",
+        "value": "866-313-2520"
+      },
+      {
+        "kind": "web",
+        "label": "Housing and Revitalization Department",
+        "value": "https://detroitmi.gov/departments/housing-and-revitalization-department"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing and Revitalization Department",
+        "url": "https://detroitmi.gov/departments/housing-and-revitalization-department"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitmi.gov/departments/housing-and-revitalization-department",
+      "https://detroitmi.gov/news/city-detroit-provides-update-storm-response"
+    ]
+  },
+  {
+    "id": "detroit-health-department",
+    "name": "Detroit Health Department",
+    "agency": "City of Detroit — Detroit Health Department",
+    "category": "Healthcare",
+    "description": "Public health services for Detroit residents — including immunizations, maternal and child health programs, HIV/STD testing and services, lead prevention, and emergency preparedness. Walk-ins and appointments vary by clinic.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Detroit resident",
+      "Some programs have income or eligibility requirements — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit to confirm clinic hours and appointment needs"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured (services available regardless of ability to pay for many programs)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Detroit Health Department",
+        "value": "(313) 876-4000"
+      },
+      {
+        "kind": "web",
+        "label": "Detroit Health Department",
+        "value": "https://detroitmi.gov/departments/detroit-health-department"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Detroit Health Department",
+        "url": "https://detroitmi.gov/departments/detroit-health-department"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitmi.gov/departments/detroit-health-department"
+    ]
+  },
+  {
+    "id": "detroit-at-work",
+    "name": "Detroit at Work",
+    "agency": "Detroit Employment Solutions Corporation (a Michigan Works! agency)",
+    "category": "Employment",
+    "description": "Detroit's workforce system: job search help, career coaching, training programs, and employer connections for Detroit residents. Funded in part by the Michigan Department of Labor and Economic Opportunity; a proud partner of the American Job Center network.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Detroit resident seeking employment or training",
+      "Some training programs have income or eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Register for services online or visit a career center"
+    ],
+    "whatToBring": [
+      "Photo ID and work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Detroit at Work",
+        "value": "1-800-285-WORK"
+      },
+      {
+        "kind": "web",
+        "label": "Detroit at Work",
+        "value": "https://detroitatwork.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Detroit at Work",
+        "url": "https://detroitatwork.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitatwork.com/"
+    ]
+  },
+  {
+    "id": "detroit-public-library",
+    "name": "Detroit Public Library",
+    "agency": "Detroit Public Library",
+    "category": "Education",
+    "description": "Free public library services across Detroit: books and media lending, public computers and Wi-Fi, printing, job-search resources, children's and teen programs, and meeting spaces. A library card is free to Detroit residents.",
+    "scope": {
+      "level": "city",
+      "city": "Detroit",
+      "county": "Wayne",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Library card free to Detroit residents",
+      "Nonresident card options available — see library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of Detroit address for a resident card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Detroit Public Library",
+        "value": "(313) 481-1300"
+      },
+      {
+        "kind": "web",
+        "label": "Detroit Public Library",
+        "value": "https://detroitpubliclibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Detroit Public Library",
+        "url": "https://detroitpubliclibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://detroitpubliclibrary.org/"
+    ]
+  },
+  {
+    "id": "grandrapids-311",
+    "name": "GR311 — Grand Rapids Customer Service",
+    "agency": "City of Grand Rapids",
+    "category": "Legal Aid",
+    "description": "Grand Rapids' 311 customer service center: report potholes, missed trash, water issues, and other city service requests by dialing 311 (or 616-456-3000 from outside the city), online, or through the city's reporting tools.",
+    "scope": {
+      "level": "city",
+      "city": "Grand Rapids",
+      "county": "Kent",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Anyone can report an issue in the City of Grand Rapids"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Submit a report online, by phone, or in person"
+    ],
+    "whatToBring": [
+      "Location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GR311",
+        "value": "616-456-3000"
+      },
+      {
+        "kind": "email",
+        "label": "GR311 email",
+        "value": "info@grcity.us"
+      },
+      {
+        "kind": "web",
+        "label": "GR311 customer service",
+        "value": "https://www.grandrapidsmi.gov/living-in-gr/311-customer-service/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GR311 customer service",
+        "url": "https://www.grandrapidsmi.gov/living-in-gr/311-customer-service/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.grandrapidsmi.gov/living-in-gr/311-customer-service/"
+    ]
+  },
+  {
+    "id": "grandrapids-rapid-fares",
+    "name": "The Rapid — Reduced Fare Wave Cards",
+    "agency": "Interurban Transit Partnership (The Rapid)",
+    "category": "Transportation",
+    "description": "Grand Rapids-area public transit with reduced Wave card fares for seniors, people with disabilities, Medicare cardholders, and youth 19 and under. Wave cards use fare capping so frequent riders never pay more than the daily or monthly cap.",
+    "scope": {
+      "level": "city",
+      "city": "Grand Rapids",
+      "county": "Kent",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Senior, person with a disability, Medicare cardholder, or youth age 19 or younger",
+      "The Rapid rider in the Grand Rapids service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Obtain a reduced-fare or youth Wave card with proof of eligibility"
+    ],
+    "whatToBring": [
+      "Proof of age, disability, or Medicare enrollment as applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "The Rapid",
+        "value": "(616) 776-1100"
+      },
+      {
+        "kind": "web",
+        "label": "The Rapid",
+        "value": "https://www.ridetherapid.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "The Rapid",
+        "url": "https://www.ridetherapid.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ridetherapid.org/"
+    ]
+  },
+  {
+    "id": "grandrapids-public-library",
+    "name": "Grand Rapids Public Library",
+    "agency": "Grand Rapids Public Library",
+    "category": "Education",
+    "description": "Free public library services: books and media lending, public computers and Wi-Fi, digital resources, job and career help, and children's, teen, and adult programs across Grand Rapids branches.",
+    "scope": {
+      "level": "city",
+      "city": "Grand Rapids",
+      "county": "Kent",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Library card free to Grand Rapids residents",
+      "Nonresident options available — see library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of Grand Rapids address for a resident card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Grand Rapids Public Library",
+        "value": "(616) 988-5400"
+      },
+      {
+        "kind": "web",
+        "label": "Grand Rapids Public Library",
+        "value": "https://www.grpl.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Grand Rapids Public Library",
+        "url": "https://www.grpl.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.grpl.org/"
+    ]
+  },
+  {
+    "id": "lansing-311",
+    "name": "Lansing 3-1-1",
+    "agency": "City of Lansing",
+    "category": "Legal Aid",
+    "description": "Lansing's 3-1-1 non-emergency service line and online dashboard for city service requests and information — dial 3-1-1 within the city for help with non-emergency municipal services.",
+    "scope": {
+      "level": "city",
+      "city": "Lansing",
+      "county": "Ingham",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Anyone can request non-emergency city services in Lansing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call 3-1-1 or use the online 3-1-1 portal"
+    ],
+    "whatToBring": [
+      "Location of the issue and a description"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lansing 3-1-1 (dial within the city)",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "Lansing 3-1-1",
+        "value": "https://www.lansingmi.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lansing 3-1-1",
+        "url": "https://www.lansingmi.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.lansingmi.gov/311"
+    ]
+  },
+  {
+    "id": "lansing-cata-fares",
+    "name": "CATA — Special Fare Programs",
+    "agency": "Capital Area Transportation Authority (CATA)",
+    "category": "Transportation",
+    "description": "Lansing-area public transit with special fare programs: CATA offers reduced rates for riders who meet certain criteria, plus free travel on specific programs or routes. Cash payments receive free transfer cards valid for 2 hours.",
+    "scope": {
+      "level": "city",
+      "city": "Lansing",
+      "county": "Ingham",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Reduced-rate eligibility criteria apply — vary by program",
+      "CATA rider in the Lansing service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for reduced-fare eligibility if applicable"
+    ],
+    "whatToBring": [
+      "Proof of eligibility for reduced-fare programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CATA",
+        "value": "517-394-1100"
+      },
+      {
+        "kind": "email",
+        "label": "CATA",
+        "value": "info@cata.org"
+      },
+      {
+        "kind": "web",
+        "label": "CATA fares",
+        "value": "https://www.cata.org/Fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CATA fares and special fare programs",
+        "url": "https://www.cata.org/Fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.cata.org/Fares"
+    ]
+  },
+  {
+    "id": "annarbor-fixit",
+    "name": "A2 Fix It — Report a Problem",
+    "agency": "City of Ann Arbor",
+    "category": "Legal Aid",
+    "description": "Ann Arbor's official issue-reporting portal (A2 Fix It, powered by SeeClickFix): report potholes, graffiti, streetlight outages, missed trash, and other problems online or via the mobile app.",
+    "scope": {
+      "level": "city",
+      "city": "Ann Arbor",
+      "county": "Washtenaw",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Anyone can report an issue in the City of Ann Arbor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Submit a report through the A2 Fix It portal or app"
+    ],
+    "whatToBring": [
+      "Location of the issue and a description (photos help)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "A2 Fix It — report a problem",
+        "value": "https://www.a2gov.org/a2fixit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "A2 Fix It — report a problem",
+        "url": "https://www.a2gov.org/a2fixit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.a2gov.org/a2fixit"
+    ]
+  },
+  {
+    "id": "annarbor-theride",
+    "name": "TheRide (AAATA) — Ann Arbor Area Transit",
+    "agency": "Ann Arbor Area Transportation Authority (TheRide)",
+    "category": "Transportation",
+    "description": "Public transit for the Ann Arbor and Ypsilanti area, including fixed-route buses, paratransit (A-Ride) for riders with disabilities, FlexRide on-demand service, and fare discount programs. Plan trips and buy fares online or in person.",
+    "scope": {
+      "level": "city",
+      "city": "Ann Arbor",
+      "county": "Washtenaw",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Fare discount programs have eligibility criteria — see TheRide",
+      "A-Ride paratransit requires ADA eligibility determination"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for fare discount or A-Ride eligibility if applicable"
+    ],
+    "whatToBring": [
+      "Proof of eligibility for discount or paratransit programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TheRide",
+        "value": "734-996-0400"
+      },
+      {
+        "kind": "web",
+        "label": "TheRide",
+        "value": "https://www.theride.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TheRide",
+        "url": "https://www.theride.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.theride.org/"
+    ]
+  },
+  {
+    "id": "annarbor-district-library",
+    "name": "Ann Arbor District Library",
+    "agency": "Ann Arbor District Library",
+    "category": "Education",
+    "description": "Free public library services across Ann Arbor: books and media lending, public computers and Wi-Fi, digital collections, author events, and extensive children's, teen, and adult programming.",
+    "scope": {
+      "level": "city",
+      "city": "Ann Arbor",
+      "county": "Washtenaw",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Library card free to Ann Arbor District residents",
+      "Nonresident options available — see library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of district address for a resident card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ann Arbor District Library",
+        "value": "(734) 327-4200"
+      },
+      {
+        "kind": "web",
+        "label": "Ann Arbor District Library",
+        "value": "https://aadl.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ann Arbor District Library",
+        "url": "https://aadl.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://aadl.org/"
+    ]
+  },
+  {
+    "id": "flint-mta-reduced-fare",
+    "name": "MTA Flint — Reduced Fare Eligibility Card",
+    "agency": "Mass Transportation Authority (MTA) — Flint",
+    "category": "Transportation",
+    "description": "Reduced MTA bus fares for seniors over age 65, people with disabilities, and Medicare cardholders in the Flint/Genesee County area. Apply for a Reduced Fare Eligibility Card to ride at the discounted rate.",
+    "scope": {
+      "level": "city",
+      "city": "Flint",
+      "county": "Genesee",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Senior over age 65, person with a disability, or Medicare cardholder",
+      "MTA Flint rider"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a Reduced Fare Eligibility Card"
+    ],
+    "whatToBring": [
+      "Proof of age, disability, or Medicare enrollment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MTA Flint",
+        "value": "(810) 767-0100"
+      },
+      {
+        "kind": "web",
+        "label": "MTA reduced fare eligibility card",
+        "value": "https://www.mtaflint.org/mta-reduced-fare-eligibility-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MTA reduced fare eligibility card",
+        "url": "https://www.mtaflint.org/mta-reduced-fare-eligibility-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.mtaflint.org/mta-reduced-fare-eligibility-card/"
+    ]
+  },
+  {
+    "id": "flint-public-library",
+    "name": "Flint Public Library",
+    "agency": "Flint Public Library",
+    "category": "Education",
+    "description": "Free public library services for the Flint community: books and media lending, public computers and Wi-Fi, digital resources, and children's, teen, and adult programs.",
+    "scope": {
+      "level": "city",
+      "city": "Flint",
+      "county": "Genesee",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Library card free to Flint residents",
+      "Nonresident options available — see library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a library card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Flint Public Library",
+        "value": "(810) 232-7111"
+      },
+      {
+        "kind": "email",
+        "label": "Flint Public Library",
+        "value": "askus@fpl.info"
+      },
+      {
+        "kind": "web",
+        "label": "Flint Public Library",
+        "value": "https://www.fpl.info/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Flint Public Library",
+        "url": "https://www.fpl.info/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.fpl.info/"
+    ]
+  },
+  {
+    "id": "kent-health",
+    "name": "Kent County Health Department",
+    "agency": "Kent County Health Department",
+    "category": "Healthcare",
+    "description": "Public health services for Kent County (Grand Rapids area): immunizations, maternal and child health, communicable disease services, environmental health, and community wellness programs.",
+    "scope": {
+      "level": "county",
+      "county": "Kent",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Kent County resident",
+      "Some programs have income or eligibility requirements — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit to confirm clinic hours and appointment needs"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kent County Health Department",
+        "value": "(616) 632-7100"
+      },
+      {
+        "kind": "web",
+        "label": "Kent County Health Department",
+        "value": "https://www.accesskent.com/Health/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kent County Health Department",
+        "url": "https://www.accesskent.com/Health/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.accesskent.com/Health/"
+    ]
+  },
+  {
+    "id": "kent-westmi-works",
+    "name": "West Michigan Works!",
+    "agency": "West Michigan Works! (Michigan Works! agency)",
+    "category": "Employment",
+    "description": "Workforce development for the West Michigan region including Kent County: job search assistance, career coaching, training funds, and employer hiring services. Part of the Michigan Works! and American Job Center networks.",
+    "scope": {
+      "level": "county",
+      "county": "Kent",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Resident of the West Michigan Works! service area (including Kent County)",
+      "Some training programs have eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Register for services online or visit a service center"
+    ],
+    "whatToBring": [
+      "Photo ID and work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "West Michigan Works!",
+        "value": "1-800-285-9675"
+      },
+      {
+        "kind": "web",
+        "label": "West Michigan Works!",
+        "value": "https://www.westmiworks.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "West Michigan Works!",
+        "url": "https://www.westmiworks.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.westmiworks.org/"
+    ]
+  },
+  {
+    "id": "ingham-health",
+    "name": "Ingham County Health Department",
+    "agency": "Ingham County Health Department",
+    "category": "Healthcare",
+    "description": "Public health services for Ingham County (Lansing area): community health centers, immunizations, maternal and child health, HIV/STD services, and environmental health programs.",
+    "scope": {
+      "level": "county",
+      "county": "Ingham",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Ingham County resident",
+      "Community health centers serve patients regardless of ability to pay",
+      "Some programs have eligibility requirements — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit to confirm clinic hours and appointment needs"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ingham County Health Department",
+        "value": "(517) 887-4310"
+      },
+      {
+        "kind": "web",
+        "label": "Ingham County Health Department",
+        "value": "https://hd.ingham.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ingham County Health Department",
+        "url": "https://hd.ingham.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://hd.ingham.org/"
+    ]
+  },
+  {
+    "id": "ingham-camw",
+    "name": "Capital Area Michigan Works!",
+    "agency": "Capital Area Michigan Works! (Michigan Works! agency)",
+    "category": "Employment",
+    "description": "Workforce development for the capital region including Ingham County: job seeker services, career advising, training programs, and business services. Part of the Michigan Works! and American Job Center networks.",
+    "scope": {
+      "level": "county",
+      "county": "Ingham",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Resident of the Capital Area Michigan Works! service area (including Ingham County)",
+      "Some training programs have eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Register for services online or visit a service center"
+    ],
+    "whatToBring": [
+      "Photo ID and work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Capital Area Michigan Works!",
+        "value": "(517) 492-5500"
+      },
+      {
+        "kind": "web",
+        "label": "Capital Area Michigan Works!",
+        "value": "https://www.camw.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Capital Area Michigan Works!",
+        "url": "https://www.camw.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.camw.org/"
+    ]
+  },
+  {
+    "id": "washtenaw-health",
+    "name": "Washtenaw County Health Department",
+    "agency": "Washtenaw County Health Department",
+    "category": "Healthcare",
+    "description": "Public health services for Washtenaw County (Ann Arbor area): immunizations, maternal and infant health, communicable disease control, and community health programs.",
+    "scope": {
+      "level": "county",
+      "county": "Washtenaw",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Washtenaw County resident",
+      "Some programs have income or eligibility requirements — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit to confirm clinic hours and appointment needs"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Washtenaw County Health Department",
+        "value": "https://www.washtenaw.org/health"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Washtenaw County Health Department",
+        "url": "https://www.washtenaw.org/health"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.washtenaw.org/health"
+    ]
+  },
+  {
+    "id": "washtenaw-mwse",
+    "name": "Michigan Works! Southeast",
+    "agency": "Michigan Works! Southeast (Michigan Works! agency)",
+    "category": "Employment",
+    "description": "Workforce development for Southeast Michigan including Washtenaw County: job search help, career services, training opportunities, and employer services. Proud partner of the American Job Center network.",
+    "scope": {
+      "level": "county",
+      "county": "Washtenaw",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Resident of the Michigan Works! Southeast service area (including Washtenaw County)",
+      "Some training programs have eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Register for services online or visit a service center"
+    ],
+    "whatToBring": [
+      "Photo ID and work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Michigan Works! Southeast",
+        "value": "1-800-285-9675"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan Works! Southeast",
+        "value": "https://www.mwse.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Works! Southeast",
+        "url": "https://www.mwse.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.mwse.org/"
+    ]
+  },
+  {
+    "id": "genesee-health",
+    "name": "Genesee County Health Department",
+    "agency": "Genesee County Health Department",
+    "category": "Healthcare",
+    "description": "Public health services for Genesee County (Flint area): immunizations, maternal and child health, communicable disease services, and community health programs.",
+    "scope": {
+      "level": "county",
+      "county": "Genesee",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Genesee County resident",
+      "Some programs have income or eligibility requirements — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit to confirm clinic hours and appointment needs"
+    ],
+    "whatToBring": [
+      "Photo ID, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Genesee County Health Department",
+        "value": "(810) 257-3612"
+      },
+      {
+        "kind": "web",
+        "label": "Genesee County Health Department",
+        "value": "https://www.geneseecountymi.gov/departments/health_department"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Genesee County Health Department",
+        "url": "https://www.geneseecountymi.gov/departments/health_department"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.geneseecountymi.gov/departments/health_department"
+    ]
+  },
+  {
+    "id": "genesee-gst-miworks",
+    "name": "GST Michigan Works!",
+    "agency": "GST Michigan Works! (Michigan Works! agency)",
+    "category": "Employment",
+    "description": "Workforce development for the Flint/Genesee County area: job search assistance, career services, training programs, and employer hiring support. Part of the Michigan Works! network.",
+    "scope": {
+      "level": "county",
+      "county": "Genesee",
+      "state": "MI"
+    },
+    "eligibility": [
+      "Resident of the GST Michigan Works! service area (Genesee County/Flint area)",
+      "Some training programs have eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ongoing — no fixed deadline."
+      }
+    ],
+    "prerequisites": [
+      "Register for services online or visit a service center"
+    ],
+    "whatToBring": [
+      "Photo ID and work authorization documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GST Michigan Works!",
+        "value": "https://www.gstmiworks.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GST Michigan Works!",
+        "url": "https://www.gstmiworks.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.gstmiworks.org/"
+    ]
   }
 ]
