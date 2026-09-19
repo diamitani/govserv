@@ -94771,5 +94771,1619 @@
       "Proof of income or qualifying-program participation",
       "Photo ID"
     ]
+  },
+  {
+    "id": "pr-pan",
+    "name": "PAN (Programa de Asistencia Nutricional)",
+    "agency": "Administracion de Desarrollo Socioeconomico de la Familia (ADSEF)",
+    "category": "Food",
+    "description": "Puerto Rico's nutrition assistance program for low-income households. Applications are submitted through the ADSEF Digital portal; ADSEF publishes its document requirements guide and reports eligibility decisions within 30 calendar days of a completed application.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Low-income households in Puerto Rico",
+      "Must meet the documentation and program requirements in the ADSEF requirements guide"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Submit application through ADSEF Digital"
+    ],
+    "whatToBring": [
+      "Identity, income, and household documents listed in the ADSEF PAN requirements guide"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PAN information line",
+        "value": "787-289-7632"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-981-8056"
+      },
+      {
+        "kind": "phone",
+        "label": "Hearing-impaired line",
+        "value": "1-800-981-7641"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through ADSEF Digital",
+        "url": "https://serviciosenlinea.adsef.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; benefits are issued to eligible households",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://serviciosenlinea.adsef.pr.gov/",
+      "https://serviciosenlinea.adsef.pr.gov/ADSEFDIGITAL/Pdf/PAN%20Requisitos.pdf"
+    ]
+  },
+  {
+    "id": "pr-tanf",
+    "name": "TANF (Ayuda Temporal para Familias Necesitadas)",
+    "agency": "Administracion de Desarrollo Socioeconomico de la Familia (ADSEF)",
+    "category": "Family & Childcare",
+    "description": "Temporary cash assistance for families in need, administered by ADSEF. The program covers six assistance categories, each with its own documentation requirements published in the official TANF requirements guide. Applications are submitted through the ADSEF Digital portal.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Families in Puerto Rico meeting TANF program criteria",
+      "Category-specific requirements apply (see the official requirements guide)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Identify the applicable assistance category and gather its required documents"
+    ],
+    "whatToBring": [
+      "Category-specific documents listed in the ADSEF TANF requirements guide"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADSEF information line",
+        "value": "787-289-7632"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through ADSEF Digital",
+        "url": "https://serviciosenlinea.adsef.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://serviciosenlinea.adsef.pr.gov/",
+      "https://serviciosenlinea.adsef.pr.gov/ADSEFDIGITAL/Pdf/TANF%20Requisitos.pdf"
+    ]
+  },
+  {
+    "id": "pr-wic",
+    "name": "WIC Puerto Rico",
+    "agency": "Departamento de Salud de Puerto Rico — Programa WIC",
+    "category": "Family & Childcare",
+    "description": "Nutrition assistance for pregnant and postpartum women, infants, and children under 5. Participants must meet income and nutritional-risk criteria; check the current income-eligibility guide on wic.pr.gov, since the figures in the 2024-2025 guide expired June 30, 2025.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum women",
+      "Infants and children under 5",
+      "Income and nutritional-risk requirements apply (see the current eligibility guide on wic.pr.gov)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact a WIC clinic to schedule a certification appointment"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and proof of Puerto Rico residence for all household members applying"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WIC Puerto Rico program site",
+        "value": "https://wic.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program information and clinic access",
+        "url": "https://wic.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to participants",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wic.pr.gov/",
+      "https://www.wic.pr.gov/assets/pdf-web/GUIA%20DE%20ELEGIBILIDAD%20DE%20INGRESOS%20%202024-2025.pdf"
+    ]
+  },
+  {
+    "id": "pr-plan-vital",
+    "name": "Plan Vital (Medicaid Puerto Rico)",
+    "agency": "Departamento de Salud de Puerto Rico / ASES",
+    "category": "Healthcare",
+    "description": "Puerto Rico's Medicaid program, Plan Vital, provides health coverage to eligible low-income residents. Applications can be submitted online at medicaid.pr.gov; in-person offices include Bayamon, Caguas, Metropolitana, and Ponce. Enrollment counseling is available through ASES.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet Medicaid income and program criteria",
+      "U.S. citizens and eligible non-citizens per program rules"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to begin an application"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and proof of Puerto Rico residence"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid application line",
+        "value": "787-641-4224"
+      },
+      {
+        "kind": "phone",
+        "label": "ASES enrollment counseling (Mon-Fri 8am-6pm)",
+        "value": "1-833-253-7721"
+      },
+      {
+        "kind": "phone",
+        "label": "ASES TTY",
+        "value": "1-888-984-0128"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online for Plan Vital",
+        "url": "https://medicaid.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; covered services per program rules",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://medicaid.pr.gov/",
+      "https://asespr.org/"
+    ]
+  },
+  {
+    "id": "pr-liheap",
+    "name": "LIHEAP Puerto Rico (energy assistance)",
+    "agency": "Administracion de Desarrollo Socioeconomico de la Familia (ADSEF)",
+    "category": "Utilities",
+    "description": "ADSEF administers Puerto Rico's LIHEAP energy assistance: subsidy and crisis payments toward home energy costs. The May 8 to September 30, 2025 application round is closed; check ADSEF for the next announced application window.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Households meeting LIHEAP income and program criteria",
+      "Application is accepted only during announced rounds"
+    ],
+    "deadlines": [
+      {
+        "date": "2025-09-30",
+        "label": "2025 LIHEAP application round",
+        "note": "Closed. Check ADSEF for the next announced window."
+      }
+    ],
+    "prerequisites": [
+      "Wait for the next announced application round"
+    ],
+    "whatToBring": [
+      "Documents specified in the ADSEF LIHEAP benefits notice when a new round opens"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIHEAP coordinator",
+        "value": "787-792-3733"
+      },
+      {
+        "kind": "email",
+        "label": "LIHEAP coordination",
+        "value": "coordinadorliheap@familia.pr.gov"
+      },
+      {
+        "kind": "email",
+        "label": "ADSEF consultations",
+        "value": "consultaadsef@familia.pr.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ADSEF Digital portal (check for the next round)",
+        "url": "https://serviciosenlinea.adsef.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; payments are issued toward energy costs for eligible households",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://serviciosenlinea.adsef.pr.gov/documents/Aviso-Disponibilidad-de-Beneficios-LIHEAP.pdf"
+    ]
+  },
+  {
+    "id": "pr-desempleo-digital",
+    "name": "Desempleo Digital (Unemployment Insurance)",
+    "agency": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "category": "Employment",
+    "description": "Puerto Rico's unemployment insurance claims platform. DTRH announced that Desempleo Digital is available starting September 1, 2026 through trabajo.pr.gov, where claimants can manage claims, submit documents, update information, and complete transactions online.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Workers in Puerto Rico who meet unemployment insurance eligibility criteria"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Employment history and separation information"
+    ],
+    "whatToBring": [
+      "Identification and employment/wage documentation for filing or managing a claim"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DTRH official site",
+        "value": "https://www.trabajo.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access Desempleo Digital at DTRH",
+        "url": "https://www.trabajo.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to file and manage claims",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.trabajo.pr.gov/",
+      "https://www.trabajo.pr.gov/docs/Prensa/2026-07-16 Departamento del Trabajo reprograma lanzamiento de plataforma Desempleo Digital.pdf"
+    ]
+  },
+  {
+    "id": "pr-arv-vocational-rehab",
+    "name": "Administracion de Rehabilitacion Vocacional (ARV)",
+    "agency": "Administracion de Rehabilitacion Vocacional (ARV)",
+    "category": "Disability",
+    "description": "Island-wide vocational rehabilitation services for people with disabilities: individualized rehabilitation planning, counseling, transition services, supported employment, post-employment services, evaluation, and physical/mental restoration services.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents with disabilities seeking employment-related rehabilitation services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact ARV to begin an intake for services"
+    ],
+    "whatToBring": [
+      "Identification and any medical or disability documentation available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ARV central line",
+        "value": "787-729-0160"
+      },
+      {
+        "kind": "web",
+        "label": "ARV official site",
+        "value": "https://arv.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ARV services information",
+        "url": "https://arv.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to eligible participants",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://arv.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-opdpi-disability-rights",
+    "name": "Oficina del Procurador de las Personas con Impedimentos (OPDPI)",
+    "agency": "Oficina del Procurador de las Personas con Impedimentos (OPDPI)",
+    "category": "Disability",
+    "description": "Puerto Rico's protection and advocacy office for people with disabilities. OPDPI provides rights defense, accessibility outreach, and assistance with discrimination and service-access issues affecting people with disabilities.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "People with disabilities in Puerto Rico",
+      "Family members and advocates acting on their behalf"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to request assistance"
+    ],
+    "whatToBring": [
+      "Description of the rights or access issue and any supporting documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OPDPI line",
+        "value": "787-665-2120"
+      },
+      {
+        "kind": "email",
+        "label": "OPDPI",
+        "value": "info@opdpi.pr.gov"
+      },
+      {
+        "kind": "web",
+        "label": "OPDPI official site",
+        "value": "https://opdpi.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Request assistance from OPDPI",
+        "url": "https://opdpi.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://opdpi.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-avp-public-housing",
+    "name": "Administracion de Vivienda Publica (public housing)",
+    "agency": "Administracion de Vivienda Publica (AVP)",
+    "category": "Housing",
+    "description": "Puerto Rico's public housing program for low-income families. Online applications for available public-housing units are submitted through the AVP portal; AVP also operates an online portal for current Section 8 participants.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Low-income families and individuals meeting public-housing criteria",
+      "Applications accepted for available units"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Create an account on the AVP online portal to apply"
+    ],
+    "whatToBring": [
+      "Identification, income, and household-composition documents per the online application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Reasonable accommodation contact",
+        "value": "787-759-9407 ext. 3007"
+      },
+      {
+        "kind": "web",
+        "label": "AVP official site",
+        "value": "https://avp.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online for public housing units",
+        "url": "https://prphaenlinea.avp.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; rents are income-based for eligible residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://avp.pr.gov/",
+      "https://prphaenlinea.avp.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-oppea-seniors",
+    "name": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "agency": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "category": "Seniors",
+    "description": "Puerto Rico's advocate office for older adults. OPPEA provides assistance and service coordination, caregiver support, long-term-care resident advocacy, and administrative complaints concerning older adults' rights. Regional offices include San Juan and Ponce.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Older adults in Puerto Rico",
+      "Caregivers and family members seeking guidance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to request assistance"
+    ],
+    "whatToBring": [
+      "Description of the need or rights issue and any supporting documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "San Juan office",
+        "value": "787-721-6121"
+      },
+      {
+        "kind": "phone",
+        "label": "Ponce office",
+        "value": "787-841-1180"
+      },
+      {
+        "kind": "web",
+        "label": "OPPEA official site",
+        "value": "https://oppea.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OPPEA services and office directory",
+        "url": "https://oppea.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oppea.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-opv-veterans",
+    "name": "Oficina del Procurador del Veterano (Veterans Advocate)",
+    "agency": "Oficina del Procurador del Veterano (OPV)",
+    "category": "Veterans",
+    "description": "Puerto Rico's veterans advocate office. OPV provides confidential referrals and guidance on veterans' welfare, health, safety, and rights, and coordinates veterans services including Casa del Veterano admissions and the Atlantic Garden Veterans Cemetery.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Veterans in Puerto Rico",
+      "Family members seeking referrals for a veteran"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to request a referral"
+    ],
+    "whatToBring": [
+      "Veteran status documentation if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OPV line",
+        "value": "787-758-5760"
+      },
+      {
+        "kind": "web",
+        "label": "OPV official site",
+        "value": "https://opv.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans services and referrals",
+        "url": "https://opv.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://opv.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-casa-del-veterano",
+    "name": "Casa del Veterano (veterans residential home)",
+    "agency": "Oficina del Procurador del Veterano (OPV)",
+    "category": "Veterans",
+    "description": "Puerto Rico's residential home for veterans. Admissions are handled by the Office of the Veterans Advocate; call the admissions line weekdays from 8 a.m. to 5 p.m. for eligibility and availability information.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Veterans meeting Casa del Veterano admission criteria (call for details)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact the admissions line to begin the process"
+    ],
+    "whatToBring": [
+      "Veteran status documentation and medical information as requested during admissions"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Casa del Veterano admissions (Mon-Fri 8am-5pm)",
+        "value": "787-837-6574"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans Advocate site (admissions info)",
+        "url": "https://opv.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Per admissions guidance",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://opv.pr.gov/"
+    ]
+  },
+  {
+    "id": "pr-acuden-head-start",
+    "name": "ACUDEN Head Start / Early Head Start",
+    "agency": "Administracion para el Cuidado y Desarrollo Integral de la Ninez (ACUDEN)",
+    "category": "Family & Childcare",
+    "description": "Free early-childhood education and family services through Head Start and Early Head Start, administered island-wide by ACUDEN with local subrecipient agencies. Applications are submitted through the ACUDEN Digital portal.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Children from birth to age 5 and their families meeting Head Start/Early Head Start criteria",
+      "Priority for income-eligible families"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Submit a request through ACUDEN Digital"
+    ],
+    "whatToBring": [
+      "Child's birth certificate, proof of income, and proof of Puerto Rico residence"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central Head Start line",
+        "value": "787-294-4900"
+      },
+      {
+        "kind": "web",
+        "label": "ACUDEN official site",
+        "value": "https://www.acuden.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through ACUDEN Digital",
+        "url": "https://acudendigital.familia.pr.gov"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to eligible families",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.acuden.pr.gov/",
+      "https://acudendigital.familia.pr.gov"
+    ]
+  },
+  {
+    "id": "pr-suri-tax-filing",
+    "name": "SURI electronic tax filing (Hacienda)",
+    "agency": "Departamento de Hacienda de Puerto Rico",
+    "category": "Money & Taxes",
+    "description": "Puerto Rico's electronic income-tax filing: Hacienda confirms returns can be filed electronically through SURI or certified software. The standard deadline for calendar-year individual filers is April 15.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Individuals and businesses with Puerto Rico tax filing obligations"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Calendar-year individual return deadline",
+        "note": "Standard deadline is April 15 each year per Hacienda guidance."
+      }
+    ],
+    "prerequisites": [
+      "SURI account or certified filing software"
+    ],
+    "whatToBring": [
+      "Income statements (e.g., W-2PR/480 forms), deductions documentation, and prior-year return if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hacienda official site",
+        "value": "https://hacienda.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hacienda e-filing information",
+        "url": "https://hacienda.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free through SURI; certified software may charge fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hacienda.pr.gov/",
+      "https://hacienda.pr.gov/node/126"
+    ]
+  },
+  {
+    "id": "pr-cesco-driver-services",
+    "name": "CESCO driver and vehicle services",
+    "agency": "Departamento de Transportacion y Obras Publicas (DTOP)",
+    "category": "Transportation",
+    "description": "Driver's license, vehicle registration, and identification transactions at CESCO service stations across Puerto Rico. Appointments are scheduled through the CESCO appointment system; the CESCO Digital app is also available.",
+    "scope": {
+      "level": "state",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Drivers and vehicle owners in Puerto Rico"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Schedule an appointment for in-person CESCO transactions"
+    ],
+    "whatToBring": [
+      "Identification and transaction-specific documents per the CESCO requirements for the requested service"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CESCO appointment system",
+        "value": "https://cesco.turnospr.com/"
+      },
+      {
+        "kind": "web",
+        "label": "DTOP official site",
+        "value": "https://www.dtop.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Schedule a CESCO appointment",
+        "url": "https://cesco.turnospr.com/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Fees vary by transaction; published by DTOP",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cesco.turnospr.com/",
+      "https://cescodigital.dtop.pr.gov",
+      "https://www.dtop.pr.gov/"
+    ]
+  },
+  {
+    "id": "sanjuan-slpr-metro-legal",
+    "name": "Servicios Legales de Puerto Rico — Metropolitan office (San Juan)",
+    "agency": "Servicios Legales de Puerto Rico",
+    "category": "Legal Aid",
+    "description": "Free civil legal services for qualifying Puerto Rico residents, through the Metropolitan (San Juan-area) intake office. Centralized intake operates statewide; call 1-800-981-5342 (TTY 711) or the metro line.",
+    "scope": {
+      "level": "city",
+      "city": "San Juan",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet income-eligibility criteria for free civil legal services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Call the intake line to determine eligibility and schedule service"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and documents related to the legal matter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metro (San Juan) line",
+        "value": "787-763-5103"
+      },
+      {
+        "kind": "phone",
+        "label": "Centralized intake (toll-free)",
+        "value": "1-800-981-5342"
+      },
+      {
+        "kind": "phone",
+        "label": "Metro intake",
+        "value": "787-728-5070"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free legal services brochure and intake numbers (PDF)",
+        "url": "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+    ]
+  },
+  {
+    "id": "sanjuan-ati-transit",
+    "name": "ATI public transportation (Tren Urbano, buses, ferries)",
+    "agency": "Autoridad de Transporte Integrado (ATI)",
+    "category": "Transportation",
+    "description": "Integrated public transportation for the San Juan metro area and beyond: Tren Urbano rail, 32 fixed bus routes, the Catano-Old San Juan ferry, Ceiba-Vieques/Culebra routes, and Llame y Viaje complementary transportation for people with disabilities.",
+    "scope": {
+      "level": "city",
+      "city": "San Juan",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Llame y Viaje requires ADA paratransit eligibility"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None for fixed-route and ferry service"
+    ],
+    "whatToBring": [
+      "Fare payment for boarding"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ATI official site",
+        "value": "http://www.ati.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ATI routes and services",
+        "url": "http://www.ati.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Fares apply; check current fare information on the ATI site",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.ati.pr.gov/"
+    ]
+  },
+  {
+    "id": "sanjuan-derecho-a-techo",
+    "name": "Derecho a Techo (homeless services Continuum of Care)",
+    "agency": "Derecho a Techo / HUD Continuum of Care (via Sol Por Hoy)",
+    "category": "Housing",
+    "description": "HUD-funded Continuum of Care covering the San Juan metro area including Bayamon and Carolina. Its Coordinated Assessment System evaluates people at risk of or experiencing homelessness and refers them to housing and services. HUD lists the toll-free line 1-844-648-3246 and office number (787) 626-1894.",
+    "scope": {
+      "level": "city",
+      "city": "San Juan",
+      "state": "PR"
+    },
+    "eligibility": [
+      "People at risk of or experiencing homelessness in the covered municipalities (San Juan, Bayamon, Carolina, and others in the service area)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact the CoC for a coordinated assessment"
+    ],
+    "whatToBring": [
+      "Identification and any documentation of the housing situation, if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-844-648-3246"
+      },
+      {
+        "kind": "phone",
+        "label": "Office",
+        "value": "787-626-1894"
+      },
+      {
+        "kind": "web",
+        "label": "Sol Por Hoy site",
+        "value": "https://soloporhoy.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD Puerto Rico: Derecho a Techo contact and coverage",
+        "url": "https://www.hud.gov/states/puerto-rico"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/states/puerto-rico"
+    ]
+  },
+  {
+    "id": "bayamon-slpr-legal",
+    "name": "Servicios Legales de Puerto Rico — Bayamon office",
+    "agency": "Servicios Legales de Puerto Rico",
+    "category": "Legal Aid",
+    "description": "Free civil legal services for qualifying residents through the Bayamon regional office. Centralized statewide intake is 1-800-981-5342 (TTY 711).",
+    "scope": {
+      "level": "city",
+      "city": "Bayamón",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet income-eligibility criteria for free civil legal services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Call to determine eligibility and schedule service"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and documents related to the legal matter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bayamon office",
+        "value": "787-785-3858"
+      },
+      {
+        "kind": "phone",
+        "label": "Centralized intake (toll-free)",
+        "value": "1-800-981-5342"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free legal services brochure and intake numbers (PDF)",
+        "url": "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+    ]
+  },
+  {
+    "id": "bayamon-plan-vital-office",
+    "name": "Plan Vital (Medicaid) local office — Bayamon",
+    "agency": "Departamento de Salud de Puerto Rico / ASES",
+    "category": "Healthcare",
+    "description": "Local in-person access point for Plan Vital (Puerto Rico Medicaid) in Bayamon. Medicaid's site confirms offices in Bayamon, Caguas, Metropolitana, and Ponce; applications can also be submitted online at medicaid.pr.gov.",
+    "scope": {
+      "level": "city",
+      "city": "Bayamón",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet Medicaid income and program criteria"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to begin an application"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and proof of Puerto Rico residence"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid application line",
+        "value": "787-641-4224"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online",
+        "value": "https://medicaid.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online for Plan Vital",
+        "url": "https://medicaid.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; covered services per program rules",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://medicaid.pr.gov/"
+    ]
+  },
+  {
+    "id": "carolina-slpr-legal",
+    "name": "Servicios Legales de Puerto Rico — Carolina office",
+    "agency": "Servicios Legales de Puerto Rico",
+    "category": "Legal Aid",
+    "description": "Free civil legal services for qualifying residents through the Carolina regional office. Centralized statewide intake is 1-800-981-5342 (TTY 711).",
+    "scope": {
+      "level": "city",
+      "city": "Carolina",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet income-eligibility criteria for free civil legal services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Call to determine eligibility and schedule service"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and documents related to the legal matter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Carolina office",
+        "value": "787-752-2941"
+      },
+      {
+        "kind": "phone",
+        "label": "Centralized intake (toll-free)",
+        "value": "1-800-981-5342"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free legal services brochure and intake numbers (PDF)",
+        "url": "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+    ]
+  },
+  {
+    "id": "carolina-sitrac-paratransit",
+    "name": "SITRAC ADA Paratransit (Carolina)",
+    "agency": "Municipio de Carolina — Sistema Intermodal de Transportacion (SITRAC)",
+    "category": "Transportation",
+    "description": "Shared-ride ADA paratransit for people unable to use fixed-route transit because of a disability or disabling health condition. The Municipality of Carolina provides the service on its rural routes; it is free of charge, operates Monday-Friday 6 a.m.-6 p.m., and requires an approved eligibility application submitted at the SITRAC office (General Services Department, 2nd floor, City Hall). Rides are reserved 1-14 days ahead by phone.",
+    "scope": {
+      "level": "city",
+      "city": "Carolina",
+      "state": "PR"
+    },
+    "eligibility": [
+      "People unable to use SITRAC fixed routes due to a qualifying disability (physical, mental, or visual)",
+      "Approved ADA paratransit eligibility application required"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Complete the ADA paratransit application and receive written eligibility determination (within 21 days of a complete application)"
+    ],
+    "whatToBring": [
+      "Application form and documentation of the disability or health condition"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SITRAC ride reservations (exts. 8627 / 8688)",
+        "value": "787-757-2626"
+      },
+      {
+        "kind": "web",
+        "label": "Municipio de Carolina",
+        "value": "https://www.municipiocarolina.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SITRAC ADA Paratransit rider guide and application info (PDF)",
+        "url": "https://www.municipiocarolina.com/wp-content/uploads/2024/05/ADA-Paratransit-Riders-Guide-Rev-July-2023-DSG-sin-logo.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free (no fares charged)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.municipiocarolina.com/wp-content/uploads/2024/05/ADA-Paratransit-Riders-Guide-Rev-July-2023-DSG-sin-logo.pdf"
+    ]
+  },
+  {
+    "id": "ponce-slpr-legal",
+    "name": "Servicios Legales de Puerto Rico — Ponce office",
+    "agency": "Servicios Legales de Puerto Rico",
+    "category": "Legal Aid",
+    "description": "Free civil legal services for qualifying residents through the Ponce regional office. Centralized statewide intake is 1-800-981-5342 (TTY 711).",
+    "scope": {
+      "level": "city",
+      "city": "Ponce",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet income-eligibility criteria for free civil legal services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Call to determine eligibility and schedule service"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and documents related to the legal matter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ponce office",
+        "value": "787-844-3232"
+      },
+      {
+        "kind": "phone",
+        "label": "Centralized intake (toll-free)",
+        "value": "1-800-981-5342"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free legal services brochure and intake numbers (PDF)",
+        "url": "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+    ]
+  },
+  {
+    "id": "ponce-oppea-regional",
+    "name": "OPPEA Ponce regional office (senior services)",
+    "agency": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "category": "Seniors",
+    "description": "Ponce regional office of Puerto Rico's advocate for older adults: assistance and service coordination, caregiver support, long-term-care resident advocacy, and administrative complaints concerning older adults' rights.",
+    "scope": {
+      "level": "city",
+      "city": "Ponce",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Older adults in the Ponce region",
+      "Caregivers and family members seeking guidance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None to request assistance"
+    ],
+    "whatToBring": [
+      "Description of the need or rights issue and any supporting documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ponce regional office",
+        "value": "787-841-1180"
+      },
+      {
+        "kind": "web",
+        "label": "OPPEA official site",
+        "value": "https://oppea.pr.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OPPEA services and office directory",
+        "url": "https://oppea.pr.gov/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oppea.pr.gov/"
+    ]
+  },
+  {
+    "id": "caguas-slpr-legal",
+    "name": "Servicios Legales de Puerto Rico — Caguas office",
+    "agency": "Servicios Legales de Puerto Rico",
+    "category": "Legal Aid",
+    "description": "Free civil legal services for qualifying residents through the Caguas regional office. Centralized statewide intake is 1-800-981-5342 (TTY 711).",
+    "scope": {
+      "level": "city",
+      "city": "Caguas",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Puerto Rico residents who meet income-eligibility criteria for free civil legal services"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Call to determine eligibility and schedule service"
+    ],
+    "whatToBring": [
+      "Identification, proof of income, and documents related to the legal matter"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Caguas office",
+        "value": "787-743-9103"
+      },
+      {
+        "kind": "phone",
+        "label": "Centralized intake (toll-free)",
+        "value": "1-800-981-5342"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free legal services brochure and intake numbers (PDF)",
+        "url": "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free for eligible clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://servicioslegales.org/wp-content/documents/bifolder_brochure_SLPR_servicio.pdf"
+    ]
+  },
+  {
+    "id": "caguas-muevete-libre",
+    "name": "Muevete Libre (Caguas municipal transit)",
+    "agency": "Municipio Autonomo de Caguas — Departamento de Movilidad Ciudadana",
+    "category": "Transportation",
+    "description": "Caguas' free municipal transit network: Trolleys, Transcriollo, and Paratransito, integrated from the Centro de Transportacion Francisco 'Pancho' Pereira. The system runs 4 active trolley routes and 7 Transcriollo routes and moved over 86,500 passengers in fiscal year 2024-2025. The free Muévete Libre app (via QR codes at 285 stops) shows real-time arrivals and route planning.",
+    "scope": {
+      "level": "city",
+      "city": "Caguas",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "None required; service is free of cost"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Municipio de Caguas",
+        "value": "https://caguas.gov.pr/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Municipio de Caguas — Muévete Libre transit",
+        "url": "https://caguas.gov.pr/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free of cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://caguas.gov.pr/wp-content/uploads/2026/02/CP-Caguas-lanza-la-aplicacion-Muevete-Libre.pdf",
+      "https://caguas.gov.pr/"
+    ]
+  },
+  {
+    "id": "caguas-head-start-hogar-propio",
+    "name": "Head Start/Early Head Start — Fundacion Hogar Propio (Caguas)",
+    "agency": "ACUDEN via Fundacion Hogar Propio (Caguas subrecipient)",
+    "category": "Family & Childcare",
+    "description": "Caguas-area Head Start and Early Head Start services through ACUDEN subrecipient Fundacion Hogar Propio, listed in the official ACUDEN subrecipient directory. Free early-childhood education and family services for eligible families; apply through ACUDEN Digital.",
+    "scope": {
+      "level": "city",
+      "city": "Caguas",
+      "state": "PR"
+    },
+    "eligibility": [
+      "Children from birth to age 5 and their families meeting Head Start/Early Head Start criteria",
+      "Priority for income-eligible families"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Submit a request through ACUDEN Digital or contact the subrecipient"
+    ],
+    "whatToBring": [
+      "Child's birth certificate, proof of income, and proof of Puerto Rico residence"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fundacion Hogar Propio (Caguas area)",
+        "value": "787-746-1600"
+      },
+      {
+        "kind": "phone",
+        "label": "ACUDEN central Head Start line",
+        "value": "787-294-4900"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through ACUDEN Digital",
+        "url": "https://acudendigital.familia.pr.gov"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to eligible families",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://docs.pr.gov/files/ACUDEN/Early%20Head%20Start%20&%20Head%20Start%20Directorio%20Agencias%20Subdestinatarias/Directorio%20Agencias%20Subdestinatarias%202023.pdf",
+      "https://acudendigital.familia.pr.gov"
+    ]
+  },
+  {
+    "id": "fed-va-caribbean-healthcare",
+    "name": "VA Caribbean Healthcare System (San Juan)",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA health care for veterans in Puerto Rico and the U.S. Virgin Islands, anchored by the San Juan VA Medical Center at 10 Calle Casia, San Juan PR 00921. Enrollment in VA health care is required before appointments; apply online, by phone, or in person with VA Form 10-10EZ. Patient registration offices are open Monday-Friday 7:30 a.m.-3:30 p.m.",
+    "scope": {
+      "level": "federal",
+      "state": "PR",
+      "city": "San Juan"
+    },
+    "eligibility": [
+      "Veterans meeting VA health care eligibility requirements",
+      "Enrollment in VA health care required"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Enroll in VA health care (VA Form 10-10EZ)"
+    ],
+    "whatToBring": [
+      "DD214 or other discharge documents",
+      "VA disability award letters if any",
+      "Income information from the previous calendar year if applicable",
+      "Current ID cards for other health coverage (Medicare, Medicaid, Tricare, private)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Local",
+        "value": "787-641-7582"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-449-8729"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "711"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register for VA Caribbean health care",
+        "url": "https://www.va.gov/caribbean-health-care/register-for-care/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Per VA enrollment and priority-group rules; copays may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/caribbean-health-care/contact-us/",
+      "https://www.va.gov/caribbean-health-care/register-for-care/",
+      "https://www.va.gov/caribbean-health-care/locations/"
+    ]
+  },
+  {
+    "id": "fed-va-ponce-clinic",
+    "name": "VA Ponce outpatient clinic",
+    "agency": "U.S. Department of Veterans Affairs — VA Caribbean Healthcare System",
+    "category": "Veterans",
+    "description": "VA outpatient clinic serving veterans in the Ponce area, part of the VA Caribbean Healthcare System. Located at 1802 Calle Navarra, Ponce PR 00716-2001. Veterans must be enrolled in VA health care (VA Form 10-10EZ) before making appointments.",
+    "scope": {
+      "level": "federal",
+      "state": "PR",
+      "city": "Ponce"
+    },
+    "eligibility": [
+      "Veterans meeting VA health care eligibility requirements",
+      "Enrollment in VA health care required"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Enroll in VA health care (VA Form 10-10EZ)"
+    ],
+    "whatToBring": [
+      "DD214 or other discharge documents",
+      "VA disability award letters if any",
+      "Income information from the previous calendar year if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA Caribbean local line",
+        "value": "787-641-7582"
+      },
+      {
+        "kind": "phone",
+        "label": "VA Caribbean toll-free",
+        "value": "800-449-8729"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register for VA Caribbean health care",
+        "url": "https://www.va.gov/caribbean-health-care/register-for-care/"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Per VA enrollment and priority-group rules; copays may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/caribbean-health-care/locations/",
+      "https://www.va.gov/caribbean-health-care/register-for-care/"
+    ]
+  },
+  {
+    "id": "fed-sba-pr-district",
+    "name": "SBA Puerto Rico and U.S. Virgin Islands District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Federal small-business support for Puerto Rico: funding programs, business counseling, federal contracting certifications, and disaster recovery assistance. The district office is at 273 Ponce de Leon Ave., Suite 510, San Juan.",
+    "scope": {
+      "level": "federal",
+      "state": "PR",
+      "city": "San Juan"
+    },
+    "eligibility": [
+      "Small businesses in Puerto Rico and the U.S. Virgin Islands"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact the district office or a resource partner to determine applicable programs"
+    ],
+    "whatToBring": [
+      "Business formation documents and financial records as required by the specific program"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "District office (unverified)",
+        "value": "787-766-5572 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Puerto Rico district office",
+        "value": "https://www.sba.gov/pr"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Puerto Rico programs and counseling",
+        "url": "https://www.sba.gov/pr"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free counseling; loan terms vary by program",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/pr"
+    ]
+  },
+  {
+    "id": "fed-usda-rd-pr",
+    "name": "USDA Rural Development Puerto Rico",
+    "agency": "U.S. Department of Agriculture — Rural Development",
+    "category": "Housing",
+    "description": "Federal rural housing, community-facility, and business programs in Puerto Rico, run from the San Juan state office. The state office and area offices (including Caguas, 30 Calle Padial) assist eligible rural residents and organizations with single-family housing loans, multifamily rental programs, and related assistance.",
+    "scope": {
+      "level": "federal",
+      "state": "PR",
+      "city": "San Juan"
+    },
+    "eligibility": [
+      "Rural residents and eligible organizations in Puerto Rico per program rules",
+      "Income limits apply to housing programs"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Contact the state or area office to identify the applicable program and application process"
+    ],
+    "whatToBring": [
+      "Identification, income, and property documents as required by the specific program"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State office (San Juan)",
+        "value": "787-766-5095"
+      },
+      {
+        "kind": "phone",
+        "label": "Caguas area office",
+        "value": "787-743-1600"
+      },
+      {
+        "kind": "email",
+        "label": "RD Puerto Rico",
+        "value": "SM.PUERTORICORD@USDA.GOV"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USDA Rural Development Puerto Rico programs",
+        "url": "https://www.rd.usda.gov/pr"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Free to apply; loan terms vary by program",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rd.usda.gov/pr",
+      "https://www.rd.usda.gov/contact-page/puerto-rico-contacts"
+    ]
+  },
+  {
+    "id": "fed-uscis-field-offices",
+    "name": "USCIS field offices (Puerto Rico)",
+    "agency": "U.S. Citizenship and Immigration Services",
+    "category": "Immigration",
+    "description": "USCIS field offices serve Puerto Rico for immigration interviews and in-person services. Field offices do not allow walk-ins; visits require an appointment. Confirm the office address on the appointment notice and check for office closings before traveling.",
+    "scope": {
+      "level": "federal",
+      "state": "PR",
+      "city": "San Juan"
+    },
+    "eligibility": [
+      "Individuals with USCIS cases requiring an in-person interview or appointment"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "USCIS appointment or interview notice"
+    ],
+    "whatToBring": [
+      "Appointment notice, identification, and case documents listed in the notice"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "USCIS Contact Center (unverified)",
+        "value": "800-375-5283 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "USCIS field office finder",
+        "value": "https://www.uscis.gov/about-us/find-a-uscis-office/field-offices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a USCIS field office",
+        "url": "https://www.uscis.gov/about-us/find-a-uscis-office/field-offices"
+      }
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "cost": "Fees vary by form and benefit",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.uscis.gov/about-us/find-a-uscis-office/field-offices"
+    ]
   }
 ]

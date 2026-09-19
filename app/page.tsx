@@ -127,6 +127,7 @@ const ROADMAP = [
   { label: "Vermont", status: "live", note: "47 services indexed" },
   { label: "Wyoming", status: "live", note: "34 services indexed" },
   { label: "District of Columbia", status: "live", note: "40 services indexed" },
+  { label: "Puerto Rico", status: "live", note: "32 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 
