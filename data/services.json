@@ -87901,5 +87901,2659 @@
     "whatToBring": [
       "Immigration documents — see program page for details"
     ]
+  },
+  {
+    "id": "vt-3squares",
+    "name": "3SquaresVT",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Food",
+    "description": "Vermont's Supplemental Nutrition Assistance Program (SNAP): monthly benefits on an EBT card to buy groceries at participating stores and farmers markets.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Gross household income at or below 185% of the Federal Poverty Level",
+      "Vermont residents; households with a member age 60+ or with a disability may qualify above the income limit with an asset review"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits are issued monthly once approved"
+      }
+    ],
+    "prerequisites": [
+      "Apply online through myBenefits or at a DCF district office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of housing and utility expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-642-5119"
+      },
+      {
+        "kind": "web",
+        "label": "3SquaresVT program page",
+        "value": "https://dcf.vermont.gov/benefits/3SquaresVT"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "3SquaresVT program and application info",
+        "url": "https://dcf.vermont.gov/benefits/3SquaresVT"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/3SquaresVT"
+    ]
+  },
+  {
+    "id": "vt-fuel",
+    "name": "Seasonal Fuel Assistance",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Utilities",
+    "description": "Helps eligible Vermont households pay part of their home heating bills during the winter heating season.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents responsible for home heating costs",
+      "Meet program income guidelines (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications are taken for each heating season; apply before winter — see program page for current season dates"
+      }
+    ],
+    "prerequisites": [
+      "Apply online through myBenefits or at a DCF district office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Heating bill or fuel account information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "Seasonal Fuel Assistance program page",
+        "value": "https://dcf.vermont.gov/benefits/fuel"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Seasonal Fuel Assistance program and application info",
+        "url": "https://dcf.vermont.gov/benefits/fuel"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/fuel"
+    ]
+  },
+  {
+    "id": "vt-crisis-fuel",
+    "name": "Crisis Fuel Assistance",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Utilities",
+    "description": "Emergency heating-fuel help for households that are out of fuel, have a shut-off notice, or face another heating emergency.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont households facing a heating emergency",
+      "Meet program income guidelines (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available during the heating season for qualifying emergencies"
+      }
+    ],
+    "prerequisites": [
+      "Contact DCF Economic Services right away in a heating emergency"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Shut-off notice or fuel delivery information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "Crisis Fuel Assistance program page",
+        "value": "https://dcf.vermont.gov/benefits/crisis-fuel"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Crisis Fuel Assistance program info",
+        "url": "https://dcf.vermont.gov/benefits/crisis-fuel"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/crisis-fuel"
+    ]
+  },
+  {
+    "id": "vt-crisis-heat",
+    "name": "Emergency Heating System Repair or Replacement",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Utilities",
+    "description": "Emergency repair or replacement of a broken or unsafe home heating system for eligible households during the heating season.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont households with a non-working or unsafe heating system",
+      "Meet program income guidelines (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available during the heating season for qualifying emergencies"
+      }
+    ],
+    "prerequisites": [
+      "Contact DCF Economic Services about the heating emergency"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Information about the heating system problem"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "Emergency heating system program page",
+        "value": "https://dcf.vermont.gov/benefits/crisis-heat"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Emergency heating system program info",
+        "url": "https://dcf.vermont.gov/benefits/crisis-heat"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/crisis-heat"
+    ]
+  },
+  {
+    "id": "vt-ea-ga",
+    "name": "Emergency and General Assistance (EA/GA)",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Housing",
+    "description": "Short-term emergency help with basic needs — including housing, rent, fuel, and other essentials — for households facing a crisis.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont households facing an emergency with no other resources",
+      "Meet program eligibility rules (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time an emergency arises"
+      }
+    ],
+    "prerequisites": [
+      "Apply through DCF Economic Services; emergencies are assessed promptly"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Documentation of the emergency (e.g., eviction notice, utility shut-off)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Emergency/General Assistance program page",
+        "value": "https://dcf.vermont.gov/benefits/EA-GA"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Emergency/General Assistance program info",
+        "url": "https://dcf.vermont.gov/benefits/EA-GA"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/EA-GA"
+    ]
+  },
+  {
+    "id": "vt-essential-person",
+    "name": "Essential Person Program",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Seniors",
+    "description": "Monthly cash assistance for a person who provides essential care that enables a disabled or elderly individual to remain at home rather than in an institution.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents providing essential in-home care to a disabled or elderly person",
+      "Meet program income and eligibility rules (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online through myBenefits or at a DCF district office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Information about the care arrangement"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-642-5119"
+      },
+      {
+        "kind": "web",
+        "label": "Essential Person program page",
+        "value": "https://dcf.vermont.gov/benefits/essential-person"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Essential Person program info",
+        "url": "https://dcf.vermont.gov/benefits/essential-person"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/essential-person"
+    ]
+  },
+  {
+    "id": "vt-eap",
+    "name": "Energy Assistance Program (Utility Discounts)",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Utilities",
+    "description": "Helps income-eligible Vermonters lower utility costs through energy assistance and referrals to participating energy providers.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont households meeting program income guidelines",
+      "Responsible for electric or gas utility costs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online through myBenefits or at a DCF district office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Utility bill information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Energy Assistance",
+        "value": "1-800-639-8081"
+      },
+      {
+        "kind": "web",
+        "label": "Energy Assistance program page",
+        "value": "https://dcf.vermont.gov/benefits/eap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Energy Assistance program info",
+        "url": "https://dcf.vermont.gov/benefits/eap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/eap"
+    ]
+  },
+  {
+    "id": "vt-f2f",
+    "name": "Farm to Family Program",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Food",
+    "description": "Coupons to buy fresh, locally grown fruits and vegetables at participating Vermont farmers markets.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents meeting program income guidelines (see program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Coupons are issued for the farmers market season; see program page for current dates"
+      }
+    ],
+    "prerequisites": [
+      "Apply through DCF Economic Services during the farmers market season"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Farm to Family program page",
+        "value": "https://dcf.vermont.gov/benefits/f2f"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Farm to Family program info",
+        "url": "https://dcf.vermont.gov/benefits/f2f"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/f2f"
+    ]
+  },
+  {
+    "id": "vt-ican",
+    "name": "ICAN (Individual Career Advancement Network)",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Employment",
+    "description": "Career coaching, job search support, and training connections for Vermonters receiving DCF benefits who want to work or move up.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters receiving DCF Economic Services benefits",
+      "Interested in employment or career advancement"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time"
+      }
+    ],
+    "prerequisites": [
+      "Ask your DCF case manager about ICAN or apply through Economic Services"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Benefit case information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ICAN program page",
+        "value": "https://dcf.vermont.gov/benefits/ican"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ICAN program info",
+        "url": "https://dcf.vermont.gov/benefits/ican"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/ican"
+    ]
+  },
+  {
+    "id": "vt-mbdp",
+    "name": "Micro Business Development Program",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Small Business",
+    "description": "Training, technical assistance, and support for income-eligible Vermonters starting or growing a very small business.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters meeting program income guidelines",
+      "Starting or operating a micro business"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply through DCF Economic Services"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Business idea or business information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Micro Business Development program page",
+        "value": "https://dcf.vermont.gov/benefits/mbdp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Micro Business Development program info",
+        "url": "https://dcf.vermont.gov/benefits/mbdp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/mbdp"
+    ]
+  },
+  {
+    "id": "vt-reach-up",
+    "name": "Reach Up",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Family & Childcare",
+    "description": "Vermont's TANF program: monthly cash assistance plus case management, work supports, and services to help families with children reach self-sufficiency.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Families with dependent children",
+      "Vermont residents meeting income and asset limits",
+      "Participation in assigned work-related activities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online through myBenefits or at a DCF district office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and assets",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "Reach Up program page",
+        "value": "https://dcf.vermont.gov/benefits/reachup"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Reach Up program and application info",
+        "url": "https://dcf.vermont.gov/benefits/reachup"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/reachup"
+    ]
+  },
+  {
+    "id": "vt-pse",
+    "name": "Reach Up Post-Secondary Education (PSE)",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Education",
+    "description": "Supports Reach Up participants pursuing college degrees or certificates, including help with education-related costs while enrolled.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Current Reach Up participants",
+      "Enrolled in an approved post-secondary education or training program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time while on Reach Up"
+      }
+    ],
+    "prerequisites": [
+      "Talk to your Reach Up case manager about PSE"
+    ],
+    "whatToBring": [
+      "Proof of enrollment",
+      "Reach Up case information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "Post-Secondary Education program page",
+        "value": "https://dcf.vermont.gov/benefits/reachup/PSE"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Reach Up PSE program info",
+        "url": "https://dcf.vermont.gov/benefits/reachup/PSE"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/reachup/PSE"
+    ]
+  },
+  {
+    "id": "vt-weatherization",
+    "name": "Weatherization Assistance Program",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Utilities",
+    "description": "Free home weatherization — insulation, air sealing, and heating improvements — for income-eligible households, delivered through local partner agencies.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont households meeting program income guidelines",
+      "Renters and homeowners (renters need landlord approval)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; work is scheduled as funding and crews allow"
+      }
+    ],
+    "prerequisites": [
+      "Apply through DCF; services are scheduled through regional weatherization partners"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of homeownership or landlord permission"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Weatherization program page and partner list",
+        "value": "https://dcf.vermont.gov/benefits/weatherization"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Weatherization program info",
+        "url": "https://dcf.vermont.gov/benefits/weatherization"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/weatherization"
+    ]
+  },
+  {
+    "id": "vt-ccfap",
+    "name": "Child Care Financial Assistance Program (CCFAP)",
+    "agency": "Vermont Department for Children and Families (DCF), Economic Services Division",
+    "category": "Family & Childcare",
+    "description": "Helps eligible Vermont families pay for child care at approved providers so parents can work, train, or attend school.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont families with children needing child care",
+      "Parents working, in training, or in school",
+      "Meet program income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply through DCF; choose an approved child care provider"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Work, training, or school schedule",
+      "Child's birth certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Child Care Financial Assistance program page",
+        "value": "https://dcf.vermont.gov/benefits/ccfap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CCFAP program info",
+        "url": "https://dcf.vermont.gov/benefits/ccfap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcf.vermont.gov/benefits/ccfap"
+    ]
+  },
+  {
+    "id": "vt-wic",
+    "name": "WIC (Women, Infants, and Children)",
+    "agency": "Vermont Department of Health",
+    "category": "Food",
+    "description": "Nutrition education, breastfeeding support, and food benefits for pregnant and postpartum women, infants, and children under age 5.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Pregnant and postpartum women, infants, and children under 5",
+      "Vermont residents meeting income guidelines",
+      "Determined to be at nutritional risk by WIC staff"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply through a local WIC clinic or the state WIC office"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Vermont residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC program",
+        "value": "800-464-4343"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC Burlington office",
+        "value": "802-863-7200"
+      },
+      {
+        "kind": "web",
+        "label": "WIC program page",
+        "value": "https://www.healthvermont.gov/wic"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WIC program info and clinic finder",
+        "url": "https://www.healthvermont.gov/wic"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthvermont.gov/wic"
+    ]
+  },
+  {
+    "id": "vt-unemployment",
+    "name": "Unemployment Insurance (VDOL)",
+    "agency": "Vermont Department of Labor",
+    "category": "Employment",
+    "description": "Temporary partial wage replacement for workers who lost jobs through no fault of their own; file initial claims and weekly certifications online.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Earned sufficient wages in the base period",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed"
+      }
+    ],
+    "prerequisites": [
+      "File an initial claim with the Vermont Department of Labor",
+      "File weekly certifications to keep receiving benefits"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and addresses for the past 18 months",
+      "Dates of employment and reason for separation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Claimant Assistance Center",
+        "value": "1-877-214-3332"
+      },
+      {
+        "kind": "phone",
+        "label": "UI claims line",
+        "value": "1-800-983-2300"
+      },
+      {
+        "kind": "phone",
+        "label": "UI employer line",
+        "value": "1-877-214-3330"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance page",
+        "value": "https://labor.vermont.gov/unemployment-insurance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for unemployment insurance",
+        "url": "https://labor.vermont.gov/unemployment-insurance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://labor.vermont.gov/unemployment-insurance"
+    ]
+  },
+  {
+    "id": "vt-dmv-license",
+    "name": "Driver's License and ID Services (DMV)",
+    "agency": "Vermont Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Driver's licenses, learner's permits, non-driver photo ID cards, renewals, and replacements.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents",
+      "Meet age and testing requirements for the credential requested"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at a DMV office or use online services where available",
+      "Pass required vision, knowledge, and road tests for new licenses"
+    ],
+    "whatToBring": [
+      "Proof of identity and Vermont residency",
+      "Social Security number",
+      "Payment for fees"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV information",
+        "value": "802-828-2061"
+      },
+      {
+        "kind": "web",
+        "label": "DMV licenses page",
+        "value": "https://dmv.vermont.gov/licenses"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DMV driver licenses and ID cards",
+        "url": "https://dmv.vermont.gov/licenses"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dmv.vermont.gov/licenses"
+    ]
+  },
+  {
+    "id": "vt-vhfa",
+    "name": "Vermont Housing Finance Agency (VHFA)",
+    "agency": "Vermont Housing Finance Agency",
+    "category": "Housing",
+    "description": "Affordable mortgages, down payment assistance, and rental housing development financing for Vermont homebuyers and renters.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont homebuyers meeting income and purchase-price limits",
+      "Renters in VHFA-financed affordable apartments (income limits apply)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Work with a VHFA participating lender for homebuyer programs",
+      "Apply for rental housing through property managers of VHFA properties"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Pre-approval or loan application materials",
+      "Identification"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VHFA",
+        "value": "802-864-5743"
+      },
+      {
+        "kind": "web",
+        "label": "VHFA website",
+        "value": "https://www.vhfa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VHFA homebuyer and renter programs",
+        "url": "https://www.vhfa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.vhfa.org/"
+    ]
+  },
+  {
+    "id": "vt-veterans-affairs",
+    "name": "Vermont Office of Veterans Affairs",
+    "agency": "Vermont Office of Veterans Affairs",
+    "category": "Veterans",
+    "description": "State veterans benefits counseling: help with disability claims, state veterans programs, and referrals to federal VA services. Office hours Monday–Friday, 7:30 a.m.–4:00 p.m.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Veterans, service members, and their families",
+      "Vermont residents seeking state or federal veterans benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact the office by phone or visit the Montpelier office"
+    ],
+    "whatToBring": [
+      "DD-214 or service records",
+      "Identification"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Veterans Affairs",
+        "value": "(802) 828-3379"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll free in Vermont",
+        "value": "(888) 666-9844"
+      },
+      {
+        "kind": "web",
+        "label": "Vermont Veterans Affairs website",
+        "value": "https://veterans.vermont.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont Office of Veterans Affairs",
+        "url": "https://veterans.vermont.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://veterans.vermont.gov/"
+    ]
+  },
+  {
+    "id": "vt-health-connect",
+    "name": "Vermont Health Connect",
+    "agency": "Vermont Health Connect",
+    "category": "Healthcare",
+    "description": "Vermont's health insurance marketplace: compare and enroll in qualified health plans, with financial help for those who qualify.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents",
+      "U.S. citizens or lawfully present immigrants (for qualified health plans)",
+      "Not incarcerated"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Qualified health plans enroll during open enrollment each fall; see program page for current dates"
+      }
+    ],
+    "prerequisites": [
+      "Create an account and apply during an enrollment period",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Social Security numbers for household members",
+      "Proof of income",
+      "Current insurance information if any"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont Health Connect",
+        "value": "1-855-899-9600"
+      },
+      {
+        "kind": "web",
+        "label": "Compare plans",
+        "value": "http://info.healthconnect.vermont.gov/compare-plans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont Health Connect enrollment portal",
+        "url": "https://portal.healthconnect.vermont.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://info.healthconnect.vermont.gov/compare-plans"
+    ]
+  },
+  {
+    "id": "vt-dr-dynasaur",
+    "name": "Medicaid and Dr. Dynasaur",
+    "agency": "Vermont Health Connect / Department of Vermont Health Access",
+    "category": "Healthcare",
+    "description": "Low-cost or free health coverage for children, pregnant people, and low-income Vermonters. Dr. Dynasaur premiums are currently suspended indefinitely.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents",
+      "Children under 19, pregnant people, and adults meeting income limits",
+      "Medicaid and Dr. Dynasaur enroll year-round"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time; coverage can start based on application date"
+      }
+    ],
+    "prerequisites": [
+      "Apply through Vermont Health Connect"
+    ],
+    "whatToBring": [
+      "Social Security numbers for household members",
+      "Proof of income",
+      "Proof of Vermont residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont Health Connect",
+        "value": "1-855-899-9600"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid and Dr. Dynasaur info",
+        "value": "http://info.healthconnect.vermont.gov/compare-plans/medicaid-and-dr-dynasaur"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Medicaid or Dr. Dynasaur",
+        "url": "https://portal.healthconnect.vermont.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://info.healthconnect.vermont.gov/compare-plans/medicaid-and-dr-dynasaur"
+    ]
+  },
+  {
+    "id": "vt-211",
+    "name": "Vermont 211",
+    "agency": "United Ways of Vermont",
+    "category": "Healthcare",
+    "description": "Free, confidential information and referral service connecting Vermonters to local health and human services — housing, food, health care, and more.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Anyone in Vermont seeking help finding services",
+      "Free and confidential"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time"
+      }
+    ],
+    "prerequisites": [
+      "Dial 2-1-1 or search the online directory"
+    ],
+    "whatToBring": [
+      "No documents needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "Vermont 211 website",
+        "value": "https://www.vermont211.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont 211 service directory",
+        "url": "https://www.vermont211.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.vermont211.org/"
+    ]
+  },
+  {
+    "id": "vt-vsac",
+    "name": "VSAC Grants and Scholarships",
+    "agency": "Vermont Student Assistance Corporation (VSAC)",
+    "category": "Education",
+    "description": "Need-based Vermont grants and scholarships for college, trade school, and career training programs.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont residents pursuing post-secondary education or training",
+      "Demonstrated financial need (for need-based grants)",
+      "Meet individual scholarship criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Grant deadlines vary by program and academic year — see program page"
+      }
+    ],
+    "prerequisites": [
+      "File the FAFSA and the Vermont grant application through VSAC"
+    ],
+    "whatToBring": [
+      "FAFSA confirmation",
+      "School enrollment information",
+      "Vermont residency documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VSAC",
+        "value": "(800) 642-3177"
+      },
+      {
+        "kind": "web",
+        "label": "VSAC grants page",
+        "value": "https://www.vsac.org/pay/student-aid-options/grants"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VSAC grants and scholarships",
+        "url": "https://www.vsac.org/pay/student-aid-options/grants"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.vsac.org/pay/student-aid-options/grants"
+    ]
+  },
+  {
+    "id": "vt-legal-aid",
+    "name": "Vermont Legal Aid / Legal Services Vermont",
+    "agency": "Vermont Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income Vermonters: housing, public benefits, health care, family, disability, and consumer issues.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Low-income Vermont residents",
+      "Civil (non-criminal) legal problems within program priorities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply online or call the intake line"
+    ],
+    "whatToBring": [
+      "Identification",
+      "Documents related to the legal problem (notices, leases, letters)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal help intake",
+        "value": "1-800-889-2047"
+      },
+      {
+        "kind": "web",
+        "label": "How we can help",
+        "value": "https://vtlawhelp.org/how-we-can-help"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get legal help — Vermont Legal Aid",
+        "url": "https://vtlawhelp.org/how-we-can-help"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vtlawhelp.org/how-we-can-help"
+    ]
+  },
+  {
+    "id": "vt-senior-helpline",
+    "name": "Senior Helpline (Central Vermont Council on Aging)",
+    "agency": "Central Vermont Council on Aging",
+    "category": "Seniors",
+    "description": "Information, options counseling, and referrals for older Vermonters and caregivers: benefits, housing, nutrition, transportation, and long-term care.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters age 60 and older",
+      "Family caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the Senior Helpline"
+    ],
+    "whatToBring": [
+      "No documents needed for information and referral"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior Helpline",
+        "value": "1-800-642-5119"
+      },
+      {
+        "kind": "web",
+        "label": "CVCOA website",
+        "value": "https://www.cvcoa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Central Vermont Council on Aging",
+        "url": "https://www.cvcoa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cvcoa.org/"
+    ]
+  },
+  {
+    "id": "vt-business-registration",
+    "name": "Business Registration (Secretary of State)",
+    "agency": "Vermont Secretary of State, Corporations Division",
+    "category": "Small Business",
+    "description": "Register a business entity in Vermont: LLCs, corporations, partnerships, trade names, and annual reports.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Anyone forming or operating a business in Vermont"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time"
+      }
+    ],
+    "prerequisites": [
+      "File online through the Secretary of State's business services portal"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Corporations Division",
+        "value": "802-828-2386"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "888-647-4582"
+      },
+      {
+        "kind": "web",
+        "label": "Business services portal",
+        "value": "https://sos.vermont.gov/business-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register a Vermont business",
+        "url": "https://sos.vermont.gov/business-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sos.vermont.gov/business-services/"
+    ]
+  },
+  {
+    "id": "vt-property-tax-credit",
+    "name": "Vermont Property Tax Credit",
+    "agency": "Vermont Department of Taxes",
+    "category": "Money & Taxes",
+    "description": "Income-based credit reducing property taxes for eligible Vermont homeowners who file Form HS-122 (Homestead Declaration and Property Tax Credit Claim) with Schedule HI-144; the maximum credit is $5,600 for the state education property tax portion.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Own and occupy the property as your homestead as of April 1",
+      "Filed a Homestead Declaration (Form HS-122) for the current year's grand list",
+      "Domiciled in Vermont for the entire taxable year",
+      "Not claimed as a dependent of another taxpayer",
+      "Meet household income limits (see form)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "File each year with your Vermont return; see program page for current-year filing deadlines"
+      }
+    ],
+    "prerequisites": [
+      "File Form HS-122 and Schedule HI-144 with the Department of Taxes, via myVTax or paper"
+    ],
+    "whatToBring": [
+      "Property tax bill",
+      "Social Security number",
+      "Household income information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department of Taxes",
+        "value": "802-828-2505"
+      },
+      {
+        "kind": "web",
+        "label": "Property Tax Credit page",
+        "value": "https://tax.vermont.gov/ptc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont Property Tax Credit — how to file",
+        "url": "https://tax.vermont.gov/ptc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tax.vermont.gov/ptc"
+    ]
+  },
+  {
+    "id": "vt-voc-rehab",
+    "name": "HireAbility Vermont (Vocational Rehabilitation)",
+    "agency": "Vermont Agency of Human Services, Department of Disabilities, Aging and Independent Living",
+    "category": "Disability",
+    "description": "Employment services for Vermonters with disabilities: career counseling, training, job placement, assistive technology, and employer support.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters with a disability that affects employment",
+      "Want to work or keep a job"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact HireAbility / Vocational Rehabilitation to apply"
+    ],
+    "whatToBring": [
+      "Identification",
+      "Disability documentation if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DAIL / HireAbility",
+        "value": "1-802-241-2401"
+      },
+      {
+        "kind": "web",
+        "label": "HireAbility Vermont",
+        "value": "https://vocrehab.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HireAbility Vermont — get started",
+        "url": "https://vocrehab.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vocrehab.vermont.gov"
+    ]
+  },
+  {
+    "id": "vt-vsha",
+    "name": "Vermont State Housing Authority (VSHA)",
+    "agency": "Vermont State Housing Authority",
+    "category": "Housing",
+    "description": "Administers Housing Choice Vouchers (Section 8) and other affordable housing programs across Vermont.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Low-income Vermont households",
+      "Meet program income limits and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; waitlists vary by program"
+      }
+    ],
+    "prerequisites": [
+      "Apply through VSHA; voucher waitlists open periodically"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household composition information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VSHA",
+        "value": "802-828-3295"
+      },
+      {
+        "kind": "web",
+        "label": "VSHA website",
+        "value": "https://www.vsha.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont State Housing Authority",
+        "url": "https://www.vsha.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.vsha.org/"
+    ]
+  },
+  {
+    "id": "vt-career-centers",
+    "name": "Vermont Career Resource Centers (VDOL)",
+    "agency": "Vermont Department of Labor",
+    "category": "Employment",
+    "description": "Free in-person job search help — resumes, interview prep, career counseling, and training referrals — at local job centers statewide, including Burlington and Rutland.",
+    "scope": {
+      "level": "state",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermont job seekers",
+      "Free and open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Visit a local job center during business hours"
+    ],
+    "whatToBring": [
+      "Resume if available",
+      "Identification"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Burlington Job Center, 63 Pearl Street",
+        "value": "(802) 863-7676"
+      },
+      {
+        "kind": "phone",
+        "label": "Rutland Job Center, 88 Merchants Row",
+        "value": "(802) 786-5837"
+      },
+      {
+        "kind": "in-person",
+        "label": "Burlington Job Center",
+        "value": "63 Pearl Street, Burlington, VT"
+      },
+      {
+        "kind": "in-person",
+        "label": "Rutland Job Center",
+        "value": "88 Merchants Row, Rutland, VT"
+      },
+      {
+        "kind": "web",
+        "label": "Find a local job center",
+        "value": "https://labor.vermont.gov/workforce-development/find-your-local-career-resource-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your local career resource center",
+        "url": "https://labor.vermont.gov/workforce-development/find-your-local-career-resource-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://labor.vermont.gov/workforce-development/find-your-local-career-resource-center"
+    ]
+  },
+  {
+    "id": "burlington-gmt",
+    "name": "Green Mountain Transit (GMT) Fares and Discounts",
+    "agency": "Green Mountain Transit",
+    "category": "Transportation",
+    "description": "Public bus service in the Burlington region. Single fare: $2.00 regular, $1.00 discounted; discounted fares for ages 6-17, seniors 60+, people with disabilities, and Medicare card holders.",
+    "scope": {
+      "level": "city",
+      "city": "Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Residents and visitors in the GMT service area",
+      "Discounted fare with qualifying age, disability, or Medicare status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time during service hours"
+      }
+    ],
+    "prerequisites": [
+      "Board and pay the fare; discounted fare riders show qualifying ID"
+    ],
+    "whatToBring": [
+      "Qualifying ID for discounted fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GMT",
+        "value": "802-540-2468"
+      },
+      {
+        "kind": "web",
+        "label": "GMT fares",
+        "value": "https://ridegmt.com/fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GMT fares and passes",
+        "url": "https://ridegmt.com/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$2.00 regular / $1.00 discounted single fare",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ridegmt.com/fares/"
+    ]
+  },
+  {
+    "id": "burlington-housing-authority",
+    "name": "Burlington Housing Authority",
+    "agency": "Burlington Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Voucher (Section 8) programs serving Burlington residents.",
+    "scope": {
+      "level": "city",
+      "city": "Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Low-income Burlington households",
+      "Meet program income limits and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; waitlists vary by program"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Burlington Housing Authority; waitlists vary"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household composition information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Burlington Housing Authority",
+        "value": "802-864-0538"
+      },
+      {
+        "kind": "web",
+        "label": "Burlington Housing Authority",
+        "value": "https://www.burlingtonhousing.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Burlington Housing Authority",
+        "url": "https://www.burlingtonhousing.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.burlingtonhousing.org"
+    ]
+  },
+  {
+    "id": "burlington-library",
+    "name": "Fletcher Free Library",
+    "agency": "City of Burlington",
+    "category": "Education",
+    "description": "Burlington's public library: free books and media, public computers, Wi-Fi, programs, and meeting space.",
+    "scope": {
+      "level": "city",
+      "city": "Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Open to the public; a library card is free for Burlington residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open to the public during library hours"
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or sign up for a card online"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fletcher Free Library",
+        "value": "802-863-3403"
+      },
+      {
+        "kind": "web",
+        "label": "Fletcher Free Library",
+        "value": "https://www.fletcherfree.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fletcher Free Library",
+        "url": "https://www.fletcherfree.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.fletcherfree.org"
+    ]
+  },
+  {
+    "id": "burlington-health-office",
+    "name": "Burlington Local Health Office",
+    "agency": "Vermont Department of Health",
+    "category": "Healthcare",
+    "description": "Local public health services for the Burlington area: WIC, immunizations, health education, and community health programs.",
+    "scope": {
+      "level": "city",
+      "city": "Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Residents of the Burlington health district",
+      "Program-specific eligibility (e.g., WIC income guidelines)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to schedule services"
+    ],
+    "whatToBring": [
+      "Identification",
+      "Insurance information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Burlington Local Health Office",
+        "value": "802-863-7323"
+      },
+      {
+        "kind": "web",
+        "label": "Burlington Local Health Office",
+        "value": "https://www.healthvermont.gov/local/burlington"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Burlington Local Health Office",
+        "url": "https://www.healthvermont.gov/local/burlington"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthvermont.gov/local/burlington"
+    ]
+  },
+  {
+    "id": "chittenden-homeless-alliance",
+    "name": "Chittenden County Homeless Alliance",
+    "agency": "Chittenden County Homeless Alliance",
+    "category": "Housing",
+    "description": "Coordinated entry system and housing resources for people experiencing homelessness in Chittenden County.",
+    "scope": {
+      "level": "county",
+      "county": "Chittenden",
+      "state": "VT"
+    },
+    "eligibility": [
+      "People experiencing homelessness or at risk in Chittenden County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact the Alliance or a coordinated-entry access point"
+    ],
+    "whatToBring": [
+      "Identification if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Chittenden County Homeless Alliance",
+        "value": "https://www.cchavt.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Chittenden County Homeless Alliance",
+        "url": "https://www.cchavt.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cchavt.org"
+    ]
+  },
+  {
+    "id": "burlington-electric-eap",
+    "name": "Burlington Electric Department Energy Assistance Program",
+    "agency": "Burlington Electric Department",
+    "category": "Utilities",
+    "description": "12.5% discount on electric bills for income-qualified Burlington Electric customers — households at or below 185% of the federal poverty level.",
+    "scope": {
+      "level": "city",
+      "city": "Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Burlington Electric customers",
+      "Household income at or below 185% of the federal poverty level"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Apply through Burlington Electric"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "BED account information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Burlington Electric",
+        "value": "802-865-7300"
+      },
+      {
+        "kind": "web",
+        "label": "BED assistance programs",
+        "value": "https://www.burlingtonelectric.com/help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "BED Energy Assistance Program",
+        "url": "https://www.burlingtonelectric.com/help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.burlingtonelectric.com/help/"
+    ]
+  },
+  {
+    "id": "southburlington-library",
+    "name": "South Burlington Public Library",
+    "agency": "City of South Burlington",
+    "category": "Education",
+    "description": "Public library serving South Burlington: books, media, public computers, programs, and community space.",
+    "scope": {
+      "level": "city",
+      "city": "South Burlington",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Open to the public; a library card is free for South Burlington residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open to the public during library hours"
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or sign up for a card"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "South Burlington Public Library",
+        "value": "802-846-4140"
+      },
+      {
+        "kind": "web",
+        "label": "South Burlington Public Library",
+        "value": "https://southburlingtonlibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "South Burlington Public Library",
+        "url": "https://southburlingtonlibrary.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://southburlingtonlibrary.org"
+    ]
+  },
+  {
+    "id": "rutland-housing-authority",
+    "name": "Rutland Housing Authority",
+    "agency": "Rutland Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Voucher (Section 8) programs serving Rutland residents.",
+    "scope": {
+      "level": "city",
+      "city": "Rutland",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Low-income Rutland households",
+      "Meet program income limits and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; waitlists vary by program"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Rutland Housing Authority; waitlists vary"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household composition information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rutland Housing Authority",
+        "value": "802-775-2926"
+      },
+      {
+        "kind": "web",
+        "label": "Rutland Housing Authority",
+        "value": "https://www.rhavt.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rutland Housing Authority",
+        "url": "https://www.rhavt.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rhavt.org/"
+    ]
+  },
+  {
+    "id": "rutland-transit",
+    "name": "Marble Valley Regional Transit District (The Bus)",
+    "agency": "Marble Valley Regional Transit District",
+    "category": "Transportation",
+    "description": "Public bus service in the Rutland region. City fixed routes $2.00 one-way; ADA-certified riders ride city fixed routes free; discounted rates for seniors 60+, people with disabilities, Medicare card holders, and veterans.",
+    "scope": {
+      "level": "city",
+      "city": "Rutland",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Residents and visitors in the Rutland region",
+      "Discounted rates with qualifying age, disability, Medicare, or veteran status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time during service hours"
+      }
+    ],
+    "prerequisites": [
+      "Board and pay the fare; discounted riders show qualifying status"
+    ],
+    "whatToBring": [
+      "Qualifying ID or certification for discounted fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "The Bus",
+        "value": "1-802-773-3244"
+      },
+      {
+        "kind": "web",
+        "label": "The Bus fares",
+        "value": "https://www.thebus.com/fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "The Bus fares and routes",
+        "url": "https://www.thebus.com/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$2.00 one-way city fixed route",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.thebus.com/fares/"
+    ]
+  },
+  {
+    "id": "rutland-health-office",
+    "name": "Rutland Local Health Office",
+    "agency": "Vermont Department of Health",
+    "category": "Healthcare",
+    "description": "Local public health services for the Rutland area: WIC, immunizations, health education, and community health programs. Staff available 7:45 a.m.–4:30 p.m.",
+    "scope": {
+      "level": "city",
+      "city": "Rutland",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Residents of the Rutland health district",
+      "Program-specific eligibility (e.g., WIC income guidelines)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to schedule services"
+    ],
+    "whatToBring": [
+      "Identification",
+      "Insurance information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rutland Local Health Office",
+        "value": "802-786-5811"
+      },
+      {
+        "kind": "web",
+        "label": "Rutland Local Health Office",
+        "value": "https://www.healthvermont.gov/local/rutland"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rutland Local Health Office",
+        "url": "https://www.healthvermont.gov/local/rutland"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthvermont.gov/local/rutland"
+    ]
+  },
+  {
+    "id": "rutland-seniors",
+    "name": "Southwestern Vermont Council on Aging (SVCOA)",
+    "agency": "Southwestern Vermont Council on Aging",
+    "category": "Seniors",
+    "description": "Senior services for southwestern Vermont: senior helpline, meals, case management, benefits counseling, and caregiver support.",
+    "scope": {
+      "level": "city",
+      "city": "Rutland",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters age 60 and older in the SVCOA region",
+      "Family caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the Senior Helpline"
+    ],
+    "whatToBring": [
+      "No documents needed for information and referral"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior Helpline",
+        "value": "1-800-642-5119"
+      },
+      {
+        "kind": "web",
+        "label": "SVCOA website",
+        "value": "https://www.svcoa.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Southwestern Vermont Council on Aging",
+        "url": "https://www.svcoa.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.svcoa.org"
+    ]
+  },
+  {
+    "id": "barre-housing-authority",
+    "name": "Barre Housing Authority",
+    "agency": "Barre Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and rental assistance programs serving Barre residents.",
+    "scope": {
+      "level": "city",
+      "city": "Barre",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Low-income Barre households",
+      "Meet program income limits and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; waitlists vary by program"
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Barre Housing Authority"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household composition information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main office (unverified)",
+        "value": "(802) 476-3185 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Barre Housing Authority",
+        "value": "http://www.barrehousingauthority.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Barre Housing Authority",
+        "url": "http://www.barrehousingauthority.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.barrehousingauthority.com/"
+    ]
+  },
+  {
+    "id": "barre-library",
+    "name": "Aldrich Public Library",
+    "agency": "City of Barre",
+    "category": "Education",
+    "description": "Public library serving Barre: books, media, public computers, programs, and community space.",
+    "scope": {
+      "level": "city",
+      "city": "Barre",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Open to the public; a library card is free for Barre residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open to the public during library hours"
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or sign up for a card"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Aldrich Public Library",
+        "value": "1-802-476-7550"
+      },
+      {
+        "kind": "web",
+        "label": "Aldrich Public Library",
+        "value": "https://www.aldrichpubliclibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Aldrich Public Library",
+        "url": "https://www.aldrichpubliclibrary.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.aldrichpubliclibrary.org"
+    ]
+  },
+  {
+    "id": "barre-health-office",
+    "name": "Barre Local Health Office",
+    "agency": "Vermont Department of Health",
+    "category": "Healthcare",
+    "description": "Local public health services for the Barre area: WIC, immunizations, health education, and community health programs.",
+    "scope": {
+      "level": "city",
+      "city": "Barre",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Residents of the Barre health district",
+      "Program-specific eligibility (e.g., WIC income guidelines)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the office to schedule services"
+    ],
+    "whatToBring": [
+      "Identification",
+      "Insurance information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Barre Local Health Office",
+        "value": "802-479-4200"
+      },
+      {
+        "kind": "web",
+        "label": "Barre Local Health Office",
+        "value": "https://www.healthvermont.gov/local/barre"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Barre Local Health Office",
+        "url": "https://www.healthvermont.gov/local/barre"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthvermont.gov/local/barre"
+    ]
+  },
+  {
+    "id": "barre-seniors",
+    "name": "Central Vermont Council on Aging (CVCOA)",
+    "agency": "Central Vermont Council on Aging",
+    "category": "Seniors",
+    "description": "Senior services for central Vermont: senior helpline, meals, case management, benefits counseling, and caregiver support.",
+    "scope": {
+      "level": "city",
+      "city": "Barre",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Vermonters age 60 and older in the CVCOA region",
+      "Family caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time during business hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the Senior Helpline"
+    ],
+    "whatToBring": [
+      "No documents needed for information and referral"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior Helpline",
+        "value": "1-800-642-5119"
+      },
+      {
+        "kind": "web",
+        "label": "CVCOA website",
+        "value": "https://www.cvcoa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Central Vermont Council on Aging",
+        "url": "https://www.cvcoa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cvcoa.org/"
+    ]
+  },
+  {
+    "id": "fed-va-white-river-junction",
+    "name": "White River Junction VA Medical Center",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA health care for Vermont and New Hampshire veterans: primary care, specialty care, mental health, and urgent care at 163 Veterans Drive, White River Junction.",
+    "scope": {
+      "level": "federal",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care",
+      "Eligibility based on service history and VA enrollment criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time"
+      }
+    ],
+    "prerequisites": [
+      "Enroll in VA health care online, by phone, or in person"
+    ],
+    "whatToBring": [
+      "DD-214 or service records",
+      "Identification",
+      "Insurance information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA Medical Center",
+        "value": "802-295-9363"
+      },
+      {
+        "kind": "phone",
+        "label": "VA national line",
+        "value": "800-698-2411"
+      },
+      {
+        "kind": "in-person",
+        "label": "White River Junction VA Medical Center",
+        "value": "163 Veterans Drive, White River Junction, VT 05001"
+      },
+      {
+        "kind": "web",
+        "label": "White River Junction VA Health Care",
+        "value": "https://www.va.gov/white-river-junction-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "White River Junction VA Health Care",
+        "url": "https://www.va.gov/white-river-junction-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/white-river-junction-health-care/"
+    ]
+  },
+  {
+    "id": "fed-sba-vermont",
+    "name": "SBA Vermont District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Federal small business support for Vermont: SBA-backed loans, free counseling through partner organizations, federal contracting help, and disaster assistance. Serves the entire state of Vermont.",
+    "scope": {
+      "level": "federal",
+      "state": "VT"
+    },
+    "eligibility": [
+      "Small businesses operating in Vermont",
+      "Program-specific eligibility for loans and contracting programs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time"
+      }
+    ],
+    "prerequisites": [
+      "Contact the district office or a local SBA resource partner"
+    ],
+    "whatToBring": [
+      "Business plan or business information",
+      "Financial statements for loan programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont District Office",
+        "value": "802-828-4422"
+      },
+      {
+        "kind": "in-person",
+        "label": "Vermont District Office",
+        "value": "400 Cornerstone Drive, Suite 240, Williston, VT 05495"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Vermont District Office",
+        "value": "https://www.sba.gov/district/vermont"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Vermont District Office",
+        "url": "https://www.sba.gov/district/vermont"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/vermont"
+    ]
   }
 ]
