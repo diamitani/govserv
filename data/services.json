@@ -74802,5 +74802,1865 @@
     "sources": [
       "https://legacy.sba.gov/district/montana"
     ]
+  },
+  {
+    "agency": "City of Bridgeport",
+    "applyLinks": [
+      {
+        "label": "Bridgeport Renters' Rebate — program page",
+        "url": "https://www.bridgeportct.gov/rentersrebate"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Renters' Rebate office",
+        "value": "203-576-7147"
+      },
+      {
+        "kind": "email",
+        "label": "Renters' Rebate office",
+        "value": "rentersrebate@bridgeportct.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Walk-in applications",
+        "value": "999 Broad Street, Bridgeport — Monday–Thursday 10:00 a.m.–3:30 p.m."
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "2026 application window",
+        "note": "Applications accepted April 1–September 30 each year; no mail-in applications"
+      }
+    ],
+    "description": "Annual one-time rebate for elderly or totally disabled Bridgeport renters. Applicants must have one year of Connecticut residency; walk-in applications only, Monday–Thursday 10:00 a.m.–3:30 p.m. at 999 Broad Street.",
+    "eligibility": [
+      "Bridgeport renter",
+      "Age 65 or older, or totally disabled",
+      "One-year Connecticut residency",
+      "2026 income limits: $46,300 single / $56,500 married"
+    ],
+    "id": "bridgeport-renters-rebate",
+    "languages": [
+      "English"
+    ],
+    "name": "Bridgeport Renters' Rebate",
+    "prerequisites": [
+      "Apply in person — no mail-in applications accepted"
+    ],
+    "scope": {
+      "city": "Bridgeport",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.bridgeportct.gov/rentersrebate"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of rent, utilities, and income — confirm the current document list with the city office before visiting"
+    ]
+  },
+  {
+    "agency": "City of Bridgeport, Housing Code",
+    "applyLinks": [
+      {
+        "label": "Bridgeport housing resources — program page",
+        "url": "https://bridgeportct.gov/government/departments/housing-code/housing-resources"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing resources",
+        "value": "203-576-7680"
+      },
+      {
+        "kind": "web",
+        "label": "Bridgeport housing resources page",
+        "value": "https://bridgeportct.gov/government/departments/housing-code/housing-resources"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the city when the eviction notice or hardship arises"
+      }
+    ],
+    "description": "City program for Bridgeport residents who received an eviction notice or face a hardship likely to lead to eviction. The city also notes that 2-1-1 is the front door to Connecticut's Coordinated Access Networks (dial 211, Option 3).",
+    "eligibility": [
+      "Bridgeport resident",
+      "Received an eviction notice, or facing a hardship likely to lead to eviction"
+    ],
+    "id": "bridgeport-housing-hardship",
+    "languages": [
+      "English"
+    ],
+    "name": "Bridgeport Relocation & Housing Hardship Program",
+    "prerequisites": [
+      "Call or visit the city's housing resources staff to start a hardship review"
+    ],
+    "scope": {
+      "city": "Bridgeport",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://bridgeportct.gov/government/departments/housing-code/housing-resources"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Eviction notice or documentation of the hardship, plus proof of Bridgeport residency — confirm with the office"
+    ]
+  },
+  {
+    "agency": "City of New Haven",
+    "applyLinks": [
+      {
+        "label": "City of New Haven resource guide (PDF)",
+        "url": "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fair Rent Commission",
+        "value": "203-946-4930"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a complaint when a rent or housing-code issue arises"
+      }
+    ],
+    "description": "Investigates tenant complaints about rent; can stop or delay unconscionable rent increases and limit rent where health and safety violations exist. Described in the City's official resource guide (Jan 2024).",
+    "eligibility": [
+      "New Haven renter with a rent dispute or housing-code concern"
+    ],
+    "id": "newhaven-fair-rent",
+    "languages": [
+      "English"
+    ],
+    "name": "New Haven Fair Rent Commission",
+    "prerequisites": [
+      "Contact the Commission to file a complaint"
+    ],
+    "scope": {
+      "city": "New Haven",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Lease or rent records and any documentation of the rent increase or housing-code violation — confirm with the Commission"
+    ]
+  },
+  {
+    "agency": "City of New Haven",
+    "applyLinks": [
+      {
+        "label": "City of New Haven resource guide (PDF)",
+        "url": "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Livable City Initiative",
+        "value": "203-946-7090"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report housing-code issues as they occur"
+      }
+    ],
+    "description": "Handles housing-code complaints and inspections for New Haven rental housing. Described in the City's official resource guide (Jan 2024).",
+    "eligibility": [
+      "New Haven resident with a housing-code complaint"
+    ],
+    "id": "newhaven-lci",
+    "languages": [
+      "English"
+    ],
+    "name": "New Haven Livable City Initiative (LCI)",
+    "prerequisites": [
+      "Call LCI to file a housing-code complaint"
+    ],
+    "scope": {
+      "city": "New Haven",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Address of the property and description of the condition — confirm with LCI"
+    ]
+  },
+  {
+    "agency": "City of New Haven, Health Department",
+    "applyLinks": [
+      {
+        "label": "City of New Haven resource guide (PDF)",
+        "url": "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Health & Wellness Center",
+        "value": "203-946-8181"
+      },
+      {
+        "kind": "in-person",
+        "label": "Clinic",
+        "value": "424 Chapel Street, New Haven"
+      }
+    ],
+    "cost": "Affordable — fees vary by service",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for hours and appointment availability"
+      }
+    ],
+    "description": "Affordable vaccinations, health testing, school physicals, and STI testing and treatment at 424 Chapel Street. Described in the City's official resource guide (Jan 2024).",
+    "eligibility": [
+      "Open to the public; affordable services — confirm current offerings when calling"
+    ],
+    "id": "newhaven-health-wellness",
+    "languages": [
+      "English"
+    ],
+    "name": "New Haven Health Department Health & Wellness Center",
+    "prerequisites": [
+      "Call ahead to confirm services and scheduling"
+    ],
+    "scope": {
+      "city": "New Haven",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.newhavenct.gov/home/showpublisheddocument/24235/638732445617838536"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Call 203-946-8181 to confirm any required documents before visiting"
+    ]
+  },
+  {
+    "agency": "City of Hartford, Department of Development Services",
+    "applyLinks": [
+      {
+        "label": "HouseHartford — program page with participating lenders",
+        "url": "https://www.hartfordct.gov/Government/Departments/DDS/DDS-Services/Homebuyer-Assistance"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HouseHartford program page",
+        "value": "https://www.hartfordct.gov/Government/Departments/DDS/DDS-Services/Homebuyer-Assistance"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender — see program page for current list"
+      }
+    ],
+    "description": "Down-payment assistance for low- and moderate-income buyers purchasing 1–4 family homes or condominiums in Hartford: up to 20% of the purchase price, maximum $40,000, subject to restrictions. Applications go through participating lenders listed on the program page.",
+    "eligibility": [
+      "Low- or moderate-income homebuyer",
+      "Purchasing a 1–4 family home or condominium in Hartford",
+      "Household income within applicable HUD 80% area-median limits"
+    ],
+    "id": "hartford-househartford",
+    "languages": [
+      "English"
+    ],
+    "name": "HouseHartford Homebuyer Assistance",
+    "prerequisites": [
+      "Apply through a participating lender",
+      "Meet HUD 80% area-median income limits and program restrictions"
+    ],
+    "scope": {
+      "city": "Hartford",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.hartfordct.gov/Government/Departments/DDS/DDS-Services/Homebuyer-Assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation, pre-approval, and purchase details — your participating lender will specify the full list"
+    ]
+  },
+  {
+    "agency": "City of Hartford",
+    "applyLinks": [
+      {
+        "label": "Hartford 311 — submit a service request",
+        "url": "https://www.hartfordct.gov/Government/Departments/Public-Works/Hartford-311"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hartford 311",
+        "value": "860-757-9311"
+      },
+      {
+        "kind": "web",
+        "label": "Hartford 311 request portal",
+        "value": "https://www.hartfordct.gov/Government/Departments/Public-Works/Hartford-311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or submit online Monday–Friday 8:00 a.m.–5:00 p.m."
+      }
+    ],
+    "description": "Toll-free non-emergency call center connecting Hartford residents, businesses, and visitors to city services and information, Monday–Friday 8:00 a.m.–5:00 p.m. Handles apartment-issue reports such as rodent or pest infestation, mold, and urgent problems like lack of heat, hot water, gas, or electricity, plus trash, potholes, and other city-service requests.",
+    "eligibility": [
+      "Anyone needing City of Hartford services or information"
+    ],
+    "id": "hartford-311",
+    "languages": [
+      "English"
+    ],
+    "name": "Hartford 311",
+    "prerequisites": [
+      "Have the address or location of the issue ready when reporting"
+    ],
+    "scope": {
+      "city": "Hartford",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.hartfordct.gov/Government/Departments/Public-Works/Hartford-311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Location of the issue and a description of the problem; photos help for property or apartment reports"
+    ]
+  },
+  {
+    "agency": "City of Stamford",
+    "applyLinks": [
+      {
+        "label": "Stamford 2026 Rent Rebate flyer (PDF)",
+        "url": "https://www.stamfordct.gov/home/showpublisheddocument/50654/639094415109070000"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rent Rebate office",
+        "value": "203-977-4747"
+      },
+      {
+        "kind": "phone",
+        "label": "Rent Rebate office (alternate)",
+        "value": "203-977-4872"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-09-18",
+        "label": "2026 application window ended",
+        "note": "2026 applications accepted April 1–September 18, 2026 by mail, email, or drop-off; program recurs annually — check the city page for the current window"
+      }
+    ],
+    "description": "One-time annual payment to eligible elderly or disabled Stamford renters, based on prior-year income, rent, and utility payments. The 2026 program covered renters age 65 or older as of December 31, 2025, or over 18 receiving Social Security Disability, with one year of Connecticut residency; 2026 income limits were $46,300 single / $56,500 married. The 2026 window ran April 1–September 18, 2026; the program recurs annually.",
+    "eligibility": [
+      "Stamford renter",
+      "Age 65 or older as of December 31 of the prior year, or over 18 receiving Social Security Disability benefits",
+      "One-year Connecticut residency",
+      "2026 income limits: $46,300 single / $56,500 married"
+    ],
+    "id": "stamford-rent-rebate",
+    "languages": [
+      "English"
+    ],
+    "name": "Stamford Rent Rebate Program (2026)",
+    "prerequisites": [
+      "Proof of prior-year income, rent, and utility payments"
+    ],
+    "scope": {
+      "city": "Stamford",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.stamfordct.gov/home/showpublisheddocument/50654/639094415109070000"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "2025 income documentation, rent receipts, and utility bills — confirm the current checklist with the city office"
+    ]
+  },
+  {
+    "agency": "City of Stamford, Social Services",
+    "applyLinks": [
+      {
+        "label": "Stamford Senior Services Directory (PDF)",
+        "url": "https://www.stamfordct.gov/home/showpublisheddocument/31895/638373902596570000"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Services office",
+        "value": "203-977-4112"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicare/Husky C & Savings Program application assistance",
+        "value": "203-977-4016"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicare/Husky C & Savings Program (alternate)",
+        "value": "203-977-4874"
+      },
+      {
+        "kind": "in-person",
+        "label": "Social Services office",
+        "value": "888 Washington Blvd., 6th Floor, Stamford, CT 06901"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for an appointment"
+      }
+    ],
+    "description": "Help applying for benefits including Medicare, Husky C, and the Medicare Savings Program, plus MedAssist CHOICES-trained counseling. Listed in the City's official Senior Services Directory.",
+    "eligibility": [
+      "Stamford resident needing help with benefit applications",
+      "Medicare/Husky C & Savings Program counseling for eligible seniors and people with disabilities"
+    ],
+    "id": "stamford-social-services",
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "name": "Stamford Social Services Benefits Counseling",
+    "prerequisites": [
+      "Call to schedule; bring benefit and income documents"
+    ],
+    "scope": {
+      "city": "Stamford",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.stamfordct.gov/home/showpublisheddocument/31895/638373902596570000"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medicare or insurance cards, proof of income, and any benefit denial or award letters — confirm with the office"
+    ]
+  },
+  {
+    "agency": "City of Waterbury",
+    "applyLinks": [
+      {
+        "label": "Waterbury Renters Rebate — program page",
+        "url": "https://waterburyct.org/content/103357/104221/153626/170707/default.aspx"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Renters Rebate appointments",
+        "value": "203-346-3810"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "2026 application window",
+        "note": "Applications accepted April 1–September 30 each year, by appointment"
+      }
+    ],
+    "description": "Annual rebate for elderly or disabled Waterbury renters with one year of Connecticut residency. Requires proof of prior-year rent, utilities, and income; applications taken April 1–September 30 by appointment.",
+    "eligibility": [
+      "Waterbury renter",
+      "Age 65 or older, or totally disabled",
+      "One-year Connecticut residency",
+      "2026 income limits: $46,300 single / $56,500 married"
+    ],
+    "id": "waterbury-renters-rebate",
+    "languages": [
+      "English"
+    ],
+    "name": "Waterbury Renters Rebate",
+    "prerequisites": [
+      "Schedule an appointment; bring proof of prior-year rent, utilities, and income"
+    ],
+    "scope": {
+      "city": "Waterbury",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://waterburyct.org/content/103357/104221/153626/170707/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of prior-year rent payments, utility payments, and all income"
+    ]
+  },
+  {
+    "agency": "City of Waterbury, Senior Center",
+    "applyLinks": [
+      {
+        "label": "Waterbury Senior Center newsletter with shuttle details (PDF)",
+        "url": "https://www.WaterburyCT.org/filestorage/103431/107671/107728/May_2025_Newsletter-ENG.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Schedule a ride (9:00 a.m.–12:00 p.m.)",
+        "value": "1-800-757-7782"
+      },
+      {
+        "kind": "phone",
+        "label": "Senior Shuttle ID cards",
+        "value": "203-346-3810 ext. 7274"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule nonmedical rides up to 3 days ahead; medical rides up to 1 month ahead"
+      }
+    ],
+    "description": "Free transportation for City of Waterbury residents age 60 and older. Riders must have a Senior Shuttle ID card; nonmedical rides can be scheduled up to 3 days in advance and medical rides up to 1 month in advance. Scheduling calls are taken 9:00 a.m.–12:00 p.m.",
+    "eligibility": [
+      "City of Waterbury resident",
+      "Age 60 or older",
+      "Senior Shuttle ID card (obtain by calling the Senior Center)"
+    ],
+    "id": "waterbury-senior-shuttle",
+    "languages": [
+      "English"
+    ],
+    "name": "Waterbury Senior Shuttle",
+    "prerequisites": [
+      "Obtain a Senior Shuttle ID card before scheduling rides"
+    ],
+    "scope": {
+      "city": "Waterbury",
+      "level": "city",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.WaterburyCT.org/filestorage/103431/107671/107728/May_2025_Newsletter-ENG.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Senior Shuttle ID card; confirm any additional requirements when scheduling"
+    ]
+  },
+  {
+    "agency": "Greater Bridgeport Transit (GBT)",
+    "applyLinks": [
+      {
+        "label": "GBT Access Rider's Guide (PDF)",
+        "url": "https://gogbt.com/wp-content/uploads/GBT-Access-Riders-Guide-FEB-2026-v2.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer service",
+        "value": "203-366-7070 ext. 131"
+      },
+      {
+        "kind": "phone",
+        "label": "Reservations",
+        "value": "203-579-7777"
+      },
+      {
+        "kind": "phone",
+        "label": "Multilingual assistance",
+        "value": "203-333-3031"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mail applications",
+        "value": "GBT Access, 710 Water Street, Bridgeport, CT 06608"
+      }
+    ],
+    "cost": "Free to apply; paratransit fares vary — see Rider's Guide",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Eligibility determination generally within 21 days of the completed application and in-person assessment"
+      }
+    ],
+    "description": "ADA paratransit for people whose physical or cognitive impairment prevents them from using regular GBT buses. Service generally covers areas within ¾ mile of GBT routes, including Bridgeport and parts of nearby municipalities. Multilingual assistance is available.",
+    "eligibility": [
+      "Physical or cognitive impairment that prevents regular-bus use",
+      "Travel within the GBT Access service area"
+    ],
+    "id": "fairfield-gbt-access",
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole",
+      "Portuguese",
+      "Italian",
+      "Polish",
+      "Vietnamese",
+      "Ukrainian",
+      "Russian",
+      "Bengali",
+      "Tagalog",
+      "Chinese"
+    ],
+    "name": "GBT Access ADA Paratransit",
+    "prerequisites": [
+      "Complete the GBT Access application",
+      "Identify a health professional",
+      "Attend an in-person assessment"
+    ],
+    "scope": {
+      "county": "Fairfield",
+      "level": "county",
+      "state": "CT"
+    },
+    "sources": [
+      "https://gogbt.com/wp-content/uploads/GBT-Access-Riders-Guide-FEB-2026-v2.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed application and your health professional's contact information — see the Rider's Guide for the full checklist"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "SNAP — apply online, by mail, or at a DSS office",
+        "url": "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS / SNAP",
+        "value": "1-855-626-6632"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP application page",
+        "value": "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online, by mail, or at a DSS Resource Center"
+      }
+    ],
+    "description": "Monthly food benefits for eligible low-income Connecticut residents. Apply online, by mail, or at a DSS Resource Center; paper applications are available in English and Spanish.",
+    "eligibility": [
+      "Connecticut resident",
+      "Income and household eligibility rules apply — see program page"
+    ],
+    "id": "ct-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP)",
+    "prerequisites": [
+      "Meet income and household eligibility rules"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity/SSN, Connecticut residence, and income; applicable noncitizen or student records"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "HUSKY Health — program site",
+        "url": "https://www.huskyhealthct.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Enrollment and renewal",
+        "value": "1-855-805-4325"
+      },
+      {
+        "kind": "phone",
+        "label": "DSS VoiceCT",
+        "value": "1-855-626-6632"
+      },
+      {
+        "kind": "phone",
+        "label": "Counselor line",
+        "value": "1-888-786-2345"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply or renew any time"
+      }
+    ],
+    "description": "Connecticut's Medicaid and Children's Health Insurance Program, administered by DSS, covering low-income children, parents, pregnant people, and other eligible adults.",
+    "eligibility": [
+      "Connecticut resident",
+      "Income-based eligibility — see program page"
+    ],
+    "id": "ct-husky",
+    "languages": [
+      "English"
+    ],
+    "name": "HUSKY Health (Medicaid/CHIP)",
+    "prerequisites": [
+      "Meet income and category eligibility rules"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.huskyhealthct.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, Connecticut residence, income, and household composition — confirm the current list when applying"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Public Health",
+    "applyLinks": [
+      {
+        "label": "WIC — how to apply (online interest form)",
+        "url": "https://Portal.ct.gov/dph/wic/how-to-apply"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC",
+        "value": "1-800-741-2142"
+      },
+      {
+        "kind": "web",
+        "label": "WIC application page",
+        "value": "https://Portal.ct.gov/dph/wic/how-to-apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit the online interest form any time"
+      }
+    ],
+    "description": "Nutrition support, including a required nutrition assessment, for pregnant and postpartum people, infants, and children under 5. Connecticut residency is required; citizenship proof is not. SNAP, TFA, or HUSKY recipients are automatically income-eligible. Materials available in English and Spanish.",
+    "eligibility": [
+      "Connecticut resident",
+      "Pregnant or postpartum person, infant, or child under 5",
+      "Income-eligible — SNAP/TFA/HUSKY recipients automatically qualify"
+    ],
+    "id": "ct-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Connecticut WIC Program",
+    "prerequisites": [
+      "Submit the online interest form",
+      "Complete the required nutrition assessment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://Portal.ct.gov/dph/wic/how-to-apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of Connecticut residency and income; nutrition assessment is completed at enrollment"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "Heating help — CEAP application portal",
+        "url": "https://portal.ct.gov/heatinghelp"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Heating help / CEAP portal",
+        "value": "https://portal.ct.gov/heatinghelp"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Applications for the 2026–2027 heating season were open as of September 2026 — check the portal for the current season"
+      }
+    ],
+    "description": "Helps eligible Connecticut households pay winter heating costs. Applications for the 2026–2027 season were open as of September 2026; households apply through the state's heating-help portal.",
+    "eligibility": [
+      "Connecticut household",
+      "Income-eligible — see program page"
+    ],
+    "id": "ct-ceap",
+    "languages": [
+      "English"
+    ],
+    "name": "Connecticut Energy Assistance Program (CEAP)",
+    "prerequisites": [
+      "Apply during the open heating season"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/heatinghelp"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income for all household members, copies of utility bills, and rent receipts or lease for renters — confirm the current list on the portal"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Labor",
+    "applyLinks": [
+      {
+        "label": "CTDOL unemployment — file and manage a claim",
+        "url": "https://portal.ct.gov/DOLUI"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Unemployment benefits portal (ReEmployCT)",
+        "value": "https://portal.ct.gov/DOLUI"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you lose work; the program page warns that federal cuts are affecting CTDOL operations and wait times"
+      }
+    ],
+    "description": "Temporary wage replacement for workers who lost a job through no fault of their own. Claims are filed and managed through ReEmployCT, with online case submission available.",
+    "eligibility": [
+      "Worked in Connecticut and lost your job through no fault of your own",
+      "Meet wage and work-search requirements — see program page"
+    ],
+    "id": "ct-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Connecticut Unemployment Insurance",
+    "prerequisites": [
+      "File a claim through ReEmployCT",
+      "Meet ongoing work-search and certification requirements"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/DOLUI"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Work history and wage records; Social Security number — the portal lists the full checklist"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "DSS cash assistance — program information",
+        "url": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DSS cash assistance page",
+        "value": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "Time-limited monthly cash assistance for low-income Connecticut families with children.",
+    "eligibility": [
+      "Low-income Connecticut family with dependent children",
+      "Eligibility rules apply — see program page"
+    ],
+    "id": "ct-tfa",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Family Assistance (TFA)",
+    "prerequisites": [
+      "Apply through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, Connecticut residence, income, and household composition — confirm the current list with DSS"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "DSS cash assistance — program information",
+        "url": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DSS cash assistance page",
+        "value": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "State cash assistance for single adults who do not qualify for other cash assistance programs.",
+    "eligibility": [
+      "Connecticut adult with very low income and assets",
+      "Ineligible for TFA or other cash assistance — see program page"
+    ],
+    "id": "ct-saga",
+    "languages": [
+      "English"
+    ],
+    "name": "State-Administered General Assistance (SAGA)",
+    "prerequisites": [
+      "Apply through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, Connecticut residence, income, and assets — confirm the current list with DSS"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "DSS cash assistance — program information",
+        "url": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DSS cash assistance page",
+        "value": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "State cash assistance supplementing income for aged, blind, or disabled Connecticut residents.",
+    "eligibility": [
+      "Connecticut resident who is aged, blind, or disabled",
+      "Income and asset rules apply — see program page"
+    ],
+    "id": "ct-state-supplement",
+    "languages": [
+      "English"
+    ],
+    "name": "State Supplement Program",
+    "prerequisites": [
+      "Apply through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, Connecticut residence, income, and assets — confirm the current list with DSS"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "DSS cash assistance — program information",
+        "url": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "category": "Immigration",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DSS cash assistance page",
+        "value": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Time-limited",
+        "note": "Short-term assistance during the initial resettlement period — see program page"
+      }
+    ],
+    "description": "Short-term cash assistance for refugees and other eligible humanitarian arrivals during their initial months in the United States.",
+    "eligibility": [
+      "Refugee or other eligible humanitarian immigration status",
+      "Within the initial resettlement period — see program page"
+    ],
+    "id": "ct-refugee-cash",
+    "languages": [
+      "English"
+    ],
+    "name": "Refugee Cash Assistance",
+    "prerequisites": [
+      "Apply through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Immigration and resettlement documentation — confirm the current list with DSS"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Connecticut DVA — programs and services",
+        "url": "https://portal.ct.gov/dva"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Connecticut DVA site",
+        "value": "https://portal.ct.gov/dva"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the DVA for current program availability"
+      }
+    ],
+    "description": "Connecticut's state veterans agency: advocacy and benefits assistance, residential programs, skilled nursing care, cemetery services, and services for eligible family members.",
+    "eligibility": [
+      "Connecticut veteran",
+      "Eligible family members for some services"
+    ],
+    "id": "ct-dva-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Connecticut Department of Veterans Affairs — Programs and Services",
+    "prerequisites": [
+      "Contact the DVA to determine eligibility for specific programs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dva"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military service records (such as a DD-214) — confirm with the DVA for the program you need"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Veterans Affairs, Office of Advocacy and Assistance",
+    "applyLinks": [
+      {
+        "label": "DVA Advocacy and Assistance — program page",
+        "url": "https://portal.ct.gov/dva/advocacy-and-assistance"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Advocacy and Assistance",
+        "value": "860-616-3685"
+      },
+      {
+        "kind": "email",
+        "label": "Office of Advocacy and Assistance",
+        "value": "oaa.dva@ct.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "DVA office",
+        "value": "287 West Street, Rocky Hill, CT 06067"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the office for help with claims and benefits"
+      }
+    ],
+    "description": "Claims and benefits assistance for Connecticut veterans and their families, from the DVA's Office of Advocacy and Assistance at 287 West Street, Rocky Hill.",
+    "eligibility": [
+      "Connecticut veteran or eligible family member needing help with a claim or benefit"
+    ],
+    "id": "ct-dva-advocacy",
+    "languages": [
+      "English"
+    ],
+    "name": "DVA Advocacy and Assistance",
+    "prerequisites": [
+      "Contact the office by phone, email, or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/dva/advocacy-and-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military service records and any existing VA correspondence — confirm with the office"
+    ]
+  },
+  {
+    "agency": "Connecticut Housing Finance Authority (CHFA)",
+    "applyLinks": [
+      {
+        "label": "CHFA Government-Insured Mortgage Program — program page",
+        "url": "https://www.chfa.org/homebuyers-homeowners/homebuyers/homebuyer-mortgage-program/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CHFA mortgage program page",
+        "value": "https://www.chfa.org/homebuyers-homeowners/homebuyers/homebuyer-mortgage-program/"
+      }
+    ],
+    "cost": "Free to apply; standard mortgage costs apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a CHFA-participating lender"
+      }
+    ],
+    "description": "State homebuyer mortgage program for first-time buyers — or buyers with no home ownership in the prior three years, with exceptions in targeted areas. Covers primary-residence purchases with variable income and sales-price limits; homebuyer education and a participating lender are required.",
+    "eligibility": [
+      "First-time buyer, or no home ownership in the prior three years (targeted-area exceptions apply)",
+      "Purchasing a primary residence in Connecticut",
+      "Meet income and sales-price limits"
+    ],
+    "id": "ct-chfa-mortgage",
+    "languages": [
+      "English"
+    ],
+    "name": "CHFA Government-Insured Mortgage Program",
+    "prerequisites": [
+      "Apply through a CHFA-participating lender",
+      "Complete homebuyer education"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.chfa.org/homebuyers-homeowners/homebuyers/homebuyer-mortgage-program/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation and homebuyer-education certificate — your participating lender will specify the full list"
+    ]
+  },
+  {
+    "agency": "Statewide Legal Services of Connecticut",
+    "applyLinks": [
+      {
+        "label": "Statewide Legal Services — get help / online application",
+        "url": "https://www.slsct.org/get-help"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Statewide Legal Services (via Judicial Branch)",
+        "value": "1-800-453-3320"
+      },
+      {
+        "kind": "web",
+        "label": "Online application",
+        "value": "https://www.slsct.org/get-help"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online or call any time"
+      }
+    ],
+    "description": "Free civil legal advice and help for low-income people with Connecticut legal issues. Most services are limited to households at or below 125% of the federal poverty level; does not handle criminal cases, plaintiff-side lawsuits, or immigration matters.",
+    "eligibility": [
+      "Low-income Connecticut resident with a Connecticut civil legal issue",
+      "Most services limited to households at or below 125% of the federal poverty level"
+    ],
+    "id": "ct-sls",
+    "languages": [
+      "English"
+    ],
+    "name": "Statewide Legal Services of Connecticut",
+    "prerequisites": [
+      "Complete the online application or call"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.slsct.org/get-help",
+      "https://jud.ct.gov/crimevictim/resources_POL.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue — the application describes what to include"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Aging and Disability Services, Bureau of Rehabilitation Services",
+    "applyLinks": [
+      {
+        "label": "BRS — how to start your journey (program page)",
+        "url": "https://portal.ct.gov/ads/knowledge-base/articles/employment-services/for-job-seekers/how-to-start-your-journey-with-the-bureau-of-rehabilitation-services"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "BRS program page",
+        "value": "https://portal.ct.gov/ads/knowledge-base/articles/employment-services/for-job-seekers/how-to-start-your-journey-with-the-bureau-of-rehabilitation-services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Start the process any time via the BRS page"
+      }
+    ],
+    "description": "Employment preparation, job placement, and job-retention services for Connecticut residents with disabilities. People who are legally blind are served by the Bureau of Education and Services for the Blind (BESB) instead.",
+    "eligibility": [
+      "Connecticut resident with a disability affecting employment"
+    ],
+    "id": "ct-brs",
+    "languages": [
+      "English"
+    ],
+    "name": "Bureau of Rehabilitation Services (BRS)",
+    "prerequisites": [
+      "Provide disability, education, and work/volunteer history",
+      "Parent or guardian involvement if under 18"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://portal.ct.gov/ads/knowledge-base/articles/employment-services/for-job-seekers/how-to-start-your-journey-with-the-bureau-of-rehabilitation-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Disability, education, and work or volunteer history — see the program page for details"
+    ]
+  },
+  {
+    "agency": "Connecticut Paid Leave Authority",
+    "applyLinks": [
+      {
+        "label": "CT Paid Leave — file a claim",
+        "url": "https://www.ctpaidleave.org/claims?language=en_US"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CT Paid Leave",
+        "value": "877-499-8606"
+      },
+      {
+        "kind": "web",
+        "label": "File a claim",
+        "value": "https://www.ctpaidleave.org/claims?language=en_US"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Application-specific",
+        "note": "Apply 30 days before foreseeable leave, or as soon as practicable otherwise; document due dates depend on your application"
+      }
+    ],
+    "description": "Paid family and medical leave benefits for Connecticut workers — up to 12 weeks of wage replacement for most qualifying reasons. Requires identity verification, employer verification, and documentation for the leave reason.",
+    "eligibility": [
+      "Connecticut worker who earned qualifying wages",
+      "Leave needed for a covered family or medical reason"
+    ],
+    "id": "ct-paid-leave",
+    "languages": [
+      "English"
+    ],
+    "name": "CT Paid Leave",
+    "prerequisites": [
+      "Identity verification",
+      "Employer verification",
+      "Documentation for the leave reason"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.ctpaidleave.org/claims?language=en_US"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identity documents, employer information, and documentation for the leave reason — the claims portal lists what your application requires"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Aging and Disability Services — CHOICES",
+    "applyLinks": [
+      {
+        "label": "CHOICES official brochure (PDF)",
+        "url": "https://preview.ct.egov.com/ads/-/media/ads-beta/choices/ads_ship_choices_brochure.pdf"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHOICES statewide hotline",
+        "value": "1-800-994-9422"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the hotline any time for counseling"
+      }
+    ],
+    "description": "Connecticut's State Health Insurance Assistance Program: free, unbiased counseling on Medicare, Medicaid, and long-term care and support options for Medicare-eligible Connecticut residents and their families.",
+    "eligibility": [
+      "Medicare-eligible Connecticut resident, or family member/caregiver"
+    ],
+    "id": "ct-choices",
+    "languages": [
+      "English"
+    ],
+    "name": "CHOICES — Connecticut's Health Insurance Counseling Program",
+    "prerequisites": [
+      "Call the statewide hotline to connect with a counselor"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://preview.ct.egov.com/ads/-/media/ads-beta/choices/ads_ship_choices_brochure.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medicare or insurance cards and a list of current providers and medications — helpful for plan comparisons"
+    ]
+  },
+  {
+    "agency": "Connecticut Office of Higher Education",
+    "applyLinks": [
+      {
+        "label": "Roberta B. Willis Scholarship FAQ (PDF)",
+        "url": "https://preview.ct.egov.com/-/media/sde/performance/fafsa/frequently-asked-questions--roberta-b-willis-need-merit-scholarship.pdf"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "Office of Higher Education, Student Financial Aid",
+        "value": "ohe.sfa@ct.gov"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual — February (confirm current year)",
+        "note": "Per the AY 2025–2026 FAQ, the FAFSA and counselor application were due February 15 — confirm the current year's date with the Office of Higher Education"
+      }
+    ],
+    "description": "Need- and merit-based scholarship for Connecticut students attending eligible in-state colleges. Students cannot apply directly — the high school counselor submits the application. Award amounts vary by year; see the program FAQ.",
+    "eligibility": [
+      "Connecticut student",
+      "Meets academic criteria",
+      "Attending an eligible in-state college",
+      "Meets the annual SAI cutoff"
+    ],
+    "id": "ct-willis-scholarship",
+    "languages": [
+      "English"
+    ],
+    "name": "Roberta B. Willis Need-Merit Scholarship",
+    "prerequisites": [
+      "Complete the FAFSA",
+      "High school counselor submits the scholarship application — students cannot apply directly"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://preview.ct.egov.com/-/media/sde/performance/fafsa/frequently-asked-questions--roberta-b-willis-need-merit-scholarship.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA confirmation and academic records — the counselor handles the application submission"
+    ]
+  },
+  {
+    "agency": "Consumer Law Project for Elders",
+    "applyLinks": [
+      {
+        "label": "Program information — CT House Democrats seniors page",
+        "url": "https://housedems.ct.gov/Issues/seniors"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Consumer Law Project for Elders",
+        "value": "1-800-296-1467"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time for help"
+      }
+    ],
+    "description": "Free legal help for Connecticut residents age 60 and older with consumer problems, such as unfair or undisclosed loan terms. Spanish-speaking staff are available.",
+    "eligibility": [
+      "Connecticut resident age 60 or older with a consumer legal problem"
+    ],
+    "id": "ct-clpe",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Consumer Law Project for Elders",
+    "prerequisites": [
+      "Call for a case review"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://housedems.ct.gov/Issues/seniors",
+      "https://www.stamfordct.gov/home/showpublisheddocument/31895/638373902596570000"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Loan or contract documents related to the consumer problem — confirm with the office"
+    ]
+  },
+  {
+    "agency": "Connecticut Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "Program information — CT House Democrats seniors page",
+        "url": "https://housedems.ct.gov/Issues/seniors"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS Alternate Care Unit",
+        "value": "1-800-445-5394"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for an application or referral"
+      }
+    ],
+    "description": "Home-care services for low-to-moderate-income families caring at home for someone age 65 or older who would otherwise be at risk of nursing-home placement. Different eligibility levels based on income and/or assets.",
+    "eligibility": [
+      "Person age 65 or older at risk of nursing-home placement",
+      "Low-to-moderate-income household; income/asset rules vary by level"
+    ],
+    "id": "ct-chcpe",
+    "languages": [
+      "English"
+    ],
+    "name": "Connecticut Home Care Program for Elders",
+    "prerequisites": [
+      "Call the DSS Alternate Care Unit for an application or referral"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://housedems.ct.gov/Issues/seniors"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income and assets, and care-need documentation — the Alternate Care Unit will specify"
+    ]
+  },
+  {
+    "agency": "Connecticut Secretary of the State, Concord business services",
+    "applyLinks": [
+      {
+        "label": "Connecticut Business Services (Concord) — business portal",
+        "url": "https://www.concord-sots.ct.gov/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business portal",
+        "value": "https://www.concord-sots.ct.gov/"
+      }
+    ],
+    "cost": "Free to use; state filing fees vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Use the portal any time"
+      }
+    ],
+    "description": "Connecticut's official business portal: business search, entity and name filing guidance, licensing guidance, UCC filing, tax links, contracting opportunities, hiring and training resources, and business closure/dissolution information.",
+    "eligibility": [
+      "Anyone starting, running, or closing a Connecticut business"
+    ],
+    "id": "ct-concord",
+    "languages": [
+      "English"
+    ],
+    "name": "Connecticut Business Services (Concord)",
+    "prerequisites": [
+      "Create an account on the portal for filings"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.concord-sots.ct.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name, entity details, and filing information depend on the transaction — the portal guides each step"
+    ]
+  },
+  {
+    "agency": "Way to Go CT",
+    "applyLinks": [
+      {
+        "label": "Program information — CT House Democrats seniors page",
+        "url": "https://housedems.ct.gov/Issues/seniors"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Way to Go CT mobility information",
+        "value": "860-667-6207 ext. 17"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time for mobility guidance"
+      }
+    ],
+    "description": "Mobility management program that helps senior citizens, veterans, and people with disabilities understand their transportation options and see all available services.",
+    "eligibility": [
+      "Connecticut senior citizen, veteran, or person with a disability needing transportation guidance"
+    ],
+    "id": "ct-way-to-go",
+    "languages": [
+      "English"
+    ],
+    "name": "Way to Go CT Mobility Management Program",
+    "prerequisites": [
+      "Call for mobility guidance"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://housedems.ct.gov/Issues/seniors"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your location and transportation needs — the program helps identify options"
+    ]
+  },
+  {
+    "agency": "Connecticut 2-1-1",
+    "applyLinks": [
+      {
+        "label": "Bridgeport housing resources — coordinated-access reference",
+        "url": "https://bridgeportct.gov/government/departments/housing-code/housing-resources"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "2-1-1 Coordinated Access (Option 3)",
+        "value": "211"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 211 any time for help with a housing crisis or homelessness"
+      }
+    ],
+    "description": "2-1-1 is Connecticut's front door to the Coordinated Access Networks, which coordinate housing and homelessness services statewide. Dial 211 and choose Option 3 for help with homelessness or a housing crisis.",
+    "eligibility": [
+      "Connecticut resident experiencing homelessness or a housing crisis"
+    ],
+    "id": "ct-211-can",
+    "languages": [
+      "English"
+    ],
+    "name": "2-1-1 Coordinated Access Networks",
+    "prerequisites": [
+      "Dial 211 and choose Option 3"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "CT"
+    },
+    "sources": [
+      "https://bridgeportct.gov/government/departments/housing-code/housing-resources"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your current situation and location — the 211 specialist will guide the intake"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration",
+    "applyLinks": [
+      {
+        "label": "SSA benefit types — learn and apply",
+        "url": "https://www.ssa.gov/benefits"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SSA benefits page",
+        "value": "https://www.ssa.gov/benefits"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; some benefits have filing windows — see ssa.gov"
+      }
+    ],
+    "description": "Federal monthly payments: retirement benefits (age 62 or older with 10 or more years of covered work), disability benefits, survivor and family benefits, and Supplemental Security Income (SSI) for people with little income and resources who are disabled, blind, or age 65 or older.",
+    "eligibility": [
+      "Varies by benefit: retirement at 62+ with 10 years of Social Security taxes; disability or blindness with enough work history; survivor/family of a covered worker; SSI for low-income disabled, blind, or 65+"
+    ],
+    "id": "fed-ssa-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Benefits",
+    "prerequisites": [
+      "Create or use a my Social Security account to apply online"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "CT"
+    },
+    "sources": [
+      "https://www.ssa.gov/benefits"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number, work history, and benefit-specific documents — ssa.gov lists the checklist"
+    ]
   }
 ]
