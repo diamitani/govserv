@@ -39825,5 +39825,1900 @@
     "sources": [
       "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
     ]
+  },
+  {
+    "id": "ma-tafdc",
+    "name": "TAFDC — Transitional Aid to Families with Dependent Children",
+    "agency": "Massachusetts Department of Transitional Assistance (DTA)",
+    "category": "Money & Taxes",
+    "description": "Monthly cash assistance for families with dependent children who have low income, plus work supports and child care referrals.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents with dependent children",
+      "Low-income households meeting DTA financial and non-financial rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create or have a DTA Connect account for online applications",
+      "Complete a DTA eligibility interview"
+    ],
+    "whatToBring": [
+      "Proof of identity for household members",
+      "Proof of Massachusetts residency",
+      "Proof of income and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TAFDC program page",
+        "value": "https://www.mass.gov/how-to/transitional-aid-to-families-with-dependent-children-tafdc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for TAFDC",
+        "url": "https://www.mass.gov/how-to/transitional-aid-to-families-with-dependent-children-tafdc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/transitional-aid-to-families-with-dependent-children-tafdc"
+    ]
+  },
+  {
+    "id": "ma-eaedc",
+    "name": "EAEDC — Emergency Aid to the Elderly, Disabled and Children",
+    "agency": "Massachusetts Department of Transitional Assistance (DTA)",
+    "category": "Money & Taxes",
+    "description": "State-funded cash assistance for elderly people, people with disabilities, and children who do not qualify for other cash programs.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Elderly Massachusetts residents with little or no income",
+      "People with disabilities awaiting or ineligible for federal benefits",
+      "Children in qualifying circumstances"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through DTA and complete an eligibility interview"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Massachusetts residency",
+      "Proof of income, assets, and disability or age where applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "EAEDC program page",
+        "value": "https://www.mass.gov/info-details/emergency-aid-to-the-elderly-disabled-and-children-eaedc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EAEDC information and application",
+        "url": "https://www.mass.gov/info-details/emergency-aid-to-the-elderly-disabled-and-children-eaedc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/info-details/emergency-aid-to-the-elderly-disabled-and-children-eaedc"
+    ]
+  },
+  {
+    "id": "ma-snap",
+    "name": "SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Massachusetts Department of Transitional Assistance (DTA)",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for low-income households. Apply online at DTAConnect.com, by phone, fax, mail, or in person at a DTA office; DTA decides most applications within 30 days.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents",
+      "Households meeting income limits (Massachusetts uses broad-based categorical eligibility)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. DTA decides most applications within 30 days."
+      }
+    ],
+    "prerequisites": [
+      "Submit a signed application with your name, address, and signature",
+      "Complete an eligibility interview with DTA"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of housing and dependent-care expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DTA Assistance Line (Mon-Fri, 8:15 AM-4:45 PM)",
+        "value": "877-382-2363"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP benefit application (PDF)",
+        "value": "https://Www.mass.gov/doc/snap-benefit-application/download"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP benefit application (PDF)",
+        "url": "https://Www.mass.gov/doc/snap-benefit-application/download"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://Www.mass.gov/doc/snap-benefit-application/download"
+    ]
+  },
+  {
+    "id": "ma-wic",
+    "name": "WIC — Women, Infants & Children Nutrition Program",
+    "agency": "Massachusetts Department of Public Health",
+    "category": "Food",
+    "description": "Nutrition support, breastfeeding help, and food benefits for pregnant and postpartum women, infants, and children under 5.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding women",
+      "Infants and children under age 5",
+      "Massachusetts residents meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to schedule an appointment"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Massachusetts residency",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Massachusetts WIC helpline",
+        "value": "(800) 942-1007"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for WIC",
+        "value": "https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for WIC",
+        "url": "https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program"
+    ]
+  },
+  {
+    "id": "ma-masshealth",
+    "name": "MassHealth / CMSP — Apply or Enroll in Health Coverage",
+    "agency": "MassHealth (Executive Office of Health and Human Services)",
+    "category": "Healthcare",
+    "description": "Apply for MassHealth, the Children's Medical Security Plan (CMSP), and related coverage with help paying costs. Application forms available in English and Spanish.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents",
+      "People meeting income and household rules for MassHealth or CMSP"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Massachusetts Application for Health and Dental Coverage and Help Paying Costs"
+    ],
+    "whatToBring": [
+      "Social Security numbers for applicants",
+      "Proof of income",
+      "Immigration documents if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MassHealth customer service",
+        "value": "(800) 841-2900"
+      },
+      {
+        "kind": "phone",
+        "label": "MassHealth TDD/TTY",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "Apply or enroll in CMSP/MassHealth",
+        "value": "https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply or enroll in CMSP/MassHealth",
+        "url": "https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth"
+    ]
+  },
+  {
+    "id": "ma-chapter-115",
+    "name": "Chapter 115 — Veteran Financial Assistance",
+    "agency": "Massachusetts Executive Office of Veterans Services",
+    "category": "Veterans",
+    "description": "Needs-based financial assistance for eligible veterans and their dependents, administered with local Veterans' Service Officers.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Eligible Massachusetts veterans",
+      "Dependents of eligible veterans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local Veterans' Service Officer to apply"
+    ],
+    "whatToBring": [
+      "DD-214 or other proof of military service",
+      "Proof of Massachusetts residency",
+      "Proof of income and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to apply for Chapter 115 assistance",
+        "value": "https://www.mass.gov/how-to/how-to-apply-for-chapter-115-veteran-financial-assistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for Chapter 115 assistance",
+        "url": "https://www.mass.gov/how-to/how-to-apply-for-chapter-115-veteran-financial-assistance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/how-to-apply-for-chapter-115-veteran-financial-assistance"
+    ]
+  },
+  {
+    "id": "ma-pfml",
+    "name": "PFML — Paid Family and Medical Leave (Family Leave)",
+    "agency": "Massachusetts Department of Family and Medical Leave",
+    "category": "Employment",
+    "description": "Paid leave to care for a family member with a serious health condition, for most Massachusetts workers including some self-employed and unemployed applicants.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts workers covered by PFML contributions",
+      "Self-employed individuals who opted in",
+      "Some unemployed applicants"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a PFML account and file an application with supporting documentation"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Employment and earnings information",
+      "Medical certification for the family member's condition"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PFML contact center (self-employed/unemployed applicants)",
+        "value": "(833) 344-7365"
+      },
+      {
+        "kind": "web",
+        "label": "PFML family leave information",
+        "value": "https://www.mass.gov/info-details/pfml-about-family-leave-to-care-for-a-family-member"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PFML family leave information",
+        "url": "https://www.mass.gov/info-details/pfml-about-family-leave-to-care-for-a-family-member"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/info-details/pfml-about-family-leave-to-care-for-a-family-member"
+    ]
+  },
+  {
+    "id": "ma-heap",
+    "name": "HEAP — Home Energy Assistance Program",
+    "agency": "Executive Office of Housing and Livable Communities (EOHLC)",
+    "category": "Utilities",
+    "description": "Help paying winter heating bills for eligible low-income households, delivered through local Community Action Agencies.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Low-income Massachusetts households",
+      "Renters and homeowners responsible for heating costs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "HEAP runs each heating season; apply through your local Community Action Agency."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local Community Action Agency"
+    ],
+    "whatToBring": [
+      "Proof of identity for household members",
+      "Proof of income",
+      "Current heating/fuel bill"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to apply for HEAP",
+        "value": "https://www.mass.gov/how-to/apply-for-home-energy-assistance-heap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for HEAP",
+        "url": "https://www.mass.gov/how-to/apply-for-home-energy-assistance-heap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/apply-for-home-energy-assistance-heap"
+    ]
+  },
+  {
+    "id": "ma-unemployment-insurance",
+    "name": "Unemployment Insurance (UI) Benefits",
+    "agency": "Massachusetts Department of Unemployment Assistance (DUA)",
+    "category": "Employment",
+    "description": "Temporary income for workers who lost their jobs through no fault of their own and meet earnings requirements.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "People meeting Massachusetts earnings requirements in the base period"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File a claim with DUA online or by phone"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and addresses for the last 15 months",
+      "Alien registration number if not a U.S. citizen"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DUA call center",
+        "value": "(877) 626-6800"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for UI benefits",
+        "value": "http://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for unemployment insurance benefits",
+        "url": "http://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits"
+    ]
+  },
+  {
+    "id": "ma-shine",
+    "name": "SHINE — Serving the Health Insurance Needs of Everyone",
+    "agency": "Massachusetts Executive Office of Elder Affairs",
+    "category": "Seniors",
+    "description": "Free, unbiased Medicare counseling for Massachusetts residents — help understanding Medicare options, enrollment, and benefits.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents with Medicare questions",
+      "People approaching Medicare eligibility",
+      "Caregivers helping someone with Medicare"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local SHINE counselor through a Council on Aging or Aging Services Access Point"
+    ],
+    "whatToBring": [
+      "Your Medicare card or coverage information",
+      "List of current prescriptions if comparing drug plans"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SHINE program page",
+        "value": "https://www.mass.gov/shine-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SHINE program page",
+        "url": "https://www.mass.gov/shine-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/shine-program"
+    ]
+  },
+  {
+    "id": "ma-learners-permit",
+    "name": "Class D Learner's Permit",
+    "agency": "Massachusetts Registry of Motor Vehicles (RMV)",
+    "category": "Transportation",
+    "description": "Apply for a passenger (Class D) learner's permit to begin driving in Massachusetts. The permit application fee is $30.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents age 16 or older",
+      "People meeting RMV identity and residency requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Start the application online and schedule a learner's permit exam at an RMV service center"
+    ],
+    "whatToBring": [
+      "Proof of identity and date of birth",
+      "Proof of Massachusetts residency",
+      "Social Security number"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to apply for a Class D learner's permit",
+        "value": "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for a Class D learner's permit",
+        "url": "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$30",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit"
+    ]
+  },
+  {
+    "id": "ma-massgrant",
+    "name": "MASSGrant / MASSGrant Plus — State College Financial Aid",
+    "agency": "Massachusetts Office of Student Financial Assistance (OSFA)",
+    "category": "Education",
+    "description": "Need-based state grants for Massachusetts undergraduate students. File the FAFSA or MASFA each year — no separate MASSGrant application. Awards vary and cannot exceed your calculated financial need.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts residents enrolled as undergraduates",
+      "Students demonstrating financial need",
+      "Students at eligible Massachusetts institutions"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "File the FAFSA or MASFA every year; states have limited funds, so file early."
+      }
+    ],
+    "prerequisites": [
+      "File the FAFSA or the MASFA for the aid year"
+    ],
+    "whatToBring": [
+      "StudentAid.gov account",
+      "Federal tax information (transferred from the IRS with consent)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OSFA",
+        "value": "(617) 391-6070"
+      },
+      {
+        "kind": "web",
+        "label": "MASSGrant / MASSGrant Plus information",
+        "value": "https://www.mass.gov/info-details/massgrant-massgrant-plus"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MASSGrant / MASSGrant Plus information",
+        "url": "https://www.mass.gov/info-details/massgrant-massgrant-plus"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/info-details/massgrant-massgrant-plus"
+    ]
+  },
+  {
+    "id": "ma-jobquest",
+    "name": "MassHire JobQuest — Job Search Portal",
+    "agency": "Massachusetts Executive Office of Labor and Workforce Development (MassHire)",
+    "category": "Employment",
+    "description": "The state's online job board and career portal. A MyMassGov account is required to create a profile, apply for jobs, and register for workshops.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Job seekers in Massachusetts"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a MyMassGov account to build a profile, apply, and register for workshops"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Work history and references"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find your next job with MassHire JobQuest",
+        "value": "https://mass.gov/find-your-next-job-with-masshire-jobquest"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your next job with MassHire JobQuest",
+        "url": "https://mass.gov/find-your-next-job-with-masshire-jobquest"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mass.gov/find-your-next-job-with-masshire-jobquest"
+    ]
+  },
+  {
+    "id": "ma-sbdc",
+    "name": "Massachusetts Small Business Development Center (MSBDC) Advising",
+    "agency": "Massachusetts Small Business Development Center Network",
+    "category": "Small Business",
+    "description": "No-cost, confidential one-on-one business advising. A signed Request for Advising and an appointment are required — no walk-ins. Pre-launch applicants may need to complete the online 'How to Start a Business' series first.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts small business owners",
+      "People planning to start a business in Massachusetts"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Submit a signed Request for Advising and schedule an appointment (no walk-ins)"
+    ],
+    "whatToBring": [
+      "Business plan or business idea summary",
+      "Financial statements for existing businesses"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MSBDC Request for Advising",
+        "value": "http://www.msbdc.org/rfa.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MSBDC Request for Advising",
+        "url": "http://www.msbdc.org/rfa.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — advising is no-cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.msbdc.org/rfa.html"
+    ]
+  },
+  {
+    "id": "ma-mbta-senior-charliecard",
+    "name": "MBTA Senior CharlieCard",
+    "agency": "Massachusetts Bay Transportation Authority (MBTA)",
+    "category": "Seniors",
+    "description": "Reduced-fare CharlieCard for riders 65 and older on MBTA subway, bus, commuter rail, and ferry services.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Riders age 65 or older"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply for the Senior CharlieCard online or in person"
+    ],
+    "whatToBring": [
+      "Proof of age (photo ID)",
+      "A photo for the card if applying in person"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Senior CharlieCard",
+        "value": "https://www.mbta.com/fares/reduced/senior-charliecard"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Senior CharlieCard",
+        "url": "https://www.mbta.com/fares/reduced/senior-charliecard"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mbta.com/fares/reduced/senior-charliecard"
+    ]
+  },
+  {
+    "id": "ma-mbta-tap",
+    "name": "MBTA Transportation Access Pass (TAP)",
+    "agency": "Massachusetts Bay Transportation Authority (MBTA)",
+    "category": "Disability",
+    "description": "Reduced-fare pass for riders with disabilities on MBTA services. Call 617-222-3200 for help with the application.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Riders with a qualifying disability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Submit a TAP application with disability documentation"
+    ],
+    "whatToBring": [
+      "Proof of disability as described on the program page",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MBTA reduced fare help",
+        "value": "617-222-3200"
+      },
+      {
+        "kind": "web",
+        "label": "Transportation Access Pass",
+        "value": "https://www.mbta.com/fares/reduced/transportation-access-pass"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Transportation Access Pass",
+        "url": "https://www.mbta.com/fares/reduced/transportation-access-pass"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mbta.com/fares/reduced/transportation-access-pass"
+    ]
+  },
+  {
+    "id": "boston-311",
+    "name": "Boston 311 — City Service Requests",
+    "agency": "City of Boston",
+    "category": "Utilities",
+    "description": "Report non-emergency city issues such as potholes, missed trash, graffiti, and streetlights. Free and available 24/7 by app, web, or phone.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Boston",
+      "county": "Suffolk"
+    },
+    "eligibility": [
+      "Anyone reporting an issue in the City of Boston"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — submit requests online, by app, or by phone"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Boston 311",
+        "value": "617-635-4500"
+      },
+      {
+        "kind": "web",
+        "label": "Boston 311 department page",
+        "value": "https://www.boston.gov/departments/boston-311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Boston 311 department page",
+        "url": "https://www.boston.gov/departments/boston-311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.boston.gov/departments/boston-311"
+    ]
+  },
+  {
+    "id": "boston-library-ecard",
+    "name": "Boston Public Library eCard",
+    "agency": "Boston Public Library",
+    "category": "Education",
+    "description": "Free eCard for eligible Massachusetts residents, qualifying students, workers, and property owners — access BPL's digital collections and online resources. eCards do not include physical borrowing.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Boston",
+      "county": "Suffolk"
+    },
+    "eligibility": [
+      "Massachusetts residents",
+      "Qualifying students, workers, and property owners in Massachusetts"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the online eCard application"
+    ],
+    "whatToBring": [
+      "Proof of eligibility (residency, student status, employment, or property ownership)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "BPL eCard application",
+        "value": "https://www.bpl.org/ecard/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "BPL eCard application",
+        "url": "https://www.bpl.org/ecard/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.bpl.org/ecard/"
+    ]
+  },
+  {
+    "id": "boston-masshire",
+    "name": "MassHire Downtown Boston Career Center",
+    "agency": "MassHire",
+    "category": "Employment",
+    "description": "Free career services in downtown Boston: job search help, resume and interview coaching, training referrals, and hiring events.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Boston",
+      "county": "Suffolk"
+    },
+    "eligibility": [
+      "Job seekers in the Boston area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Walk in or schedule an appointment; some services need a JobQuest profile"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MassHire Downtown Boston Career Center",
+        "value": "(617) 399-3100"
+      },
+      {
+        "kind": "web",
+        "label": "Career center location page",
+        "value": "https://www.mass.gov/locations/masshire-downtown-boston-career-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Career center location page",
+        "url": "https://www.mass.gov/locations/masshire-downtown-boston-career-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/locations/masshire-downtown-boston-career-center"
+    ]
+  },
+  {
+    "id": "worcester-311",
+    "name": "Worcester 311 — City Service Requests",
+    "agency": "City of Worcester",
+    "category": "Utilities",
+    "description": "Non-emergency city service requests for Worcester — potholes, trash, streetlights, and more. Online requests accepted 24/7; call 311 or 508-929-1300.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Worcester",
+      "county": "Worcester"
+    },
+    "eligibility": [
+      "Anyone reporting an issue in the City of Worcester"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — submit requests online or by phone"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Worcester 311",
+        "value": "508-929-1300"
+      },
+      {
+        "kind": "web",
+        "label": "Worcester 311 page",
+        "value": "https://www.worcesterma.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Worcester 311 page",
+        "url": "https://www.worcesterma.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.worcesterma.gov/311"
+    ]
+  },
+  {
+    "id": "worcester-library-card",
+    "name": "Worcester Public Library Card",
+    "agency": "Worcester Public Library",
+    "category": "Education",
+    "description": "Free library card for borrowing and digital access. Bring a completed application and proof of your current address.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Worcester",
+      "county": "Worcester"
+    },
+    "eligibility": [
+      "Worcester residents and eligible borrowers per library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the library card application"
+    ],
+    "whatToBring": [
+      "Completed application",
+      "Proof of current address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library card FAQ",
+        "value": "https://mywpl.libanswers.com/circulation/faq/390291"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library card FAQ",
+        "url": "https://mywpl.libanswers.com/circulation/faq/390291"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mywpl.libanswers.com/circulation/faq/390291"
+    ]
+  },
+  {
+    "id": "worcester-masshire",
+    "name": "MassHire Worcester Career Center",
+    "agency": "MassHire",
+    "category": "Employment",
+    "description": "Free career services in Worcester: job search assistance, workshops, training referrals, and employer connections.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Worcester",
+      "county": "Worcester"
+    },
+    "eligibility": [
+      "Job seekers in the Worcester area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit the career center; some services need a JobQuest profile"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Career center location page",
+        "value": "https://www.mass.gov/locations/masshire-worcester-career-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Career center location page",
+        "url": "https://www.mass.gov/locations/masshire-worcester-career-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/locations/masshire-worcester-career-center"
+    ]
+  },
+  {
+    "id": "springfield-311",
+    "name": "Springfield 311 — Citizen Service Center",
+    "agency": "City of Springfield",
+    "category": "Utilities",
+    "description": "Non-emergency city services for Springfield — report issues and request services online 24/7, or call 311 (413-736-3111).",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Springfield",
+      "county": "Hampden"
+    },
+    "eligibility": [
+      "Anyone reporting an issue in the City of Springfield"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — use the online tools or call"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Springfield 311",
+        "value": "413-736-3111"
+      },
+      {
+        "kind": "web",
+        "label": "Springfield contact-us page",
+        "value": "https://www.springfield-ma.gov/cos/contact-us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Springfield contact-us page",
+        "url": "https://www.springfield-ma.gov/cos/contact-us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.springfield-ma.gov/cos/contact-us"
+    ]
+  },
+  {
+    "id": "springfield-library-card",
+    "name": "Springfield City Library Card",
+    "agency": "Springfield City Library",
+    "category": "Education",
+    "description": "Free library card for Springfield residents — get a physical card in person or a CW MARS eCard online. Out-of-state general cards are $35 annually; Massachusetts residents are not subject to that fee.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Springfield",
+      "county": "Hampden"
+    },
+    "eligibility": [
+      "Springfield and Massachusetts residents per library policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person for a physical card or online for a CW MARS eCard"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "https://www.springfieldlibrary.org/library/get-a-library-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://www.springfieldlibrary.org/library/get-a-library-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Massachusetts residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.springfieldlibrary.org/library/get-a-library-card/"
+    ]
+  },
+  {
+    "id": "springfield-masshire",
+    "name": "MassHire Springfield Career Center",
+    "agency": "MassHire",
+    "category": "Employment",
+    "description": "Free career services in Springfield: job search help, resume and interview coaching, training referrals, and hiring events.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Springfield",
+      "county": "Hampden"
+    },
+    "eligibility": [
+      "Job seekers in the Springfield area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit the career center; some services need a JobQuest profile"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MassHire Springfield Career Center",
+        "value": "(413) 858-2800"
+      },
+      {
+        "kind": "web",
+        "label": "Career center location page",
+        "value": "https://www.mass.gov/locations/masshire-springfield-career-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Career center location page",
+        "url": "https://www.mass.gov/locations/masshire-springfield-career-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/locations/masshire-springfield-career-center"
+    ]
+  },
+  {
+    "id": "cambridge-311",
+    "name": "Cambridge 311 — SeeClickFix Service Requests",
+    "agency": "City of Cambridge",
+    "category": "Utilities",
+    "description": "Report non-emergency issues in Cambridge via SeeClickFix. Not monitored 24/7 — for immediate or public-safety matters call 617-349-3300; for request follow-up call 617-349-4300.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Cambridge",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Anyone reporting an issue in the City of Cambridge"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — submit requests online or by phone during service hours"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cambridge public safety line",
+        "value": "617-349-3300"
+      },
+      {
+        "kind": "phone",
+        "label": "Cambridge 311 follow-up",
+        "value": "617-349-4300"
+      },
+      {
+        "kind": "web",
+        "label": "Cambridge 311 page",
+        "value": "http://cambridgema.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cambridge 311 page",
+        "url": "http://cambridgema.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://cambridgema.gov/311"
+    ]
+  },
+  {
+    "id": "cambridge-masshire",
+    "name": "Career Source Cambridge (MassHire)",
+    "agency": "Career Source (MassHire)",
+    "category": "Employment",
+    "description": "Free career services in Cambridge: job-search assistance, coaching, training referrals, career fairs, and a resource room.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Cambridge",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Job seekers in the Cambridge area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit the career center; some services need a JobQuest profile"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Career Source Cambridge location page",
+        "value": "https://www.mass.gov/locations/career-source-cambridge"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Career Source Cambridge location page",
+        "url": "https://www.mass.gov/locations/career-source-cambridge"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mass.gov/locations/career-source-cambridge"
+    ]
+  },
+  {
+    "id": "lowell-311",
+    "name": "Lowell 311 — City Service Requests",
+    "agency": "City of Lowell",
+    "category": "Utilities",
+    "description": "Non-emergency city service requests for Lowell. Business-hours phone 978-674-4311; urgent after-hours non-emergency line 978-937-3200. Online submissions require an account.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Lowell",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Anyone reporting an issue in the City of Lowell"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create an account to submit requests online"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lowell 311 (business hours)",
+        "value": "978-674-4311"
+      },
+      {
+        "kind": "phone",
+        "label": "Lowell after-hours non-emergency",
+        "value": "978-937-3200"
+      },
+      {
+        "kind": "web",
+        "label": "Lowell 311 page",
+        "value": "http://lowellma.gov/1977/Lowell-311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lowell 311 page",
+        "url": "http://lowellma.gov/1977/Lowell-311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://lowellma.gov/1977/Lowell-311"
+    ]
+  },
+  {
+    "id": "lowell-library-card",
+    "name": "Lowell Pollard Memorial Library Card",
+    "agency": "Pollard Memorial Library (Lowell)",
+    "category": "Education",
+    "description": "Free library card for Lowell residents — bring proof of name and residency. Massachusetts residents may also qualify for an eCard.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Lowell",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Lowell residents",
+      "Massachusetts residents (eCard)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person or online per library policy"
+    ],
+    "whatToBring": [
+      "Proof of name and Lowell residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library cards and loan rules",
+        "value": "http://lowelllibrary.org/services/library-cards-loan-rules/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library cards and loan rules",
+        "url": "http://lowelllibrary.org/services/library-cards-loan-rules/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://lowelllibrary.org/services/library-cards-loan-rules/"
+    ]
+  },
+  {
+    "id": "lowell-masshire",
+    "name": "MassHire Lowell Career Center",
+    "agency": "MassHire",
+    "category": "Employment",
+    "description": "Free career services in Lowell: job search help, resume and interview coaching, training referrals, and hiring events.",
+    "scope": {
+      "level": "city",
+      "state": "MA",
+      "city": "Lowell",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Job seekers in the Lowell area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit the career center; some services need a JobQuest profile"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MassHire Lowell Career Center",
+        "value": "(978) 458-2503"
+      },
+      {
+        "kind": "web",
+        "label": "Career center location page",
+        "value": "https://WWW.mass.gov/locations/masshire-lowell-career-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Career center location page",
+        "url": "https://WWW.mass.gov/locations/masshire-lowell-career-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://WWW.mass.gov/locations/masshire-lowell-career-center"
+    ]
+  },
+  {
+    "id": "suffolk-legal-aid",
+    "name": "Greater Boston Legal Services (Suffolk County)",
+    "agency": "Greater Boston Legal Services",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income residents of Suffolk County and Greater Boston — housing, family, benefits, and consumer cases. Find help through the Massachusetts legal-aid directory.",
+    "scope": {
+      "level": "county",
+      "state": "MA",
+      "county": "Suffolk"
+    },
+    "eligibility": [
+      "Low-income residents of Suffolk County / Greater Boston"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact intake to screen for eligibility"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Greater Boston Legal Services",
+        "value": "617-371-1234"
+      },
+      {
+        "kind": "web",
+        "label": "Massachusetts legal-aid directory",
+        "value": "https://mlac.org/help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Massachusetts legal-aid directory",
+        "url": "https://mlac.org/help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mlac.org/help/"
+    ]
+  },
+  {
+    "id": "worcestercounty-legal-aid",
+    "name": "Community Legal Aid — Worcester County",
+    "agency": "Community Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income residents of Worcester County — housing, family, benefits, and consumer cases. Statewide intake line 855-252-5342.",
+    "scope": {
+      "level": "county",
+      "state": "MA",
+      "county": "Worcester"
+    },
+    "eligibility": [
+      "Low-income residents of Worcester County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact intake to screen for eligibility"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Legal Aid intake",
+        "value": "855-252-5342"
+      },
+      {
+        "kind": "web",
+        "label": "Massachusetts legal-aid directory",
+        "value": "https://mlac.org/help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Massachusetts legal-aid directory",
+        "url": "https://mlac.org/help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mlac.org/help/"
+    ]
+  },
+  {
+    "id": "hampden-legal-aid",
+    "name": "Community Legal Aid — Hampden County (Springfield)",
+    "agency": "Community Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income residents of Hampden County, including Springfield — housing, family, benefits, and consumer cases. Statewide intake line 855-252-5342.",
+    "scope": {
+      "level": "county",
+      "state": "MA",
+      "county": "Hampden"
+    },
+    "eligibility": [
+      "Low-income residents of Hampden County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact intake to screen for eligibility"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Legal Aid intake",
+        "value": "855-252-5342"
+      },
+      {
+        "kind": "web",
+        "label": "Massachusetts legal-aid directory",
+        "value": "https://mlac.org/help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Massachusetts legal-aid directory",
+        "url": "https://mlac.org/help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mlac.org/help/"
+    ]
+  },
+  {
+    "id": "middlesex-legal-aid",
+    "name": "Northeast Legal Aid — Middlesex County (Lowell)",
+    "agency": "Northeast Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income residents of northern Middlesex County, including Lowell. Cambridge-area residents can also contact the De Novo Center for Legal Advocacy (617-661-1010).",
+    "scope": {
+      "level": "county",
+      "state": "MA",
+      "county": "Middlesex"
+    },
+    "eligibility": [
+      "Low-income residents of Middlesex County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact intake to screen for eligibility"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northeast Legal Aid",
+        "value": "978-458-1465"
+      },
+      {
+        "kind": "phone",
+        "label": "De Novo Center for Legal Advocacy (Cambridge/Boston)",
+        "value": "617-661-1010"
+      },
+      {
+        "kind": "web",
+        "label": "Massachusetts legal-aid directory",
+        "value": "https://mlac.org/help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Massachusetts legal-aid directory",
+        "url": "https://mlac.org/help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mlac.org/help/"
+    ]
+  },
+  {
+    "id": "fed-sba-7a",
+    "name": "SBA 7(a) Loans",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "SBA's primary loan program: the SBA guarantees loans made by local lenders (up to $5 million) for real estate, working capital, equipment, refinancing, and ownership changes. Apply directly through a participating lender; SBA does not lend directly.",
+    "scope": {
+      "level": "federal",
+      "state": "MA"
+    },
+    "eligibility": [
+      "For-profit small businesses meeting SBA size standards",
+      "Businesses with acceptable credit history operating in the U.S."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Connect with a participating SBA lender (use SBA Lender Match)"
+    ],
+    "whatToBring": [
+      "Business plan",
+      "Financial statements and tax returns",
+      "Collateral information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA 7(a) loans page",
+        "value": "https://www.sba.gov/loans/7a-loans/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA 7(a) loans page",
+        "url": "https://www.sba.gov/loans/7a-loans/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply — loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/loans/7a-loans/"
+    ]
   }
 ]
