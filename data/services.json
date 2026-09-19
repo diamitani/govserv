@@ -84636,5 +84636,1406 @@
     "sources": [
       "https://www.westbaycap.org/"
     ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP — DSS",
+        "url": "http://Dss.Sd.Gov/economicassistance/snap.aspx"
+      },
+      {
+        "label": "DSS online application portal",
+        "url": "https://eaportal.sd.gov/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DSS SNAP page",
+        "value": "http://Dss.Sd.Gov/economicassistance/snap.aspx"
+      },
+      {
+        "kind": "web",
+        "label": "DSS online application portal",
+        "value": "https://eaportal.sd.gov/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local DSS offices statewide",
+        "value": "Apply in person at a local DSS office — see SNAP page for office list"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Helps eligible low-income South Dakotans buy food. Apply online, by mail, or in person at a local DSS office; the DSS SNAP page lists eligibility rules and required verifications.",
+    "eligibility": [
+      "South Dakota residents with limited income — see DSS page for income limits and verifications"
+    ],
+    "id": "sd-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP)",
+    "prerequisites": [
+      "Apply online, by mail, or at a local DSS office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "http://Dss.Sd.Gov/economicassistance/snap.aspx",
+      "https://eaportal.sd.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification documents listed on the DSS SNAP page"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services — Office of Energy Assistance",
+    "applyLinks": [
+      {
+        "label": "LIEAP program page — DSS",
+        "url": "https://dss.sd.gov/economicassistance/energyassistance/lowincome.aspx"
+      },
+      {
+        "label": "LIEAP brochure (PDF)",
+        "url": "http://DSS.SD.GOV/formsandpubs/docs/ENERGY/lieapbro.pdf"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Energy Assistance",
+        "value": "800-233-8503"
+      },
+      {
+        "kind": "web",
+        "label": "LIEAP program page",
+        "value": "https://dss.sd.gov/economicassistance/energyassistance/lowincome.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Helps qualifying South Dakota households pay home heating costs. Apply by email, phone, online, or at a local DSS office; income and heating-cost documentation are required.",
+    "eligibility": [
+      "South Dakota households within published income guidelines — see program brochure",
+      "Heating-cost documentation required"
+    ],
+    "id": "sd-lieap",
+    "languages": [
+      "English"
+    ],
+    "name": "Low Income Energy Assistance Program (LIEAP)",
+    "prerequisites": [
+      "Apply by email, phone, online, or at a local DSS office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dss.sd.gov/economicassistance/energyassistance/lowincome.aspx",
+      "http://DSS.SD.GOV/formsandpubs/docs/ENERGY/lieapbro.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documents and heating-cost documents per the program brochure"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "South Dakota Medicaid — DSS",
+        "url": "https://dss.sd.gov/medicaid/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid/CHIP eligibility",
+        "value": "605-773-3165"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid/CHIP eligibility (toll-free)",
+        "value": "877-999-5612"
+      },
+      {
+        "kind": "email",
+        "label": "Medicaid eligibility email",
+        "value": "dss.medelig@state.sd.us"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Federal and state-funded health coverage for eligible South Dakotans, covering medically necessary services. Apply online or contact the Medicaid office for help.",
+    "eligibility": [
+      "South Dakota residents who meet income and categorical requirements — see DSS Medicaid page"
+    ],
+    "id": "sd-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "South Dakota Medicaid",
+    "prerequisites": [
+      "Apply online or contact the Medicaid eligibility office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dss.sd.gov/medicaid/",
+      "https://www.cms.gov/ccIIO/Resources/Consumer-Assistance-Grants/sd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification documents listed on the DSS Medicaid page"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "South Dakota Medicaid/CHIP — DSS",
+        "url": "https://dss.sd.gov/medicaid/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid/CHIP eligibility",
+        "value": "605-773-3165"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid/CHIP eligibility (toll-free)",
+        "value": "877-999-5612"
+      }
+    ],
+    "cost": "Free to apply; low-cost coverage",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Low-cost health coverage for children in South Dakota families that earn too much to qualify for Medicaid. Administered with the state Medicaid program; contact the Medicaid/CHIP office to apply.",
+    "eligibility": [
+      "South Dakota children in families over the Medicaid income limit but within CHIP limits — see DSS page"
+    ],
+    "id": "sd-chip",
+    "languages": [
+      "English"
+    ],
+    "name": "Children's Health Insurance Program (CHIP) — South Dakota",
+    "prerequisites": [
+      "Contact the Medicaid/CHIP eligibility office or apply through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dss.sd.gov/medicaid/",
+      "https://www.cms.gov/ccIIO/Resources/Consumer-Assistance-Grants/sd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification documents listed on the DSS Medicaid page"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Health",
+    "applyLinks": [
+      {
+        "label": "Apply for WIC — sd.gov/wic",
+        "url": "https://www.sd.gov/wic"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC (state office)",
+        "value": "605-773-3361"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC (toll-free)",
+        "value": "800-738-2301"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for WIC",
+        "value": "https://www.sd.gov/wic"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "No-cost nutrition education, breastfeeding support, referrals, and food benefits for eligible pregnant and postpartum women, infants, and children. New income guidelines took effect July 1, 2026; apply online at sd.gov/wic.",
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum women; infants and children under 5",
+      "Income within WIC guidelines effective July 1, 2026 — see program page"
+    ],
+    "id": "sd-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC — Women, Infants, and Children",
+    "prerequisites": [
+      "Apply online at sd.gov/wic"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://doh.sd.gov/sd-doh-press-releases/wic-program-announces-new-income-guidelines-starting-july-1-2026/",
+      "https://fema.gov/de/node/622169"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and residency documentation per the WIC application"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "TANF — DSS",
+        "url": "http://Dss.Sd.Gov/economicassistance/tanf.aspx"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS assistance line",
+        "value": "605-773-4678"
+      },
+      {
+        "kind": "web",
+        "label": "DSS TANF page",
+        "value": "http://Dss.Sd.Gov/economicassistance/tanf.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Temporary financial assistance and job support for low-income South Dakota families with children. Applications begin with an employment specialist at a local DSS office; work participation and eligibility rules apply.",
+    "eligibility": [
+      "Low-income families with dependent children — see DSS page for income, work, and eligibility rules"
+    ],
+    "id": "sd-tanf",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance for Needy Families (TANF)",
+    "prerequisites": [
+      "Begin the application with an employment specialist at a local DSS office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "http://Dss.Sd.Gov/economicassistance/tanf.aspx",
+      "https://fema.gov/de/node/622169"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification documents listed on the DSS TANF page"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Labor and Regulation",
+    "applyLinks": [
+      {
+        "label": "Reemployment Assistance — DLR",
+        "url": "https://dlr.sd.gov/ra/default.aspx"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Reemployment Assistance",
+        "value": "605-626-2452"
+      },
+      {
+        "kind": "web",
+        "label": "Reemployment Assistance — DLR",
+        "value": "https://dlr.sd.gov/ra/default.aspx"
+      }
+    ],
+    "cost": "Free to file",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Temporary financial help for South Dakotans who lost their jobs. File claims through the Department of Labor and Regulation; the official page lists the reemployment assistance contact line.",
+    "eligibility": [
+      "Workers who lost jobs and meet state eligibility rules — see DLR page"
+    ],
+    "id": "sd-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Reemployment Assistance (Unemployment Insurance)",
+    "prerequisites": [
+      "File a claim through the Department of Labor and Regulation"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dlr.sd.gov/ra/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Employment and wage information per the claim instructions"
+    ]
+  },
+  {
+    "agency": "South Dakota Housing Development Authority",
+    "applyLinks": [
+      {
+        "label": "First-Time Homebuyer Program — SD Housing",
+        "url": "http://www.sdhousing.org/ready-to-buy/first-time-homebuyer"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SD Housing",
+        "value": "605-773-3181"
+      },
+      {
+        "kind": "phone",
+        "label": "SD Housing (toll-free)",
+        "value": "1-800-540-4241"
+      },
+      {
+        "kind": "email",
+        "label": "SD Housing email",
+        "value": "info@sdhda.org"
+      }
+    ],
+    "cost": "Free to apply; loan terms vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Competitive-rate home loans for qualifying first-time buyers in South Dakota. Apply through a participating lender; the SD Housing page lists eligibility basics and required documents.",
+    "eligibility": [
+      "First-time homebuyers who meet income and purchase requirements — see SD Housing page"
+    ],
+    "id": "sd-housing-first-time-homebuyer",
+    "languages": [
+      "English"
+    ],
+    "name": "First-Time Homebuyer Program — SD Housing",
+    "prerequisites": [
+      "Apply through a participating lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "http://www.sdhousing.org/ready-to-buy/first-time-homebuyer"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents on the SD Housing checklist (income, identification, etc.)"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "SDDVA state benefits",
+        "url": "https://vetaffairs.sd.gov/benefits/State/intro to state benefits.aspx"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SDDVA Sioux Falls",
+        "value": "605-333-6869"
+      },
+      {
+        "kind": "phone",
+        "label": "SDDVA Pierre",
+        "value": "605-773-3269"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Free claims assistance and state benefits help for South Dakota veterans and their dependents, with offices in Sioux Falls and Pierre and county veterans service officers statewide.",
+    "eligibility": [
+      "Veterans, dependents, and survivors in South Dakota — see SDDVA page"
+    ],
+    "id": "sd-veterans-services",
+    "languages": [
+      "English"
+    ],
+    "name": "South Dakota Department of Veterans Affairs — Claims and State Benefits",
+    "prerequisites": [
+      "Contact SDDVA or a county veterans service officer"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://vetaffairs.sd.gov/benefits/State/intro to state benefits.aspx",
+      "https://fema.gov/de/node/622169"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military discharge papers (DD-214) and identification, if available"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Human Services (SHIINE program)",
+    "applyLinks": [
+      {
+        "label": "South Dakota consumer assistance (CMS)",
+        "url": "https://www.cms.gov/ccIIO/Resources/Consumer-Assistance-Grants/sd"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SHIINE",
+        "value": "888-854-5321"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Free, unbiased help for South Dakotans understanding Medicare options, coverage choices, and related insurance questions.",
+    "eligibility": [
+      "Medicare beneficiaries and caregivers in South Dakota"
+    ],
+    "id": "sd-shiine-medicare-help",
+    "languages": [
+      "English"
+    ],
+    "name": "SHIINE — Senior Health Information and Insurance Education",
+    "prerequisites": [
+      "Call the SHIINE helpline"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.cms.gov/ccIIO/Resources/Consumer-Assistance-Grants/sd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medicare card and current plan information, if available"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Social Services",
+    "applyLinks": [
+      {
+        "label": "Apply for Child Care Assistance — DSS",
+        "url": "https://dss.sd.gov/childcare/childcareassistance/apply.aspx"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child Care Services",
+        "value": "800-227-3020"
+      },
+      {
+        "kind": "email",
+        "label": "Child Care Services email",
+        "value": "CCS@state.sd.us"
+      }
+    ],
+    "cost": "Free to apply; sliding-fee copay may apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Sliding-fee child care assistance for eligible South Dakota families using approved providers. Apply online or by paper; the DSS page lists provider requirements and contact information.",
+    "eligibility": [
+      "South Dakota families with income within program limits and qualifying child care need — see DSS page"
+    ],
+    "id": "sd-child-care-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Child Care Assistance Program",
+    "prerequisites": [
+      "Apply online or by paper application through DSS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dss.sd.gov/childcare/childcareassistance/apply.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, employment/school, and child care provider information per the application"
+    ]
+  },
+  {
+    "agency": "South Dakota Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "South Dakota referral resources (FEMA)",
+        "url": "https://fema.gov/de/node/622169"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dakota at Home",
+        "value": "833-663-9673"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Free information and referrals for older South Dakotans and adults with disabilities on in-home services, long-term care options, and reporting elder abuse.",
+    "eligibility": [
+      "Older adults and adults with disabilities in South Dakota, and their caregivers"
+    ],
+    "id": "sd-dakota-at-home",
+    "languages": [
+      "English"
+    ],
+    "name": "Dakota at Home",
+    "prerequisites": [
+      "Call the Dakota at Home line for information and referrals"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://fema.gov/de/node/622169"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not applicable — call for information"
+    ]
+  },
+  {
+    "agency": "South Dakota Public Utilities Commission",
+    "applyLinks": [
+      {
+        "label": "Telecom Assistance — SD PUC",
+        "url": "https://puc.sd.gov/consumer/telecomassistance.aspx"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SD PUC consumer hotline",
+        "value": "800-332-1782"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Helps qualifying low-income South Dakota households get discounted phone or internet service through the federal Lifeline program. The PUC page explains who qualifies and how to apply.",
+    "eligibility": [
+      "Low-income households or participants in qualifying programs — see PUC page"
+    ],
+    "id": "sd-puc-telecom-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Telecom Assistance (Lifeline) — SD Public Utilities Commission",
+    "prerequisites": [
+      "Apply through the PUC or a participating provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://puc.sd.gov/consumer/telecomassistance.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income or program participation per the application"
+    ]
+  },
+  {
+    "agency": "Helpline Center",
+    "applyLinks": [
+      {
+        "label": "Helpline Center resource guide (PDF)",
+        "url": "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 Helpline",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "211 (toll-free)",
+        "value": "866-605-4723"
+      },
+      {
+        "kind": "web",
+        "label": "Helpline Center resource guides",
+        "value": "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24 hours a day"
+      }
+    ],
+    "description": "24-hour information and crisis helpline connecting South Dakotans to community resources: food, clothing, financial help, medical care, mental health, employment, and shelter. Dial 211, text your ZIP code to 898211, or call the toll-free line.",
+    "eligibility": [
+      "Anyone in South Dakota seeking community resources or crisis support"
+    ],
+    "id": "sd-211",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Helpline Center — South Dakota",
+    "prerequisites": [
+      "Call, text, or visit the Helpline Center resource guides"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://fema.gov/de/node/622169",
+      "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not applicable"
+    ]
+  },
+  {
+    "agency": "East River Legal Services (nonprofit legal aid)",
+    "applyLinks": [
+      {
+        "label": "Aberdeen clinic listing (City of Aberdeen)",
+        "url": "https://www.aberdeen.sd.us/Calendar.aspx?EID=9197"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "East River Legal Services (Aberdeen clinic line)",
+        "value": "605-336-9230"
+      }
+    ],
+    "cost": "Free for eligible clients",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Free civil legal help for eligible low-income residents of eastern South Dakota. A City of Aberdeen calendar listing confirmed an East River Legal Services estate-planning clinic on June 30, 2026 (past event) with pre-registration at 605-336-9230 and online intake noted on the page.",
+    "eligibility": [
+      "Income-eligible residents with civil legal issues — contact the office for screening"
+    ],
+    "id": "sd-legal-services-east-river",
+    "languages": [
+      "English"
+    ],
+    "name": "East River Legal Services",
+    "prerequisites": [
+      "Call for an eligibility screening or intake appointment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.aberdeen.sd.us/Calendar.aspx?EID=9197"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue and proof of income"
+    ]
+  },
+  {
+    "agency": "Feeding South Dakota (nonprofit food bank)",
+    "applyLinks": [
+      {
+        "label": "Feeding South Dakota — find food",
+        "url": "http://www.feedingsouthdakota.org/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Feeding South Dakota",
+        "value": "605-335-0364"
+      },
+      {
+        "kind": "web",
+        "label": "Feeding South Dakota — find food",
+        "value": "http://www.feedingsouthdakota.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "South Dakota's largest hunger-relief organization, serving all 66 counties. Distributed 11.6 million meals in fiscal year 2025 through mobile food distributions, the BackPack Program for children, and partner pantries.",
+    "eligibility": [
+      "Anyone in South Dakota facing food insecurity — find a distribution on the Feeding South Dakota site"
+    ],
+    "id": "sd-feeding-south-dakota",
+    "languages": [
+      "English"
+    ],
+    "name": "Feeding South Dakota",
+    "prerequisites": [
+      "Find a mobile distribution, pantry, or program on the Feeding South Dakota site"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "SD"
+    },
+    "sources": [
+      "http://www.feedingsouthdakota.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not applicable — check the site for distribution details"
+    ]
+  },
+  {
+    "agency": "City of Sioux Falls (Sioux Area Metro)",
+    "applyLinks": [
+      {
+        "label": "SAM rider guide (PDF) — City of Sioux Falls",
+        "url": "https://www.siouxfalls.gov/files/assets/public/v/1/resident-services/sam/2023-final_riders_guide.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sioux Area Metro",
+        "value": "605-460-6256"
+      },
+      {
+        "kind": "web",
+        "label": "SAM rider guide (PDF)",
+        "value": "https://www.siouxfalls.gov/files/assets/public/v/1/resident-services/sam/2023-final_riders_guide.pdf"
+      }
+    ],
+    "cost": "Fares apply — see rider guide",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Public transit across Sioux Falls: fixed-route buses, on-demand service, and ADA complementary paratransit. Paratransit fare is $2.50 per one-way ride for riders over 18; riders 18 and under ride paratransit free (per the SAM rider guide).",
+    "eligibility": [
+      "All riders for fixed-route and on-demand service",
+      "Paratransit for riders unable to use fixed-route buses — eligibility determination required"
+    ],
+    "id": "sioux-falls-sam",
+    "languages": [
+      "English"
+    ],
+    "name": "Sioux Area Metro (SAM) — Sioux Falls Public Transit",
+    "prerequisites": [
+      "Board a bus; paratransit requires an eligibility application"
+    ],
+    "scope": {
+      "city": "Sioux Falls",
+      "level": "city",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.siouxfalls.gov/files/assets/public/v/1/resident-services/sam/2023-final_riders_guide.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment; paratransit ID card for paratransit trips"
+    ]
+  },
+  {
+    "agency": "Minnehaha County",
+    "applyLinks": [
+      {
+        "label": "Applying for Assistance — Minnehaha County",
+        "url": "https://www.minnehahacounty.gov/dept/hs/appAssistance/appAssistance.php"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Minnehaha County Human Services",
+        "value": "605-367-4217"
+      },
+      {
+        "kind": "in-person",
+        "label": "County office",
+        "value": "521 N Main Ave, Suite 201, Sioux Falls, SD 57104"
+      }
+    ],
+    "cost": "Free to apply; assistance may require repayment",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Emergency financial assistance for rent, transportation, utilities, and medical bills for eligible Minnehaha County residents. Walk-ins seen first-come, first-served Monday through Friday from 7:30 a.m.; income guidelines are posted on the county page. County aid may require repayment — ask the office.",
+    "eligibility": [
+      "Minnehaha County residents within published income guidelines — see county page"
+    ],
+    "id": "minnehaha-county-human-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Minnehaha County Human Services — Emergency Assistance",
+    "prerequisites": [
+      "Walk in during office hours for an application; bring verification documents"
+    ],
+    "scope": {
+      "county": "Minnehaha",
+      "level": "county",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.minnehahacounty.gov/dept/hs/appAssistance/appAssistance.php"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID, Social Security cards for all household members, 2 months of pay stubs, lease and rent amounts, landlord info, and any eviction or disconnect notices"
+    ]
+  },
+  {
+    "agency": "City of Rapid City",
+    "applyLinks": [
+      {
+        "label": "RapidRide passenger handbook (PDF)",
+        "url": "https://www.rapidtransitsystem.org/assets/docs/uploads/rapid-ride-passenger-handbook2024.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rapid Transit System",
+        "value": "605-394-6631"
+      },
+      {
+        "kind": "in-person",
+        "label": "Milo Barber Transportation Center",
+        "value": "333 6th St, Rapid City, SD"
+      }
+    ],
+    "cost": "Fares apply — see handbook",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Public bus service in Rapid City: six RapidRide fixed routes Monday–Friday 6:20 a.m.–5:50 p.m. and Saturday 9:50 a.m.–4:40 p.m., plus Dial-A-Ride ADA paratransit. Adult cash fare is $1.50 one-way; $0.75 for disabled and elderly riders (per the 2024 passenger handbook).",
+    "eligibility": [
+      "All riders for fixed-route service",
+      "Dial-A-Ride for qualified ADA paratransit customers"
+    ],
+    "id": "rapid-city-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Rapid Transit System (RapidRide) — Rapid City",
+    "prerequisites": [
+      "Board a bus; Dial-A-Ride requires ADA eligibility"
+    ],
+    "scope": {
+      "city": "Rapid City",
+      "level": "city",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.rapidtransitsystem.org/assets/docs/uploads/rapid-ride-passenger-handbook2024.pdf",
+      "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment"
+    ]
+  },
+  {
+    "agency": "City of Aberdeen",
+    "applyLinks": [
+      {
+        "label": "Ride Line Transportation Services — City of Aberdeen",
+        "url": "https://www.aberdeen.sd.us/182/Ride-Line-Transportation-Services"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Aberdeen Ride Line",
+        "value": "605-626-3333"
+      },
+      {
+        "kind": "in-person",
+        "label": "Ride Line office",
+        "value": "205 N 4th St, Aberdeen, SD"
+      }
+    ],
+    "cost": "$3 per boarding; passes available",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule by 4 p.m. the prior business day"
+      }
+    ],
+    "description": "Curb-to-curb demand-response transit in Aberdeen, open to the general public including seniors, people with disabilities, and youth. Hours are Monday–Friday 7 a.m.–7 p.m. (last pickup 6:30 p.m.); cost is $3 per boarding, with 10-ride passes for $30 and 20-ride passes for $60. Schedule rides by 4 p.m. the prior business day. Also offers a Summit bus connection and Medicaid out-of-town medical appointment rides.",
+    "eligibility": [
+      "General public — everyone, including disabled, elderly, and youth riders"
+    ],
+    "id": "aberdeen-ride-line",
+    "languages": [
+      "English"
+    ],
+    "name": "Aberdeen Ride Line Transportation Services",
+    "prerequisites": [
+      "Call to register as a rider and schedule trips"
+    ],
+    "scope": {
+      "city": "Aberdeen",
+      "level": "city",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.aberdeen.sd.us/182/Ride-Line-Transportation-Services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Exact fare or bus pass"
+    ]
+  },
+  {
+    "agency": "Brookings Area Transit Authority",
+    "applyLinks": [
+      {
+        "label": "SDDOT On TRACK transit brochure (PDF)",
+        "url": "https://dot.sd.gov/media/3835a7fb/200-46350-0193SDOnTRACKGenericBro.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "BATA dispatch",
+        "value": "605-692-2222"
+      }
+    ],
+    "cost": "Fares apply — confirm with dispatch",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Nonprofit public transit serving the Brookings area, including demand-response rides and service from Brookings south along I-29 to Sioux Falls. Call dispatch to schedule a ride.",
+    "eligibility": [
+      "Open to the general public in the Brookings area"
+    ],
+    "id": "brookings-bata",
+    "languages": [
+      "English"
+    ],
+    "name": "Brookings Area Transit Authority (BATA)",
+    "prerequisites": [
+      "Call dispatch to schedule a ride"
+    ],
+    "scope": {
+      "city": "Brookings",
+      "level": "city",
+      "state": "SD"
+    },
+    "sources": [
+      "https://dot.sd.gov/media/3835a7fb/200-46350-0193SDOnTRACKGenericBro.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment — confirm amount with dispatch"
+    ]
+  },
+  {
+    "agency": "Community Transit of Watertown/Sisseton, Inc.",
+    "applyLinks": [
+      {
+        "label": "Community Transit of Watertown/Sisseton",
+        "url": "http://www.communitytransitws.com/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Transit",
+        "value": "605-882-5287"
+      },
+      {
+        "kind": "web",
+        "label": "Community Transit of Watertown/Sisseton",
+        "value": "http://www.communitytransitws.com/"
+      }
+    ],
+    "cost": "Fares apply — confirm when scheduling",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Nonprofit public transit serving Watertown and surrounding counties including Codington, Day, Grant, Marshall, Roberts, and Spink. Provided about 192,000 rides across its 15-county service area in fiscal year 2025, serving seniors, veterans, students, employees, and riders needing medical, shopping, and employment trips.",
+    "eligibility": [
+      "Open to the general public in the service area"
+    ],
+    "id": "watertown-community-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Community Transit of Watertown/Sisseton",
+    "prerequisites": [
+      "Call to schedule a ride"
+    ],
+    "scope": {
+      "city": "Watertown",
+      "level": "city",
+      "state": "SD"
+    },
+    "sources": [
+      "http://www.communitytransitws.com/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment — confirm amount when scheduling"
+    ]
+  },
+  {
+    "agency": "Pennington County",
+    "applyLinks": [
+      {
+        "label": "Rapid City Helping Hand resource guide (PDF)",
+        "url": "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pennington County Health and Human Services",
+        "value": "605-394-2156"
+      },
+      {
+        "kind": "in-person",
+        "label": "County office",
+        "value": "321 Kansas City St, Suite 100, Rapid City, SD"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Eligibility-based emergency assistance for Pennington County residents: partial rent/mortgage help, utilities, gas money for work or medical appointments, and preapproved medical care. Call for an appointment; office at 321 Kansas City St, Suite 100, Rapid City.",
+    "eligibility": [
+      "Pennington County residents who meet eligibility criteria — call for screening"
+    ],
+    "id": "pennington-county-hhs",
+    "languages": [
+      "English"
+    ],
+    "name": "Pennington County Health and Human Services — Emergency Assistance",
+    "prerequisites": [
+      "Call for an appointment; documentation requirements explained on the call"
+    ],
+    "scope": {
+      "county": "Pennington",
+      "level": "county",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.helplinecenter.org/wp-content/uploads/2026/06/HLCRD-Rapid-City-Helping-Hand-2026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification and income/expense documentation per office instructions"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "VA.gov",
+        "url": "https://www.va.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA benefits hotline (unverified)",
+        "value": "1-800-827-1000"
+      },
+      {
+        "kind": "web",
+        "label": "VA.gov",
+        "value": "https://www.va.gov/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Apply for VA health care, file disability compensation claims, and manage GI Bill education benefits, VA-backed home loans, life insurance, and burial benefits at va.gov.",
+    "eligibility": [
+      "Veterans, service members, and eligible family members — see VA eligibility pages"
+    ],
+    "id": "fed-va",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Health Care and Benefits",
+    "prerequisites": [
+      "Create a VA.gov account to apply and manage benefits"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.va.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military discharge papers (DD-214) and identification, if available"
+    ]
+  },
+  {
+    "agency": "Internal Revenue Service",
+    "applyLinks": [
+      {
+        "label": "Internal Revenue Service",
+        "url": "https://www.irs.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IRS help line",
+        "value": "800-829-1040"
+      },
+      {
+        "kind": "web",
+        "label": "Internal Revenue Service",
+        "value": "https://www.irs.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "File and pay federal taxes, check refund status, and get help with tax debt. The IRS offers free filing options for eligible taxpayers and in-person help by appointment at local Taxpayer Assistance Centers, including service for South Dakota.",
+    "eligibility": [
+      "Anyone with federal tax filing, payment, or debt questions"
+    ],
+    "id": "fed-irs",
+    "languages": [
+      "English"
+    ],
+    "name": "IRS — File, Pay, and Tax Help",
+    "prerequisites": [
+      "Gather your Social Security number or ITIN, filing status, and tax documents before calling"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.irs.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Tax return in question, prior-year return, and any IRS correspondence"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Labor",
+    "applyLinks": [
+      {
+        "label": "U.S. Department of Labor",
+        "url": "https://www.dol.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "U.S. Department of Labor",
+        "value": "https://www.dol.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies — see program page"
+      }
+    ],
+    "description": "Federal worker protections: wages and overtime, workplace safety, unemployment insurance guidance, apprenticeship programs, and disaster recovery assistance for workers.",
+    "eligibility": [
+      "Workers and employers — program rules vary; see dol.gov"
+    ],
+    "id": "fed-dol",
+    "languages": [
+      "English"
+    ],
+    "name": "U.S. Department of Labor — Worker Rights and Benefits",
+    "prerequisites": [
+      "File complaints or explore programs at dol.gov"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "SD"
+    },
+    "sources": [
+      "https://www.dol.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Employment records related to your question or complaint"
+    ]
   }
 ]
