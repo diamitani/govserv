@@ -45125,5 +45125,2223 @@
     "sources": [
       "https://INFODEPOT.ORG/Using-the-Library/Library-Cards"
     ]
+  },
+  {
+    "id": "al-liheap",
+    "name": "Alabama Low Income Home Energy Assistance Program (LIHEAP)",
+    "agency": "Alabama Department of Economic and Community Affairs (ADECA)",
+    "category": "Utilities",
+    "description": "Helps low-income households pay heating and cooling bills. ADECA funds local community action agencies that take the applications — ADECA itself does not accept applications directly, so residents apply through their county's agency.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama household",
+      "Household income at or below 150% of the federal poverty level",
+      "Apply through the community action agency serving your county"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications are taken seasonally through local agencies; contact your county community action agency for current dates"
+      }
+    ],
+    "prerequisites": [
+      "Contact the community action agency for your county to start an application"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by agency; call ahead",
+      "Typically: photo ID, proof of income, current utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIHEAP help line",
+        "value": "1-800-392-8098"
+      },
+      {
+        "kind": "phone",
+        "label": "Huntsville / Madison County agency",
+        "value": "256-907-1550"
+      },
+      {
+        "kind": "phone",
+        "label": "Jefferson County agency",
+        "value": "855-287-1730"
+      },
+      {
+        "kind": "phone",
+        "label": "Tuscaloosa County agency",
+        "value": "833-836-7817"
+      },
+      {
+        "kind": "web",
+        "label": "ADECA LIHEAP page",
+        "value": "https://adeca.alabama.gov/liheap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ADECA LIHEAP — find your county agency",
+        "url": "https://adeca.alabama.gov/liheap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://adeca.alabama.gov/liheap/"
+    ]
+  },
+  {
+    "id": "al-allkids",
+    "name": "ALL Kids — Alabama Children's Health Insurance Program",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Healthcare",
+    "description": "Low-cost health coverage for Alabama children. A single joint application covers both ALL Kids and children's Medicaid — apply online or by mail/fax.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Child resident of Alabama",
+      "Varies — see program page for income and age rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "Complete the joint ALL Kids / child Medicaid application online or by mail/fax"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see application instructions",
+      "Typically: proof of identity, residency, and household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ALL Kids",
+        "value": "1-888-373-5437"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid",
+        "value": "1-800-362-1504"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply",
+        "value": "https://www.alabamapublichealth.gov/allkids/how-to-apply.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ALL Kids — how to apply",
+        "url": "https://www.alabamapublichealth.gov/allkids/how-to-apply.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; low-cost coverage for enrolled children",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/allkids/how-to-apply.html"
+    ]
+  },
+  {
+    "id": "al-medicaid",
+    "name": "Alabama Medicaid",
+    "agency": "Alabama Medicaid Agency",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income adults, children, pregnant women, and people with disabilities. Children can use the joint ALL Kids / Medicaid application.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Varies by eligibility group — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or through the joint ALL Kids / child Medicaid application for children"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see application instructions",
+      "Typically: proof of identity, residency, income, and household size"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Alabama Medicaid",
+        "value": "1-800-362-1504"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama Medicaid Agency",
+        "value": "https://medicaid.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama Medicaid — apply for coverage",
+        "url": "https://medicaid.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://medicaid.alabama.gov/",
+      "https://www.alabamapublichealth.gov/allkids/how-to-apply.html"
+    ]
+  },
+  {
+    "id": "al-wic",
+    "name": "Alabama WIC Program",
+    "agency": "Alabama Department of Public Health (ADPH), Bureau of Family Health Services",
+    "category": "Food",
+    "description": "Supplemental nutrition assistance, health assessments, and breastfeeding support for pregnant and postpartum women, infants, and children under 5. Services are delivered through county health department WIC clinics statewide.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Pregnant, postpartum, or breastfeeding woman; infant; or child under age 5",
+      "Meet income guidelines and be screened for nutritional risk at the WIC clinic"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call your county health department to schedule a WIC appointment"
+      }
+    ],
+    "prerequisites": [
+      "Schedule an appointment at your county health department WIC clinic"
+    ],
+    "whatToBring": [
+      "The person applying for WIC",
+      "Proof of identification for parent/caretaker and applicant",
+      "Proof of residence (e.g., lease or bill with street address)",
+      "Proof of enrollment in Medicaid, SNAP, or Family Assistance, or proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State WIC office (toll-free)",
+        "value": "888-942-4673"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama WIC Program",
+        "value": "https://www.alabamapublichealth.gov/wic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama WIC — program info and clinic directory",
+        "url": "https://www.alabamapublichealth.gov/wic/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/wic/"
+    ]
+  },
+  {
+    "id": "al-snap",
+    "name": "Food Assistance Program (SNAP) — Alabama",
+    "agency": "Alabama Department of Human Resources (DHR)",
+    "category": "Food",
+    "description": "Monthly food benefits for low-income households. Apply online, by mail, or in person at your county DHR office using the combined application form.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama household",
+      "Varies — see program page for income and household rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round at county DHR offices"
+      }
+    ],
+    "prerequisites": [
+      "Complete the DHR combined application (Form 2116/1942); file at your county DHR office or online"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID, proof of residency, proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHR Food Assistance",
+        "value": "1-833-822-2202"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama DHR",
+        "value": "https://dhr.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DHR combined application form (PDF)",
+        "url": "http://dhr.alabama.gov/wp-content/uploads/2025/10/Form-2116-1942-Combined-Rev-10-2025-PDF-English.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://dhr.alabama.gov/wp-content/uploads/2025/10/Form-2116-1942-Combined-Rev-10-2025-PDF-English.pdf"
+    ]
+  },
+  {
+    "id": "al-tanf",
+    "name": "Family Assistance (TANF) — Alabama",
+    "agency": "Alabama Department of Human Resources (DHR)",
+    "category": "Family & Childcare",
+    "description": "Temporary cash assistance for low-income families with children, plus work and training supports. Applications are taken at county DHR offices and include an eligibility interview.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama family with dependent children",
+      "Varies — see program page for income and program rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply at your county DHR office; an interview is required"
+      }
+    ],
+    "prerequisites": [
+      "Apply at your county DHR office and complete the eligibility interview"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID, proof of residency, proof of income, children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Alabama DHR — Family Assistance",
+        "value": "https://dhr.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama DHR — Family Assistance (apply at county DHR office)",
+        "url": "https://dhr.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhr.alabama.gov/"
+    ]
+  },
+  {
+    "id": "al-unemployment",
+    "name": "Alabama Unemployment Compensation",
+    "agency": "Alabama Department of Labor",
+    "category": "Employment",
+    "description": "Weekly benefit payments for workers who lost jobs through no fault of their own. File new claims, weekly certifications, and manage your account through the online claimant portal.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Worked in Alabama and lost work through no fault of your own",
+      "Varies — see program page for wage and work-search requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a new claim as soon as you become unemployed; file weekly certifications on schedule"
+      }
+    ],
+    "prerequisites": [
+      "Create an account in the UC claimant portal to file a new claim"
+    ],
+    "whatToBring": [
+      "Typically: Social Security number, employer names and dates, wage records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Initial claims",
+        "value": "1-866-234-5382"
+      },
+      {
+        "kind": "phone",
+        "label": "Claim questions",
+        "value": "800-361-4524"
+      },
+      {
+        "kind": "web",
+        "label": "UC claimant portal",
+        "value": "https://uiclaimantportal.labor.alabama.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "UC claimant portal — file a claim or weekly certification",
+        "url": "https://uiclaimantportal.labor.alabama.gov"
+      },
+      {
+        "label": "Unemployment compensation information",
+        "url": "https://labor.alabama.gov/contacts/uc_qa_information.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://labor.alabama.gov/contacts/uc_qa_information.aspx",
+      "https://uiclaimantportal.labor.alabama.gov"
+    ]
+  },
+  {
+    "id": "al-alabamaworks",
+    "name": "AlabamaWorks — Career Centers",
+    "agency": "AlabamaWorks (state workforce system)",
+    "category": "Employment",
+    "description": "Statewide network of Alabama Career Centers offering job-search help, resume assistance, skills training referrals, and connections to employers.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Career center services available year-round"
+      }
+    ],
+    "prerequisites": [
+      "Find your nearest Alabama Career Center on the AlabamaWorks site"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID, resume, work history"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "AlabamaWorks",
+        "value": "https://alabamaworks.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "AlabamaWorks — find a career center and job services",
+        "url": "https://alabamaworks.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://alabamaworks.com"
+    ]
+  },
+  {
+    "id": "al-vocational-rehab",
+    "name": "Alabama Vocational Rehabilitation Service",
+    "agency": "Alabama Department of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Employment services for Alabamians with disabilities: counseling, job placement, assistive technology, assessments, education and training support, and school-to-work transition services.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Physical or mental impairment that substantially impedes employment",
+      "Able to benefit from services toward a work goal"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; eligibility is determined after assessment"
+      }
+    ],
+    "prerequisites": [
+      "Contact a local VR office to begin the application and assessment process"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID, medical documentation of disability, work history"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vocational Rehabilitation",
+        "value": "334-293-7500"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-441-7607"
+      },
+      {
+        "kind": "web",
+        "label": "VR services page",
+        "value": "https://rehab.alabama.gov/services/vr/vr"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation services — apply",
+        "url": "https://rehab.alabama.gov/services/vr/vr"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rehab.alabama.gov/services/vr/vr"
+    ]
+  },
+  {
+    "id": "al-senior-services",
+    "name": "Alabama Aging & Disability Resource Centers (ADRC)",
+    "agency": "Alabama Department of Senior Services",
+    "category": "Seniors",
+    "description": "Statewide ADRC network that connects older adults and people with disabilities to meals, transportation, in-home assistance, Medicare counseling, and caregiver support through regional agencies.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Older adult or person with a disability in Alabama",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your regional ADRC any time for help and referrals"
+      }
+    ],
+    "prerequisites": [
+      "Call the statewide helpline or your regional ADRC for screening and referrals"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Statewide senior helpline",
+        "value": "1-800-243-5463"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama AgeLine — help and services",
+        "value": "https://alabamaageline.gov/helpservices/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama AgeLine — find help and services",
+        "url": "https://alabamaageline.gov/helpservices/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://alabamaageline.gov/helpservices/"
+    ]
+  },
+  {
+    "id": "al-veterans-affairs",
+    "name": "Alabama Department of Veterans Affairs",
+    "agency": "Alabama Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "State veterans agency that helps veterans and families with VA benefits claims, health-care enrollment, education benefits, and burial benefits through county veterans service offices.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Veteran, service member, or eligible family member",
+      "Varies by benefit — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Benefits assistance available year-round"
+      }
+    ],
+    "prerequisites": [
+      "Contact the department or a county veterans service office for claims help"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: DD-214 or service records, photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Alabama Dept. of Veterans Affairs",
+        "value": "334-242-5077"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama VA",
+        "value": "https://va.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama Department of Veterans Affairs",
+        "url": "https://va.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://va.alabama.gov/"
+    ]
+  },
+  {
+    "id": "al-legal-aid",
+    "name": "Legal Services Alabama",
+    "agency": "Legal Services Alabama",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for income-eligible Alabamians — housing, family law, consumer, public benefits, and more. Some programs, including elder-law help for clients 60+, are not subject to income screening.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Alabama resident with a civil legal issue",
+      "Income screening applies to most programs; some grants (e.g., elder law for 60+) have no income cap"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online or by phone any time"
+      }
+    ],
+    "prerequisites": [
+      "Complete the online intake or call the intake line; offices in Birmingham, Huntsville, Montgomery, Mobile, and Tuscaloosa"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — see intake instructions"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intake (English)",
+        "value": "866-456-4995"
+      },
+      {
+        "kind": "phone",
+        "label": "Intake (Spanish)",
+        "value": "888-835-3505"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for services",
+        "value": "https://legalservicesalabama.org/apply-for-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Services Alabama — apply for services",
+        "url": "https://legalservicesalabama.org/apply-for-services/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://legalservicesalabama.org/apply-for-services/"
+    ]
+  },
+  {
+    "id": "al-my-alabama-taxes",
+    "name": "My Alabama Taxes (MAT)",
+    "agency": "Alabama Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "The state's official online portal to file Alabama individual income tax returns, make payments, check refunds, and manage business tax accounts.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Anyone with an Alabama tax filing or payment requirement"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File and pay by the state tax deadlines published on the portal"
+      }
+    ],
+    "prerequisites": [
+      "Create a My Alabama Taxes online account"
+    ],
+    "whatToBring": [
+      "Tax documents: W-2s, 1099s, prior-year return, bank account info for direct deposit/debit"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "My Alabama Taxes portal",
+        "value": "https://www.myalabamataxes.alabama.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "My Alabama Taxes — file and pay online",
+        "url": "https://www.myalabamataxes.alabama.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.myalabamataxes.alabama.gov"
+    ]
+  },
+  {
+    "id": "al-sos-business",
+    "name": "Alabama Secretary of State — Business Services",
+    "agency": "Alabama Secretary of State",
+    "category": "Small Business",
+    "description": "Register business entities (LLCs, corporations), file required reports, and search Alabama business records online.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Anyone forming or operating a business entity in Alabama"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Filings accepted year-round; annual report deadlines vary by entity"
+      }
+    ],
+    "prerequisites": [
+      "Create an online account to file business documents"
+    ],
+    "whatToBring": [
+      "Entity name, registered agent information, and filing fee payment method"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "AL Secretary of State — Business Entities",
+        "value": "https://www.sos.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "AL Secretary of State — business entity filings",
+        "url": "https://www.sos.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by filing; see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sos.alabama.gov/"
+    ]
+  },
+  {
+    "id": "al-ahfa",
+    "name": "Alabama Housing Finance Authority — Step Up Homebuyer Program",
+    "agency": "Alabama Housing Finance Authority (AHFA)",
+    "category": "Housing",
+    "description": "State program offering down-payment assistance and competitive mortgage options for homebuyers purchasing in Alabama; income and purchase-price limits apply. Apply through a participating lender.",
+    "scope": {
+      "level": "state",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Homebuyer purchasing a primary residence in Alabama",
+      "Meet income and purchase-price limits — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender; funds subject to availability"
+      }
+    ],
+    "prerequisites": [
+      "Work with an AHFA participating lender; complete homebuyer education if required"
+    ],
+    "whatToBring": [
+      "Standard mortgage documents — see participating lender",
+      "Typically: photo ID, income documentation, bank statements"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Alabama Housing Finance Authority",
+        "value": "https://www.ahfa.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "AHFA — homebuyer programs",
+        "url": "https://www.ahfa.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; program fees and mortgage terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ahfa.com"
+    ]
+  },
+  {
+    "id": "birmingham-311",
+    "name": "Birmingham 311 — Customer Service Center",
+    "agency": "City of Birmingham",
+    "category": "Transportation",
+    "description": "The city's 311 service for reporting potholes, storm drains, traffic signals, illegal dumping, missed trash pickup, and other non-emergency city service requests. Submit as an account holder or guest.",
+    "scope": {
+      "level": "city",
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Anyone reporting a city service issue in Birmingham"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Requests accepted any time through the 311 portal"
+      }
+    ],
+    "prerequisites": [
+      "Submit online as a guest or create an account for tracking"
+    ],
+    "whatToBring": [
+      "Location of the issue and a description; photos help if submitting online"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311 (in Birmingham)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "311 from outside the city",
+        "value": "205-254-2489"
+      },
+      {
+        "kind": "web",
+        "label": "Birmingham 311 page",
+        "value": "http://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birmingham 311 — customer service center",
+        "url": "http://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+    ]
+  },
+  {
+    "id": "birmingham-max-transit",
+    "name": "MAX Transit — Birmingham-Jefferson County Transit",
+    "agency": "Birmingham-Jefferson County Transit Authority (BJCTA)",
+    "category": "Transportation",
+    "description": "Fixed-route bus service across Birmingham and Jefferson County, with route maps, trip planning, fares, and a mobile app for tickets.",
+    "scope": {
+      "level": "city",
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public; reduced fares for qualifying riders — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs daily; check schedules for route hours"
+      }
+    ],
+    "prerequisites": [
+      "No account needed to ride; mobile app available for tickets"
+    ],
+    "whatToBring": [
+      "Fare payment; qualifying ID for reduced fares"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MAX Transit",
+        "value": "https://maxtransit.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MAX Transit — routes, fares, and trip planning",
+        "url": "https://maxtransit.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — vary; see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://maxtransit.org/"
+    ]
+  },
+  {
+    "id": "birmingham-public-library",
+    "name": "Birmingham Public Library",
+    "agency": "Birmingham Public Library Board",
+    "category": "Education",
+    "description": "Free public library system with a central library and 18 branches across Birmingham: books, public computers and Wi-Fi, research databases, and community programs.",
+    "scope": {
+      "level": "city",
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public; library card required for borrowing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a card any time at any branch"
+      }
+    ],
+    "prerequisites": [
+      "Register for a free library card in person or online"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a full library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central Library (unverified)",
+        "value": "205-226-3600"
+      },
+      {
+        "kind": "web",
+        "label": "Birmingham Public Library",
+        "value": "https://www.cobpl.org"
+      },
+      {
+        "kind": "in-person",
+        "label": "Central Library",
+        "value": "2100 Park Place, Birmingham, AL 35203"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birmingham Public Library",
+        "url": "https://www.cobpl.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cobpl.org"
+    ]
+  },
+  {
+    "id": "birmingham-habd",
+    "name": "Housing Authority of the Birmingham District (HABD)",
+    "agency": "Housing Authority of the Birmingham District",
+    "category": "Housing",
+    "description": "Public housing communities and the Housing Choice Voucher program for low-income Birmingham residents; applications and waitlist information are posted online.",
+    "scope": {
+      "level": "city",
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Low-income household in the Birmingham area",
+      "Varies — see program page for income limits and waitlist status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlists open and close periodically — check the HABD site for current status"
+      }
+    ],
+    "prerequisites": [
+      "Apply online when the relevant waitlist is open"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see application instructions",
+      "Typically: photo ID, proof of income, household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Housing Authority of the Birmingham District",
+        "value": "https://www.habd.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HABD — public housing and voucher applications",
+        "url": "https://www.habd.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.habd.org"
+    ]
+  },
+  {
+    "id": "jefferson-doh-clinics",
+    "name": "Jefferson County Department of Health — Clinics",
+    "agency": "Jefferson County Department of Health (JCDH)",
+    "category": "Healthcare",
+    "description": "County health clinics offering family planning, pediatric care, adult immunizations, sexual-health/STI testing and treatment, and PrEP services for Jefferson County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Jefferson",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Jefferson County resident",
+      "Varies by clinic — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and clinic hours"
+      }
+    ],
+    "prerequisites": [
+      "Call the clinic for an appointment; some services accept walk-ins"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by clinic; call ahead",
+      "Typically: photo ID, proof of residency, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "JCDH clinics",
+        "value": "205-588-5234"
+      },
+      {
+        "kind": "web",
+        "label": "JCDH clinics page",
+        "value": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JCDH — clinics and services",
+        "url": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost — confirm with the clinic",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+    ]
+  },
+  {
+    "id": "jefferson-doh-wic",
+    "name": "Jefferson County WIC Program",
+    "agency": "Jefferson County Department of Health (JCDH)",
+    "category": "Food",
+    "description": "WIC nutrition benefits, health assessments, and nutrition education for pregnant and postpartum women, infants, and children under 5 in Jefferson County. Spanish interpreters are available.",
+    "scope": {
+      "level": "county",
+      "county": "Jefferson",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding woman; infant; or child under age 5",
+      "Jefferson County resident; meet income guidelines and nutritional-risk screening"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule a WIC appointment"
+      }
+    ],
+    "prerequisites": [
+      "Schedule a WIC appointment at a JCDH clinic"
+    ],
+    "whatToBring": [
+      "The person applying for WIC",
+      "Proof of identification, proof of residence, and proof of income or Medicaid/SNAP enrollment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "JCDH WIC",
+        "value": "205-558-2144"
+      },
+      {
+        "kind": "web",
+        "label": "JCDH clinics page",
+        "value": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JCDH — WIC services",
+        "url": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+    ]
+  },
+  {
+    "id": "jefferson-doh-dental",
+    "name": "Jefferson County Department of Health — Dental Clinic",
+    "agency": "Jefferson County Department of Health (JCDH)",
+    "category": "Healthcare",
+    "description": "County dental clinic currently accepting new patients under age 21. Jefferson County residency and proof documentation are required.",
+    "scope": {
+      "level": "county",
+      "county": "Jefferson",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Under age 21",
+      "Jefferson County resident with required proof documentation"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Currently accepting new patients under 21 — call for availability"
+      }
+    ],
+    "prerequisites": [
+      "Call the clinic to verify eligibility and schedule"
+    ],
+    "whatToBring": [
+      "Proof of Jefferson County residency and other required documentation — call the clinic for the list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "JCDH clinics",
+        "value": "205-588-5234"
+      },
+      {
+        "kind": "web",
+        "label": "JCDH clinics page",
+        "value": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JCDH — dental clinic",
+        "url": "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Cost varies — call the clinic",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jcdh.org/SitePages/Programs-Services/Clinics/Clinics.aspx"
+    ]
+  },
+  {
+    "id": "huntsville-orbit",
+    "name": "Orbit — Huntsville Public Transit",
+    "agency": "City of Huntsville",
+    "category": "Transportation",
+    "description": "Huntsville's fixed-route bus system, running Monday–Friday 6 a.m.–9 p.m. and Saturday 8 a.m.–5 p.m. Tickets are sold at the Huntsville Transit Center and through the Token Transit mobile app.",
+    "scope": {
+      "level": "city",
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Reduced $0.50 fare for seniors 65+, riders with disabilities, Medicare/Medicaid cardholders, and students with valid ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs on published schedules; transfers are free"
+      }
+    ],
+    "prerequisites": [
+      "None — pay fare when boarding or buy tickets in advance"
+    ],
+    "whatToBring": [
+      "Fare payment; qualifying ID for reduced fares"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Orbit — fares, hours, and tickets",
+        "value": "https://www.huntsvilleal.gov/development/streets/public-transportation/orbit/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Huntsville Transit Center",
+        "value": "521 Pratt Avenue, Huntsville, AL"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Orbit — Huntsville public transit",
+        "url": "https://www.huntsvilleal.gov/development/streets/public-transportation/orbit/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — $1 one-way; $0.50 reduced fare; $18 book of 20; $30 monthly pass",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.huntsvilleal.gov/development/streets/public-transportation/orbit/"
+    ]
+  },
+  {
+    "id": "huntsville-access-paratransit",
+    "name": "Access Huntsville — ADA Paratransit",
+    "agency": "City of Huntsville",
+    "category": "Disability",
+    "description": "Shared-ride, curb-to-curb paratransit for people with disabilities in the ADA service area, plus seniors over 65 who live in the city paratransit area and not near an Orbit route. Tickets are $2.00 per trip.",
+    "scope": {
+      "level": "city",
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Person with a disability in the Huntsville ADA paratransit service area",
+      "Senior 65+ in the city paratransit area not near an Orbit bus route"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule rides in advance; cancel at least 2 hours ahead to avoid a no-show"
+      }
+    ],
+    "prerequisites": [
+      "Call to schedule a ride; tickets ($2.00 each) available at the Huntsville Transit Center"
+    ],
+    "whatToBring": [
+      "Exact fare or ticket when boarding; qualifying ID if requested"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Access Huntsville",
+        "value": "256-427-6857"
+      },
+      {
+        "kind": "phone",
+        "label": "Ticket information",
+        "value": "256-427-6811"
+      },
+      {
+        "kind": "web",
+        "label": "Access paratransit brochure (PDF)",
+        "value": "https://www.huntsvilleal.gov/wp-content/uploads/2024/11/CityofHSV_PublicTransit_Rebrand_Access_Pamphlet_R5-v1-digital.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access Huntsville — paratransit brochure and contact",
+        "url": "https://www.huntsvilleal.gov/wp-content/uploads/2024/11/CityofHSV_PublicTransit_Rebrand_Access_Pamphlet_R5-v1-digital.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$2.00 per trip",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.huntsvilleal.gov/wp-content/uploads/2024/11/CityofHSV_PublicTransit_Rebrand_Access_Pamphlet_R5-v1-digital.pdf"
+    ]
+  },
+  {
+    "id": "madison-health-dept",
+    "name": "Madison County Health Department",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Healthcare",
+    "description": "County health department in Huntsville offering WIC, environmental services, home care, and clinical services: STD testing and treatment, family planning, childhood and adult vaccines, and breast and cervical cancer screening. Certified copies of birth, death, marriage, and divorce records are available.",
+    "scope": {
+      "level": "county",
+      "county": "Madison",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public; no one is denied services for inability to pay",
+      "Payment for services varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open Monday–Friday, 8:00 a.m.–5:00 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Call for appointments and service availability"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead",
+      "Typically: photo ID, proof of residency, insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Madison County Health Department",
+        "value": "256-539-3711"
+      },
+      {
+        "kind": "web",
+        "label": "Madison County Health Department",
+        "value": "https://www.alabamapublichealth.gov/madison"
+      },
+      {
+        "kind": "in-person",
+        "label": "Madison County Health Department",
+        "value": "301 Max Luther Drive NW, Huntsville, AL 35811"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Madison County Health Department — services",
+        "url": "https://www.alabamapublichealth.gov/madison"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Varies by service; no one denied for inability to pay",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/madison"
+    ]
+  },
+  {
+    "id": "montgomery-health-dept",
+    "name": "Montgomery County Health Department",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Healthcare",
+    "description": "County health department offering WIC, environmental, home-care, and clinical services: STD testing and treatment, family planning, childhood and other vaccines, Well Woman services, and breast and cervical cancer screening. Certified copies of vital records are available.",
+    "scope": {
+      "level": "county",
+      "county": "Montgomery",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Varies by service — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open Monday–Friday, 7:30 a.m.–5:00 p.m.; phone connectivity issues have been reported — call back if a call drops"
+      }
+    ],
+    "prerequisites": [
+      "Call for appointments and service availability"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Montgomery County Health Department",
+        "value": "334-293-6400"
+      },
+      {
+        "kind": "web",
+        "label": "Montgomery County Health Department",
+        "value": "https://www.alabamapublichealth.gov/montgomery/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Montgomery County Health Department",
+        "value": "3060 Mobile Highway, Montgomery, AL 36108"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Montgomery County Health Department — services",
+        "url": "https://www.alabamapublichealth.gov/montgomery/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/montgomery/"
+    ]
+  },
+  {
+    "id": "montgomery-wic",
+    "name": "Montgomery County WIC Clinic",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Food",
+    "description": "WIC clinic providing health assessments, supplemental food, and nutrition education to pregnant, postpartum, and breastfeeding women, infants, and children up to age 5 in Montgomery County.",
+    "scope": {
+      "level": "county",
+      "county": "Montgomery",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding woman; infant; or child under age 5",
+      "Alabama resident; meet income guidelines and nutritional-risk screening"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the clinic to schedule a WIC appointment; hours 7:30 a.m.–5:00 p.m., Monday–Friday"
+      }
+    ],
+    "prerequisites": [
+      "Schedule a WIC appointment at the county clinic"
+    ],
+    "whatToBring": [
+      "The person applying for WIC",
+      "Proof of identification, proof of residence, and proof of income or Medicaid/SNAP/Family Assistance enrollment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Montgomery County WIC",
+        "value": "334-293-6450"
+      },
+      {
+        "kind": "web",
+        "label": "Alabama WIC clinic directory",
+        "value": "https://www.alabamapublichealth.gov/wic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Alabama WIC — clinic directory",
+        "url": "https://www.alabamapublichealth.gov/wic/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/wic/",
+      "https://www.alabamapublichealth.gov/montgomery/"
+    ]
+  },
+  {
+    "id": "mobile-wave-transit",
+    "name": "Wave Transit — Mobile Fixed-Route Bus",
+    "agency": "City of Mobile / Wave Transit System",
+    "category": "Transportation",
+    "description": "Fixed-route bus service across the City of Mobile with 1-day, 7-day, and 31-day passes; half fares for seniors, riders with disabilities, Medicare cardholders, and students with a Wave photo ID.",
+    "scope": {
+      "level": "city",
+      "city": "Mobile",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Half fare with Wave photo ID for seniors, riders with disabilities, Medicare cardholders, and students"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs on published route schedules; no Sunday service on listed holidays"
+      }
+    ],
+    "prerequisites": [
+      "Get a Wave photo ID ($4.00) at a Wave office for half-fare services"
+    ],
+    "whatToBring": [
+      "Exact fare or pass; Wave photo ID for half fares"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wave customer service (unverified)",
+        "value": "251-344-6600"
+      },
+      {
+        "kind": "web",
+        "label": "Wave Transit",
+        "value": "https://www.thewavetransit.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wave Transit — routes and fares",
+        "url": "https://www.thewavetransit.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — vary by service and pass; see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.thewavetransit.com",
+      "http://thewavetransit.com/DocumentCenter/View/73/Wave-Route-12-PDF"
+    ]
+  },
+  {
+    "id": "mobile-wave-map",
+    "name": "Wave Mobility Assistance Program (MAP) — Paratransit",
+    "agency": "City of Mobile / Wave Transit System",
+    "category": "Disability",
+    "description": "ADA paratransit for riders certified as disabled through the Americans with Disabilities Act, providing specialized transportation within the Wave service area. One-way fare is $2.50.",
+    "scope": {
+      "level": "city",
+      "city": "Mobile",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Certified as disabled through the ADA",
+      "Trip origin and destination within the Wave paratransit service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule rides in advance per MAP policies"
+      }
+    ],
+    "prerequisites": [
+      "Complete ADA certification for paratransit eligibility"
+    ],
+    "whatToBring": [
+      "$2.50 fare per one-way trip; ADA certification documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MAP paratransit",
+        "value": "251-344-5656"
+      },
+      {
+        "kind": "web",
+        "label": "Wave Transit",
+        "value": "https://www.thewavetransit.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wave Transit — paratransit (MAP)",
+        "url": "https://www.thewavetransit.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$2.50 one-way",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.thewavetransit.com",
+      "http://thewavetransit.com/DocumentCenter/View/73/Wave-Route-12-PDF"
+    ]
+  },
+  {
+    "id": "mobile-health-dept",
+    "name": "Mobile County Health Department",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Healthcare",
+    "description": "County health department providing WIC, clinical services (including family planning, immunizations, and STD services), environmental health, and vital records for Mobile County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Mobile",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Varies by service — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and clinic hours"
+      }
+    ],
+    "prerequisites": [
+      "Call for appointments and service availability"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mobile County Health Department (unverified)",
+        "value": "251-690-8158"
+      },
+      {
+        "kind": "web",
+        "label": "Mobile County Health Department",
+        "value": "https://www.alabamapublichealth.gov/mobile/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mobile County Health Department — services",
+        "url": "https://www.alabamapublichealth.gov/mobile/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/mobile/"
+    ]
+  },
+  {
+    "id": "tuscaloosa-transit",
+    "name": "Tuscaloosa Transit Authority",
+    "agency": "Tuscaloosa County Parking and Transit Authority",
+    "category": "Transportation",
+    "description": "Local government-owned bus system serving the city of Tuscaloosa with fixed routes, plus demand-response vans and ADA Para Transit ($2.00 per boarding) for riders who need door-to-door service.",
+    "scope": {
+      "level": "city",
+      "city": "Tuscaloosa",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public for fixed routes",
+      "Para Transit requires ADA paratransit application and approval"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fixed routes run Monday–Friday; Para Transit rides scheduled in advance"
+      }
+    ],
+    "prerequisites": [
+      "Complete the ADA application for Para Transit; no account needed for fixed routes"
+    ],
+    "whatToBring": [
+      "Exact fare or ticket when boarding; drivers do not make change"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tuscaloosa Transit Authority",
+        "value": "205-343-2300"
+      },
+      {
+        "kind": "web",
+        "label": "Tuscaloosa Transit Authority",
+        "value": "http://www.tuscaloosatransit.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tuscaloosa Transit Authority — routes and ADA application",
+        "url": "http://www.tuscaloosatransit.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — Para Transit $2.00 per boarding; fixed-route fares vary; see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.tuscaloosatransit.com/",
+      "https://www.transit.dot.gov/sites/fta.dot.gov/files/transit_agency_profile_doc/2020/40045.pdf"
+    ]
+  },
+  {
+    "id": "tuscaloosa-health-dept",
+    "name": "Tuscaloosa County Health Department",
+    "agency": "Alabama Department of Public Health (ADPH)",
+    "category": "Healthcare",
+    "description": "County health department offering WIC, environmental, home-care, and clinical services to the public, plus certified copies of birth, death, marriage, and divorce records.",
+    "scope": {
+      "level": "county",
+      "county": "Tuscaloosa",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Varies by service — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and clinic hours"
+      }
+    ],
+    "prerequisites": [
+      "Call for appointments and service availability"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by service; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tuscaloosa County Health Department",
+        "value": "205-562-6900"
+      },
+      {
+        "kind": "web",
+        "label": "Tuscaloosa County Health Department",
+        "value": "https://www.alabamapublichealth.gov/tuscaloosa/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Tuscaloosa County Health Department",
+        "value": "2350 Hargrove Road East, Tuscaloosa, AL 35405"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tuscaloosa County Health Department — services",
+        "url": "https://www.alabamapublichealth.gov/tuscaloosa/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.alabamapublichealth.gov/tuscaloosa/"
+    ]
+  },
+  {
+    "id": "fed-ssa-al",
+    "name": "Social Security — Retirement, Disability & SSI",
+    "agency": "U.S. Social Security Administration",
+    "category": "Money & Taxes",
+    "description": "Apply online for Social Security retirement, disability insurance (SSDI), and Supplemental Security Income (SSI); create a my Social Security account to check status and manage benefits. Serves Alabama residents through local field offices and online.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies by program — retirement, disability, survivors, or SSI",
+      "See program page for work-credit, age, disability, and income rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "prerequisites": [
+      "Create a my Social Security account to apply online"
+    ],
+    "whatToBring": [
+      "Social Security number, birth certificate, work history, and medical records for disability claims"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Security (unverified)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "Social Security Administration",
+        "value": "https://www.ssa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SSA — apply for benefits online",
+        "url": "https://www.ssa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ssa.gov"
+    ]
+  },
+  {
+    "id": "fed-va-healthcare-al",
+    "name": "VA Health Care",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "Apply for VA health-care coverage, which provides primary and specialty care at VA medical centers and community clinics, including facilities serving Alabama veterans.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Veteran with qualifying service; some programs cover family members",
+      "Varies — see program page for enrollment priority groups"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online, by phone, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, by mail, or in person at a VA facility"
+    ],
+    "whatToBring": [
+      "DD-214 or service records, photo ID, income information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA health benefits (unverified)",
+        "value": "1-877-222-8387"
+      },
+      {
+        "kind": "web",
+        "label": "VA health care",
+        "value": "https://www.va.gov/health-care"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA — apply for health care",
+        "url": "https://www.va.gov/health-care"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; copays may apply based on priority group",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/health-care"
+    ]
+  },
+  {
+    "id": "fed-fafsa-al",
+    "name": "FAFSA — Federal Student Aid",
+    "agency": "U.S. Department of Education, Federal Student Aid",
+    "category": "Education",
+    "description": "The Free Application for Federal Student Aid — the gateway to federal grants, work-study, and student loans, and required for most Alabama state and college aid programs.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "U.S. citizen or eligible noncitizen pursuing higher education",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as early as possible each aid year; state and college priority deadlines vary"
+      }
+    ],
+    "prerequisites": [
+      "Create a StudentAid.gov (FSA ID) account before starting the FAFSA"
+    ],
+    "whatToBring": [
+      "Social Security number, tax records, and school codes for colleges you are considering"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Federal Student Aid (unverified)",
+        "value": "1-800-433-3243"
+      },
+      {
+        "kind": "web",
+        "label": "Federal Student Aid",
+        "value": "https://studentaid.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "FAFSA — complete the free application",
+        "url": "https://studentaid.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://studentaid.gov"
+    ]
+  },
+  {
+    "id": "fed-lifeline-al",
+    "name": "FCC Lifeline Program",
+    "agency": "Federal Communications Commission / Universal Service Administrative Company",
+    "category": "Utilities",
+    "description": "Monthly discount on phone or broadband service for income-eligible Alabama households. Apply through the national verifier and choose a participating provider.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Household income at or below program limits, or participation in SNAP, Medicaid, SSI, or other qualifying programs",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through the national verifier"
+      }
+    ],
+    "prerequisites": [
+      "Check eligibility and apply through the Lifeline national verifier"
+    ],
+    "whatToBring": [
+      "Proof of identity, address, and income or program participation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lifeline national verifier",
+        "value": "https://www.lifeline.usac.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lifeline — check eligibility and apply",
+        "url": "https://www.lifeline.usac.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; monthly service discount varies by provider",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.lifeline.usac.org"
+    ]
+  },
+  {
+    "id": "fed-hud-counseling-al",
+    "name": "HUD-Approved Housing Counseling",
+    "agency": "U.S. Department of Housing and Urban Development",
+    "category": "Housing",
+    "description": "Free or low-cost counseling from HUD-approved agencies on buying a home, avoiding foreclosure, reverse mortgages, and rental issues. Search by ZIP to find counselors serving Alabama.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Open to the public; services tailored to homebuyers, homeowners, and renters"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a local HUD-approved agency any time"
+      }
+    ],
+    "prerequisites": [
+      "Find a HUD-approved counseling agency near you by ZIP code"
+    ],
+    "whatToBring": [
+      "Housing documents relevant to your situation — see agency instructions"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD housing counseling (unverified)",
+        "value": "1-800-569-4287"
+      },
+      {
+        "kind": "web",
+        "label": "HUD housing counseling",
+        "value": "https://www.hud.gov/program_offices/housing/sfh/hcc"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD — find a housing counselor",
+        "url": "https://www.hud.gov/program_offices/housing/sfh/hcc"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost — varies by agency",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/program_offices/housing/sfh/hcc"
+    ]
+  },
+  {
+    "id": "fed-sba-al",
+    "name": "U.S. Small Business Administration (SBA)",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Federal small-business support: loan programs, disaster assistance, free counseling through SCORE and Small Business Development Centers, and federal contracting help. The Alabama District Office serves the state.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Small business owner or aspiring entrepreneur",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling available year-round; loan and grant deadlines vary"
+      }
+    ],
+    "prerequisites": [
+      "Contact the Alabama District Office or a local SBDC/SCORE chapter"
+    ],
+    "whatToBring": [
+      "Business plan and financial documents for loan applications — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "U.S. Small Business Administration",
+        "value": "https://www.sba.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA — loans, counseling, and contracting help",
+        "url": "https://www.sba.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling; loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov"
+    ]
+  },
+  {
+    "id": "fed-usajobs-al",
+    "name": "USAJOBS — Federal Jobs",
+    "agency": "U.S. Office of Personnel Management",
+    "category": "Employment",
+    "description": "The official job board for federal government positions, including openings at Alabama federal facilities, military installations, and VA centers.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies by posting — U.S. citizenship often required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Each posting lists its own closing date"
+      }
+    ],
+    "prerequisites": [
+      "Create a USAJOBS profile and upload a federal resume"
+    ],
+    "whatToBring": [
+      "Federal resume, transcripts, and veteran or hiring-preference documents as applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USAJOBS",
+        "value": "https://www.usajobs.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USAJOBS — search federal jobs",
+        "url": "https://www.usajobs.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.usajobs.gov"
+    ]
+  },
+  {
+    "id": "fed-988-al",
+    "name": "988 Suicide & Crisis Lifeline",
+    "agency": "SAMHSA / 988 Suicide & Crisis Lifeline",
+    "category": "Healthcare",
+    "description": "24/7 call, text, and chat support for suicide prevention and mental-health or substance-use crises, serving Alabama and nationwide.",
+    "scope": {
+      "level": "federal",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Anyone in crisis or supporting someone in crisis"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7 by call, text, or chat"
+      }
+    ],
+    "prerequisites": [
+      "None — call, text, or chat 988 any time"
+    ],
+    "whatToBring": [
+      "No documents needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Call or text 988",
+        "value": "988"
+      },
+      {
+        "kind": "web",
+        "label": "988 Lifeline",
+        "value": "https://988lifeline.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "988 Suicide & Crisis Lifeline",
+        "url": "https://988lifeline.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://988lifeline.org"
+    ]
   }
 ]
