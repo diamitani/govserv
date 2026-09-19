@@ -7311,5 +7311,2024 @@
     "sources": [
       "https://www.uscis.gov"
     ]
+  },
+  {
+    "id": "fl-dcf-snap",
+    "name": "SNAP — Food Assistance",
+    "agency": "Florida Department of Children and Families (DCF), Economic Self-Sufficiency",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for eligible low-income Florida households. Apply online through MyACCESS, or by mail, fax, or in person; application forms and instructions are on the DCF ESS forms page.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida resident",
+      "Household income and resources within program limits",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits are issued monthly once approved."
+      }
+    ],
+    "prerequisites": [
+      "Apply through MyACCESS or submit the DCF application forms by mail, fax, or in person"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, expenses, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DCF ESS forms and applications",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DCF ESS forms and applications",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "fl-dcf-tca",
+    "name": "Temporary Cash Assistance (TCA)",
+    "agency": "Florida Department of Children and Families (DCF), Economic Self-Sufficiency",
+    "category": "Money & Taxes",
+    "description": "Monthly cash assistance for eligible Florida families with minor children. Apply online through MyACCESS, or by mail, fax, or in person; application forms and instructions are on the DCF ESS forms page.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida families with minor children",
+      "Income and asset limits apply",
+      "Must meet work and cooperation requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through MyACCESS or on paper."
+      }
+    ],
+    "prerequisites": [
+      "Apply through MyACCESS or submit the DCF application forms by mail, fax, or in person"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, expenses, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DCF ESS forms and applications",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DCF ESS forms and applications",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "fl-dcf-medicaid",
+    "name": "Florida Medicaid",
+    "agency": "Florida Department of Children and Families (DCF) / Agency for Health Care Administration",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income Floridians — children, pregnant women, parents, seniors, and people with disabilities. Apply online through MyACCESS, or by mail, fax, or in person; application forms are on the DCF ESS forms page.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida resident",
+      "Must fall into a covered group (child, pregnant, parent/caretaker, senior, disabled)",
+      "Income limits apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; coverage can start once eligibility is determined."
+      }
+    ],
+    "prerequisites": [
+      "Apply through MyACCESS or submit the DCF application forms by mail, fax, or in person"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, residency, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DCF ESS forms and applications",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DCF ESS forms and applications",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "fl-kidcare",
+    "name": "Florida KidCare — Children's Health Insurance",
+    "agency": "Florida KidCare (Florida Healthy Kids Corporation)",
+    "category": "Healthcare",
+    "description": "Low-cost health and dental insurance for Florida children, with year-round open enrollment. Apply through the Florida KidCare Parent Portal; monthly premiums vary by plan and family income, and some families qualify at no cost.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Children in Florida families",
+      "Enrollment is open year-round"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time — enrollment is open all year."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Florida KidCare Parent Portal"
+    ],
+    "whatToBring": [
+      "Proof of income, residency, and the child's age and citizenship/immigration status"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Florida KidCare",
+        "value": "1-888-540-5437"
+      },
+      {
+        "kind": "web",
+        "label": "Florida KidCare FAQ",
+        "value": "https://floridakidcare.org/faqs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida KidCare FAQ and Parent Portal",
+        "url": "https://floridakidcare.org/faqs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Monthly premiums vary by plan and income; some families pay nothing",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridakidcare.org/faqs/"
+    ]
+  },
+  {
+    "id": "fl-wic",
+    "name": "WIC — Women, Infants, and Children Nutrition Program",
+    "agency": "Florida Department of Health (county health departments)",
+    "category": "Food",
+    "description": "No-cost nutrition support for pregnant, postpartum, and breastfeeding women, infants, and children under 5: healthy foods, nutrition education, breastfeeding support, and referrals. Recipients of Medicaid, SNAP, or TANF are already income-eligible.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding women; infants and children under 5",
+      "Florida resident",
+      "Income limits apply — Medicaid, SNAP, or TANF recipients are already income-eligible"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a local WIC clinic."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to schedule an appointment"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, income, and pregnancy or the child's age"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Florida WIC",
+        "value": "800-342-3556"
+      },
+      {
+        "kind": "web",
+        "label": "Florida WIC (DOH)",
+        "value": "https://flagler.floridahealth.gov/programs-and-services/clinical-services/women-infants-and-children-wic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida WIC program information",
+        "url": "https://flagler.floridahealth.gov/programs-and-services/clinical-services/women-infants-and-children-wic/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://flagler.floridahealth.gov/programs-and-services/clinical-services/women-infants-and-children-wic/"
+    ]
+  },
+  {
+    "id": "fl-reemployment",
+    "name": "Reemployment Assistance (Unemployment Insurance)",
+    "agency": "Florida Department of Commerce (FloridaJobs.org)",
+    "category": "Employment",
+    "description": "Temporary partial wage replacement for Florida workers who lost a job through no fault of their own. File a claim online, verify identity with multi-factor authentication, and request benefit payments every two weeks while you keep looking for work.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Lost employment through no fault of your own",
+      "Earned qualifying wages in the base period",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed; request payments every two weeks."
+      }
+    ],
+    "prerequisites": [
+      "Social Security number and ID",
+      "18 months of employment history",
+      "Complete identity verification"
+    ],
+    "whatToBring": [
+      "Social Security number, government ID, and employer/pay details for the last 18 months"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Interpreter services",
+        "value": "1-833-352-7759"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for Reemployment Assistance",
+        "value": "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Reemployment Assistance benefits",
+        "url": "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+    ]
+  },
+  {
+    "id": "fl-vocational-rehab",
+    "name": "Vocational Rehabilitation — Job Programs for People with Disabilities",
+    "agency": "Florida Division of Vocational Rehabilitation (RehabWorks)",
+    "category": "Disability",
+    "description": "Free employment services for Floridians with disabilities: help preparing for, finding, and keeping a job, including career counseling, training, and job placement support.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida resident with a physical or mental disability",
+      "Disability is a barrier to employment",
+      "Can benefit from VR services to get or keep a job"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; an eligibility determination follows."
+      }
+    ],
+    "prerequisites": [
+      "Apply for VR services through the division"
+    ],
+    "whatToBring": [
+      "Proof of identity and any medical or disability documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VR job programs (RehabWorks)",
+        "value": "https://REHABWORKS.ORG/about/job-programs.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VR job programs information",
+        "url": "https://REHABWORKS.ORG/about/job-programs.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://REHABWORKS.ORG/about/job-programs.html"
+    ]
+  },
+  {
+    "id": "fl-shine",
+    "name": "SHINE — Free Medicare Counseling",
+    "agency": "Florida SHINE Program (Area Agencies on Aging)",
+    "category": "Seniors",
+    "description": "Free, unbiased Medicare counseling for Florida seniors and their caregivers: help understanding Medicare options, enrollment, billing issues, and fraud. Call the SHINE line or the Elder Helpline for a local counselor.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Medicare beneficiaries and their families/caregivers",
+      "Florida residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling available year-round; enrollment help follows Medicare timelines."
+      }
+    ],
+    "prerequisites": [
+      "None — call for a free counseling appointment"
+    ],
+    "whatToBring": [
+      "Medicare card and any coverage or billing letters"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SHINE",
+        "value": "1-800-963-5337"
+      },
+      {
+        "kind": "phone",
+        "label": "Elder Helpline",
+        "value": "1-866-531-8011"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Navigating Medicare — SHINE",
+        "url": "https://www.nwflaaa.org/navigating-medicare"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.nwflaaa.org/navigating-medicare"
+    ]
+  },
+  {
+    "id": "fl-veterans-claims",
+    "name": "Veterans' Claims Assistance",
+    "agency": "Florida Department of Veterans' Affairs",
+    "category": "Veterans",
+    "description": "Free help filing and tracking VA benefit claims from accredited state and county veterans service officers — disability compensation, pensions, and survivor benefits.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Veterans, service members, and their dependents/survivors",
+      "Florida resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claims help available any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact a state or county veterans service officer for a free appointment"
+    ],
+    "whatToBring": [
+      "DD-214 or other service records, medical records, and ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "FDVA claims help",
+        "value": "(727) 319-7440"
+      },
+      {
+        "kind": "web",
+        "label": "FDVA claims services",
+        "value": "https://floridavets.org/benefits-services/claims/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "FDVA benefits and claims services",
+        "url": "https://floridavets.org/benefits-services/claims/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridavets.org/benefits-services/claims/"
+    ]
+  },
+  {
+    "id": "fl-child-support",
+    "name": "Child Support Program",
+    "agency": "Florida Department of Revenue — Child Support Program",
+    "category": "Family & Childcare",
+    "description": "State child support services: establishing paternity, establishing and enforcing support orders, and collecting and distributing payments. Apply with signed forms plus supporting family and support records, mailed to the program office in Tallahassee.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Parents, guardians, or caregivers needing child support services",
+      "Florida cases"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete and sign the child support application forms"
+    ],
+    "whatToBring": [
+      "Signed forms and supporting family and support records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Spanish assistance (option 7)",
+        "value": "850-488-5437"
+      },
+      {
+        "kind": "web",
+        "label": "Child support forms and instructions (PDF)",
+        "value": "https://flrules.org/gateway/readRefFile.asp?refId=13864&filename=CS-ES50.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Child support forms and instructions (PDF)",
+        "url": "https://flrules.org/gateway/readRefFile.asp?refId=13864&filename=CS-ES50.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://flrules.org/gateway/readRefFile.asp?refId=13864&filename=CS-ES50.pdf"
+    ]
+  },
+  {
+    "id": "fl-bright-futures",
+    "name": "Bright Futures Scholarship Program",
+    "agency": "Florida Department of Education — Office of Student Financial Assistance",
+    "category": "Education",
+    "description": "Merit-based scholarships for Florida high school graduates attending eligible Florida colleges and universities (Florida Academic Scholars and Florida Medallion Scholars tracks). Submit the Florida Financial Aid Application (FFAA) by August 31 after high school graduation.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida high school graduate (or equivalent)",
+      "Meet academic, service, and testing requirements in the current 2026-27 handbook",
+      "Attend an eligible Florida postsecondary institution"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "August 31 after graduation",
+        "note": "Submit the FFAA by August 31 following high school graduation."
+      }
+    ],
+    "prerequisites": [
+      "Submit the Florida Financial Aid Application (FFAA)"
+    ],
+    "whatToBring": [
+      "Academic records, service-hour documentation, and test scores per the current handbook"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Bright Futures 2026-27 handbook (PDF)",
+        "value": "https://www.FloridaStudentFinancialAidsg.org/PDF/FAS-FMS.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Bright Futures 2026-27 handbook (PDF)",
+        "url": "https://www.FloridaStudentFinancialAidsg.org/PDF/FAS-FMS.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.FloridaStudentFinancialAidsg.org/PDF/FAS-FMS.pdf"
+    ]
+  },
+  {
+    "id": "fl-housing-first-time",
+    "name": "First-Time Homebuyer Mortgage Programs",
+    "agency": "Florida Housing Finance Corporation",
+    "category": "Housing",
+    "description": "State-backed 30-year fixed-rate mortgage programs that make homeownership more affordable for first-time buyers, paired with down payment assistance options through participating lenders.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "First-time homebuyer",
+      "Meet income and purchase-price limits",
+      "Use a participating Florida Housing lender"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available through participating lenders while program funding lasts."
+      }
+    ],
+    "prerequisites": [
+      "Work with a participating Florida Housing lender and complete homebuyer education"
+    ],
+    "whatToBring": [
+      "Income documentation, ID, and mortgage application materials"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Florida Housing program summary (PDF)",
+        "value": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida Housing program summary (PDF)",
+        "url": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; standard mortgage costs apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+    ]
+  },
+  {
+    "id": "fl-housing-assist-dpa",
+    "name": "Florida Assist — Down Payment Assistance",
+    "agency": "Florida Housing Finance Corporation",
+    "category": "Housing",
+    "description": "Down payment and closing-cost assistance as a second mortgage, paired with a Florida Housing first mortgage for eligible first-time buyers.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Paired with an eligible Florida Housing first mortgage",
+      "Meet income and purchase-price limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available through participating lenders while funding lasts."
+      }
+    ],
+    "prerequisites": [
+      "Obtain a Florida Housing first mortgage through a participating lender"
+    ],
+    "whatToBring": [
+      "Income documentation and mortgage application materials"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Florida Housing program summary (PDF)",
+        "value": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida Housing program summary (PDF)",
+        "url": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; second-mortgage terms apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+    ]
+  },
+  {
+    "id": "fl-ship-local-housing",
+    "name": "SHIP — Local Housing Help",
+    "agency": "Florida Housing Finance Corporation / local city and county SHIP offices",
+    "category": "Housing",
+    "description": "State Housing Initiatives Partnership funds distributed through local city and county offices for down payment assistance, home repair and rehabilitation, and other local affordable-housing help. Contact your county or city SHIP office to apply.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Income-eligible Florida households",
+      "Rules and programs vary by local SHIP office"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Local offices open and close application windows; check your county or city."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local city or county SHIP office"
+    ],
+    "whatToBring": [
+      "Proof of income, residency, and homeownership or purchase plans"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Florida Housing program summary (PDF)",
+        "value": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida Housing program summary (PDF)",
+        "url": "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://floridahousing.org/docs/default-source/aboutflorida/program-one-pagers.pdf"
+    ]
+  },
+  {
+    "id": "fl-mydmv",
+    "name": "MyDMV Portal — Driver License and Vehicle Services",
+    "agency": "Florida Highway Safety and Motor Vehicles (FLHSMV)",
+    "category": "Transportation",
+    "description": "Florida's online portal for driver and vehicle services: renew or replace a driver license or ID card, renew vehicle registration, and manage other motorist transactions without visiting an office.",
+    "scope": {
+      "level": "state",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Florida drivers and vehicle owners",
+      "Some transactions require in-person visits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available any time; renew before your credential expires."
+      }
+    ],
+    "prerequisites": [
+      "Create a MyDMV Portal account"
+    ],
+    "whatToBring": [
+      "Driver license or ID number, vehicle information, and payment method"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyDMV Portal",
+        "value": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MyDMV Portal",
+        "url": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to use; standard state fees apply per transaction",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+    ]
+  },
+  {
+    "id": "miami-311",
+    "name": "Miami-Dade 311 — Neighborhood Problem Reporting",
+    "agency": "Miami-Dade County — 311Direct",
+    "category": "Money & Taxes",
+    "description": "Report neighborhood problems and request county services online: code violations, bulky waste, illegal dumping, missed garbage collection, mosquitoes, potholes, and stray dogs.",
+    "scope": {
+      "level": "city",
+      "city": "Miami",
+      "county": "Miami-Dade",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone reporting a non-emergency issue in Miami-Dade County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report any time online."
+      }
+    ],
+    "prerequisites": [
+      "None — submit the online service request"
+    ],
+    "whatToBring": [
+      "Location or address of the problem"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Miami-Dade 311",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "311Direct service requests",
+        "value": "http://enet.miamidade.gov/global/news-item.page?Mduid_news=news1562769024932829"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "311Direct service requests",
+        "url": "http://enet.miamidade.gov/global/news-item.page?Mduid_news=news1562769024932829"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://enet.miamidade.gov/global/news-item.page?Mduid_news=news1562769024932829"
+    ]
+  },
+  {
+    "id": "miami-transit-easy-card",
+    "name": "Miami-Dade Transit — EASY Cards and Fare Types",
+    "agency": "Miami-Dade County Department of Transportation and Public Works",
+    "category": "Transportation",
+    "description": "Buy and reload EASY Cards for Miami-Dade buses and trains, including special fare-card types with reduced fares for eligible riders. Using the Transit Store website is free.",
+    "scope": {
+      "level": "city",
+      "city": "Miami",
+      "county": "Miami-Dade",
+      "state": "FL"
+    },
+    "eligibility": [
+      "All Miami-Dade transit riders",
+      "Reduced-fare card types require proof of eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Buy and reload any time."
+      }
+    ],
+    "prerequisites": [
+      "None for a standard EASY Card; proof of eligibility for special fare cards"
+    ],
+    "whatToBring": [
+      "Payment method; eligibility proof for reduced-fare cards"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Transit Store / EASY Card",
+        "value": "786-469-5151"
+      },
+      {
+        "kind": "web",
+        "label": "Transit Store FAQ",
+        "value": "https://transitstore.miamidade.gov/home/faq"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Transit Store FAQ and EASY Card purchases",
+        "url": "https://transitstore.miamidade.gov/home/faq"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Website use is free; fare costs apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://transitstore.miamidade.gov/home/faq"
+    ]
+  },
+  {
+    "id": "miami-library-social",
+    "name": "Miami-Dade Public Library — Social Services Help Desk",
+    "agency": "Miami-Dade Public Library System",
+    "category": "Family & Childcare",
+    "description": "Free one-on-one help at the Main Library connecting residents with housing assistance, mental health resources, SNAP, healthcare, reemployment services, and other government programs. Walk in Monday through Thursday, 11 a.m. to 4 p.m.",
+    "scope": {
+      "level": "city",
+      "city": "Miami",
+      "county": "Miami-Dade",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone needing help finding social or government services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in Monday–Thursday, 11 a.m.–4 p.m. at the Main Library."
+      }
+    ],
+    "prerequisites": [
+      "None — walk in during help-desk hours"
+    ],
+    "whatToBring": [
+      "Any documents related to the help you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library social services",
+        "value": "786-988-6816"
+      },
+      {
+        "kind": "email",
+        "label": "Social services email",
+        "value": "socialservicesmail@mdpls.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDPLS social services",
+        "url": "https://mdpls.org/miami-dade-public-library-system/social-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://mdpls.org/miami-dade-public-library-system/social-services"
+    ]
+  },
+  {
+    "id": "orlando-lynx-fares",
+    "name": "LYNX Bus Fares and Passes",
+    "agency": "Central Florida Regional Transportation Authority (LYNX)",
+    "category": "Transportation",
+    "description": "Bus fares and passes for the Orlando-area LYNX system: regular and discount single-ride, daily, 7-day, and 30-day options, plus NeighborLink paratransit fares. Discount fares are available for seniors, youth, and riders with disabilities.",
+    "scope": {
+      "level": "city",
+      "city": "Orlando",
+      "county": "Orange",
+      "state": "FL"
+    },
+    "eligibility": [
+      "All LYNX riders",
+      "Discount fares require proof of eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Buy fares and passes any time."
+      }
+    ],
+    "prerequisites": [
+      "None for regular fares; eligibility proof for discount fares"
+    ],
+    "whatToBring": [
+      "Payment method; eligibility proof for discount fares"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LYNX customer service",
+        "value": "407-841-5969"
+      },
+      {
+        "kind": "web",
+        "label": "LYNX fares and passes",
+        "value": "http://www.golynx.com/fares-passes/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LYNX fares and passes",
+        "url": "http://www.golynx.com/fares-passes/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by fare type",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://www.golynx.com/fares-passes/"
+    ]
+  },
+  {
+    "id": "orlando-library-card",
+    "name": "Orange County Library System — Library Card",
+    "agency": "Orange County Library System (OCLS)",
+    "category": "Education",
+    "description": "Free library card for Orange County, Florida residents: check out books, movies, and e-books, with free home delivery in the library service area. Register online or in person with ID showing proof of address; Maitland and Winter Park residents receive reciprocal borrower cards, and property owners can qualify with a tax receipt.",
+    "scope": {
+      "level": "city",
+      "city": "Orlando",
+      "county": "Orange",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Orange County, Florida residents",
+      "Property owners in the Library District (except Maitland/Winter Park)",
+      "Maitland and Winter Park residents get reciprocal borrower cards"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Register any time online or in person."
+      }
+    ],
+    "prerequisites": [
+      "Register online or in person"
+    ],
+    "whatToBring": [
+      "Appropriate ID showing proof of address; property tax receipt for property-owner cards"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sign up for an OCLS library card",
+        "value": "http://ocls.info/sign-up-for-a-library-card-account"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sign up for an OCLS library card",
+        "url": "http://ocls.info/sign-up-for-a-library-card-account"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://ocls.info/sign-up-for-a-library-card-account"
+    ]
+  },
+  {
+    "id": "tampa-connect",
+    "name": "Tampa Connect — City Service Requests",
+    "agency": "City of Tampa — Customer Service Center",
+    "category": "Money & Taxes",
+    "description": "Tampa's web-based customer service system: submit a request to get something fixed or report a non-emergency issue in a few steps. No account is needed to submit; you get a confirmation number and a resolution estimate, and can add photos or documents.",
+    "scope": {
+      "level": "city",
+      "city": "Tampa",
+      "county": "Hillsborough",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone reporting a non-emergency issue in the City of Tampa"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit requests any time online."
+      }
+    ],
+    "prerequisites": [
+      "None — no account required to submit"
+    ],
+    "whatToBring": [
+      "Location or address of the issue; photos or documents help speed resolution"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Tampa Connect Customer Service Center",
+        "value": "https://apps.tampagov.net/customer_service_center_Webapp/Default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tampa Connect Customer Service Center",
+        "url": "https://apps.tampagov.net/customer_service_center_Webapp/Default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://apps.tampagov.net/customer_service_center_Webapp/Default.aspx"
+    ]
+  },
+  {
+    "id": "jacksonville-630-city",
+    "name": "Jacksonville 630-CITY — City Service Requests",
+    "agency": "City of Jacksonville — 630-CITY Customer Service Center",
+    "category": "Money & Taxes",
+    "description": "Jacksonville's customer service center for requesting city services and reporting problems: call 630-CITY (2489) or submit a request through 630-CITY online.",
+    "scope": {
+      "level": "city",
+      "city": "Jacksonville",
+      "county": "Duval",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone requesting a city service or reporting a problem in Jacksonville"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or go online any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or use the online request system"
+    ],
+    "whatToBring": [
+      "Location or address of the issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Jacksonville 630-CITY",
+        "value": "630-CITY (2489)"
+      },
+      {
+        "kind": "web",
+        "label": "City of Jacksonville — service requests",
+        "value": "https://www.jacksonville.gov/departments/public-works/public-buildings"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Jacksonville — service requests",
+        "url": "https://www.jacksonville.gov/departments/public-works/public-buildings"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.jacksonville.gov/departments/public-works/public-buildings"
+    ]
+  },
+  {
+    "id": "jacksonville-jta-fares",
+    "name": "JTA Bus Fares and Passes",
+    "agency": "Jacksonville Transportation Authority (JTA)",
+    "category": "Transportation",
+    "description": "Fares for Jacksonville's JTA buses, First Coast Flyer, and ReadiRide: regular $1.75 cash, reduced 75 cents, ReadiRide $2.00; seniors 65+ ride fixed-route buses free with a Florida ID or Senior STAR Card; the Skyway and NAVI autonomous shuttles are fare free. Buy single rides and multi-day passes in the MyJTA or Token Transit apps.",
+    "scope": {
+      "level": "city",
+      "city": "Jacksonville",
+      "county": "Duval",
+      "state": "FL"
+    },
+    "eligibility": [
+      "All JTA riders",
+      "Reduced fares for people with disabilities and Medicare cardholders with a STAR Card",
+      "Seniors 65+ ride free with Florida ID or Senior STAR Card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Buy fares and passes any time."
+      }
+    ],
+    "prerequisites": [
+      "None for regular fares; STAR Card or ID for reduced/senior fares"
+    ],
+    "whatToBring": [
+      "Exact change for cash fares; ID for reduced or senior fares"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "JTA fares and passes",
+        "value": "https://www.jtafla.com/rider-guide/fares-passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JTA fares and passes",
+        "url": "https://www.jtafla.com/rider-guide/fares-passes"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by fare type",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.jtafla.com/rider-guide/fares-passes"
+    ]
+  },
+  {
+    "id": "jacksonville-library-mail",
+    "name": "Jacksonville Public Library — Materials by Mail",
+    "agency": "Jacksonville Public Library",
+    "category": "Disability",
+    "description": "Free program delivering library materials by mail to Duval County residents who cannot visit the library due to illness or disability. Requires a Jax Library card, Duval County residence, and self-certification of the disability or illness; up to 5 items per shipment (print, large print, audiobooks, music CDs, DVDs).",
+    "scope": {
+      "level": "city",
+      "city": "Jacksonville",
+      "county": "Duval",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Duval County resident",
+      "Unable to visit the library due to temporary or permanent disability or illness",
+      "Must hold a Jacksonville Public Library card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online or by phone."
+      }
+    ],
+    "prerequisites": [
+      "Hold a Jax Library card (resident adults can apply online); self-certify the disability or illness"
+    ],
+    "whatToBring": [
+      "Library card number and mailing address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library questions and renewals",
+        "value": "904-255-2665"
+      },
+      {
+        "kind": "phone",
+        "label": "Request materials",
+        "value": "904-255-BOOK"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library Materials by Mail application",
+        "url": "https://jaxpubliclibrary.org/webform/library-materials-mail"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://jaxpubliclibrary.org/webform/library-materials-mail"
+    ]
+  },
+  {
+    "id": "miamidade-doh-clinics",
+    "name": "DOH Miami-Dade — Public Health Clinics",
+    "agency": "Florida Department of Health in Miami-Dade County",
+    "category": "Healthcare",
+    "description": "County public health clinics offering family planning, pregnancy and prenatal care, wellness visits, cancer screening, and STI/HIV services. Services are available to residents and visitors, citizenship is not required, and inability to pay does not bar access; bring photo ID, proof of address and insurance, and income/family-size evidence for the sliding scale.",
+    "scope": {
+      "level": "county",
+      "city": "Miami",
+      "county": "Miami-Dade",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Residents and visitors of Miami-Dade County",
+      "Citizenship not required",
+      "Sliding-scale fees based on income and family size"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for clinic hours and appointments."
+      }
+    ],
+    "prerequisites": [
+      "Contact a clinic to schedule"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address and insurance",
+      "Income and family-size evidence for sliding-scale fees"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOH Miami-Dade clinic contact",
+        "value": "305-324-2400"
+      },
+      {
+        "kind": "web",
+        "label": "DOH Miami-Dade family planning and preventive services",
+        "value": "http://miamidade.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/preventive-services/family-planning/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOH Miami-Dade family planning and preventive services",
+        "url": "http://miamidade.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/preventive-services/family-planning/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Sliding scale; inability to pay does not bar access",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "http://miamidade.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/preventive-services/family-planning/",
+      "http://miamidade.floridahealth.gov/wp-content/uploads/sites/45/2025/07/eligibility-english.pdf"
+    ]
+  },
+  {
+    "id": "orange-liheap",
+    "name": "Orange County LIHEAP — Energy Bill Help",
+    "agency": "Orange County — Families, Health and Social Services (LIHEAP)",
+    "category": "Utilities",
+    "description": "Federal Low Income Home Energy Assistance Program funds administered by Orange County to help eligible residents with heating and cooling bills. Applications are accepted Monday through Friday, subject to available funding.",
+    "scope": {
+      "level": "county",
+      "city": "Orlando",
+      "county": "Orange",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Orange County resident",
+      "Meet LIHEAP income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications Monday–Friday, subject to available funding."
+      }
+    ],
+    "prerequisites": [
+      "Apply during the open application period"
+    ],
+    "whatToBring": [
+      "Per the 2026 LIHEAP flyer: required household and income documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Orange County LIHEAP",
+        "value": "(407) 836-7429"
+      },
+      {
+        "kind": "web",
+        "label": "Orange County LIHEAP 2026 flyer (PDF)",
+        "value": "https://www.orangecountyfl.net/Portals/0/Library/Families-Health-Social Svcs/docs/LIHEAP 2026 FLYER ENG 03122026.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Orange County LIHEAP 2026 flyer (PDF)",
+        "url": "https://www.orangecountyfl.net/Portals/0/Library/Families-Health-Social Svcs/docs/LIHEAP 2026 FLYER ENG 03122026.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.orangecountyfl.net/Portals/0/Library/Families-Health-Social Svcs/docs/LIHEAP 2026 FLYER ENG 03122026.pdf"
+    ]
+  },
+  {
+    "id": "orange-medical-clinic",
+    "name": "Orange County Medical Clinic — Care for Uninsured Adults",
+    "agency": "Orange County Health Services Department",
+    "category": "Healthcare",
+    "description": "County-run medical care for eligible low-income, uninsured Orange County adults ('Secondary Services'): specialty physicians, provider network, case management, pharmacy, lab, radiology, and hospital services. Patients must be enrolled in and referred by a Primary Care Access Network (PCAN) medical home. Located at 101 S. Westmoreland Drive, Orlando, FL 32805.",
+    "scope": {
+      "level": "county",
+      "city": "Orlando",
+      "county": "Orange",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Orange County adult",
+      "Low income and uninsured",
+      "Must be enrolled in and referred by a PCAN medical home"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and referral information."
+      }
+    ],
+    "prerequisites": [
+      "Enrollment in and referral from a PCAN medical home"
+    ],
+    "whatToBring": [
+      "Proof of income, residency, and uninsured status"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Orange County Health Services Department",
+        "value": "407-836-7100"
+      },
+      {
+        "kind": "phone",
+        "label": "PCAN",
+        "value": "407-836-PCAN"
+      },
+      {
+        "kind": "web",
+        "label": "Orange County Medical Clinic",
+        "value": "https://newsroom.ocfl.net/directory/medical-clinic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Orange County Medical Clinic",
+        "url": "https://newsroom.ocfl.net/directory/medical-clinic/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Care for eligible uninsured adults",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://newsroom.ocfl.net/directory/medical-clinic/"
+    ]
+  },
+  {
+    "id": "broward-311",
+    "name": "Broward County 311 — Service Requests and County Information",
+    "agency": "Broward County — 3-1-1 Call Center",
+    "category": "Money & Taxes",
+    "description": "One-stop shop for Broward County government services: report potholes, malfunctioning traffic lights, smoking vehicles, or request services like mosquito spraying through the MyBroward app or CRM, or call 311 to reach trained information specialists — English, Spanish, and Creole speaking staff, with calls answered in any language. Not for emergencies; call 911 for those.",
+    "scope": {
+      "level": "county",
+      "city": "Fort Lauderdale",
+      "county": "Broward",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone needing non-emergency Broward County services or information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "MyBroward app/CRM available any time; call center provides weekday service."
+      }
+    ],
+    "prerequisites": [
+      "Create a MyBroward account before making an online service request"
+    ],
+    "whatToBring": [
+      "Location or address of the issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Broward County 311",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "MyBroward service requests (Broward County)",
+        "value": "https://webapps6.broward.org/newsrelease/View.aspx?intMessageId=11768"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MyBroward service requests (Broward County)",
+        "url": "https://webapps6.broward.org/newsrelease/View.aspx?intMessageId=11768"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://webapps6.broward.org/newsrelease/View.aspx?intMessageId=11768"
+    ]
+  },
+  {
+    "id": "broward-liheap",
+    "name": "Broward County LIHEAP — Electric Bill Assistance",
+    "agency": "Broward County Family Success Administration — Community Action Agency",
+    "category": "Utilities",
+    "description": "Federally funded help with Florida Power & Light electric bills for qualified Broward County families. Applications are online only through the LIHEAP portal; eligibility is based on household size and income (guidelines effective October 1, 2025). Allow up to 15 business days for processing and keep paying your bill in the meantime.",
+    "scope": {
+      "level": "county",
+      "city": "Fort Lauderdale",
+      "county": "Broward",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Broward County household",
+      "Income within the LIHEAP poverty income guidelines for household size"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Portal may close at times to process received applications; check the page for availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the online LIHEAP application portal with all required documents uploaded"
+    ],
+    "whatToBring": [
+      "Government photo ID",
+      "Proof of citizenship or qualified-alien status for all household members",
+      "Social Security numbers for all household members",
+      "Valid FPL bill",
+      "Proof of all income from the past 30 days for all household members"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIHEAP call center (Mon–Fri 8:30 a.m.–5 p.m.)",
+        "value": "954-357-5025"
+      },
+      {
+        "kind": "web",
+        "label": "Broward County LIHEAP",
+        "value": "https://www.broward.org/familysuccess/LowIncomeHomeEnergyProgram"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Broward County LIHEAP online application",
+        "url": "https://www.broward.org/familysuccess/LowIncomeHomeEnergyProgram"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.broward.org/familysuccess/LowIncomeHomeEnergyProgram"
+    ]
+  },
+  {
+    "id": "broward-transit",
+    "name": "Broward County Transit (BCT) — Fares and Passes",
+    "agency": "Broward County Transit",
+    "category": "Transportation",
+    "description": "Bus fares across Broward County, connecting to Miami-Dade, Palm Beach, and Tri-Rail: regular $2.00, premium express $2.65, youth/senior/disabled/Medicare $1.00 (reduced premium $1.30), children under 40 inches free. Passes include All Day $5, 3-Day $12, 7-Day $20, 10-Ride $20, 31-Day $70, and a 31-Day College Student pass $50.",
+    "scope": {
+      "level": "county",
+      "city": "Fort Lauderdale",
+      "county": "Broward",
+      "state": "FL"
+    },
+    "eligibility": [
+      "All BCT riders",
+      "Reduced fares for youth, seniors, riders with disabilities, and Medicare cardholders with valid ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Buy fares and passes any time."
+      }
+    ],
+    "prerequisites": [
+      "None for regular fares; valid ID for reduced-fare passes"
+    ],
+    "whatToBring": [
+      "Exact fare or pass; ID for reduced-fare eligibility"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Broward County Transit",
+        "value": "954-357-8400"
+      },
+      {
+        "kind": "web",
+        "label": "BCT fact sheet with fares (PDF)",
+        "value": "https://www.broward.org/BCT/Documents/factsheet.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "BCT fact sheet with fares (PDF)",
+        "url": "https://www.broward.org/BCT/Documents/factsheet.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by fare type",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.broward.org/BCT/Documents/factsheet.pdf"
+    ]
+  },
+  {
+    "id": "hillsborough-hart",
+    "name": "HART — Tampa Bus Fares with Fare Capping",
+    "agency": "Hillsborough Area Regional Transit Authority (HART)",
+    "category": "Transportation",
+    "description": "Bus fares for the Tampa-area HART system with automatic fare capping on Flamingo Fares: regular $2.00 per trip ($4.00 daily cap, $65.00 monthly cap); discount $1.00 per trip ($2.00 daily, $32.50 monthly) for youth 6–18, seniors 65+, riders with disabilities, disabled veterans, visually impaired riders, and Medicare cardholders. HARTFlex $1.00/$2.00, HARTPlus $4.00 one-way, and the TECO Line Streetcar is fare free. Children 5 and under ride free.",
+    "scope": {
+      "level": "county",
+      "city": "Tampa",
+      "county": "Hillsborough",
+      "state": "FL"
+    },
+    "eligibility": [
+      "All HART riders",
+      "Discount fares for youth 6–18, seniors 65+, disabilities (application required), disabled veterans, visually impaired, and Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Buy and load fares any time."
+      }
+    ],
+    "prerequisites": [
+      "None for regular fares; proof of eligibility for discount Flamingo Cards"
+    ],
+    "whatToBring": [
+      "Exact change for onboard cash fares; eligibility proof for discount cards"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HARTinfo Line",
+        "value": "(813) 254-4278"
+      },
+      {
+        "kind": "phone",
+        "label": "HART TDD",
+        "value": "(813) 626-9158"
+      },
+      {
+        "kind": "web",
+        "label": "HART fare cards and capping",
+        "value": "https://gohart.org/Pages/fares-cards.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HART fare cards and capping",
+        "url": "https://gohart.org/Pages/fares-cards.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by fare type",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://gohart.org/Pages/fares-cards.aspx"
+    ]
+  },
+  {
+    "id": "duval-doh-immunizations",
+    "name": "DOH Duval — Immunization Clinics",
+    "agency": "Florida Department of Health in Duval County",
+    "category": "Healthcare",
+    "description": "Immunization services for children and adults at DOH-Duval locations, including routine adult immunizations, travel immunizations, and childhood immunizations required for school attendance. Call a service location to schedule an appointment and bring picture ID plus all previous immunization records.",
+    "scope": {
+      "level": "county",
+      "city": "Jacksonville",
+      "county": "Duval",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Children and adults needing routine, school-required, or travel immunizations"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call a service location to schedule an appointment."
+      }
+    ],
+    "prerequisites": [
+      "Schedule an appointment at a DOH-Duval service location"
+    ],
+    "whatToBring": [
+      "Picture ID",
+      "All previous immunization records for each person needing services"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DOH-Duval immunizations",
+        "value": "https://duval.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/immunizations/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOH-Duval immunizations",
+        "url": "https://duval.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/immunizations/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Contact the clinic for cost information",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://duval.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/immunizations/"
+    ]
+  },
+  {
+    "id": "fed-ssdi",
+    "name": "Social Security Disability Insurance (SSDI)",
+    "agency": "Social Security Administration (SSA)",
+    "category": "Disability",
+    "description": "Monthly benefits for workers who can no longer work because of a severe, long-term disability. You generally need enough work credits earned through Social Security-covered employment, and the disability must meet SSA's definition.",
+    "scope": {
+      "level": "federal",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Unable to work due to a severe disability expected to last at least a year or result in death",
+      "Sufficient work credits from covered employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply as soon as you become disabled; there is a waiting period for payments."
+      }
+    ],
+    "prerequisites": [
+      "File a disability application with SSA"
+    ],
+    "whatToBring": [
+      "Social Security number, medical records, and work history"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SSA disability eligibility",
+        "value": "https://www.ssa.gov/disability/eligibility"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SSA disability eligibility",
+        "url": "https://www.ssa.gov/disability/eligibility"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ssa.gov/disability/eligibility"
+    ]
+  },
+  {
+    "id": "fed-ssi",
+    "name": "Supplemental Security Income (SSI)",
+    "agency": "Social Security Administration (SSA)",
+    "category": "Money & Taxes",
+    "description": "Monthly payments to people with limited income and resources who are 65 or older, blind, or have a qualifying disability. SSI is a needs-based program funded by general tax revenues, not Social Security work credits.",
+    "scope": {
+      "level": "federal",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Age 65+, blind, or disabled",
+      "Limited income and resources",
+      "U.S. citizen or qualifying noncitizen"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File an SSI application with SSA"
+    ],
+    "whatToBring": [
+      "Social Security number, proof of income and resources, medical records if disabled"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SSA benefits overview",
+        "value": "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SSA benefits overview",
+        "url": "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+    ]
+  },
+  {
+    "id": "fed-va-healthcare",
+    "name": "VA Health Care",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Healthcare",
+    "description": "Comprehensive health care for eligible veterans through VA medical centers and clinics. Apply online, by phone, or by mailing VA Form 10-10EZ.",
+    "scope": {
+      "level": "federal",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Veteran with qualifying service",
+      "Enrollment priority groups apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or by mail with VA Form 10-10EZ"
+    ],
+    "whatToBring": [
+      "DD-214, ID, and income/insurance information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA health benefits hotline",
+        "value": "1-877-222-8387"
+      },
+      {
+        "kind": "web",
+        "label": "VA health care",
+        "value": "https://choose.va.gov/health/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA health care",
+        "url": "https://choose.va.gov/health/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; copays may apply by priority group",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://choose.va.gov/health/"
+    ]
+  },
+  {
+    "id": "fed-hud-counselor",
+    "name": "HUD-Approved Housing Counselors",
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "Free or low-cost counseling from HUD-approved agencies: help buying a home, avoiding foreclosure, finding rental assistance, and resolving housing problems. Search the HUD counselor directory by location.",
+    "scope": {
+      "level": "federal",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Anyone needing housing counseling"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a counselor any time."
+      }
+    ],
+    "prerequisites": [
+      "None — search the directory and contact an agency"
+    ],
+    "whatToBring": [
+      "Housing documents related to your situation (lease, mortgage statements, income proof)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HUD housing counselor search",
+        "value": "https://data.hud.gov/housing_counseling.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD housing counselor search",
+        "url": "https://data.hud.gov/housing_counseling.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://data.hud.gov/housing_counseling.html"
+    ]
+  },
+  {
+    "id": "fed-uscis-naturalization",
+    "name": "Naturalization — Apply for U.S. Citizenship",
+    "agency": "U.S. Citizenship and Immigration Services (USCIS)",
+    "category": "Immigration",
+    "description": "The path to U.S. citizenship for eligible lawful permanent residents: file Form N-400, complete biometrics and the English/civics tests, and take the Oath of Allegiance.",
+    "scope": {
+      "level": "federal",
+      "city": "Tallahassee",
+      "county": "Leon",
+      "state": "FL"
+    },
+    "eligibility": [
+      "Lawful permanent resident meeting continuous-residence and physical-presence rules",
+      "Good moral character; English and civics requirements apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File Form N-400 when eligible."
+      }
+    ],
+    "prerequisites": [
+      "File Form N-400, Application for Naturalization"
+    ],
+    "whatToBring": [
+      "Green card, travel history, tax records, and supporting documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USCIS — apply for naturalization",
+        "value": "https://www.uscis.gov/citizenship/apply-for-naturalization"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USCIS — apply for naturalization",
+        "url": "https://www.uscis.gov/citizenship/apply-for-naturalization"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees apply — check the current USCIS fee schedule",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.uscis.gov/citizenship/apply-for-naturalization"
+    ]
   }
 ]
