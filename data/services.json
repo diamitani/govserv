@@ -51018,5 +51018,1615 @@
       "DD-214 or other proof of service",
       "Medical evidence for the claimed conditions"
     ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "Apply for ODHS benefits through ONE",
+        "url": "https://www.oregon.gov/odhs/providers-partners/benefits-eligibility/pages/default.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODHS customer service (Mon-Fri, 7 a.m.-6 p.m. Pacific)",
+        "value": "800-699-9075"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "711"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-06-01",
+        "label": "SNAP interview requirement begins",
+        "note": "All SNAP households must complete an interview when applying for or renewing before benefits can be approved or renewed."
+      }
+    ],
+    "description": "Monthly food benefits for eligible Oregon households, issued on an EBT card. As of June 1, 2026, all households must complete an interview when they apply for or renew benefits.",
+    "eligibility": [
+      "Oregon residents with low income and limited resources",
+      "Varies by household size and circumstances - see program page"
+    ],
+    "id": "or-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon SNAP - Food Benefits",
+    "prerequisites": [
+      "Create a ONE Online account, or be ready to apply by phone or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odhs/food/Pages/snap-help.aspx",
+      "https://apps.oregon.gov/oregon-newsroom/OR/ODHS/Posts/Post/snap-interviews-required-for-all-households-starting-june-1-2026"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by household; the program page lists what to gather before your interview"
+    ]
+  },
+  {
+    "agency": "Oregon Health Authority (OHA)",
+    "applyLinks": [
+      {
+        "label": "OHP contact and application options",
+        "url": "https://www.oregon.gov/oha/hsd/ohp/pages/contact-us.aspx"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OHP applications",
+        "value": "800-699-9075"
+      },
+      {
+        "kind": "phone",
+        "label": "OHP member line",
+        "value": "1-800-273-0557"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online, by phone, or in person."
+      }
+    ],
+    "description": "Oregon's Medicaid program providing free or low-cost health coverage, including medical, dental, and mental health care. Applications are handled through ODHS; current members have a separate member line.",
+    "eligibility": [
+      "Oregon residents meeting income and household criteria",
+      "Varies - see program page"
+    ],
+    "id": "or-ohp",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Health Plan (OHP) - Medicaid",
+    "prerequisites": [
+      "None - apply directly online, by phone, or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/oha/hsd/ohp/pages/contact-us.aspx",
+      "https://www.oregon.gov/odhs/providers-partners/benefits-eligibility/pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies; the OHP contact page lists mailing address and application options"
+    ]
+  },
+  {
+    "agency": "Oregon Health Authority (OHA)",
+    "applyLinks": [
+      {
+        "label": "Find a WIC clinic by county",
+        "url": "https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/countyinfo.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC information (dial 211)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-735-2900"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your local WIC clinic."
+      }
+    ],
+    "description": "Nutrition support, breastfeeding help, and food benefits for pregnant and postpartum people and young children. WIC clinics operate in all 36 Oregon counties.",
+    "eligibility": [
+      "Varies - see program page",
+      "Clinics available in all 36 Oregon counties"
+    ],
+    "id": "or-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon WIC - Women, Infants, and Children",
+    "prerequisites": [
+      "Contact your local WIC clinic or dial 211 to start"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/countyinfo.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by clinic; call ahead"
+    ]
+  },
+  {
+    "agency": "Oregon Employment Department",
+    "applyLinks": [
+      {
+        "label": "File a claim (Frances Online)",
+        "url": "https://unemployment.oregon.gov/file-a-claim"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Insurance",
+        "value": "1-877-345-3484"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you lose work; file weekly claims to continue receiving benefits."
+      }
+    ],
+    "description": "Temporary wage replacement for workers who lost jobs through no fault of their own. Claims are filed through Frances Online, and weekly claims are required to keep receiving benefits.",
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Must meet Oregon wage and work requirements - see program page"
+    ],
+    "id": "or-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Unemployment Insurance",
+    "prerequisites": [
+      "Create a Frances Online account"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://unemployment.oregon.gov/file-a-claim"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Employment history and wage records - see the file-a-claim page for the checklist"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "TANF - how to apply",
+        "url": "https://www.oregon.gov/odhs/cash/Pages/tanf.aspx"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODHS customer service",
+        "value": "800-699-9075"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; an interview follows the application."
+      }
+    ],
+    "description": "Monthly cash benefits for low-income families with children, usually issued on an EBT card. Recipients may also get employment and training support through the JOBS program.",
+    "eligibility": [
+      "Oregon residents with low income and limited resources",
+      "Parents, caregivers, pregnancy, or qualifying young head-of-household - see program page"
+    ],
+    "id": "or-tanf",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon TANF - Temporary Assistance for Needy Families",
+    "prerequisites": [
+      "Apply online, by phone, or in person; an interview follows"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odhs/cash/Pages/tanf.aspx",
+      "https://www.oregon.gov/dhs/assistance/CASH/Pages/applytanf.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by household; call ahead"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "TA-DVS program page",
+        "url": "https://www.oregon.gov/odhs/dv/Pages/tadvs.aspx"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODHS customer service",
+        "value": "800-699-9075"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local ODHS office",
+        "value": "Apply by phone, in person, email, fax, or mail - see program page"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "90-day benefit period",
+        "note": "Benefits cover a 90-day period; all payment requests and verification must be completed within the 90 days - no extensions, though reapplication is possible."
+      }
+    ],
+    "description": "Short-term cash help for safety-related expenses (housing, moving, items to stay safe) for people at risk of domestic violence. Provides up to $3,200 over 90 days, based on circumstances.",
+    "eligibility": [
+      "Oregon residents meeting TANF income limits",
+      "Pregnant or caring for a minor child and at risk of domestic violence"
+    ],
+    "id": "or-tadvs",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance for Domestic Violence Survivors (TA-DVS)",
+    "prerequisites": [
+      "Apply through a local ODHS office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odhs/dv/Pages/tadvs.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification documents for safety-related expenses - see program page"
+    ]
+  },
+  {
+    "agency": "Oregon Housing and Community Services (OHCS)",
+    "applyLinks": [
+      {
+        "label": "LIHEAP fact sheet (PDF)",
+        "url": "https://www.oregon.gov:443/ohcs/energy-weatherization/Documents/factsheets/Low Income Home Energy Assistance Program Fact Sheet 2023.pdf"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Oregon energy assistance hotline (option 2)",
+        "value": "1-800-453-5511"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "LIHEAP runs on a seasonal program year; contact your local Community Action Agency for current availability."
+      }
+    ],
+    "description": "Help paying home heating and energy bills for low-income households, delivered through local Community Action Agencies. Income limits change each program year - check the current fact sheet before applying.",
+    "eligibility": [
+      "Low-income Oregon households - see current program fact sheet for limits",
+      "Apply through your local Community Action Agency"
+    ],
+    "id": "or-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Low Income Home Energy Assistance Program (LIHEAP)",
+    "prerequisites": [
+      "Contact your local Community Action Agency to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov:443/ohcs/energy-weatherization/Documents/factsheets/Low Income Home Energy Assistance Program Fact Sheet 2023.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income, energy bills, and ID - varies by agency; call ahead"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Early Learning and Care (DELC) / ODHS",
+    "applyLinks": [
+      {
+        "label": "ERDC family quick tips (PDF)",
+        "url": "https://www.oregon.gov/delc/providers/Documents/Quick%20Tips%20for%20Families%20EN.pdf"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ERDC / ONE customer service",
+        "value": "1-800-699-9075"
+      },
+      {
+        "kind": "phone",
+        "label": "Direct Pay Unit",
+        "value": "1-800-699-9074"
+      }
+    ],
+    "cost": "Free to apply - copay or overage may apply for some families",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; report household changes within 10 days."
+      }
+    ],
+    "description": "Child-care subsidy for families who are working, job searching, in school, on medical leave, or in approved family-wellbeing activities. Some families pay a copay; report household changes within 10 days.",
+    "eligibility": [
+      "Oregon families with qualifying employment, job search, education, or medical-leave activities",
+      "Income limits apply - see program page"
+    ],
+    "id": "or-erdc",
+    "languages": [
+      "English"
+    ],
+    "name": "Employment Related Day Care (ERDC)",
+    "prerequisites": [
+      "Apply through ONE online, by phone, or in person"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/delc/providers/Documents/Quick%20Tips%20for%20Families%20EN.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income, work or school schedule, and child-care provider information"
+    ]
+  },
+  {
+    "agency": "Oregon Employment Department",
+    "applyLinks": [
+      {
+        "label": "Paid Leave Oregon brochure (PDF)",
+        "url": "https://paidleave.oregon.gov/Documents/PaidLeave-Brochure-EN.pdf"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Paid Leave Oregon",
+        "value": "833-854-0166"
+      }
+    ],
+    "cost": "Free to apply - funded through payroll contributions",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply when leave is needed; see program page for notice requirements."
+      }
+    ],
+    "description": "Paid family, medical, and safe leave for Oregon employees. Workers earning at least $1,000 in a base or alternate base year may qualify for up to 12 weeks of leave (14 for pregnancy-related medical leave); job protection applies after more than 90 days with an employer.",
+    "eligibility": [
+      "Oregon employees who earned at least $1,000 in a base or alternate base year",
+      "Qualifying family, medical, or safe-leave reasons"
+    ],
+    "id": "or-paid-leave",
+    "languages": [
+      "English"
+    ],
+    "name": "Paid Leave Oregon",
+    "prerequisites": [
+      "None - apply directly online, by phone, or by mail"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://paidleave.oregon.gov/Documents/PaidLeave-Brochure-EN.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Wage records and documentation of the qualifying leave reason"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Revenue (DOR)",
+    "applyLinks": [
+      {
+        "label": "Oregon individual tax credits",
+        "url": "http://www.oregon.gov/dor/programs/individuals/Pages/credits.aspx"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "Oregon EIC questions",
+        "value": "eic.4me@dor.oregon.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax season",
+        "note": "Credits are claimed on the annual Oregon income tax return; see DOR for filing deadlines each year."
+      }
+    ],
+    "description": "Refundable state tax credits including the Oregon Earned Income Credit (available to ITIN filers), the Oregon Kids Credit, and the Working Family Household and Dependent Care Credit. Claimed on the Oregon income tax return.",
+    "eligibility": [
+      "Oregon tax filers meeting each credit's rules",
+      "Oregon EIC is available to ITIN filers"
+    ],
+    "id": "or-tax-credits",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Tax Credits - EIC, Kids Credit, Working Family Credit",
+    "prerequisites": [
+      "File an Oregon income tax return"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "http://www.oregon.gov/dor/programs/individuals/Pages/credits.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "W-2s, 1099s, and dependent care records - varies by credit"
+    ]
+  },
+  {
+    "agency": "Oregon Driver & Motor Vehicle Services (DMV)",
+    "applyLinks": [
+      {
+        "label": "Get a driver license (over 18)",
+        "url": "https://www.oregon.gov/odot/DMV/Pages/DriverID/licenseget.aspx"
+      },
+      {
+        "label": "DMV appointments",
+        "url": "https://www.oregon.gov/odot/dmv/pages/appointments.aspx"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV (Statewide Relay TTY 711)",
+        "value": "503-945-5000"
+      },
+      {
+        "kind": "web",
+        "label": "DMV appointments",
+        "value": "https://www.oregon.gov/odot/dmv/pages/appointments.aspx"
+      }
+    ],
+    "cost": "Fees apply - vary by credential and test",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "DMV offices accept standby service or appointments; drive tests are by appointment only."
+      }
+    ],
+    "description": "Oregon driver licenses, instruction permits, and ID cards, including REAL ID. Apply at a DMV office by appointment or standby; knowledge tests can also be taken online in multiple languages.",
+    "eligibility": [
+      "Oregon residency",
+      "Proof of identity and address; SSN or certification of no SSN",
+      "Pass vision, knowledge, and (if required) drive tests"
+    ],
+    "id": "or-dmv-license",
+    "languages": [
+      "English",
+      "Spanish",
+      "Arabic",
+      "Chinese (Simplified Mandarin)",
+      "Japanese",
+      "Korean",
+      "Russian",
+      "Vietnamese"
+    ],
+    "name": "Oregon Driver License and ID Services",
+    "prerequisites": [
+      "Decide whether you want a REAL ID",
+      "Study the Oregon Driver Manual"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odot/dmv/pages/appointments.aspx",
+      "https://www.oregon.gov/odot/DMV/Pages/DriverID/licenseget.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity and physical address",
+      "SSN or certification of no SSN",
+      "Out-of-state license if transferring"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation",
+        "url": "https://www.oregon.gov/dhs/EMPLOYMENT/VR/Pages/index.aspx"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vocational Rehabilitation",
+        "value": "https://www.oregon.gov/dhs/EMPLOYMENT/VR/Pages/index.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a local VR office."
+      }
+    ],
+    "description": "Employment services for Oregonians with disabilities, including individualized counseling, training, and job-placement support.",
+    "eligibility": [
+      "Oregonians with a documented disability",
+      "Must apply and be found eligible for VR services"
+    ],
+    "id": "or-vr",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Vocational Rehabilitation (VR)",
+    "prerequisites": [
+      "Apply for VR and complete the eligibility determination"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/dhs/EMPLOYMENT/VR/Pages/index.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medical or disability documentation - see local office for the list"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "VR Youth Services",
+        "url": "https://www.oregon.gov/odhs/vr-youth-services/pages/default.aspx"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VR Youth Services",
+        "value": "503-945-5880"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist",
+        "note": "Eligible applicants are placed on a waitlist; contact the program for current status."
+      }
+    ],
+    "description": "Pre-employment and employment services for youth ages 14-24 with a documented disability. STATUS: eligible applicants are placed on a waitlist - check with the program for current wait times.",
+    "eligibility": [
+      "Ages 14-24 with a documented disability",
+      "Must apply and be found eligible for VR"
+    ],
+    "id": "or-vr-youth",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon VR Youth Services (Ages 14-24)",
+    "prerequisites": [
+      "Apply for VR and be found eligible"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odhs/vr-youth-services/pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Disability documentation - see program page"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Veterans' Affairs (ODVA)",
+    "applyLinks": [
+      {
+        "label": "Veterans Emergency Financial Assistance",
+        "url": "https://www.oregon.gov/odva/agency-programs/grants/pages/emergency-assistance-grant.aspx"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODVA",
+        "value": "503-373-2085"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Monthly cutoff",
+        "note": "Applications are due by the 10th of each month (recurring)."
+      }
+    ],
+    "description": "STATUS: Open. One-time emergency financial help for Oregon veterans, paid directly to creditors. Applications are submitted through a Veteran Service Officer or Veteran Advocate, with a monthly deadline on the 10th.",
+    "eligibility": [
+      "Oregon veterans facing a financial emergency",
+      "Application must be submitted through a VSO or Veteran Advocate"
+    ],
+    "id": "or-veterans-emergency",
+    "languages": [
+      "English"
+    ],
+    "name": "ODVA Veterans Emergency Financial Assistance",
+    "prerequisites": [
+      "Work with a Veteran Service Officer or Veteran Advocate to submit"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odva/agency-programs/grants/pages/emergency-assistance-grant.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documentation of the emergency expense - see program page"
+    ]
+  },
+  {
+    "agency": "ADRC of Oregon / Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "About the ADRC",
+        "url": "https://adrcoforegon.org/consumersite/connect/about_adrc/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADRC of Oregon",
+        "value": "1-855-673-2372"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time for options counseling."
+      }
+    ],
+    "description": "Free, statewide options counseling for older adults and people with disabilities of any age or income - help understanding long-term care, benefits, and community services.",
+    "eligibility": [
+      "All ages, incomes, and disabilities - open to everyone"
+    ],
+    "id": "or-adrc",
+    "languages": [
+      "English"
+    ],
+    "name": "Aging and Disability Resource Connection (ADRC) of Oregon",
+    "prerequisites": [
+      "None - call or visit the website"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://adrcoforegon.org/consumersite/connect/about_adrc/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required for initial counseling"
+    ]
+  },
+  {
+    "agency": "211info",
+    "applyLinks": [
+      {
+        "label": "211info.org",
+        "url": "https://www.211info.org/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211info (dial 211)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "211info alternate",
+        "value": "866-698-6155"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available year-round."
+      }
+    ],
+    "description": "Statewide helpline connecting Oregonians to local help with housing, rent, utilities, food, and other basic needs. Interpreters available; OHCS directs residents here for housing resources.",
+    "eligibility": [
+      "Anyone in Oregon seeking local services"
+    ],
+    "id": "or-211",
+    "languages": [
+      "English"
+    ],
+    "name": "211info - Oregon Community Resource Navigation",
+    "prerequisites": [
+      "None - dial 211 or visit 211info.org"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.211info.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required"
+    ]
+  },
+  {
+    "agency": "Oregon Housing and Community Services (OHCS)",
+    "applyLinks": [
+      {
+        "label": "OHCS housing assistance",
+        "url": "https://www.oregon.gov/ohcs/housing-assistance/Pages/housing-stability.aspx"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 (housing resources)",
+        "value": "211"
+      },
+      {
+        "kind": "web",
+        "label": "OHCS housing assistance",
+        "value": "https://www.oregon.gov/ohcs/housing-assistance/Pages/housing-stability.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "OERAP closed",
+        "note": "OERAP is closed to new applications. Other housing programs are ongoing - call 211 for current availability."
+      }
+    ],
+    "description": "STATUS: The Oregon Emergency Rental Assistance Program (OERAP) is closed and no longer accepting applications. OHCS does not provide direct services; it routes residents to Community Action Agencies and 211 for rent assistance, utility help, shelter, and weatherization, plus homeownership assistance and wildfire recovery resources.",
+    "eligibility": [
+      "Varies by program - contact your local Community Action Agency or 211"
+    ],
+    "id": "or-housing-stability",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Housing and Community Services - Housing Assistance",
+    "prerequisites": [
+      "Call 211 or contact your local Community Action Agency"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/ohcs/housing-assistance/Pages/housing-stability.aspx",
+      "https://www.oregon.gov/ohcs/housing-assistance/Pages/emergency-rental-assistance.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies by program; call ahead"
+    ]
+  },
+  {
+    "agency": "Oregon Higher Education Coordinating Commission - Office of Student Access and Completion (OSAC)",
+    "applyLinks": [
+      {
+        "label": "Oregon Promise fact sheet 2026-27 (PDF)",
+        "url": "https://www.oregon.gov/highered/access/Documents/OSAC/2026-27%20OPG%20Fact%20Sheet%20for%20New%20Students.pdf"
+      },
+      {
+        "label": "ORSAA guide (PDF)",
+        "url": "https://www.oregonstudentaid.gov/media/3wlplisl/guide-to-the-orsaa-2025.pdf"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ORSAA support (press 3)",
+        "value": "1-541-687-7400"
+      },
+      {
+        "kind": "email",
+        "label": "ORSAA help",
+        "value": "ORSAAHelp@hecc.oregon.gov"
+      },
+      {
+        "kind": "email",
+        "label": "Oregon Promise questions",
+        "value": "OregonPromise@hecc.oregon.gov"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual filing",
+        "note": "Oregon Promise renewal: file the FAFSA or ORSAA by June 1 each year. New-student deadlines vary by year - see OregonStudentAid.gov."
+      }
+    ],
+    "description": "State grants for Oregon college students. The Oregon Opportunity Grant is need-based; Oregon Promise is a last-dollar grant covering community-college tuition (up to 12 credits per term, 90 credits total) with a final Student Aid Index limit of 27,000 for the Class of 2026. Apply by filing the FAFSA or the ORSAA; the ORSAA serves undocumented, DACA, TPS, and U-visa students and is kept confidential by HECC.",
+    "eligibility": [
+      "Oregon residents",
+      "File the FAFSA or ORSAA each year",
+      "Oregon Promise: SAI below 27,000 (Class of 2026), half-time enrollment, satisfactory academic progress"
+    ],
+    "id": "or-opportunity-grant",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Opportunity Grant and Oregon Promise",
+    "prerequisites": [
+      "Create an account and complete the FAFSA or ORSAA"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/highered/access/Documents/OSAC/2026-27%20OPG%20Fact%20Sheet%20for%20New%20Students.pdf",
+      "https://www.oregonstudentaid.gov/media/3wlplisl/guide-to-the-orsaa-2025.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Prior-prior year tax returns, records of untaxed income, and asset records - see the ORSAA guide"
+    ]
+  },
+  {
+    "agency": "Oregon Department of Human Services (ODHS)",
+    "applyLinks": [
+      {
+        "label": "ODHS benefits eligibility (ONE)",
+        "url": "https://www.oregon.gov/odhs/providers-partners/benefits-eligibility/pages/default.aspx"
+      }
+    ],
+    "category": "Immigration",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODHS customer service",
+        "value": "800-699-9075"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through ODHS."
+      }
+    ],
+    "description": "Cash assistance and other services for refugees when they first arrive in Oregon, integrated into the ONE eligibility system alongside OHP, SNAP, and TANF.",
+    "eligibility": [
+      "Refugees with eligible immigration status newly arriving in Oregon",
+      "Varies - see program page"
+    ],
+    "id": "or-refugee-services",
+    "languages": [
+      "English"
+    ],
+    "name": "ODHS Refugee Services",
+    "prerequisites": [
+      "Apply online, by phone, or in person through ODHS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odhs/providers-partners/benefits-eligibility/pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of immigration status and identity - see program page"
+    ]
+  },
+  {
+    "agency": "Oregon Secretary of State, Corporation Division",
+    "applyLinks": [
+      {
+        "label": "Business registration FAQ and e-filing",
+        "url": "https://sos.oregon.gov/business/Pages/faq.aspx"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business registration FAQ",
+        "value": "https://sos.oregon.gov/business/Pages/faq.aspx"
+      },
+      {
+        "kind": "email",
+        "label": "Business Registry (add to trusted senders)",
+        "value": "obr.noreply@sos.oregon.gov"
+      }
+    ],
+    "cost": "Fees apply - vary by filing type",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time; renewals due on the anniversary of the original filing (assumed names every two years, other entities annually)."
+      }
+    ],
+    "description": "Register an assumed business name (DBA), LLC, corporation, or nonprofit with the State of Oregon. Oregon law requires assumed-name registration; staff review typically begins within one business day of online filing.",
+    "eligibility": [
+      "Anyone doing business in Oregon under an assumed name or forming a business entity"
+    ],
+    "id": "or-sos-business",
+    "languages": [
+      "English"
+    ],
+    "name": "Oregon Business Registration - Secretary of State",
+    "prerequisites": [
+      "Check name availability in the Oregon Business Registry",
+      "Enable cookies in your browser for the e-filing application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "OR"
+    },
+    "sources": [
+      "https://sos.oregon.gov/business/Pages/faq.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name, owner and address information; banking-term names need Division of Financial Regulation approval first"
+    ]
+  },
+  {
+    "agency": "Legal Aid Services of Oregon (LASO)",
+    "applyLinks": [
+      {
+        "label": "Portland Regional Office",
+        "url": "https://lasoregon.org/locations/portland-regional-office/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Portland Regional Office intake",
+        "value": "503-224-4086"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free intake",
+        "value": "1-800-228-6958"
+      },
+      {
+        "kind": "phone",
+        "label": "Public benefits hotline",
+        "value": "800-520-5292"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the intake line; currently phone intake only, no walk-ins."
+      }
+    ],
+    "description": "Free civil legal help for low-income Oregonians in Clackamas, Hood River, Multnomah, Sherman, and Wasco counties. Intake is currently by phone only - no walk-ins.",
+    "eligibility": [
+      "Low-income residents of Clackamas, Hood River, Multnomah, Sherman, or Wasco counties",
+      "Civil (non-criminal) legal issues"
+    ],
+    "id": "portland-laso",
+    "languages": [
+      "English",
+      "Spanish",
+      "American Sign Language"
+    ],
+    "name": "Legal Aid Services of Oregon - Portland Regional Office",
+    "prerequisites": [
+      "Call the intake line - no walk-ins currently"
+    ],
+    "scope": {
+      "county": "Multnomah",
+      "level": "county",
+      "state": "OR"
+    },
+    "sources": [
+      "https://lasoregon.org/locations/portland-regional-office/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue - the intake line will advise"
+    ]
+  },
+  {
+    "agency": "TriMet",
+    "applyLinks": [
+      {
+        "label": "Honored Citizen fare program",
+        "url": "http://trimet.org/fares/honoredcitizen.htm"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Honored Citizen fare",
+        "value": "http://trimet.org/fares/honoredcitizen.htm"
+      }
+    ],
+    "cost": "Reduced fare - current fares listed on the program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; personalized Hop cards are issued after approval."
+      }
+    ],
+    "description": "Reduced transit fares across the Portland metro area, including Gresham. Available to riders 65 and older, Medicare recipients, people with disabilities, riders with qualifying income, veterans, active military, and reservists; most applicants need a personalized Hop card with proof of eligibility.",
+    "eligibility": [
+      "Age 65+",
+      "Medicare recipients",
+      "People with disabilities",
+      "Qualifying-income riders",
+      "Veterans, active military, and reservists"
+    ],
+    "id": "portland-trimet",
+    "languages": [
+      "English"
+    ],
+    "name": "TriMet Honored Citizen Reduced Fare",
+    "prerequisites": [
+      "Get a personalized Hop card if applying on disability, income, or military status",
+      "Provide proof of eligibility"
+    ],
+    "scope": {
+      "city": "Portland",
+      "level": "city",
+      "state": "OR"
+    },
+    "sources": [
+      "http://trimet.org/fares/honoredcitizen.htm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age, Medicare card, disability documentation, income proof, or military ID - varies by category"
+    ]
+  },
+  {
+    "agency": "Multnomah County",
+    "applyLinks": [
+      {
+        "label": "Multnomah County mental health",
+        "url": "https://multco.us/news/board-proclaims-may-mental-health-month-multnomah-county"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Multnomah County crisis line",
+        "value": "503-988-4888"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Crisis line available for urgent needs."
+      }
+    ],
+    "description": "County crisis line for urgent mental-health needs in Multnomah County, including Portland and Gresham.",
+    "eligibility": [
+      "Anyone in Multnomah County experiencing a mental-health crisis"
+    ],
+    "id": "portland-multco-crisis",
+    "languages": [
+      "English"
+    ],
+    "name": "Multnomah County Mental Health Crisis Line",
+    "prerequisites": [
+      "None - call directly"
+    ],
+    "scope": {
+      "county": "Multnomah",
+      "level": "county",
+      "state": "OR"
+    },
+    "sources": [
+      "https://multco.us/news/board-proclaims-may-mental-health-month-multnomah-county"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required"
+    ]
+  },
+  {
+    "agency": "Cherriots (Salem Area Mass Transit District)",
+    "applyLinks": [
+      {
+        "label": "Cherriots Reduced Fare",
+        "url": "https://ww.cherriots.org/reducedfare/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cherriots customer service",
+        "value": "503-588-2877"
+      },
+      {
+        "kind": "in-person",
+        "label": "Cherriots customer service office",
+        "value": "220 High Street NE, Salem"
+      }
+    ],
+    "cost": "Free - original card free; $5 replacement",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply in person during customer service hours."
+      }
+    ],
+    "description": "Reduced Salem-area transit fares. Riders 60 and older can simply show age ID; people with qualifying temporary or permanent disabilities may apply for a Reduced Fare ID card at the Cherriots customer service office.",
+    "eligibility": [
+      "Age 60+",
+      "People with qualifying temporary or permanent disabilities"
+    ],
+    "id": "salem-cherriots",
+    "languages": [
+      "English"
+    ],
+    "name": "Cherriots Reduced Fare ID",
+    "prerequisites": [
+      "Apply in person at 220 High Street NE, Salem, with photo ID"
+    ],
+    "scope": {
+      "city": "Salem",
+      "level": "city",
+      "state": "OR"
+    },
+    "sources": [
+      "https://ww.cherriots.org/reducedfare/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Disability documentation if applying on disability"
+    ]
+  },
+  {
+    "agency": "Marion County / Oregon Department of Veterans' Affairs (ODVA)",
+    "applyLinks": [
+      {
+        "label": "Marion County VSO (ODVA)",
+        "url": "https://www.oregon.gov/odva/services/pages/counties/marion.aspx"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Marion County VSO",
+        "value": "971-707-4400"
+      },
+      {
+        "kind": "email",
+        "label": "Marion County VSO",
+        "value": "info.vso@mwvcaa.org"
+      },
+      {
+        "kind": "in-person",
+        "label": "Veteran Service Office",
+        "value": "780 Commercial Street SE, Suite 302, Salem"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-ins Monday-Wednesday 9-11 a.m. and 1-4 p.m.; closed noon-1 p.m. and the last day of the month."
+      }
+    ],
+    "description": "Free help with VA claims and veteran benefits for Marion County residents. Walk-ins Monday-Wednesday 9-11 a.m. and 1-4 p.m.; front desk only Thursday-Friday; closed noon-1 p.m. and the last day of the month.",
+    "eligibility": [
+      "Veterans and their families in Marion County"
+    ],
+    "id": "salem-marion-vso",
+    "languages": [
+      "English"
+    ],
+    "name": "Marion County Veteran Service Office",
+    "prerequisites": [
+      "None - walk in during walk-in hours or call ahead"
+    ],
+    "scope": {
+      "county": "Marion",
+      "level": "county",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.oregon.gov/odva/services/pages/counties/marion.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD214 or discharge papers, VA correspondence, and ID - call ahead for the full list"
+    ]
+  },
+  {
+    "agency": "Washington County Behavioral Health",
+    "applyLinks": [
+      {
+        "label": "Washington County crisis services",
+        "url": "https://www.washingtoncountyor.gov/behavioral-health/crisis-services"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Washington County crisis line (24/7)",
+        "value": "503-291-9111"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Crisis line answered 24/7."
+      }
+    ],
+    "description": "Urgent mental-health and substance-use support for Washington County, including Hillsboro - a 24/7 crisis line plus the Hawthorn walk-in center, mobile crisis, and response teams. Crisis services are free even without insurance.",
+    "eligibility": [
+      "Anyone in Washington County experiencing a mental-health or substance-use crisis"
+    ],
+    "id": "hillsboro-waco-crisis",
+    "languages": [
+      "English"
+    ],
+    "name": "Washington County Crisis Services",
+    "prerequisites": [
+      "None - call the crisis line directly"
+    ],
+    "scope": {
+      "county": "Washington",
+      "level": "county",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.washingtoncountyor.gov/behavioral-health/crisis-services",
+      "https://www.washingtoncountyor.gov/behavioral-health/hawthorn-walk-center"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required"
+    ]
+  },
+  {
+    "agency": "Washington County Behavioral Health / LifeWorks NW",
+    "applyLinks": [
+      {
+        "label": "Hawthorn Walk-In Center",
+        "url": "https://www.washingtoncountyor.gov/behavioral-health/hawthorn-walk-center"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Crisis line (24/7)",
+        "value": "503-291-9111"
+      },
+      {
+        "kind": "in-person",
+        "label": "Hawthorn Walk-In Center",
+        "value": "5250 NE Elam Young Parkway, Suite 100, Hillsboro"
+      }
+    ],
+    "cost": "Free - no out-of-pocket cost; insurance billed if you have it",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-in hours 9 a.m.-7 p.m., seven days a week."
+      }
+    ],
+    "description": "Walk-in urgent care for mental-health and addiction concerns in Hillsboro, open 9 a.m.-7 p.m. seven days a week by the Hawthorn Farm MAX stop. Assessment, crisis counseling, peer support, and referrals; no out-of-pocket cost and no insurance required.",
+    "eligibility": [
+      "Anyone needing urgent behavioral-health help - Washington County residents call the county crisis line first"
+    ],
+    "id": "hillsboro-hawthorn",
+    "languages": [
+      "English"
+    ],
+    "name": "Hawthorn Walk-In Center",
+    "prerequisites": [
+      "None - walk in during open hours; call 503-291-9111 for guidance"
+    ],
+    "scope": {
+      "city": "Hillsboro",
+      "level": "city",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.washingtoncountyor.gov/behavioral-health/hawthorn-walk-center"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required; bring insurance information if you have it (not required)"
+    ]
+  },
+  {
+    "agency": "Lane County Behavioral Health",
+    "applyLinks": [
+      {
+        "label": "Mobile Crisis Services of Lane County (PDF)",
+        "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Health%20and%20Human%20Services/Behavioral%20Health/MCS-LC/One%20Pagers/What%20is%20Mobile%20Crisis%20Services%20of%20Lane%20County%20PT2%20One%20Pager.pdf"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lane County Crisis Line (24/7)",
+        "value": "541-682-1001"
+      },
+      {
+        "kind": "phone",
+        "label": "988 Suicide and Crisis Lifeline (call or text)",
+        "value": "988"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Crisis line answered 24/7."
+      }
+    ],
+    "description": "Mobile crisis response for behavioral-health emergencies across Lane County, including Eugene. Reach by calling or texting 988 or the Lane County Crisis Line; the team provides de-escalation, safety planning, referrals, and a follow-up check within 72 hours.",
+    "eligibility": [
+      "Anyone in Lane County experiencing a behavioral-health crisis"
+    ],
+    "id": "eugene-lane-crisis",
+    "languages": [
+      "English"
+    ],
+    "name": "Mobile Crisis Services of Lane County (MCS-LC)",
+    "prerequisites": [
+      "None - call or text 988 or 541-682-1001"
+    ],
+    "scope": {
+      "county": "Lane",
+      "level": "county",
+      "state": "OR"
+    },
+    "sources": [
+      "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Health%20and%20Human%20Services/Behavioral%20Health/MCS-LC/One%20Pagers/What%20is%20Mobile%20Crisis%20Services%20of%20Lane%20County%20PT2%20One%20Pager.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None required"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Register for care - VA Portland",
+        "url": "https://www.va.gov/portland-health-care/register-for-care-replaced"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA Portland enrollment",
+        "value": "503-273-5069"
+      },
+      {
+        "kind": "phone",
+        "label": "VA Portland enrollment (ext. 55069)",
+        "value": "503-220-8262"
+      },
+      {
+        "kind": "web",
+        "label": "Register for VA Portland care",
+        "value": "https://www.va.gov/portland-health-care/register-for-care-replaced"
+      }
+    ],
+    "cost": "Free to enroll - copays may apply based on priority group",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-in enrollment in Portland, Hillsboro, and Salem; Mon-Fri 8 a.m.-4 p.m., federal holidays excluded."
+      }
+    ],
+    "description": "Enroll for VA health care at the Portland VA, with walk-in enrollment also available in Hillsboro and Salem. Apply online with VA Form 10-10EZ, by phone, or in person, Monday-Friday 8 a.m.-4 p.m. (federal holidays excluded).",
+    "eligibility": [
+      "Veterans - eligibility determined by VA based on service history and other factors"
+    ],
+    "id": "fed-va-portland",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Portland Health Care System - Enrollment",
+    "prerequisites": [
+      "Complete VA Form 10-10EZ"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "OR"
+    },
+    "sources": [
+      "https://www.va.gov/portland-health-care/register-for-care-replaced"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Discharge papers (DD214)",
+      "Disability award letters if applicable",
+      "Prior-year income information in some cases",
+      "Insurance cards and government ID"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration (SBA)",
+    "applyLinks": [
+      {
+        "label": "SBA Portland District Office",
+        "url": "https://sba.gov/or/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Portland District Office",
+        "value": "503-326-2682"
+      },
+      {
+        "kind": "in-person",
+        "label": "SBA Portland office (appointment only)",
+        "value": "419 SW 11th Avenue, Suite 310, Portland, OR 97205"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open Monday-Friday 8 a.m.-4:30 p.m. by appointment only; closed federal holidays."
+      }
+    ],
+    "description": "SBA's Oregon district office in Portland: help with funding programs, counseling, federal contracting certifications, and disaster recovery, plus connections to lenders and partner organizations. Serves 30 Oregon counties.",
+    "eligibility": [
+      "Small businesses in the 30 Oregon counties served by the Portland District Office"
+    ],
+    "id": "fed-sba-portland",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA Portland District Office",
+    "prerequisites": [
+      "Schedule an appointment for in-person help"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "OR"
+    },
+    "sources": [
+      "https://sba.gov/or/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business plan and financial records - varies by program; call ahead"
+    ]
   }
 ]
