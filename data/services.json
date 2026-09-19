@@ -31907,5 +31907,1667 @@
     "sources": [
       "http://www.hud.gov/states/indiana"
     ]
+  },
+  {
+    "agency": "Maryland Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply for benefits online — Maryland Benefits",
+        "url": "https://marylandbenefits.gov/home/"
+      },
+      {
+        "label": "How to apply for the Food Supplement Program — DHS",
+        "url": "https://dhs.maryland.gov/supplemental-nutrition-assistance-program/applying-for-the-food-supplement-program/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-800-332-6347"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online",
+        "value": "https://marylandbenefits.gov/home/"
+      }
+    ],
+    "cost": "Free to apply; benefit amounts vary by household size and income",
+    "deadlines": [],
+    "description": "Maryland's Food Supplement Program provides monthly food benefits loaded onto an Independence Card to help eligible low-income households buy groceries. Applications are accepted online, by mail, by phone, or in person at a local Department of Social Services office; standard applications are processed within 30 days, and expedited review is available for qualifying households within seven days.",
+    "eligibility": [
+      "Maryland residents with household income within federal SNAP limits (limits vary by household size and are published by DHS)"
+    ],
+    "id": "md-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — Food Supplement Program",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://dhs.maryland.gov/supplemental-nutrition-assistance-program/applying-for-the-food-supplement-program/",
+      "https://marylandbenefits.gov/home/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Documentation of expenses such as rent and utility bills"
+    ]
+  },
+  {
+    "agency": "Maryland Health Benefit Exchange / Maryland Health Connection",
+    "applyLinks": [
+      {
+        "label": "Enroll in Medicaid — Maryland Health Connection",
+        "url": "https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Maryland Health Connection (help in 200+ languages)",
+        "value": "1-855-642-8572"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid enrollment information",
+        "value": "https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/"
+      }
+    ],
+    "cost": "Free or low-cost coverage depending on income",
+    "deadlines": [],
+    "description": "Maryland Medicaid provides free or low-cost health coverage to eligible residents, including families, pregnant individuals, children, older adults, and people with disabilities. Enrollment in Medicaid is open year-round through Maryland Health Connection; private-plan open enrollment runs November 1 through January 15. Income limits for coverage effective February 1, 2026 apply.",
+    "eligibility": [
+      "Maryland residents who meet income limits effective February 1, 2026 (limits vary by household size)"
+    ],
+    "id": "md-medicaid",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Maryland Medicaid (Medical Assistance)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/",
+      "https://www.marylandhealthconnection.gov/faqs/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maryland residency",
+      "Proof of income",
+      "Household information"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "OHEP program information and application — DHS",
+        "url": "https://dhs.maryland.gov/ohep"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-800-332-6347"
+      },
+      {
+        "kind": "web",
+        "label": "OHEP program information",
+        "value": "https://dhs.maryland.gov/ohep"
+      }
+    ],
+    "cost": "Free to apply; benefit amounts vary",
+    "deadlines": [],
+    "description": "The Office of Home Energy Programs helps Maryland households pay heating, cooling, and electric bills through the Maryland Energy Assistance Program and related funds. The program year runs July 1 through June 30. Applications are accepted through Maryland Benefits and local Department of Social Services offices.",
+    "eligibility": [
+      "Maryland households that meet income guidelines (guidelines vary by household size and program)"
+    ],
+    "id": "md-ohep",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Office of Home Energy Programs (OHEP) — Energy Assistance",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://dhs.maryland.gov/ohep"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Recent utility bill"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Health",
+    "applyLinks": [
+      {
+        "label": "How to apply for WIC — Maryland Department of Health",
+        "url": "https://health.maryland.gov/phpa/wic/Pages/wic-apply.aspx"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Maryland WIC hotline",
+        "value": "1-800-242-4942"
+      },
+      {
+        "kind": "phone",
+        "label": "Baltimore City WIC",
+        "value": "410-396-9427"
+      },
+      {
+        "kind": "phone",
+        "label": "Frederick County WIC",
+        "value": "301-600-2507"
+      },
+      {
+        "kind": "phone",
+        "label": "Howard County WIC",
+        "value": "410-313-7510"
+      },
+      {
+        "kind": "phone",
+        "label": "Montgomery County WIC (Community Clinic)",
+        "value": "301-762-9426"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "WIC provides nutrition support, healthy food benefits, breastfeeding support, and health care referrals for pregnant and postpartum women, infants, and children under age five who meet income guidelines. Services are delivered through local WIC agencies across Maryland.",
+    "eligibility": [
+      "Pregnant and postpartum women, infants, and children under age five who are Maryland residents, meet income guidelines, and are determined to be at nutritional risk"
+    ],
+    "id": "md-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Women, Infants, and Children (WIC) Nutrition Program",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://health.maryland.gov/phpa/wic/Pages/wic-apply.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Maryland residency"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "TCA program information — DHS",
+        "url": "https://dhs.maryland.gov/?p=17390"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS customer service",
+        "value": "1-800-332-6347"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online",
+        "value": "https://marylandbenefits.gov/home/"
+      }
+    ],
+    "cost": "Free to apply; benefit amounts vary",
+    "deadlines": [],
+    "description": "Temporary Cash Assistance is Maryland's TANF program, providing monthly cash assistance to families with dependent children who meet financial and technical criteria. Participants cooperate with child support enforcement and engage in approved work activities.",
+    "eligibility": [
+      "Families with dependent children who meet Maryland's financial and technical eligibility criteria, including cooperation with child support enforcement"
+    ],
+    "id": "md-tca",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Temporary Cash Assistance (TCA)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://dhs.maryland.gov/?p=17390"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and assets",
+      "Proof of Maryland residency",
+      "Information about household members"
+    ]
+  },
+  {
+    "agency": "Maryland Division of Unemployment Insurance",
+    "applyLinks": [
+      {
+        "label": "File or manage an unemployment claim — Division of Unemployment Insurance",
+        "url": "https://labor.maryland.gov/unemployment-insurance/claimants/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "File a claim (BEACON support line)",
+        "value": "667-207-6520"
+      },
+      {
+        "kind": "phone",
+        "label": "Automated claim information",
+        "value": "410-949-0022"
+      },
+      {
+        "kind": "phone",
+        "label": "Automated claim information (toll-free)",
+        "value": "800-827-4839"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance claimants page",
+        "value": "https://labor.maryland.gov/unemployment-insurance/claimants/"
+      }
+    ],
+    "cost": "Free to file",
+    "deadlines": [],
+    "description": "Unemployment Insurance pays temporary benefits to workers who lost their jobs through no fault of their own. Eligible claimants can receive up to 26 weeks of benefits. Claims are filed through the BEACON portal or by phone; claimants must register with the Maryland Workforce Exchange, complete weekly claim certifications, and document their job-search activities.",
+    "eligibility": [
+      "Workers who lost employment through no fault of their own and meet Maryland's earnings and work-search requirements"
+    ],
+    "id": "md-unemployment",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Unemployment Insurance Benefits",
+    "prerequisites": [
+      "Registration with the Maryland Workforce Exchange",
+      "Weekly claim certifications and job-search documentation"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://labor.maryland.gov/unemployment-insurance/claimants/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number",
+      "Employment history and employer information",
+      "Proof of wages"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Housing and Community Development",
+    "applyLinks": [
+      {
+        "label": "Maryland Mortgage Program — find a lender and apply",
+        "url": "https://mmp.maryland.gov/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maryland Mortgage Program",
+        "value": "https://mmp.maryland.gov/"
+      }
+    ],
+    "cost": "Free to apply; standard mortgage fees and interest apply",
+    "deadlines": [],
+    "description": "The Maryland Mortgage Program offers home loans through approved lenders, including the 1st Time Advantage loan for first-time buyers and the Flex loan for repeat buyers, plus down payment and closing-cost assistance. Most MMP products include partner-match funds of up to $2,500.",
+    "eligibility": [
+      "Homebuyers purchasing a primary residence in Maryland who meet program income limits (limits vary by county and program)"
+    ],
+    "id": "md-mmp",
+    "languages": [
+      "English"
+    ],
+    "name": "Maryland Mortgage Program (MMP) — Home Loans",
+    "prerequisites": [
+      "Application through a participating MMP lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://mmp.maryland.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Credit and employment documentation",
+      "Home purchase contract"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Veterans and Military Families",
+    "applyLinks": [
+      {
+        "label": "How to apply for veterans benefits — DVMF",
+        "url": "https://veterans.maryland.gov/benefits-services/how-apply-benefits"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department main line",
+        "value": "410-260-3838"
+      },
+      {
+        "kind": "phone",
+        "label": "Department toll-free",
+        "value": "866-793-1577"
+      },
+      {
+        "kind": "phone",
+        "label": "Service Program (benefits claims help)",
+        "value": "410-230-4444"
+      },
+      {
+        "kind": "phone",
+        "label": "Service Program toll-free",
+        "value": "800-446-4926"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Department of Veterans and Military Families provides free VA-accredited claims and benefits assistance to veterans, dependents, and survivors, including help filing for VA compensation, pension, education, and burial benefits. No benefits specialists are stationed at the Annapolis headquarters — contact the Service Program office or toll-free line.",
+    "eligibility": [
+      "Veterans, their dependents, and survivors seeking VA benefits"
+    ],
+    "id": "md-veterans-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "Veterans Benefits Claims Assistance",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://veterans.maryland.gov/benefits-services/how-apply-benefits",
+      "https://veterans.maryland.gov/about-us/contact-us"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD-214 or other proof of military service",
+      "Medical records relevant to the claim",
+      "Proof of dependent status (if applicable)"
+    ]
+  },
+  {
+    "agency": "Division of Rehabilitation Services, Maryland State Department of Education",
+    "applyLinks": [
+      {
+        "label": "Apply for vocational rehabilitation — DORS",
+        "url": "https://dors.maryland.gov/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DORS main line",
+        "value": "410-554-9442"
+      },
+      {
+        "kind": "phone",
+        "label": "DORS videophone",
+        "value": "410-405-7054"
+      },
+      {
+        "kind": "email",
+        "label": "DORS email",
+        "value": "dors@maryland.gov"
+      }
+    ],
+    "cost": "Free; some purchased services may depend on financial need",
+    "deadlines": [],
+    "description": "The Division of Rehabilitation Services provides vocational rehabilitation — career counseling, training, education, job placement, and assistive technology — for Marylanders whose physical or mental impairment creates a substantial impediment to employment and who require rehabilitation services to work.",
+    "eligibility": [
+      "Maryland residents with a physical or mental impairment that creates a substantial impediment to employment and who require vocational rehabilitation services"
+    ],
+    "id": "md-dors",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Vocational Rehabilitation Services (DORS)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://dors.maryland.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Medical documentation of disability",
+      "Employment and education history"
+    ]
+  },
+  {
+    "agency": "Maryland Legal Aid",
+    "applyLinks": [
+      {
+        "label": "Get help with a civil legal issue — Maryland Legal Aid",
+        "url": "https://www.mdlab.org/get-help-services/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intake line (Mon–Fri, 9:00 a.m.–2:30 p.m.)",
+        "value": "1-888-465-2468"
+      },
+      {
+        "kind": "web",
+        "label": "Get help — Maryland Legal Aid",
+        "value": "https://www.mdlab.org/get-help-services/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "Maryland Legal Aid provides free civil legal services to financially eligible Marylanders through 12 offices statewide, including eviction defense and Tenant Right to Counsel cases. Eligibility is generally limited to households below 125% of the federal poverty guidelines. The program does not handle active criminal matters, immigration cases, car accidents, small claims, or attorney misconduct complaints.",
+    "eligibility": [
+      "Maryland residents with household income generally below 125% of the federal poverty guidelines who have an eligible civil legal matter"
+    ],
+    "id": "md-legal-aid",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Maryland Legal Aid — Free Civil Legal Services",
+    "prerequisites": [
+      "Phone intake screening to determine eligibility"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.mdlab.org/get-help-services/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Documents related to the legal issue (lease, court papers, notices)"
+    ]
+  },
+  {
+    "agency": "Maryland Motor Vehicle Administration",
+    "applyLinks": [
+      {
+        "label": "New Maryland residents — license and registration — MVA",
+        "url": "https://mva.maryland.gov/your-mva-guide/new-maryland-residents"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "New Maryland residents guide — MVA",
+        "value": "https://mva.maryland.gov/your-mva-guide/new-maryland-residents"
+      }
+    ],
+    "cost": "Fees vary by transaction (license, ID, title, registration)",
+    "deadlines": [],
+    "description": "The Maryland Motor Vehicle Administration issues driver's licenses, learner's permits, photo ID cards, and vehicle title and registration. New Maryland residents must obtain a Maryland license and title/register their vehicles within 60 days of moving to the state. More than 60 common transactions are available online through myMVA.",
+    "eligibility": [
+      "Maryland residents, including new residents who must obtain a Maryland license within 60 days of moving to the state"
+    ],
+    "id": "md-mva-id",
+    "languages": [
+      "English"
+    ],
+    "name": "Driver's License and ID Card Services (MVA)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://mva.maryland.gov/your-mva-guide/new-maryland-residents"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity and age",
+      "Proof of Maryland residency",
+      "Proof of Social Security number",
+      "Out-of-state license (for new residents)"
+    ]
+  },
+  {
+    "agency": "State Department of Assessments and Taxation",
+    "applyLinks": [
+      {
+        "label": "Register and manage your business — Maryland Business Express",
+        "url": "https://businessexpress.maryland.gov/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SDAT business services",
+        "value": "410-767-1330"
+      },
+      {
+        "kind": "web",
+        "label": "Maryland Business Express portal",
+        "value": "https://businessexpress.maryland.gov/"
+      }
+    ],
+    "cost": "Free to browse; state filing fees vary (e.g., LLC formation and annual reports have set fees)",
+    "deadlines": [],
+    "description": "Maryland Business Express is the state's one-stop portal for planning, starting, and managing a business: form an LLC or corporation, register a trade name, file annual reports and personal property returns, and manage registrations. Standard review takes six to eight weeks; expedited processing is available for an extra fee.",
+    "eligibility": [
+      "Individuals and entities forming or operating a business in Maryland"
+    ],
+    "id": "md-sdat-business",
+    "languages": [
+      "English"
+    ],
+    "name": "Maryland Business Express — Business Registration",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://businessexpress.maryland.gov/",
+      "https://dat.maryland.gov/businesses/Pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Business name and principal office address",
+      "Registered agent information",
+      "Organizer or incorporator details"
+    ]
+  },
+  {
+    "agency": "Comptroller of Maryland",
+    "applyLinks": [
+      {
+        "label": "Maryland Tax Connect announcement — Comptroller of Maryland",
+        "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/md/com-docs/a-new-way-to-file-and-manage-your-state-income-taxes-online.pdf"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Taxpayer services (unverified)",
+        "value": "1-800-MD-TAXES"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "Maryland Tax Connect is the Comptroller's free online portal for filing and managing Maryland state income taxes, launched September 1, 2026 to replace iFile. Taxpayers can file returns, make payments, check refund status, and manage their tax accounts online.",
+    "eligibility": [
+      "Individual taxpayers filing Maryland state income tax returns"
+    ],
+    "id": "md-tax-connect",
+    "languages": [
+      "English"
+    ],
+    "name": "Maryland Tax Connect — Free State Tax Filing",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.marylandcomptroller.gov/content/dam/mdcomp/md/com-docs/a-new-way-to-file-and-manage-your-state-income-taxes-online.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number",
+      "W-2 and 1099 forms",
+      "Prior-year tax information"
+    ]
+  },
+  {
+    "agency": "Maryland Higher Education Commission",
+    "applyLinks": [
+      {
+        "label": "MDCAPS — apply for Maryland state financial aid",
+        "url": "https://mdcaps.mhec.state.md.us"
+      },
+      {
+        "label": "Workforce Shortage Student Assistance Grant — program details",
+        "url": "https://mhec.maryland.gov/Preparing/Pages/FinancialAid/ProgramDescriptions/prog_WSSAG.aspx"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MHEC Office of Student Financial Assistance (unverified)",
+        "value": "410-767-3300"
+      },
+      {
+        "kind": "web",
+        "label": "MDCAPS student portal",
+        "value": "https://mdcaps.mhec.state.md.us"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "FAFSA priority deadline",
+        "note": "March 1 for most Maryland state aid programs"
+      }
+    ],
+    "description": "The Maryland Higher Education Commission administers more than 27 state scholarships and grants through the MHEC One-App in MDCAPS, including the Howard P. Rawlings Guaranteed Access and Educational Assistance Grants and the Workforce Shortage Student Assistance Grant Service Obligation. Most state aid requires the FAFSA by March 1; students ineligible for federal aid (including certain undocumented students) file the MSFAA instead.",
+    "eligibility": [
+      "Maryland residents enrolled or planning to enroll at an eligible Maryland postsecondary institution who meet program-specific requirements"
+    ],
+    "id": "md-mhec-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Maryland State Financial Aid (MDCAPS One-App)",
+    "prerequisites": [
+      "FAFSA filed by March 1 (or MSFAA for students ineligible for federal aid)",
+      "MHEC One-App completed in MDCAPS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://mdcaps.mhec.state.md.us",
+      "https://mhec.maryland.gov/Preparing/Pages/FinancialAid/ProgramDescriptions/prog_WSSAG.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number or MSFAA eligibility documentation",
+      "Tax and income information",
+      "School enrollment information"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Aging",
+    "applyLinks": [
+      {
+        "label": "Aging and long-term services information — Maryland Department of Aging",
+        "url": "https://aging.maryland.gov/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Maryland Access Point (unverified)",
+        "value": "1-844-MAP-LINK"
+      },
+      {
+        "kind": "web",
+        "label": "Maryland Department of Aging",
+        "value": "https://aging.maryland.gov/"
+      }
+    ],
+    "cost": "Free information and referral services",
+    "deadlines": [],
+    "description": "Maryland Access Point is the state's single-entry point for information and help with long-term services and supports for older adults, people with disabilities, and caregivers. Specialists provide information, screenings, referrals, and application help with no service fee for the information services.",
+    "eligibility": [
+      "Older adults, people with disabilities, and their caregivers seeking long-term services and supports in Maryland"
+    ],
+    "id": "md-aging",
+    "languages": [
+      "English"
+    ],
+    "name": "Maryland Access Point — Aging and Disability Resources",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://aging.maryland.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identification",
+      "Information about care needs"
+    ]
+  },
+  {
+    "agency": "Maryland Office of the Attorney General",
+    "applyLinks": [
+      {
+        "label": "File a consumer complaint — Attorney General",
+        "url": "https://www.marylandattorneygeneral.gov/Pages/CPD/Complaint.aspx"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Consumer hotline",
+        "value": "410-528-8662"
+      },
+      {
+        "kind": "phone",
+        "label": "Consumer hotline (toll-free in Maryland)",
+        "value": "1-888-743-0023"
+      },
+      {
+        "kind": "phone",
+        "label": "Health-care billing hotline",
+        "value": "410-528-1840"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Attorney General's Consumer Protection Division mediates consumer disputes with businesses such as car dealers, repair shops, landlords, retailers, phone companies, and debt collectors, and enforces Maryland's consumer protection laws. Consumers can file complaints online or call the consumer hotline; a separate health-care billing hotline is also available.",
+    "eligibility": [
+      "Maryland consumers with a dispute involving a business or a health-care billing issue"
+    ],
+    "id": "md-ag-consumer",
+    "languages": [
+      "English"
+    ],
+    "name": "Consumer Protection Division — Attorney General",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://oag.maryland.gov/resources-info/Documents/pdfs/CPD%20Publications/Brochure_Have_a_consumer_issue_or_need_health_care_billing_help_.pdf",
+      "http://www.marylandattorneygeneral.gov/Pages/CPD/Complaint.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Contracts, receipts, or bills related to the dispute",
+      "Correspondence with the business"
+    ]
+  },
+  {
+    "agency": "Maryland Department of Human Services — Child Support Administration",
+    "applyLinks": [
+      {
+        "label": "Receiving support — FAQs and how to apply — DHS",
+        "url": "https://dhs.maryland.gov/child-support-services/parents-and-caregivers/receiving-support-frequently-asked-questions/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS Customer Care Center",
+        "value": "1-800-332-6347"
+      },
+      {
+        "kind": "web",
+        "label": "Child support information for parents",
+        "value": "https://dhs.maryland.gov/child-support-services/parents-and-caregivers/receiving-support-frequently-asked-questions/"
+      }
+    ],
+    "cost": "$15 nonrefundable application fee (waived for TCA and Medical Assistance recipients)",
+    "deadlines": [],
+    "description": "Maryland's Child Support Administration helps custodial and noncustodial parents establish paternity, set and modify support orders, collect payments, and enforce orders. Either parent may apply for services.",
+    "eligibility": [
+      "Custodial or noncustodial parents seeking to establish, modify, collect, or enforce child support"
+    ],
+    "id": "md-child-support",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Child Support Services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://dhs.maryland.gov/child-support-services/parents-and-caregivers/receiving-support-frequently-asked-questions/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity",
+      "Child's birth certificate",
+      "Information about the other parent"
+    ]
+  },
+  {
+    "agency": "Maryland Transit Administration",
+    "applyLinks": [
+      {
+        "label": "MTA Mobility — eligibility and application",
+        "url": "https://www.mta.maryland.gov/mobility"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mobility certification (option 6)",
+        "value": "410-764-8181"
+      },
+      {
+        "kind": "web",
+        "label": "MTA Mobility information",
+        "value": "https://www.mta.maryland.gov/mobility"
+      }
+    ],
+    "cost": "$2.20 one-way fare",
+    "deadlines": [],
+    "description": "MTA Mobility is door-to-door paratransit service for people whose disability prevents them from independently using other MTA bus and rail services. Riders must apply and be certified eligible; call to request an application. The one-way fare is $2.20.",
+    "eligibility": [
+      "People whose impairment prevents independent use of other MTA services and who are certified eligible"
+    ],
+    "id": "md-mta-mobility",
+    "languages": [
+      "English"
+    ],
+    "name": "MTA Mobility — Paratransit Service",
+    "prerequisites": [
+      "Application and eligibility certification"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.mta.maryland.gov/mobility"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Medical documentation of disability"
+    ]
+  },
+  {
+    "agency": "Maryland State Department of Education — Division of Early Childhood",
+    "applyLinks": [
+      {
+        "label": "Child Care Scholarship Family Portal user guide — MSDE",
+        "url": "https://earlychildhood.marylandpublicschools.org/system/files/filedepot/2/consumer_education_family_portal_user_guide_2025_a11yjr.pdf"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Child Care Scholarship Family Portal guide",
+        "value": "https://earlychildhood.marylandpublicschools.org/system/files/filedepot/2/consumer_education_family_portal_user_guide_2025_a11yjr.pdf"
+      }
+    ],
+    "cost": "Free to apply; family copayments vary by income",
+    "deadlines": [],
+    "description": "The Child Care Scholarship Program helps income-eligible working families, students, and job trainees pay for licensed child care. Children under 13 (or under 19 with a documented disability) may qualify. A statewide waitlist is in effect — new applicants should apply through the Family Portal and expect a wait before benefits begin.",
+    "eligibility": [
+      "Maryland residents who are working, in school, or in job training and meet income guidelines",
+      "Children under 13, or under 19 with a documented disability"
+    ],
+    "id": "md-childcare-scholarship",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Child Care Scholarship Program",
+    "prerequisites": [
+      "Application through the Child Care Scholarship Family Portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "Maryland"
+    },
+    "sources": [
+      "http://earlychildhood.marylandpublicschools.org/system/files/filedepot/2/consumer_education_family_portal_user_guide_2025_a11yjr.pdf"
+    ],
+    "status": "waitlist",
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Proof of work, school, or training schedule",
+      "Child's birth certificate"
+    ]
+  },
+  {
+    "agency": "City of Baltimore",
+    "applyLinks": [
+      {
+        "label": "Submit a 311 service request — City of Baltimore",
+        "url": "https://www.baltimorecity.gov/311services"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Baltimore 311 (within the city)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Outside Baltimore",
+        "value": "443-263-2220"
+      },
+      {
+        "kind": "web",
+        "label": "311 services online — City of Baltimore",
+        "value": "https://www.baltimorecity.gov/311services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "Baltimore 311 is the city's non-emergency service request and information line: request trash pickup, report potholes, graffiti, or streetlight outages, and get information about city services. The call center operates seven days a week, 6:00 a.m. to 10:00 p.m., and requests can also be made online.",
+    "eligibility": [
+      "Anyone needing non-emergency city services or information in Baltimore"
+    ],
+    "id": "baltimore-city-311",
+    "languages": [
+      "English"
+    ],
+    "name": "Baltimore 311 — Non-Emergency City Services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Baltimore",
+      "level": "city",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.baltimorecity.gov/311services"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None — no documents needed to make a service request"
+    ]
+  },
+  {
+    "agency": "Baltimore City Health Department",
+    "applyLinks": [
+      {
+        "label": "Health Department programs — City of Baltimore",
+        "url": "https://www.baltimorecity.gov/health/about/who-we-are"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Health Department main line",
+        "value": "410-396-1420"
+      },
+      {
+        "kind": "web",
+        "label": "About the Health Department",
+        "value": "https://www.baltimorecity.gov/health/about/who-we-are"
+      }
+    ],
+    "cost": "Many services free or low-cost",
+    "deadlines": [],
+    "description": "The Baltimore City Health Department provides public health services including maternal and child health programs, free maternal and infant home visits, reproductive health, immunizations, HIV/STD services, WIC, school health, and senior services.",
+    "eligibility": [
+      "Baltimore City residents (program-specific eligibility applies)"
+    ],
+    "id": "baltimore-city-bchd",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Baltimore City Health Department — Public Health Services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Baltimore",
+      "level": "city",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.baltimorecity.gov/health/about/who-we-are"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Details of the service you need"
+    ]
+  },
+  {
+    "agency": "Mayor's Office of Employment Development, City of Baltimore",
+    "applyLinks": [
+      {
+        "label": "Job-readiness tools and career services — MOED",
+        "url": "https://www.baltimorecity.gov/moed/our-work/job-seekers/job-readiness-tools"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MOED main line",
+        "value": "410-396-1790"
+      },
+      {
+        "kind": "web",
+        "label": "Job-readiness tools — MOED",
+        "value": "https://www.baltimorecity.gov/moed/our-work/job-seekers/job-readiness-tools"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Mayor's Office of Employment Development offers no-cost career services to Baltimore job seekers: career coaching, job-readiness workshops, resume and interview help, online job search tools, and connections to employers through career centers and an online job board.",
+    "eligibility": [
+      "Baltimore job seekers (services are open to the public)"
+    ],
+    "id": "baltimore-city-moed",
+    "languages": [
+      "English"
+    ],
+    "name": "Mayor's Office of Employment Development (MOED) — Career Services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Baltimore",
+      "level": "city",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.baltimorecity.gov/moed/our-work/job-seekers/job-readiness-tools"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Resume (if available)",
+      "Identification"
+    ]
+  },
+  {
+    "agency": "Housing Authority of Baltimore City",
+    "applyLinks": [
+      {
+        "label": "Public housing waiting list notice — HABC",
+        "url": "https://habc.org/media/gvdj1nnq/20260730-waiting-list-opening-notice-v2_r1.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Application assistance line",
+        "value": "1-410-357-6565"
+      },
+      {
+        "kind": "web",
+        "label": "HABC public housing waiting list notice",
+        "value": "https://habc.org/media/gvdj1nnq/20260730-waiting-list-opening-notice-v2_r1.pdf"
+      }
+    ],
+    "cost": "Free to apply; rent based on income",
+    "deadlines": [
+      {
+        "date": "2026-08-31",
+        "label": "Waiting list application period ended",
+        "note": "Applications were accepted August 17–31, 2026; the list is now closed"
+      }
+    ],
+    "description": "The Housing Authority of Baltimore City's Low-Income Public Housing waiting list opened August 17–31, 2026 for senior housing, mixed-population housing, and accessible housing throughout Baltimore City. The application window is now closed; future openings will be announced on the HABC website.",
+    "eligibility": [
+      "Very low-income families, including elderly families and persons with disabilities, who meet HABC screening criteria"
+    ],
+    "id": "baltimore-city-habc",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "HABC Low-Income Public Housing — Waiting List",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Baltimore",
+      "level": "city",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://habc.org/media/gvdj1nnq/20260730-waiting-list-opening-notice-v2_r1.pdf"
+    ],
+    "status": "closed",
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Proof of citizenship or eligible immigration status",
+      "Identification for all household members"
+    ]
+  },
+  {
+    "agency": "Community Action Council of Howard County",
+    "applyLinks": [
+      {
+        "label": "Community resources directory — Howard County",
+        "url": "https://howardcountymd.gov/housing-community-development/resource/resources"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Action Council",
+        "value": "410-313-6440"
+      },
+      {
+        "kind": "web",
+        "label": "Howard County community resources",
+        "value": "https://howardcountymd.gov/housing-community-development/resource/resources"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Community Action Council of Howard County provides emergency assistance to low-income county residents, including eviction and utility-termination prevention, food assistance, Head Start early childhood programs, and case management.",
+    "eligibility": [
+      "Low-income Howard County residents (program-specific income guidelines apply)"
+    ],
+    "id": "howard-county-cac",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Community Action Council — Emergency Assistance",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Howard County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://howardcountymd.gov/housing-community-development/resource/resources"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Proof of Howard County residency",
+      "Eviction or utility shutoff notice (for emergency assistance)"
+    ]
+  },
+  {
+    "agency": "Howard County Government — Office of Consumer Protection",
+    "applyLinks": [
+      {
+        "label": "Consumer protection resources — Howard County",
+        "url": "https://howardcountymd.gov/housing-community-development/resource/resources"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Consumer Protection",
+        "value": "410-313-6420"
+      },
+      {
+        "kind": "web",
+        "label": "Howard County community resources",
+        "value": "https://howardcountymd.gov/housing-community-development/resource/resources"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "The Howard County Office of Consumer Protection mediates consumer disputes, takes enforcement action against unfair or deceptive business practices, and provides tips on avoiding scams.",
+    "eligibility": [
+      "Howard County consumers with a complaint about a business transaction"
+    ],
+    "id": "howard-county-consumer",
+    "languages": [
+      "English"
+    ],
+    "name": "Howard County Office of Consumer Protection",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Howard County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://howardcountymd.gov/housing-community-development/resource/resources"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Contracts, receipts, or bills related to the dispute",
+      "Correspondence with the business"
+    ]
+  },
+  {
+    "agency": "Montgomery County Government",
+    "applyLinks": [
+      {
+        "label": "MC311 — request county services online",
+        "url": "https://www.montgomerycountymd.gov/311"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MC311 (dial 311 in the county)",
+        "value": "240-777-0311"
+      },
+      {
+        "kind": "web",
+        "label": "MC311 online",
+        "value": "https://www.montgomerycountymd.gov/311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "MC311 is Montgomery County's customer service hub for non-emergency government services, information, and referrals — available online, by phone, or through the MC311 app.",
+    "eligibility": [
+      "Anyone needing Montgomery County government services or information"
+    ],
+    "id": "montgomery-county-311",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "MC311 — Montgomery County Customer Service",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Montgomery County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.montgomerycountymd.gov/311"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None — no documents needed to make a service request"
+    ]
+  },
+  {
+    "agency": "Montgomery County Department of Transportation",
+    "applyLinks": [
+      {
+        "label": "Ride On routes and schedules — Montgomery County DOT",
+        "url": "https://www.montgomerycountymd.gov/dot-transit/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MC311 transit information",
+        "value": "240-777-0311"
+      },
+      {
+        "kind": "web",
+        "label": "Ride On transit information",
+        "value": "https://www.montgomerycountymd.gov/dot-transit/"
+      }
+    ],
+    "cost": "Free (zero fare on Ride On, extRa, Flex, and Flash)",
+    "deadlines": [],
+    "description": "Montgomery County's Ride On bus network — including Ride On, extRa, Flex, and Flash service — has been zero-fare since June 29, 2025. Riders tap a SmarTrip card when boarding but no fare is deducted. MC311 can help plan trips.",
+    "eligibility": [
+      "Open to all riders in Montgomery County"
+    ],
+    "id": "montgomery-county-ride-on",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Ride On Bus Service — Zero Fare",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Montgomery County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.montgomerycountymd.gov/dot-transit/",
+      "https://assets.montgomerycountymd.gov/files/2026-04/RideOnUserGuide_ENG_web.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "SmarTrip card (tap to ride; no fare deducted)"
+    ]
+  },
+  {
+    "agency": "Housing Opportunities Commission of Montgomery County",
+    "applyLinks": [
+      {
+        "label": "Housing Path — apply for the HOC waiting list",
+        "url": "https://www.HOCHousingPath.com"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HOC Housing Path",
+        "value": "240-627-9400"
+      },
+      {
+        "kind": "web",
+        "label": "HOC Housing Path portal",
+        "value": "https://www.HOCHousingPath.com"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [],
+    "description": "The Housing Opportunities Commission's Housing Path portal lets Montgomery County residents apply for the Housing Choice Voucher (Section 8) waiting list and check application status online. The voucher waiting list was open at last check — confirm current status with HOC before applying.",
+    "eligibility": [
+      "Low-income Montgomery County households who meet HOC and federal eligibility criteria"
+    ],
+    "id": "montgomery-county-hoc",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Housing Opportunities Commission — Housing Choice Voucher Waiting List",
+    "prerequisites": [
+      "Application through the HOC Housing Path portal"
+    ],
+    "scope": {
+      "county": "Montgomery County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.HOCHousingPath.com"
+    ],
+    "status": "open",
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Identification for all household members",
+      "Proof of Montgomery County residency"
+    ]
+  },
+  {
+    "agency": "Montgomery County Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Affordable housing and rental assistance resources — Montgomery County DHCA",
+        "url": "https://www.montgomerycountymd.gov/DHCA/navigation/affordablehousingresources_other.html"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MC311 — connect to housing services",
+        "value": "240-777-0311"
+      },
+      {
+        "kind": "web",
+        "label": "Affordable housing resources — Montgomery County",
+        "value": "https://www.montgomerycountymd.gov/DHCA/navigation/affordablehousingresources_other.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [],
+    "description": "Montgomery County's Department of Health and Human Services provides emergency eviction prevention and shelter services, and the county's affordable housing resources page lists rental assistance programs, affordable housing options, and help for residents at risk of homelessness.",
+    "eligibility": [
+      "Montgomery County residents at risk of eviction or homelessness who meet program income guidelines"
+    ],
+    "id": "montgomery-county-housing-help",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Emergency Housing and Eviction Prevention Assistance",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Montgomery County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.montgomerycountymd.gov/DHCA/navigation/affordablehousingresources_other.html"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of income",
+      "Eviction or lease-violation notice",
+      "Proof of Montgomery County residency"
+    ]
+  },
+  {
+    "agency": "Frederick County Government — TransIT Services",
+    "applyLinks": [
+      {
+        "label": "TransIT routes and schedules — Frederick County",
+        "url": "https://frederickcountymd.gov/Transit"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TransIT information",
+        "value": "301-600-2065"
+      },
+      {
+        "kind": "web",
+        "label": "TransIT Services — Frederick County",
+        "value": "https://frederickcountymd.gov/Transit"
+      }
+    ],
+    "cost": "Free on Connector buses and shuttles",
+    "deadlines": [],
+    "description": "TransIT Services of Frederick County operates nine Connector bus routes plus shuttles serving Frederick and surrounding areas. Rides on Connector buses and shuttles have been free since March 2020; reduced-fare options are available for seniors and riders with disabilities.",
+    "eligibility": [
+      "Open to all riders in Frederick County"
+    ],
+    "id": "frederick-county-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "TransIT Services of Frederick County",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Frederick County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://frederickcountymd.gov/Transit",
+      "https://FrederickCountyMD.gov/DocumentCenter/View/339757/Transit_system-map"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Details of the service you need"
+    ]
+  },
+  {
+    "agency": "Housing Authority of the City of Frederick",
+    "applyLinks": [
+      {
+        "label": "Housing Authority of the City of Frederick",
+        "url": "https://www.hacfrederick.org/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing Authority of the City of Frederick",
+        "value": "301-662-8173"
+      },
+      {
+        "kind": "web",
+        "label": "Housing Authority of the City of Frederick",
+        "value": "https://www.hacfrederick.org/"
+      }
+    ],
+    "cost": "Free to apply; rent based on income",
+    "deadlines": [],
+    "description": "The Housing Authority of the City of Frederick administers public housing and Housing Choice Voucher (Section 8) programs for low-income households. Waiting lists for both programs were closed at last check — call to confirm current status.",
+    "eligibility": [
+      "Income-qualified families, seniors, and persons with disabilities in the Frederick area"
+    ],
+    "id": "frederick-county-housing",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Housing Authority of the City of Frederick — Public Housing and Vouchers",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Frederick County",
+      "level": "county",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.hacfrederick.org/"
+    ],
+    "status": "closed",
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Birth certificates",
+      "Social Security numbers",
+      "Income verification",
+      "References from past three landlords"
+    ]
+  },
+  {
+    "agency": "City of Gaithersburg — Community Services",
+    "applyLinks": [
+      {
+        "label": "Emergency Rental and Utility Disconnection Assistance — City of Gaithersburg",
+        "url": "https://www.gaithersburgmd.gov/services/community-services/rental-and-utility-assistance"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Services",
+        "value": "301-258-6395"
+      },
+      {
+        "kind": "email",
+        "label": "Community Services email",
+        "value": "communityservices@gaithersburgmd.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Walk-in office",
+        "value": "1 Wells Avenue, Gaithersburg, MD 20877 (back of the Wells Robertson House)"
+      }
+    ],
+    "cost": "Free to apply; one-time assistance",
+    "deadlines": [],
+    "description": "The City of Gaithersburg's Emergency Rental and Utility Disconnection Assistance Program provides one-time financial help to city residents facing temporary hardship, to prevent eviction and utility shutoffs. Applicants must have lived in the city at least six months, meet at least one priority criterion (household with minor children, senior age 62 or older, or a medically determinable disability), have an eviction or disconnection notice, and have income at or below 80% of area median income. It is a last-resort program used only after other financial assistance options are exhausted.",
+    "eligibility": [
+      "City of Gaithersburg residents (verified by address) who have lived in the city at least six months",
+      "Households with minor children, seniors 62 or older, or a medically determinable physical or mental impairment",
+      "Household income at or below 80% of area median income",
+      "Applicants must have an eviction/court notice or a utility disconnection notice and demonstrate ability to remain current going forward"
+    ],
+    "id": "gaithersburg-rental-assistance",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Emergency Rental and Utility Disconnection Assistance",
+    "prerequisites": [
+      "Other available financial assistance options must have been explored and exhausted"
+    ],
+    "scope": {
+      "city": "Gaithersburg",
+      "county": "Montgomery County",
+      "level": "city",
+      "state": "Maryland"
+    },
+    "sources": [
+      "https://www.gaithersburgmd.gov/services/community-services/rental-and-utility-assistance"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of Gaithersburg residency (six months minimum)",
+      "Eviction, court, or disconnection notice",
+      "Proof of income",
+      "Documentation of the qualifying criterion (children, age, or disability)"
+    ]
   }
 ]
