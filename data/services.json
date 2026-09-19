@@ -28339,5 +28339,1615 @@
     "whatToBring": [
       "Business information related to your question, if any"
     ]
+  },
+  {
+    "id": "tn-snap",
+    "name": "Supplemental Nutrition Assistance Program (SNAP)",
+    "agency": "Tennessee Department of Human Services (TDHS)",
+    "category": "Food",
+    "description": "Monthly food benefits for eligible low-income households, applied for through One DHS or a paper application. Note: Tennessee's planned Healthy SNAP changes were halted after a June 20, 2026 federal ruling, suspending the July 31, 2026 implementation.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Low-income households meeting income, resource, and other program rules",
+      "specific limits on the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; do not treat the expired October 31, 2025 ABAWD deadline as current."
+      }
+    ],
+    "prerequisites": [
+      "Submit an application through One DHS or a paper form"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Photo ID",
+      "Proof of residency",
+      "Proof of income",
+      "Proof of resources",
+      "Shelter and utility cost documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TDHS customer service",
+        "value": "1-833-772-TDHS (8347)"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP program page (TDHS)",
+        "url": "http://tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap.html"
+    ]
+  },
+  {
+    "id": "tn-families-first",
+    "name": "Families First (TANF)",
+    "agency": "Tennessee Department of Human Services (TDHS)",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance plus transportation, childcare, education, training, employment, and transitional supports for eligible Tennessee families.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennessee families meeting technical and financial eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Follow a Personal Responsibility Plan",
+      "Meet child health, school attendance, and child-support cooperation duties",
+      "Participate in work or training activities unless exempt"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Families First program page",
+        "value": "http://tn.gov/humanservices/for-families/families-first-tanf.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Families First program page (TDHS)",
+        "url": "http://tn.gov/humanservices/for-families/families-first-tanf.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://tn.gov/humanservices/for-families/families-first-tanf.html"
+    ]
+  },
+  {
+    "id": "tn-tenncare",
+    "name": "TennCare (Medicaid)",
+    "agency": "Tennessee Division of TennCare",
+    "category": "Healthcare",
+    "description": "Tennessee's Medicaid program providing health coverage for eligible children, pregnant women, parents and caretakers, and other covered groups. Applications are accepted any time.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Children under 21, pregnant women, eligible parents and caretakers, the breast and cervical cancer treatment group, SSI recipients, and some long-term-care groups",
+      "full criteria on the eligibility page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time of year."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TennCare Medicaid eligibility",
+        "value": "https://www.tn.gov/tenncare/members-applicants/eligibility/tenncare-medicaid.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TennCare Medicaid eligibility",
+        "url": "https://www.tn.gov/tenncare/members-applicants/eligibility/tenncare-medicaid.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/tenncare/members-applicants/eligibility/tenncare-medicaid.html"
+    ]
+  },
+  {
+    "id": "tn-coverkids",
+    "name": "CoverKids (CHIP)",
+    "agency": "Tennessee Department of Finance and Administration — CoverKids",
+    "category": "Healthcare",
+    "description": "Low-cost health coverage for Tennessee children. Apply online, by phone, or with a paper application (English and Spanish forms available).",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CoverKids",
+        "value": "855-259-0701"
+      },
+      {
+        "kind": "phone",
+        "label": "Tennessee Relay",
+        "value": "800-848-0298"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CoverKids application",
+        "url": "https://www.tn.gov/coverkids/coverkids/application.html"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Low-cost — varies by plan",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/coverkids/coverkids/application.html"
+    ]
+  },
+  {
+    "id": "tn-liheap",
+    "name": "Low Income Home Energy Assistance Program (LIHEAP)",
+    "agency": "Tennessee Housing Development Agency (THDA)",
+    "category": "Utilities",
+    "description": "One-time heating and cooling assistance delivered through 19 local agencies covering all 95 Tennessee counties. Funding is limited and aid is subject to availability.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Low-income households",
+      "apply through the local administering agency for your county"
+    ],
+    "deadlines": [
+      {
+        "date": "2025-11-01",
+        "label": "2025–2026 applications opened",
+        "note": "Applications opened November 1, 2025 at 8:00 a.m. CST; aid is subject to funding."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your county's administering agency"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LIHEAP (THDA)",
+        "value": "https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP (THDA)",
+        "url": "https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/"
+    ]
+  },
+  {
+    "id": "tn-unemployment-insurance",
+    "name": "Unemployment Insurance",
+    "agency": "Tennessee Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "Temporary weekly benefits for eligible workers who are unemployed through no fault of their own or have significantly reduced hours, and who are able, available, and seeking work. Pays up to $325 per week for up to 12 weeks when the state's average unemployment rate is at or below 5.5%.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own or with significantly reduced hours",
+      "able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a claim as soon as you become unemployed."
+      }
+    ],
+    "prerequisites": [
+      "File a claim with the Department of Labor and Workforce Development"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for unemployment benefits",
+        "value": "https://www.tn.gov/workforce/unemployment/apply-for-benefits.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for unemployment benefits",
+        "url": "https://www.tn.gov/workforce/unemployment/apply-for-benefits.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/workforce/unemployment/apply-for-benefits.html"
+    ]
+  },
+  {
+    "id": "tn-promise",
+    "name": "Tennessee Promise",
+    "agency": "Tennessee Higher Education Commission (THEC)",
+    "category": "Education",
+    "description": "Last-dollar scholarship plus mentoring for eligible students pursuing associate degrees and technical programs at participating colleges.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennessee students meeting program requirements",
+      "see the program page for full criteria"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-02",
+        "label": "Class of 2027 application deadline",
+        "note": ""
+      },
+      {
+        "date": "2027-04-01",
+        "label": "Class of 2027 FAFSA deadline",
+        "note": ""
+      },
+      {
+        "date": "2027-08-01",
+        "label": "First 16 community service hours due",
+        "note": "Class of 2027."
+      }
+    ],
+    "prerequisites": [
+      "Apply by the application deadline",
+      "Complete the FAFSA by the FAFSA deadline",
+      "Complete 16 hours of community service by the service deadline"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TN Promise",
+        "value": "https://collegefortn.org/tnpromise/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TN Promise",
+        "url": "https://collegefortn.org/tnpromise/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://collegefortn.org/tnpromise/"
+    ]
+  },
+  {
+    "id": "tn-hope-scholarship",
+    "name": "HOPE Scholarship (Tennessee Education Lottery Scholarship)",
+    "agency": "Tennessee Student Assistance Corporation (TSAC)",
+    "category": "Education",
+    "description": "Lottery-funded scholarship for Tennessee residents attending eligible postsecondary institutions. Students apply through the FAFSA and select their school with TSAC. Example award amounts shown on the UT Knoxville page: up to $2,250 per full-time semester for first-year and sophomore students, and $2,850 for juniors and seniors.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennessee residents",
+      "entering first-year students need a 21 ACT (1060 new SAT) or a weighted 3.0 high school GPA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Complete the FAFSA and school selection per TSAC deadlines."
+      }
+    ],
+    "prerequisites": [
+      "Complete the FAFSA",
+      "Select your school with TSAC"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HOPE Scholarship information (UT)",
+        "value": "https://onestop.utk.edu/scholarships-financial-aid/scholarships/hope-lottery-scholarship/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HOPE Scholarship information (UT)",
+        "url": "https://onestop.utk.edu/scholarships-financial-aid/scholarships/hope-lottery-scholarship/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://onestop.utk.edu/scholarships-financial-aid/scholarships/hope-lottery-scholarship/"
+    ]
+  },
+  {
+    "id": "tn-reconnect",
+    "name": "Tennessee Reconnect",
+    "agency": "Tennessee Board of Regents / Tennessee Higher Education Commission",
+    "category": "Education",
+    "description": "Last-dollar grant covering tuition and mandatory fees for eligible adults pursuing an associate degree, technical certificate, or diploma.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennessee residents who are U.S. citizens or eligible noncitizens, are FAFSA-independent (or age 23 by January 1 of the academic year), have no prior associate or bachelor's degree (subject to a TCAT exception), and are not in default on student loans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See the program page for current deadlines."
+      }
+    ],
+    "prerequisites": [
+      "Submit transcripts",
+      "Enroll at least half-time (6 hours) or full-time at a TCAT"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Tennessee Reconnect one-pager",
+        "value": "https://www.collegefortn.org/wp-content/uploads/2024/10/TNR-One-pager.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tennessee Reconnect one-pager (PDF)",
+        "url": "https://www.collegefortn.org/wp-content/uploads/2024/10/TNR-One-pager.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.collegefortn.org/wp-content/uploads/2024/10/TNR-One-pager.pdf"
+    ]
+  },
+  {
+    "id": "tn-vocational-rehabilitation",
+    "name": "Vocational Rehabilitation Services",
+    "agency": "Tennessee Department of Human Services — Division of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Helps Tennesseans with disabilities prepare for, obtain, and advance in employment. Intake is available by phone, at a local office, or by virtual meeting; SSI/SSDI recipients are presumed eligible.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennesseans with disabilities seeking employment",
+      "SSI/SSDI recipients are presumed eligible"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete an intake by phone, office visit, or virtual meeting"
+    ],
+    "whatToBring": [
+      "Disability-related educational or medical records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vocational Rehabilitation",
+        "value": "833-751-0597"
+      },
+      {
+        "kind": "phone",
+        "label": "Client Assistance Program (free)",
+        "value": "800-342-1660"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for VR services",
+        "url": "https://www.tn.gov/humanservices/ds/vocational-rehabilitation/vr-applying-for-services.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/humanservices/ds/vocational-rehabilitation/vr-applying-for-services.html"
+    ]
+  },
+  {
+    "id": "tn-veterans-services",
+    "name": "Tennessee Department of Veterans Services",
+    "agency": "Tennessee Department of Veterans Services",
+    "category": "Veterans",
+    "description": "State veterans services offices offer appointments with Veterans Resource Coordinators who help veterans and their families with benefit claims and related assistance.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Veterans, service members, and their families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Schedule an appointment any time."
+      }
+    ],
+    "prerequisites": [
+      "Schedule an appointment with a Veterans Resource Coordinator"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Tennessee Veterans Services",
+        "value": "https://www.tn.gov/veteran"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tennessee Veterans Services",
+        "url": "https://www.tn.gov/veteran"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/veteran"
+    ]
+  },
+  {
+    "id": "tn-property-tax-relief",
+    "name": "Property Tax Relief",
+    "agency": "Tennessee Comptroller of the Treasury",
+    "category": "Money & Taxes",
+    "description": "Reimbursement (not an exemption) of a portion of property taxes for qualifying low-income elderly or disabled homeowners, disabled veterans, and eligible surviving spouses, on a primary residence only. Relief amounts vary with assessed value and local tax rates.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Qualifying low-income elderly or disabled homeowners, disabled veterans, and eligible surviving spouses",
+      "primary residence only"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through your county trustee or city collecting official."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your county trustee or city collecting official"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Property Tax Relief",
+        "value": "615-747-8871"
+      },
+      {
+        "kind": "phone",
+        "label": "Property Tax Relief (toll-free)",
+        "value": "1-800-221-9927"
+      },
+      {
+        "kind": "email",
+        "label": "Property Tax Relief email",
+        "value": "TRInfo@cot.tn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Property Tax Relief",
+        "url": "https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs/tax-relief.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs/tax-relief.html"
+    ]
+  },
+  {
+    "id": "tn-child-care-payment-assistance",
+    "name": "Child Care Payment Assistance (Smart Steps)",
+    "agency": "Tennessee Department of Human Services (TDHS)",
+    "category": "Family & Childcare",
+    "description": "Helps eligible families pay for childcare. Smart Steps covers children from six weeks old through kindergarten when parents work or attend eligible education at least 30 hours per week and household income is at or below 85% of state median income; a co-pay applies. Status: new Smart Steps applicants have been waitlisted since August 26, 2025; families enrolled as of that date continue through their eligibility period and may renew, and certain Families First, SNAP Employment & Training, transitional, at-risk, teen-parent, and foster/adoption pathways can still enroll. Most approved families pay a 5% income-based co-pay effective October 1, 2025, with specified referral groups waived.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Smart Steps: children six weeks through kindergarten",
+      "parent(s) working or in eligible education 30+ hours per week",
+      "income at or below 85% of state median income. Additional pathways for teen parents, at-risk children, transitional families, and referral-based cases"
+    ],
+    "deadlines": [
+      {
+        "date": "2025-08-26",
+        "label": "Smart Steps waitlist began",
+        "note": "New Smart Steps applicants waitlisted since August 26, 2025; see the status page for exceptions."
+      }
+    ],
+    "prerequisites": [
+      "Apply through TDHS",
+      "Renew every 12 months",
+      "Report changes within 10 days"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of residency",
+      "Work, school, or training documentation",
+      "Photo ID",
+      "Child information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Child Care Payment Assistance",
+        "value": "https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Child Care Payment Assistance",
+        "url": "https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Co-pay applies — most families 5% of income; some referral groups waived",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html",
+      "https://www.tn.gov/humanservices/for-families/child-care-services/update-on-child-care-funding.html"
+    ]
+  },
+  {
+    "id": "tn-thda-great-choice",
+    "name": "THDA Great Choice Home Loans",
+    "agency": "Tennessee Housing Development Agency (THDA)",
+    "category": "Housing",
+    "description": "30-year fixed-rate mortgages for first-time buyers and some repeat buyers — including those who have not owned a home in three years, buyers in targeted areas or counties, and qualified military members and spouses. Requires a minimum 640 credit score; income and purchase-price limits vary by county, and homebuyer education is required for down-payment assistance.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "First-time buyers and qualifying repeat buyers (not owned a home in 3 years, target area/county purchase, or qualified military/spouse)",
+      "minimum 640 credit score",
+      "county income and purchase-price limits apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a THDA-approved lender."
+      }
+    ],
+    "prerequisites": [
+      "Complete homebuyer education (required for down-payment assistance)"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "THDA Great Choice",
+        "value": "https://thda.org/homebuyers/repeat-homebuyers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "THDA Great Choice",
+        "url": "https://thda.org/homebuyers/repeat-homebuyers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://thda.org/homebuyers/repeat-homebuyers/"
+    ]
+  },
+  {
+    "id": "tn-driver-license-renewal",
+    "name": "Driver License and ID Renewal",
+    "agency": "Tennessee Department of Safety and Homeland Security",
+    "category": "Transportation",
+    "description": "Renew Tennessee driver licenses and photo IDs. Licenses and IDs for people 21 and older are generally valid for eight years. Online renewal may be unavailable when a new photo is required, and REAL ID upgrades may require an in-person visit; costs vary.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Tennessee driver license or ID holders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Renew before your license or ID expires."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "License renewal information",
+        "value": "https://www.tn.gov/safety/driver-services/helpful-information/dlrenew.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "License renewal information",
+        "url": "https://www.tn.gov/safety/driver-services/helpful-information/dlrenew.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/safety/driver-services/helpful-information/dlrenew.html"
+    ]
+  },
+  {
+    "id": "tn-business-registration",
+    "name": "Business Registration",
+    "agency": "Tennessee Secretary of State",
+    "category": "Small Business",
+    "description": "Register domestic and foreign businesses with the Tennessee Secretary of State through the online filing system.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Businesses operating in Tennessee"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time."
+      }
+    ],
+    "prerequisites": [
+      "File through the Secretary of State online system"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to register a business",
+        "value": "https://sos.tn.gov/businesses/faqs/how-do-i-register-business"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to register a business",
+        "url": "https://sos.tn.gov/businesses/faqs/how-do-i-register-business"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by filing",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sos.tn.gov/businesses/faqs/how-do-i-register-business"
+    ]
+  },
+  {
+    "id": "tn-legal-aid",
+    "name": "Tennessee Legal Aid Directory",
+    "agency": "Justice For All Tennessee",
+    "category": "Legal Aid",
+    "description": "Directory of free civil legal help for low-income Tennessee households; availability depends on income, case type, and provider capacity. Criminal and fee-generating matters are generally excluded. The legal help itself is free, but court and record costs may still apply.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Low-income households, depending on income, case type, and provider capacity"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact providers any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find legal resources",
+        "value": "https://justiceforalltn.org/legal-help/find-legal-resources/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find legal resources",
+        "url": "https://justiceforalltn.org/legal-help/find-legal-resources/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — income and case-type dependent; court costs may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://justiceforalltn.org/legal-help/find-legal-resources/"
+    ]
+  },
+  {
+    "id": "tn-aging-services",
+    "name": "Aging and Disability Programs",
+    "agency": "Tennessee Department of Disability and Aging",
+    "category": "Seniors",
+    "description": "State directory of programs for older adults and people with disabilities, including Family Support, Katie Beckett, ECF CHOICES, MAPs, Aging Nutrition, the Long-Term Care Ombudsman, Caregiver Support, TN SHIP (Medicare counseling), home and community-based services, transportation, information and assistance, and guardianship.",
+    "scope": {
+      "level": "state",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact programs any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Disability and aging programs",
+        "value": "https://www.tn.gov/disability-and-aging/disability-aging-programs.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Disability and aging programs",
+        "url": "https://www.tn.gov/disability-and-aging/disability-aging-programs.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tn.gov/disability-and-aging/disability-aging-programs.html"
+    ]
+  },
+  {
+    "id": "nashville-wego-journey-pass",
+    "name": "WeGo Journey Pass",
+    "agency": "WeGo Public Transit (Nashville MTA / RTA)",
+    "category": "Transportation",
+    "description": "Nashville's fare-free transit program for eligible Davidson County residents, expanded in August 2026 with more qualifying benefit programs. More than 12,500 residents have received passes. Register at WeGo registration events with a valid photo ID and one qualifying document (SNAP, TANF, TennCare, WIC, LIHEAP, Housing Choice Voucher, Metro Action Commission, MDHA, or Metro Social Services documentation).",
+    "scope": {
+      "level": "city",
+      "city": "Nashville",
+      "county": "Davidson",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Davidson County residents who can present a valid photo ID and one qualifying benefit document"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Registration events held periodically — see the WeGo Journey Pass page for the current schedule."
+      }
+    ],
+    "prerequisites": [
+      "Attend a WeGo Journey Pass registration event"
+    ],
+    "whatToBring": [
+      "Valid photo ID",
+      "One qualifying benefit document (e.g., SNAP, TANF, TennCare, WIC, LIHEAP, or housing assistance letter)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Journey Pass announcement (WeGo)",
+        "value": "https://www.wegotransit.com/choose-how-you-move-funded-journey-pass-expands-fare-free-wego-rides-for-more-nashvillians-/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Journey Pass expansion announcement",
+        "url": "https://www.wegotransit.com/choose-how-you-move-funded-journey-pass-expands-fare-free-wego-rides-for-more-nashvillians-/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wegotransit.com/choose-how-you-move-funded-journey-pass-expands-fare-free-wego-rides-for-more-nashvillians-/"
+    ]
+  },
+  {
+    "id": "memphis-311",
+    "name": "Memphis 311",
+    "agency": "City of Memphis",
+    "category": "Money & Taxes",
+    "description": "The City of Memphis non-emergency service portal: create or check the status of cases online with a bilingual (English/Spanish) chatbot, or speak with a live agent by phone.",
+    "scope": {
+      "level": "city",
+      "city": "Memphis",
+      "county": "Shelby",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Anyone needing non-emergency City of Memphis services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit requests any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Memphis 311 live agent",
+        "value": "(901)636-6500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Memphis 311",
+        "url": "https://memphistn.gov/call-311/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://memphistn.gov/call-311/"
+    ]
+  },
+  {
+    "id": "memphis-mata-zero-fare",
+    "name": "MATA Zero Fare Pilot",
+    "agency": "Memphis Area Transit Authority (MATA)",
+    "category": "Transportation",
+    "description": "Temporary Zero Fare 90-day pilot: all rides on buses, trolleys, MATAplus, and Ready! On-Demand are currently available at no cost. Standard fares (adult $1.00, seniors/disabled $0.50) otherwise apply — this is a temporary pilot, not a permanent change.",
+    "scope": {
+      "level": "city",
+      "city": "Memphis",
+      "county": "Shelby",
+      "state": "TN"
+    },
+    "eligibility": [
+      "All MATA riders during the pilot period"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Pilot — temporary",
+        "note": "Zero-fare pilot in effect; check the MATA fares page for current status."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MATA Customer Service",
+        "value": "(901) 522-9175"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MATA fares",
+        "url": "https://www.matatransit.com/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free during pilot; standard fares apply after",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.matatransit.com/fares/"
+    ]
+  },
+  {
+    "id": "knoxville-311",
+    "name": "Knoxville 311",
+    "agency": "City of Knoxville",
+    "category": "Money & Taxes",
+    "description": "Knoxville's non-emergency city services line: call 311 (or 865-215-4311) or use the My Knoxville App to sign up for services like free curbside recycling (households of four or fewer units within city limits) and report issues such as missed recycling pickups within two business days.",
+    "scope": {
+      "level": "city",
+      "city": "Knoxville",
+      "county": "Knox",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Anyone needing non-emergency City of Knoxville services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report missed recycling pickups within two business days."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Knoxville 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Knoxville 311 (if short code fails)",
+        "value": "865-215-4311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Curbside recycling and 311 info",
+        "url": "https://www.knoxvilletn.gov/cms/one.aspx?pageId=166460"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.knoxvilletn.gov/cms/one.aspx?pageId=166460"
+    ]
+  },
+  {
+    "id": "knoxville-kat-fares",
+    "name": "Knoxville Area Transit (KAT) Fares",
+    "agency": "Knoxville Area Transit",
+    "category": "Transportation",
+    "description": "City bus fares: $1 per single ride (exact change recommended; mobile tickets via the Transit app). Discounted fares for seniors 65+, Medicare card holders, and people with disabilities including disabled veterans (valid KAT ID required, $2 processing fee). Children under 4 ride free; Youth Freedom Pass available.",
+    "scope": {
+      "level": "city",
+      "city": "Knoxville",
+      "county": "Knox",
+      "state": "TN"
+    },
+    "eligibility": [
+      "All riders",
+      "discounted fares for qualifying seniors, Medicare holders, and people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fares apply to every ride."
+      }
+    ],
+    "prerequisites": [
+      "Discounted fare: present a Medicare card or valid KAT ID before boarding"
+    ],
+    "whatToBring": [
+      "Medicare card or KAT ID (discounted fare)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KAT fares",
+        "value": "https://katbus.com/fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "KAT fares",
+        "url": "https://katbus.com/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1 per ride; discounted and free options available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://katbus.com/fares/"
+    ]
+  },
+  {
+    "id": "chattanooga-311",
+    "name": "Chattanooga 311",
+    "agency": "City of Chattanooga",
+    "category": "Money & Taxes",
+    "description": "Chattanooga's non-emergency help line for reporting issues and requesting city services, including recycling guidelines, park reservations, and animal services. Text 311 to 61222, call 311 or (423) 643-6311, email 311@chattanooga.gov, or use the CHA 311 app.",
+    "scope": {
+      "level": "city",
+      "city": "Chattanooga",
+      "county": "Hamilton",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Anyone needing non-emergency City of Chattanooga services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit requests any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Chattanooga 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Chattanooga 311 (direct)",
+        "value": "(423) 643-6311"
+      },
+      {
+        "kind": "email",
+        "label": "Chattanooga 311 email",
+        "value": "311@chattanooga.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Chattanooga 311",
+        "url": "https://chattanooga.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://chattanooga.gov/311"
+    ]
+  },
+  {
+    "id": "chattanooga-carta-fares",
+    "name": "CARTA Fares",
+    "agency": "Chattanooga Area Regional Transportation Authority (CARTA)",
+    "category": "Transportation",
+    "description": "Fixed-route bus fares: adult $1.50; seniors 65+ and people with disabilities $0.75 with a CARTA Special Fare ID ($2 card); K-12 students free with a Read and Ride pass; children 5 and under free; veterans free with proper ID. Passes: 24-hour $4 (refill)/$6 (new card), 7-day $15 ($7.50 reduced), 31-day $50 ($25 reduced). Care-a-Van paratransit: $3.00 in-city, $3.50 to Red Bank or East Ridge.",
+    "scope": {
+      "level": "city",
+      "city": "Chattanooga",
+      "county": "Hamilton",
+      "state": "TN"
+    },
+    "eligibility": [
+      "All riders",
+      "reduced fares for qualifying seniors, people with disabilities, students, and veterans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fares apply to every ride."
+      }
+    ],
+    "prerequisites": [
+      "Reduced fare: obtain a CARTA Special Fare ID card ($2)"
+    ],
+    "whatToBring": [
+      "Medicare card, ADA eligibility card, or completed Special Fare ID application (reduced fare)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CARTA fares",
+        "value": "https://www.gocarta.org/fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CARTA fares",
+        "url": "https://www.gocarta.org/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1.50 adult; reduced and free options available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.gocarta.org/fares/"
+    ]
+  },
+  {
+    "id": "clarksville-cts-fares",
+    "name": "Clarksville Transit System (CTS) Fares",
+    "agency": "City of Clarksville — Clarksville Transit System",
+    "category": "Transportation",
+    "description": "City bus fares: full fare $1.50; children 4 and under free; seniors 65+ free with CTS photo ID; students $1 with ID; disabled riders $0.75 with CTS photo ID or Medicare card. Passes: 1-day $4, 7-day $20, 31-day Liberty $50 ($25 disabled). The disabled half-fare application must be returned in person to the Transit Center at 200 Legion Street.",
+    "scope": {
+      "level": "city",
+      "city": "Clarksville",
+      "county": "Montgomery",
+      "state": "TN"
+    },
+    "eligibility": [
+      "All riders",
+      "free and reduced fares for qualifying seniors, students, children, and people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fares apply to every ride."
+      }
+    ],
+    "prerequisites": [
+      "Reduced/free fare: obtain a CTS photo ID"
+    ],
+    "whatToBring": [
+      "Medicare card or completed disabled half-fare application (returned in person)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CTS fares",
+        "value": "https://www.ridects.com/342/Fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CTS fares",
+        "url": "https://www.ridects.com/342/Fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1.50 full fare; free and reduced options available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ridects.com/342/Fares"
+    ]
+  },
+  {
+    "id": "davidson-library",
+    "name": "Nashville Public Library",
+    "agency": "Nashville Public Library (Metro Government of Nashville & Davidson County)",
+    "category": "Education",
+    "description": "Free library cards for Davidson County residents, available online or in person at 21 locations. Access more than 2 million books and materials, plus storytimes, free events, and one-on-one librarian help.",
+    "scope": {
+      "level": "county",
+      "city": "Nashville",
+      "county": "Davidson",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Davidson County residents (free cards)",
+      "Tennessee residents outside Davidson County can also sign up"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a card any time."
+      }
+    ],
+    "prerequisites": [
+      "Proof of current address (for in-person signup)"
+    ],
+    "whatToBring": [
+      "Proof of current address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nashville Public Library",
+        "value": "(615) 862-5800"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nashville Public Library",
+        "url": "https://library.nashville.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://library.nashville.org/"
+    ]
+  },
+  {
+    "id": "shelby-libraries-901-pass",
+    "name": "Memphis Public Libraries — 901 Pass",
+    "agency": "Memphis Public Libraries / City of Memphis",
+    "category": "Education",
+    "description": "The free 901 Pass gives Memphis residents access to City of Memphis community centers, senior centers, aquatics centers, and free Memphis Zoo admission on Tuesdays — and it can be activated as a library card at any Memphis Public Libraries location or online.",
+    "scope": {
+      "level": "county",
+      "city": "Memphis",
+      "county": "Shelby",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Memphis residents",
+      "library cards are free for residents of Memphis, Lakeland, and unincorporated Shelby County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a card any time."
+      }
+    ],
+    "prerequisites": [
+      "Bring your 901 Pass and identification to activate it as a library card, or apply online"
+    ],
+    "whatToBring": [
+      "901 Pass and identification (for activation)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "901 Pass library card",
+        "value": "https://www.memphislibrary.org/901-pass-library-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "901 Pass library card",
+        "url": "https://www.memphislibrary.org/901-pass-library-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.memphislibrary.org/901-pass-library-card/"
+    ]
+  },
+  {
+    "id": "knox-library",
+    "name": "Knox County Public Library",
+    "agency": "Knox County Public Library",
+    "category": "Education",
+    "description": "Knox County's public library system with 19 locations offering books, events, and programs. Library cards are free for Knox County residents (out-of-county cards cost $40 per year); apply with legal name, birth date, and address.",
+    "scope": {
+      "level": "county",
+      "city": "Knoxville",
+      "county": "Knox",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Knox County residents (free)",
+      "non-residents may purchase an out-of-county card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a card any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete a card application with proof of identity and address"
+    ],
+    "whatToBring": [
+      "Legal name per license or ID",
+      "Proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Knox County Public Library",
+        "value": "https://www.knoxcountylibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Knox County Public Library",
+        "url": "https://www.knoxcountylibrary.org"
+      },
+      {
+        "label": "Library card application (PDF)",
+        "url": "https://ask.knoxlib.org/loader?fid=21515&type=1&key=05c843ffeaa4ff88097d8b737e294bce"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Knox County residents; $40/year out-of-county",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.knoxcountylibrary.org",
+      "https://ask.knoxlib.org/loader?fid=21515&type=1&key=05c843ffeaa4ff88097d8b737e294bce"
+    ]
+  },
+  {
+    "id": "hamilton-library-card",
+    "name": "Chattanooga Public Library — Student Cards",
+    "agency": "Chattanooga Public Library / Hamilton County Schools",
+    "category": "Education",
+    "description": "Through a partnership between Hamilton County Schools and the Chattanooga Public Library, enrolled students receive a free, full-access library card issued through schools and renewed yearly at registration. The library also offers free programs, a downtown makerspace, free CARTA bus passes for ages 5–18 through Read & Ride, plus a social worker and nurse navigator.",
+    "scope": {
+      "level": "county",
+      "city": "Chattanooga",
+      "county": "Hamilton",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Students enrolled in Hamilton County public schools (cards issued through schools)",
+      "children ages 0–5 in Hamilton County are also eligible for free cards"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Cards are issued and renewed through schools."
+      }
+    ],
+    "prerequisites": [
+      "Cards are issued through Hamilton County Schools"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library partnership (Hamilton County Schools)",
+        "value": "https://hcde.org/your-chattanooga-public-library/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library partnership (Hamilton County Schools)",
+        "url": "https://hcde.org/your-chattanooga-public-library/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hcde.org/your-chattanooga-public-library/"
+    ]
+  },
+  {
+    "id": "montgomery-library",
+    "name": "Clarksville-Montgomery County Public Library",
+    "agency": "Montgomery County, Tennessee",
+    "category": "Education",
+    "description": "Free library cards for Montgomery County residents with proof of current address, at the Main Library (350 Pageant Lane, Suite 501) and North Branch (435 Jordan Road). Offers free events, storytimes, technology classes, public computers, and digital resources including Libby, Hoopla, Universal Class, and Transparent Language. Hours: Mon–Thu 9–8, Fri–Sat 9–6, Sun 1–5.",
+    "scope": {
+      "level": "county",
+      "city": "Clarksville",
+      "county": "Montgomery",
+      "state": "TN"
+    },
+    "eligibility": [
+      "Montgomery County residents with proof of current address"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a card any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit a branch with proof of current Montgomery County address"
+    ],
+    "whatToBring": [
+      "Proof of current address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library",
+        "value": "931-648-8826"
+      },
+      {
+        "kind": "email",
+        "label": "Ask a Librarian",
+        "value": "askalibrarian@clarksville.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Clarksville-Montgomery County Public Library",
+        "url": "http://montgomerytn.gov/publiclibrary"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://montgomerytn.gov/publiclibrary"
+    ]
   }
 ]
