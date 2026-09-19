@@ -62394,5 +62394,1692 @@
     "whatToBring": [
       "Nothing required"
     ]
+  },
+  {
+    "id": "jackson-311",
+    "name": "Report a City Issue (Jackson)",
+    "agency": "City of Jackson",
+    "category": "Utilities",
+    "description": "Report non-emergency city issues in Jackson, including potholes, missed trash pickup, streetlight outages, and code concerns, or call 311.",
+    "scope": {
+      "level": "city",
+      "city": "Jackson",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Jackson residents and property owners reporting issues within city limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reports accepted any time."
+      }
+    ],
+    "prerequisites": [
+      "Report through the City of Jackson website or call 311"
+    ],
+    "whatToBring": [
+      "Location of the problem",
+      "A description of the issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Solid Waste",
+        "value": "601-960-1193"
+      },
+      {
+        "kind": "web",
+        "label": "City of Jackson website",
+        "value": "https://jacksonms.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Jackson — report a city issue",
+        "url": "https://jacksonms.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jacksonms.gov"
+    ]
+  },
+  {
+    "id": "jackson-jtran",
+    "name": "JTRAN Bus Service (Jackson)",
+    "agency": "City of Jackson — JTRAN",
+    "category": "Transportation",
+    "description": "STATUS: JTRAN reports service delays and/or route suspensions until further notice due to a workforce stoppage. Fixed-route bus service in Jackson. Discount fares for riders 60+, ages 6-17, Medicare cardholders, and people with disabilities with ID. Offices at 1785 Hwy 80 W and Union Station, 300 W Capitol St, Jackson. Customer service 601-952-1000.",
+    "scope": {
+      "level": "city",
+      "city": "Jackson",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Anyone riding JTRAN routes in Jackson"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check ridejtran.com for current service status before traveling."
+      }
+    ],
+    "prerequisites": [
+      "Check ridejtran.com for current routes and service status"
+    ],
+    "whatToBring": [
+      "Fare or ID for discount fare (age 60+, ages 6-17, Medicare card, or disability ID)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer service",
+        "value": "601-952-1000"
+      },
+      {
+        "kind": "web",
+        "label": "JTRAN website",
+        "value": "https://ridejtran.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "JTRAN — routes and service status",
+        "url": "https://ridejtran.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fare required; discount fares for 60+, ages 6-17, Medicare cardholders, and people with disabilities",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ridejtran.com/"
+    ]
+  },
+  {
+    "id": "jackson-mrha-housing",
+    "name": "Mississippi Regional Housing Authority VI — Rental Assistance (Jackson)",
+    "agency": "Mississippi Regional Housing Authority VI",
+    "category": "Housing",
+    "description": "HUD-funded rental assistance for Jackson and surrounding Mississippi counties. Open waiting lists include Cade Courtyard (Jackson, 1-2 bedrooms), Hickman Heights (Jackson), and Leonard Court (Jackson, 1-4 bedrooms). Head of household must be at least 21; HUD income limits apply; applicants and adult members must pass a criminal background check. Submit only one application — duplicates are not accepted.",
+    "scope": {
+      "level": "city",
+      "city": "Jackson",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Households within HUD income limits",
+      "Head of household at least 21, or an emancipated minor"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted online while wait lists are open."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through the MRHA pre-application portal"
+    ],
+    "whatToBring": [
+      "Social Security cards for all family members",
+      "Names and dates of birth of all family members",
+      "Income information for all family members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MRHA online pre-application",
+        "value": "https://mrhavi.myhousing.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MRHA VI — apply for housing",
+        "url": "https://mrhavi.myhousing.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mrhavi.myhousing.com/"
+    ]
+  },
+  {
+    "id": "gulfport-seeclickfix",
+    "name": "SeeClickFix Service Requests (Gulfport)",
+    "agency": "City of Gulfport",
+    "category": "Utilities",
+    "description": "The City of Gulfport uses SeeClickFix to receive, route, and track non-emergency service requests. Report potholes, sidewalk damage, drainage concerns, traffic sign issues, graffiti, park maintenance, sanitation issues, and code compliance matters. For emergencies, call 911.",
+    "scope": {
+      "level": "city",
+      "city": "Gulfport",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Gulfport residents reporting non-emergency issues within city limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Requests accepted any time."
+      }
+    ],
+    "prerequisites": [
+      "Submit through the SeeClickFix portal"
+    ],
+    "whatToBring": [
+      "Location of the issue",
+      "A description of the issue",
+      "A photo, if reporting online"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SeeClickFix service request center",
+        "value": "https://mygulfport.us/seeclickfix/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Gulfport SeeClickFix — submit a request",
+        "url": "https://mygulfport.us/seeclickfix/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mygulfport.us/seeclickfix/"
+    ]
+  },
+  {
+    "id": "gulfport-public-library",
+    "name": "Gulfport Public Library",
+    "agency": "Harrison County Library System — Gulfport Public Library",
+    "category": "Education",
+    "description": "Gulfport Public Library at 1708 25th Avenue, Gulfport, MS 39501. Free public library access including books, computers, programs, and reference help. Call 228-871-7171; hours posted on the Harrison County Library System site.",
+    "scope": {
+      "level": "city",
+      "city": "Gulfport",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit during posted library hours."
+      }
+    ],
+    "prerequisites": [
+      "Visit the library during posted hours or call for details"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address to get a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Gulfport Public Library",
+        "value": "228-871-7171"
+      },
+      {
+        "kind": "in-person",
+        "label": "Gulfport Public Library",
+        "value": "1708 25th Avenue, Gulfport, MS 39501"
+      },
+      {
+        "kind": "web",
+        "label": "Gulfport Public Library page",
+        "value": "http://harrison.lib.ms.us/libraries/gulfport-public-library/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Gulfport Public Library — hours and location",
+        "url": "http://harrison.lib.ms.us/libraries/gulfport-public-library/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://harrison.lib.ms.us/libraries/gulfport-public-library/"
+    ]
+  },
+  {
+    "id": "hattiesburg-hub-city-transit",
+    "name": "Hub City Transit (Hattiesburg)",
+    "agency": "City of Hattiesburg — Hub City Transit",
+    "category": "Transportation",
+    "description": "Fixed-route buses and ADA paratransit for eligible riders who cannot use fixed-route service due to a disability. Weekday service only, Monday through Friday, 6 a.m. to 6:30 p.m. Located at 1001 S. Tipton Street, Hattiesburg. Call 601-545-3356.",
+    "scope": {
+      "level": "city",
+      "city": "Hattiesburg",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Anyone using Hattiesburg fixed-route service",
+      "ADA paratransit for riders with disabilities that prevent fixed-route use"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Weekday service only."
+      }
+    ],
+    "prerequisites": [
+      "Find a route on hubcitytransit.com; ADA paratransit requires eligibility"
+    ],
+    "whatToBring": [
+      "Fare for fixed-route rides"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hub City Transit",
+        "value": "+1-601-545-3356"
+      },
+      {
+        "kind": "in-person",
+        "label": "Hub City Transit office",
+        "value": "1001 S. Tipton Street, Hattiesburg, MS"
+      },
+      {
+        "kind": "web",
+        "label": "Hub City Transit routes and fares",
+        "value": "https://hubcitytransit.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hub City Transit — routes, trip planner, and fares",
+        "url": "https://hubcitytransit.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fare required for fixed-route rides",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hubcitytransit.com/"
+    ]
+  },
+  {
+    "id": "hinds-library-card",
+    "name": "Jackson/Hinds Library Card",
+    "agency": "Jackson/Hinds Library System",
+    "category": "Education",
+    "description": "Free library card for Hinds County residents with picture ID or similar proof of residency. Children and teens need a parent signature. Nonresident fees are posted on the library's site.",
+    "scope": {
+      "level": "county",
+      "county": "Hinds",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Hinds County residents with picture ID or similar residency proof"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a library branch."
+      }
+    ],
+    "prerequisites": [
+      "Visit a Jackson/Hinds Library System branch"
+    ],
+    "whatToBring": [
+      "Picture ID or similar proof of Hinds County residency",
+      "Parent signature for children and teens"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library cards page",
+        "value": "https://www.jhlibrary.com/librarycards/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Jackson/Hinds Library — get a library card",
+        "url": "https://www.jhlibrary.com/librarycards/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Hinds County residents",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.jhlibrary.com/librarycards/"
+    ]
+  },
+  {
+    "id": "hinds-county-government",
+    "name": "Hinds County Government Services",
+    "agency": "Hinds County",
+    "category": "Money & Taxes",
+    "description": "Official Hinds County government website. Use it to find county offices, departments, and online services, including property tax and payment resources.",
+    "scope": {
+      "level": "county",
+      "county": "Hinds",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Hinds County residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "County site available any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit the county website to find the office or service you need"
+    ],
+    "whatToBring": [
+      "A description of the county service or office you need"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hinds County website",
+        "value": "https://hindscountyms.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hinds County — official website",
+        "url": "https://hindscountyms.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hindscountyms.com/"
+    ]
+  },
+  {
+    "id": "harrison-coast-transit",
+    "name": "Coast Transit Authority (Harrison County)",
+    "agency": "Coast Transit Authority",
+    "category": "Transportation",
+    "description": "Fixed-route buses, demand-response service, the Beachcomber route, and other public transit options for the Mississippi Gulf Coast, including Gulfport and Biloxi.",
+    "scope": {
+      "level": "county",
+      "county": "Harrison",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Anyone using Coast Transit Authority routes in Harrison County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check coasttransit.com for current routes and schedules."
+      }
+    ],
+    "prerequisites": [
+      "Check routes and schedules on coasttransit.com"
+    ],
+    "whatToBring": [
+      "Fare for rides"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Coast Transit Authority website",
+        "value": "https://coasttransit.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Coast Transit Authority — routes and services",
+        "url": "https://coasttransit.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fare required",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://coasttransit.com/"
+    ]
+  },
+  {
+    "id": "forrest-mclsc",
+    "name": "Mississippi Center for Legal Services — Free Civil Legal Help (South Mississippi)",
+    "agency": "Mississippi Center for Legal Services Corporation",
+    "category": "Legal Aid",
+    "description": "Free civil legal assistance for eligible low-income people in 43 central and southern Mississippi counties, including Forrest, Lamar, and Harrison. Online intake is currently suspended; call the intake hotline at 1-800-519-2915 to apply. The administrative and Hattiesburg office serves the Pine Belt.",
+    "scope": {
+      "level": "county",
+      "county": "Forrest",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Low-income residents of MCLSC's 43-county central and southern Mississippi service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the intake hotline to apply."
+      }
+    ],
+    "prerequisites": [
+      "Call the intake hotline at 1-800-519-2915"
+    ],
+    "whatToBring": [
+      "Documents about your civil legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intake hotline",
+        "value": "1-800-519-2915"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for help page",
+        "value": "https://mscenterforlegalservices.org/apply-for-help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MCLSC — apply for help",
+        "url": "https://mscenterforlegalservices.org/apply-for-help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mscenterforlegalservices.org/apply-for-help/",
+      "https://www.mslegalservices.org/"
+    ]
+  },
+  {
+    "id": "desoto-nmrls",
+    "name": "North Mississippi Rural Legal Services — Free Civil Legal Help (North Mississippi)",
+    "agency": "North Mississippi Rural Legal Services",
+    "category": "Legal Aid",
+    "description": "Free civil representation for low-income people in northern Mississippi's 39 counties, including DeSoto County. Online intake is currently suspended; new clients should call the call center at 1-800-898-8731, Monday through Thursday, 9:30 a.m. to 3:30 p.m.",
+    "scope": {
+      "level": "county",
+      "county": "DeSoto",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Low-income residents of NMRLS's 39-county northern Mississippi service area"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the intake hotline Monday through Thursday, 9:30 a.m. to 3:30 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Call the new-client call center at 1-800-898-8731"
+    ],
+    "whatToBring": [
+      "Documents about your civil legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "New-client call center",
+        "value": "1-800-898-8731"
+      },
+      {
+        "kind": "web",
+        "label": "NMRLS website",
+        "value": "https://nmrls.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NMRLS — free legal aid",
+        "url": "https://nmrls.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nmrls.com/",
+      "https://www.mslegalservices.org/"
+    ]
+  },
+  {
+    "id": "desoto-aaa-seniors",
+    "name": "Area Agency on Aging Services (DeSoto County)",
+    "agency": "North Delta Planning and Development District",
+    "category": "Seniors",
+    "description": "Area Agency on Aging services for adults 60 and older in DeSoto County: adult day care, caregiver support, homemaker services, transportation services, ombudsman service, elder-rights protection, and State Health Insurance Program (SHIP) Medicare counseling. Call 662-561-4100.",
+    "scope": {
+      "level": "county",
+      "county": "DeSoto",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Adults 60 and older in DeSoto County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to learn about services and eligibility."
+      }
+    ],
+    "prerequisites": [
+      "Call 662-561-4100 or visit ndpdd.com"
+    ],
+    "whatToBring": [
+      "Proof of age",
+      "Proof of DeSoto County residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Area Agency on Aging",
+        "value": "662-561-4100"
+      },
+      {
+        "kind": "web",
+        "label": "DeSoto County Area Agency on Aging page",
+        "value": "https://www.desotocountyms.gov/876/Area-Agency-on-Aging"
+      },
+      {
+        "kind": "web",
+        "label": "North Delta Planning and Development District",
+        "value": "https://www.ndpdd.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DeSoto County — Area Agency on Aging",
+        "url": "https://www.desotocountyms.gov/876/Area-Agency-on-Aging"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.desotocountyms.gov/876/Area-Agency-on-Aging"
+    ]
+  },
+  {
+    "id": "ms-snap",
+    "name": "SNAP — Food Assistance (Mississippi)",
+    "agency": "Mississippi Department of Human Services",
+    "category": "Food",
+    "description": "Monthly food assistance on an EBT card for qualifying Mississippi households. Apply through Access MS at access.ms.gov. Call SNAP/TANF Client Services at 800-948-3050 for help.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi residents",
+      "Households meeting income and other program limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through Access MS."
+      }
+    ],
+    "prerequisites": [
+      "Apply online at access.ms.gov or call 800-948-3050"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Mississippi residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP/TANF Client Services",
+        "value": "800-948-3050"
+      },
+      {
+        "kind": "web",
+        "label": "Access MS — apply for benefits",
+        "value": "https://www.access.ms.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access MS — apply for SNAP",
+        "url": "https://www.access.ms.gov"
+      },
+      {
+        "label": "MDHS — SNAP information",
+        "url": "https://www.mdhs.ms.gov/help/snap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mdhs.ms.gov/help/snap/",
+      "https://www.access.ms.gov"
+    ]
+  },
+  {
+    "id": "ms-tanf",
+    "name": "TANF — Cash Assistance for Needy Families (Mississippi)",
+    "agency": "Mississippi Department of Human Services",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance for needy families with children. Mississippi residency, generally a child under 18, and work or school participation requirements apply. Apply through Access MS. Call 800-948-3050; administrative hearings at 601-359-4921.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi residents",
+      "Families with a child under 18",
+      "Meet work or school participation requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through Access MS."
+      }
+    ],
+    "prerequisites": [
+      "Apply online at access.ms.gov or call 800-948-3050"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Mississippi residency",
+      "Child's birth certificate or similar documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP/TANF Client Services",
+        "value": "800-948-3050"
+      },
+      {
+        "kind": "phone",
+        "label": "Administrative hearings",
+        "value": "601-359-4921"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access MS — apply for TANF",
+        "url": "https://www.access.ms.gov"
+      },
+      {
+        "label": "MDHS — TANF information",
+        "url": "https://www.mdhs.ms.gov/help/tanf/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mdhs.ms.gov/help/tanf/"
+    ]
+  },
+  {
+    "id": "ms-liheap",
+    "name": "LIHEAP — Heating and Cooling Bill Assistance (Mississippi)",
+    "agency": "Mississippi Department of Human Services — Community Services",
+    "category": "Utilities",
+    "description": "STATUS: available in all 82 Mississippi counties while limited funding lasts. Help paying heating and cooling bills for eligible low-income households through community action agencies. Call 1-800-421-0762.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Low-income Mississippi households",
+      "Funding availability varies by county"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Assistance depends on limited funding."
+      }
+    ],
+    "prerequisites": [
+      "Contact Community Services at 1-800-421-0762 or apply through Access MS"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Current utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Community Services",
+        "value": "1-800-421-0762"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHS — LIHEAP information",
+        "url": "http://www.mdhs.ms.gov/community/liheap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mdhs.ms.gov/community/liheap/"
+    ]
+  },
+  {
+    "id": "ms-wic",
+    "name": "WIC — Women, Infants, and Children (Mississippi)",
+    "agency": "Mississippi State Department of Health",
+    "category": "Food",
+    "description": "Nutrition program for qualifying pregnant women, breastfeeding and postpartum women, infants, and children under five. Provides supplemental foods, nutrition education, and breastfeeding support. Proof of income, residence, and identity required. Call 1-800-338-6747 to schedule.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum women",
+      "Infants and children under five",
+      "Meet income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call 1-800-338-6747 to schedule an appointment."
+      }
+    ],
+    "prerequisites": [
+      "Call 1-800-338-6747 to schedule"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of residence",
+      "Proof of identity"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC scheduling",
+        "value": "1-800-338-6747"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MSDH — WIC information",
+        "url": "https://msdh.ms.gov/msdhsite/index.cfm/41,25323,128,html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://msdh.ms.gov/msdhsite/index.cfm/41,25323,128,html"
+    ]
+  },
+  {
+    "id": "ms-medicaid",
+    "name": "Medicaid (Mississippi)",
+    "agency": "Mississippi Division of Medicaid",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible Mississippians, including children, pregnant women, families, seniors, and people with disabilities. Apply through Access MS or the Division of Medicaid. Call 800-421-2408 or 601-359-6050.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi residents meeting income and category limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through Access MS or the Division of Medicaid"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Mississippi residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mississippi Division of Medicaid",
+        "value": "800-421-2408"
+      },
+      {
+        "kind": "phone",
+        "label": "Mississippi Division of Medicaid (local)",
+        "value": "601-359-6050"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mississippi Division of Medicaid — apply",
+        "url": "https://medicaid.ms.gov"
+      },
+      {
+        "label": "Access MS — apply for benefits",
+        "url": "https://www.access.ms.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://medicaid.ms.gov",
+      "https://www.access.ms.gov"
+    ]
+  },
+  {
+    "id": "ms-chip",
+    "name": "CHIP — Children's Health Insurance Program (Mississippi)",
+    "agency": "Mississippi State Department of Health",
+    "category": "Healthcare",
+    "description": "Health coverage for uninsured children under 19 who are not eligible for Medicaid. Some higher-income families may pay a copay. Apply through Access MS. Call 1-800-884-3222 for application help.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Uninsured children under 19",
+      "Not eligible for Medicaid",
+      "Mississippi residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through Access MS."
+      }
+    ],
+    "prerequisites": [
+      "Apply through Access MS or call 1-800-884-3222"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of Mississippi residency",
+      "Child's proof of identity and age"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Application help",
+        "value": "1-800-884-3222"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access MS — apply for CHIP",
+        "url": "https://www.access.ms.gov"
+      },
+      {
+        "label": "MSDH — CHIP information",
+        "url": "http://msdh.ms.gov/msdhsite/index.cfm/41,0,96,html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; some families may pay a copay",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://msdh.ms.gov/msdhsite/index.cfm/41,0,96,html"
+    ]
+  },
+  {
+    "id": "ms-unemployment-insurance",
+    "name": "Unemployment Insurance (Mississippi)",
+    "agency": "Mississippi Department of Employment Security",
+    "category": "Employment",
+    "description": "Weekly unemployment benefits for Mississippi workers who lost their jobs through no fault of their own. Requires MDES registration, 18 months of work history, current contact details, a driver license or state ID, and a Social Security card. Call 601-493-9427.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi workers who lost jobs through no fault of their own",
+      "Meet MDES work and wage requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as possible after job loss."
+      }
+    ],
+    "prerequisites": [
+      "Register with MDES",
+      "Have 18 months of work history"
+    ],
+    "whatToBring": [
+      "Driver license or state ID",
+      "Social Security card",
+      "Current contact details",
+      "Work history for the past 18 months"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDES unemployment",
+        "value": "601-493-9427"
+      },
+      {
+        "kind": "web",
+        "label": "MDES unemployment claims",
+        "value": "http://mdes.ms.gov/unemployment-claims/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDES — unemployment claims",
+        "url": "http://mdes.ms.gov/unemployment-claims/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://mdes.ms.gov/unemployment-claims/"
+    ]
+  },
+  {
+    "id": "ms-child-care-payment-program",
+    "name": "Child Care Payment Program (Mississippi)",
+    "agency": "Mississippi Department of Human Services",
+    "category": "Family & Childcare",
+    "description": "STATUS: accepting applications only for six exception groups; other families may join the waitlist and email notification process. Helps eligible Mississippi families pay for child care. A parent copay may apply, and families may owe any remaining tuition balance. Call 800-877-7882.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi families with children",
+      "Currently accepting applications for six exception groups; others may join the waitlist"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Exception groups may apply now; others join the waitlist process."
+      }
+    ],
+    "prerequisites": [
+      "Check exception-group status or join the waitlist process; call 800-877-7882"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Mississippi residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child Care Payment Program",
+        "value": "800-877-7882"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHS — Child Care Payment Program",
+        "url": "http://www.mdhs.ms.gov/eccd/providers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; a parent copay may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mdhs.ms.gov/eccd/providers/"
+    ]
+  },
+  {
+    "id": "ms-vocational-rehabilitation",
+    "name": "Vocational Rehabilitation (Mississippi)",
+    "agency": "Mississippi Department of Rehabilitation Services",
+    "category": "Disability",
+    "description": "The Office of Vocational Rehabilitation offers individualized employment services, counseling, assistive technology, transition services, education, training, and assessment. Eligibility: a disability that substantially impedes employment, VR services are required, and the applicant can benefit toward an employment goal.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippians whose disability substantially impedes employment",
+      "Applicants who require VR services and can benefit toward employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request services any time."
+      }
+    ],
+    "prerequisites": [
+      "Request services through MDRS"
+    ],
+    "whatToBring": [
+      "Documentation of disability",
+      "Proof of Mississippi residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDRS (unverified)",
+        "value": "601-853-5100"
+      },
+      {
+        "kind": "web",
+        "label": "MDRS vocational rehabilitation",
+        "value": "http://www.mdrs.ms.gov/vocational-rehabilitation"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDRS — vocational rehabilitation",
+        "url": "http://www.mdrs.ms.gov/vocational-rehabilitation"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mdrs.ms.gov/vocational-rehabilitation"
+    ]
+  },
+  {
+    "id": "ms-aging-adult-services",
+    "name": "Aging and Adult Services (Mississippi)",
+    "agency": "Mississippi Department of Human Services — Division of Aging and Adult Services",
+    "category": "Seniors",
+    "description": "Statewide services for Mississippi adults 60 and older and vulnerable adults: in-home services, caregiver support, adult day care, long-term care ombudsman, and elder protection. Call 601-359-4915. Report vulnerable adult abuse at 844-437-6282.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Adults 60 and older",
+      "Vulnerable adults needing protective services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to learn about services."
+      }
+    ],
+    "prerequisites": [
+      "Call 601-359-4915 or visit mdhs.ms.gov"
+    ],
+    "whatToBring": [
+      "Proof of age",
+      "Proof of Mississippi residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Aging and Adult Services",
+        "value": "601-359-4915"
+      },
+      {
+        "kind": "phone",
+        "label": "Vulnerable Person Abuse Hotline",
+        "value": "844-437-6282"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHS — contact for aging and adult services",
+        "url": "http://www.mdhs.ms.gov/contact/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mdhs.ms.gov/contact/"
+    ]
+  },
+  {
+    "id": "ms-driver-services",
+    "name": "Driver Services — Licenses and IDs (Mississippi)",
+    "agency": "Mississippi Department of Public Safety — Driver Service Bureau",
+    "category": "Transportation",
+    "description": "Official home for Mississippi driver services: driver licenses, learner permits, state ID cards, renewals, and reinstatements. Use the Driver Service Bureau site to find services and station information.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi residents seeking licenses or state IDs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Stations have posted hours; check the site before visiting."
+      }
+    ],
+    "prerequisites": [
+      "Check requirements on the Driver Service Bureau site"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Mississippi residency",
+      "Payment for applicable fees"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver Service Bureau",
+        "value": "https://www.driverservicebureau.dps.ms.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver Service Bureau — official site",
+        "url": "https://www.driverservicebureau.dps.ms.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.driverservicebureau.dps.ms.gov/"
+    ]
+  },
+  {
+    "id": "ms-sos-business-services",
+    "name": "Business Formation and Filing (Mississippi Secretary of State)",
+    "agency": "Mississippi Secretary of State — Business Services",
+    "category": "Small Business",
+    "description": "Online business formation, foreign registrations, annual reports, amendments, registered-agent changes, and certificates through the Mississippi Secretary of State. Business Services Customer Service: 601-359-1633.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Businesses operating in Mississippi"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Annual reports have filing deadlines; check the site."
+      }
+    ],
+    "prerequisites": [
+      "Use the Secretary of State's online filing system"
+    ],
+    "whatToBring": [
+      "Business information",
+      "Payment for filing fees"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Services Customer Service",
+        "value": "601-359-1633"
+      },
+      {
+        "kind": "web",
+        "label": "Business FAQs",
+        "value": "https://www.sos.ms.gov/business-services/business-faqs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Secretary of State — business services FAQs",
+        "url": "https://www.sos.ms.gov/business-services/business-faqs"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sos.ms.gov/business-services/business-faqs"
+    ]
+  },
+  {
+    "id": "ms-student-financial-aid",
+    "name": "State Financial Aid for College (Mississippi)",
+    "agency": "Mississippi Office of State Financial Aid",
+    "category": "Education",
+    "description": "State-funded grants, scholarships, and loan-repayment programs for Mississippi students. Apply through the Mississippi Aid Application (MAAPP) on msfinancialaid.org.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi students meeting program requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Programs have deadlines; check msfinancialaid.org."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Mississippi Aid Application (MAAPP)"
+    ],
+    "whatToBring": [
+      "Student and family financial information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Mississippi Office of State Financial Aid",
+        "value": "https://www.msfinancialaid.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mississippi Office of State Financial Aid — apply",
+        "url": "https://www.msfinancialaid.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.msfinancialaid.org/"
+    ]
+  },
+  {
+    "id": "ms-free-file-taxes",
+    "name": "Free E-File for State Taxes (Mississippi)",
+    "agency": "Mississippi Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "The Department of Revenue lists qualifying free or reduced-fee e-file options for the Mississippi individual income tax return. Check refund status through the Taxpayer Access Point (TAP) or call the refund line at 601-923-7801. General DOR: 601-923-7700.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi individual income tax filers meeting vendor requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Filing season deadlines apply; check the DOR site."
+      }
+    ],
+    "prerequisites": [
+      "Have tax documents ready"
+    ],
+    "whatToBring": [
+      "W-2s and other income documents",
+      "Prior-year tax return if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department of Revenue",
+        "value": "601-923-7700"
+      },
+      {
+        "kind": "phone",
+        "label": "Refund status",
+        "value": "601-923-7801"
+      },
+      {
+        "kind": "web",
+        "label": "DOR e-file information",
+        "value": "http://www.dor.ms.gov/individual/e-file-information"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOR — free e-file information",
+        "url": "http://www.dor.ms.gov/individual/e-file-information"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or reduced-fee options available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.dor.ms.gov/individual/e-file-information",
+      "http://www.dor.ms.gov/contact/individual-income-tax-contact-information"
+    ]
+  },
+  {
+    "id": "ms-child-support",
+    "name": "Child Support Services (Mississippi)",
+    "agency": "Mississippi Department of Human Services — Child Support",
+    "category": "Family & Childcare",
+    "description": "MDHS child support services for Mississippi families. The MDHS contact page lists the Child Support call center at 877-882-4916 for case questions and help getting started.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi parents and custodians"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the child support line for next steps."
+      }
+    ],
+    "prerequisites": [
+      "Call 877-882-4916"
+    ],
+    "whatToBring": [
+      "Child's birth certificate",
+      "Social Security cards",
+      "Any existing child support orders or legal documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child support call center",
+        "value": "877-882-4916"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHS — contact for child support",
+        "url": "http://www.mdhs.ms.gov/contact/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.mdhs.ms.gov/contact/"
+    ]
+  },
+  {
+    "id": "ms-veterans-affairs",
+    "name": "Mississippi Veterans Affairs",
+    "agency": "Mississippi Veterans Affairs Board",
+    "category": "Veterans",
+    "description": "State veterans agency helping Mississippi veterans and their families connect with benefits, services, and programs. Call 1-800-698-2411 or visit msva.ms.gov.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi veterans and their families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit the site any time."
+      }
+    ],
+    "prerequisites": [
+      "Call 1-800-698-2411 or visit msva.ms.gov"
+    ],
+    "whatToBring": [
+      "Military service documentation such as a DD-214"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mississippi Veterans Affairs",
+        "value": "1-800-698-2411"
+      },
+      {
+        "kind": "web",
+        "label": "Mississippi Veterans Affairs Board",
+        "value": "https://www.msva.ms.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mississippi Veterans Affairs — official site",
+        "url": "https://www.msva.ms.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.msva.ms.gov/"
+    ]
+  },
+  {
+    "id": "ms-free-legal-answers",
+    "name": "Mississippi Free Legal Answers — Virtual Legal Clinic",
+    "agency": "American Bar Association — Mississippi Free Legal Answers",
+    "category": "Legal Aid",
+    "description": "No-cost virtual civil legal advice for qualifying Mississippians. Post a legal question online and a volunteer attorney answers. Topics include family, housing, consumer, employment, disability, education, and civil rights.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Income-eligible Mississippi residents with a civil legal question"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit questions online any time."
+      }
+    ],
+    "prerequisites": [
+      "Create an account on ms.freelegalanswers.org"
+    ],
+    "whatToBring": [
+      "Details of your civil legal question"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Mississippi Free Legal Answers",
+        "value": "https://ms.freelegalanswers.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mississippi Free Legal Answers — ask a question",
+        "url": "https://ms.freelegalanswers.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ms.freelegalanswers.org/"
+    ]
+  },
+  {
+    "id": "ms-win-job-centers",
+    "name": "WIN Job Centers (Mississippi)",
+    "agency": "Mississippi Department of Employment Security",
+    "category": "Employment",
+    "description": "Free employment services at WIN Job Centers statewide: job search help, resume and interview workshops, training referrals, and employer services. Locations include Jackson (Hinds Community College Academic and Technical Center, 3925 Sunset Drive), Gulfport (10162 Southpark Drive), and Hattiesburg (1911 Arcadia Street). DeSoto County residents can use the nearby-locations link on the MDES page.",
+    "scope": {
+      "level": "state",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Mississippi job seekers and employers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit during posted center hours."
+      }
+    ],
+    "prerequisites": [
+      "Visit a WIN Job Center during posted hours"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Photo ID",
+      "Social Security card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDES WIN Job Centers",
+        "value": "http://mdes.ms.gov/win-job-centers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDES — find a WIN Job Center",
+        "url": "http://mdes.ms.gov/win-job-centers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://mdes.ms.gov/win-job-centers/"
+    ]
+  },
+  {
+    "id": "fed-va-gulf-coast",
+    "name": "VA Gulf Coast Veterans Health Care System (Biloxi)",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA health care for enrolled veterans at the Biloxi VA Medical Center, 400 Veterans Avenue, Biloxi, MS 39531: primary care, behavioral health, inpatient care, specialty care, and long-term care. Main phone 228-523-5000; toll-free 800-296-8872.",
+    "scope": {
+      "level": "federal",
+      "state": "MS"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and enrollment."
+      }
+    ],
+    "prerequisites": [
+      "Enroll in VA health care"
+    ],
+    "whatToBring": [
+      "Military service documentation",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Biloxi VA Medical Center",
+        "value": "228-523-5000"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-296-8872"
+      },
+      {
+        "kind": "in-person",
+        "label": "Biloxi VA Medical Center",
+        "value": "400 Veterans Avenue, Biloxi, MS 39531"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Gulf Coast Health Care — contact",
+        "url": "http://va.gov/gulf-coast-health-care/contact-us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for enrolled veterans",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://va.gov/gulf-coast-health-care/contact-us"
+    ]
   }
 ]
