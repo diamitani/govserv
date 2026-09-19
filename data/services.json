@@ -92432,5 +92432,2344 @@
     "sources": [
       "https://www.usajobs.gov/"
     ]
+  },
+  {
+    "agency": "DC Department of Human Services (DHS), Economic Security Administration",
+    "applyLinks": [
+      {
+        "label": "DHS Public Benefits — apply via District Direct or paper",
+        "url": "https://dhs.dc.gov/page/public-benefits"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHS Public Benefits",
+        "value": "https://dhs.dc.gov/page/public-benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS ESA Benefits Call Center",
+        "value": "(202) 727-5355"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "description": "Food-purchase assistance for low-income DC individuals and families. New work-requirement rules for certain adults without dependents (ABAWDs) began being implemented on June 1, 2026.",
+    "eligibility": [
+      "DC household",
+      "Meets income, expense, and household-size rules (screened in District Direct)"
+    ],
+    "id": "dc-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — DC",
+    "prerequisites": [
+      "Submit an application online via District Direct, by mobile app, or by paper application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.dhs.dc.gov/snapinfo",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of DC residency",
+      "Proof of income and household expenses"
+    ]
+  },
+  {
+    "agency": "DC Department of Health Care Finance (DHCF)",
+    "applyLinks": [
+      {
+        "label": "DC Medicaid information and how to apply",
+        "url": "https://dhcf.dc.gov/service/medicaid"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHCF / IMA",
+        "value": "(202) 727-5355"
+      },
+      {
+        "kind": "web",
+        "label": "DC Medicaid",
+        "value": "https://dhcf.dc.gov/service/medicaid"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "description": "Health coverage for qualified low-income and disabled DC residents. Apply through DHS Income Maintenance Administration (IMA) service centers.",
+    "eligibility": [
+      "DC resident",
+      "Low income or qualifying disability"
+    ],
+    "id": "dc-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Medicaid",
+    "prerequisites": [
+      "Apply at an IMA service center or through District Direct"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhcf.dc.gov/service/medicaid",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, DC residency, and income (confirm details with the service center)"
+    ]
+  },
+  {
+    "agency": "DC Health",
+    "applyLinks": [
+      {
+        "label": "DC WIC — how to apply",
+        "url": "https://dchealth.dc.gov/service/apply-wic"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC WIC",
+        "value": "202-442-9397"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for WIC",
+        "value": "https://dchealth.dc.gov/service/apply-wic"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments scheduled through local WIC sites"
+      }
+    ],
+    "description": "Nutrition assistance for pregnant and postpartum people, infants, and children up to age 5. Call a local WIC site for screening and a clinic appointment.",
+    "eligibility": [
+      "DC resident",
+      "Pregnant, postpartum, breastfeeding, infant, or child age 1-5",
+      "Meets income guidelines (screened by a WIC site)"
+    ],
+    "id": "dc-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Women, Infants, and Children (WIC) — DC",
+    "prerequisites": [
+      "Call a local WIC site for screening and a clinic appointment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dchealth.dc.gov/service/apply-wic"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of DC residency",
+      "Proof of family income",
+      "Proof of pregnancy or birth",
+      "Child's immunization record"
+    ]
+  },
+  {
+    "agency": "DC Department of Human Services (DHS), Economic Security Administration",
+    "applyLinks": [
+      {
+        "label": "TANF information (DHS)",
+        "url": "http://dhs.dc.gov/service/temporary-cash-assistance-needy-families-tanf"
+      },
+      {
+        "label": "Apply for TANF, SNAP, Medicaid",
+        "url": "https://dhs.dc.gov/page/public-benefits"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHS Public Benefits",
+        "value": "https://dhs.dc.gov/page/public-benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS ESA Benefits Call Center",
+        "value": "(202) 727-5355"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      },
+      {
+        "date": "2027-10-01",
+        "label": "Program changes",
+        "note": "Structural TANF changes begin October 1, 2027"
+      }
+    ],
+    "description": "Cash assistance and supportive services for income-eligible DC families with a child in the home. The Congress Heights OWO and childcare teams move to the Anacostia Service Center beginning September 23, 2026; structural program changes begin October 1, 2027.",
+    "eligibility": [
+      "DC family with a child in the home",
+      "Meets income eligibility rules"
+    ],
+    "id": "dc-tanf",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance for Needy Families (TANF) — DC",
+    "prerequisites": [
+      "Submit an application via District Direct, by mobile app, or by paper application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "http://dhs.dc.gov/service/temporary-cash-assistance-needy-families-tanf",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of DC residency",
+      "Proof of income",
+      "Child's birth certificate"
+    ]
+  },
+  {
+    "agency": "DC Department of Employment Services (DOES)",
+    "applyLinks": [
+      {
+        "label": "Apply for DC Unemployment Insurance benefits",
+        "url": "https://unemployment.dc.gov/page/apply-benefits"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOES Unemployment",
+        "value": "(202) 724-7000"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for UI benefits",
+        "value": "https://unemployment.dc.gov/page/apply-benefits"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Weekly",
+        "note": "File the weekly continued claim within seven calendar days after the week-ending date"
+      }
+    ],
+    "description": "Weekly benefit payments for DC workers who lost their jobs through no fault of their own. Initial claims must be filed online through DCNetworks (initial claims are not taken by phone). ID.me single sign-on began September 4, 2025.",
+    "eligibility": [
+      "Unemployed DC worker",
+      "Meets DC wage and separation requirements"
+    ],
+    "id": "dc-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance — DC",
+    "prerequisites": [
+      "Create a DCNetworks account with ID.me verification",
+      "File the initial claim online"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://unemployment.dc.gov/page/apply-benefits"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Employment history",
+      "Employer information",
+      "ID.me-verified identity"
+    ]
+  },
+  {
+    "agency": "DC Department of Energy and Environment (DOEE)",
+    "applyLinks": [
+      {
+        "label": "DOEE energy assistance status",
+        "url": "https://doee.dc.gov/node/9412"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC 311 (energy assistance questions)",
+        "value": "311"
+      },
+      {
+        "kind": "web",
+        "label": "DOEE LIHEAP page",
+        "value": "https://doee.dc.gov/node/9412"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Paused for FY2026",
+        "note": "No new LIHEAP or UDP applications accepted for FY2026"
+      },
+      {
+        "date": "2026-10-01",
+        "label": "Check for updates",
+        "note": "New fiscal year begins October 1, 2026 — check for reopening announcements"
+      }
+    ],
+    "description": "Help with heating and cooling costs for income-eligible DC households. No new LIHEAP or Utility Discount Program (UDP) applications are being accepted for FY2026, and in-person energy centers are not scheduling FY2026 appointments. Check for updates when the new fiscal year begins October 1, 2026.",
+    "eligibility": [
+      "DC household",
+      "Meets income eligibility (when applications reopen)"
+    ],
+    "id": "dc-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Low Income Home Energy Assistance Program (LIHEAP) — DC",
+    "prerequisites": [
+      "Wait for the application period to reopen for the new fiscal year"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://doee.dc.gov/node/9412"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, DC residency, income, and utility bill (confirm when applications reopen)"
+    ]
+  },
+  {
+    "agency": "DC Office of Tax and Revenue (OTR)",
+    "applyLinks": [
+      {
+        "label": "OTR — real property tax relief programs",
+        "url": "https://otr.cfo.dc.gov/page/real-property-tax-reliefs-credits-and-deductions"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OTR",
+        "value": "(202) 727-4829"
+      },
+      {
+        "kind": "web",
+        "label": "Real property tax reliefs, credits, and deductions",
+        "value": "https://otr.cfo.dc.gov/page/real-property-tax-reliefs-credits-and-deductions"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Check program dates",
+        "note": "Filing deadlines vary by program — see OTR"
+      }
+    ],
+    "description": "Property tax relief programs including the Homestead Deduction, senior/disabled homeowner relief, and disabled-veteran relief. Applications are filed through MyTax.DC.gov.",
+    "eligibility": [
+      "DC homeowner",
+      "Meets program-specific rules (homestead, senior, disability, or disabled-veteran)"
+    ],
+    "id": "dc-property-tax-relief",
+    "languages": [
+      "English"
+    ],
+    "name": "Real Property Tax Relief — DC",
+    "prerequisites": [
+      "Own and occupy a DC home as your principal residence (homestead)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://otr.cfo.dc.gov/page/real-property-tax-reliefs-credits-and-deductions"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of ownership, DC residency, and age/disability/veteran status as applicable"
+    ]
+  },
+  {
+    "agency": "DC Department of Motor Vehicles (DC DMV)",
+    "applyLinks": [
+      {
+        "label": "DC DMV — REAL ID requirements",
+        "url": "https://dmv.dc.gov/node/1119192"
+      },
+      {
+        "label": "Driver license for non-US citizens",
+        "url": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DC DMV — REAL ID info",
+        "value": "https://dmv.dc.gov/node/1119192"
+      },
+      {
+        "kind": "web",
+        "label": "Driver license for non-US citizens",
+        "value": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens"
+      }
+    ],
+    "cost": "Fees vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply at a DC DMV service center during business hours"
+      }
+    ],
+    "description": "REAL ID-compliant driver licenses and identification cards. Applicants must show original proof of identity, Social Security number, and DC residency; driver applicants must also show proof of driving ability. Lawful-presence rules apply; visitor-visa holders cannot receive REAL ID but may qualify for a Limited Purpose credential.",
+    "eligibility": [
+      "DC resident",
+      "Lawful presence in the United States (REAL ID); Limited Purpose credential available for others"
+    ],
+    "id": "dc-real-id",
+    "languages": [
+      "English"
+    ],
+    "name": "REAL ID and Driver Credentials — DC DMV",
+    "prerequisites": [
+      "Bring original documents — no photocopies for identity, Social Security, and residency proof"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dmv.dc.gov/node/1119192",
+      "https://dmv.dc.gov/service/driver-license-for-non-us-citizens"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Original proof of identity",
+      "Social Security number documentation",
+      "Proof of DC residency",
+      "Proof of driving ability (driver license applicants)"
+    ]
+  },
+  {
+    "agency": "DC Housing Finance Agency (DCHFA)",
+    "applyLinks": [
+      {
+        "label": "HomeAdvantage DC — program information",
+        "url": "https://dchfa.org/homeownership/homeadvantage-dc/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HomeAdvantage DC",
+        "value": "https://dchfa.org/homeownership/homeadvantage-dc/"
+      }
+    ],
+    "cost": "Free to apply; mortgage terms per lender",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender"
+      }
+    ],
+    "description": "Mortgage options with or without down-payment assistance for homebuyers. Begin through a participating lender. The property must be in DC and used as the borrower's primary residence.",
+    "eligibility": [
+      "Homebuyer purchasing in DC",
+      "Property used as primary residence"
+    ],
+    "id": "dc-homeadvantage",
+    "languages": [
+      "English"
+    ],
+    "name": "HomeAdvantage DC",
+    "prerequisites": [
+      "Contact a HomeAdvantage participating lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dchfa.org/homeownership/homeadvantage-dc/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation, credit information, and property details (per lender)"
+    ]
+  },
+  {
+    "agency": "DC Department of Aging and Community Living (DACL)",
+    "applyLinks": [
+      {
+        "label": "DACL — services and programs",
+        "url": "https://dacl.dc.gov"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DACL",
+        "value": "(202) 724-5626"
+      },
+      {
+        "kind": "web",
+        "label": "DACL",
+        "value": "https://dacl.dc.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round"
+      }
+    ],
+    "description": "Senior centers, nutrition programs, aging-in-place supports, disability services, and caregiver services for DC residents.",
+    "eligibility": [
+      "DC resident",
+      "Older adult, person with a disability, or caregiver (program-specific)"
+    ],
+    "id": "dc-dacl",
+    "languages": [
+      "English"
+    ],
+    "name": "Department of Aging and Community Living (DACL) Services",
+    "prerequisites": [
+      "Contact DACL to be connected to the right program"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dacl.dc.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of DC residency and age/disability as applicable"
+    ]
+  },
+  {
+    "agency": "DC Mayor's Office of Veterans Affairs (OVA)",
+    "applyLinks": [
+      {
+        "label": "OVA — veteran services",
+        "url": "https://ova.dc.gov"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mayor's Office of Veterans Affairs",
+        "value": "(202) 724-5454"
+      },
+      {
+        "kind": "web",
+        "label": "OVA",
+        "value": "https://ova.dc.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round"
+      }
+    ],
+    "description": "Help with federal VA claims and benefits, advocacy, outreach, and coordination of veteran services. Located at One Judiciary Square, 441 4th Street NW, Suite 707 North, Washington, DC 20001.",
+    "eligibility": [
+      "Veteran or service member connected to DC"
+    ],
+    "id": "dc-ova",
+    "languages": [
+      "English"
+    ],
+    "name": "Mayor's Office of Veterans Affairs",
+    "prerequisites": [
+      "Contact OVA for assistance with VA claims or veteran services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://ova.dc.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military service documentation (DD-214 or equivalent) if available"
+    ]
+  },
+  {
+    "agency": "DC Department on Disability Services (DDS)",
+    "applyLinks": [
+      {
+        "label": "DDS — services",
+        "url": "https://dds.dc.gov"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DDS",
+        "value": "(202) 730-1700"
+      },
+      {
+        "kind": "web",
+        "label": "DDS",
+        "value": "https://dds.dc.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round"
+      }
+    ],
+    "description": "Disability services for DC residents, including developmental disability supports and vocational rehabilitation. Located at 250 E Street SW, Washington, DC 20024.",
+    "eligibility": [
+      "DC resident with a disability (program-specific rules apply)"
+    ],
+    "id": "dc-dds",
+    "languages": [
+      "English"
+    ],
+    "name": "Department on Disability Services",
+    "prerequisites": [
+      "Contact DDS to determine the right program"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dds.dc.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of DC residency and disability documentation"
+    ]
+  },
+  {
+    "agency": "DC Office of the State Superintendent of Education (OSSE)",
+    "applyLinks": [
+      {
+        "label": "DCTAG — program information",
+        "url": "https://osse.dc.gov/dctag"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCTAG",
+        "value": "(202) 741-6406"
+      },
+      {
+        "kind": "phone",
+        "label": "DCTAG TTY",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "DCTAG",
+        "value": "https://osse.dc.gov/dctag"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": "2026-08-21",
+        "label": "2026-27 application closed",
+        "note": "2026-27 application ran Feb 2 through Aug 21, 2026 at 3:00 PM; closed"
+      },
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "Applicants must apply every year"
+      }
+    ],
+    "description": "The DC Tuition Assistance Grant helps eligible DC residents pay for college. The 2026-27 application (February 2 through August 21, 2026, 3:00 PM) is closed. Applicants must apply annually and meet citizenship/status, school, undergraduate, academic-progress, and income requirements, including DC domicile for at least 12 consecutive months before first college attendance.",
+    "eligibility": [
+      "DC domicile for at least 12 consecutive months before first college attendance and continued domicile",
+      "US citizen or eligible status",
+      "Undergraduate pursuing a first degree",
+      "Meets loan-default, academic-progress, and income requirements"
+    ],
+    "id": "dc-dctag",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Tuition Assistance Grant (DCTAG)",
+    "prerequisites": [
+      "Apply annually through DC OneApp when the application opens"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://osse.dc.gov/dctag"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of DC domicile",
+      "Citizenship or eligible-status documentation",
+      "School enrollment documentation"
+    ]
+  },
+  {
+    "agency": "DC Department of Behavioral Health (DBH)",
+    "applyLinks": [
+      {
+        "label": "DBH Access HelpLine information",
+        "url": "https://dbh.dc.gov/page/information-"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DBH Access HelpLine (24/7)",
+        "value": "1-888-793-4357"
+      },
+      {
+        "kind": "phone",
+        "label": "DBH TDD",
+        "value": "(202) 673-7500"
+      },
+      {
+        "kind": "web",
+        "label": "DBH information",
+        "value": "https://dbh.dc.gov/page/information-"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always open",
+        "note": "Available 24 hours a day, 7 days a week"
+      }
+    ],
+    "description": "24/7 helpline connecting DC residents to behavioral health services and service information.",
+    "eligibility": [
+      "Anyone seeking behavioral health services in DC"
+    ],
+    "id": "dc-dbh-helpline",
+    "languages": [
+      "English"
+    ],
+    "name": "DBH Access HelpLine",
+    "prerequisites": [
+      "Call the helpline anytime"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dbh.dc.gov/page/information-"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing - just call the helpline"
+    ]
+  },
+  {
+    "agency": "DC Department of Small and Local Business Development (DSLBD)",
+    "applyLinks": [
+      {
+        "label": "DSLBD divisions and services",
+        "url": "http://dslbd.dc.gov/page/our-divisions"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSLBD",
+        "value": "(202) 727-3900"
+      },
+      {
+        "kind": "web",
+        "label": "DSLBD divisions",
+        "value": "http://dslbd.dc.gov/page/our-divisions"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling, workshops, and seminars run year-round"
+      }
+    ],
+    "description": "Business counseling, workshops and seminars, Certified Business Enterprise (CBE) services, commercial revitalization, innovation programming, and DC APEX procurement assistance for District start-ups and existing businesses.",
+    "eligibility": [
+      "DC-based business or entrepreneur"
+    ],
+    "id": "dc-dslbd",
+    "languages": [
+      "English"
+    ],
+    "name": "Small and Local Business Development Services (DSLBD)",
+    "prerequisites": [
+      "Contact DSLBD to connect with the right division"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "http://dslbd.dc.gov/page/our-divisions"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business information and goals"
+    ]
+  },
+  {
+    "agency": "Legal Aid DC",
+    "applyLinks": [
+      {
+        "label": "Legal Aid DC — online intake",
+        "url": "https://intake.legalaiddc.org/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid DC intake (Mon & Wed, 10 AM-3 PM)",
+        "value": "(202) 628-1161"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Aid DC online intake",
+        "value": "https://intake.legalaiddc.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online applications accepted at any time"
+      }
+    ],
+    "description": "Free legal help for DC matters — no Maryland, Virginia, or other-state cases. Serves households generally at or below 200% of federal poverty guidelines (some matters up to 300%). Covers family/domestic violence, rental housing, immigration, public benefits, reentry, and most consumer matters. Representation is established only with a written agreement.",
+    "eligibility": [
+      "DC legal matter",
+      "Household generally at or below 200% of federal poverty guidelines (some matters up to 300%)"
+    ],
+    "id": "dc-legal-aid",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Legal Aid DC — Free Legal Services",
+    "prerequisites": [
+      "Apply online anytime or call intake Mondays and Wednesdays, 10 AM-3 PM"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://intake.legalaiddc.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Details of the legal issue",
+      "Income information"
+    ]
+  },
+  {
+    "agency": "DC Department of Housing and Community Development (DHCD)",
+    "applyLinks": [
+      {
+        "label": "Inclusionary Zoning program information (DHCD)",
+        "url": "https://dhcd.dc.gov/node/1298716"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHCD — Inclusionary Zoning",
+        "value": "https://dhcd.dc.gov/node/1298716"
+      },
+      {
+        "kind": "phone",
+        "label": "IZ/ADU office (unverified on fetched page text)",
+        "value": "202-442-7221"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling registration",
+        "note": "Attend orientation, register, then enter lotteries as units become available"
+      }
+    ],
+    "description": "Affordable rental and for-sale units set aside in larger new developments. Households must first attend the required IZ orientation class and register for the lottery. DC residents get first priority; most rental units serve households earning 60% or less of Median Family Income and most for-sale units serve households earning 80% or less of MFI.",
+    "eligibility": [
+      "Meets income limits for the unit (generally 60% or less of MFI for rentals, 80% or less for purchase)",
+      "Completed IZ orientation and registration",
+      "Does not own other housing at time of renting or buying an IZ unit"
+    ],
+    "id": "dc-iz",
+    "languages": [
+      "English"
+    ],
+    "name": "Inclusionary Zoning (IZ) Affordable Housing",
+    "prerequisites": [
+      "Attend the IZ orientation class through a DHCD community-based organization",
+      "Complete the online IZ registration"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhcd.dc.gov/node/1298716"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Household information"
+    ]
+  },
+  {
+    "agency": "DC Department of Housing and Community Development (DHCD)",
+    "applyLinks": [
+      {
+        "label": "HPAP homebuyer assistance (DHCD)",
+        "url": "https://dhcd.dc.gov/sites/default/files/dc/sites/dhcd/publication/attachments/Homebuyer%20Assistance%20Program%20Fact%20Sheet%20December%20English%202017%20b.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing Counseling Services (HPAP intake)",
+        "value": "(202) 667-7006"
+      },
+      {
+        "kind": "phone",
+        "label": "Latino Economic Development Center",
+        "value": "(202) 540-7401"
+      },
+      {
+        "kind": "phone",
+        "label": "Lydia's House",
+        "value": "(202) 373-1050"
+      },
+      {
+        "kind": "phone",
+        "label": "University Legal Services",
+        "value": "(202) 650-5631"
+      },
+      {
+        "kind": "phone",
+        "label": "DHCD",
+        "value": "(202) 442-7200"
+      }
+    ],
+    "cost": "Free to apply; assistance is an interest-free loan",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a DHCD-funded community-based organization; amounts follow the current DHCD assistance table"
+      }
+    ],
+    "description": "Down payment and closing-cost assistance for first-time DC homebuyers purchasing single-family homes, condominiums, or cooperative units. Assistance is an interest-free loan; the 2017 assistance table allowed up to $80,000 in down-payment help plus closing-cost assistance at 4% of the price or $4,000 (whichever is less) — check DHCD for the current table.",
+    "eligibility": [
+      "Head of household and first-time homebuyer",
+      "Very low-to-moderate income per DHCD standards",
+      "Good credit rating",
+      "No ownership interest in residential real estate within three years before applying",
+      "Purchase a DC home used as primary residence"
+    ],
+    "id": "dc-hpap",
+    "languages": [
+      "English"
+    ],
+    "name": "Home Purchase Assistance Program (HPAP)",
+    "prerequisites": [
+      "Contact a DHCD-funded community-based organization to start the application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhcd.dc.gov/sites/default/files/dc/sites/dhcd/publication/attachments/Homebuyer%20Assistance%20Program%20Fact%20Sheet%20December%20English%202017%20b.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and household information",
+      "Credit documentation"
+    ]
+  },
+  {
+    "agency": "DC Department of Housing and Community Development (DHCD), Rental Accommodations Division",
+    "applyLinks": [
+      {
+        "label": "DHS housing FAQ — rent control information",
+        "url": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Rent control information (DHS FAQ)",
+        "value": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing",
+        "note": "Rent control protections apply continuously for covered units"
+      }
+    ],
+    "description": "Rent stabilization under the Rental Housing Act of 1985 (DC Law 6-10) protects low- and moderate-income tenants from rising housing costs and provides eviction protections. It limits how much a landlord can raise rent each year in covered buildings. Units must be registered with the Rental Accommodations Division (RAD) as subject to or exempt from rent control; units not registered are automatically covered.",
+    "eligibility": [
+      "Tenant in a DC rental unit covered by the Rental Housing Act"
+    ],
+    "id": "dc-rent-control",
+    "languages": [
+      "English"
+    ],
+    "name": "Rent Control (Rent Stabilization) — DC",
+    "prerequisites": [
+      "Check whether the unit is registered with RAD"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Lease or tenancy information"
+    ]
+  },
+  {
+    "agency": "DC Housing Authority (DCHA)",
+    "applyLinks": [
+      {
+        "label": "DCHA voucher FAQs and contact",
+        "url": "https://www.dchousing.org/wordpress/vouchers/faq/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCHA Call Center",
+        "value": "202-535-1000"
+      },
+      {
+        "kind": "web",
+        "label": "DCHA voucher FAQs",
+        "value": "https://www.dchousing.org/wordpress/vouchers/faq/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist closed",
+        "note": "The HCVP waiting list is closed to new applicants; DCHA has no current plans to reopen it"
+      }
+    ],
+    "description": "Federally funded rental assistance (formerly Section 8) administered by DCHA for use in DC's private rental market. Participants generally pay about 30% of their household's adjusted gross income toward rent, with DCHA paying the remainder to the landlord. The waiting list is closed to new applicants.",
+    "eligibility": [
+      "Family or individual per HUD and DCHA definitions",
+      "Income at or below 50% of area median income",
+      "Citizenship or eligible immigration status",
+      "Social security number information as required"
+    ],
+    "id": "dc-hcvp",
+    "languages": [
+      "English"
+    ],
+    "name": "Housing Choice Voucher Program (HCVP / Section 8) — DC",
+    "prerequisites": [
+      "Wait for the waiting list to reopen — DCHA has no current plans to reopen it"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.dchousing.org/wordpress/vouchers/faq/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Household information",
+      "Identification documents"
+    ]
+  },
+  {
+    "agency": "DC Housing Authority (DCHA), funded by the District",
+    "applyLinks": [
+      {
+        "label": "DCHA voucher FAQs and contact",
+        "url": "https://www.dchousing.org/wordpress/vouchers/faq/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCHA Call Center",
+        "value": "202-535-1000"
+      },
+      {
+        "kind": "web",
+        "label": "DCHA voucher FAQs",
+        "value": "https://www.dchousing.org/wordpress/vouchers/faq/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Some LRSP vouchers require a referral from DHS"
+      }
+    ],
+    "description": "Locally funded monthly rental subsidy for extremely low-income DC families (incomes at or below 30% of area median income). Covers the difference between what the family can afford and the unit's rent; participants typically pay 30% of gross household income. Available as tenant-based, project-based, and sponsor-based vouchers.",
+    "eligibility": [
+      "DC family",
+      "Income at or below 30% of area median income",
+      "Some vouchers require a DHS referral"
+    ],
+    "id": "dc-lrsp",
+    "languages": [
+      "English"
+    ],
+    "name": "Local Rent Supplement Program (LRSP)",
+    "prerequisites": [
+      "Contact DCHA or DHS for referral and enrollment steps"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.dchousing.org/wordpress/vouchers/faq/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Household information"
+    ]
+  },
+  {
+    "agency": "DC Department of Human Services (DHS), Family Services Administration",
+    "applyLinks": [
+      {
+        "label": "Family Re-Housing Stabilization Program (DHS)",
+        "url": "https://dhs.dc.gov/page/family-re-housing-stabilization-program"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "DHS FRSP office",
+        "value": "rapidrehousing@dc.gov"
+      },
+      {
+        "kind": "web",
+        "label": "FRSP program page",
+        "value": "https://dhs.dc.gov/page/family-re-housing-stabilization-program"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Referral-based",
+        "note": "Families are assessed by an approved referring provider"
+      },
+      {
+        "date": null,
+        "label": "No FY2026 extensions",
+        "note": "Funding for FRSP extensions beyond the standard 12-month program period is exhausted for FY2026"
+      }
+    ],
+    "description": "Time-limited rental assistance (up to 12 months) and supportive case management helping families move from shelter into private rental housing. Includes first month's rent and security deposit, a basic furniture package, moving assistance, and case management. Funding for extensions beyond 12 months is exhausted for FY2026.",
+    "eligibility": [
+      "Family experiencing homelessness, connected through shelter and assessed by an approved referring provider"
+    ],
+    "id": "dc-rrh",
+    "languages": [
+      "English"
+    ],
+    "name": "Family Re-Housing Stabilization Program (Rapid Re-Housing)",
+    "prerequisites": [
+      "Be assessed by an approved referring provider (families enter through the shelter system)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhs.dc.gov/page/family-re-housing-stabilization-program"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Income information (per referring provider)"
+    ]
+  },
+  {
+    "agency": "DC Department of Human Services (DHS), Family Services Administration",
+    "applyLinks": [
+      {
+        "label": "ERAP rental assistance portal FAQs",
+        "url": "https://erap.dhs.dc.gov/faqs"
+      },
+      {
+        "label": "ERAP program information (DHS)",
+        "url": "https://dhs.dc.gov/service/emergency-rental-assistance-program"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ERAP appointment line",
+        "value": "202-507-6666"
+      },
+      {
+        "kind": "email",
+        "label": "DHS/FSA ERAP office",
+        "value": "erap.program@dc.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "OAH fair-hearing appeals",
+        "value": "(202) 442-9094"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Appointments paused",
+        "note": "ERAP has paused scheduling new appointments to process existing ones; more may open based on budget"
+      },
+      {
+        "date": null,
+        "label": "Once per 12 months",
+        "note": "Households may apply for and receive ERAP once in a 12-month period"
+      }
+    ],
+    "description": "Emergency rental assistance for DC residents earning less than 40% of area median income facing housing emergencies: overdue rent (including late fees and court costs) for households facing eviction, plus security deposits and first month's rent for moves. Per HUD rent-reasonableness guidelines, assistance may be up to five times the rental amount. Apply by calling to schedule an appointment; scheduling is currently paused.",
+    "eligibility": [
+      "Current DC resident (leaseholder for a DC unit for back-rent assistance)",
+      "Income below 40% of area median income (e.g., FY26: $45,892/yr for a 1-person household)",
+      "At least 30 days behind in rent (back-rent) or need for security deposit/first month's rent"
+    ],
+    "id": "dc-erap",
+    "languages": [
+      "English"
+    ],
+    "name": "Emergency Rental Assistance Program (ERAP)",
+    "prerequisites": [
+      "Call 202-507-6666 to schedule an appointment when scheduling reopens"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhs.dc.gov/service/emergency-rental-assistance-program",
+      "https://erap.dhs.dc.gov/faqs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of residency (lease, landlord letter)",
+      "Photo ID for all adults in household",
+      "Proof of income for last 30 days",
+      "Bank statements for last 30 days",
+      "Proof of the emergency (e.g., termination letter, medical documentation)"
+    ]
+  },
+  {
+    "agency": "DC Department of Human Services (DHS)",
+    "applyLinks": [
+      {
+        "label": "Homeless services hotline information (ERAP portal)",
+        "url": "https://erap.dhs.dc.gov/faqs"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Homeless Services / Shelter Hotline",
+        "value": "202-399-7093"
+      },
+      {
+        "kind": "phone",
+        "label": "DC 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Virginia Williams Family Resource Center (families)",
+        "value": "202-526-0017"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always open",
+        "note": "The shelter hotline operates for shelter availability and transport"
+      }
+    ],
+    "description": "Emergency shelter access in DC. Individuals experiencing or at risk of homelessness can call the Shelter Hotline (202-399-7093) or 311 for shelter availability and transport. Families seeking help go through the Virginia Williams Family Resource Center (VWFRC), 64 New York Avenue NE — open Monday-Thursday 8:30 AM-4:00 PM and Friday 8:30 AM-12:00 PM (202-526-0017); after hours, families call the Homeless Services Hotline at 202-399-7093 or 311.",
+    "eligibility": [
+      "Individuals or families experiencing or at risk of homelessness in DC"
+    ],
+    "id": "dc-shelter",
+    "languages": [
+      "English"
+    ],
+    "name": "Emergency Shelter and Homeless Services",
+    "prerequisites": [
+      "Call the Shelter Hotline for individuals; families go through VWFRC central intake"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://erap.dhs.dc.gov/faqs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID if available"
+    ]
+  },
+  {
+    "agency": "DC Office of Unified Communications (OUC)",
+    "applyLinks": [
+      {
+        "label": "DC 311 online portal",
+        "url": "https://311.dc.gov"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC 311 (in DC)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "DC 311 (outside DC)",
+        "value": "(202) 737-4404"
+      },
+      {
+        "kind": "web",
+        "label": "DC 311 online portal",
+        "value": "https://311.dc.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always open",
+        "note": "Available 24 hours a day, 365 days a year"
+      }
+    ],
+    "description": "One-stop access to DC government services and information — request city services, report issues, and get connected to the right agency. Dial 311 inside DC or (202) 737-4404 from outside. Text NEW or MENU to 32311; live chat is available 8:00 AM-5:15 PM.",
+    "eligibility": [
+      "Anyone seeking DC city services or information"
+    ],
+    "id": "dc-311",
+    "languages": [
+      "English"
+    ],
+    "name": "DC 311 Citywide Call Center",
+    "prerequisites": [
+      "None — call, text, or use the online portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://ouc.dc.gov/featured-content/311-citywide-call-center"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing - just call, text, or use the online portal"
+    ]
+  },
+  {
+    "agency": "My School DC",
+    "applyLinks": [
+      {
+        "label": "My School DC — application information",
+        "url": "https://www.myschooldc.org/zh/node/37"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "My School DC hotline (Mon-Fri, 8 AM-5 PM)",
+        "value": "(202) 888-6336"
+      },
+      {
+        "kind": "web",
+        "label": "My School DC",
+        "value": "https://www.myschooldc.org/zh/node/37"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-02-02",
+        "label": "2026 lottery (grades 9-12)",
+        "note": "2026 lottery deadline for grades 9-12 was February 2, 2026"
+      },
+      {
+        "date": "2026-03-02",
+        "label": "2026 lottery (PK3-grade 8)",
+        "note": "2026 lottery deadline for PK3-grade 8 was March 2, 2026"
+      },
+      {
+        "date": null,
+        "label": "Post-lottery",
+        "note": "Post-lottery applications are still accepted and placed behind timely applicants (preferences may apply)"
+      }
+    ],
+    "description": "DC's common public-school application for PK3/PK4, out-of-boundary or selective DCPS schools, and participating public charter schools. The 2026 lottery deadlines have passed (February 2 for grades 9-12; March 2 for PK3-grade 8), but post-lottery applications remain possible. Interpreter help is available through the hotline.",
+    "eligibility": [
+      "Child entering PK3/PK4, an out-of-boundary or selective DCPS school, or a participating charter school"
+    ],
+    "id": "dc-myschooldc",
+    "languages": [
+      "English"
+    ],
+    "name": "My School DC — Public School Application",
+    "prerequisites": [
+      "Rank school choices; apply online or through the hotline"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.myschooldc.org/zh/node/37"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Child and guardian details",
+      "Address and phone",
+      "Preferred language",
+      "School rankings"
+    ]
+  },
+  {
+    "agency": "DC Water, eligibility verified by DC Department of Energy and Environment (DOEE)",
+    "applyLinks": [
+      {
+        "label": "DC Water — customer financial assistance",
+        "url": "http://www.dcwater.com/customer-center/financial-assistance/customer-assistance"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC Water customer assistance",
+        "value": "(202) 350-9649"
+      },
+      {
+        "kind": "phone",
+        "label": "DC Water payment plans",
+        "value": "(202) 354-3600"
+      },
+      {
+        "kind": "phone",
+        "label": "SPLASH emergency assistance (GWUL, Mon-Fri 9 AM-5 PM)",
+        "value": "(202) 265-8200"
+      },
+      {
+        "kind": "email",
+        "label": "Water assistance email",
+        "value": "waterassistance@dc.gov"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "FY2026 income tables run October 1, 2025 through September 30, 2026"
+      }
+    ],
+    "description": "Income-qualified water and sewer discounts (CAP+, CAP1, CAP2, CAP3) with eligibility verified by DOEE. Apply online, by email to waterassistance@dc.gov, or by mail to DOEE. Flexible payment plans are available at (202) 354-3600, and SPLASH emergency assistance is available through the Greater Washington Urban League at (202) 265-8200, Monday-Friday 9 AM-5 PM.",
+    "eligibility": [
+      "DC Water customer",
+      "Meets income qualifications (DOEE verifies)"
+    ],
+    "id": "dc-water-cap",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Water Customer Assistance Programs",
+    "prerequisites": [
+      "Gather income proof, photo ID, and a recent DC Water bill"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "http://www.dcwater.com/customer-center/financial-assistance/customer-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income (recent)",
+      "Government-issued photo ID",
+      "Recent DC Water bill",
+      "Proof of ownership or lease (if needed)",
+      "Signed application"
+    ]
+  },
+  {
+    "agency": "University of the District of Columbia (UDC) Community College",
+    "applyLinks": [
+      {
+        "label": "UDC Community College information",
+        "url": "https://www.udc.edu/news/2023/05/the-university-of-the-district-of-columbia-renames-the-bertie-backus-campus-to-the-lamond-riggs-campus"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "UDC Community College",
+        "value": "https://www.udc.edu/news/2023/05/the-university-of-the-district-of-columbia-renames-the-bertie-backus-campus-to-the-lamond-riggs-campus"
+      }
+    ],
+    "cost": "Tuition and fees apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Community College admits on an open-admissions basis"
+      }
+    ],
+    "description": "DC's public community college, now at the Lamond-Riggs Campus (5171 South Dakota Avenue NE). Offers associate degrees and certificates including law enforcement, information technology, engineering sciences, and accredited programs such as nursing, mortuary science, respiratory therapy, and aviation maintenance technology. Students applying to the Community College are admitted on an open-admissions basis. Open Monday-Thursday 8:30 AM-8:30 PM, Friday 8:30 AM-5:00 PM, Saturday 8:30 AM-5:30 PM.",
+    "eligibility": [
+      "Open admissions for Community College applicants"
+    ],
+    "id": "dc-udc-cc",
+    "languages": [
+      "English"
+    ],
+    "name": "UDC Community College",
+    "prerequisites": [
+      "Apply to the University; selective allied-health programs require separate program applications"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.udc.edu/news/2023/05/the-university-of-the-district-of-columbia-renames-the-bertie-backus-campus-to-the-lamond-riggs-campus"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Application materials per the UDC admissions office"
+    ]
+  },
+  {
+    "agency": "Washington Metropolitan Area Transit Authority (WMATA)",
+    "applyLinks": [
+      {
+        "label": "Metro Lift — reduced fare program",
+        "url": "https://www.wmata.com/pay/fare-programs/metrolift.html"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WMATA (language assistance, 100+ languages)",
+        "value": "202-637-7000"
+      },
+      {
+        "kind": "phone",
+        "label": "WMATA TTY",
+        "value": "202-638-3780"
+      },
+      {
+        "kind": "web",
+        "label": "Metro Lift",
+        "value": "https://www.wmata.com/pay/fare-programs/metrolift.html"
+      }
+    ],
+    "cost": "Free to enroll",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll for free in as little as 5 minutes"
+      }
+    ],
+    "description": "50% off all Metro Bus and Metro Rail trips for customers enrolled in SNAP in Washington, DC, Maryland, or Virginia. Excludes pass products and MetroAccess. Since July 1, 2026, Metro Lift customers can also use the same payment on the Arlington Transit (ART) system. Enroll online or in person.",
+    "eligibility": [
+      "Currently enrolled in SNAP in DC, Maryland, or Virginia"
+    ],
+    "id": "dc-metro-lift",
+    "languages": [
+      "English"
+    ],
+    "name": "Metro Lift — Reduced Fares",
+    "prerequisites": [
+      "SmarTrip card for each SNAP household member being enrolled",
+      "Active SNAP EBT card and photo ID"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.wmata.com/pay/fare-programs/metrolift.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "SmarTrip card",
+      "Active SNAP EBT card",
+      "SNAP benefits summary (if enrolling household members)",
+      "Government-issued photo ID",
+      "Phone number"
+    ]
+  },
+  {
+    "agency": "Washington Metropolitan Area Transit Authority (WMATA)",
+    "applyLinks": [
+      {
+        "label": "MetroAccess customer guide and application",
+        "url": "https://www.wmata.com/service/accessibility/metro-access/upload/MetroAccess-Customer-Guide.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Transit Accessibility Center",
+        "value": "(202) 962-2700"
+      },
+      {
+        "kind": "phone",
+        "label": "Transit Accessibility Center TTY",
+        "value": "(202) 962-2033"
+      },
+      {
+        "kind": "phone",
+        "label": "Travel Training",
+        "value": "(202) 962-2780"
+      },
+      {
+        "kind": "web",
+        "label": "MetroAccess information",
+        "value": "https://www.wmata.com/service/accessibility/metro-access/upload/MetroAccess-Customer-Guide.pdf"
+      }
+    ],
+    "cost": "Free to apply; trips at MetroAccess fare",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Determination within 21 days after the functional assessment"
+      }
+    ],
+    "description": "Shared-ride, door-to-door ADA complementary paratransit for people unable to use fixed-route bus or rail because of a disability. Applying requires the application plus an in-person functional assessment at the Transit Accessibility Center (655 Virginia Avenue SW, Washington, DC). Free travel training is available for using fixed-route service.",
+    "eligibility": [
+      "Person whose disability prevents use of fixed-route Metro Bus/Rail (verified by functional assessment)"
+    ],
+    "id": "dc-metroaccess",
+    "languages": [
+      "English"
+    ],
+    "name": "MetroAccess — ADA Paratransit",
+    "prerequisites": [
+      "Submit the application and complete an in-person functional assessment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.wmata.com/service/accessibility/metro-access/upload/MetroAccess-Customer-Guide.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed application",
+      "Disability documentation per the application"
+    ]
+  },
+  {
+    "agency": "DC Office of the State Superintendent of Education (OSSE)",
+    "applyLinks": [
+      {
+        "label": "DC Child Care Subsidy information",
+        "url": "https://osse.dc.gov/subsidy"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC Child Care Connections",
+        "value": "(202) 829-2500"
+      },
+      {
+        "kind": "email",
+        "label": "DC Child Care Connections",
+        "value": "info@dcchildcareconnections.org"
+      },
+      {
+        "kind": "phone",
+        "label": "OSSE",
+        "value": "(202) 727-6436"
+      },
+      {
+        "kind": "phone",
+        "label": "OSSE TTY",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "Child Care Subsidy",
+        "value": "https://osse.dc.gov/subsidy"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist active",
+        "note": "Waitlist in effect since May 12, 2026; Priority Groups 4-6 are on the waitlist, Groups 1-3 may enroll as of July 8, 2026"
+      }
+    ],
+    "description": "Pays all or part of child care costs for low- and moderate-income DC families. A waitlist has been in effect since May 12, 2026; as of July 8, 2026, Priority Groups 1-3 may enroll while Groups 4-6 go on the waitlist. Existing recipients continue receiving the subsidy if they remain eligible and complete redetermination. New providers joining the subsidy program are on hold as of May 12, 2026.",
+    "eligibility": [
+      "DC family",
+      "Low-to-moderate income per OSSE priority groups"
+    ],
+    "id": "dc-child-care-subsidy",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Child Care Subsidy (Child Care Assistance)",
+    "prerequisites": [
+      "Apply online, in person through DHS or an authorized Level II provider, or through Virginia Williams FRC if experiencing homelessness"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://osse.dc.gov/subsidy"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Proof of DC residency",
+      "Child information"
+    ]
+  },
+  {
+    "agency": "DC Office of the State Superintendent of Education (OSSE)",
+    "applyLinks": [
+      {
+        "label": "DC Futures program information",
+        "url": "https://osse.dc.gov/node/1574531"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OSSE — DC Futures",
+        "value": "(202) 727-2824"
+      },
+      {
+        "kind": "email",
+        "label": "OSSE — DC Futures",
+        "value": "osse.dcfutures@dc.gov"
+      },
+      {
+        "kind": "web",
+        "label": "DC Futures",
+        "value": "https://osse.dc.gov/node/1574531"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": "2026-08-21",
+        "label": "2026-27 application closed",
+        "note": "2026-27 application ran Feb 2 through Aug 21, 2026 at 3:00 PM EDT; closed to new applicants for 2026-27"
+      },
+      {
+        "date": null,
+        "label": "Returning participants only",
+        "note": "2026-27 eligibility is limited to current 2025-26 participants due to funding constraints"
+      }
+    ],
+    "description": "Last-dollar scholarship plus college coaching and supports to help DC college students complete a first associate or bachelor's degree at three partner universities. The 2026-27 year is limited to current 2025-26 participants due to funding constraints — no new applicants.",
+    "eligibility": [
+      "Current 2025-26 DC Futures participant (for 2026-27)"
+    ],
+    "id": "dc-futures",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Futures Scholarship",
+    "prerequisites": [
+      "For future years: complete the FAFSA and the DC Futures application when open to new applicants"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://osse.dc.gov/node/1574531"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA completion (when applicable)"
+    ]
+  },
+  {
+    "agency": "DC Health Benefit Exchange Authority (DC Health Link)",
+    "applyLinks": [
+      {
+        "label": "DC Health Link — official marketplace news and enrollment",
+        "url": "https://www.dchealthlink.com/news/2024-01/one-week-left-sign-health-insurance-through-dchealthlinkcom-mayor-bowser-urges"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DC Health Link (Mon-Fri, 8 AM-6 PM)",
+        "value": "855-532-5465"
+      },
+      {
+        "kind": "web",
+        "label": "DC Health Link",
+        "value": "https://www.dchealthlink.com/news/2024-01/one-week-left-sign-health-insurance-through-dchealthlinkcom-mayor-bowser-urges"
+      }
+    ],
+    "cost": "Free to enroll; plan premiums vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal for individuals",
+        "note": "Individual and family enrollment runs during seasonal open enrollment; Medicaid and small-business enrollment are year-round"
+      }
+    ],
+    "description": "DC's official health insurance marketplace under the Affordable Care Act. Enroll online at DCHealthLink.com, by phone at 855-532-5465 (Monday-Friday 8 AM-6 PM), through virtual appointments, or at in-person enrollment centers with certified assisters. Medicaid and small-business enrollment are available year-round.",
+    "eligibility": [
+      "DC resident seeking health coverage"
+    ],
+    "id": "dc-health-link",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Health Link — Health Insurance Marketplace",
+    "prerequisites": [
+      "Enroll online, by phone, via virtual appointment, or in person with an assister"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.dchealthlink.com/news/2024-01/one-week-left-sign-health-insurance-through-dchealthlinkcom-mayor-bowser-urges"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and household information"
+    ]
+  },
+  {
+    "agency": "DC Office of the Tenant Advocate (OTA)",
+    "applyLinks": [
+      {
+        "label": "DHS housing FAQ — tenant resources",
+        "url": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of the Tenant Advocate",
+        "value": "(202) 719-6560"
+      },
+      {
+        "kind": "web",
+        "label": "Tenant resources (DHS FAQ)",
+        "value": "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available year-round"
+      }
+    ],
+    "description": "Free tenant advocacy for DC renters — advice on disputes with landlords, tenant-rights education, and referrals for housing help.",
+    "eligibility": [
+      "DC renter with a housing issue"
+    ],
+    "id": "dc-ota",
+    "languages": [
+      "English"
+    ],
+    "name": "Office of the Tenant Advocate",
+    "prerequisites": [
+      "Contact OTA by phone for assistance"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dhs.dc.gov/sites/default/files/dc/sites/dhs/page_content/attachments/FAQ%20for%20Tenant%20Associations_STANDARD_0.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Lease or tenancy information",
+      "Documentation of the housing issue"
+    ]
+  },
+  {
+    "agency": "DC Department of Parks and Recreation (DPR)",
+    "applyLinks": [
+      {
+        "label": "DPR — registration information",
+        "url": "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DPR Customer Care",
+        "value": "(202) 673-7647"
+      },
+      {
+        "kind": "web",
+        "label": "DPR registration",
+        "value": "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+      }
+    ],
+    "cost": "Free and low-cost programs",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Programs are offered seasonally — check the current season's schedule"
+      }
+    ],
+    "description": "Free and low-cost recreation programs for DC residents, including youth sports, dance and fitness classes, environmental programs, and camps. Register online — each participant needs an account.",
+    "eligibility": [
+      "DC resident"
+    ],
+    "id": "wdc-dpr",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Parks and Recreation Programs (DPR)",
+    "prerequisites": [
+      "Create a DPR registration account online"
+    ],
+    "scope": {
+      "city": "Washington",
+      "level": "city",
+      "state": "DC"
+    },
+    "sources": [
+      "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Participant information and proof of DC residency"
+    ]
+  },
+  {
+    "agency": "DC Public Library (DCPL)",
+    "applyLinks": [
+      {
+        "label": "Martin Luther King Jr. Memorial Library",
+        "url": "https://www.dclibrary.org/location-type/central-library"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MLK Jr. Memorial Library",
+        "value": "https://www.dclibrary.org/location-type/central-library"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Open",
+        "note": "Library services available year-round"
+      }
+    ],
+    "description": "The Martin Luther King Jr. Memorial Library (901 G St NW) offers Adult Learning services, the Center for Accessibility, Outreach and Inclusion, passport acceptance, creative Labs, and the People's Archive.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "wdc-dpl",
+    "languages": [
+      "English"
+    ],
+    "name": "DC Public Library — MLK Jr. Memorial Library",
+    "prerequisites": [
+      "None — walk in during library hours"
+    ],
+    "scope": {
+      "city": "Washington",
+      "level": "city",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.dclibrary.org/location-type/central-library"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Nothing - library services are walk-in"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA) — Veterans Health Administration",
+    "applyLinks": [
+      {
+        "label": "Washington DC VA Medical Center — contact",
+        "url": "https://www.va.gov/washington-dc-health-care/contact-us/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Washington DC VA Medical Center",
+        "value": "202-745-8000"
+      },
+      {
+        "kind": "phone",
+        "label": "VA toll-free",
+        "value": "877-328-2621"
+      },
+      {
+        "kind": "phone",
+        "label": "VA TTY",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "Washington DC VA Medical Center",
+        "value": "https://www.va.gov/washington-dc-health-care/contact-us/"
+      }
+    ],
+    "cost": "Free for enrolled veterans (copays may apply)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always open",
+        "note": "Veterans Crisis Line: dial 988, press 1"
+      }
+    ],
+    "description": "VA health care in DC at the Washington DC VA Medical Center, 50 Irving Street NW, Washington, DC 20422. Services include appointments, medical advice, pharmacy, mental health, homeless-veteran care, primary care, and caregiver support.",
+    "eligibility": [
+      "Eligible veteran (enrollment per VA rules)"
+    ],
+    "id": "fed-va-dc",
+    "languages": [
+      "English"
+    ],
+    "name": "Washington DC VA Medical Center",
+    "prerequisites": [
+      "Enroll in VA health care; call for appointments"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.va.gov/washington-dc-health-care/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or service documentation",
+      "Photo ID"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "SSA — how to apply for retirement benefits",
+        "url": "http://www.ssa.gov/faqs/en/questions/KA-01891.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA (Mon-Fri, 8 AM-7 PM local)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "web",
+        "label": "SSA retirement information",
+        "value": "http://www.ssa.gov/faqs/en/questions/KA-01891.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply up to 4 months before the date you want benefits to start"
+      }
+    ],
+    "description": "Social Security retirement benefits. Apply online through your my Social Security account, by phone at 1-800-772-1213 (Monday-Friday, 8 AM-7 PM), or at a local office. Apply up to four months before you want your benefits to start.",
+    "eligibility": [
+      "Worker with sufficient Social Security credits",
+      "Meets age requirements"
+    ],
+    "id": "fed-ssa-retirement-dc",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Retirement Benefits",
+    "prerequisites": [
+      "Have a my Social Security account or call SSA"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "DC"
+    },
+    "sources": [
+      "http://www.ssa.gov/faqs/en/questions/KA-01891.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Employment history",
+      "Bank account for direct deposit"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration (SBA) — Washington Metropolitan Area District Office",
+    "applyLinks": [
+      {
+        "label": "SBA Washington Metropolitan Area District Office",
+        "url": "https://www.sba.gov/district/washington-metropolitan"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA Washington Metropolitan Area District",
+        "value": "https://www.sba.gov/district/washington-metropolitan"
+      }
+    ],
+    "cost": "Free counseling; loan terms vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling and program help available year-round"
+      }
+    ],
+    "description": "Free help with SBA funding programs, business counseling, federal contracting certifications, disaster recovery, and referrals to partner organizations. Serves DC and the surrounding metro jurisdictions.",
+    "eligibility": [
+      "Small business owner in DC or the Washington metro area"
+    ],
+    "id": "fed-sba-dc",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA — Washington Metropolitan Area District Office",
+    "prerequisites": [
+      "Contact the office or a resource partner"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.sba.gov/district/washington-metropolitan"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business plan or business information"
+    ]
+  },
+  {
+    "agency": "Federal Communications Commission (FCC) / USAC",
+    "applyLinks": [
+      {
+        "label": "FCC Lifeline — for consumers",
+        "url": "https://www.fcc.gov/lifeline-consumers"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lifeline Support",
+        "value": "1-800-234-9473"
+      },
+      {
+        "kind": "email",
+        "label": "Lifeline Support",
+        "value": "LifelineSupport@usac.org"
+      },
+      {
+        "kind": "web",
+        "label": "FCC Lifeline",
+        "value": "https://www.fcc.gov/lifeline-consumers"
+      }
+    ],
+    "cost": "Free; benefit reduces phone or internet bill",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Recertify eligibility annually"
+      }
+    ],
+    "description": "Discounted phone and internet service for qualifying households. Eligible if household income is at or below 135% of the federal poverty guidelines or a household member participates in a qualifying program. One Lifeline benefit per household; must recertify every year. Apply online, by mail, or through a participating phone or internet provider.",
+    "eligibility": [
+      "Income at or below 135% of federal poverty guidelines, or participation in a qualifying program"
+    ],
+    "id": "fed-lifeline-dc",
+    "languages": [
+      "English"
+    ],
+    "name": "Lifeline Phone and Internet Discount",
+    "prerequisites": [
+      "Apply through the National Verifier, by mail, or via a participating provider"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "DC"
+    },
+    "sources": [
+      "https://www.fcc.gov/lifeline-consumers"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income or qualifying-program participation",
+      "Photo ID"
+    ]
   }
 ]
