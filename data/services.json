@@ -29986,5 +29986,1926 @@
     "sources": [
       "http://montgomerytn.gov/publiclibrary"
     ]
+  },
+  {
+    "id": "indy-indygo-fares",
+    "name": "IndyGo Reduced Fares and Veterans Pass",
+    "agency": "Indianapolis Public Transportation Corporation (IndyGo)",
+    "category": "Transportation",
+    "description": "Half fare ($1.35 two-hour fare, $3 daily cap, $12.15 weekly cap) for riders 65+ with a Medicare card or IndyGo Half Fare ID, youth 18 and younger with a K-12 student ID or Half Fare ID, and people with disabilities with a Half Fare ID; a healthcare professional or agency must verify disability on the supplemental form. Veterans ride fixed-route and rapid-transit service free with an IndyGo veterans pass. Half-fare cards are free (replacements $5); the veterans pass costs $2 initially ($5 to replace) and does not cover Access paratransit. MyKey+ is the current fare card system.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "Indianapolis",
+      "county": "Marion"
+    },
+    "eligibility": [
+      "65 or older with a Medicare card or IndyGo Half Fare ID",
+      "Youth 18 and younger with a K-12 student ID or Half Fare ID",
+      "People with disabilities with a Half Fare ID",
+      "Veterans with photo ID plus a DD214, VA ID, or veteran designation on a state license/ID (dishonorable discharge excluded)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "In-person visit to obtain the veterans pass"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "DD214, VA ID, or veteran-designated state license/ID (veterans)",
+      "Medicare card or K-12 student ID as applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IndyGo customer service",
+        "value": "317-635-3344"
+      },
+      {
+        "kind": "web",
+        "label": "IndyGo fares and passes",
+        "value": "https://www.indygo.net/fares-and-passes/?intent=info&agency_id=0"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IndyGo fares and passes",
+        "url": "https://www.indygo.net/fares-and-passes/?intent=info&agency_id=0"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Half-fare cards free; veterans pass $2 initially ($5 to replace)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.indygo.net/fares-and-passes/?intent=info&agency_id=0"
+    ]
+  },
+  {
+    "id": "indy-library-card",
+    "name": "Indianapolis Public Library Card",
+    "agency": "Indianapolis Public Library (IndyPL)",
+    "category": "Education",
+    "description": "Free library cards for Marion County residents (excluding Speedway), county property owners, qualifying county teachers and students, and county business owners. Apply online (must be 18 or older, live in Marion County excluding Speedway, have an email address, and not already hold a card) or in person at any branch.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "Indianapolis",
+      "county": "Marion"
+    },
+    "eligibility": [
+      "Marion County residents (excluding Speedway)",
+      "Marion County property owners",
+      "Qualifying Marion County teachers and students",
+      "Marion County business owners"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None for in-person applications"
+    ],
+    "whatToBring": [
+      "Picture ID with current address",
+      "If ID lacks current address: mail postmarked within the last 30 days, current lease, or checkbook"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "http://INDYPL.ORG/get-a-library-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "http://INDYPL.ORG/get-a-library-card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://INDYPL.ORG/get-a-library-card"
+    ]
+  },
+  {
+    "id": "marion-health-clinics",
+    "name": "Marion County Public Health Immunization and Nursing Clinics",
+    "agency": "Marion County Public Health Department",
+    "category": "Healthcare",
+    "description": "Appointment-only nursing and immunization clinics for infants, children, and adults, plus TB testing, blood-pressure screening, counseling, and referrals. The 2026 back-to-school clinic events have ended; call a clinic for current availability.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Marion"
+    },
+    "eligibility": [
+      "Marion County residents needing immunizations or nursing clinic services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for current clinic availability."
+      }
+    ],
+    "prerequisites": [
+      "Appointment required"
+    ],
+    "whatToBring": [
+      "Immunization record",
+      "Medicaid or insurance card",
+      "Photo ID of client, parent, or guardian (a parent or guardian is required for children under 18)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northeast clinic",
+        "value": "317-221-7300"
+      },
+      {
+        "kind": "phone",
+        "label": "South clinic",
+        "value": "317-221-5700"
+      },
+      {
+        "kind": "phone",
+        "label": "Northwest clinic",
+        "value": "317-221-7500"
+      },
+      {
+        "kind": "phone",
+        "label": "Eagledale clinic",
+        "value": "317-221-3441"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Clinic schedule (PDF)",
+        "url": "https://marionhealth.org/media/3swfskek/nursing-service-imm-clinic-schedule-eng-and-span-2-effective-12-6-24.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Contact the clinic for current fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://marionhealth.org/media/3swfskek/nursing-service-imm-clinic-schedule-eng-and-span-2-effective-12-6-24.pdf"
+    ]
+  },
+  {
+    "id": "marion-veterans-services",
+    "name": "Marion County Veteran Service Office",
+    "agency": "City of Indianapolis & Marion County Office of Veterans Services (Indiana DVA CVSO)",
+    "category": "Veterans",
+    "description": "County Veteran Service Offices help veterans and family members identify and apply for military-service-related benefits. Office hours are 12:00 p.m.-8:00 p.m. Monday-Friday. Call for an appointment; email is the preferred method of contact.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Marion"
+    },
+    "eligibility": [
+      "Veterans and their family members in Marion County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or email to schedule."
+      }
+    ],
+    "prerequisites": [
+      "Call for an appointment"
+    ],
+    "whatToBring": [
+      "Military service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Marion County veterans office",
+        "value": "317-327-8387"
+      },
+      {
+        "kind": "email",
+        "label": "Email (preferred)",
+        "value": "veteran.services@indy.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "200 E. Washington St., Suite 2141, Indianapolis, IN 46204"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locate your County Veteran Service Office",
+        "url": "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://in.gov/dva/files/CVSO-Roster-for-webpage.pdf",
+      "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+    ]
+  },
+  {
+    "id": "fort-wayne-citilink-fares",
+    "name": "Citilink Reduced Fares (Fort Wayne)",
+    "agency": "Fort Wayne Public Transportation Corporation (Citilink)",
+    "category": "Transportation",
+    "description": "Reduced fixed-route and Flexlink fares: $0.75 cash / $0.70 mobile single ride, $1.85 all-day pass, $27.00 31-day pass. Reduced fares apply to youth ages 5-18, seniors 60+, persons with disabilities, and Medicare card holders with valid ID. Service runs Monday-Saturday; no Sunday service. Free travel training is available for new riders.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "Fort Wayne",
+      "county": "Allen"
+    },
+    "eligibility": [
+      "Youth ages 5-18",
+      "Seniors 60 and older",
+      "Persons with disabilities",
+      "Medicare card holders with valid ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Reduced Fare ID where applicable"
+    ],
+    "whatToBring": [
+      "Valid ID showing eligibility (age, Medicare card, or disability documentation)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Citilink customer service",
+        "value": "260-432-4546"
+      },
+      {
+        "kind": "phone",
+        "label": "Free travel training sign-up",
+        "value": "260-265-1753"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Citilink system map and fare information (PDF)",
+        "url": "https://fwcitilink.com/wp-content/uploads/2026/07/Citilink-Map_18x24_June-2026.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Reduced single ride $0.75 cash / $0.70 mobile; reduced all-day pass $1.85; reduced 31-day pass $27.00",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://fwcitilink.com/wp-content/uploads/2026/07/Citilink-Map_18x24_June-2026.pdf"
+    ]
+  },
+  {
+    "id": "allen-health-department",
+    "name": "Allen County Department of Health Clinics and Services",
+    "agency": "Allen County Department of Health",
+    "category": "Healthcare",
+    "description": "Confidential, respectful, low-cost HIV and STD testing, treatment, counseling, and other services by appointment; vaccinations; and certified birth and death certificates for births and deaths occurring in Fort Wayne and Allen County. The Medical Annex at 4813 New Haven Avenue, Fort Wayne, IN 46803 handles HIV/STD, TB, and immunizations.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Allen"
+    },
+    "eligibility": [
+      "Allen County residents and anyone needing the listed public-health services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for appointments and current hours."
+      }
+    ],
+    "prerequisites": [
+      "Appointment required for HIV/STD testing"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HIV/STD/TB",
+        "value": "260-449-7504"
+      },
+      {
+        "kind": "phone",
+        "label": "Immunizations",
+        "value": "260-449-7514"
+      },
+      {
+        "kind": "web",
+        "label": "Allen County Department of Health",
+        "value": "http://www.allencountyhealth.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Allen County Department of Health",
+        "url": "http://www.allencountyhealth.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "HIV/STD services described as low-cost; call for current fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.allencountyhealth.com/",
+      "https://www.in.gov/health/reports/LHDs/counties/allen.html"
+    ]
+  },
+  {
+    "id": "allen-veterans-services",
+    "name": "Allen County Veteran Service Office",
+    "agency": "Allen County Veteran Service Office (Indiana DVA CVSO)",
+    "category": "Veterans",
+    "description": "County Veteran Service Offices help veterans and family members identify and apply for military-service-related benefits. Office hours Monday-Friday, 8:00 a.m.-12:00 p.m. and 1:00-4:30 p.m.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Allen"
+    },
+    "eligibility": [
+      "Veterans and their family members in Allen County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Military service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Allen County veterans office",
+        "value": "260-449-7861"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "1 E. Main St., Room 106, Fort Wayne, IN 46802"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locate your County Veteran Service Office",
+        "url": "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://in.gov/dva/files/CVSO-Roster-for-webpage.pdf",
+      "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+    ]
+  },
+  {
+    "id": "evansville-mets-fares",
+    "name": "METS Reduced Fares (Evansville)",
+    "agency": "Metropolitan Evansville Transit System (METS), City of Evansville",
+    "category": "Transportation",
+    "description": "Reduced fixed-route fare of $0.35 for seniors, disabled riders, and Medicare cardholders (base fare $0.75; children 5 and under ride free with a paying adult, maximum three). Reduced-fare proof: state photo ID showing age 65+, or a paper Medicare card plus state photo ID, or a recent SSA disability-payment letter plus state photo ID. Monthly passes: regular $60, student $45, elderly/handicapped $30. Mobility paratransit requires approval before use.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "Evansville",
+      "county": "Vanderburgh"
+    },
+    "eligibility": [
+      "Seniors 65 and older",
+      "Disabled riders",
+      "Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at the METS office."
+      }
+    ],
+    "prerequisites": [
+      "Proof of eligibility"
+    ],
+    "whatToBring": [
+      "State photo ID showing age 65+",
+      "Paper Medicare card plus state photo ID",
+      "Recent SSA disability-payment letter plus state photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "METS office",
+        "value": "812-435-6166"
+      },
+      {
+        "kind": "phone",
+        "label": "Mobility paratransit (approval required)",
+        "value": "812-435-6188"
+      },
+      {
+        "kind": "phone",
+        "label": "SWIRCA T.R.I.P. (riders 60+)",
+        "value": "812-464-7800"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "METS fares and passes",
+        "url": "https://www.evansvillegov.org/city/department/division.php?structureid=240"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Reduced fare $0.35; reduced monthly pass $30",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.evansvillegov.org/city/department/division.php?structureid=240"
+    ]
+  },
+  {
+    "id": "vanderburgh-health-department",
+    "name": "Vanderburgh County Health Department Communicable Disease Services",
+    "agency": "Vanderburgh County Health Department",
+    "category": "Healthcare",
+    "description": "Communicable-disease services including specialized diagnostic, treatment, immunization, foreign-travel and flu, and TB services. Office at 420 Mulberry Street, Evansville; displayed hours 8:00 a.m.-4:30 p.m.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Vanderburgh"
+    },
+    "eligibility": [
+      "Vanderburgh County residents needing communicable-disease services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for current availability."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vanderburgh County Health Department",
+        "value": "812-435-2400"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Communicable disease services",
+        "url": "https://vanderburghhealth.org/communicable-disease/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Contact the department for current fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vanderburghhealth.org/communicable-disease/"
+    ]
+  },
+  {
+    "id": "vanderburgh-veterans-services",
+    "name": "Vanderburgh County Veteran Service Office",
+    "agency": "Vanderburgh County Veteran Service Office (Indiana DVA CVSO)",
+    "category": "Veterans",
+    "description": "County Veteran Service Offices help veterans and family members identify and apply for military-service-related benefits. Office hours Monday-Friday, 8:00 a.m.-4:30 p.m. Central.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Vanderburgh"
+    },
+    "eligibility": [
+      "Veterans and their family members in Vanderburgh County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Military service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vanderburgh County veterans office",
+        "value": "812-435-5239"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "201 NW 4th St., Suite 303, Evansville, IN 47708"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locate your County Veteran Service Office",
+        "url": "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://in.gov/dva/files/CVSO-Roster-for-webpage.pdf",
+      "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+    ]
+  },
+  {
+    "id": "south-bend-transpo-fares",
+    "name": "Transpo Reduced Fare (South Bend)",
+    "agency": "South Bend Public Transportation Corporation (Transpo)",
+    "category": "Transportation",
+    "description": "Discounted fixed-route fare of $0.50 (regular fare $1) for disabled riders, Medicare cardholders, and riders 65+ with a Medicare card, age-bearing photo ID, or Transpo Reduced Fare Card. Children 4 and under ride free (maximum two per fare-paying adult). No Sunday service. Schedule effective June 2, 2025.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "South Bend",
+      "county": "St. Joseph"
+    },
+    "eligibility": [
+      "Disabled riders",
+      "Medicare cardholders",
+      "Riders 65 and older with a Medicare card, age-bearing photo ID, or Transpo Reduced Fare Card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Transpo Reduced Fare Card where applicable"
+    ],
+    "whatToBring": [
+      "Medicare card, age-bearing photo ID, or Transpo Reduced Fare Card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Transpo",
+        "value": "574-233-2131"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Transpo fare and schedule information (PDF)",
+        "url": "https://www.sbtranspo.com/wp-content/uploads/2025/05/Transpo_Route16_2025.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Discounted fare $0.50",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sbtranspo.com/wp-content/uploads/2025/05/Transpo_Route16_2025.pdf"
+    ]
+  },
+  {
+    "id": "st-joseph-health-immunizations",
+    "name": "St. Joseph County Health Department Immunizations",
+    "agency": "St. Joseph County Health Department",
+    "category": "Healthcare",
+    "description": "Immunization clinics for infants through adults; can serve private insurance, Medicaid, Medicare, and uninsured patients - call for details. Availability is described as EXTREMELY LIMITED, so appointments are strongly recommended. COVID-19 vaccine eligibility is currently restricted to people age six months and older who meet listed age, disability, or health-condition criteria. South Bend clinic: County-City Building, ninth floor, 227 W. Jefferson Blvd. Hours Monday-Friday, 8:00 a.m.-noon and 1:00-4:30 p.m.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "St. Joseph"
+    },
+    "eligibility": [
+      "St. Joseph County residents from infancy through adulthood needing immunizations"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments strongly recommended; call for availability."
+      }
+    ],
+    "prerequisites": [
+      "Appointment strongly recommended"
+    ],
+    "whatToBring": [
+      "Current immunization record",
+      "ID",
+      "Insurance card if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Immunization scheduling (option 2); information (option 4)",
+        "value": "574-235-9750"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "St. Joseph County immunizations",
+        "url": "https://www.in.gov/localhealth/stjosephcounty/immunizations/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Contact the clinic for current fees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/localhealth/stjosephcounty/immunizations/"
+    ]
+  },
+  {
+    "id": "st-joseph-veterans-services",
+    "name": "St. Joseph County Veteran Service Office",
+    "agency": "St. Joseph County Veteran Service Office (Indiana DVA CVSO)",
+    "category": "Veterans",
+    "description": "County Veteran Service Offices help veterans and family members identify and apply for military-service-related benefits. Office hours Monday, Tuesday, and Thursday, 8:00 a.m.-4:00 p.m.; the CVSO is at the VA clinic on Wednesdays and the office is open by appointment only on Fridays.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "St. Joseph"
+    },
+    "eligibility": [
+      "Veterans and their family members in St. Joseph County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Military service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Joseph County veterans office",
+        "value": "574-235-9978"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "227 W. Jefferson Blvd., Room 309, South Bend, IN 46601"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locate your County Veteran Service Office",
+        "url": "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://in.gov/dva/files/CVSO-Roster-for-webpage.pdf",
+      "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+    ]
+  },
+  {
+    "id": "carmel-library-card",
+    "name": "Carmel Clay Public Library Card",
+    "agency": "Carmel Clay Public Library",
+    "category": "Education",
+    "description": "Free resident library cards for Carmel and Clay Township residents. Pre-register online or apply in person. Students in grades five and below need a parent or guardian present to sign; students in grades six and above may apply with a student ID or driver's license without a parent signature. Carmel K-12 students and school employees may obtain a school-year card with a school ID. Online cards must be picked up within one month of notification. Application forms are available in English, Spanish, Arabic, Telugu, and Simplified Chinese.",
+    "scope": {
+      "level": "city",
+      "state": "IN",
+      "city": "Carmel",
+      "county": "Hamilton"
+    },
+    "eligibility": [
+      "Carmel and Clay Township residents",
+      "Carmel K-12 students and school employees (school-year card)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None for in-person applications"
+    ],
+    "whatToBring": [
+      "Government photo ID with current Carmel address",
+      "If ID lacks current address: an official document such as a current utility bill or bank statement"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Carmel Clay Public Library",
+        "value": "317-814-3936"
+      },
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "https://carmelclaylibrary.org/get-a-library-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://carmelclaylibrary.org/get-a-library-card"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Arabic",
+      "Telugu",
+      "Simplified Chinese"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://carmelclaylibrary.org/get-a-library-card"
+    ]
+  },
+  {
+    "id": "hamilton-veterans-services",
+    "name": "Hamilton County Veteran Service Office",
+    "agency": "Hamilton County Veteran Service Office (Indiana DVA CVSO)",
+    "category": "Veterans",
+    "description": "County Veteran Service Offices help veterans and family members identify and apply for military-service-related benefits. Office hours Monday-Friday, 9:00 a.m.-4:00 p.m.",
+    "scope": {
+      "level": "county",
+      "state": "IN",
+      "city": null,
+      "county": "Hamilton"
+    },
+    "eligibility": [
+      "Veterans and their family members in Hamilton County"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Military service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hamilton County veterans office",
+        "value": "317-776-9671"
+      },
+      {
+        "kind": "phone",
+        "label": "Hamilton County veterans office (alternate)",
+        "value": "317-776-9610"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "1 Hamilton County Square, Suite 179, Noblesville, IN 46060"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locate your County Veteran Service Office",
+        "url": "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://in.gov/dva/files/CVSO-Roster-for-webpage.pdf",
+      "https://www.in.gov/dva/locate-your-cvso/clinton-county/"
+    ]
+  },
+  {
+    "id": "in-snap",
+    "name": "SNAP - Food Assistance (Indiana)",
+    "agency": "Indiana Family and Social Services Administration (FSSA), Division of Family Resources",
+    "category": "Food",
+    "description": "Monthly food benefits for eligible low-income Indiana households to buy groceries. Apply online through the FSSA Benefits Portal, by phone, or in person at a Division of Family Resources office. Note: 2025 federal changes tightened work requirements (ABAWD) and noncitizen eligibility - check the program page for current rules. If benefits are lost or stolen, a replacement affidavit must be filed within 10 days. Beginning January 1, 2026, sugary drinks and candy are not eligible for purchase with SNAP benefits in Indiana (Smart SNAP). Free language assistance is available on request.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Low-income Indiana households",
+      "Income limits vary by household size - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "An FSSA Benefits Portal account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Indiana residency - the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DFR customer service",
+        "value": "800-403-0864"
+      },
+      {
+        "kind": "web",
+        "label": "Contact DFR",
+        "value": "https://www.in.gov/fssa/dfr/about-dfr/contact-dfr/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP online (FSSA Benefits Portal)",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/dfr/snap-food-assistance/",
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "in-hip",
+    "name": "Healthy Indiana Plan (HIP)",
+    "agency": "Indiana Family and Social Services Administration (FSSA)",
+    "category": "Healthcare",
+    "description": "Health coverage for Indiana adults ages 19-64; applicants may not qualify for Medicare or Medicaid. Members make POWER account contributions of $1-$20 depending on their tier. Beginning January 1, 2027, new federal and state Medicaid laws will require some HIP members ages 19-64 to meet work, volunteer, training, or education requirements to keep coverage. Apply through the FSSA Benefits Portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Indiana adults ages 19-64",
+      "May not qualify for Medicare or Medicaid"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "An FSSA Benefits Portal account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Indiana residency - the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HIP eligibility information",
+        "value": "https://www.in.gov/fssa/hip/am-i-eligible/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for health coverage online (FSSA Benefits Portal)",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "POWER account contributions $1-$20 depending on tier",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/hip/am-i-eligible/",
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "in-hoosier-healthwise",
+    "name": "Hoosier Healthwise",
+    "agency": "Indiana Family and Social Services Administration (FSSA) / Indiana Medicaid",
+    "category": "Family & Childcare",
+    "description": "Health coverage for Indiana children ages 0-19 and pregnant people. Apply through the FSSA Benefits Portal or call DFR and press 1 for health coverage help.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Indiana children ages 0-19",
+      "Pregnant people in Indiana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "An FSSA Benefits Portal account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Indiana residency - the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DFR customer service (press 1 for health coverage)",
+        "value": "800-403-0864"
+      },
+      {
+        "kind": "web",
+        "label": "Hoosier Healthwise information",
+        "value": "https://www.in.gov/medicaid/members/member-programs/hoosier-healthwise/hoosier-healthwise-social-media-toolkit/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for health coverage online (FSSA Benefits Portal)",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/medicaid/members/member-programs/hoosier-healthwise/hoosier-healthwise-social-media-toolkit/",
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "in-wic",
+    "name": "WIC - Women, Infants, and Children (Indiana)",
+    "agency": "Indiana Department of Health (IDOH)",
+    "category": "Family & Childcare",
+    "description": "Nutrition program providing healthy foods, nutrition education and counseling, breastfeeding support, health screening, and referrals for pregnant women, new mothers, infants, and children under age 5. Applicants must live in Indiana, meet income guidelines, and be assessed for nutritional risk. Contact the WIC clinic in your community for a free certification visit to enroll.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Pregnant women",
+      "Postpartum and breastfeeding women",
+      "Infants and children under age 5",
+      "Indiana residents meeting income guidelines and nutritional-risk criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a local WIC clinic to enroll."
+      }
+    ],
+    "prerequisites": [
+      "A certification appointment at a local WIC clinic"
+    ],
+    "whatToBring": [
+      "Proof of identity, Indiana residency, and income - the clinic lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WIC eligibility information",
+        "value": "https://faqs.in.gov/hc/en-us/articles/15925602730388-How-do-I-know-if-I-qualify-for-WIC"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WIC eligibility and enrollment information",
+        "url": "https://faqs.in.gov/hc/en-us/articles/15925602730388-How-do-I-know-if-I-qualify-for-WIC"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://faqs.in.gov/hc/en-us/articles/15925602730388-How-do-I-know-if-I-qualify-for-WIC"
+    ]
+  },
+  {
+    "id": "in-liheap",
+    "name": "Energy Assistance Program / LIHEAP (Indiana)",
+    "agency": "Indiana Housing and Community Development Authority (IHCDA)",
+    "category": "Utilities",
+    "description": "Help with heating and cooling bills for eligible low-income Indiana households, administered through local community action providers. The 2026 program year closed on April 20, 2026 at 5:00 p.m. Eastern; the next program year is expected to open in fall 2026, but no exact date has been published. Denied applicants may appeal within 30 days to their local service provider.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Low-income Indiana households",
+      "Income and household criteria set by the program - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-04-20",
+        "label": "2026 program year closed",
+        "note": "Applications closed April 20, 2026 at 5:00 p.m. Eastern. The next program year is expected to open in fall 2026; no exact date published yet."
+      }
+    ],
+    "prerequisites": [
+      "Application through a local service provider when the program year is open"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Indiana residency - the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IHCDA Energy Assistance",
+        "value": "317-232-7777"
+      },
+      {
+        "kind": "email",
+        "label": "Energy Assistance email",
+        "value": "eap@ihcda.in.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP program information",
+        "url": "https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/"
+    ]
+  },
+  {
+    "id": "in-unemployment-insurance",
+    "name": "Unemployment Insurance (Indiana)",
+    "agency": "Indiana Department of Workforce Development (DWD)",
+    "category": "Employment",
+    "description": "Temporary benefits for workers who are unemployed through no fault of their own. File an initial claim and weekly vouchers through Uplink Claimant Self Service; the first claimed week is an unpaid waiting week. The program page shows a maximum weekly benefit of $390 and a typical maximum of 26 weeks. Free language interpretation and translation services are available on request.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Must meet Indiana wage and work-history requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed; weekly vouchers are required to keep receiving benefits."
+      }
+    ],
+    "prerequisites": [
+      "An Uplink Claimant Self Service account"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Indiana driver's license or ID number",
+      "Last employer information and dates of employment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Uplink help (translation assistance)",
+        "value": "800-891-6499"
+      },
+      {
+        "kind": "web",
+        "label": "Indiana unemployment information",
+        "value": "https://www.IN.gov/dwd/indiana-unemployment/individuals"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim (Uplink Claimant Self Service)",
+        "url": "https://uplink.in.gov/CSS/CSSLogon.htm"
+      },
+      {
+        "label": "Indiana unemployment information",
+        "url": "https://www.IN.gov/dwd/indiana-unemployment/individuals"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to file",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.IN.gov/dwd/indiana-unemployment/individuals",
+      "https://www.in.gov/dwd/indiana-unemployment/individuals/unemployment-insurance-faq/",
+      "https://uplink.in.gov/CSS/CSSLogon.htm"
+    ]
+  },
+  {
+    "id": "in-impact",
+    "name": "IMPACT - Employment and Training (Indiana)",
+    "agency": "Indiana Family and Social Services Administration (FSSA), Division of Family Resources",
+    "category": "Employment",
+    "description": "No-cost employment and training services for current SNAP or TANF recipients, including help finding a job, advancing a career, and building competitive skills based on each participant's needs.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Current SNAP recipients",
+      "Current TANF recipients"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ask your DFR caseworker or call to enroll."
+      }
+    ],
+    "prerequisites": [
+      "Current SNAP or TANF enrollment"
+    ],
+    "whatToBring": [
+      "Case information if already enrolled in SNAP or TANF"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DFR customer service (option 3 for IMPACT)",
+        "value": "800-403-0864"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IMPACT frequently asked questions",
+        "url": "https://www.in.gov/fssa/dfr/impact-job-training/frequently-asked-questions/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No cost for SNAP/TANF recipients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/dfr/impact-job-training/frequently-asked-questions/"
+    ]
+  },
+  {
+    "id": "in-bmv-id-card",
+    "name": "Indiana BMV Identification Card",
+    "agency": "Indiana Bureau of Motor Vehicles (BMV)",
+    "category": "Legal Aid",
+    "description": "State-issued photo identification card. The standard fee is $9; qualifying voting-eligible U.S. citizens age 18 and older may receive a free ID. Applicants must provide documents proving identity, lawful status, Social Security number, and two documents proving Indiana residency.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Indiana residents needing a state ID card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a BMV branch."
+      }
+    ],
+    "prerequisites": [
+      "Required identity, lawful-status, SSN, and residency documents"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of lawful status",
+      "Social Security number documentation",
+      "Two documents proving Indiana residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "BMV identification cards",
+        "value": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/identification-cards"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "BMV identification card information",
+        "url": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/identification-cards"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$9 standard fee; free for qualifying voting-eligible U.S. citizens 18+",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/identification-cards"
+    ]
+  },
+  {
+    "id": "in-inbiz",
+    "name": "INBiz - Indiana Business Registration and Filings",
+    "agency": "Indiana Secretary of State, Business Services Division",
+    "category": "Small Business",
+    "description": "Indiana's online resource for registering a business, filing business entity reports, and managing state business filings. Business Services staff are available Monday-Friday, 8:00 a.m.-4:30 p.m.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Anyone registering or managing a business in Indiana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time."
+      }
+    ],
+    "prerequisites": [
+      "An INBiz account for online filings"
+    ],
+    "whatToBring": [
+      "Business name, entity type, and registered agent information - the filing lists requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "INBiz Business Services",
+        "value": "317-234-9768"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "About INBiz",
+        "url": "https://inbiz.in.gov/about"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by filing",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://inbiz.in.gov/about"
+    ]
+  },
+  {
+    "id": "in-211",
+    "name": "Indiana 211 - Community Resource Referral",
+    "agency": "Indiana Family and Social Services Administration (FSSA)",
+    "category": "Family & Childcare",
+    "description": "Free, confidential help connecting Hoosiers with local health and human services: food, housing, utility assistance, health care, employment, education, and more. No eligibility requirements, income standards, or other rules - anyone can use it. Dial 2-1-1 or 866-211-9966 (Monday-Friday, 8 a.m.-6 p.m.), text your ZIP code to 898-211, or search resources online.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Anyone in Indiana - no eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Your ZIP code (for text or online search)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Indiana 211 (Mon-Fri 8 a.m.-6 p.m.)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "Indiana 211 toll-free",
+        "value": "866-211-9966"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Indiana 211 contact options",
+        "url": "https://www.in.gov/fssa/indiana-211/indiana-211-contacts"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/indiana-211/indiana-211-promotional-materials/",
+      "https://www.in.gov/fssa/indiana-211/indiana-211-contacts"
+    ]
+  },
+  {
+    "id": "in-indiana-legal-services",
+    "name": "Indiana Legal Services - Free Civil Legal Help",
+    "agency": "Indiana Legal Services, Inc. (ILS)",
+    "category": "Legal Aid",
+    "description": "Free noncriminal legal help for eligible low-income Hoosiers, generally focused on low-income clients; eligibility guidelines vary by legal project. If you are unsure whether you qualify, ILS encourages you to apply. Online intake is available 24/7; phone intake Monday-Friday, 10:00 a.m.-2:00 p.m. Eastern.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Low-income Indiana residents with noncriminal legal issues",
+      "Eligibility guidelines vary by project - apply if unsure"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online; phone intake Mon-Fri 10 a.m.-2 p.m. Eastern."
+      }
+    ],
+    "prerequisites": [
+      "None - apply online or by phone"
+    ],
+    "whatToBring": [
+      "Information about your legal issue, income, and household - the intake lists what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ILS centralized intake (Mon-Fri 10 a.m.-2 p.m. Eastern)",
+        "value": "844-243-8570"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for free legal help online",
+        "url": "https://www.indianalegalservices.org/applyonline-ar-sa/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.indianalegalservices.org/applyonline-ar-sa/"
+    ]
+  },
+  {
+    "id": "in-vocational-rehabilitation",
+    "name": "Indiana Vocational Rehabilitation",
+    "agency": "Indiana FSSA, Division of Disability and Rehabilitative Services (DDRS), Bureau of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Employment services for people with disabilities, including help preparing for, finding, and keeping a job. Eligibility is not based on income or resources.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "People with disabilities seeking employment services",
+      "Not based on income or resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Information about your disability and employment goals"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DDRS / Vocational Rehabilitation",
+        "value": "800-545-7763"
+      },
+      {
+        "kind": "web",
+        "label": "Contact DDRS",
+        "value": "https://www.in.gov/fssa/ddars/contact-ddars/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation employment services",
+        "url": "https://www.in.gov/fssa/ddars/brs/vocational-rehabilitation-employment/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/ddars/brs/vocational-rehabilitation-employment/",
+      "https://www.in.gov/fssa/ddars/contact-ddars/"
+    ]
+  },
+  {
+    "id": "in-disability-rights",
+    "name": "Indiana Disability Rights - Protection and Advocacy",
+    "agency": "Indiana Disability Rights (IDR)",
+    "category": "Disability",
+    "description": "Rights information, application and appeal guidance, referrals, self-advocacy support, and possible help from an advocate or attorney for Hoosiers with disabilities.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Hoosiers with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request help any time."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Information about your disability-rights issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Indiana Disability Rights",
+        "value": "317-722-5555"
+      },
+      {
+        "kind": "phone",
+        "label": "Indiana Disability Rights toll-free",
+        "value": "800-622-4845"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Request help from Indiana Disability Rights",
+        "url": "https://www.in.gov/idr/for-help-fill-this-out"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/idr/for-help-fill-this-out"
+    ]
+  },
+  {
+    "id": "in-workone",
+    "name": "WorkOne Career Centers (Indiana)",
+    "agency": "Indiana Department of Workforce Development (DWD)",
+    "category": "Employment",
+    "description": "Free career services at WorkOne centers statewide: resume help, career planning, training and scholarship assistance, job search support, interview coaching, and computer access.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Any Hoosier seeking employment help"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit or contact a center any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Resume if you have one; photo ID is helpful"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WorkOne information",
+        "value": "https://www.in.gov/dwd/workone/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WorkOne career centers",
+        "url": "https://www.in.gov/dwd/workone/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/dwd/workone/"
+    ]
+  },
+  {
+    "id": "in-infreefile",
+    "name": "INfreefile - Free Tax Filing (Indiana)",
+    "agency": "Indiana Department of Revenue (DOR)",
+    "category": "Money & Taxes",
+    "description": "Eligible filers can file federal and state tax returns free through participating INfreefile vendors. Each vendor sets its own eligibility rules, so check the vendor list before starting.",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Indiana filers meeting a participating vendor's eligibility rules",
+      "Vendor rules differ - check the list first"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available during tax filing season."
+      }
+    ],
+    "prerequisites": [
+      "Meet a participating vendor's eligibility rules"
+    ],
+    "whatToBring": [
+      "Tax documents (W-2s, 1099s, etc.)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "INfreefile vendor list and information",
+        "value": "https://www.in.gov/dor/i-am-a/individual/infreefile/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "INfreefile free filing options",
+        "url": "https://www.in.gov/dor/i-am-a/individual/infreefile/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible filers",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/dor/i-am-a/individual/infreefile/"
+    ]
+  },
+  {
+    "id": "in-aging-adrc",
+    "name": "Indiana Area Agencies on Aging and Aging & Disability Resource Centers",
+    "agency": "Indiana FSSA, Division of Disability and Rehabilitative Services - aging programs",
+    "category": "Seniors",
+    "description": "Help navigating aging and disability services in Indiana, including connections to local Area Agencies on Aging (AAAs) and Aging & Disability Resource Centers (ADRCs).",
+    "scope": {
+      "level": "state",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Older Hoosiers",
+      "People with disabilities and their caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time."
+      }
+    ],
+    "prerequisites": [
+      "None stated"
+    ],
+    "whatToBring": [
+      "Information about the services you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "AAA / ADRC",
+        "value": "800-713-9023"
+      },
+      {
+        "kind": "phone",
+        "label": "Better Aging",
+        "value": "800-673-0002"
+      },
+      {
+        "kind": "phone",
+        "label": "Long-Term Care Ombudsman",
+        "value": "800-622-4484"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DDRS contact information",
+        "url": "https://www.in.gov/fssa/ddars/contact-ddars/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.in.gov/fssa/ddars/contact-ddars/"
+    ]
+  },
+  {
+    "id": "fed-ssi-disability",
+    "name": "Supplemental Security Income and Social Security Disability (SSA)",
+    "agency": "U.S. Social Security Administration (SSA)",
+    "category": "Disability",
+    "description": "Supplemental Security Income (SSI) provides monthly payments to adults and children with disabilities and people 65 and older who have little or no income and resources. You can file for SSI online if you are also applying for Social Security disability benefits and meet all online-filing requirements (ages 18 to 64 and 10 months, never married, alleging a disability, residing in the 50 states/DC/Northern Mariana Islands, no prior SSI application); otherwise apply by phone. SSA offers telephone interpreter services in more than 120 languages at no cost.",
+    "scope": {
+      "level": "federal",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Adults and children with disabilities with limited income and resources",
+      "People 65 and older with limited income and resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A my Social Security account for some online services"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Proof of identity and age",
+      "Income, resource, and medical information if applying for disability-based benefits"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national number (Mon-Fri 8 a.m.-7 p.m.)",
+        "value": "800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY (Mon-Fri 7 a.m.-7 p.m.)",
+        "value": "800-325-0778"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Social Security online services",
+        "url": "https://www.ssa.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Telephone interpreter services in 120+ languages"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ssa.gov/",
+      "https://www.ssa.gov/ssi/text-info-ussi.htm"
+    ]
+  },
+  {
+    "id": "fed-va-indiana-health",
+    "name": "VA Indiana Health Care - Enrollment",
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "category": "Veterans",
+    "description": "VA health care enrollment for Indiana veterans; you must enroll before scheduling appointments. Apply with VA Form 10-10EZ and bring discharge records, relevant VA award letters, income information when requested, and insurance cards. The Indiana Health Benefits Unit can answer enrollment questions.",
+    "scope": {
+      "level": "federal",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Veterans (eligibility determined by VA based on service history and other factors)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time."
+      }
+    ],
+    "prerequisites": [
+      "VA Form 10-10EZ"
+    ],
+    "whatToBring": [
+      "Discharge records",
+      "Relevant VA award letters",
+      "Income information when requested",
+      "Insurance cards"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA Indiana Health Benefits Unit",
+        "value": "317-988-4310"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register for VA Indiana health care",
+        "url": "https://www.va.gov/indiana-health-care/register-for-care-replaced/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply for enrollment",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/indiana-health-care/register-for-care-replaced/"
+    ]
+  },
+  {
+    "id": "fed-hud-indiana-counseling",
+    "name": "HUD-Approved Housing Counseling (Indiana)",
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "Free counseling from HUD-approved agencies in Indiana: homebuying guidance, foreclosure avoidance, rental help, and reverse-mortgage counseling. HUD does not directly accept local public housing authority applications and does not track unit vacancies or waitlists - apply to local PHAs directly for vouchers or public housing.",
+    "scope": {
+      "level": "federal",
+      "state": "IN",
+      "city": null,
+      "county": null
+    },
+    "eligibility": [
+      "Anyone needing housing counseling in Indiana"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Information about your housing situation and finances"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD housing counselor line",
+        "value": "800-569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "HUD Indianapolis office",
+        "value": "317-226-6303"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD Indiana information",
+        "url": "http://www.hud.gov/states/indiana"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free counseling",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.hud.gov/states/indiana"
+    ]
   }
 ]
