@@ -98548,5 +98548,2696 @@
     "sources": [
       "https://www.va.gov/guam-vet-center/"
     ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Family Assistance",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (SNAP/CASH applications)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Croix intake office",
+        "value": "4102 Mars Hill, Frederiksted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix intake",
+        "value": "(340) 772-7100 ext. 7159/7166"
+      },
+      {
+        "kind": "in-person",
+        "label": "St. Thomas intake office",
+        "value": "1303 Hospital Ground, Suite 1, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas intake",
+        "value": "(340) 774-0930 or (340) 774-2399"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source. The FY2026 packet's simplified-reporting table is valid October 1, 2025 through September 30, 2026."
+      }
+    ],
+    "description": "Monthly food assistance for eligible households in the U.S. Virgin Islands. The FY2026 application packet (revised October 2025) covers SNAP and cash assistance with simplified reporting.",
+    "eligibility": [
+      "U.S. Virgin Islands residents",
+      "Households meeting federal SNAP income, resource, and household requirements (full criteria are in the FY2026 application packet)"
+    ],
+    "id": "vi-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "SNAP (Supplemental Nutrition Assistance Program)",
+    "prerequisites": [
+      "Complete the FY2026 SNAP/CASH application packet",
+      "Submit at a DHS intake office in person, by the method stated in the packet"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://dhs.vi.gov/wp-content/uploads/2026/02/DFA_CLIENT-PACKET-Appl-Revisions-New-Simplified-Reporting-for-FY2026-.docx-red-info.pdf",
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Social Security number",
+      "Proof of Virgin Islands residency",
+      "Proof of income",
+      "Proof of resources"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Family Assistance",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (SNAP/CASH applications)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Croix intake office",
+        "value": "4102 Mars Hill, Frederiksted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix intake",
+        "value": "(340) 772-7100 ext. 7159/7166"
+      },
+      {
+        "kind": "in-person",
+        "label": "St. Thomas intake office",
+        "value": "1303 Hospital Ground, Suite 1, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas intake",
+        "value": "(340) 774-0930 or (340) 774-2399"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Temporary cash assistance for eligible families in the U.S. Virgin Islands. Applications use the same FY2026 SNAP/CASH packet (revised October 2025) with simplified reporting.",
+    "eligibility": [
+      "U.S. Virgin Islands residents",
+      "Families meeting cash assistance income, resource, and household requirements (full criteria are in the FY2026 application packet)"
+    ],
+    "id": "vi-cash-assistance",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Cash Assistance (CASH/TANF)",
+    "prerequisites": [
+      "Complete the FY2026 SNAP/CASH application packet",
+      "Submit at a DHS intake office in person, by the method stated in the packet"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://dhs.vi.gov/wp-content/uploads/2026/02/DFA_CLIENT-PACKET-Appl-Revisions-New-Simplified-Reporting-for-FY2026-.docx-red-info.pdf",
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Social Security number",
+      "Proof of Virgin Islands residency",
+      "Proof of income",
+      "Proof of resources"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Medical Assistance Program",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (Medicaid application)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Croix MAP office",
+        "value": "41-B Mars Hill, Frederiksted, VI"
+      },
+      {
+        "kind": "email",
+        "label": "St. Croix MAP email",
+        "value": "stxmap@dhs.vi.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "St. Thomas/St. John MAP office",
+        "value": "1303 Hospital Ground Building A, St. Thomas, VI"
+      },
+      {
+        "kind": "email",
+        "label": "St. Thomas/St. John MAP email",
+        "value": "sttjmap@dhs.vi.gov"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Health coverage for eligible low-income residents of the U.S. Virgin Islands. Medicaid applications may be delivered in person, emailed, or mailed.",
+    "eligibility": [
+      "U.S. Virgin Islands residents",
+      "Individuals meeting Medicaid income and household requirements (not specified on the verified source; see the Medicaid application)"
+    ],
+    "id": "vi-medicaid-map",
+    "languages": [
+      "English"
+    ],
+    "name": "Medicaid (Medical Assistance Program)",
+    "prerequisites": [
+      "Complete the Medicaid application and supporting forms from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://dhs.vi.gov/wp-content/uploads/2025/11/MAP_Medicaid-Application-Flyer.pdf",
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed Medicaid application",
+      "Supporting documents listed on the DHS forms page"
+    ]
+  },
+  {
+    "agency": "VI Department of Health",
+    "applyLinks": [
+      {
+        "label": "DOH WIC program update",
+        "url": "https://doh.vi.gov/vi-department-of-healths-wic-program-remains-operational-during-federal-government-shutdown/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas/St. John WIC",
+        "value": "(340) 716-1770"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix WIC",
+        "value": "(340) 718-9157"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Nutrition assistance program operating across the St. Croix and St. Thomas-St. John districts. The VI Department of Health confirms the WIC program remains operational territory-wide.",
+    "eligibility": [
+      "Not specified on the verified source; contact the WIC program for current eligibility requirements"
+    ],
+    "id": "vi-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC (Women, Infants, and Children)",
+    "prerequisites": [
+      "Contact the WIC office on your island to enroll"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://doh.vi.gov/vi-department-of-healths-wic-program-remains-operational-during-federal-government-shutdown/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the WIC office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Family Assistance",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (ECAP intake)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Frederiksted ECAP",
+        "value": "(340) 772-7100"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas ECAP",
+        "value": "(340) 774-0930 or (340) 774-2399"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John ECAP",
+        "value": "(340) 776-6334 or (340) 776-6335"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Helps eligible households with electric and gas energy crises. Income criteria are published in the DHS ECAP checklist (2023 document).",
+    "eligibility": [
+      "U.S. Virgin Islands resident",
+      "U.S. citizen",
+      "Household includes a person age 60 or older, or an adult with a disability receiving specified benefits",
+      "Meets the income criteria in the DHS ECAP checklist"
+    ],
+    "id": "vi-ecap",
+    "languages": [
+      "English"
+    ],
+    "name": "Energy Crisis Assistance Program (ECAP)",
+    "prerequisites": [
+      "Complete the ECAP intake/application available on the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://dhs.vi.gov/wp-content/uploads/2023/09/DFA_ECAP-Checklist-Criteria.pdf",
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of citizenship and identity",
+      "Social Security number",
+      "Proof of income",
+      "Lease or landlord documentation",
+      "Unpaid electric bill",
+      "Gas receipt"
+    ]
+  },
+  {
+    "agency": "Virgin Islands Energy Office",
+    "applyLinks": [
+      {
+        "label": "WAP program flyer (VI Energy Office)",
+        "url": "http://energy.vi.gov/wp-content/uploads/2026/02/WAP-Flyer_Final_v2.pdf"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix WAP",
+        "value": "(340) 713-8436"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas WAP",
+        "value": "(340) 714-8436"
+      }
+    ],
+    "cost": "No-cost energy-efficiency upgrades for qualifying households",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Provides qualifying households with no-cost energy-efficiency upgrades. Households receiving SNAP, TANF, Medicaid, or LIHEAP may automatically qualify, subject to verification.",
+    "eligibility": [
+      "Qualifying Virgin Islands households",
+      "Priority groups: seniors, people with disabilities, high-energy-burden households, and families with children under age five",
+      "SNAP, TANF, Medicaid, or LIHEAP participants may automatically qualify, subject to verification"
+    ],
+    "id": "vi-weatherization-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Weatherization Assistance Program (WAP)",
+    "prerequisites": [
+      "Contact the Energy Office on your island to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://energy.vi.gov/wp-content/uploads/2026/02/WAP-Flyer_Final_v2.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the Energy Office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (child-care preliminary application)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas child-care office",
+        "value": "(340) 774-0930 ext. 4180"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix child-care office",
+        "value": "(340) 772-7147"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Child-care assistance for eligible families. Preliminary applications are available in English and Spanish on the DHS forms page.",
+    "eligibility": [
+      "Not specified on the verified source; contact the DHS child-care office for current eligibility requirements"
+    ],
+    "id": "vi-child-care-subsidy",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Child Care Subsidy (preliminary application)",
+    "prerequisites": [
+      "Complete the child-care preliminary application from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/forms/",
+      "https://dhs.vi.gov/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the child-care office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Office of Head Start / Office of Pre-School Services",
+    "applyLinks": [
+      {
+        "label": "DHS contact page (Office of Pre-School Services)",
+        "url": "https://dhs.vi.gov/contact-us/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Office of Pre-School Services",
+        "value": "6179 Anna's Hope, Christiansted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of Pre-School Services",
+        "value": "(340) 773-1972"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No enrollment deadline published in the verified source."
+      }
+    ],
+    "description": "Early-childhood and preschool services administered by the VI Department of Human Services Office of Head Start and Office of Pre-School Services.",
+    "eligibility": [
+      "Not specified on the verified source; contact the Office of Pre-School Services for current eligibility and enrollment requirements"
+    ],
+    "id": "vi-head-start",
+    "languages": [
+      "English"
+    ],
+    "name": "Head Start / Early Head Start",
+    "prerequisites": [
+      "Contact the Office of Pre-School Services to enroll"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the program what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Senior Citizens Affairs",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (senior program forms)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas Senior Citizens Affairs",
+        "value": "(340) 774-5265"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix Senior Citizens Affairs",
+        "value": "(340) 772-9811"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Programs and services for senior citizens, including senior ID cards, caregiver ID, and pharmaceutical assistance. Application forms are available on the DHS forms page.",
+    "eligibility": [
+      "Senior citizens of the U.S. Virgin Islands (specific program requirements vary; see the DHS forms page)"
+    ],
+    "id": "vi-senior-citizens-affairs",
+    "languages": [
+      "English"
+    ],
+    "name": "Senior Citizens Affairs programs",
+    "prerequisites": [
+      "Complete the applicable senior program form from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/forms/",
+      "https://dhs.vi.gov/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; see the application form for required documents"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Senior Citizens Affairs",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (SPAP / pharmaceutical assistance forms)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas Senior Citizens Affairs",
+        "value": "(340) 774-5265"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix Senior Citizens Affairs",
+        "value": "(340) 772-9811"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Pharmaceutical assistance for eligible seniors through the Senior Pharmaceutical Assistance Program (SPAP) and related senior pharmaceutical assistance forms.",
+    "eligibility": [
+      "Not specified on the verified source; see the SPAP application on the DHS forms page for current eligibility requirements"
+    ],
+    "id": "vi-spap-pharmaceutical",
+    "languages": [
+      "English"
+    ],
+    "name": "Senior Pharmaceutical Assistance (SPAP)",
+    "prerequisites": [
+      "Complete the SPAP or pharmaceutical assistance application from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; see the application form for required documents"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Senior Citizens Affairs",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (Foster Grandparent application)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas Senior Citizens Affairs",
+        "value": "(340) 774-5265"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix Senior Citizens Affairs",
+        "value": "(340) 772-9811"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Volunteer service program for seniors, administered by the VI DHS Division of Senior Citizens Affairs. Application forms are available on the DHS forms page.",
+    "eligibility": [
+      "Not specified on the verified source; see the Foster Grandparent application on the DHS forms page for current eligibility requirements"
+    ],
+    "id": "vi-foster-grandparent",
+    "languages": [
+      "English"
+    ],
+    "name": "Foster Grandparent Program",
+    "prerequisites": [
+      "Complete the Foster Grandparent application from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; see the application form for required documents"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services",
+    "applyLinks": [
+      {
+        "label": "DHS forms page (SCSEP application)",
+        "url": "https://dhs.vi.gov/forms/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas Senior Citizens Affairs",
+        "value": "(340) 774-5265"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix Senior Citizens Affairs",
+        "value": "(340) 772-9811"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Employment and training program for older workers, administered through the VI Department of Human Services. Application forms are available on the DHS forms page.",
+    "eligibility": [
+      "Not specified on the verified source; see the SCSEP application on the DHS forms page for current eligibility requirements"
+    ],
+    "id": "vi-scsep",
+    "languages": [
+      "English"
+    ],
+    "name": "Senior Community Service Employment Program (SCSEP)",
+    "prerequisites": [
+      "Complete the SCSEP application from the DHS forms page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/forms/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; see the application form for required documents"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, with the VI Department of Health and VITEMA",
+    "applyLinks": [
+      {
+        "label": "Government House / VITEMA hurricane preparedness update",
+        "url": "https://www.vi.gov/government-house-vitema-urge-virgin-islanders-to-prepare-now-as-2026-hurricane-season-begins/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix special needs registration (DHS)",
+        "value": "340-773-1664"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas special needs registration (DHS)",
+        "value": "340-774-5678"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John special needs registration (DHS)",
+        "value": "340-774-0165"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix backup mobile",
+        "value": "340-643-1495"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas backup mobile",
+        "value": "340-201-5212"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John backup mobile",
+        "value": "340-642-4499"
+      }
+    ],
+    "cost": "No cost to register",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Register before hurricane season",
+        "note": "Residents are encouraged to register now, before a storm threatens the Territory."
+      }
+    ],
+    "description": "Pre-registration for medical special needs sheltering and VITRAN Plus transportation during hurricanes and other emergencies. Shelters are managed by the Department of Health based on pre-registration with DHS. 2026 congregate shelters include Lockhart School (St. Thomas), the Adrian Senior Center and Cruz Bay Community Hub (St. John), and the D.C. Canegata Recreational Center and St. Croix Educational Complex High School (St. Croix).",
+    "eligibility": [
+      "Residents who may need medical special needs sheltering or VITRAN Plus transportation during an emergency"
+    ],
+    "id": "vi-emergency-shelter-registry",
+    "languages": [
+      "English"
+    ],
+    "name": "Medical Special Needs Shelter Registry",
+    "prerequisites": [
+      "Register in person with DHS or call the DHS registration line for your island"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.vi.gov/government-house-vitema-urge-virgin-islanders-to-prepare-now-as-2026-hurricane-season-begins/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask DHS what information is needed to register"
+    ]
+  },
+  {
+    "agency": "VI Department of Human Services, Division of Disability Services / Vocational Rehabilitation",
+    "applyLinks": [
+      {
+        "label": "DHS vocational rehabilitation information",
+        "url": "https://dhs.vi.gov/wp-content/uploads/2023/03/VocRehab_IPWD.pdf"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Thomas vocational rehabilitation office",
+        "value": "1303 Hospital Ground, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas vocational rehabilitation",
+        "value": "(340) 774-0930"
+      },
+      {
+        "kind": "in-person",
+        "label": "Frederiksted vocational rehabilitation office",
+        "value": "#2 Estate Carlton, Suites 4 and 7, Frederiksted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Frederiksted vocational rehabilitation",
+        "value": "(340) 643-8145"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Supports people with disabilities in reaching employment and self-sufficiency, through the VI DHS vocational rehabilitation program.",
+    "eligibility": [
+      "People with disabilities in the U.S. Virgin Islands seeking employment services (specific criteria not specified on the verified source)"
+    ],
+    "id": "vi-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation",
+    "prerequisites": [
+      "Contact the vocational rehabilitation office on your island to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dhs.vi.gov/wp-content/uploads/2023/03/VocRehab_IPWD.pdf",
+      "https://dhs.vi.gov/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Department of Labor, Unemployment Insurance Division",
+    "applyLinks": [
+      {
+        "label": "UI claimant handbook (VI Department of Labor)",
+        "url": "https://unemployment.vidol.gov/uidocs/CLAIMANT-HANDBOOK.pdf"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Christiansted UI office",
+        "value": "4401 Sion Farm, Christiansted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Christiansted UI office",
+        "value": "(340) 773-1994"
+      },
+      {
+        "kind": "in-person",
+        "label": "St. Thomas UI office",
+        "value": "2353 Kronprindsens Gade, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas UI office",
+        "value": "(340) 776-3700"
+      }
+    ],
+    "cost": "No cost to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "File promptly after job loss",
+        "note": "The verified source is the 2017 claimant handbook; file as soon as possible after becoming unemployed and confirm current benefit amounts with the Department of Labor."
+      }
+    ],
+    "description": "Unemployment insurance benefits for eligible Virgin Islands workers who lose their jobs. The official claimant handbook (2017 revision) sets out eligibility, filing, and documentation rules; confirm current benefit amounts with the Department of Labor.",
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Able, available, and actively seeking work",
+      "Monetarily qualified under VI unemployment law"
+    ],
+    "id": "vi-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance",
+    "prerequisites": [
+      "File an unemployment claim with the VI Department of Labor"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://unemployment.vidol.gov/uidocs/CLAIMANT-HANDBOOK.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Social Security card",
+      "Employer separation letter",
+      "Recent pay stubs",
+      "DD-214, SF-8, or SF-50 where applicable"
+    ]
+  },
+  {
+    "agency": "VI Bureau of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "BMV driver license information",
+        "url": "https://bmv.vi.gov/drivers-license/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix BMV",
+        "value": "(340) 713-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas BMV",
+        "value": "(340) 774-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John BMV",
+        "value": "(340) 776-6262"
+      }
+    ],
+    "cost": "Fees apply; see the BMV fee schedule",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "By appointment",
+        "note": "The knowledge exam is by appointment only."
+      }
+    ],
+    "description": "Learner permit for new drivers. First-time license applicants must be at least 16. The permit requires a medical/application form and an appointment-only knowledge exam with a 75% passing score, and is valid for six months.",
+    "eligibility": [
+      "First-time driver license applicants at least 16 years old",
+      "Meets BMV application requirements"
+    ],
+    "id": "vi-learner-permit",
+    "languages": [
+      "English"
+    ],
+    "name": "Learner Permit",
+    "prerequisites": [
+      "Complete the BMV medical/application form",
+      "Schedule and pass the appointment-only knowledge exam (75% passing score)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://bmv.vi.gov/drivers-license/",
+      "https://bmv.vi.gov/fees/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed BMV application form",
+      "Identification and other documents listed on the BMV drivers-license page"
+    ]
+  },
+  {
+    "agency": "VI Bureau of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "BMV driver license information",
+        "url": "https://bmv.vi.gov/drivers-license/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix BMV",
+        "value": "(340) 713-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas BMV",
+        "value": "(340) 774-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John BMV",
+        "value": "(340) 776-6262"
+      }
+    ],
+    "cost": "$20 road test fee and $55 license fee per the BMV drivers-license page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "By appointment",
+        "note": "First-time REAL ID applications require an appointment and a road test."
+      }
+    ],
+    "description": "Federally compliant REAL ID driver license issued by the VI Bureau of Motor Vehicles. First-time applications require the application form, an appointment, a road test, and documents proving lawful status, Social Security number, and address. Published fees are $20 for the road test and $55 for the license.",
+    "eligibility": [
+      "Meets BMV requirements for lawful status, Social Security number, and Virgin Islands address",
+      "Passes the road test"
+    ],
+    "id": "vi-real-id-driver-license",
+    "languages": [
+      "English"
+    ],
+    "name": "REAL ID Driver License",
+    "prerequisites": [
+      "Complete the BMV application form",
+      "Schedule an appointment",
+      "Pass the road test"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://bmv.vi.gov/drivers-license/",
+      "https://bmv.vi.gov/fees/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents proving lawful status",
+      "Social Security number documentation",
+      "Proof of Virgin Islands address"
+    ]
+  },
+  {
+    "agency": "VI Bureau of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "Limited-purpose driver license application form",
+        "url": "http://bmv.vi.gov/wp-content/uploads/2024/05/BMV-LimitedPurposeDriverLicenseApplication-Form.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix BMV",
+        "value": "(340) 713-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas BMV",
+        "value": "(340) 774-4268"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John BMV",
+        "value": "(340) 776-6262"
+      }
+    ],
+    "cost": "Fees apply; see the BMV fee schedule",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Limited-purpose driver license for residents who cannot provide lawful-status documents. It cannot be used for federal purposes. Applicants must show at least 180 days of Virgin Islands residency and pass a criminal-record check.",
+    "eligibility": [
+      "Proof of at least 180 days of Virgin Islands residency",
+      "Criminal-record check required"
+    ],
+    "id": "vi-limited-purpose-driver-license",
+    "languages": [
+      "English"
+    ],
+    "name": "Limited-Purpose Driver License",
+    "prerequisites": [
+      "Complete the limited-purpose driver license application form",
+      "Undergo a criminal-record check"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://bmv.vi.gov/wp-content/uploads/2024/05/BMV-LimitedPurposeDriverLicenseApplication-Form.pdf",
+      "https://bmv.vi.gov/drivers-license/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identity documents listed on the application form",
+      "Residency documents listed on the application form"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Emergency housing management",
+        "value": "(340) 772-4322 ext. 3250"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Emergency housing assistance administered by the VI Housing Finance Authority for households facing domestic violence, disaster or catastrophe, or financial hardship.",
+    "eligibility": [
+      "Domestic violence, disaster/catastrophe, or financial hardship",
+      "Ability to pay rent and utilities",
+      "Representation by a service provider"
+    ],
+    "id": "vi-vihfa-emergency-housing",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHFA Emergency Housing Assistance",
+    "prerequisites": [
+      "Contact emergency housing management to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/",
+      "https://vihfa.gov/programs-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask emergency housing management what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Grandview (Charlotte Amalie)",
+        "value": "(340) 777-3818"
+      },
+      {
+        "kind": "phone",
+        "label": "Amalie Terrace (Charlotte Amalie)",
+        "value": "(340) 714-0070"
+      },
+      {
+        "kind": "phone",
+        "label": "Bethlehem/Profit Hills (St. Croix)",
+        "value": "(340) 778-1818"
+      },
+      {
+        "kind": "phone",
+        "label": "Frits Lawaetz (Frederiksted)",
+        "value": "(340) 772-1801"
+      },
+      {
+        "kind": "phone",
+        "label": "Ruby M. Rouss (Christiansted)",
+        "value": "(340) 773-4681"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Affordable rental housing built or rehabilitated with low-income housing tax credits, administered by the VI Housing Finance Authority.",
+    "eligibility": [
+      "Not specified on the verified source; contact the property management office for current income limits, eligibility, and availability"
+    ],
+    "id": "vi-vihfa-tax-credit-rentals",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHFA Tax-Credit Rental Housing",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the property management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Grandview (Charlotte Amalie)",
+        "value": "(340) 777-3818"
+      },
+      {
+        "kind": "phone",
+        "label": "Amalie Terrace (Charlotte Amalie)",
+        "value": "(340) 714-0070"
+      },
+      {
+        "kind": "phone",
+        "label": "Bethlehem/Profit Hills (St. Croix)",
+        "value": "(340) 778-1818"
+      },
+      {
+        "kind": "phone",
+        "label": "Frits Lawaetz (Frederiksted)",
+        "value": "(340) 772-1801"
+      },
+      {
+        "kind": "phone",
+        "label": "Ruby M. Rouss (Christiansted)",
+        "value": "(340) 773-4681"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Subsidized rental housing administered by the VI Housing Finance Authority for low-income households.",
+    "eligibility": [
+      "Not specified on the verified source; contact the property management office for current income limits, eligibility, and availability"
+    ],
+    "id": "vi-vihfa-subsidized-rentals",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHFA Subsidized Rental Housing",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the property management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA homeownership programs",
+        "url": "https://vihfa.gov/homeownership-programs-2/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HOME program",
+        "value": "(340) 777-4432 ext. 2269"
+      }
+    ],
+    "cost": "First-time buyer financing is a loan, not a grant",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source. Published income figures are as of July 2024."
+      }
+    ],
+    "description": "First-time homebuyer program offering loan financing (not a grant) to eligible Virgin Islands buyers. Applicants must complete homebuyer education and provide an earnest-money deposit, with an exception for veterans. Published income figures are as of July 2024.",
+    "eligibility": [
+      "First-time homebuyer",
+      "Three years of Virgin Islands residency and tax filings",
+      "Mortgage prequalification",
+      "Homebuyer education course completion",
+      "Earnest-money requirement (exception for veterans)"
+    ],
+    "id": "vi-vihfa-first-time-homebuyers",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHFA First-Time Homebuyers Program",
+    "prerequisites": [
+      "Obtain mortgage prequalification",
+      "Complete a homebuyer education course"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://vihfa.gov/homeownership-programs-2/",
+      "https://vihfa.gov/programs-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of three years of Virgin Islands residency and tax filings",
+      "Mortgage prequalification letter",
+      "Homebuyer education certificate"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA homeownership programs",
+        "url": "https://vihfa.gov/homeownership-programs-2/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HOME program",
+        "value": "(340) 777-4432 ext. 2269"
+      }
+    ],
+    "cost": "Low-interest loans and grants; terms vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "HOME program assistance for eligible first-time buyers, including low-interest loans and grants, gap financing, down payment assistance, and closing-cost assistance.",
+    "eligibility": [
+      "Eligible first-time homebuyers (specific income and eligibility criteria not specified on the verified source; contact the HOME program)"
+    ],
+    "id": "vi-vihfa-home-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "HOME Homebuyer Assistance",
+    "prerequisites": [
+      "Contact the VIHFA HOME program to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://vihfa.gov/homeownership-programs-2/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the HOME program what documents to bring"
+    ]
+  },
+  {
+    "agency": "Virgin Islands Housing Authority",
+    "applyLinks": [
+      {
+        "label": "HUD VI page (public housing information)",
+        "url": "http://hud.gov/states/us-virgin-islands"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Virgin Islands Housing Authority",
+        "value": "9900 Oswald Harris Court, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Virgin Islands Housing Authority",
+        "value": "(340) 777-8442"
+      }
+    ],
+    "cost": "Rent based on income; not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source. Some housing authorities have long waiting lists, so applicants may apply at more than one."
+      }
+    ],
+    "description": "Low-Rent public housing for eligible low-income families, the elderly, and persons with disabilities, managed by the Virgin Islands Housing Authority with federal aid from HUD.",
+    "eligibility": [
+      "Low-income families and individuals",
+      "Eligibility determined by annual gross income, elderly/disability/family status, and U.S. citizenship or eligible immigration status"
+    ],
+    "id": "vi-viha-low-rent",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHA Low-Rent Public Housing",
+    "prerequisites": [
+      "Apply through the Virgin Islands Housing Authority"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://www.hud.gov/sites/dfiles/PIH/documents/PHA_Contact_Report_VI.pdf",
+      "http://hud.gov/states/us-virgin-islands"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Information on family income, assets, and family composition"
+    ]
+  },
+  {
+    "agency": "Virgin Islands Housing Authority",
+    "applyLinks": [
+      {
+        "label": "HUD VI page (Section 8 information)",
+        "url": "http://hud.gov/states/us-virgin-islands"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Virgin Islands Housing Authority",
+        "value": "9900 Oswald Harris Court, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Virgin Islands Housing Authority",
+        "value": "(340) 777-8442"
+      }
+    ],
+    "cost": "Housing assistance payment amount determined by the housing authority",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Housing Choice Voucher (Section 8) program helping low-income families, the elderly, and people with disabilities afford decent, safe, and sanitary housing in the private market. Participants find their own housing and the voucher pays all or part of the rent.",
+    "eligibility": [
+      "Low-income families, the elderly, and persons with disabilities",
+      "Eligibility determined by total annual gross income and family size, U.S. citizenship or eligible immigration status"
+    ],
+    "id": "vi-viha-section-8",
+    "languages": [
+      "English"
+    ],
+    "name": "VIHA Section 8 Housing Choice Voucher",
+    "prerequisites": [
+      "Apply through the Virgin Islands Housing Authority, which collects family income, assets, and composition information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://www.hud.gov/sites/dfiles/PIH/documents/PHA_Contact_Report_VI.pdf",
+      "http://hud.gov/states/us-virgin-islands"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Information on family income, assets, and family composition"
+    ]
+  },
+  {
+    "agency": "VI Office of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "UVI tuition waiver form (January 2025)",
+        "url": "http://veterans.vi.gov/wp-content/uploads/2025/01/UVI-Tuition-Waiver-Jan-29-2025.pdf"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix Veterans Affairs",
+        "value": "(340) 773-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas Veterans Affairs",
+        "value": "(340) 774-8387"
+      }
+    ],
+    "cost": "Tuition waiver; no cost to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Per UVI term",
+        "note": "Submit the waiver form for the UVI course term per the Office of Veterans Affairs instructions (January 29, 2025 form)."
+      }
+    ],
+    "description": "University of the Virgin Islands tuition waiver for eligible veterans, administered by the VI Office of Veterans Affairs.",
+    "eligibility": [
+      "Veteran who served and was released under conditions other than dishonorable",
+      "No duplicate waiver received for the same class",
+      "Not entitled to federal veteran tuition payment for the course"
+    ],
+    "id": "vi-veteran-uvi-tuition-waiver",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran UVI Tuition Waiver",
+    "prerequisites": [
+      "Complete the UVI tuition waiver form and submit through the Office of Veterans Affairs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://veterans.vi.gov/wp-content/uploads/2025/01/UVI-Tuition-Waiver-Jan-29-2025.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed tuition waiver form",
+      "Proof of qualifying military service"
+    ]
+  },
+  {
+    "agency": "VI Office of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Policy Letter 3: Medical Travel Reimbursement",
+        "url": "https://Veterans.VI.gov/wp-content/uploads/2020/04/Policy-Letter-3-Medical-Travel-Reimbursement.pdf"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix Veterans Affairs",
+        "value": "(340) 773-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas Veterans Affairs",
+        "value": "(340) 774-8387"
+      }
+    ],
+    "cost": "Reimbursement program; no cost to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Policy dated April 15, 2020 states it remains effective unless changed or rescinded. Claims require written appointment verification and, in specified circumstances, prior approval."
+      }
+    ],
+    "description": "Reimbursement of qualifying medical travel costs for eligible veterans. Written appointment verification is required, prior approval applies in specified circumstances, and companion travel is addressed in the policy.",
+    "eligibility": [
+      "Qualifying veterans traveling for medical appointments (see Policy Letter 3 for qualifying circumstances)"
+    ],
+    "id": "vi-veteran-medical-travel",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran Medical Travel Reimbursement",
+    "prerequisites": [
+      "Obtain written verification of the medical appointment",
+      "Secure prior approval where the policy requires it"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://Veterans.VI.gov/wp-content/uploads/2020/04/Policy-Letter-3-Medical-Travel-Reimbursement.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Written appointment verification",
+      "Travel receipts as required by the policy"
+    ]
+  },
+  {
+    "agency": "VI Office of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Policy Letter 4: Burial Entitlements for Veterans",
+        "url": "http://veterans.vi.gov/wp-content/uploads/2020/04/Policy-Letter-4-Burial-Entitlements-for-Veterans-of-the-Virgin-Islands.pdf"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix Veterans Affairs",
+        "value": "(340) 773-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas Veterans Affairs",
+        "value": "(340) 774-8387"
+      }
+    ],
+    "cost": "Entitlement benefit; no cost to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Policy dated April 15, 2020 states it remains effective unless changed or rescinded."
+      }
+    ],
+    "description": "Burial entitlements for qualifying Virgin Islands-domiciled veterans and specified family members, administered by the VI Office of Veterans Affairs.",
+    "eligibility": [
+      "Virgin Islands-domiciled veterans meeting the policy's service requirements",
+      "Specified family members of qualifying veterans"
+    ],
+    "id": "vi-veteran-burial",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran Burial Entitlement",
+    "prerequisites": [
+      "Contact the Office of Veterans Affairs to establish eligibility"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "http://veterans.vi.gov/wp-content/uploads/2020/04/Policy-Letter-4-Burial-Entitlements-for-Veterans-of-the-Virgin-Islands.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of qualifying military service",
+      "Proof of Virgin Islands domicile"
+    ]
+  },
+  {
+    "agency": "VI Office of Veterans Affairs, with the VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "Policy Letter 7: Housing Finance Authority Home and Land Program",
+        "url": "https://Veterans.VI.gov/wp-content/uploads/2020/04/Policy-Letter-7-Housing-Finance-Authority-Home-and-Land-Program.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix Veterans Affairs",
+        "value": "(340) 773-8387"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas Veterans Affairs",
+        "value": "(340) 774-8387"
+      }
+    ],
+    "cost": "Program depends on qualification and fund availability",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Policy dated April 15, 2020 states it remains effective unless changed or rescinded. The program depends on qualification and fund availability."
+      }
+    ],
+    "description": "Eligible Virgin Islands veterans can obtain a signed Veterans Housing Finance Authority Eligibility Form from the Office of Veterans Affairs for the VIHFA home and land program. The program depends on qualification and fund availability.",
+    "eligibility": [
+      "Virgin Islands veterans who qualify under the program rules (see Policy Letter 7)"
+    ],
+    "id": "vi-veteran-hfa-eligibility",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran HFA Home and Land Eligibility Certification",
+    "prerequisites": [
+      "Obtain a signed Veterans Housing Finance Authority Eligibility Form from the Office of Veterans Affairs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://Veterans.VI.gov/wp-content/uploads/2020/04/Policy-Letter-7-Housing-Finance-Authority-Home-and-Land-Program.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of qualifying military service",
+      "Proof of Virgin Islands residency/domicile as required"
+    ]
+  },
+  {
+    "agency": "VI Economic Development Authority",
+    "applyLinks": [
+      {
+        "label": "VIEDA SSBCI announcement",
+        "url": "https://usvieda.org/press_release/us-virgin-islands-approved-578-million-under-state-small-business/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "SSBCI program email",
+        "value": "ssbci@usvieda.org"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Confirm availability",
+        "note": "The verified source is a 2023 announcement; confirm current fund availability with VIEDA."
+      }
+    ],
+    "description": "U.S. Virgin Islands State Small Business Credit Initiative, offering loan participation, loan guarantees, payment/surety/performance bond support, and collateral support through participating lenders.",
+    "eligibility": [
+      "Small businesses in the U.S. Virgin Islands (specific lender and program criteria not specified on the verified source; contact VIEDA)"
+    ],
+    "id": "vi-ssbci",
+    "languages": [
+      "English"
+    ],
+    "name": "State Small Business Credit Initiative (SSBCI)",
+    "prerequisites": [
+      "Contact VIEDA to confirm current lender participation and application requirements"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://usvieda.org/press_release/us-virgin-islands-approved-578-million-under-state-small-business/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask VIEDA what documents lenders require"
+    ]
+  },
+  {
+    "agency": "VI Department of Public Works (VITRAN)",
+    "applyLinks": [
+      {
+        "label": "VITRAN Plus ride guide (DPW)",
+        "url": "https://dpw.vi.gov/wp-content/uploads/2024/07/Ride-Guide-Updated-Sept-2022.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix VITRAN",
+        "value": "(340) 773-1664"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas VITRAN",
+        "value": "(340) 774-5678"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John VITRAN",
+        "value": "(340) 774-0165"
+      }
+    ],
+    "cost": "Not specified on the verified source; confirm current fares with VITRAN",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No deadline applies; this is ongoing public transit service."
+      }
+    ],
+    "description": "Public fixed-route bus service operated by VITRAN on St. Thomas, St. Croix, and St. John. Individual routes and fares are not verified beyond the DPW ride guide (September 2022); confirm current routes and fares with VITRAN.",
+    "eligibility": [
+      "Open to the general public"
+    ],
+    "id": "vi-vitran-fixed-route",
+    "languages": [
+      "English"
+    ],
+    "name": "VITRAN Fixed-Route Bus Service",
+    "prerequisites": [
+      "None; board at a VITRAN fixed-route stop"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dpw.vi.gov/wp-content/uploads/2024/07/Ride-Guide-Updated-Sept-2022.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment (confirm current fares with VITRAN)"
+    ]
+  },
+  {
+    "agency": "VI Department of Public Works (VITRAN)",
+    "applyLinks": [
+      {
+        "label": "VITRAN Plus ADA paratransit ride guide",
+        "url": "https://dpw.vi.gov/wp-content/uploads/2024/07/Ride-Guide-Updated-Sept-2022.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix VITRAN Plus",
+        "value": "(340) 773-1664 or (340) 626-3295"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas VITRAN Plus",
+        "value": "(340) 774-5678 or (340) 626-5212"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John VITRAN Plus",
+        "value": "(340) 774-0165 or (340) 626-4010"
+      }
+    ],
+    "cost": "Not specified on the verified source; confirm current fares with VITRAN",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Shared-ride ADA paratransit service providing curb-to-curb and door-to-door transportation for people unable, or limited in their ability, to use VITRAN fixed-route service because of a disability. Service operates within three-quarters of a mile of fixed routes.",
+    "eligibility": [
+      "People unable, or limited in their ability, to use fixed-route service because of a disability"
+    ],
+    "id": "vi-vitran-plus",
+    "languages": [
+      "English"
+    ],
+    "name": "VITRAN Plus Paratransit",
+    "prerequisites": [
+      "Complete both Part A and Part B of the VITRAN Plus application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://dpw.vi.gov/wp-content/uploads/2024/07/Ride-Guide-Updated-Sept-2022.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed VITRAN Plus application, Parts A and B"
+    ]
+  },
+  {
+    "agency": "VI Department of Health",
+    "applyLinks": [
+      {
+        "label": "DOH family planning clinic services",
+        "url": "https://doh.vi.gov/programs/family-planning-clinics/family-planning-clinic-services/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Thomas family planning clinic",
+        "value": "(340) 777-8804 ext. 2602"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix family planning clinic",
+        "value": "(340) 718-0482"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No appointment deadline published in the verified source."
+      }
+    ],
+    "description": "Confidential sexual and reproductive health care for women, men, and adolescents, including contraception, STI testing and treatment, well-woman exams, preconception and pregnancy care, cancer screening, and postpartum care.",
+    "eligibility": [
+      "Women, men, and adolescents (specific eligibility or fee criteria not specified on the verified source)"
+    ],
+    "id": "vi-family-planning",
+    "languages": [
+      "English"
+    ],
+    "name": "Family Planning Clinics",
+    "prerequisites": [
+      "Contact the clinic on your island to schedule care"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://doh.vi.gov/programs/family-planning-clinics/family-planning-clinic-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the clinic what to bring"
+    ]
+  },
+  {
+    "agency": "Disability Rights Center of the Virgin Islands",
+    "applyLinks": [
+      {
+        "label": "DRCVI program brochure",
+        "url": "https://DRCVI.org/documents/general/DRCVIBrochure22.pdf?downloadable=1"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "Frederiksted office",
+        "value": "63 Estate Cane Carlton, Frederiksted, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "Frederiksted office",
+        "value": "(340) 772-1200"
+      },
+      {
+        "kind": "in-person",
+        "label": "St. Thomas office",
+        "value": "9003 Havensight Mall, Suite 313, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas office",
+        "value": "(340) 776-4303"
+      },
+      {
+        "kind": "email",
+        "label": "DRCVI email",
+        "value": "info@drcvi.org"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No deadline published in the verified source."
+      }
+    ],
+    "description": "Federally mandated protection and advocacy organization for the U.S. Virgin Islands. Provides advice, consultation, direct representation, referrals, training, and outreach on disability-rights matters involving education, employment, health care, transportation, housing, and public benefits.",
+    "eligibility": [
+      "People with disabilities in the U.S. Virgin Islands and their families or representatives"
+    ],
+    "id": "vi-drcvi",
+    "languages": [
+      "English"
+    ],
+    "name": "DRCVI Protection and Advocacy",
+    "prerequisites": [
+      "Contact DRCVI to request assistance"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://DRCVI.org/documents/general/DRCVIBrochure22.pdf?downloadable=1"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; describe the disability-rights issue when you contact DRCVI"
+    ]
+  },
+  {
+    "agency": "VI Department of Licensing and Consumer Affairs",
+    "applyLinks": [
+      {
+        "label": "DLCA business license portal (login/registration)",
+        "url": "https://secure.dlca.vi.gov/license/Asps/login/login.aspx"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Croix DLCA",
+        "value": "340-713-3522"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas DLCA",
+        "value": "340-714-3522"
+      },
+      {
+        "kind": "phone",
+        "label": "St. John DLCA",
+        "value": "340-727-3303"
+      }
+    ],
+    "cost": "License fees apply; not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Before opening",
+        "note": "A valid business license is required before soliciting or engaging in any business, occupation, profession, or trade in the territory."
+      }
+    ],
+    "description": "Business licensing for the U.S. Virgin Islands. Territorial law requires every person, entity, or association wishing to engage in business to obtain a business license from DLCA before operating. Apply through the DLCA Business License Portal.",
+    "eligibility": [
+      "Any individual, entity, or association operating or intending to operate a business in the U.S. Virgin Islands"
+    ],
+    "id": "vi-dlca-business-license",
+    "languages": [
+      "English"
+    ],
+    "name": "DLCA Business License",
+    "prerequisites": [
+      "Create an account on the DLCA Business License Portal",
+      "Select the appropriate license category and upload required documents"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VI"
+    },
+    "sources": [
+      "https://secure.dlca.vi.gov/license/Asps/login/login.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Required documents vary by business type; see the DLCA portal and licensing steps"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development",
+    "applyLinks": [
+      {
+        "label": "HUD U.S. Virgin Islands page",
+        "url": "http://hud.gov/states/us-virgin-islands"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD-approved housing counseling hotline",
+        "value": "1-800-569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "711"
+      }
+    ],
+    "cost": "Housing counseling is typically free; not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No deadline published in the verified source."
+      }
+    ],
+    "description": "HUD-approved housing counseling for Virgin Islands residents on buying a home, avoiding foreclosure, rental assistance, and resolving issues with management companies or buildings. The HUD VI page also points residents to the Virgin Islands Bar Association and the Virgin Islands Legal Assistance Network (VILAN) for legal help.",
+    "eligibility": [
+      "Virgin Islands residents seeking housing advice (specific program eligibility varies)"
+    ],
+    "id": "fed-usvi-hud-housing-counseling",
+    "languages": [
+      "English"
+    ],
+    "name": "HUD-Approved Housing Counseling (USVI)",
+    "prerequisites": [
+      "Call the counseling hotline or search for a HUD-approved counselor serving the Virgin Islands"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "http://hud.gov/states/us-virgin-islands"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; describe your housing issue when you call"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration",
+    "applyLinks": [
+      {
+        "label": "SSA office access and contact information",
+        "url": "https://www.ssa.gov/blog/en/posts/2022-04-25.html"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national toll-free line",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "SSA TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "in-person",
+        "label": "SSA St. Thomas field office",
+        "value": "1st Floor, Nisky Center, Nisky Shopping Center, Charlotte Amalie, VI"
+      },
+      {
+        "kind": "in-person",
+        "label": "SSA Christiansted field office",
+        "value": "Professional Building, 4500 Sion Farm, Centerline Road, Christiansted, VI 00820"
+      }
+    ],
+    "cost": "No cost",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No deadline published in the verified source. Appointments are strongly recommended for in-person visits."
+      }
+    ],
+    "description": "Social Security retirement, disability, survivors, and SSI benefits, plus Medicare enrollment, served through the SSA field offices in Charlotte Amalie and Christiansted. Many services can be completed online or by phone; appointments are strongly recommended for office visits.",
+    "eligibility": [
+      "People eligible for Social Security benefits, SSI, or Medicare (specific benefit eligibility determined by SSA)"
+    ],
+    "id": "fed-usvi-ssa",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Administration Field Offices (USVI)",
+    "prerequisites": [
+      "Bring original documents for your request (for example, proof of identity and citizenship or immigration status for card services)"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.ssa.gov/blog/en/posts/2022-04-25.html",
+      "https://Www.ssa.gov/forms/ssa-1199-op7.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Social Security number",
+      "Original documents for your request, such as proof of identity and citizenship or immigration status"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration, Puerto Rico and U.S. Virgin Islands District Office",
+    "applyLinks": [
+      {
+        "label": "SBA Puerto Rico and U.S. Virgin Islands District Office",
+        "url": "https://www.sba.gov/offices/district/pr/san-juan?location=christiansted-st-croix"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA district office page",
+        "value": "https://www.sba.gov/offices/district/pr/san-juan?location=christiansted-st-croix"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No deadline published in the verified source."
+      }
+    ],
+    "description": "Federal small-business support for the U.S. Virgin Islands through the SBA Puerto Rico and U.S. Virgin Islands District Office, with offices in San Juan and St. Croix and a Senior Area Manager for the USVI. Services include funding programs, counseling, federal contracting certifications, and disaster recovery, plus connections to partner organizations, lenders, and community groups.",
+    "eligibility": [
+      "Small businesses in the U.S. Virgin Islands (specific program eligibility varies)"
+    ],
+    "id": "fed-usvi-sba-district",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA Puerto Rico and U.S. Virgin Islands District Office",
+    "prerequisites": [
+      "Contact the district office or its USVI Senior Area Manager to access services"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.sba.gov/offices/district/pr/san-juan?location=christiansted-st-croix"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; describe your business needs when you contact the office"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "USVI Vet Center locations (VA)",
+        "url": "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Thomas Vet Center",
+        "value": "9164 Estate Thomas, Suite 1, St. Thomas, VI"
+      },
+      {
+        "kind": "web",
+        "label": "VA Vet Center locations page",
+        "value": "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Hours shown Monday through Friday, 8:00 a.m. to 4:30 p.m. on the verified source."
+      }
+    ],
+    "description": "VA Vet Center serving veterans, service members, and their families in the St. Thomas area, located at 9164 Estate Thomas, Suite 1, St. Thomas. See the VA page for current services and hours.",
+    "eligibility": [
+      "Veterans, service members, and their families (specific Vet Center eligibility not specified on the verified source)"
+    ],
+    "id": "fed-vi-st-thomas-vet-center",
+    "languages": [
+      "English"
+    ],
+    "name": "St. Thomas Vet Center",
+    "prerequisites": [
+      "Contact the Vet Center or visit during operating hours"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; proof of military service may be needed"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "USVI Vet Center locations (VA)",
+        "url": "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Croix Vet Center outstation",
+        "value": "Village Mall, Plot 113, Kingshill, St. Croix, VI"
+      },
+      {
+        "kind": "web",
+        "label": "VA Vet Center locations page",
+        "value": "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Hours shown Monday through Friday, 8:00 a.m. to 4:30 p.m. on the verified source."
+      }
+    ],
+    "description": "VA Vet Center outstation serving veterans, service members, and their families on St. Croix, located at the Village Mall, Plot 113, Kingshill. See the VA page for current services and hours.",
+    "eligibility": [
+      "Veterans, service members, and their families (specific Vet Center eligibility not specified on the verified source)"
+    ],
+    "id": "fed-vi-st-croix-vet-center-outstation",
+    "languages": [
+      "English"
+    ],
+    "name": "St. Croix Vet Center Outstation",
+    "prerequisites": [
+      "Contact the Vet Center or visit during operating hours"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.va.gov/us-virgin-islands-vet-center/locations/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; proof of military service may be needed"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs, Caribbean Healthcare System",
+    "applyLinks": [
+      {
+        "label": "St. Croix VA Clinic (VA)",
+        "url": "https://www.va.gov/caribbean-health-care/locations/saint-croix-va-clinic/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Croix VA Clinic",
+        "value": "10553 Kingshill, Village Mall, Suite 113, St. Croix, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Croix VA Clinic",
+        "value": "(340) 778-5553"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "Hours shown Monday through Friday, 8:00 a.m. to 4:30 p.m. on the verified source."
+      }
+    ],
+    "description": "VA outpatient clinic on St. Croix offering primary care, preventive care, women's health, telehealth, pharmacy, laboratory services, physical and occupational therapy, and podiatry.",
+    "eligibility": [
+      "Enrolled veterans (specific enrollment criteria not specified on the verified source)"
+    ],
+    "id": "fed-vi-st-croix-va-clinic",
+    "languages": [
+      "English"
+    ],
+    "name": "St. Croix VA Clinic",
+    "prerequisites": [
+      "VA health care enrollment; contact the clinic to schedule care"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "VI"
+    },
+    "sources": [
+      "https://www.va.gov/caribbean-health-care/locations/saint-croix-va-clinic/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; bring VA identification and any current medications"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Grandview management",
+        "value": "(340) 777-3818"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Grandview affordable rental housing in Charlotte Amalie, managed through VIHFA's rental programs.",
+    "eligibility": [
+      "Contact the Grandview management office for current income limits, eligibility, and availability"
+    ],
+    "id": "charlotte-amalie-grandview",
+    "languages": [
+      "English"
+    ],
+    "name": "Grandview Rental Housing (Charlotte Amalie)",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Charlotte Amalie"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Amalie Terrace management",
+        "value": "(340) 714-0070"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Amalie Terrace affordable rental housing in Charlotte Amalie, managed through VIHFA's rental programs.",
+    "eligibility": [
+      "Contact the Amalie Terrace management office for current income limits, eligibility, and availability"
+    ],
+    "id": "charlotte-amalie-amalie-terrace",
+    "languages": [
+      "English"
+    ],
+    "name": "Amalie Terrace Rental Housing (Charlotte Amalie)",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Charlotte Amalie"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ruby M. Rouss management",
+        "value": "(340) 773-4681"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Ruby M. Rouss affordable rental housing in Christiansted, managed through VIHFA's rental programs.",
+    "eligibility": [
+      "Contact the Ruby M. Rouss management office for current income limits, eligibility, and availability"
+    ],
+    "id": "christiansted-ruby-m-rouss",
+    "languages": [
+      "English"
+    ],
+    "name": "Ruby M. Rouss Rental Housing (Christiansted)",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Christiansted"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "VI Housing Finance Authority",
+    "applyLinks": [
+      {
+        "label": "VIHFA rental programs",
+        "url": "https://vihfa.gov/rental-programs/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Frits Lawaetz management",
+        "value": "(340) 772-1801"
+      }
+    ],
+    "cost": "Not specified on the verified source",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No application deadline published in the verified source."
+      }
+    ],
+    "description": "Frits Lawaetz affordable rental housing in Frederiksted, managed through VIHFA's rental programs.",
+    "eligibility": [
+      "Contact the Frits Lawaetz management office for current income limits, eligibility, and availability"
+    ],
+    "id": "frederiksted-frits-lawaetz",
+    "languages": [
+      "English"
+    ],
+    "name": "Frits Lawaetz Rental Housing (Frederiksted)",
+    "prerequisites": [
+      "Contact the property management office to apply"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Frederiksted"
+    },
+    "sources": [
+      "https://vihfa.gov/rental-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the management office what documents to bring"
+    ]
+  },
+  {
+    "agency": "Frederiksted Health Care, Inc.",
+    "applyLinks": [
+      {
+        "label": "Frederiksted Health Care about page",
+        "url": "https://www.frederiksted.healthcare/about-us"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Frederiksted Health Care website",
+        "value": "https://www.frederiksted.healthcare/about-us"
+      }
+    ],
+    "cost": "No one is denied access because of inability to pay",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No appointment deadline published in the verified source."
+      }
+    ],
+    "description": "Federally qualified health center serving St. Croix, offering adult primary care, pediatrics, OB/GYN, dental, and psychiatric and behavioral health care. No one is denied access because of inability to pay.",
+    "eligibility": [
+      "Open to the community; no one is denied access because of inability to pay"
+    ],
+    "id": "frederiksted-health-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Frederiksted Health Care (FQHC)",
+    "prerequisites": [
+      "Contact the health center to schedule care"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Frederiksted"
+    },
+    "sources": [
+      "https://www.frederiksted.healthcare/about-us"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not specified on the verified source; ask the health center what to bring"
+    ]
+  },
+  {
+    "agency": "St. Thomas East End Medical Center",
+    "applyLinks": [
+      {
+        "label": "STEEMC frequently asked questions",
+        "url": "https://steemcc.org/savant/frequently-asked-questions/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "St. Thomas East End Medical Center",
+        "value": "Tutu Park Mall, Anna's Retreat, St. Thomas, VI"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Thomas East End Medical Center",
+        "value": "(340) 775-3700"
+      }
+    ],
+    "cost": "Accepts Medicaid and Medicare; sliding-fee discount program available",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "No published deadline",
+        "note": "No appointment deadline published in the verified source."
+      }
+    ],
+    "description": "Federally qualified health center serving the St. Thomas-St. John district from Tutu Park Mall, Anna's Retreat, St. Thomas. Serves all ages, accepts Medicaid and Medicare, and offers a sliding-fee discount program with phone translation services available.",
+    "eligibility": [
+      "Open to all ages; sliding-fee discount program available for qualifying patients"
+    ],
+    "id": "charlotte-amalie-steemc",
+    "languages": [
+      "English"
+    ],
+    "name": "St. Thomas East End Medical Center (FQHC)",
+    "prerequisites": [
+      "Contact the center to schedule care; complete a sliding-fee application for discounted fees"
+    ],
+    "scope": {
+      "level": "city",
+      "state": "VI",
+      "city": "Charlotte Amalie"
+    },
+    "sources": [
+      "https://steemcc.org/savant/frequently-asked-questions/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Government ID",
+      "Four recent check stubs or a support letter",
+      "Utility bill",
+      "Applicable spouse or guardian documents for the sliding-fee application"
+    ]
   }
 ]
