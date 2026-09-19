@@ -23576,5 +23576,1556 @@
     "sources": [
       "https://www.mcboss.org/cms/One.aspx?portalId=10377127&pageId=10377138"
     ]
+  },
+  {
+    "agency": "Virginia Department of Social Services (VDSS)",
+    "applyLinks": [
+      {
+        "label": "CommonHelp online application",
+        "url": "https://commonhelp.virginia.gov/"
+      },
+      {
+        "label": "SNAP program page (VDSS)",
+        "url": "https://dss.virginia.gov/relief/food-assistance/snap/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP information line",
+        "value": "833-522-5582"
+      },
+      {
+        "kind": "web",
+        "label": "CommonHelp online application",
+        "value": "https://commonhelp.virginia.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "Virginia's SNAP program provides monthly food assistance on an EBT card to eligible low-income households. Apply online through CommonHelp. Note: the Virginia Common Benefit for the Elderly and Disabled (VaCAP) ended 2026-06-01 and ESAP-eligible households transition at recertification; sweetened carbonated beverages become ineligible for purchase with SNAP starting 2026-11-01.",
+    "eligibility": [
+      "Low-income Virginia households",
+      "Income and household criteria apply — see program page"
+    ],
+    "id": "va-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://dss.virginia.gov/relief/food-assistance/snap/",
+      "https://commonhelp.virginia.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Medical Assistance Services (DMAS)",
+    "applyLinks": [
+      {
+        "label": "How to apply for Cardinal Care",
+        "url": "https://coverva.dmas.virginia.gov/apply/how-to-apply/"
+      },
+      {
+        "label": "Cardinal Care program information (DMAS)",
+        "url": "https://dmas.virginia.gov/for-providers/cardinal-care-providers/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cardinal Care enrollment",
+        "value": "1-855-242-8282"
+      },
+      {
+        "kind": "phone",
+        "label": "TDD",
+        "value": "1-888-221-1590"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply (Cover Virginia)",
+        "value": "https://coverva.dmas.virginia.gov/apply/how-to-apply/"
+      }
+    ],
+    "cost": "Free or low-cost",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "Cardinal Care is Virginia's Medicaid program, providing free or low-cost health coverage to eligible Virginians. As of 2025-07-01, five managed care plans serve members and Molina members moved to Humana. Apply online through CommonHelp or by phone; the call center closed on Saturdays starting 2026-04-04.",
+    "eligibility": [
+      "Virginia residents meeting Medicaid income and category requirements",
+      "Children, pregnant women, parents, older adults, and people with disabilities — see program page"
+    ],
+    "id": "va-cardinal-care",
+    "languages": [
+      "English"
+    ],
+    "name": "Cardinal Care (Virginia Medicaid)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://coverva.dmas.virginia.gov/apply/how-to-apply/",
+      "https://dmas.virginia.gov/for-providers/cardinal-care-providers/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Employment Commission (VEC)",
+    "applyLinks": [
+      {
+        "label": "File a claim online (UIDirect)",
+        "url": "https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm"
+      },
+      {
+        "label": "VEC FAQs",
+        "url": "https://vec.virginia.gov/faqs"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VEC customer service",
+        "value": "866-832-2363"
+      },
+      {
+        "kind": "phone",
+        "label": "Claim status / weekly claims line",
+        "value": "800-897-5630"
+      },
+      {
+        "kind": "web",
+        "label": "Online claim filing (UIDirect)",
+        "value": "https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File an initial claim within the same week unemployment begins; claims cannot be backdated"
+      }
+    ],
+    "description": "Virginia's unemployment insurance program pays temporary benefits to workers who lose their jobs through no fault of their own. File your initial claim online; identity is verified with ID.me and you will need a photo ID and Social Security number. Initial claims cannot be backdated — file within the same week your unemployment begins.",
+    "eligibility": [
+      "Virginia workers unemployed through no fault of their own",
+      "Wage and work-search requirements apply — see program page"
+    ],
+    "id": "va-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (VEC)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://vec.virginia.gov/faqs",
+      "https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID",
+      "Social Security number",
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Social Services (VDSS)",
+    "applyLinks": [
+      {
+        "label": "TANF application info (VDSS)",
+        "url": "https://www.dss.virginia.gov/relief/tanf/apply/"
+      },
+      {
+        "label": "TANF programs and services (VDSS)",
+        "url": "https://www.dss.virginia.gov/relief/tanf/programs-and-services/"
+      },
+      {
+        "label": "CommonHelp online application",
+        "url": "https://commonhelp.virginia.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VDSS benefit programs",
+        "value": "855-635-4370"
+      },
+      {
+        "kind": "web",
+        "label": "CommonHelp online application",
+        "value": "https://commonhelp.virginia.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "Virginia's Temporary Assistance for Needy Families (TANF) program provides temporary cash assistance to eligible families with children. It includes the Virginia Initiative for Education and Work (VIEW) and Family Engagement Program employment services, plus Diversionary Assistance and Emergency Assistance for eligible families. Apply through CommonHelp.",
+    "eligibility": [
+      "Families with children",
+      "Income requirements apply — see program page",
+      "Work participation requirements apply for work-eligible adults"
+    ],
+    "id": "va-tanf-view",
+    "languages": [
+      "English"
+    ],
+    "name": "TANF Cash Assistance and VIEW",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.dss.virginia.gov/relief/tanf/apply/",
+      "https://www.dss.virginia.gov/relief/tanf/programs-and-services/",
+      "https://commonhelp.virginia.gov/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Social Services (VDSS)",
+    "applyLinks": [
+      {
+        "label": "Energy Assistance program page (VDSS)",
+        "url": "https://dss.virginia.gov/relief/ea/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VDSS benefit programs",
+        "value": "855-635-4370"
+      },
+      {
+        "kind": "web",
+        "label": "Energy Assistance program page",
+        "value": "https://dss.virginia.gov/relief/ea/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Fuel assistance",
+        "note": "Annual seasonal window — check the program page for current dates"
+      },
+      {
+        "date": null,
+        "label": "Crisis assistance",
+        "note": "Seasonal window — check the program page for current dates"
+      },
+      {
+        "date": null,
+        "label": "Cooling assistance",
+        "note": "Seasonal window — check the program page for current dates"
+      }
+    ],
+    "description": "Virginia's Energy Assistance Program helps eligible low-income households with heating and cooling costs through four components: fuel assistance, crisis assistance, cooling assistance, and weatherization. Each component runs on a seasonal application window — check the program page for current dates.",
+    "eligibility": [
+      "Low-income Virginia households",
+      "Income requirements apply — see program page"
+    ],
+    "id": "va-energy-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Energy Assistance Program",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://dss.virginia.gov/relief/ea/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Health (VDH)",
+    "applyLinks": [
+      {
+        "label": "WIC eligibility and documents (VDH)",
+        "url": "https://www.vdh.virginia.gov/central-virginia/wic/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WIC program information (VDH)",
+        "value": "https://www.vdh.virginia.gov/central-virginia/wic/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "Virginia WIC provides nutrition education, breastfeeding support, and food benefits to pregnant women, new mothers, infants, and children. The VDH page lists program eligibility criteria and the documents to bring to an appointment. Apply through your local health department or WIC office.",
+    "eligibility": [
+      "Pregnant women, breastfeeding and postpartum women, infants, and children up to age 5",
+      "Income guidelines apply — see program page",
+      "Virginia residents"
+    ],
+    "id": "va-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC Nutrition Program",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.vdh.virginia.gov/central-virginia/wic/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Proof of identity, income, and residency — see the program page for the full list"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Social Services (VDSS) — Division of Child Care and Early Childhood Development",
+    "applyLinks": [
+      {
+        "label": "Child care subsidy eligibility and how to apply",
+        "url": "https://www.childcare.virginia.gov/home/showdocument?id=57736&t=638633886494375242"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Child care subsidy eligibility info",
+        "value": "https://www.childcare.virginia.gov/home/showdocument?id=57736&t=638633886494375242"
+      }
+    ],
+    "cost": "Free to apply; copays may vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; caseworkers have 30 days to process applications"
+      }
+    ],
+    "description": "The Child Care Subsidy Program helps eligible Virginia families pay for child care so parents can work, look for work, or attend education and training. Families with young children may qualify with household income up to 85% of state median income; school-age-only families fall under locality-based income cap groups. Local departments of social services process applications within 30 days, including a short phone interview, and eligibility lasts a minimum of 12 months. Some localities have waitlists due to high demand.",
+    "eligibility": [
+      "Virginia families with children age 12 or younger",
+      "Parents employed, seeking employment, or participating in education or training",
+      "Income limits apply — up to 85% of state median income for families with young children"
+    ],
+    "id": "va-child-care-subsidy",
+    "languages": [
+      "English",
+      "Spanish",
+      "Other languages on request"
+    ],
+    "name": "Child Care Subsidy Program",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.childcare.virginia.gov/home/showdocument?id=57736&t=638633886494375242"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Verification documents requested by your caseworker — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department for Aging and Rehabilitative Services (DARS)",
+    "applyLinks": [
+      {
+        "label": "DARS employment services for individuals",
+        "url": "https://dars.virginia.gov/employment-services/for-individuals/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DARS toll-free",
+        "value": "1-800-552-5019"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-464-9950"
+      },
+      {
+        "kind": "web",
+        "label": "DARS employment services for individuals",
+        "value": "https://dars.virginia.gov/employment-services/for-individuals/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "description": "DARS Employment Services helps Virginians with disabilities prepare for, find, and keep jobs through vocational rehabilitation counseling, training, and employment supports. Individuals can refer themselves for services.",
+    "eligibility": [
+      "Virginians with a disability that is a barrier to employment",
+      "Self-referral accepted"
+    ],
+    "id": "va-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation Services (DARS)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://dars.virginia.gov/employment-services/for-individuals/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Veterans Services (DVS)",
+    "applyLinks": [
+      {
+        "label": "DVS Benefits Services",
+        "url": "https://www.dvs.virginia.gov/benefits-services"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DVS Benefits Services",
+        "value": "https://www.dvs.virginia.gov/benefits-services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time"
+      }
+    ],
+    "description": "DVS Benefits Services provides free help to Virginia veterans, service members, and their families with filing benefit claims and connecting to earned benefits, through 38 benefits offices across the Commonwealth.",
+    "eligibility": [
+      "Virginia veterans, service members, and their dependents and survivors"
+    ],
+    "id": "va-veterans-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "DVS Benefits Services",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.dvs.virginia.gov/benefits-services"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Veterans Services (DVS)",
+    "applyLinks": [
+      {
+        "label": "VMSDEP program page (DVS)",
+        "url": "https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VMSDEP",
+        "value": "844-838-7838"
+      },
+      {
+        "kind": "email",
+        "label": "VMSDEP",
+        "value": "vmsdep@dvs.virginia.gov"
+      },
+      {
+        "kind": "web",
+        "label": "VMSDEP program page",
+        "value": "https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See the program page for current application periods"
+      }
+    ],
+    "description": "VMSDEP provides education benefits — up to eight semesters — to qualifying spouses and dependents of eligible military service members. The 2026–27 program FAQs were listed as 'coming soon' when verified; check the program page for current application details.",
+    "eligibility": [
+      "Spouses and dependents of qualifying military service members",
+      "See program page for current eligibility rules"
+    ],
+    "id": "va-vmsdep",
+    "languages": [
+      "English"
+    ],
+    "name": "Virginia Military Survivors and Dependents Education Program (VMSDEP)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia Housing",
+    "applyLinks": [
+      {
+        "label": "Down Payment Assistance Grant (Virginia Housing)",
+        "url": "https://virginiahousing.com/homebuyers/down-payment-assistance-grant"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Down Payment Assistance Grant",
+        "value": "https://virginiahousing.com/homebuyers/down-payment-assistance-grant"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time with a qualifying Virginia Housing loan"
+      }
+    ],
+    "description": "Virginia Housing's Down Payment Assistance Grant helps eligible first-time homebuyers with down payment costs. The grant does not require repayment when paired with a qualifying Virginia Housing loan.",
+    "eligibility": [
+      "First-time homebuyers using a Virginia Housing loan",
+      "Income and purchase-price limits apply — see program page"
+    ],
+    "id": "va-housing-dpa",
+    "languages": [
+      "English"
+    ],
+    "name": "Down Payment Assistance Grant (Virginia Housing)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://virginiahousing.com/homebuyers/down-payment-assistance-grant"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Virginia State Bar — Access to Legal Services",
+    "applyLinks": [
+      {
+        "label": "Access to Legal Services guide (Virginia State Bar)",
+        "url": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Statewide legal aid intake line",
+        "value": "1-866-534-5243"
+      },
+      {
+        "kind": "web",
+        "label": "Access to Legal Services guide",
+        "value": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "cost": "Free referrals; legal aid services are generally free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "description": "The Virginia State Bar's access guide routes Virginians to free civil legal aid. Call the statewide intake line at 1-866-534-5243 to be connected with the legal aid program serving your area. Note: the online guide was last updated in 2023 — confirm details with the intake line.",
+    "eligibility": [
+      "Virginia residents with civil legal needs",
+      "Income requirements apply at local legal aid programs"
+    ],
+    "id": "va-legal-aid-statewide",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid Access Guide (Virginia State Bar)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "211 Virginia",
+    "applyLinks": [
+      {
+        "label": "211 Virginia FAQs",
+        "url": "https://211virginia.org/wp-content/uploads/2025/01/211_FAQs.pdf"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 211",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "Outside Virginia or connection trouble",
+        "value": "1-800-230-6977"
+      },
+      {
+        "kind": "web",
+        "label": "211 Virginia FAQs",
+        "value": "https://211virginia.org/wp-content/uploads/2025/01/211_FAQs.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "24/7/365",
+        "note": "Available around the clock"
+      }
+    ],
+    "description": "211 Virginia is a free, confidential, statewide helpline connecting callers with local resources for food, housing, utilities, health care, and other needs, available 24 hours a day, 365 days a year. Dial 211; if you are outside Virginia or have trouble connecting, call 1-800-230-6977. Staff serve callers in English and Spanish, with interpretation in over 150 languages.",
+    "eligibility": [
+      "Anyone in Virginia seeking help or referrals"
+    ],
+    "id": "va-211",
+    "languages": [
+      "English",
+      "Spanish",
+      "Interpretation in 150+ languages"
+    ],
+    "name": "211 Virginia",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://211virginia.org/wp-content/uploads/2025/01/211_FAQs.pdf"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "Virginia Department of Motor Vehicles (DMV)",
+    "applyLinks": [
+      {
+        "label": "DMV online renewal information",
+        "url": "https://www.dmv.virginia.gov/e-renew-online"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV online renewal information",
+        "value": "https://www.dmv.virginia.gov/e-renew-online"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Renew before your expiration date"
+      }
+    ],
+    "description": "Virginia DMV handles driver's license and ID card renewals online, in person, and by mail for eligible customers. REAL ID is optional but has been required (alongside another federally accepted ID) for domestic flights and secure federal facilities since 2025-05-07; getting a REAL ID requires an in-person visit, with online pre-application available. A standard eight-year renewal is listed as $32 on the page.",
+    "eligibility": [
+      "Virginia residents with a driver's license or ID card",
+      "REAL ID requires an in-person visit"
+    ],
+    "id": "va-dmv-real-id",
+    "languages": [
+      "English"
+    ],
+    "name": "Driver's License and ID Renewal (DMV)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.dmv.virginia.gov/e-renew-online"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Identity and residency documents — see the DMV site for the full list"
+    ]
+  },
+  {
+    "agency": "Greater Richmond Transit Company (GRTC)",
+    "applyLinks": [
+      {
+        "label": "GRTC bus routes and schedules",
+        "url": "https://www.ridegrtc.com/bus_routes/highland-park-u-s-1-brightpoint/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GRTC bus routes and schedules",
+        "value": "https://www.ridegrtc.com/bus_routes/highland-park-u-s-1-brightpoint/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing service",
+        "note": "See route pages for current schedules"
+      }
+    ],
+    "description": "GRTC operates public bus service across Richmond and the region, publishing route maps and schedules online. The verified page covers GRTC bus routes and schedules, including the Highland Park–U.S. 1–Brightpoint corridor.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "richmondva-grtc",
+    "languages": [
+      "English"
+    ],
+    "name": "GRTC Public Transit",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "city"
+    },
+    "sources": [
+      "https://www.ridegrtc.com/bus_routes/highland-park-u-s-1-brightpoint/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "Hampton Roads Transit (HRT)",
+    "applyLinks": [
+      {
+        "label": "HRT Student Freedom Pass",
+        "url": "https://gohrt.com/programs/student-freedom-pass/?gad_source=1"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HRT customer service",
+        "value": "757-222-6100"
+      },
+      {
+        "kind": "web",
+        "label": "HRT Student Freedom Pass",
+        "value": "https://gohrt.com/programs/student-freedom-pass/?gad_source=1"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See the program page for current enrollment"
+      }
+    ],
+    "description": "The HRT Student Freedom Pass gives riders ages 13–17 free, unlimited rides on HRT buses, light rail, and ferry service across Hampton Roads — including Chesapeake, Norfolk, Virginia Beach, and other HRT cities.",
+    "eligibility": [
+      "Ages 13–17",
+      "See the program page for enrollment details"
+    ],
+    "id": "vb-hrt",
+    "languages": [
+      "English"
+    ],
+    "name": "HRT Student Freedom Pass",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Virginia Beach",
+      "level": "city"
+    },
+    "sources": [
+      "https://gohrt.com/programs/student-freedom-pass/?gad_source=1"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Arlington County — Arlington Transit (ART)",
+    "applyLinks": [
+      {
+        "label": "ART fare and route changes — county notice",
+        "url": "https://www.arlingtonva.us/About-Arlington/Newsroom/Articles/2024/Arlington-Transit-to-Implement-Fare-and-Route-Changes"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ART fare and route changes — county notice",
+        "value": "https://www.arlingtonva.us/About-Arlington/Newsroom/Articles/2024/Arlington-Transit-to-Implement-Fare-and-Route-Changes"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing service",
+        "note": "Check the county site for current routes and fares"
+      }
+    ],
+    "description": "Arlington County's ART bus network serves Arlington with regular and discounted fares. A June 2024 county notice documents fare and route changes, including ART regular and discounted fares, STAR zoned fares, route closures, and the launch of ART 56. Check the county site for current routes and fares.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "arlingtonva-art",
+    "languages": [
+      "English"
+    ],
+    "name": "Arlington Transit (ART)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Arlington",
+      "level": "county"
+    },
+    "sources": [
+      "https://www.arlingtonva.us/About-Arlington/Newsroom/Articles/2024/Arlington-Transit-to-Implement-Fare-and-Route-Changes"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "City of Richmond",
+    "applyLinks": [
+      {
+        "label": "RVA311 information",
+        "url": "https://www.rva.gov/index.php/node/7571"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RVA311",
+        "value": "804-646-7000"
+      },
+      {
+        "kind": "web",
+        "label": "RVA311 information",
+        "value": "https://www.rva.gov/index.php/node/7571"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing",
+        "note": "Online portal available 24/7"
+      }
+    ],
+    "description": "RVA311 is Richmond's non-emergency service line for infrastructure, trash, taxes, social services, and other city requests. Dial 311 or call 804-646-7000; the online portal is available 24/7. Call-center hours are listed as Monday–Friday 8 a.m.–7 p.m. and Saturday 9 a.m.–1 p.m.",
+    "eligibility": [
+      "Anyone in Richmond"
+    ],
+    "id": "richmondva-311",
+    "languages": [
+      "English"
+    ],
+    "name": "RVA311 (City of Richmond)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "city"
+    },
+    "sources": [
+      "https://www.rva.gov/index.php/node/7571"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "City of Virginia Beach",
+    "applyLinks": [
+      {
+        "label": "VB311 — how to reach help in Virginia Beach",
+        "url": "https://virginiabeach.gov/connect/blog/make-the-right-call-learn-the-three-ways-to-reach-help-in-virginia-beach"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VB311",
+        "value": "757-385-3111"
+      },
+      {
+        "kind": "phone",
+        "label": "Public-safety non-emergency (separate)",
+        "value": "757-385-5000"
+      },
+      {
+        "kind": "web",
+        "label": "VB311 — how to reach help in Virginia Beach",
+        "value": "https://virginiabeach.gov/connect/blog/make-the-right-call-learn-the-three-ways-to-reach-help-in-virginia-beach"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing",
+        "note": "Call any time"
+      }
+    ],
+    "description": "VB311 is Virginia Beach's helpline for city service requests and inquiries: dial 311 in the city or call 757-385-3111. For public-safety non-emergencies, the separate number is 757-385-5000.",
+    "eligibility": [
+      "Anyone in Virginia Beach"
+    ],
+    "id": "vb-311",
+    "languages": [
+      "English"
+    ],
+    "name": "VB311 (City of Virginia Beach)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Virginia Beach",
+      "level": "city"
+    },
+    "sources": [
+      "https://virginiabeach.gov/connect/blog/make-the-right-call-learn-the-three-ways-to-reach-help-in-virginia-beach"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "City of Norfolk",
+    "applyLinks": [
+      {
+        "label": "MyNorfolk / Norfolk Cares — city notice",
+        "url": "https://www.Norfolk.gov/CivicAlerts.aspx?AID=4914&ARC=9699"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyNorfolk / Norfolk Cares — city notice",
+        "value": "https://www.Norfolk.gov/CivicAlerts.aspx?AID=4914&ARC=9699"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing",
+        "note": "Online system accepts requests any time"
+      }
+    ],
+    "description": "MyNorfolk (Norfolk Cares) is the City of Norfolk's system for accepting and tracking non-emergency city service requests online. No phone number was verified in the opened city page.",
+    "eligibility": [
+      "Anyone in Norfolk"
+    ],
+    "id": "norfolkva-311",
+    "languages": [
+      "English"
+    ],
+    "name": "MyNorfolk / Norfolk Cares Center",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Norfolk",
+      "level": "city"
+    },
+    "sources": [
+      "https://www.Norfolk.gov/CivicAlerts.aspx?AID=4914&ARC=9699"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "None"
+    ]
+  },
+  {
+    "agency": "Central Virginia Legal Aid Society",
+    "applyLinks": [
+      {
+        "label": "Access to Legal Services guide (Virginia State Bar)",
+        "url": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CVLAS Richmond",
+        "value": "804-648-1012"
+      },
+      {
+        "kind": "phone",
+        "label": "CVLAS toll-free",
+        "value": "1-800-868-1012"
+      },
+      {
+        "kind": "phone",
+        "label": "Statewide legal aid intake line",
+        "value": "1-866-534-5243"
+      },
+      {
+        "kind": "web",
+        "label": "Access to Legal Services guide",
+        "value": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "description": "Central Virginia Legal Aid Society provides free civil legal help to eligible low-income residents in the Richmond area. Richmond-area callers can reach CVLAS at 804-648-1012 or toll-free at 1-800-868-1012, or start with the statewide line 1-866-534-5243. Source: Virginia State Bar access guide (online version last updated 2023).",
+    "eligibility": [
+      "Low-income Richmond-area residents",
+      "Civil legal matters — see program page"
+    ],
+    "id": "richmondva-legal-aid-cvlas",
+    "languages": [
+      "English"
+    ],
+    "name": "Central Virginia Legal Aid Society (CVLAS)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "city"
+    },
+    "sources": [
+      "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Legal Aid Society of Eastern Virginia",
+    "applyLinks": [
+      {
+        "label": "Access to Legal Services guide (Virginia State Bar)",
+        "url": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LASEV",
+        "value": "757-627-5423"
+      },
+      {
+        "kind": "phone",
+        "label": "Statewide legal aid intake line",
+        "value": "1-866-534-5243"
+      },
+      {
+        "kind": "web",
+        "label": "Access to Legal Services guide",
+        "value": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "description": "The Legal Aid Society of Eastern Virginia provides free civil legal help to eligible low-income residents of Chesapeake, Norfolk, Virginia Beach, and other eastern Virginia jurisdictions. Call 757-627-5423 or start with the statewide line 1-866-534-5243. Source: Virginia State Bar access guide (online version last updated 2023).",
+    "eligibility": [
+      "Low-income residents of eastern Virginia",
+      "Civil legal matters — see program page"
+    ],
+    "id": "norfolkva-legal-aid-lasev",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid Society of Eastern Virginia (LASEV)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Norfolk",
+      "level": "city"
+    },
+    "sources": [
+      "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Legal Services of Northern Virginia",
+    "applyLinks": [
+      {
+        "label": "Access to Legal Services guide (Virginia State Bar)",
+        "url": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LSNV",
+        "value": "703-778-6800"
+      },
+      {
+        "kind": "phone",
+        "label": "Statewide legal aid intake line",
+        "value": "1-866-534-5243"
+      },
+      {
+        "kind": "web",
+        "label": "Access to Legal Services guide",
+        "value": "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time"
+      }
+    ],
+    "description": "Legal Services of Northern Virginia provides free civil legal help to eligible low-income residents of Northern Virginia, including Arlington. Call 703-778-6800 or start with the statewide line 1-866-534-5243. Source: Virginia State Bar access guide (online version last updated 2023).",
+    "eligibility": [
+      "Low-income Northern Virginia residents",
+      "Civil legal matters — see program page"
+    ],
+    "id": "arlingtonva-legal-aid-lsnv",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Services of Northern Virginia (LSNV)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Arlington",
+      "level": "county"
+    },
+    "sources": [
+      "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Richmond Redevelopment and Housing Authority (RRHA)",
+    "applyLinks": [
+      {
+        "label": "RRHA waitlist openings page",
+        "url": "https://www.rrha.com/events/waitlist-openings-2026-09/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RRHA waitlist openings page",
+        "value": "https://www.rrha.com/events/waitlist-openings-2026-09/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": "2026-09-18",
+        "label": "Waitlist opening closed",
+        "note": "The project-based voucher waitlist ran Sept 14–18, 2026 and is now closed"
+      }
+    ],
+    "description": "RRHA opened project-based voucher waitlists 2026-09-14 at 8:30 a.m. through 2026-09-18 at 5 p.m.; the opening is now closed. No phone number or applicant portal was verified in the opened page. Check the RRHA site for future openings.",
+    "eligibility": [
+      "Varied by waitlist — check the RRHA site when waitlists open"
+    ],
+    "id": "richmondva-housing-rrha",
+    "languages": [
+      "English"
+    ],
+    "name": "RRHA Project-Based Voucher Waitlist (closed)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "city"
+    },
+    "sources": [
+      "https://www.rrha.com/events/waitlist-openings-2026-09/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Norfolk Redevelopment and Housing Authority (NRHA)",
+    "applyLinks": [
+      {
+        "label": "NRHA waitlists page",
+        "url": "https://nrha.us/housing/apply/waitlists/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NRHA waitlist information",
+        "value": "757-314-2058"
+      },
+      {
+        "kind": "phone",
+        "label": "TDD",
+        "value": "800-545-1833"
+      },
+      {
+        "kind": "web",
+        "label": "NRHA waitlists page",
+        "value": "https://nrha.us/housing/apply/waitlists/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlists not open",
+        "note": "Housing Choice Voucher and public housing waitlists are not open; the listed PBV/LIHTC opening ended Aug 3"
+      }
+    ],
+    "description": "NRHA's Housing Choice Voucher and public housing waitlists are not currently open, and a listed project-based voucher / LIHTC opening ended Aug 3. For waitlist questions, call 757-314-2058 (TDD 800-545-1833). Check the NRHA page for future openings.",
+    "eligibility": [
+      "Check the NRHA page when waitlists open"
+    ],
+    "id": "norfolkva-housing-nrha",
+    "languages": [
+      "English"
+    ],
+    "name": "NRHA Housing Waitlists (currently closed)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Norfolk",
+      "level": "city"
+    },
+    "sources": [
+      "https://nrha.us/housing/apply/waitlists/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Varies — see program page"
+    ]
+  },
+  {
+    "agency": "Arlington County — Arlington Public Library",
+    "applyLinks": [
+      {
+        "label": "Arlington Public Library news post",
+        "url": "https://library.arlingtonva.us/2026/09/14/launching-unlimited-audiobooks-with-blackstone-unlimited/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Arlington Public Library news post",
+        "value": "https://library.arlingtonva.us/2026/09/14/launching-unlimited-audiobooks-with-blackstone-unlimited/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Ongoing",
+        "note": "Library cards available any time"
+      }
+    ],
+    "description": "Arlington Public Library offers free library cards and materials to Arlington residents. As of September 2026, cardholders also get free, unlimited access to thousands of downloadable audiobooks through Blackstone Unlimited — no holds, no waitlists, and no checkout limits.",
+    "eligibility": [
+      "Arlington residents",
+      "Free library card required for borrowing"
+    ],
+    "id": "arlingtonva-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Arlington Public Library",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "county": "Arlington",
+      "level": "county"
+    },
+    "sources": [
+      "https://library.arlingtonva.us/2026/09/14/launching-unlimited-audiobooks-with-blackstone-unlimited/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Photo ID and proof of Arlington residency for a library card"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "SSDI/SSI program overview (SSA Red Book)",
+        "url": "https://www.ssa.gov/redbook/eng/overview-disability.htm?tl=2"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SSDI/SSI program overview (SSA Red Book)",
+        "value": "https://www.ssa.gov/redbook/eng/overview-disability.htm?tl=2"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; do not wait to file"
+      }
+    ],
+    "description": "SSA runs two disability programs. SSDI pays monthly benefits to people whose disability prevents work and who are insured through payroll-tax contributions (Medicare coverage begins after 24 months on SSDI). SSI makes monthly cash payments to people who are aged, blind, or disabled with limited income and resources (Medicaid coverage typically included).",
+    "eligibility": [
+      "Adults and children with a qualifying disability expected to last at least 12 months or result in death",
+      "SSDI requires insured work status; SSI requires limited income and resources"
+    ],
+    "id": "fed-ssdi-ssi",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI)",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "federal",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.ssa.gov/redbook/eng/overview-disability.htm?tl=2"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "Social Security number, medical records, medication list, and work history — see the SSA site for the full list"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs — VA Hampton Health Care",
+    "applyLinks": [
+      {
+        "label": "Register for care (VA Hampton)",
+        "url": "https://www.va.gov/hampton-health-care/register-for-care/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hampton VA main line (unverified)",
+        "value": "757-722-9961"
+      },
+      {
+        "kind": "web",
+        "label": "Register for care (VA Hampton)",
+        "value": "https://www.va.gov/hampton-health-care/register-for-care/"
+      }
+    ],
+    "cost": "Free to enroll; care costs vary by priority group",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time"
+      }
+    ],
+    "description": "VA Hampton Health Care serves veterans across the Hampton Roads region. You must be enrolled in VA health care before receiving care; apply online, by phone, by mail, or in person. For a faster decision, bring copies of your DD214 or discharge documents, any VA disability award letters, prior-year income information (for 0% or non-service-connected veterans), and ID cards for any other health coverage.",
+    "eligibility": [
+      "Veterans eligible for VA health care — see program page"
+    ],
+    "id": "fed-va-hampton",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Hampton Health Care Enrollment",
+    "prerequisites": [
+      "None"
+    ],
+    "scope": {
+      "city": "Richmond",
+      "level": "federal",
+      "state": "VA"
+    },
+    "sources": [
+      "https://www.va.gov/hampton-health-care/register-for-care/"
+    ],
+    "verifiedAt": "2026-09-18",
+    "whatToBring": [
+      "DD214 or other discharge documents",
+      "VA disability award letters, if any",
+      "Prior-year income information",
+      "Current ID cards for other health coverage"
+    ]
   }
 ]
