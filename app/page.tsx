@@ -130,6 +130,7 @@ const ROADMAP = [
   { label: "Puerto Rico", status: "live", note: "32 services indexed" },
   { label: "Guam", status: "live", note: "38 services indexed" },
   { label: "U.S. Virgin Islands", status: "live", note: "47 services indexed" },
+  { label: "Northern Mariana Islands", status: "live", note: "20 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 
