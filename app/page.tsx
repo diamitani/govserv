@@ -119,6 +119,7 @@ const ROADMAP = [
   { label: "Montana", status: "live", note: "31 services indexed" },
   { label: "Connecticut", status: "live", note: "40 services indexed" },
   { label: "Utah", status: "live", note: "38 services indexed" },
+  { label: "Idaho", status: "live", note: "39 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 

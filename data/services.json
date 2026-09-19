@@ -78817,5 +78817,2106 @@
     "sources": [
       "https://health.utahcounty.gov/locations/"
     ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-snap"
+      },
+      {
+        "label": "Idalink registration",
+        "url": "https://Idalink.idaho.gov/register"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHW self-reliance programs (toll free)",
+        "value": "877-456-1233"
+      },
+      {
+        "kind": "phone",
+        "label": "Application fax (toll free)",
+        "value": "1-866-434-8278"
+      },
+      {
+        "kind": "email",
+        "label": "Benefits email",
+        "value": "MyBenefits@dhw.idaho.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Local DHW field office",
+        "value": "Visit the closest DHW field office; call 877-456-1233 to find one"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits load monthly on a staggered schedule the first 10 days of the month."
+      }
+    ],
+    "description": "Monthly food benefits on an EBT card for eligible low-income households. Apply online, by phone, in person, or by mail/email/fax; an interview is required after DHW receives the application.",
+    "eligibility": [
+      "Idaho resident",
+      "U.S. citizen or legal immigrant",
+      "Household income below program limits (effective Oct 2025: $1,696/mo for a household of 1, $3,483/mo for 4)",
+      "Countable resources under $5,000 for most households",
+      "Work or employment-and-training participation with some exceptions"
+    ],
+    "id": "id-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "SNAP — Food Benefits",
+    "prerequisites": [
+      "Create an Idalink account to manage benefits online",
+      "Complete an eligibility interview after applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-snap"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Household income and resources documentation",
+      "Housing costs and current monthly expenses",
+      "Immigration status documentation if applicable"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "About Idaho Medicaid",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/medicaid-health"
+      },
+      {
+        "label": "Idalink registration",
+        "url": "https://Idalink.idaho.gov/register"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idalink benefits portal",
+        "value": "https://Idalink.idaho.gov/register"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid program page",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/medicaid-health"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; annual renewals/redeterminations required to keep coverage."
+      }
+    ],
+    "description": "Free or low-cost health coverage for eligible Idahoans, including children, pregnant women, parents, adults under Medicaid expansion, and elderly, blind, or disabled adults. Apply online through Idalink, at Your Health Idaho, or at a DHW field office.",
+    "eligibility": [
+      "Idaho resident",
+      "U.S. citizen or qualifying immigrant",
+      "Meets income guidelines for the applicable Medicaid program (children, pregnant women, adults, elderly/blind/disabled)",
+      "Medically necessary services covered"
+    ],
+    "id": "id-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "Idaho Medicaid — Health Coverage",
+    "prerequisites": [
+      "Create an Idalink account for online applications and renewals"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/medicaid-health"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of citizenship/immigration status",
+      "Social Security numbers for household members",
+      "Income documentation (pay stubs, tax records)",
+      "Information on other health insurance"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "About TAFI",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-tafi"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TAFI program page",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-tafi"
+      },
+      {
+        "kind": "web",
+        "label": "Idalink benefits portal",
+        "value": "https://Idalink.idaho.gov/register"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits are time-limited."
+      }
+    ],
+    "description": "Idaho's TANF cash assistance program: temporary monthly cash benefits to help eligible low-income families pay for food, clothing, shelter, and other essentials.",
+    "eligibility": [
+      "Idaho resident with eligible dependent children",
+      "Household income and resources within program limits",
+      "Cooperation with work/employment and training requirements"
+    ],
+    "id": "id-tafi",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance for Families in Idaho (TAFI) — Cash Aid",
+    "prerequisites": [
+      "Create an Idalink account to apply and manage benefits"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-tafi"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income and resources",
+      "Birth certificates for children",
+      "Housing cost documentation"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "Apply for WIC",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-wic"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for WIC / find a clinic",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-wic"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; income guidelines update each July."
+      }
+    ],
+    "description": "Nutrition assistance for pregnant and breastfeeding women, postpartum mothers, and children under 5: monthly food benefits on a WIC EBT card, nutrition education, and breastfeeding support. Services are delivered through Idaho's public health districts at 50+ clinics.",
+    "eligibility": [
+      "Idaho resident",
+      "Pregnant, breastfeeding, or postpartum woman, or parent/guardian of an infant or child under 5",
+      "Income within WIC guidelines (July 2026-June 2027: $2,461/mo for a household of 1, $5,088/mo for 4)",
+      "Nutritional risk as determined at the clinic appointment"
+    ],
+    "id": "id-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "WIC — Women, Infants, and Children Nutrition Program",
+    "prerequisites": [
+      "Find your local WIC clinic and schedule a first appointment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-wic"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "ID for you and your child",
+      "Proof of address (utility bill, driver's license, or rent receipt)",
+      "Proof of household income for the last 30 days",
+      "Child's immunization records"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "Apply for heating assistance (LIHEAP)",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-heating-assistance"
+      },
+      {
+        "label": "About LIHEAP",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/about-heating-assistance"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for heating assistance",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-heating-assistance"
+      },
+      {
+        "kind": "web",
+        "label": "About heating assistance",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/about-heating-assistance"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal priority (October)",
+        "note": "Families with children under 6 or elderly/disabled members can apply starting in October."
+      },
+      {
+        "date": null,
+        "label": "Seasonal general (November)",
+        "note": "All other eligible families can begin applying in November; funding is first-come, first-served."
+      },
+      {
+        "date": null,
+        "label": "Crisis (year-round)",
+        "note": "Crisis heating assistance is available year-round for disconnection risk, past-due balances, or low bulk fuel."
+      }
+    ],
+    "description": "Helps Idaho families pay utility bills and includes crisis assistance to prevent disconnection or restore service. Administered by Community Action Agencies in every Idaho county; funding is limited and first-come, first-served.",
+    "eligibility": [
+      "Live in Idaho",
+      "At least one household member is a U.S. citizen or lawful permanent resident",
+      "Proof of identity and proof of heating expense",
+      "Income within LIHEAP limits (effective Oct 2025: $2,736.25/mo for a household of 1, $5,262.08/mo for 4)"
+    ],
+    "id": "id-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "LIHEAP — Low Income Home Energy Assistance Program",
+    "prerequisites": [
+      "Contact your local Community Action Agency to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-heating-assistance",
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/about-heating-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of heating expense (utility bill)",
+      "Income documentation",
+      "Proof of citizenship or lawful permanent residency for one household member"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "Apply for weatherization",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for weatherization",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a Community Action Agency; wait times vary by agency."
+      }
+    ],
+    "description": "Free home energy-efficiency upgrades for low-income households — insulation, air sealing, and heating system improvements that cut utility bills and increase comfort. Apply through your local Community Action Agency.",
+    "eligibility": [
+      "Live in Idaho",
+      "Income within WAP limits (July 2026-June 2027: $2,660/mo for a household of 1)",
+      "Varies — see program page"
+    ],
+    "id": "id-weatherization",
+    "languages": [
+      "English"
+    ],
+    "name": "Weatherization Assistance Program (WAP)",
+    "prerequisites": [
+      "Contact your local Community Action Agency to determine eligibility"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of income",
+      "Proof of home ownership or landlord authorization for renters",
+      "Recent utility bills"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "applyLinks": [
+      {
+        "label": "Idaho Child Care Program",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/child-care"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child care help line",
+        "value": "800-926-2588"
+      },
+      {
+        "kind": "web",
+        "label": "Child care program page",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/child-care"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Helps working families pay for child care for children under 13 (older if the child has a disability). Benefits are managed through Idalink; call 2-1-1 or 800-926-2588 for help.",
+    "eligibility": [
+      "Idaho resident",
+      "Child under 13 (or over 13 with a disability)",
+      "Family meets program income guidelines",
+      "Parents working, in school, or in training"
+    ],
+    "id": "id-iccp",
+    "languages": [
+      "English"
+    ],
+    "name": "Idaho Child Care Program (ICCP) — Child Care Assistance",
+    "prerequisites": [
+      "Create an Idalink account to apply and manage benefits"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/child-care"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Child's birth certificate",
+      "Work or school schedule documentation"
+    ]
+  },
+  {
+    "agency": "Idaho Department of Labor",
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance — file a claim",
+        "url": "https://www.labor.idaho.gov/dnn/Unemployment-Insurance"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance page",
+        "value": "https://www.labor.idaho.gov/dnn/Unemployment-Insurance"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; weekly certifications required to keep receiving benefits."
+      }
+    ],
+    "description": "Temporary wage replacement for workers who lost jobs through no fault of their own. A federal-state partnership administered by Idaho Department of Labor staff; file claims and weekly certifications online, with appeals and FAQ resources available.",
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able, available, and actively seeking work",
+      "Varies — see program page"
+    ],
+    "id": "id-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (UI)",
+    "prerequisites": [
+      "Create a claimant account on the Idaho Department of Labor portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://www.labor.idaho.gov/dnn/Unemployment-Insurance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Work history for the last 18 months (employer names, addresses, dates)",
+      "Reason for separation from each employer"
+    ]
+  },
+  {
+    "agency": "Idaho Housing and Finance Association (IHFA)",
+    "applyLinks": [
+      {
+        "label": "Rental assistance — apply",
+        "url": "https://www.idahohousing.com/renters/rental-assistance/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rental assistance main office (toll free)",
+        "value": "855.505.4700"
+      },
+      {
+        "kind": "phone",
+        "label": "Rental assistance main office (local)",
+        "value": "208.331.4700"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho Falls branch office",
+        "value": "208.522.6002"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; area waiting lists range from several months to more than two years."
+      }
+    ],
+    "description": "Federal rental vouchers for low-income households: participants pay about 30% of adjusted gross monthly income toward rent and choose their own housing. IHFA administers the program for 34 of Idaho's 44 counties; waiting lists run from several months to more than two years.",
+    "eligibility": [
+      "Meet HUD income limits",
+      "Resident of (or moving to) one of the 34 counties IHFA serves",
+      "Able to pay about 30% of adjusted gross monthly income toward rent",
+      "Not subject to lifetime sex-offender registration"
+    ],
+    "id": "id-hcv",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Housing Choice Voucher (Section 8) — Rental Assistance",
+    "prerequisites": [
+      "Identify the housing authority that serves your county before applying",
+      "Submit one application per household — duplicates are not accepted"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://www.idahohousing.com/renters/rental-assistance/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID for all adult household members",
+      "Income verification for all household members",
+      "Social Security numbers",
+      "Completed preliminary application"
+    ]
+  },
+  {
+    "agency": "Idaho Division of Veterans Services (IDVS)",
+    "applyLinks": [
+      {
+        "label": "Idaho Division of Veterans Services",
+        "url": "https://veterans.idaho.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDVS main line",
+        "value": "(208) 780-1300"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans services",
+        "value": "https://veterans.idaho.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-ins and appointments at offices statewide; county veteran service officers also available."
+      }
+    ],
+    "description": "Free, nationally accredited state service officers help Idaho veterans and families file VA disability compensation claims, pensions, appeals, and rating increases, plus VA health care enrollment. No state residency requirement for assistance.",
+    "eligibility": [
+      "Veteran, service member, or family member seeking VA benefits",
+      "No Idaho residency requirement for advocacy assistance"
+    ],
+    "id": "id-veterans-advocacy",
+    "languages": [
+      "English"
+    ],
+    "name": "Office of Veterans Advocacy — Claims Assistance",
+    "prerequisites": [
+      "None — contact an office to start"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://veterans.idaho.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other discharge paperwork",
+      "VA correspondence or rating decisions if any",
+      "Medical records supporting the claim"
+    ]
+  },
+  {
+    "agency": "Idaho Division of Veterans Services (IDVS)",
+    "applyLinks": [
+      {
+        "label": "Idaho Division of Veterans Services",
+        "url": "https://veterans.idaho.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "IDVS main line",
+        "value": "(208) 780-1300"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans services",
+        "value": "https://veterans.idaho.gov/"
+      }
+    ],
+    "cost": "Fees apply — vary by level of care; see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Admissions subject to bed availability."
+      }
+    ],
+    "description": "State-run veterans homes providing skilled nursing care, rehabilitation, and quality-of-life services for eligible Idaho veterans and their families.",
+    "eligibility": [
+      "Veteran meeting state eligibility for admission",
+      "Varies — see program page"
+    ],
+    "id": "id-veterans-homes",
+    "languages": [
+      "English"
+    ],
+    "name": "Idaho State Veterans Homes — Long-Term Care",
+    "prerequisites": [
+      "Contact IDVS for admission screening"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://veterans.idaho.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or discharge paperwork",
+      "VA eligibility documentation",
+      "Medical records"
+    ]
+  },
+  {
+    "agency": "Idaho Division of Vocational Rehabilitation (IDVR)",
+    "applyLinks": [
+      {
+        "label": "Idaho Division of Vocational Rehabilitation",
+        "url": "https://vr.idaho.gov/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vocational Rehabilitation",
+        "value": "(208) 334-3390"
+      },
+      {
+        "kind": "web",
+        "label": "Vocational Rehabilitation",
+        "value": "https://vr.idaho.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a regional VR office."
+      }
+    ],
+    "description": "A state-federal program helping people with disabilities prepare for, secure, retain, or regain employment through counseling, training, job placement, and assistive technology.",
+    "eligibility": [
+      "Idaho resident with a physical or mental disability",
+      "Disability is a substantial barrier to employment",
+      "Can benefit from VR services to achieve an employment outcome"
+    ],
+    "id": "id-voc-rehab",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation — Disability Employment Services",
+    "prerequisites": [
+      "Contact a regional office to open a case"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://vr.idaho.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Medical or psychological documentation of disability",
+      "Work history"
+    ]
+  },
+  {
+    "agency": "Idaho Transportation Department — Division of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "Idaho Division of Motor Vehicles",
+        "url": "https://itd.idaho.gov/itddmv/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Idaho DMV",
+        "value": "(208) 584-4343"
+      },
+      {
+        "kind": "web",
+        "label": "Idaho DMV",
+        "value": "https://itd.idaho.gov/itddmv/"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Visit a DMV office; some services available online."
+      }
+    ],
+    "description": "Issues Idaho driver's licenses, ID cards, and the Star Card (Idaho's REAL ID-compliant credential), plus vehicle registrations, plates, and titles. DMV office locations statewide.",
+    "eligibility": [
+      "Idaho resident",
+      "Proof of identity, lawful presence, and residency",
+      "Varies by credential — see program page"
+    ],
+    "id": "id-dmv",
+    "languages": [
+      "English"
+    ],
+    "name": "Driver's Licenses & ID Cards (Star Card)",
+    "prerequisites": [
+      "Gather identity and residency documents before visiting"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://itd.idaho.gov/itddmv/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity (birth certificate or passport)",
+      "Proof of Idaho residency",
+      "Social Security number documentation",
+      "Current license/ID if renewing or transferring"
+    ]
+  },
+  {
+    "agency": "Idaho State Tax Commission",
+    "applyLinks": [
+      {
+        "label": "Idaho State Tax Commission — filing",
+        "url": "https://tax.idaho.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Idaho State Tax Commission",
+        "value": "(208) 334-7633"
+      },
+      {
+        "kind": "web",
+        "label": "Idaho State Tax Commission",
+        "value": "https://tax.idaho.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Income tax filing follows the annual tax season; property tax program deadlines vary by county."
+      }
+    ],
+    "description": "File Idaho individual income taxes (free e-filing available), and access property tax programs including homeowner's exemptions and property tax reduction for qualifying seniors, disabled, and veteran homeowners.",
+    "eligibility": [
+      "Idaho taxpayer or property owner",
+      "Program-specific rules apply — see Tax Commission guides"
+    ],
+    "id": "id-tax",
+    "languages": [
+      "English"
+    ],
+    "name": "State Tax Filing & Property Tax Programs",
+    "prerequisites": [
+      "Gather tax documents; e-filing requires prior-year AGI or an ID.me account for some services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://tax.idaho.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Prior-year tax return",
+      "Photo ID"
+    ]
+  },
+  {
+    "agency": "Idaho Secretary of State",
+    "applyLinks": [
+      {
+        "label": "SOSBiz — register a business",
+        "url": "https://sosbiz.idaho.gov/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SOSBiz portal",
+        "value": "https://sosbiz.idaho.gov/"
+      }
+    ],
+    "cost": "Fees apply — vary by filing type",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File online any time; annual reports have entity-specific due dates."
+      }
+    ],
+    "description": "Register a business entity in Idaho — LLCs, corporations, assumed business names, and annual reports — through the Secretary of State's online SOSBiz portal.",
+    "eligibility": [
+      "Any individual or entity forming or operating a business in Idaho"
+    ],
+    "id": "id-business-registration",
+    "languages": [
+      "English"
+    ],
+    "name": "Business Entity Registration (SOSBiz)",
+    "prerequisites": [
+      "Choose a business structure and name"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "sources": [
+      "https://sosbiz.idaho.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name and registered agent information",
+      "Principal office address",
+      "Payment method for filing fees"
+    ]
+  },
+  {
+    "id": "id-child-support",
+    "name": "Child Support Services — Establish, Modify, Enforce",
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "category": "Family & Childcare",
+    "description": "Idaho Child Support Services helps families locate the other parent, establish or modify child support orders for financial and medical support, establish paternity, and request genetic testing. Apply online, by phone, or by mail.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Any parent or guardian who needs help with child support",
+      "No income or residency eligibility requirements to apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; enforcement services carry a $25 application fee, receipting-only services are free."
+      }
+    ],
+    "prerequisites": [
+      "Download and complete the application, or request one by mail"
+    ],
+    "whatToBring": [
+      "Certified copy of the most recent child support order, if one exists",
+      "The other parent's contact and employment information",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child Support customer service (toll free)",
+        "value": "800-356-9868"
+      },
+      {
+        "kind": "web",
+        "label": "Child Support Services page",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/children-families/apply-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for child support services",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/children-families/apply-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/children-families/apply-services"
+    ]
+  },
+  {
+    "id": "id-property-tax-reduction",
+    "name": "Property Tax Reduction (Circuit Breaker) — Homeowner Relief",
+    "agency": "Idaho State Tax Commission",
+    "category": "Money & Taxes",
+    "description": "Idaho's Property Tax Reduction program, also called Circuit Breaker, reduces property taxes on a qualifying homeowner's primary residence and up to one acre of land by as much as $1,500. The State Tax Commission administers the program; applications are filed with your county assessor, which will help you complete the application.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident who owns and occupies the home as a primary residence",
+      "Home value within the annual limit set by law",
+      "65 or older, blind, widow(er), former POW or hostage, motherless/fatherless child under 18, veteran with at least 10% service-connected disability or receiving VA pension, or disabled as recognized by the SSA, Railroad Retirement Board, or Federal Civil Service",
+      "Prior-year income within the annual limit after deducting unreimbursed medical expenses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual (January 1 – April 15)",
+        "note": "Apply each year between January 1 and April 15; approved reductions appear on the December tax bill."
+      }
+    ],
+    "prerequisites": [
+      "Contact your county assessor's office for the application"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of payment of medical and funeral expenses",
+      "Proof of home ownership",
+      "Documentation of qualifying status (age, blindness, VA disability, etc.)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Idaho State Tax Commission",
+        "value": "(208) 334-7633"
+      },
+      {
+        "kind": "web",
+        "label": "Property tax programs",
+        "value": "https://tax.idaho.gov/property"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Property tax programs — State Tax Commission",
+        "url": "https://tax.idaho.gov/property"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tax.idaho.gov/property",
+      "https://tax.idaho.gov/wp-content/uploads/pubs/EBR00135/EBR00135_12-09-2024.pdf"
+    ]
+  },
+  {
+    "id": "id-legal-aid",
+    "name": "Idaho Legal Aid Services — Free Civil Legal Help",
+    "agency": "Idaho Legal Aid Services, Inc.",
+    "category": "Legal Aid",
+    "description": "Statewide nonprofit civil law firm providing free legal help to low-income Idahoans: family law, civil protection orders, housing, domestic and sexual violence, and senior and public-benefits advice lines. Seven offices across Idaho (Boise, Coeur d'Alene, Idaho Falls, Lewiston, Nampa, Pocatello, Twin Falls).",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Low-income Idaho resident with a civil legal problem",
+      "Cannot assist with criminal matters — contact your local Public Defender's office instead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time; phone intakes are Monday–Wednesday only; in-person intakes during office hours."
+      }
+    ],
+    "prerequisites": [
+      "Complete the secure online application (about 15 minutes), or call, or visit a local office"
+    ],
+    "whatToBring": [
+      "Documents related to your legal problem",
+      "Proof of income",
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Intake line (Mon–Wed 10am–1:30pm MT)",
+        "value": "208-746-7541"
+      },
+      {
+        "kind": "in-person",
+        "label": "Boise office",
+        "value": "1447 S Tyrell Ln, Boise, ID 83706"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for help",
+        "url": "https://idaholegalaid.org/apply-for-help"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://idaholegalaid.org/apply-for-help"
+    ]
+  },
+  {
+    "id": "id-commission-aging",
+    "name": "Idaho Commission on Aging — Senior Services",
+    "agency": "Idaho Commission on Aging",
+    "category": "Seniors",
+    "description": "State office that plans, coordinates, and funds services helping older Idahoans live independently: Area Agencies on Aging provide congregate and home-delivered meals, transportation, caregiver support, and community services, plus a long-term care ombudsman program.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho residents age 60 and older for most Area Agency on Aging services",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the Commission or your local Area Agency on Aging any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or visit the website to find local services"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Commission on Aging main office",
+        "value": "(208) 334-3833"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll free",
+        "value": "(877) 471-2777"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Idaho Commission on Aging",
+        "url": "https://aging.idaho.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://aging.idaho.gov/"
+    ]
+  },
+  {
+    "id": "id-opportunity-scholarship",
+    "name": "Idaho Opportunity Scholarship — Recent Graduates",
+    "agency": "Idaho State Board of Education (NextSteps Idaho)",
+    "category": "Education",
+    "description": "Idaho's largest state scholarship for recent Idaho high school graduates attending eligible Idaho colleges and universities. The 2026–27 application opens October 1, 2026; both the scholarship application and the FAFSA must be completed by March 1, 2027.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident",
+      "Idaho high school, home school, or GED/HSE graduate",
+      "Cumulative GPA of 2.7 or higher",
+      "Completed FAFSA"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Application opens",
+        "note": "The 2026–27 application cycle opens October 1, 2026."
+      },
+      {
+        "date": "2027-03-01",
+        "label": "Application and FAFSA deadline",
+        "note": "Both the scholarship application and FAFSA are due March 1, 2027."
+      }
+    ],
+    "prerequisites": [
+      "Create an account on the scholarship portal",
+      "Complete the FAFSA"
+    ],
+    "whatToBring": [
+      "High school transcript or GED/HSE records",
+      "FAFSA confirmation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Scholarship portal",
+        "value": "https://scholarships.idaho.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "About the Opportunity Scholarship",
+        "value": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at scholarships.idaho.gov",
+        "url": "https://scholarships.idaho.gov/"
+      },
+      {
+        "label": "About the Opportunity Scholarship",
+        "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship",
+      "https://scholarships.idaho.gov/"
+    ]
+  },
+  {
+    "id": "id-opportunity-scholarship-adult",
+    "name": "Idaho Opportunity Scholarship — Adult Learners",
+    "agency": "Idaho State Board of Education (NextSteps Idaho)",
+    "category": "Education",
+    "description": "The Idaho Opportunity Scholarship for adult learners returning to school or starting college later in life, attending eligible Idaho postsecondary institutions. File the FAFSA by the semester deadline for the term you plan to attend.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident adult learner",
+      "Enrolled or planning to enroll at an eligible Idaho college or university",
+      "Completed FAFSA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "FAFSA deadline — spring term",
+        "note": "FAFSA due December 1 for the spring term."
+      },
+      {
+        "date": null,
+        "label": "FAFSA deadline — summer term",
+        "note": "FAFSA due April 15 for the summer term."
+      },
+      {
+        "date": null,
+        "label": "FAFSA deadline — fall term",
+        "note": "FAFSA due July 1 for the fall term."
+      }
+    ],
+    "prerequisites": [
+      "Create an account on the scholarship portal",
+      "Complete the FAFSA by the term deadline"
+    ],
+    "whatToBring": [
+      "Proof of Idaho residency",
+      "FAFSA confirmation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Scholarship portal",
+        "value": "https://scholarships.idaho.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "Adult Learners — NextSteps Idaho",
+        "value": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship-for-adult-learners"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Adult Learners — about the scholarship",
+        "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship-for-adult-learners"
+      },
+      {
+        "label": "Apply at scholarships.idaho.gov",
+        "url": "https://scholarships.idaho.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship-for-adult-learners",
+      "https://scholarships.idaho.gov/"
+    ]
+  },
+  {
+    "id": "id-refugee-services",
+    "name": "Idaho Office for Refugees — Resettlement Coordination",
+    "agency": "Idaho Office for Refugees",
+    "category": "Immigration",
+    "description": "Administers Idaho's refugee resettlement program and coordinates services for newcomers statewide — connecting refugees, asylees, and other humanitarian arrivals with resettlement agencies in Boise and Twin Falls, employment support, English classes, and citizenship services.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Refugees, asylees, and other humanitarian arrivals resettling in Idaho",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the office any time for services or referrals."
+      }
+    ],
+    "prerequisites": [
+      "None — call or visit the website"
+    ],
+    "whatToBring": [
+      "Immigration and identity documents",
+      "Standard documents — varies by service; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Idaho Office for Refugees",
+        "value": "208-342-2254"
+      },
+      {
+        "kind": "email",
+        "label": "Information email",
+        "value": "iorinfo@idahorefugees.org"
+      },
+      {
+        "kind": "in-person",
+        "label": "Boise office",
+        "value": "1607 W. Jefferson St., Boise, ID"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Idaho Office for Refugees",
+        "url": "https://www.idahorefugees.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.idahorefugees.org/"
+    ]
+  },
+  {
+    "id": "id-boise-library",
+    "name": "Boise Public Library — Free Library Card",
+    "agency": "Boise Public Library",
+    "category": "Education",
+    "description": "Free library card for Boise residents and property owners within city limits. Borrow from all Boise Public Library locations and Lynx Consortium libraries, including Ada Community Library. Boise Public Library is fine-free.",
+    "scope": {
+      "level": "city",
+      "city": "Boise",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Live in Boise or own property within Boise city limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online or in person any time."
+      }
+    ],
+    "prerequisites": [
+      "Bring photo ID and proof of address"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address if different from ID (mail, lease, bill, or car registration)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library cards",
+        "value": "https://www.boisepubliclibrary.org/using-the-library/library-cards/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://www.boisepubliclibrary.org/using-the-library/library-cards/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Arabic"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.boisepubliclibrary.org/using-the-library/library-cards/"
+    ]
+  },
+  {
+    "id": "id-meridian-library",
+    "name": "Meridian Library District — Free Library Card",
+    "agency": "Meridian Library District",
+    "category": "Education",
+    "description": "Free library card for Meridian Library District residents. Bring photo ID and proof of residence to any location; online registration through the catalog is temporary and must be completed in person within 30 days.",
+    "scope": {
+      "level": "city",
+      "city": "Meridian",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Live within Meridian Library District boundaries (free card)",
+      "Nonresidents: $140/year per household; $55/year for ages 55+, active military, and veterans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Register at any library location any time."
+      }
+    ],
+    "prerequisites": [
+      "Bring photo ID and proof of residence"
+    ],
+    "whatToBring": [
+      "Photo ID (driver's license, school ID, etc.)",
+      "Proof of residence (utility bill, lease agreement, etc.)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a card",
+        "value": "https://www.mld.org/cards"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a card — Meridian Library District",
+        "url": "https://www.mld.org/cards"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mld.org/cards"
+    ]
+  },
+  {
+    "id": "id-boise-title-vi",
+    "name": "Boise Title VI Discrimination Complaint",
+    "agency": "City of Boise — Human Resources",
+    "category": "Legal Aid",
+    "description": "File a Title VI discrimination complaint if you believe a City of Boise program, service, or activity excluded you or treated you differently because of race, color, or national origin. Complaints must be written and signed; the Title VI Coordinator can help you put one in writing.",
+    "scope": {
+      "level": "city",
+      "city": "Boise",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Person who experienced a discriminatory action in a City of Boise program, service, or activity"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as possible after the alleged act; include the date of the incident and witnesses."
+      }
+    ],
+    "prerequisites": [
+      "None — the complaint form is on the program page"
+    ],
+    "whatToBring": [
+      "Your name, address, and phone number",
+      "Date of the alleged act of discrimination",
+      "Description of what happened and witness contact information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Title VI Coordinator",
+        "value": "208-972-8500"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "800-377-3529"
+      },
+      {
+        "kind": "email",
+        "label": "Title VI Coordinator email",
+        "value": "TitleVICoordinator@cityofboise.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Title VI complaint form",
+        "url": "https://www.cityofboise.org/departments/human-resources/title-vi/title-vi-complaint-form/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cityofboise.org/departments/human-resources/title-vi/title-vi-complaint-form/"
+    ]
+  },
+  {
+    "id": "id-boise-substandard-housing",
+    "name": "Boise Renters — Substandard Housing Inspection",
+    "agency": "City of Boise — Planning & Development Services",
+    "category": "Housing",
+    "description": "Boise renters can request a city inspection when their rental has substandard conditions the landlord has not fixed. An inspector documents the conditions and can require the landlord to make repairs.",
+    "scope": {
+      "level": "city",
+      "city": "Boise",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Renter in Boise city limits with unresolved substandard housing conditions"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request an inspection any time after asking the landlord for repairs."
+      }
+    ],
+    "prerequisites": [
+      "Request repairs or maintenance from your landlord first",
+      "Have your lease and proof of recent rent payment"
+    ],
+    "whatToBring": [
+      "Lease agreement",
+      "Proof of recent rent payment",
+      "Documentation of repair requests made to the landlord"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Planning & Development Services",
+        "value": "208-608-7070"
+      },
+      {
+        "kind": "email",
+        "label": "Permits email",
+        "value": "permits@cityofboise.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renters' substandard housing inspection",
+        "url": "https://www.cityofboise.org/media/21357/renterssubstandardhousinginspection-internactiveversion-2026-3.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cityofboise.org/media/21357/renterssubstandardhousinginspection-internactiveversion-2026-3.pdf"
+    ]
+  },
+  {
+    "id": "id-vrt-reduced-fares",
+    "name": "Valley Regional Transit — Reduced Fares",
+    "agency": "Valley Regional Transit (VRT)",
+    "category": "Transportation",
+    "description": "Reduced fares on Valley Regional Transit buses serving the Treasure Valley, including Boise, Meridian, Nampa, and Caldwell. Available to youth 6–18, adults 65+, people with disabilities, and Medicare cardholders with valid proof.",
+    "scope": {
+      "level": "city",
+      "city": "Boise",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Youth ages 6–18",
+      "Adults 65 and older",
+      "People with disabilities",
+      "Medicare cardholders",
+      "Valid proof of eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reduced-fare passes available any time."
+      }
+    ],
+    "prerequisites": [
+      "Obtain proof of eligibility (youth ID, Medicare card, disability documentation)"
+    ],
+    "whatToBring": [
+      "Proof of age, disability, or Medicare enrollment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Valley Regional Transit",
+        "value": "(208) 345-7433"
+      },
+      {
+        "kind": "web",
+        "label": "Fares & passes",
+        "value": "https://www.valleyregionaltransit.org/fares-passes/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fares & passes",
+        "url": "https://www.valleyregionaltransit.org/fares-passes/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Reduced fares — amount varies by pass type",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.valleyregionaltransit.org/fares-passes/"
+    ]
+  },
+  {
+    "id": "id-nampa-housing",
+    "name": "Nampa Housing Authority — Public Housing & Vouchers",
+    "agency": "Nampa Housing Authority",
+    "category": "Housing",
+    "description": "Nampa Housing Authority provides affordable rental housing and administers Housing Choice Voucher (Section 8) rental assistance for low-income households in Nampa.",
+    "scope": {
+      "level": "city",
+      "city": "Nampa",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Low-income household in Nampa",
+      "Income limits apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; waiting lists may apply."
+      }
+    ],
+    "prerequisites": [
+      "Complete the housing authority application"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nampa Housing Authority (unverified)",
+        "value": "(208) 466-2601"
+      },
+      {
+        "kind": "web",
+        "label": "Nampa Housing Authority",
+        "value": "http://nampahousing.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nampa Housing Authority",
+        "url": "http://nampahousing.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://nampahousing.com/"
+    ]
+  },
+  {
+    "id": "id-ada-veterans-preference",
+    "name": "Ada County — Veterans' Employment Preference",
+    "agency": "Ada County — Human Resources",
+    "category": "Employment",
+    "description": "Ada County gives veterans' hiring preference for initial county hires. Complete the Veterans' Preference claim form and submit it by the position's closing date; a DD-214 showing an honorable discharge is required if you receive a conditional job offer.",
+    "scope": {
+      "level": "county",
+      "county": "Ada",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Veteran eligible for veterans' preference under Ada County policy"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claim forms must be received by the closing date of the position you are applying for."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Veterans' Preference claim form"
+    ],
+    "whatToBring": [
+      "DD-214 (showing an honorable discharge) at conditional job offer"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ada County Human Resources",
+        "value": "208-287-7123"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans' preference",
+        "value": "https://adacounty.id.gov/human-resources/veterans-preference/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans' preference — Ada County",
+        "url": "https://adacounty.id.gov/human-resources/veterans-preference/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://adacounty.id.gov/human-resources/veterans-preference/"
+    ]
+  },
+  {
+    "id": "id-ada-veterans-treatment-court",
+    "name": "Ada County Veterans Treatment Court",
+    "agency": "Ada County — Fourth Judicial District",
+    "category": "Legal Aid",
+    "description": "Ada County's Veterans Treatment Court offers an alternative to incarceration for veterans charged with substance-abuse-related crimes, connecting them with treatment, counseling, case management, and housing. Veterans are screened for drug/alcohol dependency and mental health issues; the judge makes the final determination on entry.",
+    "scope": {
+      "level": "county",
+      "county": "Ada",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Served in the U.S. Armed Forces",
+      "Charged with a substance-abuse-related crime in Ada County",
+      "Ada County resident",
+      "Not available for violent felony records, serious drug-dealing convictions, or significant prior criminal records"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Referral and screening happen through the court during the case."
+      }
+    ],
+    "prerequisites": [
+      "Be referred for screening through the court"
+    ],
+    "whatToBring": [
+      "Military service documentation",
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veterans Treatment Court",
+        "value": "208-287-7670"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans Treatment Court",
+        "value": "https://adacounty.id.gov/judicial-court/district-court/veterans-treatment-court/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans Treatment Court",
+        "url": "https://adacounty.id.gov/judicial-court/district-court/veterans-treatment-court/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://adacounty.id.gov/judicial-court/district-court/veterans-treatment-court/"
+    ]
+  },
+  {
+    "id": "id-cdh",
+    "name": "Central District Health — Public Health Services",
+    "agency": "Central District Health",
+    "category": "Healthcare",
+    "description": "Central District Health is the public health district for Ada, Boise, Elmore, and Valley counties, with offices including a Boise location. Services include immunizations, WIC, family planning, environmental health, and communicable disease control.",
+    "scope": {
+      "level": "county",
+      "county": "Ada",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Resident of Ada, Boise, Elmore, or Valley County",
+      "Program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time; some clinics take appointments."
+      }
+    ],
+    "prerequisites": [
+      "None — call or visit the website to find services"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if insured",
+      "Immunization records for immunization visits"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central District Health",
+        "value": "208-375-5211"
+      },
+      {
+        "kind": "in-person",
+        "label": "Boise office",
+        "value": "707 N Armstrong Pl., Boise, ID"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Central District Health",
+        "url": "https://cdh.idaho.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdh.idaho.gov/"
+    ]
+  },
+  {
+    "id": "id-swdh-primary-care",
+    "name": "Southwest District Health — Primary Care",
+    "agency": "Southwest District Health",
+    "category": "Healthcare",
+    "description": "Southwest District Health offers primary care for ages 5 and older at its clinics serving Canyon County and the Nampa/Caldwell area. Call to schedule an appointment.",
+    "scope": {
+      "level": "county",
+      "county": "Canyon",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Ages 5 and older",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule an appointment."
+      }
+    ],
+    "prerequisites": [
+      "Call 208-455-5300 to schedule"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if insured",
+      "Standard documents — varies by clinic; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Primary care appointments",
+        "value": "208-455-5300"
+      },
+      {
+        "kind": "web",
+        "label": "Primary care",
+        "value": "https://swdh.id.gov/clinic-services/primary-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Primary care — Southwest District Health",
+        "url": "https://swdh.id.gov/clinic-services/primary-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://swdh.id.gov/clinic-services/primary-care/"
+    ]
+  },
+  {
+    "id": "id-eiph",
+    "name": "Eastern Idaho Public Health — Bonneville County",
+    "agency": "Eastern Idaho Public Health",
+    "category": "Healthcare",
+    "description": "Eastern Idaho Public Health serves Bonneville County from its Idaho Falls office with public health clinics, health education, referrals, environmental health, and epidemiological investigation.",
+    "scope": {
+      "level": "county",
+      "county": "Bonneville",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Bonneville County resident",
+      "Program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or visit the website"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Standard documents — varies by clinic; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Eastern Idaho Public Health",
+        "value": "(208) 522-0310"
+      },
+      {
+        "kind": "web",
+        "label": "Eastern Idaho Public Health",
+        "value": "https://eiph.id.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Eastern Idaho Public Health — Bonneville County",
+        "url": "https://www.bonnevillecountyidaho.gov/page/eastern-idaho-public-health"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.bonnevillecountyidaho.gov/page/eastern-idaho-public-health",
+      "https://eiph.id.gov/"
+    ]
+  },
+  {
+    "id": "id-gift",
+    "name": "Greater Idaho Falls Transit (GIFT) — On-Demand Rides",
+    "agency": "Greater Idaho Falls Transit",
+    "category": "Transportation",
+    "description": "Greater Idaho Falls Transit provides on-demand shared-ride bus service within Idaho Falls city limits. Book a curb-to-curb ride by phone or through the app.",
+    "scope": {
+      "level": "city",
+      "city": "Idaho Falls",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Anyone within Idaho Falls city limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Rides available during published service hours."
+      }
+    ],
+    "prerequisites": [
+      "Book a ride by phone or app"
+    ],
+    "whatToBring": [
+      "Payment for the fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Greater Idaho Falls Transit",
+        "value": "208-999-4438"
+      },
+      {
+        "kind": "web",
+        "label": "Greater Idaho Falls Transit",
+        "value": "https://www.greateriftransit.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Greater Idaho Falls Transit",
+        "url": "https://www.greateriftransit.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.greateriftransit.com/"
+    ]
+  },
+  {
+    "id": "id-caldwell-cci",
+    "name": "Community Council of Idaho — Farmworker & Family Services",
+    "agency": "Community Council of Idaho",
+    "category": "Immigration",
+    "description": "Nonprofit serving farmworkers and low-income families from its Caldwell headquarters and sites statewide: Migrant & Seasonal Head Start, employment and training, Community Family Clinic on a sliding fee scale, affordable housing, and DOJ-recognized immigration legal services (Familias Unidas) covering family petitions, citizenship, DACA, and TPS.",
+    "scope": {
+      "level": "city",
+      "city": "Caldwell",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Farmworkers and low-income individuals and families",
+      "Program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the organization any time; offices open Monday–Friday."
+      }
+    ],
+    "prerequisites": [
+      "Contact the relevant program to check eligibility"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Immigration documents for legal services",
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main office",
+        "value": "(208) 454-1652"
+      },
+      {
+        "kind": "phone",
+        "label": "Familias Unidas legal services",
+        "value": "(208) 453-3108"
+      },
+      {
+        "kind": "in-person",
+        "label": "Administrative office",
+        "value": "317 Happy Day Blvd, Ste 250, Caldwell, ID 83607"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Programs & services",
+        "url": "https://communitycouncilofidaho.org/services/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees apply — vary by service; sliding fee scale available",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://communitycouncilofidaho.org/services/"
+    ]
+  },
+  {
+    "id": "fed-va-boise",
+    "name": "Boise VA Medical Center (Federal)",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Healthcare",
+    "description": "VA medical center serving veterans in the Boise area with primary and specialty care, mental health services, and more. Enroll in VA health care online, by phone, or in person.",
+    "scope": {
+      "level": "federal",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Veteran or service member eligible for VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time."
+      }
+    ],
+    "prerequisites": [
+      "Enroll in VA health care"
+    ],
+    "whatToBring": [
+      "DD-214 or service records",
+      "Photo ID",
+      "Insurance information if any"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Boise VA health care",
+        "value": "https://www.va.gov/boise-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Boise VA Medical Center",
+        "url": "https://www.va.gov/boise-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for enrolled veterans — some copays may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/boise-health-care/"
+    ]
   }
 ]
