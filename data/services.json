@@ -54670,5 +54670,1540 @@
     "sources": [
       "https://www.hud.gov/states/oklahoma"
     ]
+  },
+  {
+    "agency": "Nevada Division of Welfare and Supportive Services (DWSS)",
+    "applyLinks": [
+      {
+        "label": "SNAP program page (DWSS) — how to apply",
+        "url": "https://dwss.nv.gov/SNAP/Food"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWSS assistance (voice) (unverified)",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "phone",
+        "label": "DWSS assistance (TTY) (unverified)",
+        "value": "1-800-326-6888"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP program page (DWSS)",
+        "value": "https://dwss.nv.gov/SNAP/Food"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; EBT card issued no later than 30 business days from the date the office received the application (7 business days if expedited)."
+      },
+      {
+        "date": "2026-05-01",
+        "label": "Federal SNAP changes",
+        "note": "Nevada Legal Services reports that under recent federal law changes, SNAP recipients aged 18-64 not meeting specific criteria may lose benefits as of May 1, 2026. Free legal help is available if you were denied or terminated — see Nevada Legal Services."
+      }
+    ],
+    "description": "The Supplemental Nutrition Assistance Program helps low-income Nevada households buy groceries. Approved households receive an EBT card; benefits are processed within 30 days of application, or within 7 business days if the household qualifies for expedited service.",
+    "eligibility": [
+      "Nevada resident",
+      "Low-income household; eligibility based on household size, income, expenses and citizenship status",
+      "Expedited service within 7 business days for households with little or no money"
+    ],
+    "id": "nv-snap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "SNAP — Food Benefits (Nevada)",
+    "prerequisites": [
+      "Apply online or at a DWSS district office; see the program page for the current application route"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://dwss.nv.gov/SNAP/Food",
+      "https://dss.nv.gov/siteassets/dwss.nv.gov/content/medical/2960-EG_Application_for_Health_Insurance_10-24_ADA.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Read 'Information Needed to Process Your Application' before applying",
+      "Proof of identity, income, expenses and household information, as requested at the interview"
+    ]
+  },
+  {
+    "agency": "Nevada Division of Welfare and Supportive Services (DWSS) / Nevada Health Authority",
+    "applyLinks": [
+      {
+        "label": "Nevada Medicaid — how to apply",
+        "url": "https://www.medicaid.nv.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid / DWSS assistance (voice) (unverified)",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid / DWSS assistance (TTY) (unverified)",
+        "value": "1-800-326-6888"
+      },
+      {
+        "kind": "phone",
+        "label": "Nevada Health Link (if not Medicaid-eligible)",
+        "value": "855-768-5465"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada Medicaid (splash page)",
+        "value": "https://www.medicaid.nv.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; online application takes about 45 minutes for a typical household."
+      }
+    ],
+    "description": "Nevada Medicaid provides free or low-cost health coverage to eligible low-income Nevadans, including families with children, pregnant people, older adults, and people with disabilities. Apply online through Access Nevada; Nevada Check-Up covers children in families with income too high for Medicaid.",
+    "eligibility": [
+      "Nevada resident",
+      "U.S. citizen or eligible immigration status",
+      "Income at or below program limits (varies by eligibility group and household size)",
+      "You can apply and receive Medicaid even if you already have insurance"
+    ],
+    "id": "nv-medicaid",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Nevada Medicaid — Health Coverage",
+    "prerequisites": [
+      "Apply online or at a DWSS district office; see the program page for the current application route"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://www.medicaid.nv.gov/",
+      "https://dss.nv.gov/siteassets/dwss.nv.gov/content/medical/2960-EG_Application_for_Health_Insurance_10-24_ADA.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of citizenship (birth certificate or permanent residency ID), proof of Nevada residence, Social Security card, proof of income, current health insurance card if any"
+    ]
+  },
+  {
+    "agency": "Nevada Division of Welfare and Supportive Services (DWSS)",
+    "applyLinks": [
+      {
+        "label": "TANF financial help (DWSS) — how to apply",
+        "url": "https://dwss.nv.gov/TANF/Financial_Help/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWSS assistance (voice) (unverified)",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "phone",
+        "label": "DWSS assistance (TTY) (unverified)",
+        "value": "1-800-326-6888"
+      },
+      {
+        "kind": "web",
+        "label": "TANF program page (DWSS)",
+        "value": "https://dwss.nv.gov/TANF/Financial_Help/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time via the Application for Assistance (online, mail, fax or in person at a DWSS district office)."
+      }
+    ],
+    "description": "TANF provides temporary cash assistance and support services (child care, transportation) to low-income Nevada families with dependent children. Nevada administers five TANF benefit categories; federal rules include a 60-month lifetime time limit.",
+    "eligibility": [
+      "Low-income Nevada family with dependent children (or relative caregivers caring for them)",
+      "Must meet work participation, child support cooperation, immunization and school attendance requirements",
+      "60-month federal lifetime limit on cash assistance"
+    ],
+    "id": "nv-tanf",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "TANF — Temporary Assistance for Needy Families (Nevada)",
+    "prerequisites": [
+      "Apply online or at a DWSS district office; see the program page for the current application route"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://dwss.nv.gov/TANF/Financial_Help/",
+      "https://dss.nv.gov/siteassets/dwss.nv.gov/content/medical/2960-EG_Application_for_Health_Insurance_10-24_ADA.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, income, expenses, household information and child immunization records, as requested"
+    ]
+  },
+  {
+    "agency": "Nevada Division of Welfare and Supportive Services (DWSS)",
+    "applyLinks": [
+      {
+        "label": "EAP — apply page and printable applications",
+        "url": "https://dwss.nv.gov/Energy/2_Apply_for_Assistance"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "EAP applications by email",
+        "value": "energyassistance@dss.nv.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Energy Assistance Program — apply page (DWSS)",
+        "value": "https://dwss.nv.gov/Energy/2_Apply_for_Assistance"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted during the program year; prior-year recipients may not reapply until approximately 11 months after they received their last benefit."
+      }
+    ],
+    "description": "Nevada's Energy Assistance Program (funded by the federal LIHEAP block grant and the state Universal Energy Charge) helps eligible low-income households with annual heating and cooling costs.",
+    "eligibility": [
+      "Nevada resident",
+      "At least partly responsible for home heating or cooling costs (paying a utility company, fuel supplier or landlord directly)",
+      "Total gross monthly income of all household members may not exceed the program income chart (see the current EAP application for the chart)"
+    ],
+    "id": "nv-liheap",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Energy Assistance Program (EAP / LIHEAP) — Nevada",
+    "prerequisites": [
+      "Download the EAP application (English or Spanish, standard or vision-impaired versions)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://dwss.nv.gov/Energy/2_Apply_for_Assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of ALL income for EVERY person in the household for at least the last 30 days",
+      "Proof of identity for the head of household",
+      "Proof of citizenship or legal status if born outside the U.S.",
+      "Copies of most recent heating/cooling bills",
+      "If household expenses exceed income: proof of how the household is meeting its needs"
+    ]
+  },
+  {
+    "agency": "Nevada Department of Employment, Training and Rehabilitation (DETR), Employment Security Division",
+    "applyLinks": [
+      {
+        "label": "About UI benefits and how to file (DETR)",
+        "url": "https://detr.nv.gov/Page/Unemployment_Insurance_Benefits"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern UI Call Center (unverified)",
+        "value": "(775) 684-0350"
+      },
+      {
+        "kind": "phone",
+        "label": "Southern UI Call Center (unverified)",
+        "value": "(702) 486-0350"
+      },
+      {
+        "kind": "phone",
+        "label": "Rural Nevada & out-of-state (toll-free) (unverified)",
+        "value": "(888) 890-8211"
+      },
+      {
+        "kind": "phone",
+        "label": "General question hotline (unverified)",
+        "value": "(800) 603-9671"
+      },
+      {
+        "kind": "web",
+        "label": "About UI benefits (DETR)",
+        "value": "https://detr.nv.gov/Page/Unemployment_Insurance_Benefits"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you lose your job; claims become effective the Sunday prior to the filing date. Weekly certifications required to keep receiving payments."
+      }
+    ],
+    "description": "Unemployment insurance is a temporary benefit that partially replaces lost wages for eligible workers who lost their jobs through no fault of their own. File a claim online via Claimant Self Service (CSS); claimants certify eligibility weekly and must actively seek work.",
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Able and available to seek and accept immediate full-time employment the majority of the week",
+      "Must actively seek work and report earnings weekly",
+      "Separation pay, pensions and part-time wages can affect benefits — report them when filing"
+    ],
+    "id": "nv-unemployment",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Unemployment Insurance — Nevada",
+    "prerequisites": [
+      "Verify identity with ID.me before entering the Claimant Self Service portal",
+      "Create Claimant Self Service credentials at ui.nv.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://detr.nv.gov/Page/Unemployment_Insurance_Benefits",
+      "https://veterans.nv.gov/latest-information-on-filing-for-unemployment/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number, employment history (employers for the last 18 months), separation pay / pension information, work search records"
+    ]
+  },
+  {
+    "agency": "Nevada Department of Health and Human Services, Division of Public and Behavioral Health",
+    "applyLinks": [
+      {
+        "label": "Nevada WIC — check eligibility and find a clinic",
+        "url": "https://www.nevadawic.org/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nevada WIC — find a clinic",
+        "value": "https://www.nevadawic.org/"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada WIC home",
+        "value": "https://www.nevadawic.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your local WIC clinic to schedule an appointment; eligibility is determined at the clinic visit."
+      }
+    ],
+    "description": "Nevada WIC provides nutrition education, breastfeeding support, supplemental nutritious foods and health referrals to pregnant, breastfeeding and postpartum people and children under age 5.",
+    "eligibility": [
+      "Nevada resident",
+      "Pregnant, breastfeeding (baby under 1), or postpartum within the past 6 months; or infant/child under age 5",
+      "Income within the Nevada WIC income guidelines",
+      "Nutritional or health risk as determined at the clinic visit"
+    ],
+    "id": "nv-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "WIC — Women, Infants and Children (Nevada)",
+    "prerequisites": [
+      "Find your nearest WIC clinic on nevadawic.org"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://www.nevadawic.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity for yourself and each person applying",
+      "Proof of Nevada residency",
+      "Proof of income (recent pay stubs); Medicaid/SNAP/TANF enrollment documentation can replace income proof"
+    ]
+  },
+  {
+    "agency": "Nevada State Treasurer's Office (NVigate)",
+    "applyLinks": [
+      {
+        "label": "GGMS eligible institutions and program info (NVigate)",
+        "url": "https://nvigate.gov/programs/governor-guinn-millennium-scholarship/eligible-ggms-institutions/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NVigate Higher Education (unverified)",
+        "value": "888.477.2667"
+      },
+      {
+        "kind": "phone",
+        "label": "NVigate Higher Education (Las Vegas) (unverified)",
+        "value": "702.486.6980"
+      },
+      {
+        "kind": "web",
+        "label": "GGMS eligible institutions (NVigate)",
+        "value": "https://nvigate.gov/programs/governor-guinn-millennium-scholarship/eligible-ggms-institutions/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No application needed; the State Treasurer notifies qualifying students by mail."
+      }
+    ],
+    "description": "A merit scholarship that pays up to $10,000 in tuition for qualifying Nevada high school graduates attending eligible in-state institutions (universities, state college, community colleges). There is no application — the Treasurer's office notifies qualifying students by mail.",
+    "eligibility": [
+      "Graduate with a diploma from a Nevada high school",
+      "At least 3.25 GPA (weighted or unweighted) or 1070 SAT or 21 ACT",
+      "Complete the core curriculum (4 English, 4 math incl. Algebra II or higher, 3 science, 3 social science/history)",
+      "Nevada resident for at least 2 years of high school",
+      "Funds must be used within the program's expiration window after high school graduation"
+    ],
+    "id": "nv-ggms",
+    "languages": [
+      "English"
+    ],
+    "name": "Governor Guinn Millennium Scholarship (GGMS)",
+    "prerequisites": [
+      "Enroll in a program of study leading to a recognized degree at an eligible Nevada institution"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "sources": [
+      "https://nvigate.gov/programs/governor-guinn-millennium-scholarship/eligible-ggms-institutions/",
+      "https://nvigate.gov/wp-content/uploads/2020/09/Guinn-Millennium-Scholarship-Flyer_Final-1.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Not applicable — no application; high school and college records are used to determine eligibility"
+    ]
+  },
+  {
+    "id": "nv-vr",
+    "name": "Vocational Rehabilitation — Nevada",
+    "agency": "Nevada Department of Employment, Training and Rehabilitation (DETR), Bureau of Vocational Rehabilitation",
+    "category": "Employment",
+    "description": "VR Nevada helps Nevadans with disabilities prepare for, find and keep jobs or pursue higher education. Watch an orientation video, then complete the online application via DocuSign (a working email address is required). Services can include assessments, counseling, training and job placement. The Bureau of Services to Persons who are Blind or Visually Impaired (BSBVI) serves blind and visually impaired Nevadans.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Nevadan with a physical, mental or sensory disability that is a substantial impediment to employment",
+      "Able to benefit from VR services to achieve an employment outcome"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; watch an orientation video first."
+      }
+    ],
+    "prerequisites": [
+      "Working email address (application is completed on DocuSign)"
+    ],
+    "whatToBring": [
+      "Call (775) 823-8112 or TTY (775) 687-5353 if you need help completing the application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VR application assistance",
+        "value": "(775) 823-8112"
+      },
+      {
+        "kind": "phone",
+        "label": "VR application assistance (TTY)",
+        "value": "(775) 687-5353"
+      },
+      {
+        "kind": "phone",
+        "label": "Blind Services application assistance",
+        "value": "775-823-8143"
+      },
+      {
+        "kind": "web",
+        "label": "VR Nevada — apply (Application Step 2)",
+        "value": "https://vrnevada.nv.gov/applications-step2/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VR Nevada — orientation and application",
+        "url": "https://vrnevada.nv.gov/applications-step2/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vrnevada.nv.gov/applications-step2/"
+    ]
+  },
+  {
+    "id": "nv-cope",
+    "name": "Community Options Program for the Elderly (COPE)",
+    "agency": "Nevada Aging and Disability Services Division (ADSD)",
+    "category": "Seniors",
+    "description": "COPE provides non-medical in-home services to persons 65 and older to help them stay independent at home as an alternative to nursing home placement: case management, personal care, homemaker, adult day care, adult companion, personal emergency response system (PERS), chore service and respite care.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Age 65 or older",
+      "At risk of institutionalization if services are not provided (meets nursing home level of care)",
+      "Financially eligible (call for current income guidelines)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; a case manager contacts you after the application is received."
+      }
+    ],
+    "prerequisites": [
+      "Complete the OCL Program Application (the applicant, a community partner or a caregiver may apply)"
+    ],
+    "whatToBring": [
+      "Submit the completed signed application to the ADSD office nearest you; you may also apply by phone through your local regional office"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "COPE program and OCL application (ADSD)",
+        "value": "https://www.adsd.nv.gov/programs/programs-for-seniors/community-options-program-for-the-elderly-cope/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "COPE program page and OCL Program Application",
+        "url": "https://www.adsd.nv.gov/programs/programs-for-seniors/community-options-program-for-the-elderly-cope/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.adsd.nv.gov/programs/programs-for-seniors/community-options-program-for-the-elderly-cope/"
+    ]
+  },
+  {
+    "id": "nv-veterans",
+    "name": "Nevada Department of Veterans Services (NDVS)",
+    "agency": "Nevada Department of Veterans Services (NDVS)",
+    "category": "Veterans",
+    "description": "NDVS helps veterans, service members and their families access earned benefits: assistance with VA claims and education benefits, plus housing, employment and healthcare resources, and specialized support for caregivers, survivors and disabled veterans. NDVS also operates state veterans cemeteries and State Veterans Homes (skilled nursing, memory care and rehabilitative services).",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Veterans, active-duty service members, National Guard/Reserve members, and their families, caregivers and survivors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact NDVS any time for help connecting to benefits and services."
+      }
+    ],
+    "prerequisites": [
+      "Contact NDVS or visit veterans.nv.gov to connect with a benefits specialist"
+    ],
+    "whatToBring": [
+      "Discharge paperwork (e.g. DD-214) if available; identification"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NDVS home",
+        "value": "https://veterans.nv.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NDVS — benefits and services",
+        "url": "https://veterans.nv.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://veterans.nv.gov/"
+    ]
+  },
+  {
+    "id": "nv-nls",
+    "name": "Nevada Legal Services — Free Legal Help",
+    "agency": "Nevada Legal Services (nonprofit legal aid)",
+    "category": "Legal Aid",
+    "description": "Nevada Legal Services provides free civil legal assistance to low-income Nevadans through staff attorneys and volunteer lawyers statewide. Complete the online intake form to find out if you qualify. Note: NLS is currently offering free legal help to Nevadans denied or terminated from SNAP after recent federal changes took effect May 1, 2026.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Low-income Nevada resident (complete the intake form to check eligibility)",
+      "Civil legal matters; information submitted is confidential"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit the online intake form any time to see if you qualify."
+      }
+    ],
+    "prerequisites": [
+      "Complete the NLS online intake form"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue (denial letters, notices, court papers)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Las Vegas office (unverified)",
+        "value": "(702) 386-0404"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada Legal Services home",
+        "value": "https://nevadalegalservices.org/"
+      },
+      {
+        "kind": "web",
+        "label": "NLS online intake application",
+        "value": "https://nlsoi.legalserver.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NLS online intake application",
+        "url": "https://nlsoi.legalserver.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nevadalegalservices.org/"
+    ]
+  },
+  {
+    "id": "nv-dmv",
+    "name": "Nevada DMV — DriveNV Online Services",
+    "agency": "Nevada Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Start most DMV transactions online through DriveNV: upload documents ahead of time, apply for a new or duplicate Nevada title (Turbo Titles), register an out-of-state or private-party vehicle (Rapid Registration), apply for a driver's license, ID card, instruction permit or driver authorization card (Quick Cards), and book appointments. Appointments are required for most in-person services; walk-ins are accepted only for license plate drop-off, past-due debt payments, VIN inspections (metro offices) and title document drop-off after Turbo Titles payment.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Nevada resident applying for a license, ID or vehicle transaction"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Most services can be started online any time; book an appointment for in-person visits."
+      },
+      {
+        "date": null,
+        "label": "Office relocation (per DMV homepage)",
+        "note": "The Henderson and Donovan offices are permanently relocating to the Silverado facility; the Donovan office closes at end of business October 9, 2026 and the Henderson office closes at end of business October 14, 2026."
+      }
+    ],
+    "prerequisites": [
+      "Create a DriveNV account; upload required documents before your visit"
+    ],
+    "whatToBring": [
+      "Identity, residency and vehicle documents as prompted by DriveNV for your transaction"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nevada DMV home / DriveNV",
+        "value": "https://dmv.nv.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nevada DMV — start your transaction",
+        "url": "https://dmv.nv.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by transaction (fees apply)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dmv.nv.gov/"
+    ]
+  },
+  {
+    "id": "nv-sos-business",
+    "name": "Nevada Secretary of State — Business Center",
+    "agency": "Nevada Secretary of State",
+    "category": "Small Business",
+    "description": "Register your business with the Nevada Secretary of State: state business license registrations, renewals, amendments and cancellations, business entity filings, name reservations, annual lists of officers/members, and certificates of good standing. File online through the SOS Business Center (SilverFlume portal) or by mail, fax or email to the Carson City office.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Anyone conducting business in Nevada needs an active state business license or an exemption",
+      "Business entities must file articles and maintain annual filings with the Secretary of State"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File online any time; annual lists and business licenses renew annually."
+      }
+    ],
+    "prerequisites": [
+      "Have your business name, entity type, registered agent and principal address details ready"
+    ],
+    "whatToBring": [
+      "Business name, entity type, registered agent information, and principal addresses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SOS Customer Service Division (unverified)",
+        "value": "(775) 684-5708"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada Secretary of State home",
+        "value": "https://www.nvsos.gov/sos"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SOS Business Center — start your filing",
+        "url": "https://www.nvsos.gov/sos"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by filing (fees apply)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nvsos.gov/sos"
+    ]
+  },
+  {
+    "id": "nv-housing",
+    "name": "Nevada Housing Division — Homebuyer & Homeowner Programs",
+    "agency": "Nevada Housing Division (Department of Business and Industry)",
+    "category": "Housing",
+    "description": "The Nevada Housing Division helps Nevadans become and stay homeowners: the statewide Homebuyer Program (Home is Possible) offers low- and moderate-income buyers a fixed-rate 30-year loan with down payment and closing-cost assistance; the Mortgage Credit Certificate (MCC) gives first-time homebuyers and qualified veterans a federal income tax credit of up to 30% of mortgage interest paid each year; and the Foreclosure Mediation Program lets owner-occupants who receive a Notice of Default elect mediation within 30 days.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Low- or moderate-income Nevada homebuyer (Home is Possible)",
+      "First-time homebuyer or qualified veteran (Mortgage Credit Certificate)",
+      "Owner-occupant served with a Notice of Default (Foreclosure Mediation Program — 30-day window to elect)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Homebuyer and MCC programs are available statewide on a rolling basis."
+      },
+      {
+        "date": null,
+        "label": "Foreclosure mediation — 30-day election",
+        "note": "Homeowners of owner-occupied houses have 30 days after being served with a foreclosure notice to elect mediation."
+      }
+    ],
+    "prerequisites": [
+      "Approved homebuyer education course completion certificate (required for Home is Possible loans)"
+    ],
+    "whatToBring": [
+      "Income documentation, as requested by your participating lender"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Homeowner assistance programs (Business & Industry)",
+        "value": "https://www.business.nv.gov/homeowner-help/homeowner-assistance-programs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Homeowner assistance programs — start here",
+        "url": "https://www.business.nv.gov/homeowner-help/homeowner-assistance-programs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; loan terms/fees vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.business.nv.gov/homeowner-help/homeowner-assistance-programs/"
+    ]
+  },
+  {
+    "id": "nv-healthlink",
+    "name": "Nevada Health Link — Official Health Insurance Marketplace",
+    "agency": "Silver State Health Insurance Exchange (Nevada Health Authority)",
+    "category": "Healthcare",
+    "description": "Nevada Health Link is Nevada's official health insurance marketplace and the only place qualifying Nevadans can receive federal tax credits to lower monthly premiums. Shop 100+ qualified health plans from multiple carriers (plus dental plans). Open Enrollment runs each fall; outside that window you may qualify for a Special Enrollment Period after a qualifying life event such as losing coverage, getting married or divorced, moving, or having a baby. Free help is available statewide from licensed enrollment professionals.",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Nevada resident shopping for individual or family health coverage",
+      "People who do not qualify for Medicare or Medicaid and do not have employer-sponsored insurance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Open Enrollment (annual)",
+        "note": "Open Enrollment runs each fall for coverage starting the next plan year; check nevadahealthlink.com for the current year's dates. Special Enrollment Periods are year-round after qualifying life events."
+      }
+    ],
+    "prerequisites": [
+      "Create a Nevada Health Link account to apply; identity verification is required before submitting"
+    ],
+    "whatToBring": [
+      "Valid Nevada driver's license, household income estimate, Social Security card, proof of Nevada residence, current health insurance info if any"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nevada Health Link call center (Mon-Fri, 9am-10pm)",
+        "value": "1-800-547-2927"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada Health Link home",
+        "value": "https://nevadahealthlink.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nevada Health Link — get started",
+        "url": "https://nevadahealthlink.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to enroll; plan premiums vary (tax credits may lower them)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nevadahealthlink.com/"
+    ]
+  },
+  {
+    "id": "las-vegas-rtc-snv-fares",
+    "name": "RTC of Southern Nevada — Transit Fares & Paratransit",
+    "agency": "Regional Transportation Commission of Southern Nevada (RTC)",
+    "category": "Transportation",
+    "description": "RTC of Southern Nevada runs fixed-route bus service across Las Vegas and the valley: $2 regular and $1 reduced single rides on residential routes. Paratransit provides shared-ride door-to-door service for riders functionally unable to use fixed routes ($3 base cash fare); paratransit ID holders ride fixed and express routes free.",
+    "scope": {
+      "level": "city",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Anyone can ride fixed-route buses (regular fare)",
+      "Reduced fares: active-duty military and veterans, youth ages 6–17, K–12 students, seniors 60+, people with disabilities, Medicare-eligible riders and mobility-trained riders",
+      "Paratransit: people functionally unable to use fixed-route service (separate eligibility process)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fares apply year-round; apply for reduced-fare or paratransit eligibility any time."
+      }
+    ],
+    "prerequisites": [
+      "No advance application needed for regular fares; reduced-fare and paratransit riders need an eligibility ID"
+    ],
+    "whatToBring": [
+      "Reduced-fare ID or proof of eligibility when boarding with a reduced fare"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RTC Southern Nevada — fares and passes",
+        "value": "https://www.rtcsnv.com/ways-to-travel/fares-passes/?intent=info&agency_id=RTCSNV"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RTC Southern Nevada — fares and passes",
+        "url": "https://www.rtcsnv.com/ways-to-travel/fares-passes/?intent=info&agency_id=RTCSNV"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$2 regular / $1 reduced single ride (residential routes); paratransit $3 base cash fare",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rtcsnv.com/ways-to-travel/fares-passes/?intent=info&agency_id=RTCSNV"
+    ]
+  },
+  {
+    "id": "reno-rtc-washoe-fares",
+    "name": "RTC Washoe — Reduced Fares & Free Student/College Rides",
+    "agency": "Regional Transportation Commission of Washoe County (RTC Washoe)",
+    "category": "Transportation",
+    "description": "RTC Washoe runs Reno/Sparks transit. A free reduced-fare ID is available for youth ages 6–18, seniors 60+, people with disabilities and veterans; students, faculty and staff of DRI, UNR, TMCC and WNC ride fixed routes free with school ID.",
+    "scope": {
+      "level": "city",
+      "city": "Reno",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Free reduced-fare ID: youth 6–18, seniors 60+, people with disabilities, veterans",
+      "Free fixed-route rides: DRI, UNR, TMCC and WNC students, faculty and staff with school ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a reduced-fare ID any time at RTC Customer Service."
+      }
+    ],
+    "prerequisites": [
+      "No advance application needed for regular fares; reduced-fare ID required for reduced fares"
+    ],
+    "whatToBring": [
+      "Proof of eligibility (age, disability, veteran status or school ID) for the reduced-fare ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "RTC Washoe customer service (Mon–Fri, 8am–12pm and 1–5pm)",
+        "value": "775-348-7433"
+      },
+      {
+        "kind": "web",
+        "label": "RTC Washoe — fares and passes",
+        "value": "https://rtcwashoe.com/fares-passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RTC Washoe — fares and passes",
+        "url": "https://rtcwashoe.com/fares-passes"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free reduced-fare ID; fares vary by pass type",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rtcwashoe.com/fares-passes"
+    ]
+  },
+  {
+    "id": "reno-nnph-family-planning",
+    "name": "NNPH Family Planning & Sexual Health Clinic (Reno)",
+    "agency": "Northern Nevada Public Health (NNPH)",
+    "category": "Healthcare",
+    "description": "NNPH's low-cost, confidential family planning and sexual health clinic in Reno offers STI/HIV testing and treatment, contraception, pregnancy testing, health screenings and immunizations. Walk-in and same-day visits are available Monday through Friday.",
+    "scope": {
+      "level": "city",
+      "city": "Reno",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Open to the public; fees based on income and household size",
+      "Patients are still seen if unable to pay on the day of service"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-in and same-day visits Monday–Friday; call ahead for current clinic hours."
+      }
+    ],
+    "prerequisites": [
+      "No appointment required for walk-in/same-day visits during clinic hours"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of income if available (not required to be seen)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NNPH family planning clinic",
+        "value": "775-328-2470"
+      },
+      {
+        "kind": "in-person",
+        "label": "Clinic location",
+        "value": "1001 E. 9th St., Building B, Reno, NV"
+      },
+      {
+        "kind": "web",
+        "label": "NNPH family planning clinic page",
+        "value": "https://www.nnph.org/programs-and-services/cchs/sexual-health-program/family-planning-clinic.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NNPH family planning clinic — services and hours",
+        "url": "https://www.nnph.org/programs-and-services/cchs/sexual-health-program/family-planning-clinic.php"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Low-cost; fees based on income and household size",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nnph.org/programs-and-services/cchs/sexual-health-program/family-planning-clinic.php"
+    ]
+  },
+  {
+    "id": "las-vegas-three-square",
+    "name": "Three Square Food Bank — Find Food (Southern Nevada)",
+    "agency": "Three Square Food Bank",
+    "category": "Food",
+    "description": "Three Square's Food Finder locates free food across Southern Nevada: drive-through food distributions, food pantries, meal sites and free senior meals (served at Clark County, East Las Vegas and Whitney libraries).",
+    "scope": {
+      "level": "city",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Anyone in need of food in Southern Nevada"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Distributions and pantries run year-round; check the Food Finder for current schedules."
+      }
+    ],
+    "prerequisites": [
+      "No application needed — use the Food Finder to locate a distribution or pantry"
+    ],
+    "whatToBring": [
+      "No ID required at most distributions; first-time visitors complete a brief confidential intake"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Three Square — Find Food",
+        "value": "https://threesquare.org/get-help/find-food"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Three Square Food Finder",
+        "url": "https://threesquare.org/get-help/find-food"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://threesquare.org/get-help/find-food"
+    ]
+  },
+  {
+    "id": "sparks-fbnn",
+    "name": "Food Bank of Northern Nevada — Get Help (Reno/Sparks)",
+    "agency": "Food Bank of Northern Nevada",
+    "category": "Food",
+    "description": "The Food Bank of Northern Nevada provides free groceries through partner neighborhood pantries, Mobile Harvest drive-through fresh produce distributions, free Kids Café meals for children, senior nutrition programs, and free one-on-one help applying for or renewing SNAP.",
+    "scope": {
+      "level": "city",
+      "city": "Sparks",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Anyone in need in northern Nevada; programs serve seniors 60+, kids, and households of all sizes",
+      "Quick check-in at distributions and pantries — bring ID if you have it, but you will still be helped without it"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Distributions run year-round; see the Get Help page for current schedules."
+      }
+    ],
+    "prerequisites": [
+      "No application needed — visit a pantry or distribution; first-time visitors complete a brief intake on site"
+    ],
+    "whatToBring": [
+      "ID if available; senior programs may ask for proof of income, residency and a photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Food Bank of Northern Nevada",
+        "value": "775-331-3663"
+      },
+      {
+        "kind": "in-person",
+        "label": "Food Bank location",
+        "value": "550 Italy Drive, Sparks, NV 89437"
+      },
+      {
+        "kind": "web",
+        "label": "Food Bank of Northern Nevada — Get Help",
+        "value": "https://www.fbnn.org/gethelp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Food Bank of Northern Nevada — Get Help",
+        "url": "https://www.fbnn.org/gethelp"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.fbnn.org/gethelp"
+    ]
+  },
+  {
+    "id": "las-vegas-lacsn",
+    "name": "Legal Aid Center of Southern Nevada — Free Civil Legal Help",
+    "agency": "Legal Aid Center of Southern Nevada (LACSN)",
+    "category": "Legal Aid",
+    "description": "LACSN provides free civil legal assistance to people unable to afford counsel in Southern Nevada: free classes and Ask-A-Lawyer sessions, family and youth law, immigration, consumer protection and eviction prevention.",
+    "scope": {
+      "level": "city",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Low-income Southern Nevada residents unable to afford an attorney",
+      "Clark County's Social Service FAQ refers residents facing eviction to LACSN for guidance on the eviction process"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; call or visit to start intake."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit LACSN to start intake and find out if you qualify"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue (notices, court papers, contracts)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LACSN main line",
+        "value": "(702) 386-1070"
+      },
+      {
+        "kind": "phone",
+        "label": "LACSN (TDD)",
+        "value": "(702) 386-1059"
+      },
+      {
+        "kind": "in-person",
+        "label": "LACSN office",
+        "value": "725 E. Charleston Blvd., Las Vegas, NV 89104"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Aid Center of Southern Nevada",
+        "value": "https://lacsn.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Aid Center of Southern Nevada — get help",
+        "url": "https://lacsn.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lacsn.org/",
+      "https://www.clarkcountynv.gov/residents/assistance_programs/faq"
+    ]
+  },
+  {
+    "id": "las-vegas-helpsonv",
+    "name": "HELP of Southern Nevada — Emergency Resource Services",
+    "agency": "HELP of Southern Nevada",
+    "category": "Housing",
+    "description": "HELP of Southern Nevada has served the valley for 55 years, helping families and individuals overcome barriers through direct services, training and referrals to community resources. Emergency Resource Services can include rental and utility assistance, bus passes, food and clothing vouchers, referrals and case management; it also runs programs for homeless youth and a diaper bank.",
+    "scope": {
+      "level": "city",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Southern Nevada individuals and families facing barriers to self-sufficiency",
+      "Clark County refers residents to HELP of Southern Nevada for rental assistance application help"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact HELP of Southern Nevada any time to ask about current programs."
+      }
+    ],
+    "prerequisites": [
+      "Call HELP of Southern Nevada to learn which programs are currently open"
+    ],
+    "whatToBring": [
+      "Proof of need varies by program — call first to learn what to bring"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HELP of Southern Nevada (from Clark County assistance FAQ)",
+        "value": "702-369-4357"
+      },
+      {
+        "kind": "web",
+        "label": "HELP of Southern Nevada",
+        "value": "https://helpsonv.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HELP of Southern Nevada — get help",
+        "url": "https://helpsonv.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://helpsonv.org/",
+      "https://www.clarkcountynv.gov/residents/assistance_programs/faq"
+    ]
+  },
+  {
+    "id": "clark-ccss",
+    "name": "Clark County Social Service — Rental & Utility Assistance",
+    "agency": "Clark County Department of Social Service",
+    "category": "Housing",
+    "description": "Clark County Social Service assists residents facing financial hardship with rent/housing costs, utilities and related expenses. Core programs: Eviction Prevention (up to 12 months of past-due rent plus 3 months of future rent — one-time lifetime benefit) and Fixed Income Rental Assistance (up to 12 months of rent, plus a 13th month to relocate); both programs can also help with utilities. Apply online through the CHAP portal; decisions are typically reached within 30 days of assignment to a caseworker.",
+    "scope": {
+      "level": "county",
+      "county": "Clark",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Clark County resident facing financial hardship and lacking sufficient income or resources for rent/utilities",
+      "Eviction Prevention: behind on rent with a viable plan to pay future rent (no eviction filing required)",
+      "Fixed Income Rental Assistance: behind on rent with a household member on fixed income (Social Security, SSI, VA pension/disability, pensions, permanent disability)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time via the CHAP portal; landlords are typically paid within 14 business days of approval."
+      }
+    ],
+    "prerequisites": [
+      "Create a CHAP portal account (one account per applicant) and complete the online application"
+    ],
+    "whatToBring": [
+      "Upload all required verifications with the application (see the CCSS documents list); proof of rent arrears and income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CCSS call center (Mon–Fri, 8am–5pm; option 1 for program help)",
+        "value": "702-455-4270"
+      },
+      {
+        "kind": "web",
+        "label": "CHAP — Applications for Assistance (online portal)",
+        "value": "https://chap.clarkcountynv.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "CCSS assistance FAQ",
+        "value": "https://www.clarkcountynv.gov/residents/assistance_programs/faq"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for CCSS assistance (CHAP portal)",
+        "url": "https://chap.clarkcountynv.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.clarkcountynv.gov/residents/assistance_programs/faq",
+      "https://chap.clarkcountynv.gov/"
+    ]
+  },
+  {
+    "id": "washoe-hsa",
+    "name": "Washoe County Human Services Agency",
+    "agency": "Washoe County Human Services Agency (HSA)",
+    "category": "Family & Childcare",
+    "description": "Washoe County HSA protects and supports vulnerable children, adults and seniors across the county: Children's Services (child protection, foster care and adoption), Adult Services (general assistance, rental and deposit assistance, CrossRoads, adult group home, burial and cremation assistance), Senior Services (nutrition, homemaker, representative payee), and Housing & Homeless Services.",
+    "scope": {
+      "level": "county",
+      "county": "Washoe",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Washoe County children, adults, seniors and people experiencing homelessness vulnerable to abuse, neglect or exploitation",
+      "Program-specific eligibility — call the division that matches your need"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact HSA any time; the child abuse hotline is staffed 24/7."
+      }
+    ],
+    "prerequisites": [
+      "Call the division that matches your need to begin intake"
+    ],
+    "whatToBring": [
+      "Call the relevant division first; staff will guide you to the right program and tell you what to bring"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child Abuse and Neglect Hotline (24/7)",
+        "value": "1-833-900-7233"
+      },
+      {
+        "kind": "phone",
+        "label": "Children's Services (350 S. Center St., Reno)",
+        "value": "(775) 785-8600"
+      },
+      {
+        "kind": "phone",
+        "label": "Adult Services — general assistance, rental/deposit aid",
+        "value": "(775) 328-2700"
+      },
+      {
+        "kind": "phone",
+        "label": "Senior Services (1155 E. Ninth St., Reno)",
+        "value": "(775) 328-2575"
+      },
+      {
+        "kind": "web",
+        "label": "Washoe County HSA — contact page",
+        "value": "https://www.washoecounty.gov/hsa/contact_information/index.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Washoe County HSA — programs and contacts",
+        "url": "https://www.washoecounty.gov/hsa/contact_information/index.php"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.washoecounty.gov/hsa/contact_information/index.php"
+    ]
+  },
+  {
+    "id": "las-vegas-library",
+    "name": "Las Vegas–Clark County Library District",
+    "agency": "Las Vegas–Clark County Library District",
+    "category": "Education",
+    "description": "The Library District serves Southern Nevada through 25 branches: free library cards with access to books, movies, music, eBooks and audiobooks; free events for adults, kids and teens; online employment assistance; STEAM and maker learning spaces; and Spanish-language eBooks for kids and teens.",
+    "scope": {
+      "level": "city",
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Open to the public; library card sign-up available online or at any branch"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Branches open year-round; check the events calendar for program schedules."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites — sign up for a library card online or at any branch"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address to sign up for a full-access library card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Las Vegas–Clark County Library District",
+        "value": "https://thelibrarydistrict.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library District — hours, locations and card sign-up",
+        "url": "https://thelibrarydistrict.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://thelibrarydistrict.org/"
+    ]
+  },
+  {
+    "id": "nv-employnv",
+    "name": "EmployNV — Nevada Career Hubs & Job Portal",
+    "agency": "Nevada Department of Employment, Training and Rehabilitation (DETR)",
+    "category": "Employment",
+    "description": "EmployNV is Nevada's statewide workforce system (a partner of the American Job Center network): search the state's largest job database online in English or Spanish, or visit a Career Hub for in-person job search assistance — resume writing, interview preparation, skills and career assessments, workshops, labor market information and funding for training and credentials. Hubs: Las Vegas (3405 S. Maryland Pkwy), North Las Vegas (2827 Las Vegas Blvd N), Henderson (4500 E. Sunset Rd Ste 40), Reno (4001 S. Virginia St Ste 8), Sparks (2281 Pyramid Way).",
+    "scope": {
+      "level": "state",
+      "state": "NV"
+    },
+    "eligibility": [
+      "Nevada job seekers and employers (free to both)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Register online any time; Career Hubs generally open weekdays 8am–5pm."
+      }
+    ],
+    "prerequisites": [
+      "Self-register online at EmployNV.gov to shorten in-office registration time"
+    ],
+    "whatToBring": [
+      "Resume if you have one; I-9 documents for on-the-spot hiring events"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "EmployNV — Nevada's largest job database",
+        "value": "https://www.employnv.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Las Vegas Career Hub (unverified)",
+        "value": "702-486-0100"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EmployNV — register and search jobs",
+        "url": "https://www.employnv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.employnv.gov",
+      "https://detr.nv.gov/content/media/EmployNV_in_Southern_Nevada_July_31_August_14_.pdf"
+    ]
   }
 ]
