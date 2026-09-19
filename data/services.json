@@ -43322,5 +43322,1808 @@
     "sources": [
       "https://cdhs.colorado.gov/i-want-to"
     ]
+  },
+  {
+    "id": "sc-dss-snap",
+    "name": "SNAP / Food Assistance",
+    "agency": "SC Department of Social Services (SCDSS)",
+    "category": "Food",
+    "description": "Federal nutrition program that helps low-income South Carolina households buy groceries. Apply online, in person at a county DSS office, by mail, or by fax; call the application-status line to check your case.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents",
+      "Low-income households",
+      "Work requirements vary by household — see DSS flyer"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Application status line",
+        "value": "1-800-616-1309"
+      },
+      {
+        "kind": "web",
+        "label": "DSS SNAP flyer (PDF)",
+        "value": "https://dss.sc.gov/media/ii1pdx24/dss-flyer-505-apr-25.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP information and how to apply (DSS flyer, PDF)",
+        "url": "https://dss.sc.gov/media/ii1pdx24/dss-flyer-505-apr-25.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dss.sc.gov/media/ii1pdx24/dss-flyer-505-apr-25.pdf",
+      "https://dss.sc.gov/resource-library/forms_brochures/files/3333.pdf"
+    ]
+  },
+  {
+    "id": "sc-dhhs-medicaid",
+    "name": "Healthy Connections Medicaid",
+    "agency": "SC Department of Health and Human Services (SCDHHS)",
+    "category": "Healthcare",
+    "description": "South Carolina's Medicaid program providing health coverage to eligible low-income residents. Applications and annual eligibility reviews are completed through SCDHHS's online system; SCDHHS publishes how-to videos for completing applications and annual reviews.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents meeting income and category requirements",
+      "Children, pregnant women, parents, seniors, and people with disabilities may qualify — see SCDHHS"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Healthy Connections member line",
+        "value": "1-888-549-0820"
+      },
+      {
+        "kind": "web",
+        "label": "Application guidance (SCDHHS)",
+        "value": "https://www.scdhhs.gov/communications/scdhhs-launches-series-how-videos-help-healthy-connections-medicaid-members-complete"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Healthy Connections Medicaid — application guidance (SCDHHS)",
+        "url": "https://www.scdhhs.gov/communications/scdhhs-launches-series-how-videos-help-healthy-connections-medicaid-members-complete"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scdhhs.gov/communications/scdhhs-launches-series-how-videos-help-healthy-connections-medicaid-members-complete"
+    ]
+  },
+  {
+    "id": "sc-dss-tanf",
+    "name": "TANF — Temporary Assistance for Needy Families",
+    "agency": "SC Department of Social Services (SCDSS)",
+    "category": "Money & Taxes",
+    "description": "Temporary cash assistance for needy families with dependent children. Most South Carolina TANF cases are limited to 24 months within a 10-year period, subject to hardship extensions. Apply online, in person, by mail, or by fax.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Families with dependent children",
+      "Financial need per DSS rules",
+      "Most cases limited to 24 months within a 10-year period"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TANF frequently asked questions (SCDSS)",
+        "value": "https://dss.sc.gov/assistance-programs/tanf/frequently-asked-questions"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TANF information and application guidance (SCDSS)",
+        "url": "https://dss.sc.gov/assistance-programs/tanf/frequently-asked-questions"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dss.sc.gov/assistance-programs/tanf/frequently-asked-questions"
+    ]
+  },
+  {
+    "id": "sc-dph-wic",
+    "name": "WIC Nutrition Program",
+    "agency": "SC Department of Public Health (DPH)",
+    "category": "Food",
+    "description": "Nutrition support for pregnant, postpartum, and breastfeeding mothers and children under age five. Requires South Carolina residency, income eligibility, and a nutritional need; participants in Medicaid, TANF, or SNAP meet the income test.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents",
+      "Pregnant, postpartum, or breastfeeding mothers and children under age 5",
+      "Income eligibility and nutritional need",
+      "Medicaid, TANF, or SNAP participants meet the income test"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Child's identity documentation",
+      "Proof of residency",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC information line",
+        "value": "1-855-472-3432"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for WIC — it's easy (DPH)",
+        "value": "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/apply-wic-its-easy"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WIC application and required documents (DPH)",
+        "url": "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/apply-wic-its-easy"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "Korean"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/apply-wic-its-easy",
+      "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program",
+      "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/about-wic"
+    ]
+  },
+  {
+    "id": "sc-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance",
+    "agency": "Carolina Community Actions (SC LIHEAP provider)",
+    "category": "Utilities",
+    "description": "Heating and cooling bill assistance for low-income South Carolina households, with priority for vulnerable households such as seniors, people with disabilities, and families with young children. The provider's program year runs January 1–December 31; an intake interview follows your application.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Low-income households in the provider's service area",
+      "Priority for elderly, disabled, and households with young children"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual program year",
+        "note": "Provider operates January 1–December 31"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LIHEAP program information and apply (Carolina Community Actions)",
+        "value": "https://www.carolinacommunityactions.org/liheap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP information and application (Carolina Community Actions)",
+        "url": "https://www.carolinacommunityactions.org/liheap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.carolinacommunityactions.org/liheap"
+    ]
+  },
+  {
+    "id": "sc-dew-ui",
+    "name": "Unemployment Insurance",
+    "agency": "SC Department of Employment and Workforce (DEW)",
+    "category": "Employment",
+    "description": "Temporary wage replacement for workers who lost jobs through no fault of their own. File a claim online through DEW's MyBenefits system (create an account first); weekly claims must be filed within two weeks of the claim-week ending date.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Minimum earnings and work history per DEW rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File your initial claim as soon as you are unemployed"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DEW call center",
+        "value": "1-866-831-1724"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment overview (DEW)",
+        "value": "https://dew.sc.gov/node/116"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Unemployment insurance overview and MyBenefits access (DEW)",
+        "url": "https://dew.sc.gov/node/116"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dew.sc.gov/node/116",
+      "https://dew.sc.gov/individuals/special-circumstances",
+      "http://dew.sc.gov/sites/dew/files/Documents/work-search-all-rev-10-9-17.pdf"
+    ]
+  },
+  {
+    "id": "sc-housing-homebuyer",
+    "name": "SC Housing Homebuyer Programs",
+    "agency": "SC State Housing Finance and Development Authority (SC Housing)",
+    "category": "Housing",
+    "description": "First-time and repeat homebuyer programs with competitive fixed-rate mortgages and down payment assistance, including the Palmetto Heroes program ($10,000 down payment assistance for public servants). 2026 Palmetto Heroes applications began March 16 and funds are awarded first-come, first-served.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Homebuyers purchasing a primary residence in South Carolina",
+      "Income and purchase-price limits per program — see SC Housing",
+      "Palmetto Heroes: eligible public servants"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Limited funds",
+        "note": "Palmetto Heroes funds awarded first-come, first-served"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SC Housing",
+        "value": "803-896-2211"
+      },
+      {
+        "kind": "web",
+        "label": "Homebuyer programs (SC Housing)",
+        "value": "https://www.schousing.com/Home/HomeBuyers?sub_id=78d28a1f54b8406a997a46d11f2be30d"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Homebuyer programs (SC Housing)",
+        "url": "https://www.schousing.com/Home/HomeBuyers?sub_id=78d28a1f54b8406a997a46d11f2be30d"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.schousing.com/Home/HomeBuyers?sub_id=78d28a1f54b8406a997a46d11f2be30d",
+      "https://schousing.sc.gov/news/sc-housing-celebrates-june-homeownership-month-0",
+      "https://schousing.sc.gov/sites/schousing/files/Documents/Homebuyers/Marketing%20Fliers/08.03.26%20-%20Homebuyer%20Program%20Flyer.pdf"
+    ]
+  },
+  {
+    "id": "sc-legal-services",
+    "name": "South Carolina Legal Services",
+    "agency": "South Carolina Legal Services",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for eligible low-income South Carolinians — housing, family, benefits, consumer, and other civil matters (no criminal cases). Intake by phone Monday–Thursday 9:00 a.m.–6:00 p.m. or online.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents",
+      "Income eligibility per program guidelines",
+      "Civil legal matters only — no criminal cases"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Statewide intake",
+        "value": "1-888-346-5592"
+      },
+      {
+        "kind": "phone",
+        "label": "Columbia intake office",
+        "value": "803-744-9430"
+      },
+      {
+        "kind": "web",
+        "label": "Services and online intake (SC Legal Services)",
+        "value": "https://sclegal.org/services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Services and how to apply (SC Legal Services)",
+        "url": "https://sclegal.org/services/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sclegal.org/services/"
+    ]
+  },
+  {
+    "id": "sc-vr",
+    "name": "Vocational Rehabilitation Employment Services",
+    "agency": "SC Vocational Rehabilitation Department (SCVRD)",
+    "category": "Disability",
+    "description": "Employment services for South Carolinians with disabilities. To get started: contact a local VR office, schedule an appointment with a counselor, complete the application, authorize records requests, and develop an individualized plan for employment.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents with a disability that is a barrier to employment",
+      "Must be able to benefit from VR services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Getting started with VR (SCVRD)",
+        "value": "https://www.scvrd.net/160/For-Individuals-Getting-Started-with-VR"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Getting started with VR (SCVRD)",
+        "url": "https://www.scvrd.net/160/For-Individuals-Getting-Started-with-VR"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scvrd.net/160/For-Individuals-Getting-Started-with-VR",
+      "https://www.scvrd.net/DocumentCenter/View/407/CSP-210-Referral-and-Application-for-Services"
+    ]
+  },
+  {
+    "id": "sc-dva",
+    "name": "SC Department of Veterans' Affairs — Veteran Services",
+    "agency": "SC Department of Veterans' Affairs (SCDVA)",
+    "category": "Veterans",
+    "description": "Statewide services for South Carolina veterans and families: resource connection, peer mentoring, state veterans homes, the state veterans cemetery program, and veteran housing support (803-898-3568 / VeteranHousing@scdva.sc.gov). Headquarters: 1800 St. Julian Place, Suite 305, Columbia.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina veterans and their families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SCDVA headquarters",
+        "value": "803-734-0200"
+      },
+      {
+        "kind": "phone",
+        "label": "Veteran housing support",
+        "value": "803-898-3568"
+      },
+      {
+        "kind": "email",
+        "label": "SCDVA email",
+        "value": "va@scdva.sc.gov"
+      },
+      {
+        "kind": "web",
+        "label": "SCDVA home",
+        "value": "https://scdva.sc.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SCDVA — veteran programs and services",
+        "url": "https://scdva.sc.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://scdva.sc.gov/",
+      "https://scdva.sc.gov/sites/scdva/files/users/user251/2025-2026%20Veterans'%20Homelessness%20and%20Transitions%20Grant%20Policy%20and%20Procedure%20Manual.pdf"
+    ]
+  },
+  {
+    "id": "sc-aging-getcaresc",
+    "name": "GetCareSC — Aging & Disability Resource Connection",
+    "agency": "SC Department on Aging",
+    "category": "Seniors",
+    "description": "Statewide information and referral for seniors, caregivers, and adults with disabilities. Programs include home-delivered and congregate meals, transportation, in-home care, Medicare counseling (SHIP), and the long-term care ombudsman.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina seniors, caregivers, and adults with disabilities",
+      "Program-specific eligibility varies"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "GetCareSC statewide line",
+        "value": "1-800-868-9095"
+      },
+      {
+        "kind": "web",
+        "label": "SC Department on Aging",
+        "value": "http://aging.sc.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SC Department on Aging — programs and services",
+        "url": "http://aging.sc.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://aging.sc.gov",
+      "https://aging.sc.gov/programs-initiatives/senior-prep"
+    ]
+  },
+  {
+    "id": "sc-che-scholarships",
+    "name": "SC Merit Scholarships — LIFE & Palmetto Fellows Enhancements",
+    "agency": "SC Commission on Higher Education (CHE)",
+    "category": "Education",
+    "description": "State scholarship enhancements for LIFE Scholarship and Palmetto Fellows recipients. Requires full-time, degree-seeking enrollment at an eligible South Carolina institution in an approved major.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Full-time, degree-seeking students at eligible SC institutions",
+      "LIFE or Palmetto Fellows recipients in approved majors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check with your college's financial aid office"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Scholarship enhancements (CHE)",
+        "value": "https://che.sc.gov/node/72"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIFE and Palmetto Fellows enhancements (CHE)",
+        "url": "https://che.sc.gov/node/72"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://che.sc.gov/node/72"
+    ]
+  },
+  {
+    "id": "sc-scworks",
+    "name": "SC Works Online Services",
+    "agency": "SC Department of Employment and Workforce (SCDEW)",
+    "category": "Employment",
+    "description": "South Carolina's workforce portal: job search across employer listings statewide, resume builder, labor market information, training opportunities, and a direct line to workforce consultants. Unemployment Insurance claimants conduct their two required weekly job searches through SC Works Online Services.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina job seekers",
+      "Unemployment Insurance claimants use it for required weekly work searches"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "Create a free SCWOS account"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SC Works Online Services",
+        "value": "https://www.scworks.org/jobseeker/find-a-job/sc-works-online-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SC Works Online Services (SCWOS)",
+        "url": "https://www.scworks.org/jobseeker/find-a-job/sc-works-online-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scworks.org/jobseeker/find-a-job/sc-works-online-services"
+    ]
+  },
+  {
+    "id": "sc-dss-childcare",
+    "name": "Child Care Scholarship Program (ABC Quality Vouchers)",
+    "agency": "SC Department of Social Services (SCDSS)",
+    "category": "Family & Childcare",
+    "description": "Child care scholarships paid directly to enrolled ABC Quality providers. The child must be under 13 (ages 13–19 with a verified special need may qualify); parents must work at least 15 hours per week or attend school/training; gross income must be under 300% of the federal poverty level. No weekly copay for this category.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Children under age 13 (13–19 with verified special need)",
+      "Parent working 15+ hours per week or in school/training",
+      "Gross household income under 300% of the federal poverty level",
+      "Provider must be enrolled in ABC Quality"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Completed application",
+      "Recent pay stubs or employer letter",
+      "School schedule and registration if in school"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child care assistance line (unverified)",
+        "value": "(800) 476-0199 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "SC Child Care scholarship portal",
+        "value": "https://www.scchildcare.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Child Care Scholarship Program portal (SC Child Care)",
+        "url": "https://www.scchildcare.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scchildcare.org/",
+      "https://www.SCChildCare.org/media/i2jbtqj2/10-1-24-policy-manual.pdf"
+    ]
+  },
+  {
+    "id": "sc-scdmv",
+    "name": "SC Driver's License & ID Services",
+    "agency": "SC Department of Motor Vehicles (SCDMV)",
+    "category": "Transportation",
+    "description": "Driver's licenses, beginner's permits, ID cards, vehicle registration and titling, and address or name changes at SCDMV branches statewide. Bring proof of identity, Social Security number, South Carolina residency, and fees.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Social Security number",
+      "Proof of SC residency",
+      "Payment for fees"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find an SCDMV location (official)",
+        "value": "https://www.scdmvonline.com/Locations"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SCDMV locations and services",
+        "url": "https://www.scdmvonline.com/Locations"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scdmvonline.com/Locations"
+    ]
+  },
+  {
+    "id": "sc-sos-business",
+    "name": "Business Entity Registration",
+    "agency": "SC Secretary of State",
+    "category": "Small Business",
+    "description": "Register a new business entity (LLC, corporation, nonprofit) with the South Carolina Secretary of State through the Business Entities Online portal: verify name availability, file articles, and search existing entities and agents.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in South Carolina"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and SC street address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business Entities Online (SC SOS)",
+        "value": "https://businessfilings.sc.gov/businessfiling"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start a new business filing (SC SOS)",
+        "url": "https://businessfilings.sc.gov/businessfiling"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://businessfilings.sc.gov/businessfiling"
+    ]
+  },
+  {
+    "id": "sc-211",
+    "name": "SC 211 — Community Resource Referral",
+    "agency": "United Way Association of South Carolina",
+    "category": "Healthcare",
+    "description": "Free, confidential, 24/7 information and referral service connecting South Carolinians to housing and shelter, food assistance, utility help, mental health and crisis services, employment support, and disaster relief. Dial 2-1-1, text 211-211, or search sc211.org.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Any South Carolina resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SC 211 helpline",
+        "value": "2-1-1"
+      },
+      {
+        "kind": "web",
+        "label": "SC 211 online resource database",
+        "value": "https://www.uwasc.org/sc211"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SC 211 — find help (United Way)",
+        "url": "https://www.uwasc.org/sc211"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.uwasc.org/sc211"
+    ]
+  },
+  {
+    "id": "sc-ddsn",
+    "name": "Disabilities & Special Needs Services",
+    "agency": "SC Department of Disabilities and Special Needs (SCDDSN)",
+    "category": "Disability",
+    "description": "The state agency that plans, develops, coordinates, and funds services for South Carolinians with severe, lifelong disabilities: intellectual disability, related disabilities, autism spectrum disorder, head injury, spinal cord injury, and similar disabilities. To apply, call the eligibility intake line Monday–Friday 8:30 a.m.–5:00 p.m.",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Domiciled in South Carolina",
+      "Confirmed by SCDDSN in one of 7 categories: intellectual disability, related disability, high-risk infant, autism spectrum disorder, head injury, spinal cord injury, or similar disability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DDSN eligibility intake",
+        "value": "1-800-289-7012"
+      },
+      {
+        "kind": "web",
+        "label": "Eligibility categories (SCDDSN)",
+        "value": "https://ddsn.sc.gov/ddsn-divisions/eligibility-division/7-categories-eligibility"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DDSN eligibility and how to apply",
+        "url": "https://ddsn.sc.gov/ddsn-divisions/eligibility-division/7-categories-eligibility"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ddsn.sc.gov/ddsn-divisions/eligibility-division/7-categories-eligibility"
+    ]
+  },
+  {
+    "id": "sc-dph-clinics",
+    "name": "DPH Public Health Clinics",
+    "agency": "SC Department of Public Health (DPH)",
+    "category": "Healthcare",
+    "description": "County public health clinics statewide offering family planning, immunizations, STD/HIV/Hepatitis C testing, WIC, TB services, and opioid overdose kits. Call 1-855-472-3432 or schedule online. Local offices: Richland County — 2600 Bull St., Columbia (803-898-3630); Charleston County — 3685 Rivers Ave., N. Charleston (843-953-0032); Horry County — 1931 Industrial Park Rd., Conway (843-915-8802).",
+    "scope": {
+      "level": "state",
+      "state": "SC"
+    },
+    "eligibility": [
+      "South Carolina residents",
+      "Service-specific eligibility varies"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Appointment line",
+        "value": "1-855-472-3432"
+      },
+      {
+        "kind": "phone",
+        "label": "Richland County Health Department",
+        "value": "803-898-3630"
+      },
+      {
+        "kind": "phone",
+        "label": "Charleston County Health Department",
+        "value": "843-953-0032"
+      },
+      {
+        "kind": "phone",
+        "label": "Horry County Health Department",
+        "value": "843-915-8802"
+      },
+      {
+        "kind": "web",
+        "label": "Find a public health clinic (DPH)",
+        "value": "https://dph.sc.gov/public/public-health-clinics"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Public health clinics directory (DPH)",
+        "url": "https://dph.sc.gov/public/public-health-clinics"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dph.sc.gov/public/public-health-clinics"
+    ]
+  },
+  {
+    "id": "fed-sba-sc",
+    "name": "SBA South Carolina District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Federal small-business programs delivered statewide from the South Carolina District Office: counseling, SBA lending programs, contracting assistance, and disaster support. Offices in Columbia and Charleston; Monday–Friday 8:30 a.m.–5:00 p.m. Main office: 1835 Assembly St., Suite 1425, Columbia, SC 29201.",
+    "scope": {
+      "level": "federal",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Small businesses operating in South Carolina"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA South Carolina District Office",
+        "value": "803-765-5377"
+      },
+      {
+        "kind": "web",
+        "label": "SBA South Carolina district page",
+        "value": "https://www.sba.gov/district/south-carolina"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA South Carolina District Office (sba.gov)",
+        "url": "https://www.sba.gov/district/south-carolina"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/south-carolina"
+    ]
+  },
+  {
+    "id": "fed-va-dorn",
+    "name": "Dorn VA Medical Center — VA Columbia Health Care",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The William Jennings Bryan Dorn VA Medical Center provides comprehensive health care to South Carolina veterans: primary care, tertiary care, and long-term care across medicine, surgery, psychiatry, cardiology, neurology, oncology, and more. Community clinics in Anderson, Florence, Greenville, Rock Hill, Orangeburg, Spartanburg, and Sumter.",
+    "scope": {
+      "level": "federal",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "VA health care enrollment"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Columbia health care — about and facility information",
+        "value": "https://www.va.gov/columbia-south-carolina-health-care/about-us/history/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Columbia health care — facility information (va.gov)",
+        "url": "https://www.va.gov/columbia-south-carolina-health-care/about-us/history/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/columbia-south-carolina-health-care/about-us/history/"
+    ]
+  },
+  {
+    "id": "fed-va-charleston",
+    "name": "Ralph H. Johnson VA Health Care System — Charleston",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The Ralph H. Johnson VA Health Care System is a 155-bed tertiary-care teaching hospital serving 85,000+ veterans on the South Carolina and Georgia coasts with 4,000+ staff, plus community clinics. Specialty services include PTSD care and a regional Parkinson's and movement disorders center.",
+    "scope": {
+      "level": "federal",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "VA health care enrollment"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Charleston health care — about us",
+        "value": "https://www.va.gov/charleston-health-care/about-us/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Charleston health care — about us (va.gov)",
+        "url": "https://www.va.gov/charleston-health-care/about-us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/charleston-health-care/about-us/"
+    ]
+  },
+  {
+    "id": "columbia-comet",
+    "name": "The COMET Half-Fare Program",
+    "agency": "Central Midlands Regional Transit Authority (The COMET)",
+    "category": "Transportation",
+    "description": "Half-fare bus passes on The COMET system for seniors 65+, veterans, Medicare recipients, youth, and people with qualifying disabilities. Apply with the half-fare application; COMET Central is at 1745 Sumter Street, Columbia.",
+    "scope": {
+      "level": "city",
+      "city": "Columbia",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Seniors 65+",
+      "Veterans",
+      "Medicare recipients",
+      "Youth",
+      "People with qualifying disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Completed half-fare application",
+      "Proof of eligibility (age, veteran status, Medicare card, or disability)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "The COMET",
+        "value": "803-255-7100"
+      },
+      {
+        "kind": "web",
+        "label": "Half-fare application (PDF)",
+        "value": "https://catchthecometsc.gov/wp-content/uploads/2022/04/CMRTA-Half-Fare-App.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Half-fare application (PDF, The COMET)",
+        "url": "https://catchthecometsc.gov/wp-content/uploads/2022/04/CMRTA-Half-Fare-App.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://catchthecometsc.gov/wp-content/uploads/2022/04/CMRTA-Half-Fare-App.pdf"
+    ]
+  },
+  {
+    "id": "columbia-richland-library",
+    "name": "Richland Library Card",
+    "agency": "Richland Library",
+    "category": "Education",
+    "description": "Free library cards for Richland County residents and property owners (also USC students, military stationed in Columbia, Richland County school teachers, and county employees). Get a courtesy card online, then pick up a physical card at any of 14 locations; borrow up to 60 items plus e-books, streaming, and research tools.",
+    "scope": {
+      "level": "county",
+      "county": "Richland County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Richland County residents and property owners",
+      "USC students, military stationed in Columbia, Richland County school teachers, county employees"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID with Richland County address (or a bill, lease, or tax receipt proving residency)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Richland Library (unverified)",
+        "value": "803-799-9084 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "How to get a Richland Library card",
+        "value": "https://askus.richlandlibrary.com/faq/207283"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a Richland Library card — FAQ and sign-up",
+        "url": "https://askus.richlandlibrary.com/faq/207283"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://askus.richlandlibrary.com/faq/207283"
+    ]
+  },
+  {
+    "id": "charleston-ccpl",
+    "name": "Charleston County Public Library Card",
+    "agency": "Charleston County Public Library (CCPL)",
+    "category": "Education",
+    "description": "Free library cards for Charleston County residents, business and property owners, students, active-duty military stationed in the county, K-12 teachers, and county employees. 18 branches plus a mobile library; borrow books, movies, and music, use computers and Wi-Fi, and access e-resources.",
+    "scope": {
+      "level": "county",
+      "county": "Charleston County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Charleston County residents, business/property owners, students, military, teachers, county employees"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Valid photo ID and proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CCPL",
+        "value": "843-805-6930"
+      },
+      {
+        "kind": "web",
+        "label": "Get a library card (CCPL)",
+        "value": "https://www.ccpl.org/getacard"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a CCPL library card",
+        "url": "https://www.ccpl.org/getacard"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ccpl.org/getacard",
+      "https://www.ccpl.org/how-do-i"
+    ]
+  },
+  {
+    "id": "charleston-citizen-services",
+    "name": "Charleston Citizen Services Desk",
+    "agency": "City of Charleston",
+    "category": "Utilities",
+    "description": "The City of Charleston's Citizen Services Desk answers questions and takes service requests: potholes, missed trash collection, noise complaints, sidewalk repair, streetlight repair, animal control, and parking tickets. Open Monday–Friday 8:30 a.m.–5:00 p.m.",
+    "scope": {
+      "level": "city",
+      "city": "Charleston",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Charleston residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Location and description of the issue",
+      "Contact info if you want status updates"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Citizen Services Desk",
+        "value": "843-724-7311"
+      },
+      {
+        "kind": "web",
+        "label": "Citizen Services (charleston-sc.gov)",
+        "value": "http://charleston-sc.gov/citizenservices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Citizen Services Desk (City of Charleston)",
+        "url": "http://charleston-sc.gov/citizenservices"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://charleston-sc.gov/citizenservices",
+      "https://charleston-sc.gov/DocumentCenter/View/32520/Who-to-Call-For-What?bidId="
+    ]
+  },
+  {
+    "id": "greenville-greenlink",
+    "name": "Greenlink EasyID Reduced Fare",
+    "agency": "Greenlink Transit (City of Greenville)",
+    "category": "Transportation",
+    "description": "Optional reduced-fare photo ID for Greenlink buses: seniors 65+, Medicare recipients, veterans, and people with qualifying disabilities. Apply at the Greenlink office, 205 Arcadia Drive, Greenville. Note: Greenlink has proposed OneFare system changes in 2026 — confirm current fares before riding.",
+    "scope": {
+      "level": "city",
+      "city": "Greenville",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Seniors 65+",
+      "Medicare recipients",
+      "Veterans",
+      "People with qualifying disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Proof of eligibility",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Greenlink",
+        "value": "864-467-5001"
+      },
+      {
+        "kind": "web",
+        "label": "EasyID reduced fare application (PDF)",
+        "value": "https://content.civicplus.com/api/assets/044158cf-4d34-47c8-974b-2425f17acbe6?cache=1800"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EasyID reduced fare application (PDF)",
+        "url": "https://content.civicplus.com/api/assets/044158cf-4d34-47c8-974b-2425f17acbe6?cache=1800"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://content.civicplus.com/api/assets/044158cf-4d34-47c8-974b-2425f17acbe6?cache=1800"
+    ]
+  },
+  {
+    "id": "greenville-county-library",
+    "name": "Greenville County Library Card",
+    "agency": "Greenville County Library System",
+    "category": "Education",
+    "description": "Free cards for Greenville County residents: borrow books, music, movies, and TV shows; use public computers; check out museum and park passes. Bring photo ID and proof of address; applications available in English and Spanish.",
+    "scope": {
+      "level": "county",
+      "county": "Greenville County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Greenville County residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card (Greenville County Library)",
+        "value": "https://www.greenvillelibrary.org/get-a-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a Greenville County Library card",
+        "url": "https://www.greenvillelibrary.org/get-a-card"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.greenvillelibrary.org/get-a-card"
+    ]
+  },
+  {
+    "id": "greenville-ha",
+    "name": "Greenville Housing Authority — Housing Assistance",
+    "agency": "The Housing Authority of the City of Greenville (TGHA)",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Voucher rental assistance in Greenville County. Conventional public housing sets rent at 30% of household income; the voucher program subsidizes rent through payments to private landlords. Use the Apply For Housing page on tgha.net.",
+    "scope": {
+      "level": "county",
+      "county": "Greenville County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Low-income households in Greenville County",
+      "HUD income and eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waiting lists are common — check current status"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TGHA (unverified)",
+        "value": "864-467-4250 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "TGHA home / Apply For Housing",
+        "value": "https://tgha.net"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply For Housing (TGHA)",
+        "url": "https://tgha.net"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tgha.net",
+      "https://tgha.net/wp-content/uploads/2023/08/2018-TGHA-Audit.pdf"
+    ]
+  },
+  {
+    "id": "myrtle-beach-coastrta",
+    "name": "Coast RTA Transit",
+    "agency": "Coast Regional Transportation Authority (Coast RTA)",
+    "category": "Transportation",
+    "description": "Daily bus service across the Myrtle Beach area. Reduced fares for seniors, people with disabilities, and Medicare cardholders.",
+    "scope": {
+      "level": "city",
+      "city": "Myrtle Beach",
+      "state": "SC"
+    },
+    "eligibility": [
+      "General public",
+      "Reduced fares: seniors, people with disabilities, Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Fare payment",
+      "Medicare card or ID for reduced fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Coast RTA customer service",
+        "value": "843-488-0865"
+      },
+      {
+        "kind": "web",
+        "label": "Coast RTA routes",
+        "value": "https://coastrta.com/coast-rta-routes/route_10/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Coast RTA routes and schedules",
+        "url": "https://coastrta.com/coast-rta-routes/route_10/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://coastrta.com/coast-rta-routes/route_10/"
+    ]
+  },
+  {
+    "id": "horry-mbha",
+    "name": "Housing Authority of Myrtle Beach — Housing Choice Vouchers",
+    "agency": "Housing Authority of Myrtle Beach (MBHA)",
+    "category": "Housing",
+    "description": "Administers 660 Housing Choice Vouchers in eastern Horry County. Participants must be below 30% of the area median income and meet citizen-status and background requirements. The HCV waiting list is currently closed — when it opens, MBHA runs an online pre-application lottery selecting 1,000 applicants. Office: 605 10th Avenue N., Myrtle Beach.",
+    "scope": {
+      "level": "county",
+      "county": "Horry County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Income below 30% of Horry County median income",
+      "U.S. citizen or eligible immigration status",
+      "Must not be a registered sex offender; criminal background check required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Closed",
+        "note": "HCV waiting list closed; watch the MBHA site for the next lottery opening"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "No documents needed at pre-application; income and eligibility documents collected if selected"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MBHA housing choice voucher program",
+        "value": "https://mbhaonline.org/housing_programs/housing_choice_voucher_program_(hcv)/index.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing Choice Voucher program (MBHA)",
+        "url": "https://mbhaonline.org/housing_programs/housing_choice_voucher_program_(hcv)/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mbhaonline.org/housing_programs/housing_choice_voucher_program_(hcv)/index.php",
+      "https://mbhaonline.org/applicants/open_waiting_lists.php"
+    ]
+  },
+  {
+    "id": "spartanburg-sparta",
+    "name": "SPARTA Transit",
+    "agency": "City of Spartanburg (SPARTA)",
+    "category": "Transportation",
+    "description": "Spartanburg's fixed-route bus system. Fares: adult $1.25, student/elderly/disabled $0.75, off-peak (9 a.m.–3 p.m. weekdays and Saturdays) $0.50 for elderly/disabled; Medicare cardholders qualify for half-rate fares. Hours: Monday–Friday 6:00 a.m.–6:00 p.m., Saturday 10:00 a.m.–6:00 p.m. Passenger Center: 100 N. Liberty Street.",
+    "scope": {
+      "level": "city",
+      "city": "Spartanburg",
+      "state": "SC"
+    },
+    "eligibility": [
+      "General public",
+      "Reduced fares: students, seniors 65+, people with disabilities, Medicare cardholders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Fare payment",
+      "Photo ID for reduced fare"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SPARTA",
+        "value": "864-562-4287"
+      },
+      {
+        "kind": "web",
+        "label": "SPARTA fares",
+        "value": "https://cityofspartanburg.org/304/Fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SPARTA fares and passes",
+        "url": "https://cityofspartanburg.org/304/Fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cityofspartanburg.org/304/Fares"
+    ]
+  },
+  {
+    "id": "spartanburg-county-libraries",
+    "name": "Spartanburg County Public Libraries Card",
+    "agency": "Spartanburg County Public Libraries (SCPL)",
+    "category": "Education",
+    "description": "Free full-privilege cards for Spartanburg County residents (living in the county at least six months of the year): check out up to 50 items, use e-books and streaming, and request items between branches. Online registration is available for residents 18 and older.",
+    "scope": {
+      "level": "county",
+      "county": "Spartanburg County",
+      "state": "SC"
+    },
+    "eligibility": [
+      "Spartanburg County residents",
+      "Spartanburg County property owners"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time"
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Proof of residency (tax notice, utility bill, rental agreement, or printed checks with local address)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library cards (SCPL)",
+        "value": "https://INFODEPOT.ORG/Using-the-Library/Library-Cards"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library card registration (SCPL)",
+        "url": "https://INFODEPOT.ORG/Using-the-Library/Library-Cards"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://INFODEPOT.ORG/Using-the-Library/Library-Cards"
+    ]
   }
 ]
