@@ -11886,5 +11886,2051 @@
     "languages": [
       "English"
     ]
+  },
+  {
+    "id": "pa-snap",
+    "name": "SNAP — Food Benefits",
+    "agency": "Pennsylvania Department of Human Services (DHS)",
+    "category": "Food",
+    "description": "Monthly food benefits loaded onto an EBT card for eligible low-income Pennsylvania households to buy groceries. Apply online through COMPASS.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Low-income Pennsylvania household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A COMPASS account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Pennsylvania residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS helpline",
+        "value": "1-800-692-7462"
+      },
+      {
+        "kind": "web",
+        "label": "COMPASS",
+        "value": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on COMPASS",
+        "url": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dhs.pa.gov/Services/Assistance/Pages/SNAP.aspx",
+      "https://www.compass.dhs.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "Pennsylvania Department of Health — WIC Program",
+    "category": "Food",
+    "description": "Nutrition education, breastfeeding support, healthy foods, and health-care referrals for pregnant and postpartum women, infants, and children under 5. US citizenship is not required to get WIC.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pregnant, breastfeeding, or postpartum women; infants and children under 5",
+      "Pennsylvania resident with a medical or nutritional risk",
+      "Meets income guidelines",
+      "US citizenship not required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Request a pre-application appointment with a WIC specialist online or by phone"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Pennsylvania residency — the WIC office confirms required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC helpline (1-800-942-9467)",
+        "value": "1-800-942-9467"
+      },
+      {
+        "kind": "web",
+        "label": "WIC pre-application",
+        "value": "https://www.pa.gov/services/health/request-a-pre-application-appointment-with-a-wic-specialist"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Request a pre-application appointment",
+        "url": "https://www.pa.gov/services/health/request-a-pre-application-appointment-with-a-wic-specialist"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pa.gov/services/health/request-a-pre-application-appointment-with-a-wic-specialist"
+    ]
+  },
+  {
+    "id": "pa-medical-assistance",
+    "name": "Medical Assistance (Medicaid)",
+    "agency": "Pennsylvania Department of Human Services (DHS)",
+    "category": "Healthcare",
+    "description": "Free or low-cost health coverage for eligible low-income Pennsylvanians, including children, pregnant women, adults, and people with disabilities. Apply online through COMPASS.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Low-income Pennsylvania resident",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A COMPASS account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Pennsylvania residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Consumer Service Center for Health Care Coverage",
+        "value": "1-866-550-4355"
+      },
+      {
+        "kind": "web",
+        "label": "COMPASS",
+        "value": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on COMPASS",
+        "url": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dhs.pa.gov/Services/Assistance/Pages/Medical-Assistance.aspx",
+      "https://www.compass.dhs.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-cash-assistance",
+    "name": "Cash Assistance (TANF)",
+    "agency": "Pennsylvania Department of Human Services (DHS)",
+    "category": "Money & Taxes",
+    "description": "Monthly cash payments to help eligible low-income Pennsylvania families with children meet basic needs. Apply online through COMPASS.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Low-income Pennsylvania families with children",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A COMPASS account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Pennsylvania residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHS helpline",
+        "value": "1-800-692-7462"
+      },
+      {
+        "kind": "web",
+        "label": "COMPASS",
+        "value": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on COMPASS",
+        "url": "https://www.compass.dhs.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dhs.pa.gov/Services/Assistance/Pages/Cash-Assistance.aspx",
+      "https://www.compass.dhs.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance Program",
+    "agency": "Pennsylvania Department of Human Services (DHS)",
+    "category": "Utilities",
+    "description": "Help paying heating bills for eligible low-income Pennsylvania households, plus crisis grants for heating emergencies. Apply online through COMPASS or at your County Assistance Office.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Low-income Pennsylvania household",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A COMPASS account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, Pennsylvania residency, and heating costs — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIHEAP hotline",
+        "value": "866-857-7095"
+      },
+      {
+        "kind": "web",
+        "label": "LIHEAP information",
+        "value": "https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on COMPASS",
+        "url": "https://www.compass.dhs.pa.gov"
+      },
+      {
+        "label": "LIHEAP program information",
+        "url": "https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap",
+      "https://www.dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx"
+    ]
+  },
+  {
+    "id": "pa-chip",
+    "name": "CHIP — Children's Health Insurance Program",
+    "agency": "Pennsylvania Department of Human Services (DHS)",
+    "category": "Healthcare",
+    "description": "Free or low-cost health, dental, and vision coverage for uninsured Pennsylvania children and teens under 19 who are not eligible for Medical Assistance. Enrollment is open year-round.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Uninsured child or teen under 19",
+      "Pennsylvania resident",
+      "Not eligible for or enrolled in Medical Assistance",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Household income information and Social Security numbers for applicants"
+    ],
+    "whatToBring": [
+      "Proof of income, Social Security numbers, and birthdates for all applicants"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHIP helpline (1-800-986-KIDS)",
+        "value": "1-800-986-5437"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for CHIP",
+        "value": "https://pa.gov/services/dhs/apply-for-childrens-health-insurance-program-chip"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for CHIP",
+        "url": "https://pa.gov/services/dhs/apply-for-childrens-health-insurance-program-chip"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; most kids covered free, others at low cost",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://pa.gov/services/dhs/apply-for-childrens-health-insurance-program-chip"
+    ]
+  },
+  {
+    "id": "pa-pennie",
+    "name": "Pennie — Pennsylvania Health Insurance Marketplace",
+    "agency": "Pennie (Pennsylvania's official health insurance marketplace)",
+    "category": "Healthcare",
+    "description": "Pennsylvania's official marketplace to shop for health and dental plans. It is the only place to get financial assistance to help pay for coverage and out-of-pocket costs.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania resident",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a Pennie account to shop and enroll"
+    ],
+    "whatToBring": [
+      "Household income information and Social Security numbers — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pennie customer service",
+        "value": "1-844-844-8040"
+      },
+      {
+        "kind": "web",
+        "label": "Pennie",
+        "value": "https://pennie.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Shop plans on Pennie",
+        "url": "https://pennie.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to shop; plan premiums vary",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://pennie.com"
+    ]
+  },
+  {
+    "id": "pa-unemployment",
+    "name": "Unemployment Compensation (UC)",
+    "agency": "Pennsylvania Department of Labor & Industry",
+    "category": "Employment",
+    "description": "Temporary income for Pennsylvania workers who lost a job through no fault of their own. File a claim online; weekly claims keep benefits coming.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Lost work through no fault of your own",
+      "Meet PA wage and work requirements",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File an initial claim online at the UC portal"
+    ],
+    "whatToBring": [
+      "Social Security number, employer information, and wage history — the claim form lists what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "UC portal",
+        "value": "https://www.uc.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for unemployment (UC portal)",
+        "url": "https://www.uc.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.uc.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-ptrr",
+    "name": "Property Tax/Rent Rebate Program",
+    "agency": "Pennsylvania Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Annual rebates for eligible Pennsylvania homeowners and renters: adults 65 and older, widows and widowers 50 and older, and people with disabilities 18 and older with household income of $48,110 or less. Must reapply every year.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "65 and older; widows/widowers 50 and older; people with disabilities 18 and older",
+      "Household income of $48,110 or less",
+      "Pennsylvania homeowner or renter"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "label": "Application deadline",
+        "note": "Deadline to apply for a rebate on property taxes or rent paid in 2025; extended to December 31, 2026."
+      }
+    ],
+    "prerequisites": [
+      "Proof of 2025 property taxes paid or rent paid, and income documentation"
+    ],
+    "whatToBring": [
+      "Proof of age or disability, income documents, and property tax or rent receipts"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Property Tax/Rent Rebate Program",
+        "value": "1-888-222-9190"
+      },
+      {
+        "kind": "web",
+        "label": "PTRR program page",
+        "value": "https://www.pa.gov/agencies/revenue/ptrr"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for the Property Tax/Rent Rebate",
+        "url": "https://www.pa.gov/agencies/revenue/ptrr"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pa.gov/agencies/revenue/ptrr"
+    ]
+  },
+  {
+    "id": "pa-drivers-license",
+    "name": "Driver Licenses & ID Cards (PennDOT)",
+    "agency": "Pennsylvania Department of Transportation (PennDOT)",
+    "category": "Transportation",
+    "description": "Driver licenses, REAL ID upgrades, non-driver photo ID cards, and vehicle registration through PennDOT Driver License Centers across Pennsylvania.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania resident",
+      "Varies by credential — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Required identity and residency documents for the credential you want"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by credential; check the PennDOT checklist before visiting a center"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PennDOT driver and vehicle services",
+        "value": "717-412-5300"
+      },
+      {
+        "kind": "web",
+        "label": "PennDOT Driver & Vehicle Services",
+        "value": "https://www.dmv.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PennDOT Driver & Vehicle Services",
+        "url": "https://www.dmv.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by credential",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dmv.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-pheaa",
+    "name": "PHEAA — Student Aid & Grants",
+    "agency": "Pennsylvania Higher Education Assistance Agency (PHEAA)",
+    "category": "Education",
+    "description": "Pennsylvania's student-aid agency: state grants, scholarships, and loan programs for PA residents attending approved colleges, universities, and trade schools.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania resident",
+      "Enrolled at an approved school",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File the FAFSA; PHEAA uses it to determine state grant eligibility"
+    ],
+    "whatToBring": [
+      "FAFSA confirmation and school enrollment details"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "PHEAA",
+        "value": "https://www.pheaa.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PHEAA student aid",
+        "url": "https://www.pheaa.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pheaa.org"
+    ]
+  },
+  {
+    "id": "pa-ovr",
+    "name": "Office of Vocational Rehabilitation (OVR)",
+    "agency": "Pennsylvania Department of Labor & Industry — OVR",
+    "category": "Disability",
+    "description": "Helps Pennsylvanians with disabilities get, keep, and advance in jobs through counseling, training, assistive technology, and job placement services.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania resident with a disability",
+      "Disability creates a barrier to employment",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local OVR district office to open a case"
+    ],
+    "whatToBring": [
+      "Medical or disability documentation — the office confirms what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "OVR program page",
+        "value": "https://www.dli.pa.gov/Individuals/Disability-Services/ovr/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OVR services and district offices",
+        "url": "https://www.dli.pa.gov/Individuals/Disability-Services/ovr/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dli.pa.gov/Individuals/Disability-Services/ovr/Pages/default.aspx"
+    ]
+  },
+  {
+    "id": "pa-able",
+    "name": "PA ABLE — Disability Savings Accounts",
+    "agency": "Pennsylvania Treasury Department",
+    "category": "Disability",
+    "description": "Tax-advantaged savings accounts for Pennsylvanians with disabilities to save for qualified expenses without losing eligibility for benefits like SSI and Medical Assistance.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania resident with a qualifying disability",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Review the PA ABLE disclosure statement before enrolling"
+    ],
+    "whatToBring": [
+      "Identification and disability documentation as required by the enrollment form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PA ABLE",
+        "value": "855-529-2253"
+      },
+      {
+        "kind": "web",
+        "label": "PA ABLE",
+        "value": "https://www.paable.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Open a PA ABLE account",
+        "url": "https://www.paable.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to enroll; account fees vary",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.paable.gov"
+    ]
+  },
+  {
+    "id": "pa-aging-helpline",
+    "name": "PA SeniorLine & Aging Services",
+    "agency": "Pennsylvania Department of Aging",
+    "category": "Seniors",
+    "description": "Connects older Pennsylvanians and their families to aging services: help at home, meals, transportation, Medicare counseling, and elder-abuse reporting via a 24-hour helpline.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvanians age 60 and older and their caregivers",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call the helpline or contact your local Area Agency on Aging"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "24-hour helpline",
+        "value": "1-800-490-8505"
+      },
+      {
+        "kind": "web",
+        "label": "PA Department of Aging",
+        "value": "https://www.aging.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Aging services and local offices",
+        "url": "https://www.aging.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.aging.pa.gov"
+    ]
+  },
+  {
+    "id": "pa-dmva-veterans",
+    "name": "PA Veterans Programs (DMVA)",
+    "agency": "Pennsylvania Department of Military and Veterans Affairs (DMVA)",
+    "category": "Veterans",
+    "description": "State veterans benefits and services: claims assistance, state veterans homes, burial honors, and emergency aid for Pennsylvania veterans and their families.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania veteran or eligible family member",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "DD-214 or other proof of service for most programs"
+    ],
+    "whatToBring": [
+      "DD-214, photo ID, and program-specific documents — call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMVA (toll-free)",
+        "value": "800-547-2838"
+      },
+      {
+        "kind": "phone",
+        "label": "DMVA",
+        "value": "717-861-8910"
+      },
+      {
+        "kind": "web",
+        "label": "DMVA",
+        "value": "https://www.dmva.pa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DMVA veterans programs",
+        "url": "https://www.dmva.pa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dmva.pa.gov",
+      "https://www.pa.gov/agencies/dmva/contact"
+    ]
+  },
+  {
+    "id": "pa-phfa",
+    "name": "PHFA — Homeownership & Rental Help",
+    "agency": "Pennsylvania Housing Finance Agency (PHFA)",
+    "category": "Housing",
+    "description": "Pennsylvania's housing finance agency: affordable mortgages and down-payment help for homebuyers, plus rental assistance resources for renters.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania homebuyer or renter",
+      "Income limits apply — varies by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Varies by program — homebuyer education may be required for some loans"
+    ],
+    "whatToBring": [
+      "Income, employment, and asset documentation — varies by program"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PHFA",
+        "value": "1-800-346-3597"
+      },
+      {
+        "kind": "web",
+        "label": "PHFA",
+        "value": "https://www.phfa.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PHFA programs",
+        "url": "https://www.phfa.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.phfa.org"
+    ]
+  },
+  {
+    "id": "pa-careerlink",
+    "name": "PA CareerLink — Jobs & Training",
+    "agency": "Pennsylvania Department of Labor & Industry",
+    "category": "Employment",
+    "description": "Pennsylvania's statewide job-search and career site: job listings, training, apprenticeships, resume help, and in-person services at PA CareerLink centers. A partner of the American Job Center network.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania job seekers and employers",
+      "Open to all"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a free PA CareerLink account to apply for jobs online"
+    ],
+    "whatToBring": [
+      "Resume and work history for in-person services"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "PA CareerLink",
+        "value": "https://www.pacareerlink.pa.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Search jobs on PA CareerLink",
+        "url": "https://www.pacareerlink.pa.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pacareerlink.pa.gov/"
+    ]
+  },
+  {
+    "id": "pa-legal-aid-network",
+    "name": "Pennsylvania Legal Aid Network",
+    "agency": "Pennsylvania Legal Aid Network (PLAN)",
+    "category": "Legal Aid",
+    "description": "Statewide network of civil legal-aid programs offering free legal help to low-income Pennsylvanians in housing, family, consumer, employment, and public-benefits cases.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Low-income Pennsylvania resident",
+      "Civil (non-criminal) legal issue",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact your regional legal-aid program for intake"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — the intake office confirms what to bring"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "PA Legal Aid Network",
+        "value": "https://palegalaid.net/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find legal aid (PA Legal Aid Network)",
+        "url": "https://palegalaid.net/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://palegalaid.net/"
+    ]
+  },
+  {
+    "id": "pa-sbdc",
+    "name": "PA Small Business Development Centers",
+    "agency": "Pennsylvania Small Business Development Centers (SBDC)",
+    "category": "Small Business",
+    "description": "No-cost consulting and low-cost training for Pennsylvania small businesses and startups: business plans, financing, marketing, and growth strategy.",
+    "scope": {
+      "level": "state",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Pennsylvania small business owner or aspiring entrepreneur",
+      "Open to all"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Request consulting through your regional SBDC center"
+    ],
+    "whatToBring": [
+      "Business plan or financials if you have them — not required for first visit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PA SBDC",
+        "value": "877-472-7232"
+      },
+      {
+        "kind": "web",
+        "label": "PA SBDC",
+        "value": "https://www.pasbdc.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your SBDC center",
+        "url": "https://www.pasbdc.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Consulting is free; some training has a fee",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pasbdc.org/"
+    ]
+  },
+  {
+    "id": "phila-311",
+    "name": "Philly 311 — City Services",
+    "agency": "City of Philadelphia",
+    "category": "Money & Taxes",
+    "description": "Philadelphia's non-emergency contact for city services: report potholes, missed trash, streetlights, and property issues; get info on taxes, water bills, and city programs.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Philadelphia resident, worker, or visitor",
+      "Open to all"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or location of the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Philly 311",
+        "value": "(215) 686-8686"
+      },
+      {
+        "kind": "web",
+        "label": "Philly 311",
+        "value": "https://www.phila.gov/311/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Report an issue to Philly 311",
+        "url": "https://www.phila.gov/311/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.phila.gov/311/"
+    ]
+  },
+  {
+    "id": "phila-phdc",
+    "name": "PHDC — Home Repair & Housing Services",
+    "agency": "Philadelphia Housing Development Corporation (PHDC)",
+    "category": "Housing",
+    "description": "Philadelphia's housing agency: home-repair programs for low-income homeowners, housing counseling, and neighborhood preservation programs.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Philadelphia homeowner",
+      "Income limits apply — varies by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact PHDC or a housing counseling agency to check program availability"
+    ],
+    "whatToBring": [
+      "Proof of ownership, income, and ID — varies by program"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PHDC",
+        "value": "215-448-3000"
+      },
+      {
+        "kind": "web",
+        "label": "PHDC",
+        "value": "https://phdcphila.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PHDC programs",
+        "url": "https://phdcphila.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://phdcphila.org/"
+    ]
+  },
+  {
+    "id": "phila-pha",
+    "name": "Philadelphia Housing Authority (PHA)",
+    "agency": "Philadelphia Housing Authority",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Voucher (Section 8) programs for low-income Philadelphia families, seniors, and people with disabilities.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Low-income Philadelphia household",
+      "Income limits apply — varies by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Join the waitlist when it opens — check PHA for current waitlist status"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and household composition — varies"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PHA",
+        "value": "215-684-4000"
+      },
+      {
+        "kind": "web",
+        "label": "PHA",
+        "value": "https://www.pha.phila.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PHA housing programs",
+        "url": "https://www.pha.phila.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pha.phila.gov"
+    ]
+  },
+  {
+    "id": "phila-septa-senior",
+    "name": "SEPTA Senior Fare Card — Free Senior Transit",
+    "agency": "Southeastern Pennsylvania Transportation Authority (SEPTA)",
+    "category": "Transportation",
+    "description": "Seniors 65 and older ride free on SEPTA transit and Regional Rail within Pennsylvania with a Senior Fare card, funded by the Pennsylvania Lottery. Apply at SEPTA offices or state legislator offices.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Age 65 and older",
+      "Proof of age required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Note: Senior Fare cards showing a 2020 expiration year have not been valid since October 1, 2025 — call SEPTA Access Customer Service at (215) 580-7145, prompt 6, to update your card."
+      }
+    ],
+    "prerequisites": [
+      "Proof of age (driver license, birth certificate, or other accepted ID)"
+    ],
+    "whatToBring": [
+      "Proof of age — PA driver/non-driver license, birth certificate, passport, or other accepted ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SEPTA Access Customer Service (prompt 6 for Senior Fare)",
+        "value": "(215) 580-7145"
+      },
+      {
+        "kind": "web",
+        "label": "SEPTA Senior Fare Card",
+        "value": "https://wwww.septa.org/fares/senior-fare-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SEPTA Senior Fare Card information",
+        "url": "https://wwww.septa.org/fares/senior-fare-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free card; senior rides free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://wwww.septa.org/fares/senior-fare-card/",
+      "https://www.septa.org"
+    ]
+  },
+  {
+    "id": "phila-library",
+    "name": "Free Library of Philadelphia",
+    "agency": "Free Library of Philadelphia",
+    "category": "Education",
+    "description": "Free library cards, books and media, public computers and Wi-Fi, job-search help, and literacy programs at neighborhood branches across Philadelphia.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Get a free library card online or at any branch"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address for a full library card — varies"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Free Library of Philadelphia",
+        "value": "https://www.freelibrary.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free Library of Philadelphia",
+        "url": "https://www.freelibrary.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.freelibrary.org"
+    ]
+  },
+  {
+    "id": "phila-cls",
+    "name": "Community Legal Services of Philadelphia",
+    "agency": "Community Legal Services of Philadelphia (CLS)",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income Philadelphians: housing, employment, public benefits, family law, and consumer cases.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Low-income Philadelphia resident",
+      "Civil legal issue",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit for intake during office hours"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — the intake office confirms what to bring"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CLS Center City office",
+        "value": "215-981-3700"
+      },
+      {
+        "kind": "web",
+        "label": "Community Legal Services",
+        "value": "https://clsphila.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Legal Services of Philadelphia",
+        "url": "https://clsphila.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://clsphila.org"
+    ]
+  },
+  {
+    "id": "phila-health-centers",
+    "name": "Philadelphia City Health Centers",
+    "agency": "Philadelphia Department of Public Health",
+    "category": "Healthcare",
+    "description": "Eight City health centers offering primary care, prenatal care, dental, immunizations, and behavioral health. Any Philadelphia resident can get care; no insurance required for many services.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Philadelphia",
+      "county": "Philadelphia"
+    },
+    "eligibility": [
+      "Philadelphia resident",
+      "Varies by service — call ahead"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call ahead for an appointment or walk-in hours"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance card if you have one — call the center to confirm"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "City health centers",
+        "value": "(215) 685-7504"
+      },
+      {
+        "kind": "web",
+        "label": "City health centers",
+        "value": "https://www.phila.gov/services/mental-physical-health/city-health-centers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City health centers locations and services",
+        "url": "https://www.phila.gov/services/mental-physical-health/city-health-centers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost — varies by service",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.phila.gov/services/mental-physical-health/city-health-centers/"
+    ]
+  },
+  {
+    "id": "pgh-hacp",
+    "name": "Housing Authority of the City of Pittsburgh (HACP)",
+    "agency": "Housing Authority of the City of Pittsburgh",
+    "category": "Housing",
+    "description": "Public housing communities and Housing Choice Voucher (Section 8) assistance for low-income Pittsburgh families, seniors, and people with disabilities.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Pittsburgh",
+      "county": "Allegheny"
+    },
+    "eligibility": [
+      "Low-income Pittsburgh household",
+      "Income limits apply — varies by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply and join the waitlist — check HACP for current waitlist status"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and household composition — varies"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HACP",
+        "value": "412-456-5000"
+      },
+      {
+        "kind": "web",
+        "label": "HACP",
+        "value": "https://hacp.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HACP housing programs",
+        "url": "https://hacp.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://hacp.org/"
+    ]
+  },
+  {
+    "id": "pgh-prt",
+    "name": "Pittsburgh Regional Transit (PRT)",
+    "agency": "Pittsburgh Regional Transit",
+    "category": "Transportation",
+    "description": "Bus, light-rail, and incline transit service across the Pittsburgh region, with reduced-fare programs for seniors, people with disabilities, and students.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Pittsburgh",
+      "county": "Allegheny"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Reduced fares for seniors 65+, riders with disabilities, and students — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Reduced-fare cards require an application and proof of eligibility"
+    ],
+    "whatToBring": [
+      "Proof of age or disability for reduced-fare applications"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "PRT Customer Service",
+        "value": "412-442-2000"
+      },
+      {
+        "kind": "web",
+        "label": "Pittsburgh Regional Transit",
+        "value": "https://www.rideprt.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pittsburgh Regional Transit",
+        "url": "https://www.rideprt.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; reduced fares for eligible riders",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.rideprt.org"
+    ]
+  },
+  {
+    "id": "pgh-pgh2o",
+    "name": "Pittsburgh Water — Customer Assistance Programs",
+    "agency": "Pittsburgh Water (PWSA)",
+    "category": "Utilities",
+    "description": "Customer assistance programs for Pittsburgh Water customers: bill discounts, hardship grants, and payment plans for eligible low-income households.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Pittsburgh",
+      "county": "Allegheny"
+    },
+    "eligibility": [
+      "Pittsburgh Water customer",
+      "Income limits apply — varies by program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Enroll through Pittsburgh Water's customer assistance portal or by phone"
+    ],
+    "whatToBring": [
+      "Proof of income and water account information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pittsburgh Water",
+        "value": "412-255-2423"
+      },
+      {
+        "kind": "web",
+        "label": "Pittsburgh Water",
+        "value": "https://www.pgh2o.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pittsburgh Water customer assistance",
+        "url": "https://www.pgh2o.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.pgh2o.com/"
+    ]
+  },
+  {
+    "id": "allentown-health-bureau",
+    "name": "Allentown Health Bureau",
+    "agency": "City of Allentown — Health Bureau",
+    "category": "Healthcare",
+    "description": "The City of Allentown's public-health agency: clinics, immunizations, disease prevention, and environmental health services for city residents.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Allentown",
+      "county": "Lehigh"
+    },
+    "eligibility": [
+      "Allentown resident",
+      "Varies by service — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit for clinic hours and appointments"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance card if you have one — call to confirm"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "City of Allentown main line",
+        "value": "(610) 439-5999"
+      },
+      {
+        "kind": "web",
+        "label": "City of Allentown",
+        "value": "https://www.allentownpa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Allentown services",
+        "url": "https://www.allentownpa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost — varies by service",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.allentownpa.gov"
+    ]
+  },
+  {
+    "id": "allentown-lanta",
+    "name": "LANTA — Lehigh Valley Transit",
+    "agency": "Lehigh and Northampton Transportation Authority (LANTA)",
+    "category": "Transportation",
+    "description": "Public bus service across Allentown, Bethlehem, Easton, and the Lehigh Valley, including senior, student, and disability fare programs.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Allentown",
+      "county": "Lehigh"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Reduced fares for seniors, students, and riders with disabilities — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Reduced-fare passes require an application and proof of eligibility"
+    ],
+    "whatToBring": [
+      "Proof of age or disability for reduced-fare applications"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LANTA",
+        "value": "https://lantabus.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LANTA bus service and fares",
+        "url": "https://lantabus.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; reduced fares for eligible riders",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://lantabus.com/"
+    ]
+  },
+  {
+    "id": "allentown-npls",
+    "name": "North Penn Legal Services",
+    "agency": "North Penn Legal Services (NPLS)",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for low-income residents of the Lehigh Valley and northeastern Pennsylvania: housing, family, consumer, employment, and benefits cases.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Allentown",
+      "county": "Lehigh"
+    },
+    "eligibility": [
+      "Low-income resident of the NPLS service area",
+      "Civil legal issue",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call to apply by phone or request help online"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — the intake office confirms what to bring"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NPLS intake",
+        "value": "877-953-4250"
+      },
+      {
+        "kind": "web",
+        "label": "North Penn Legal Services",
+        "value": "https://www.nplspa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "North Penn Legal Services",
+        "url": "https://www.nplspa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.nplspa.org/"
+    ]
+  },
+  {
+    "id": "harrisburg-city-services",
+    "name": "City of Harrisburg — Citizen Services",
+    "agency": "City of Harrisburg",
+    "category": "Money & Taxes",
+    "description": "Harrisburg's central contact for city services: taxes, water and trash billing, permits, and reporting neighborhood issues.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Harrisburg resident, worker, or visitor",
+      "Open to all"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Address or account information related to your request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "City of Harrisburg main line",
+        "value": "(717) 255-3040"
+      },
+      {
+        "kind": "web",
+        "label": "City of Harrisburg",
+        "value": "https://harrisburgpa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Harrisburg services",
+        "url": "https://harrisburgpa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://harrisburgpa.gov"
+    ]
+  },
+  {
+    "id": "harrisburg-rabbittransit",
+    "name": "rabbittransit Capital Region",
+    "agency": "rabbittransit (Capital Region, formerly Capital Area Transit)",
+    "category": "Transportation",
+    "description": "Bus and shared-ride paratransit service for the Harrisburg region, covering much of Dauphin County and eastern Cumberland County.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Harrisburg",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Shared-ride paratransit for seniors and riders with disabilities — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Shared-ride service requires advance registration"
+    ],
+    "whatToBring": [
+      "Proof of age or disability for paratransit eligibility — varies"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "rabbittransit",
+        "value": "https://www.rabbittransit.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "rabbittransit routes and shared ride",
+        "url": "https://www.rabbittransit.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; varies by service",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.rabbittransit.org"
+    ]
+  },
+  {
+    "id": "dauphin-county-aging",
+    "name": "Dauphin County Area Agency on Aging",
+    "agency": "Dauphin County",
+    "category": "Seniors",
+    "description": "Dauphin County's aging services: in-home care, meals, transportation, caregiver support, and elder-abuse protective services for residents 60 and older.",
+    "scope": {
+      "level": "county",
+      "state": "PA",
+      "county": "Dauphin"
+    },
+    "eligibility": [
+      "Dauphin County resident age 60+",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Area Agency on Aging for an assessment"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of age and residency — call to confirm"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Dauphin County",
+        "value": "https://www.dauphincounty.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dauphin County human services and aging",
+        "url": "https://www.dauphincounty.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.dauphincounty.gov"
+    ]
+  },
+  {
+    "id": "scranton-colts",
+    "name": "COLTS — County of Lackawanna Transit System",
+    "agency": "County of Lackawanna Transit System (COLTS)",
+    "category": "Transportation",
+    "description": "Public fixed-route bus service across Scranton and Lackawanna County, plus paratransit options for eligible riders.",
+    "scope": {
+      "level": "city",
+      "state": "PA",
+      "city": "Scranton",
+      "county": "Lackawanna"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None for fixed-route service"
+    ],
+    "whatToBring": [
+      "Exact fare or pass — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "COLTS",
+        "value": "(570) 346-2061"
+      },
+      {
+        "kind": "web",
+        "label": "COLTS",
+        "value": "https://coltsbus.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "COLTS bus service",
+        "url": "https://coltsbus.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; varies by service",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://coltsbus.com/"
+    ]
+  },
+  {
+    "id": "lackawanna-county-aging",
+    "name": "Lackawanna County Area Agency on Aging",
+    "agency": "Lackawanna County",
+    "category": "Seniors",
+    "description": "Lackawanna County's aging services: in-home care, senior centers, meals, transportation, and protective services for residents 60 and older.",
+    "scope": {
+      "level": "county",
+      "state": "PA",
+      "county": "Lackawanna"
+    },
+    "eligibility": [
+      "Lackawanna County resident age 60+",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Area Agency on Aging for an assessment"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of age and residency — call to confirm"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lackawanna County",
+        "value": "https://www.lackawannacounty.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lackawanna County human services and aging",
+        "url": "https://www.lackawannacounty.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-18",
+    "sources": [
+      "https://www.lackawannacounty.org"
+    ]
   }
 ]
