@@ -95,6 +95,7 @@ const ROADMAP = [
   { label: "Tennessee", status: "live", note: "34 services indexed" },
   { label: "Indiana", status: "live", note: "38 services indexed" },
   { label: "Maryland", status: "live", note: "32 services indexed" },
+  { label: "Missouri", status: "live", note: "36 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 

@@ -33569,5 +33569,2070 @@
       "Proof of income",
       "Documentation of the qualifying criterion (children, age, or disability)"
     ]
+  },
+  {
+    "agency": "Missouri Department of Social Services (DSS)",
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP",
+        "url": "https://dss.mo.gov/food-assistance/apply-for-snap"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP interview line",
+        "value": "855-823-4908"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for SNAP",
+        "value": "https://dss.mo.gov/food-assistance/apply-for-snap"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Monthly food benefits for low-income Missouri households to buy groceries. Applications are accepted online, by paper, or by phone, and applicants complete an eligibility interview.",
+    "eligibility": [
+      "Missouri residents",
+      "SSN and financial eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "id": "mo-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri SNAP — Food Benefits",
+    "prerequisites": [
+      "None published — apply online, by paper, or by phone"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dss.mo.gov/food-assistance/apply-for-snap"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Social Services (DSS)",
+    "applyLinks": [
+      {
+        "label": "Apply for MO HealthNet",
+        "url": "https://dss.mo.gov/healthcare/apply"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Translation services",
+        "value": "1-855-373-4636"
+      },
+      {
+        "kind": "phone",
+        "label": "Constituent services",
+        "value": "800-392-2161"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for MO HealthNet",
+        "value": "https://dss.mo.gov/healthcare/apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-07-01",
+        "label": "Coverage change effective",
+        "note": "Specified acupuncture, chiropractic, and physical-therapy services under the chronic-pain program, and chiropractic statewide, are no longer covered."
+      },
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enrollment is open year-round."
+      }
+    ],
+    "description": "Missouri's Medicaid program: health coverage for eligible low-income children, parents, seniors, and people with disabilities. STATUS (2026-07-01): coverage stopped for specified acupuncture, chiropractic, and physical-therapy services under the named chronic-pain program, and for chiropractic services statewide.",
+    "eligibility": [
+      "Missouri residents",
+      "Income and household criteria apply",
+      "Varies — see program page"
+    ],
+    "id": "mo-healthnet",
+    "languages": [
+      "English"
+    ],
+    "name": "MO HealthNet — Medicaid",
+    "prerequisites": [
+      "None published — apply online or contact constituent services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dss.mo.gov/healthcare/apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Labor and Industrial Relations",
+    "applyLinks": [
+      {
+        "label": "Unemployment insurance for unemployed workers",
+        "url": "http://labor.mo.gov/unemployed-workers"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Jefferson City",
+        "value": "573-751-9040"
+      },
+      {
+        "kind": "phone",
+        "label": "Kansas City",
+        "value": "816-889-3101"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Louis",
+        "value": "314-340-4950"
+      },
+      {
+        "kind": "phone",
+        "label": "Springfield",
+        "value": "417-895-6851"
+      },
+      {
+        "kind": "phone",
+        "label": "Outside local areas",
+        "value": "800-320-2519"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a claim as soon as you become unemployed."
+      }
+    ],
+    "description": "Weekly benefit payments for Missouri workers who lost their jobs through no fault of their own and meet wage and work-search requirements.",
+    "eligibility": [
+      "Missouri workers with qualifying wages",
+      "Unemployed through no fault of their own",
+      "Must complete work-search activities",
+      "Varies — see program page"
+    ],
+    "id": "mo-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Unemployment Insurance",
+    "prerequisites": [
+      "Gather employer and wage history for the past 18 months"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "http://labor.mo.gov/unemployed-workers"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Social Services (DSS)",
+    "applyLinks": [
+      {
+        "label": "LIHEAP utility assistance",
+        "url": "https://mydss.mo.gov/utility-assistance/liheap"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSS information",
+        "value": "855-373-4636"
+      },
+      {
+        "kind": "web",
+        "label": "LIHEAP program page",
+        "value": "https://mydss.mo.gov/utility-assistance/liheap"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Energy Assistance October–May; winter ECIP November–May; summer ECIP June–September, all subject to funding."
+      }
+    ],
+    "description": "Help with home heating and cooling costs for low-income Missourians. Energy Assistance runs October–May; the Energy Crisis Intervention Program (ECIP) runs November–May (winter) and June–September (summer), subject to funding.",
+    "eligibility": [
+      "Missouri residents",
+      "Income eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "id": "mo-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri LIHEAP — Energy Assistance",
+    "prerequisites": [
+      "Contact your local Community Action Agency or apply via the DSS portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://mydss.mo.gov/utility-assistance/liheap"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Health and Senior Services",
+    "applyLinks": [
+      {
+        "label": "WIC program page",
+        "url": "https://health.mo.gov/families/women-infants-children-wic"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TEL-LINK",
+        "value": "1-800-835-5465"
+      },
+      {
+        "kind": "web",
+        "label": "WIC program page",
+        "value": "https://health.mo.gov/families/women-infants-children-wic"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Nutrition support, breastfeeding education, and food benefits for pregnant and postpartum women, infants, and children up to age 5. Missouri residency and a certification appointment at a local WIC agency are required.",
+    "eligibility": [
+      "Missouri residents",
+      "Pregnant or postpartum women, infants, and children under 5",
+      "Income eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "id": "mo-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri WIC — Women, Infants, and Children",
+    "prerequisites": [
+      "Schedule a certification appointment at a local WIC agency"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://health.mo.gov/families/women-infants-children-wic"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documentation required — see program page; call ahead for your local agency's list"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Social Services (DSS)",
+    "applyLinks": [
+      {
+        "label": "Apply for Temporary Assistance",
+        "url": "https://dss.mo.gov/temporary-assistance/apply"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for Temporary Assistance",
+        "value": "https://dss.mo.gov/temporary-assistance/apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Cash assistance for low-income Missouri families with children to help pay for food, shelter, and other basic needs. Approved recipients must participate in the Missouri Work Assistance program.",
+    "eligibility": [
+      "Low-income Missouri families with children",
+      "Must participate in Missouri Work Assistance once approved",
+      "Varies — see program page"
+    ],
+    "id": "mo-temporary-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Temporary Assistance (TANF)",
+    "prerequisites": [
+      "None published — apply online or contact the Family Support Division"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dss.mo.gov/temporary-assistance/apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Revenue (DOR)",
+    "applyLinks": [
+      {
+        "label": "Driver license information",
+        "url": "https://dor.mo.gov/driver-license/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver license information",
+        "value": "https://dor.mo.gov/driver-license/"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Licenses expire on a cycle; renew before the expiration date on your card."
+      }
+    ],
+    "description": "Driver licenses, permits, non-driver IDs, and license renewals for Missouri residents. The DOR site lists required documents and eligibility by license type.",
+    "eligibility": [
+      "Missouri residents",
+      "Age and document requirements vary by license type",
+      "Varies — see program page"
+    ],
+    "id": "mo-driver-license",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Driver Licensing",
+    "prerequisites": [
+      "Review the required documents checklist for your license type"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dor.mo.gov/driver-license/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents vary by license type — see program page checklist"
+    ]
+  },
+  {
+    "agency": "Missouri Secretary of State",
+    "applyLinks": [
+      {
+        "label": "Business Services filing portal",
+        "url": "https://bsd.sos.mo.gov/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business Services filing portal",
+        "value": "https://bsd.sos.mo.gov/"
+      }
+    ],
+    "cost": "Fees apply — vary by filing",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File when forming a business or when filings are due."
+      }
+    ],
+    "description": "Official online portal to register a business entity, file annual reports, and search business records in Missouri. Creating a portal account requires email confirmation.",
+    "eligibility": [
+      "Anyone registering or managing a Missouri business entity",
+      "Varies — see program page"
+    ],
+    "id": "mo-business-registration",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Business Filings (Secretary of State)",
+    "prerequisites": [
+      "Create a portal account and confirm your email address"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://bsd.sos.mo.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name, registered agent, and entity details — see program page"
+    ]
+  },
+  {
+    "agency": "Missouri Veterans Commission",
+    "applyLinks": [
+      {
+        "label": "Missouri Veterans Commission",
+        "url": "https://mvc.dps.mo.gov/"
+      },
+      {
+        "label": "Veterans benefits portal",
+        "url": "https://veteranbenefits.mo.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Missouri Veterans Commission",
+        "value": "573-751-3779"
+      },
+      {
+        "kind": "email",
+        "label": "Veterans Commission email",
+        "value": "movets@mvc.dps.mo.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans benefits portal",
+        "value": "https://veteranbenefits.mo.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "State veterans benefits and assistance: veterans homes, cemeteries, service-officer help with VA claims, and the veteranbenefits.mo.gov portal.",
+    "eligibility": [
+      "Missouri veterans and eligible dependents",
+      "Varies — see program page"
+    ],
+    "id": "mo-veterans-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Veterans Commission Benefits",
+    "prerequisites": [
+      "None published — contact the Commission or a veterans service officer"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://mvc.dps.mo.gov/",
+      "https://veteranbenefits.mo.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Military discharge papers (DD-214) typically required; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Higher Education & Workforce Development",
+    "applyLinks": [
+      {
+        "label": "Access Missouri program page",
+        "url": "https://dhewd.mo.gov/ppc/grants-scholarships/access-mo"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHEWD student aid",
+        "value": "(800) 473-6757"
+      },
+      {
+        "kind": "web",
+        "label": "Access Missouri program page",
+        "value": "https://dhewd.mo.gov/ppc/grants-scholarships/access-mo"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-02-02",
+        "label": "2026–27 priority deadline",
+        "note": "Passed — cycle closed."
+      },
+      {
+        "date": "2026-04-01",
+        "label": "2026–27 final deadline",
+        "note": "Passed — cycle closed."
+      },
+      {
+        "date": "2026-07-31",
+        "label": "2026–27 correction deadline",
+        "note": "Passed — cycle closed."
+      }
+    ],
+    "description": "Need-based grants for Missouri undergraduate students at approved Missouri schools. There is no separate application — file the FAFSA. STATUS: all 2026–27 deadlines have passed (priority 2026-02-02, final 2026-04-01, correction 2026-07-31); the current cycle is closed.",
+    "eligibility": [
+      "Missouri residents",
+      "Enrolled at an approved Missouri postsecondary school",
+      "FAFSA-based financial need",
+      "Varies — see program page"
+    ],
+    "id": "mo-access-missouri",
+    "languages": [
+      "English"
+    ],
+    "name": "Access Missouri Financial Assistance Program",
+    "prerequisites": [
+      "File the FAFSA — no separate Access Missouri application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dhewd.mo.gov/ppc/grants-scholarships/access-mo"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA materials: tax documents, SSN, school list"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Higher Education & Workforce Development",
+    "applyLinks": [
+      {
+        "label": "Missouri job portal",
+        "url": "https://jobs.mo.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Job center hotline",
+        "value": "1-888-728-5627"
+      },
+      {
+        "kind": "web",
+        "label": "Missouri job portal",
+        "value": "https://jobs.mo.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; services available any time."
+      }
+    ],
+    "description": "No-cost job-seeker services at job centers statewide: job search help, résumé assistance, training programs, and employer connections via jobs.mo.gov.",
+    "eligibility": [
+      "Anyone seeking work in Missouri",
+      "Varies — see program page"
+    ],
+    "id": "mo-job-centers",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Job Centers",
+    "prerequisites": [
+      "Create an account on jobs.mo.gov to access full services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://jobs.mo.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Health and Senior Services",
+    "applyLinks": [
+      {
+        "label": "Senior Resource Line page",
+        "url": "https://health.mo.gov/partners-providers/area-agencies-aging/missouri-senior-resource-line"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Senior resource line (unverified)",
+        "value": "1-800-235-5503"
+      },
+      {
+        "kind": "web",
+        "label": "Senior Resource Line page",
+        "value": "https://health.mo.gov/partners-providers/area-agencies-aging/missouri-senior-resource-line"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; call any time."
+      }
+    ],
+    "description": "Referrals to local Area Agencies on Aging and senior services by ZIP code for older Missourians and their caregivers.",
+    "eligibility": [
+      "Older Missourians and their caregivers",
+      "Varies — see program page"
+    ],
+    "id": "mo-senior-resource-line",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Senior Resource Line",
+    "prerequisites": [
+      "None — call or use the online referral"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://health.mo.gov/partners-providers/area-agencies-aging/missouri-senior-resource-line"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your ZIP code to find local services"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Elementary and Secondary Education (DESE)",
+    "applyLinks": [
+      {
+        "label": "Child care subsidy — families",
+        "url": "https://dese.mo.gov/childhood/child-care-subsidy/families"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child care subsidy",
+        "value": "573-415-8605"
+      },
+      {
+        "kind": "web",
+        "label": "Child care subsidy — families",
+        "value": "https://dese.mo.gov/childhood/child-care-subsidy/families"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Help paying for child care for eligible low-income Missouri families. Families must report changes in household circumstances within ten calendar days.",
+    "eligibility": [
+      "Missouri families meeting income and work/education criteria",
+      "Report changes within ten calendar days",
+      "Varies — see program page"
+    ],
+    "id": "mo-child-care-subsidy",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Child Care Subsidy",
+    "prerequisites": [
+      "None published — apply via the program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dese.mo.gov/childhood/child-care-subsidy/families"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, employment, and child care provider documentation — call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Elementary and Secondary Education (DESE)",
+    "applyLinks": [
+      {
+        "label": "VR frequently asked questions",
+        "url": "https://dese.mo.gov/adult-learning-rehabilitation-services/vocational-rehabilitation/vr-frequently-asked-questions-faq"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Client Assistance Program (CAP)",
+        "value": "1-800-392-8667"
+      },
+      {
+        "kind": "web",
+        "label": "VR frequently asked questions",
+        "value": "https://dese.mo.gov/adult-learning-rehabilitation-services/vocational-rehabilitation/vr-frequently-asked-questions-faq"
+      }
+    ],
+    "cost": "Free — some services may involve cost based on income/resources",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Employment services for people whose physical or mental impairment creates a barrier to work and who need VR services to prepare for, obtain, or keep a job. A valid work permit is required, but citizenship is not. Some services may involve cost based on income and resources.",
+    "eligibility": [
+      "Physical or mental impairment creating an employment barrier",
+      "Need VR services to prepare for, obtain, or keep employment",
+      "Valid work permit required; citizenship not required",
+      "Some services may have cost based on income/resources",
+      "Varies — see program page"
+    ],
+    "id": "mo-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Vocational Rehabilitation",
+    "prerequisites": [
+      "Contact a local VR office to start the application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dese.mo.gov/adult-learning-rehabilitation-services/vocational-rehabilitation/vr-frequently-asked-questions-faq"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Medical and employment documentation — call ahead"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Revenue (DOR)",
+    "applyLinks": [
+      {
+        "label": "Property Tax Credit program page",
+        "url": "https://dor.mo.gov/personal/ptc/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Property Tax Credit program page",
+        "value": "https://dor.mo.gov/personal/ptc/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File with your Missouri return; see program page."
+      }
+    ],
+    "description": "Property tax credit (\"circuit breaker\") for certain seniors and people who are 100% disabled. The maximum credit is $750 for renters and $1,100 for qualifying owner-occupants. Renters in facilities that do not pay property tax are not eligible.",
+    "eligibility": [
+      "Certain seniors and people who are 100% disabled",
+      "Renters and owner-occupants; maximum $750 renters / $1,100 owners",
+      "Renters in facilities that do not pay property tax are ineligible",
+      "Varies — see program page"
+    ],
+    "id": "mo-property-tax-credit",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri Property Tax Credit (Circuit Breaker)",
+    "prerequisites": [
+      "None published — file via the DOR program page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://dor.mo.gov/personal/ptc/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age/disability, rent receipts or property tax records"
+    ]
+  },
+  {
+    "agency": "Missouri Department of Commerce and Insurance (federally funded)",
+    "applyLinks": [
+      {
+        "label": "Request counseling online",
+        "url": "https://www.missouriship.org/contact-us/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Missouri SHIP contact center",
+        "value": "1-800-390-3330"
+      },
+      {
+        "kind": "web",
+        "label": "Request counseling online",
+        "value": "https://www.missouriship.org/contact-us/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; busiest season is October 1–December 7."
+      }
+    ],
+    "description": "Free, unbiased, confidential Medicare counseling and education from trained volunteer counselors statewide. Renamed from Missouri CLAIM to Missouri SHIP in 2023. Counselors return online contact-form requests in 2–5 business days.",
+    "eligibility": [
+      "People with Medicare and their caregivers in Missouri",
+      "Varies — see program page"
+    ],
+    "id": "mo-ship",
+    "languages": [
+      "English"
+    ],
+    "name": "Missouri SHIP — Medicare Counseling",
+    "prerequisites": [
+      "None — call or submit the contact form"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "MO"
+    },
+    "sources": [
+      "https://missouriship.org/",
+      "https://www.missouriship.org/contact-us/",
+      "https://www.missouriship.org/about/community-partners/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your Medicare card and current plan/medication information"
+    ]
+  },
+  {
+    "agency": "City of Kansas City, Missouri",
+    "applyLinks": [
+      {
+        "label": "Kansas City 311",
+        "url": "https://www.kcmo.gov/city-hall/311"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kansas City 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Outside city limits",
+        "value": "816-513-1313"
+      },
+      {
+        "kind": "web",
+        "label": "Kansas City 311",
+        "value": "https://www.kcmo.gov/city-hall/311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; report issues any time."
+      }
+    ],
+    "description": "Kansas City's 311 service for reporting and tracking city-service issues such as potholes, illegal dumping, and missed trash. Interpretation services are available.",
+    "eligibility": [
+      "Anyone reporting an issue within Kansas City, MO",
+      "Varies — see program page"
+    ],
+    "id": "kc-311",
+    "languages": [
+      "English",
+      "Other languages via interpretation"
+    ],
+    "name": "KCMO 311 — City Services",
+    "prerequisites": [
+      "None — call, text, or report online"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.kcmo.gov/city-hall/311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The address or location of the issue"
+    ]
+  },
+  {
+    "agency": "Kansas City Area Transportation Authority (KCATA)",
+    "applyLinks": [
+      {
+        "label": "RideKC fares and reduced fare",
+        "url": "https://ridekc.org/fares"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RideKC fares and reduced fare",
+        "value": "https://ridekc.org/fares"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": "2026-06-01",
+        "label": "Fares returned",
+        "note": "Full fares returned June 1, 2026; reduced-fare program applies."
+      },
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reduced-fare applications accepted any time."
+      }
+    ],
+    "description": "Reduced-fare program for eligible riders on RideKC buses in the Kansas City metro. Eligible groups include youth ages 6–18, seniors 65+, Medicare holders, qualifying low-income-program recipients, and people with disabilities. Full fares returned June 1, 2026 after the fare-free period.",
+    "eligibility": [
+      "Ages 6–18",
+      "Age 65+",
+      "Medicare holders",
+      "Qualifying low-income-program recipients",
+      "People with disabilities",
+      "Varies — see program page"
+    ],
+    "id": "kc-ridekc-reduced-fare",
+    "languages": [
+      "English"
+    ],
+    "name": "RideKC Reduced Fare",
+    "prerequisites": [
+      "Apply for reduced-fare status with proof of eligibility category"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://ridekc.org/fares"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age, disability, Medicare status, or program participation"
+    ]
+  },
+  {
+    "agency": "Kansas City Public Library",
+    "applyLinks": [
+      {
+        "label": "Library cards and signup",
+        "url": "https://kclibrary.org/services/library-cards"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library information",
+        "value": "816.701.3400"
+      },
+      {
+        "kind": "web",
+        "label": "Library cards and signup",
+        "value": "https://kclibrary.org/services/library-cards"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; sign up any time."
+      }
+    ],
+    "description": "Free Kansas City Public Library cards with instant online signup. Full borrowing access is available to metropolitan Kansas City residents; in-person ID and address verification expands checkout limits.",
+    "eligibility": [
+      "Metropolitan Kansas City residents",
+      "Varies — see program page"
+    ],
+    "id": "kc-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Kansas City Public Library Card",
+    "prerequisites": [
+      "Sign up online instantly; visit a branch for full access"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://kclibrary.org/services/library-cards"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of address for in-person full access"
+    ]
+  },
+  {
+    "agency": "Legal Aid of Western Missouri",
+    "applyLinks": [
+      {
+        "label": "Get legal help",
+        "url": "https://lawmo.org/get-legal-help/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid intake",
+        "value": "816-474-6750"
+      },
+      {
+        "kind": "web",
+        "label": "Get legal help",
+        "value": "https://lawmo.org/get-legal-help/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Free civil legal help for low-income and elderly residents across 40 counties in western Missouri, including Kansas City. Handles housing, family, consumer, benefits, and other civil matters — not criminal cases.",
+    "eligibility": [
+      "Low-income and elderly residents of 40 western Missouri counties",
+      "Civil matters only",
+      "Varies — see program page"
+    ],
+    "id": "kc-legal-aid-western-missouri",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid of Western Missouri",
+    "prerequisites": [
+      "None published — call intake or start online"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://lawmo.org/get-legal-help/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation and details of your legal issue"
+    ]
+  },
+  {
+    "agency": "City of St. Louis",
+    "applyLinks": [
+      {
+        "label": "St. Louis 311 service",
+        "url": "https://www.stlouis-mo.gov/government/departments/public-safety/news/city-celebrates-311.cfm"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "St. Louis 311 (inside city)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Outside city limits",
+        "value": "314-622-4800"
+      },
+      {
+        "kind": "web",
+        "label": "St. Louis 311 service",
+        "value": "https://www.stlouis-mo.gov/government/departments/public-safety/news/city-celebrates-311.cfm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; report issues any time."
+      }
+    ],
+    "description": "St. Louis's 311 Citizens' Service Bureau for reporting city-service issues such as potholes, missed trash, and property problems.",
+    "eligibility": [
+      "Anyone reporting an issue within the City of St. Louis",
+      "Varies — see program page"
+    ],
+    "id": "stl-311",
+    "languages": [
+      "English"
+    ],
+    "name": "St. Louis 311 — Citizens' Service Bureau",
+    "prerequisites": [
+      "None — call or report online"
+    ],
+    "scope": {
+      "city": "St. Louis",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.stlouis-mo.gov/government/departments/public-safety/news/city-celebrates-311.cfm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The address or location of the issue"
+    ]
+  },
+  {
+    "agency": "Bi-State Development / Metro Transit",
+    "applyLinks": [
+      {
+        "label": "Metro reduced fare program",
+        "url": "https://www.metrostlouis.org/reduced-fare-program/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metro transit information",
+        "value": "314.982.1510"
+      },
+      {
+        "kind": "web",
+        "label": "Metro reduced fare program",
+        "value": "https://www.metrostlouis.org/reduced-fare-program/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "ADA paratransit card transition",
+        "note": "Red ADA paratransit cards stop being accepted September 30, 2026; eligible riders need the replacement card."
+      },
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reduced-fare applications accepted any time."
+      }
+    ],
+    "description": "Reduced fares on Metro buses and light rail in the St. Louis region for seniors 65+, people with disabilities, and Medicare ID holders. STATUS: red ADA paratransit cards stop being accepted September 30, 2026.",
+    "eligibility": [
+      "Seniors 65+",
+      "People with disabilities",
+      "Medicare ID holders",
+      "Varies — see program page"
+    ],
+    "id": "stl-metro-reduced-fare",
+    "languages": [
+      "English"
+    ],
+    "name": "Metro Transit Reduced Fares (St. Louis)",
+    "prerequisites": [
+      "Apply for the reduced-fare program with eligibility proof"
+    ],
+    "scope": {
+      "city": "St. Louis",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.metrostlouis.org/reduced-fare-program/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age, disability, or Medicare status"
+    ]
+  },
+  {
+    "agency": "Legal Services of Eastern Missouri",
+    "applyLinks": [
+      {
+        "label": "Get help now",
+        "url": "https://lsem.org/get-help-now/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Toll-free intake",
+        "value": "800.444.0514"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Louis intake",
+        "value": "314.534.4200"
+      },
+      {
+        "kind": "web",
+        "label": "Get help now",
+        "value": "https://lsem.org/get-help-now/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone intake Monday, Wednesday, and Thursday, 9:00 AM–1:00 PM; messages taken 1:00–5:00 PM."
+      }
+    ],
+    "description": "Free civil legal help for low-income St. Louis-area residents: housing, consumer, family, public benefits, education, immigration, and elder law. Does not handle personal injury, traffic, bankruptcy, or criminal cases; family cases generally require domestic violence or abuse.",
+    "eligibility": [
+      "Low-income residents of eastern Missouri",
+      "Civil matters only; family cases generally require domestic violence/abuse",
+      "Varies — see program page"
+    ],
+    "id": "stl-lsem",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Services of Eastern Missouri",
+    "prerequisites": [
+      "Have household income/assets and any summons or court details ready"
+    ],
+    "scope": {
+      "city": "St. Louis",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://lsem.org/get-help-now/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Household income/asset information and summons or court details"
+    ]
+  },
+  {
+    "agency": "Legal Services of Southern Missouri",
+    "applyLinks": [
+      {
+        "label": "How to apply",
+        "url": "https://www.lsosm.org/applicants/"
+      },
+      {
+        "label": "Contact LSOSM",
+        "url": "https://www.lsosm.org/contact-us/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LSOSM Springfield",
+        "value": "(417) 881-1397"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "(800) 444-4863"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply",
+        "value": "https://www.lsosm.org/applicants/"
+      }
+    ],
+    "cost": "Free — clients may owe court costs",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Free civil legal representation for eligible low-income and elderly people in 43 southern Missouri counties, including Springfield. Clients are responsible for any court costs.",
+    "eligibility": [
+      "Low-income and elderly residents of southern Missouri",
+      "Civil matters only",
+      "Varies — see program page"
+    ],
+    "id": "sgf-lsosm",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Services of Southern Missouri",
+    "prerequisites": [
+      "None published — call or apply online"
+    ],
+    "scope": {
+      "city": "Springfield",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.lsosm.org/applicants/",
+      "https://www.lsosm.org/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation and details of your legal issue"
+    ]
+  },
+  {
+    "agency": "Ozarks Area Community Action Corporation (OACAC)",
+    "applyLinks": [
+      {
+        "label": "OACAC LIHEAP energy programs",
+        "url": "https://oac.ac/liheap-energy-programs/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OACAC (unverified)",
+        "value": "(417) 864-3460"
+      },
+      {
+        "kind": "web",
+        "label": "OACAC LIHEAP energy programs",
+        "value": "https://oac.ac/liheap-energy-programs/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Priority start — 60+ / disability",
+        "note": "Applications open October 1 for residents age 60+ or with disabilities."
+      },
+      {
+        "date": "2026-11-01",
+        "label": "General start",
+        "note": "Applications open November 1 for all other residents."
+      },
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Energy Assistance October–May; winter ECIP November–May; summer ECIP June–September, subject to funding."
+      }
+    ],
+    "description": "Local administrator of Missouri LIHEAP for the Ozarks region around Springfield. Applications open October 1 for residents age 60+ or with disabilities and November 1 for all others. ECIP requires a utility disconnect notice.",
+    "eligibility": [
+      "Residents of OACAC's service area",
+      "Income eligibility rules apply",
+      "ECIP requires a utility disconnect notice",
+      "Varies — see program page"
+    ],
+    "id": "sgf-oacac-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "OACAC LIHEAP — Ozarks Energy Assistance",
+    "prerequisites": [
+      "None published — call OACAC to schedule or apply"
+    ],
+    "scope": {
+      "city": "Springfield",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://oac.ac/liheap-energy-programs/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation, utility bill, and disconnect notice for ECIP"
+    ]
+  },
+  {
+    "agency": "City of Columbia, Missouri",
+    "applyLinks": [
+      {
+        "label": "City Manager's Office — contact",
+        "url": "https://www.como.gov/departments/city-managers-office/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Columbia contact center",
+        "value": "573.874.2489"
+      },
+      {
+        "kind": "web",
+        "label": "City Manager's Office — contact",
+        "value": "https://www.como.gov/departments/city-managers-office/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; contact any time."
+      }
+    ],
+    "description": "Columbia's general contact center for city services and information. Note: 311 in Columbia reaches non-emergency police, not the general city contact line — use the contact center instead.",
+    "eligibility": [
+      "Anyone with a question or issue in Columbia",
+      "Varies — see program page"
+    ],
+    "id": "como-contact-center",
+    "languages": [
+      "English"
+    ],
+    "name": "Columbia Contact Center",
+    "prerequisites": [
+      "None — call or use the online contact form"
+    ],
+    "scope": {
+      "city": "Columbia",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.como.gov/departments/city-managers-office/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The address or location of the issue, if reporting one"
+    ]
+  },
+  {
+    "agency": "Go COMO Transit (City of Columbia)",
+    "applyLinks": [
+      {
+        "label": "Go COMO rider guide",
+        "url": "https://www.gocomotransit.com/riderguide/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "City contact center",
+        "value": "573.874.2489"
+      },
+      {
+        "kind": "web",
+        "label": "Go COMO rider guide",
+        "value": "https://www.gocomotransit.com/riderguide/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "Fare suspension ends",
+        "note": "Fares suspended since March 2020; current city ordinance suspends fares through September 30, 2026."
+      }
+    ],
+    "description": "Fare-free fixed-route bus and ADA paratransit service in Columbia. Fares have been suspended since March 2020, and a city ordinance extends the fare suspension through September 30, 2026. Rider assistance is available in Spanish, French, Chinese, Korean, and Japanese.",
+    "eligibility": [
+      "Anyone riding Go COMO transit",
+      "Varies — see program page"
+    ],
+    "id": "como-gocomo",
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Chinese",
+      "Korean",
+      "Japanese"
+    ],
+    "name": "Go COMO Transit (Fare-Free)",
+    "prerequisites": [
+      "None — ride any route; ADA paratransit requires an application"
+    ],
+    "scope": {
+      "city": "Columbia",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.gocomotransit.com/riderguide/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "None for fixed routes; documentation for ADA paratransit application"
+    ]
+  },
+  {
+    "agency": "Housing Authority of the City of Columbia, Missouri",
+    "applyLinks": [
+      {
+        "label": "Columbia Housing Authority",
+        "url": "https://columbiaha.com/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHA office",
+        "value": "(573) 443-2556"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY relay",
+        "value": "(800) 735-2966"
+      },
+      {
+        "kind": "web",
+        "label": "Columbia Housing Authority",
+        "value": "https://columbiaha.com/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "HCV waitlist closed",
+        "note": "Section 8 (HCV) waitlist closed since late 2024; no HCV applications during calendar 2026; no plans to open until 2027."
+      }
+    ],
+    "description": "Affordable housing for low-income families and individuals in Columbia and Boone County, including Housing Choice Vouchers and public housing. STATUS: the Section 8 (HCV) waitlist has been closed since late 2024, no HCV applications are accepted during calendar 2026, and CHA has no current plans to open the waitlist until 2027.",
+    "eligibility": [
+      "Low-income families and individuals in Columbia and Boone County",
+      "Income eligibility rules apply",
+      "Waitlist status varies by program — HCV closed",
+      "Varies — see program page"
+    ],
+    "id": "como-cha",
+    "languages": [
+      "English"
+    ],
+    "name": "Columbia Housing Authority",
+    "prerequisites": [
+      "Check current waitlist status before applying"
+    ],
+    "scope": {
+      "city": "Columbia",
+      "level": "city",
+      "state": "MO"
+    },
+    "sources": [
+      "https://columbiaha.com/",
+      "https://columbiaha.com/wp-content/uploads/2026/02/Website-2.18.2026-Board-Report.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, household, and identity documentation — call ahead"
+    ]
+  },
+  {
+    "agency": "Mid-Missouri Legal Services",
+    "applyLinks": [
+      {
+        "label": "How to apply",
+        "url": "https://www.mmls.org/our-services/apply/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Columbia office",
+        "value": "(573) 442-0116"
+      },
+      {
+        "kind": "phone",
+        "label": "Jefferson City office",
+        "value": "(573) 634-4545"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-568-4931"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply",
+        "value": "https://www.mmls.org/our-services/apply/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone applications Monday–Friday, 9:00 AM–2:30 PM."
+      }
+    ],
+    "description": "Free civil legal help for eligible low-income residents of mid-Missouri, including Boone County and Columbia. Civil cases only, subject to available resources. Interpreter services are available by request.",
+    "eligibility": [
+      "Low-income residents of mid-Missouri",
+      "Civil cases only, subject to available resources",
+      "Varies — see program page"
+    ],
+    "id": "boone-mmls",
+    "languages": [
+      "English",
+      "Interpreter services available by request"
+    ],
+    "name": "Mid-Missouri Legal Services",
+    "prerequisites": [
+      "Have household income/assets and any summons or court details ready"
+    ],
+    "scope": {
+      "county": "Boone",
+      "level": "county",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.mmls.org/our-services/apply/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Household income/asset information and summons or court details"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration",
+    "applyLinks": [
+      {
+        "label": "Apply for benefits online",
+        "url": "https://www.ssa.gov/apply"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SSA national line",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-325-0778"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for benefits online",
+        "value": "https://www.ssa.gov/apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "Federal retirement, disability (SSDI), survivors, spouse, Medicare, and limited Supplemental Security Income (SSI) applications online. Missouri has Social Security offices statewide; benefit information is available in many languages.",
+    "eligibility": [
+      "Based on age, disability, work history, or survivor status",
+      "SSI has income and resource limits",
+      "Varies — see program page"
+    ],
+    "id": "fed-ssa",
+    "languages": [
+      "English",
+      "Spanish",
+      "Other languages available"
+    ],
+    "name": "Social Security Benefits (SSA)",
+    "prerequisites": [
+      "Create or use a my Social Security account to file online"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.ssa.gov/apply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number, birth certificate, tax and earnings records — see program page"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "VA facility locator",
+        "url": "https://www.va.gov/directory/guide/"
+      },
+      {
+        "label": "Missouri substance use disorder programs",
+        "url": "https://www.va.gov/DIRECTORY/GUIDE/state_SUD.cfm?STATE=MO"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kansas City VA Medical Center",
+        "value": "816-861-4700"
+      },
+      {
+        "kind": "phone",
+        "label": "St. Louis (John Cochran) VA",
+        "value": "314-652-4100"
+      },
+      {
+        "kind": "phone",
+        "label": "Columbia (Harry S. Truman) VA",
+        "value": "573-814-6000"
+      },
+      {
+        "kind": "phone",
+        "label": "Poplar Bluff (John J. Pershing) VA",
+        "value": "573-686-4151"
+      },
+      {
+        "kind": "web",
+        "label": "VA facility locator",
+        "value": "https://www.va.gov/directory/guide/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "description": "VA health care and benefits for eligible Missouri veterans at VA medical centers in Kansas City, St. Louis, Columbia, and Poplar Bluff, plus outpatient clinics and Vet Centers statewide.",
+    "eligibility": [
+      "Eligible veterans, and in some cases spouses and dependents",
+      "Enrollment criteria vary by program",
+      "Varies — see program page"
+    ],
+    "id": "fed-va-missouri",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Health Care & Benefits — Missouri",
+    "prerequisites": [
+      "Enroll in VA health care online or at a Missouri VA facility"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.va.gov/directory/guide/",
+      "https://www.va.gov/DIRECTORY/GUIDE/state_SUD.cfm?STATE=MO"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 and income information for health care enrollment — see program page"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration — Kansas City District",
+    "applyLinks": [
+      {
+        "label": "SBA Kansas City District",
+        "url": "https://www.sba.gov/district/kansas-city"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA Kansas City District",
+        "value": "https://www.sba.gov/district/kansas-city"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; services available any time."
+      }
+    ],
+    "description": "SBA office serving 61 counties in western Missouri and 28 counties in eastern Kansas, with offices in Kansas City and Springfield. Services: funding programs, business counseling, federal contracting certifications, and disaster recovery.",
+    "eligibility": [
+      "Small businesses in the district's service area",
+      "Varies — see program page"
+    ],
+    "id": "fed-sba-kansas-city",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA Kansas City District Office",
+    "prerequisites": [
+      "None — contact the office or a local resource partner"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.sba.gov/district/kansas-city"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business plan and financial documents — varies by program"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration — St. Louis District",
+    "applyLinks": [
+      {
+        "label": "SBA St. Louis District",
+        "url": "https://www.sba.gov/district/st-louis"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA St. Louis District",
+        "value": "314-539-6600"
+      },
+      {
+        "kind": "web",
+        "label": "SBA St. Louis District",
+        "value": "https://www.sba.gov/district/st-louis"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; services available any time."
+      }
+    ],
+    "description": "SBA office serving 53 counties in eastern Missouri and the City of St. Louis. Open Monday–Friday, 8:00 AM–4:30 PM at 1222 Spruce St., Suite 10.103. Services: funding programs, business counseling, federal contracting certifications, and disaster recovery.",
+    "eligibility": [
+      "Small businesses in the district's service area",
+      "Varies — see program page"
+    ],
+    "id": "fed-sba-st-louis",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA St. Louis District Office",
+    "prerequisites": [
+      "None — contact the office or a local resource partner"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.sba.gov/district/st-louis"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business plan and financial documents — varies by program"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "applyLinks": [
+      {
+        "label": "HUD in Missouri",
+        "url": "https://www.hud.gov/states/missouri/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD-approved housing counselor",
+        "value": "(800) 569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "Public housing authority locator",
+        "value": "(800) 955-2232"
+      },
+      {
+        "kind": "phone",
+        "label": "Fair housing complaint",
+        "value": "1-800-669-9777"
+      },
+      {
+        "kind": "web",
+        "label": "HUD in Missouri",
+        "value": "https://www.hud.gov/states/missouri/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; call any time."
+      }
+    ],
+    "description": "Federal housing help for Missouri residents: HUD-approved housing counseling, public housing authority and apartment locators, homelessness resources via 211, and fair-housing complaint intake. The HUD Resource Locator does not show vacancies and does not maintain waitlists.",
+    "eligibility": [
+      "Anyone seeking housing help in Missouri",
+      "Some programs have income limits",
+      "Varies — see program page"
+    ],
+    "id": "fed-hud-missouri",
+    "languages": [
+      "English"
+    ],
+    "name": "HUD Housing Help — Missouri",
+    "prerequisites": [
+      "None — call the relevant line or use the locator tools"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.hud.gov/states/missouri/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income and household information — varies by program"
+    ]
+  },
+  {
+    "agency": "U.S. Citizenship and Immigration Services (USCIS)",
+    "applyLinks": [
+      {
+        "label": "Kansas City Application Support Center",
+        "url": "https://www.uscis.gov/about-us/MO/Kansas-City"
+      }
+    ],
+    "category": "Immigration",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "USCIS Contact Center",
+        "value": "800-375-5283"
+      },
+      {
+        "kind": "phone",
+        "label": "USCIS TTY",
+        "value": "800-767-1833"
+      },
+      {
+        "kind": "web",
+        "label": "Kansas City Application Support Center",
+        "value": "https://www.uscis.gov/about-us/MO/Kansas-City"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; appointments are scheduled by USCIS."
+      }
+    ],
+    "description": "Scheduled biometrics appointments (fingerprints, photos, and electronic signatures) for USCIS benefit requests at the Kansas City center. Applicants must wait for their appointment notice — no direct filings. Bring the appointment notice and valid unexpired photo ID. Reschedule through your USCIS account or by phone at least 12 hours before the appointment.",
+    "eligibility": [
+      "Applicants with a scheduled USCIS biometrics appointment",
+      "Varies — see program page"
+    ],
+    "id": "fed-uscis-kansas-city",
+    "languages": [
+      "English"
+    ],
+    "name": "USCIS Kansas City Application Support Center",
+    "prerequisites": [
+      "Wait for the USCIS appointment notice — no walk-in filings"
+    ],
+    "scope": {
+      "city": "Kansas City",
+      "level": "federal",
+      "state": "MO"
+    },
+    "sources": [
+      "https://www.uscis.gov/about-us/MO/Kansas-City"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Appointment notice and valid unexpired photo ID"
+    ]
   }
 ]
