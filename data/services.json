@@ -49120,5 +49120,1903 @@
     "sources": [
       "https://calcasieulibrary.org/faq"
     ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Community Based Services (DCBS)",
+    "applyLinks": [
+      {
+        "label": "Apply through kynect",
+        "url": "https://kynect.ky.gov/"
+      },
+      {
+        "label": "SNAP program page",
+        "url": "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "kynect benefits line",
+        "value": "855-306-8959"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP program page",
+        "value": "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Monthly food benefits on an EBT card for low-income Kentucky households. Kentucky also runs SAFE, a simplified SNAP application process for SSI recipients age 60 or older. Apply through kynect or call 855-306-8959; an eligibility interview is required.",
+    "eligibility": [
+      "Kentucky residents",
+      "Households meeting SNAP income and asset rules (SAFE: SSI recipients age 60 or older)"
+    ],
+    "id": "ky-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "SNAP — Supplemental Nutrition Assistance Program (includes SAFE)",
+    "prerequisites": [
+      "Create a kynect account or apply by phone",
+      "Complete an eligibility interview"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx",
+      "https://kynect.ky.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of residency and household expenses"
+    ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Medicaid Services (DMS)",
+    "applyLinks": [
+      {
+        "label": "Apply through kynect",
+        "url": "https://kynect.ky.gov/"
+      },
+      {
+        "label": "Kentucky Medicaid page",
+        "url": "https://www.chfs.ky.gov/agencies/dms/pages/default.aspx"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "kynect plan-change line",
+        "value": "855-459-6328"
+      },
+      {
+        "kind": "web",
+        "label": "Kentucky Medicaid page",
+        "value": "https://www.chfs.ky.gov/agencies/dms/pages/default.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; report coverage changes (including managed care plan changes) through kynect."
+      }
+    ],
+    "description": "Health coverage for low-income Kentucky residents through Kentucky Medicaid. Anthem stopped serving as a Kentucky Medicaid managed care organization effective January 1, 2025; affected members were assigned to Humana or UnitedHealthcare and can change plans through kynect at 855-459-6328.",
+    "eligibility": [
+      "Kentucky residents",
+      "People meeting Kentucky Medicaid income and household rules"
+    ],
+    "id": "ky-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "Kentucky Medicaid",
+    "prerequisites": [
+      "Apply through kynect"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dms/pages/default.aspx",
+      "https://www.chfs.ky.gov/agencies/dms/pages/anthemtransition.aspx",
+      "https://kynect.ky.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Kentucky residency",
+      "Immigration documents if applicable"
+    ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Community Based Services (DCBS)",
+    "applyLinks": [
+      {
+        "label": "KTAP program page",
+        "url": "https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx"
+      },
+      {
+        "label": "Apply through kynect",
+        "url": "https://kynect.ky.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "kynect benefits line",
+        "value": "855-306-8959"
+      },
+      {
+        "kind": "web",
+        "label": "KTAP program page",
+        "value": "https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Monthly cash assistance for low-income Kentucky families with dependent children. The official program page states a 60-month lifetime limit. Apply through DCBS, kynect, or call 855-306-8959.",
+    "eligibility": [
+      "Low-income Kentucky families with dependent children",
+      "Applicants meeting DCBS financial and work-participation rules"
+    ],
+    "id": "ky-ktap",
+    "languages": [
+      "English"
+    ],
+    "name": "KTAP — Kentucky Transitional Assistance Program",
+    "prerequisites": [
+      "Apply through kynect, by phone, or at a DCBS office",
+      "Complete an eligibility interview"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx",
+      "https://kynect.ky.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kentucky residency",
+      "Proof of income"
+    ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Public Health (DPH)",
+    "applyLinks": [
+      {
+        "label": "Kentucky WIC program page",
+        "url": "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kentucky WIC helpline",
+        "value": "877-597-0367"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY-to-voice",
+        "value": "800-648-6056"
+      },
+      {
+        "kind": "phone",
+        "label": "Relay",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "Kentucky WIC program page",
+        "value": "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Nutrition support, breastfeeding help, and food benefits for pregnant, breastfeeding, and postpartum women, infants, and children through age 5. Official English and Spanish materials are available.",
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding women",
+      "Infants and children through age 5",
+      "Kentucky residents meeting WIC income guidelines"
+    ],
+    "id": "ky-wic",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "WIC — Women, Infants & Children Nutrition Program",
+    "prerequisites": [
+      "Contact a local WIC clinic to schedule an appointment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kentucky residency",
+      "Proof of income"
+    ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Community Based Services, Division of Child Care",
+    "applyLinks": [
+      {
+        "label": "Apply through kynect",
+        "url": "https://kynect.ky.gov/"
+      },
+      {
+        "label": "CCAP program page",
+        "url": "https://www.chfs.ky.gov/agencies/dcbs/dcc/Pages/ccap.aspx"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "kynect benefits line",
+        "value": "855-306-8959"
+      },
+      {
+        "kind": "phone",
+        "label": "Interpreter line",
+        "value": "866-291-8931"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "800-627-4720"
+      },
+      {
+        "kind": "web",
+        "label": "CCAP program page",
+        "value": "https://www.chfs.ky.gov/agencies/dcbs/dcc/Pages/ccap.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Child care assistance for qualifying low-income Kentucky families; family shares and provider fees vary by case. Apply through kynect or call 855-306-8959.",
+    "eligibility": [
+      "Low-income Kentucky families meeting CCAP rules",
+      "Families needing child care for work, school, or training"
+    ],
+    "id": "ky-ccap",
+    "languages": [
+      "English"
+    ],
+    "name": "CCAP — Child Care Assistance Program",
+    "prerequisites": [
+      "Apply through kynect or by phone"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dcc/Pages/ccap.aspx",
+      "https://kynect.ky.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of work, school, or training schedule"
+    ]
+  },
+  {
+    "agency": "Kentucky Career Center (KCC)",
+    "applyLinks": [
+      {
+        "label": "File a claim or request benefits online",
+        "url": "https://kcc.ky.gov/career/individuals/Pages/File-A-Claim-or-Request-Benefits-Online.aspx"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI assistance",
+        "value": "502-564-2900"
+      },
+      {
+        "kind": "web",
+        "label": "UI claimant FAQs",
+        "value": "https://kcc.ky.gov/career/Pages/Claimant-FAQs.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed."
+      }
+    ],
+    "description": "Temporary income for workers unemployed through no fault of their own. Claims require ID.me identity verification, identity documents, and an 18-month employer history; claimants generally complete five weekly work-search activities, including at least three formal applications or interviews.",
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "People meeting Kentucky earnings requirements in the base period"
+    ],
+    "id": "ky-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance (UI) Benefits",
+    "prerequisites": [
+      "Verify your identity with ID.me",
+      "File a claim online through the Kentucky Career Center"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://kcc.ky.gov/career/Pages/Claimant-FAQs.aspx",
+      "https://kcc.ky.gov/career/individuals/Pages/File-A-Claim-or-Request-Benefits-Online.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and addresses for the last 18 months",
+      "Alien registration number if not a U.S. citizen"
+    ]
+  },
+  {
+    "agency": "Kentucky Housing Corporation (KHC)",
+    "applyLinks": [
+      {
+        "label": "KHC rental programs",
+        "url": "https://www.kyhousing.org/page/rental"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KHC rental programs",
+        "value": "https://www.kyhousing.org/page/rental"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Varies",
+        "note": "Waitlists open and close by program and area — check the KHC rental page."
+      }
+    ],
+    "description": "KHC administers federally funded rental assistance in Kentucky, including the Housing Choice Voucher program. Vouchers are not immediate emergency assistance; waits depend on HUD funding and local availability.",
+    "eligibility": [
+      "Kentucky renters meeting KHC/HUD income and eligibility rules",
+      "Waitlist availability varies — see program page"
+    ],
+    "id": "ky-khc-rental",
+    "languages": [
+      "English"
+    ],
+    "name": "Rental Programs — Kentucky Housing Corporation",
+    "prerequisites": [
+      "Contact KHC or your local housing authority to check availability"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.kyhousing.org/page/rental",
+      "https://www.kyhousing.org/page/current-renters"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of household composition"
+    ]
+  },
+  {
+    "agency": "Kentucky Housing Corporation (KHC)",
+    "applyLinks": [
+      {
+        "label": "Weatherization program page",
+        "url": "https://www.kyhousing.org/programs/weatherization"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Weatherization program page",
+        "value": "https://www.kyhousing.org/programs/weatherization"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your local Community Action Agency."
+      }
+    ],
+    "description": "Free home energy-efficiency improvements for qualifying households, delivered through local Community Action Agencies. Renters may apply with written landlord permission. Present Social Security numbers, income verification, energy bills, and ownership proof or landlord permission.",
+    "eligibility": [
+      "Kentucky residents meeting program income rules",
+      "Renters with written landlord permission",
+      "Applicants work through their local Community Action Agency"
+    ],
+    "id": "ky-weatherization",
+    "languages": [
+      "English"
+    ],
+    "name": "Weatherization Assistance Program",
+    "prerequisites": [
+      "Contact your local Community Action Agency provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.kyhousing.org/programs/weatherization"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security numbers for household members",
+      "Income verification",
+      "Energy bills",
+      "Proof of home ownership or written landlord permission"
+    ]
+  },
+  {
+    "agency": "Kentucky Transportation Cabinet (KYTC) — Division of Driver Licensing",
+    "applyLinks": [
+      {
+        "label": "Drive Kentucky licensing page",
+        "url": "https://drive.ky.gov/Pages/index.aspx"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Drive Kentucky licensing page",
+        "value": "https://drive.ky.gov/Pages/index.aspx"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Kentucky residents can get standard driver licenses, REAL ID credentials, and state identification cards at KYTC Regional Driver Licensing Offices.",
+    "eligibility": [
+      "Kentucky residents meeting KYTC identity and residency requirements"
+    ],
+    "id": "ky-driver-licensing",
+    "languages": [
+      "English"
+    ],
+    "name": "Driver Licensing and State IDs",
+    "prerequisites": [
+      "Visit or schedule an appointment at a KYTC Regional Driver Licensing Office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://drive.ky.gov/Pages/index.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity and date of birth",
+      "Proof of Kentucky residency",
+      "Social Security number"
+    ]
+  },
+  {
+    "agency": "Kentucky Secretary of State (SOS)",
+    "applyLinks": [
+      {
+        "label": "Kentucky One Stop portal",
+        "url": "https://onestop.ky.gov/Pages/default.aspx"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kentucky One Stop",
+        "value": "https://onestop.ky.gov/Pages/default.aspx"
+      },
+      {
+        "kind": "web",
+        "label": "Secretary of State",
+        "value": "https://www.sos.ky.gov/Pages/default.aspx"
+      }
+    ],
+    "cost": "Fees apply — vary by filing",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time; some filings have annual renewal deadlines."
+      }
+    ],
+    "description": "Start, register, and manage a Kentucky business through the One Stop portal, with links to Secretary of State filings.",
+    "eligibility": [
+      "Anyone starting or operating a business in Kentucky"
+    ],
+    "id": "ky-business-registration",
+    "languages": [
+      "English"
+    ],
+    "name": "Business Registration — Kentucky One Stop",
+    "prerequisites": [
+      "Create an account on the One Stop portal for online filings"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://onestop.ky.gov/Pages/default.aspx",
+      "https://www.sos.ky.gov/Pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name and entity type",
+      "Registered agent information",
+      "Principal office address"
+    ]
+  },
+  {
+    "agency": "Kentucky Higher Education Assistance Authority (KHEAA)",
+    "applyLinks": [
+      {
+        "label": "KHEAA scholarships and grants",
+        "url": "https://www.kheaa.com/web/scholarships-grants.faces"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "KHEAA student aid",
+        "value": "800-928-8926 ext. 67394"
+      },
+      {
+        "kind": "email",
+        "label": "KHEAA student aid email",
+        "value": "studentaid@kheaa.com"
+      },
+      {
+        "kind": "web",
+        "label": "KHEAA scholarships and grants",
+        "value": "https://www.kheaa.com/web/scholarships-grants.faces"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File the FAFSA annually; award cycles vary by program — see program page."
+      }
+    ],
+    "description": "Kentucky's state student-aid agency covering KEES scholarships, Work Ready Kentucky, need-based grants, National Guard tuition awards, teacher scholarships, and other aid programs.",
+    "eligibility": [
+      "Kentucky residents meeting each program's rules",
+      "Students at eligible Kentucky colleges, universities, and trade schools"
+    ],
+    "id": "ky-kheaa",
+    "languages": [
+      "English"
+    ],
+    "name": "Scholarships & Grants — KHEAA",
+    "prerequisites": [
+      "File the FAFSA for the aid year"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.kheaa.com/web/scholarships-grants.faces"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "StudentAid.gov account",
+      "Federal tax information"
+    ]
+  },
+  {
+    "agency": "Kentucky Office of Vocational Rehabilitation (KCC)",
+    "applyLinks": [
+      {
+        "label": "How to apply for OVR services",
+        "url": "https://kcc.ky.gov/Vocational-Rehabilitation/seeking-services/pages/how-to-apply-for-ovr-services.aspx"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OVR statewide",
+        "value": "800-372-7172"
+      },
+      {
+        "kind": "phone",
+        "label": "Louisville downtown office",
+        "value": "502-595-4173"
+      },
+      {
+        "kind": "phone",
+        "label": "Lexington/Bluegrass office",
+        "value": "859-246-2537"
+      },
+      {
+        "kind": "phone",
+        "label": "Bowling Green office",
+        "value": "270-746-7489"
+      },
+      {
+        "kind": "phone",
+        "label": "Owensboro office",
+        "value": "270-687-7308"
+      },
+      {
+        "kind": "phone",
+        "label": "Covington office",
+        "value": "859-292-6513"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for OVR services",
+        "value": "https://kcc.ky.gov/Vocational-Rehabilitation/seeking-services/pages/how-to-apply-for-ovr-services.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Employment services for Kentuckians with disabilities, including counseling, training, and job placement. Start by contacting a local VR office to schedule an eligibility appointment.",
+    "eligibility": [
+      "Kentuckians with a physical or mental disability that is a barrier to employment",
+      "People who need VR services to get or keep a job"
+    ],
+    "id": "ky-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation (OVR)",
+    "prerequisites": [
+      "Contact a local VR office to schedule an eligibility appointment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://kcc.ky.gov/Vocational-Rehabilitation/seeking-services/pages/how-to-apply-for-ovr-services.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Medical or disability documentation",
+      "Work history"
+    ]
+  },
+  {
+    "agency": "Kentucky Department of Veterans Affairs (KDVA)",
+    "applyLinks": [
+      {
+        "label": "KDVA benefits page",
+        "url": "https://veterans.ky.gov/benefits/pages/default.aspx"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KDVA benefits page",
+        "value": "https://veterans.ky.gov/benefits/pages/default.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free accredited help from KDVA with federal VA compensation and pension claims and appeals.",
+    "eligibility": [
+      "Kentucky veterans and qualifying dependents",
+      "People filing or appealing federal VA claims"
+    ],
+    "id": "ky-veterans-claims-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Veterans Claims Assistance — KDVA",
+    "prerequisites": [
+      "Contact KDVA or a KDVA service officer for help with your claim"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://veterans.ky.gov/benefits/pages/default.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other proof of military service",
+      "VA correspondence related to your claim"
+    ]
+  },
+  {
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) — Department for Aging and Independent Living (DAIL)",
+    "applyLinks": [
+      {
+        "label": "DAIL aging network page",
+        "url": "https://chfs.ky.gov/agencies/dail/Pages/aaail.aspx"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DAIL aging network page",
+        "value": "https://chfs.ky.gov/agencies/dail/Pages/aaail.aspx"
+      },
+      {
+        "kind": "web",
+        "label": "DAIL department page",
+        "value": "https://www.chfs.ky.gov/agencies/dail/Pages/default.aspx"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "DAIL connects older adults and people with disabilities to aging-network services including meals, benefits counseling, case management, caregiver support, transportation, legal assistance, and in-home help.",
+    "eligibility": [
+      "Older Kentuckians and adults with disabilities",
+      "Caregivers seeking support services"
+    ],
+    "id": "ky-aging-disability-resource",
+    "languages": [
+      "English"
+    ],
+    "name": "Aging and Disability Resource Center (ADRC)",
+    "prerequisites": [
+      "Contact the ADRC or your local Area Agency on Aging and Independent Living"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/dail/Pages/default.aspx",
+      "https://chfs.ky.gov/agencies/dail/Pages/aaail.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity and age",
+      "Information about the services you need"
+    ]
+  },
+  {
+    "agency": "Louisville Metro Government",
+    "applyLinks": [
+      {
+        "label": "Metro311 service requests",
+        "url": "https://louisvilleky.gov/tell311"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Louisville Metro311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Metro311 from outside Louisville",
+        "value": "502-574-5000"
+      },
+      {
+        "kind": "web",
+        "label": "Metro311 service requests",
+        "value": "https://louisvilleky.gov/tell311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Report non-emergency city issues in Louisville/Jefferson County — potholes, missed trash, and other service requests. Online requests accepted 24/7; call 311 or 502-574-5000.",
+    "eligibility": [
+      "Anyone reporting an issue in Louisville/Jefferson County"
+    ],
+    "id": "louisville-311",
+    "languages": [
+      "English"
+    ],
+    "name": "Metro311 — Louisville City Service Requests",
+    "prerequisites": [
+      "None — submit requests online or by phone"
+    ],
+    "scope": {
+      "city": "Louisville",
+      "county": "Jefferson",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://louisvilleky.gov/tell311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ]
+  },
+  {
+    "agency": "Transit Authority of River City (TARC)",
+    "applyLinks": [
+      {
+        "label": "TARC new network",
+        "url": "https://www.ridetarc.org/newtarcnetwork/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TARC customer service",
+        "value": "502-585-1234"
+      },
+      {
+        "kind": "web",
+        "label": "TARC new network",
+        "value": "https://www.ridetarc.org/newtarcnetwork/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time — check routes and schedules on the TARC site."
+      }
+    ],
+    "description": "Public bus transit serving Louisville and Jefferson County. TARC's new network began August 2, 2026, with core routes generally running every 15–30 minutes and specialized routes less frequently.",
+    "eligibility": [
+      "Anyone riding in the TARC service area"
+    ],
+    "id": "louisville-tarc",
+    "languages": [
+      "English"
+    ],
+    "name": "TARC Public Transit",
+    "prerequisites": [
+      "None — plan your trip on the TARC website"
+    ],
+    "scope": {
+      "city": "Louisville",
+      "county": "Jefferson",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.ridetarc.org/newtarcnetwork/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment per the current fare schedule"
+    ]
+  },
+  {
+    "agency": "KentuckianaWorks",
+    "applyLinks": [
+      {
+        "label": "KentuckianaWorks",
+        "url": "https://www.kentuckianaworks.org/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "KentuckianaWorks",
+        "value": "502-388-3010"
+      },
+      {
+        "kind": "web",
+        "label": "KentuckianaWorks",
+        "value": "https://www.kentuckianaworks.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free job-search and career services for job seekers in Bullitt, Henry, Jefferson, Oldham, Shelby, Spencer, and Trimble counties: job matching, education and training referrals, workshops, résumé and interview help, and career counseling.",
+    "eligibility": [
+      "Job seekers in Bullitt, Henry, Jefferson, Oldham, Shelby, Spencer, or Trimble counties"
+    ],
+    "id": "louisville-kentuckianaworks",
+    "languages": [
+      "English"
+    ],
+    "name": "KentuckianaWorks Job Seeker Services",
+    "prerequisites": [
+      "Register on the KentuckianaWorks site or visit a career center"
+    ],
+    "scope": {
+      "city": "Louisville",
+      "county": "Jefferson",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.kentuckianaworks.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Resume",
+      "Work history"
+    ]
+  },
+  {
+    "agency": "Louisville Metro Public Health & Wellness",
+    "applyLinks": [
+      {
+        "label": "Public Health & Wellness",
+        "url": "https://louisvilleky.gov/government/health-wellness/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public Health & Wellness",
+        "value": "https://louisvilleky.gov/government/health-wellness/"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; some services require appointments."
+      }
+    ],
+    "description": "Public health services for Jefferson County — clinics, immunizations, testing, and community health programs. Verify current services on the department page.",
+    "eligibility": [
+      "Residents of Louisville/Jefferson County"
+    ],
+    "id": "louisville-public-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Louisville Metro Public Health & Wellness",
+    "prerequisites": [
+      "Check the department page for the service you need"
+    ],
+    "scope": {
+      "city": "Louisville",
+      "county": "Jefferson",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://louisvilleky.gov/government/health-wellness/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if you have coverage"
+    ]
+  },
+  {
+    "agency": "Louisville Free Public Library (LFPL)",
+    "applyLinks": [
+      {
+        "label": "LFPL how-do-I portal",
+        "url": "https://www.lfpl.org/howdoi"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LFPL",
+        "value": "502-574-1611"
+      },
+      {
+        "kind": "web",
+        "label": "LFPL how-do-I portal",
+        "value": "https://www.lfpl.org/howdoi"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free library card with borrowing and digital-resource access; cards can be requested online through the library's how-do-I portal.",
+    "eligibility": [
+      "Louisville/Jefferson County residents and eligible borrowers per library policy"
+    ],
+    "id": "louisville-lfpl-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Louisville Free Public Library Card",
+    "prerequisites": [
+      "Complete the online card application or apply in person"
+    ],
+    "scope": {
+      "city": "Louisville",
+      "county": "Jefferson",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.lfpl.org/",
+      "https://www.lfpl.org/howdoi"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of current address"
+    ]
+  },
+  {
+    "agency": "Lexington-Fayette Urban County Government",
+    "applyLinks": [
+      {
+        "label": "LexCall 311 page",
+        "url": "http://www.LexingtonKY.gov/living/lexcall-311"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LexCall 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "LexCall from outside Lexington",
+        "value": "859-425-2255"
+      },
+      {
+        "kind": "web",
+        "label": "LexCall 311 page",
+        "value": "http://www.LexingtonKY.gov/living/lexcall-311"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Centralized city-information and service-request center for Lexington — garbage, potholes, debris, signs, and other city services. Call 311 or 859-425-2255; over-the-phone interpretation is available in more than 150 languages and dialects.",
+    "eligibility": [
+      "Anyone reporting an issue in Lexington-Fayette County"
+    ],
+    "id": "lexington-lexcall-311",
+    "languages": [
+      "English"
+    ],
+    "name": "LexCall 311 — Lexington City Service Requests",
+    "prerequisites": [
+      "None — submit requests online or by phone"
+    ],
+    "scope": {
+      "city": "Lexington",
+      "county": "Fayette",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "http://www.LexingtonKY.gov/living/lexcall-311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Location of the issue",
+      "Description and photos if available"
+    ]
+  },
+  {
+    "agency": "Lextran",
+    "applyLinks": [
+      {
+        "label": "Lextran",
+        "url": "https://lextran.com/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Lextran customer service",
+        "value": "859-253-4636"
+      },
+      {
+        "kind": "phone",
+        "label": "Lextran customer service (alt)",
+        "value": "859-255-7756"
+      },
+      {
+        "kind": "web",
+        "label": "Lextran",
+        "value": "https://lextran.com/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time; LexRide is seasonal (April 2–October 31, 2026)."
+      }
+    ],
+    "description": "Public bus transit for Lexington-Fayette County, including the seasonal LexRide downtown circulator (April 2–October 31, 2026 — currently operating at the verification date).",
+    "eligibility": [
+      "Anyone riding in the Lextran service area"
+    ],
+    "id": "lexington-lextran",
+    "languages": [
+      "English"
+    ],
+    "name": "Lextran Public Transit",
+    "prerequisites": [
+      "None — plan your trip on the Lextran website"
+    ],
+    "scope": {
+      "city": "Lexington",
+      "county": "Fayette",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://lextran.com/",
+      "https://lextran.com/wp-content/uploads/2026/03/LexRide-Downtown-Circulator-Schedule-Web.pdf",
+      "https://lextran.com/wp-content/uploads/2024/10/Rider-Guide-10.15.24.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment per the current fare schedule"
+    ]
+  },
+  {
+    "agency": "Lexington Public Library",
+    "applyLinks": [
+      {
+        "label": "Lexington Public Library",
+        "url": "https://www.lexpublib.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lexington Public Library",
+        "value": "https://www.lexpublib.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free library card with access to print and digital collections — ebooks, audiobooks, online classes, and databases — plus traditional or digital wallet cards.",
+    "eligibility": [
+      "Lexington-Fayette County residents and eligible borrowers per library policy"
+    ],
+    "id": "lexington-lexington-public-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Lexington Public Library Card",
+    "prerequisites": [
+      "Complete the library card application online or in person"
+    ],
+    "scope": {
+      "city": "Lexington",
+      "county": "Fayette",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.lexpublib.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of current address"
+    ]
+  },
+  {
+    "agency": "City of Bowling Green",
+    "applyLinks": [
+      {
+        "label": "GoBG Transit",
+        "url": "https://www.bgky.org/transit"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GoBG Transit",
+        "value": "https://www.bgky.org/transit"
+      }
+    ],
+    "cost": "Adult single ride $2; day, multi-ride, monthly, and student passes available",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time — check routes and schedules on the city transit page."
+      }
+    ],
+    "description": "Public bus transit in Bowling Green. Current fares: adult single ride $2; ages 7–11 with an adult $1; children 6 and under free; seniors 60+ and people with disabilities $1. Day, multi-ride, monthly, and student passes are also available.",
+    "eligibility": [
+      "Anyone riding in the GoBG service area"
+    ],
+    "id": "bowling-green-gobg-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "GoBG Transit",
+    "prerequisites": [
+      "None — plan your trip on the city transit page"
+    ],
+    "scope": {
+      "city": "Bowling Green",
+      "county": "Warren",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.bgky.org/transit"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment per the current fare schedule"
+    ]
+  },
+  {
+    "agency": "Barren River District Health Department",
+    "applyLinks": [
+      {
+        "label": "Harm reduction services",
+        "url": "https://www.barrenriverhealth.org/services/harm-reduction"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Barren River Health Department",
+        "value": "270-781-8039"
+      },
+      {
+        "kind": "in-person",
+        "label": "Warren County location",
+        "value": "1109 State Street, Bowling Green"
+      },
+      {
+        "kind": "web",
+        "label": "Harm reduction services",
+        "value": "https://www.barrenriverhealth.org/services/harm-reduction"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; Narcan pickup Monday–Friday."
+      }
+    ],
+    "description": "Public health services for Warren County and the Barren River district, including harm reduction: free Narcan available Monday–Friday at the Warren County location, 1109 State Street, Bowling Green.",
+    "eligibility": [
+      "Residents of Warren County and the Barren River district"
+    ],
+    "id": "bowling-green-brdhd-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Barren River District Health Department (Warren County)",
+    "prerequisites": [
+      "Check the department site for the service you need"
+    ],
+    "scope": {
+      "county": "Warren",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.barrenriverhealth.org/services/harm-reduction",
+      "https://www.barrenriverhealth.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if you have coverage"
+    ]
+  },
+  {
+    "agency": "Warren County Public Library",
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://warrenpl.org/get-a-library-card/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "https://warrenpl.org/get-a-library-card/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free library card for Kentucky residents. In-person applicants show government photo ID; online and digital-only cards are available.",
+    "eligibility": [
+      "Kentucky residents"
+    ],
+    "id": "bowling-green-warren-county-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Warren County Public Library Card",
+    "prerequisites": [
+      "Apply in person or online per library policy"
+    ],
+    "scope": {
+      "county": "Warren",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://warrenpl.org/get-a-library-card/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Government-issued photo ID for in-person applications"
+    ]
+  },
+  {
+    "agency": "City of Owensboro",
+    "applyLinks": [
+      {
+        "label": "Owensboro Transit System",
+        "url": "https://transit.owensboro.org/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Owensboro Transit",
+        "value": "270-687-8570"
+      },
+      {
+        "kind": "web",
+        "label": "Owensboro Transit System",
+        "value": "https://transit.owensboro.org/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time — check routes and schedules on the transit site."
+      }
+    ],
+    "description": "Public bus transit for Owensboro, including fixed routes and paratransit for eligible riders unable to use fixed routes.",
+    "eligibility": [
+      "Anyone riding in the OTS service area",
+      "Paratransit: eligible riders unable to use fixed routes"
+    ],
+    "id": "owensboro-ots-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Owensboro Transit System",
+    "prerequisites": [
+      "None — plan your trip on the transit site; paratransit requires an application"
+    ],
+    "scope": {
+      "city": "Owensboro",
+      "county": "Daviess",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://transit.owensboro.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment per the current fare schedule"
+    ]
+  },
+  {
+    "agency": "Green River District Health Department",
+    "applyLinks": [
+      {
+        "label": "Green River District Health Department",
+        "url": "https://healthdepartment.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Owensboro local health contact",
+        "value": "270-686-7744"
+      },
+      {
+        "kind": "web",
+        "label": "Green River District Health Department",
+        "value": "https://healthdepartment.org/"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Public health services, prevention programs, and community support across the Green River District's seven counties, including Daviess County (Owensboro).",
+    "eligibility": [
+      "Residents of the Green River District counties"
+    ],
+    "id": "owensboro-grdhd-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Green River District Health Department",
+    "prerequisites": [
+      "Check the department site for the service you need"
+    ],
+    "scope": {
+      "county": "Daviess",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://healthdepartment.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if you have coverage"
+    ]
+  },
+  {
+    "agency": "Daviess County Public Library",
+    "applyLinks": [
+      {
+        "label": "Get a library card",
+        "url": "https://www.dcplibrary.org/get-a-library-card/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Daviess County Public Library",
+        "value": "270-684-0211 ext. 224"
+      },
+      {
+        "kind": "web",
+        "label": "Get a library card",
+        "value": "https://www.dcplibrary.org/get-a-library-card/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free library cards for Daviess County residents, plus local employees, property owners, full-time students, and Kentucky residents over 50. Daviess County residents 18+ may apply online; government-issued photo ID is required for the standard process.",
+    "eligibility": [
+      "Daviess County residents (18+ may apply online)",
+      "Local employees, property owners, and full-time students",
+      "Kentucky residents over 50"
+    ],
+    "id": "owensboro-daviess-county-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Daviess County Public Library Card",
+    "prerequisites": [
+      "Complete the library card application online or in person"
+    ],
+    "scope": {
+      "county": "Daviess",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.dcplibrary.org/get-a-library-card/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Government-issued photo ID"
+    ]
+  },
+  {
+    "agency": "Transit Authority of Northern Kentucky (TANK)",
+    "applyLinks": [
+      {
+        "label": "TANK Plus microtransit",
+        "url": "https://www.tankbus.org/microtransit/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TANK",
+        "value": "859-331-8265"
+      },
+      {
+        "kind": "web",
+        "label": "TANK Plus microtransit",
+        "value": "https://www.tankbus.org/microtransit/"
+      }
+    ],
+    "cost": "$5 within-zone; $2.50 to a zone-to-fixed-route transfer point",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service Monday–Friday 8 a.m.–6 p.m., Saturday 9 a.m.–5 p.m.; no Sunday service."
+      }
+    ],
+    "description": "On-demand curb-to-curb microtransit within Northern Kentucky service zones. Hours: Monday–Friday 8 a.m.–6 p.m., Saturday 9 a.m.–5 p.m.; no Sunday service. Fares: $5 within-zone; $2.50 to a zone-to-fixed-route transfer point.",
+    "eligibility": [
+      "Anyone in the TANK Plus service area"
+    ],
+    "id": "covington-tank-plus",
+    "languages": [
+      "English"
+    ],
+    "name": "TANK Plus Microtransit",
+    "prerequisites": [
+      "Book a ride through the TANK Plus service"
+    ],
+    "scope": {
+      "city": "Covington",
+      "county": "Kenton",
+      "level": "city",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.tankbus.org/microtransit/",
+      "https://www.tankbus.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment"
+    ]
+  },
+  {
+    "agency": "Northern Kentucky Health Department",
+    "applyLinks": [
+      {
+        "label": "About the health department",
+        "url": "https://nkyhealth.org/aboutus/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Northern Kentucky Health Department",
+        "value": "859-341-4264"
+      },
+      {
+        "kind": "phone",
+        "label": "Oral health",
+        "value": "859-363-2103"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "711"
+      },
+      {
+        "kind": "web",
+        "label": "About the health department",
+        "value": "https://nkyhealth.org/aboutus/"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; oral-health services may have a waiting list."
+      }
+    ],
+    "description": "Public health services for Boone, Campbell, Grant, and Kenton counties, including clinics and oral-health services. The oral-health page warns of a possible waiting list. Health centers are generally open weekdays, with one later day per center.",
+    "eligibility": [
+      "Residents of Boone, Campbell, Grant, or Kenton counties"
+    ],
+    "id": "covington-nky-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Northern Kentucky Health Department",
+    "prerequisites": [
+      "Check the department site for the service you need"
+    ],
+    "scope": {
+      "county": "Kenton",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://nkyhealth.org/aboutus/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card if you have coverage"
+    ]
+  },
+  {
+    "agency": "Kenton County Public Library",
+    "applyLinks": [
+      {
+        "label": "Library card application",
+        "url": "https://www.kentonlibrary.org/library-card-application/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kenton County Public Library",
+        "value": "859-962-4000"
+      },
+      {
+        "kind": "web",
+        "label": "Library card application",
+        "value": "https://www.kentonlibrary.org/library-card-application/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Free library cards with online applications mailed to applicants.",
+    "eligibility": [
+      "Kenton County residents and eligible borrowers per library policy"
+    ],
+    "id": "covington-kenton-county-library-card",
+    "languages": [
+      "English"
+    ],
+    "name": "Kenton County Public Library Card",
+    "prerequisites": [
+      "Complete the online library card application"
+    ],
+    "scope": {
+      "county": "Kenton",
+      "level": "county",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.kentonlibrary.org/library-card-application/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of current address"
+    ]
+  },
+  {
+    "agency": "Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "Social Security retirement benefits",
+        "url": "https://www.ssa.gov/retirement"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Social Security retirement benefits",
+        "value": "https://www.ssa.gov/retirement"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefit timing affects payment amounts."
+      }
+    ],
+    "description": "Monthly retirement benefits for workers with enough Social Security credits — you can typically apply starting at age 62, and in most cases while still working.",
+    "eligibility": [
+      "Workers with 10+ years of Social Security-taxed work (age 62+)",
+      "Family members who may qualify on a worker's record"
+    ],
+    "id": "fed-social-security-retirement",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Retirement Benefits",
+    "prerequisites": [
+      "Create or sign in to a my Social Security account"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.ssa.gov/retirement"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Work history and earnings information"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA)",
+    "applyLinks": [
+      {
+        "label": "VA disability compensation",
+        "url": "https://www.va.gov/disability/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA disability compensation",
+        "value": "https://www.va.gov/disability/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "description": "Tax-free monthly payments for veterans with disabilities resulting from a disease or injury incurred or aggravated during active military service.",
+    "eligibility": [
+      "Veterans with service-connected disabilities"
+    ],
+    "id": "fed-va-disability-compensation",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Disability Compensation",
+    "prerequisites": [
+      "File a disability claim through VA.gov"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "KY"
+    },
+    "sources": [
+      "https://www.va.gov/disability/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other proof of service",
+      "Medical evidence for the claimed conditions"
+    ]
   }
 ]
