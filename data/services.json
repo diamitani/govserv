@@ -67684,5 +67684,1833 @@
       "Proof of military service and discharge status",
       "Documentation of the emergency need"
     ]
+  },
+  {
+    "id": "charleston-krt",
+    "name": "KRT — Kanawha Valley Regional Transportation Authority",
+    "agency": "Kanawha Valley Regional Transportation Authority (KRT)",
+    "category": "Transportation",
+    "description": "Fixed-route public bus service across the Kanawha Valley / Charleston area. Route changes took effect July 20, 2026 — check rideonkrt.com for current routes and schedules.",
+    "scope": {
+      "level": "city",
+      "city": "Charleston",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Route changes effective 2026-07-20 — check rideonkrt.com for current routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "Plan your trip using KRT routes and schedules"
+    ],
+    "whatToBring": [
+      "Fare or pass — see rideonkrt.com for current fares"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "KRT customer service",
+        "value": "304-343-7586"
+      },
+      {
+        "kind": "web",
+        "label": "KRT website",
+        "value": "https://rideonkrt.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "KRT — routes, schedules, fares",
+        "url": "https://rideonkrt.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see rideonkrt.com",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rideonkrt.com/"
+    ]
+  },
+  {
+    "id": "kanawha-health",
+    "name": "Kanawha-Charleston Health Department — Clinical Services",
+    "agency": "Kanawha-Charleston Health Department",
+    "category": "Healthcare",
+    "description": "County health department offering clinical, environmental, epidemiology, emergency preparedness, wellness, mobile clinic, and vaccination services. HIV/STI/hepatitis services are appointment-required.",
+    "scope": {
+      "level": "county",
+      "county": "Kanawha",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Kanawha County residents",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round; appointments required for HIV/STI/hepatitis testing"
+      }
+    ],
+    "prerequisites": [
+      "Call ahead to schedule an appointment"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID and insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Appointments (HIV/STI/hepatitis)",
+        "value": "304-348-8080"
+      },
+      {
+        "kind": "web",
+        "label": "Kanawha-Charleston Health Department",
+        "value": "http://kchd.wv.gov/about/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kanawha-Charleston Health Department",
+        "url": "http://kchd.wv.gov/about/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://kchd.wv.gov/about/Pages/default.aspx",
+      "https://gettested.cdc.gov/es/organizations/kanawha-charleston-health-department"
+    ]
+  },
+  {
+    "id": "kanawha-library",
+    "name": "Kanawha County Public Library",
+    "agency": "Kanawha County Public Library",
+    "category": "Education",
+    "description": "Free public library system serving Kanawha County: books and media, public computers and Wi-Fi, research resources, and community programs.",
+    "scope": {
+      "level": "county",
+      "county": "Kanawha",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Library card required to borrow materials"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round"
+      }
+    ],
+    "prerequisites": [
+      "Get a library card to borrow"
+    ],
+    "whatToBring": [
+      "Photo ID to apply for a card — call ahead for requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kanawha County Public Library",
+        "value": "304-343-4646"
+      },
+      {
+        "kind": "web",
+        "label": "Library website",
+        "value": "https://www.kcpls.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kanawha County Public Library",
+        "url": "https://www.kcpls.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.kcpls.org/"
+    ]
+  },
+  {
+    "id": "cabell-health",
+    "name": "Cabell-Huntington Health Department — Immunizations",
+    "agency": "Cabell-Huntington Health Department",
+    "category": "Healthcare",
+    "description": "County health department in Huntington / Cabell County offering immunizations and other public health services.",
+    "scope": {
+      "level": "county",
+      "county": "Cabell",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Cabell County residents",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead to confirm clinic hours"
+      }
+    ],
+    "prerequisites": [
+      "Call ahead to confirm clinic hours"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID, insurance card if insured, immunization records"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cabell-Huntington Health Department",
+        "value": "304-523-6483"
+      },
+      {
+        "kind": "web",
+        "label": "Health department website",
+        "value": "https://cabellhealth.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cabell-Huntington Health Department",
+        "url": "https://cabellhealth.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cabellhealth.org/"
+    ]
+  },
+  {
+    "id": "cabell-library",
+    "name": "Cabell County Public Library — Library Card",
+    "agency": "Cabell County Public Library",
+    "category": "Education",
+    "description": "Free public library for the Huntington / Cabell County area. Anyone can apply for a card; Cabell County cards are also usable at the Lincoln, Logan, Mingo, Putnam, and Wayne county library systems.",
+    "scope": {
+      "level": "county",
+      "county": "Cabell",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Anyone may apply for a card"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at the library"
+      }
+    ],
+    "prerequisites": [
+      "None — apply at the library"
+    ],
+    "whatToBring": [
+      "Photo ID to apply for a card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cabell County Public Library",
+        "value": "304-528-5700"
+      },
+      {
+        "kind": "email",
+        "label": "Circulation desk",
+        "value": "circulation@cabellcountylib.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cabell County Public Library — library info",
+        "url": "https://sites.google.com/cabellcountylib.org/cabellcountypubliclibrary/library-info/main-branch"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sites.google.com/cabellcountylib.org/cabellcountypubliclibrary/library-info/main-branch"
+    ]
+  },
+  {
+    "id": "morgantown-transit",
+    "name": "Mountain Line Transit — Morgantown",
+    "agency": "Mountain Line Transit Authority",
+    "category": "Transportation",
+    "description": "Fixed-route bus and paratransit service in Morgantown and Monongalia County.",
+    "scope": {
+      "level": "city",
+      "city": "Morgantown",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Paratransit requires ADA eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check busride.org for current routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "Plan your trip using busride.org routes and schedules"
+    ],
+    "whatToBring": [
+      "Fare or pass — see busride.org"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mountain Line Transit",
+        "value": "304-291-7433"
+      },
+      {
+        "kind": "web",
+        "label": "Mountain Line website",
+        "value": "https://busride.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mountain Line Transit",
+        "url": "https://busride.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see busride.org",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://busride.org/"
+    ]
+  },
+  {
+    "id": "monongalia-health",
+    "name": "Monongalia County Health Department — Tuberculosis Program",
+    "agency": "Monongalia County Health Department",
+    "category": "Healthcare",
+    "description": "Evaluation and treatment for active and latent tuberculosis, contact follow-up, TB testing, and some low- or no-cost care for Monongalia County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Monongalia",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Monongalia County residents",
+      "Anyone needing TB evaluation, testing, or treatment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead to schedule"
+      }
+    ],
+    "prerequisites": [
+      "Call ahead to schedule"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; call ahead",
+      "Typically: photo ID and insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TB program",
+        "value": "304-598-5119"
+      },
+      {
+        "kind": "web",
+        "label": "TB program page",
+        "value": "https://www.monchd.org/services/tuberculosis-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Monongalia County Health Department — TB program",
+        "url": "https://www.monchd.org/services/tuberculosis-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Some low- or no-cost care available — call for details",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.monchd.org/services/tuberculosis-program"
+    ]
+  },
+  {
+    "id": "parkersburg-transit",
+    "name": "Easy Rider — Parkersburg/Vienna Transit",
+    "agency": "Mid-Ohio Valley Transit Authority (Easy Rider)",
+    "category": "Transportation",
+    "description": "Fixed-route bus and paratransit service in the Parkersburg / Vienna area. Day passes are $1.75; reduced-fare applications are available for riders with disabilities who do not have Medicare cards. Service alert: the Jefferson 2 route is suspended due to a driver shortage effective 2026-07-13.",
+    "scope": {
+      "level": "city",
+      "city": "Parkersburg",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Reduced fares for riders with disabilities (application required)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Service alert",
+        "note": "Jefferson 2 route suspended due to driver shortage effective 2026-07-13 — check easyriderbus.com for current status"
+      }
+    ],
+    "prerequisites": [
+      "Plan your trip using Easy Rider routes and schedules"
+    ],
+    "whatToBring": [
+      "Fare or pass"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Easy Rider",
+        "value": "304-422-4100"
+      },
+      {
+        "kind": "web",
+        "label": "Easy Rider website",
+        "value": "https://easyriderbus.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Easy Rider — fares and passes",
+        "url": "https://easyriderbus.com/fares-passes/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — day pass $1.75",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://easyriderbus.com/",
+      "https://easyriderbus.com/fares-passes/"
+    ]
+  },
+  {
+    "id": "wood-library",
+    "name": "Parkersburg & Wood County Public Library — Library Card",
+    "agency": "Parkersburg & Wood County Public Library",
+    "category": "Education",
+    "description": "Free public library for Wood County residents: books, media, public computers, and programs. Residents age 16 and older may apply in person with ID.",
+    "scope": {
+      "level": "county",
+      "county": "Wood",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia residents",
+      "Age 16+ to apply in person"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at the library"
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at the library"
+    ],
+    "whatToBring": [
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Parkersburg & Wood County Public Library",
+        "value": "304-420-4587"
+      },
+      {
+        "kind": "web",
+        "label": "Library website",
+        "value": "https://parkwoodlib.com/renewals/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Parkersburg & Wood County Public Library — renewals and card info",
+        "url": "https://parkwoodlib.com/renewals/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://parkwoodlib.com/renewals/"
+    ]
+  },
+  {
+    "id": "wood-health",
+    "name": "Mid-Ohio Valley Health Department",
+    "agency": "Mid-Ohio Valley Health Department (MOVHD)",
+    "category": "Healthcare",
+    "description": "Public health department serving Calhoun, Pleasants, Ritchie, Roane, Wirt, and Wood counties — promoting health, preventing disease, and protecting the public. 2026 flu-shot notices are posted on the agency site.",
+    "scope": {
+      "level": "county",
+      "county": "Wood",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Residents of Calhoun, Pleasants, Ritchie, Roane, Wirt, or Wood County",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead for clinic hours and appointments"
+      }
+    ],
+    "prerequisites": [
+      "Call ahead for clinic hours and appointments"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID and insurance card if insured"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Mid-Ohio Valley Health Department",
+        "value": "304-485-7374"
+      },
+      {
+        "kind": "web",
+        "label": "Health department website",
+        "value": "https://www.movhd.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mid-Ohio Valley Health Department",
+        "url": "https://www.movhd.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.movhd.com/"
+    ]
+  },
+  {
+    "id": "wood-childcare",
+    "name": "Child Care Subsidy — Wood County",
+    "agency": "West Virginia Department of Human Services (DoHS)",
+    "category": "Family & Childcare",
+    "description": "Financial assistance to help eligible Wood County families pay for child care. Initial eligibility is generally at 150% of the federal poverty level, rising to 185% after services begin; in-person documentation is required and household changes must be reported within five days.",
+    "scope": {
+      "level": "county",
+      "county": "Wood",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Wood County families",
+      "Initial guideline: household income at 150% of the federal poverty level",
+      "Income may rise to 185% of the federal poverty level after services begin"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report household changes within five days of the change"
+      }
+    ],
+    "prerequisites": [
+      "Provide documentation in person"
+    ],
+    "whatToBring": [
+      "Income, residency, and household documentation — call ahead for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "304-485-2668"
+      },
+      {
+        "kind": "web",
+        "label": "WV Choices — paying for child care",
+        "value": "https://www.wvdhhr.org/choices/for-families/financial-assistance.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV Choices — financial assistance for child care",
+        "url": "https://www.wvdhhr.org/choices/for-families/financial-assistance.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wvdhhr.org/choices/for-families/financial-assistance.html",
+      "https://www.wvdhhr.org/choices/for-families/eligibility.html"
+    ]
+  },
+  {
+    "id": "wheeling-transit",
+    "name": "OVRTA — Ohio Valley Regional Transportation Authority",
+    "agency": "Ohio Valley Regional Transportation Authority (OVRTA)",
+    "category": "Transportation",
+    "description": "Public mass transit for the Wheeling area: fixed-route buses and demand-response (paratransit) service for Wheeling and surrounding communities on both sides of the Ohio River. FTA 2024 profile: 342,251 annual unlinked trips.",
+    "scope": {
+      "level": "city",
+      "city": "Wheeling",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Demand-response service requires eligibility — see OVRTA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check ovrta.org for current routes and schedules"
+      }
+    ],
+    "prerequisites": [
+      "Plan your trip using OVRTA routes and schedules"
+    ],
+    "whatToBring": [
+      "Fare or pass"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OVRTA",
+        "value": "304-232-2190"
+      },
+      {
+        "kind": "email",
+        "label": "OVRTA",
+        "value": "moreinformation@ovrta.org"
+      },
+      {
+        "kind": "web",
+        "label": "OVRTA website",
+        "value": "https://ovrta.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OVRTA — routes and schedules",
+        "url": "https://ovrta.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply — see ovrta.org",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ovrta.org/",
+      "http://ovrta.org/nondiscrimination-policy/",
+      "https://www.transit.dot.gov/sites/fta.dot.gov/files/transit_agency_profile_doc/2024/30035.pdf"
+    ]
+  },
+  {
+    "id": "ohio-library",
+    "name": "Ohio County Public Library",
+    "agency": "Ohio County Public Library",
+    "category": "Education",
+    "description": "Free public library in Wheeling (Ohio County): books, DVDs, magazines, research and reference services, curbside pickup of reserved materials, and an online catalog.",
+    "scope": {
+      "level": "county",
+      "county": "Ohio",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Open to the public",
+      "Library card required to borrow"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round"
+      }
+    ],
+    "prerequisites": [
+      "Get a library card to borrow"
+    ],
+    "whatToBring": [
+      "Photo ID to apply for a card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Ohio County Public Library",
+        "value": "304-232-0244"
+      },
+      {
+        "kind": "web",
+        "label": "Library website",
+        "value": "https://www.OhioCountyLibrary.org/services/curbside-pick-up-and-services/7368"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ohio County Public Library — services",
+        "url": "https://www.OhioCountyLibrary.org/services/curbside-pick-up-and-services/7368"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.OhioCountyLibrary.org/services/curbside-pick-up-and-services/7368"
+    ]
+  },
+  {
+    "id": "wv-promise",
+    "name": "Promise Scholarship",
+    "agency": "West Virginia Higher Education Policy Commission (WVHEPC)",
+    "category": "Education",
+    "description": "Merit-based scholarship for West Virginia students covering tuition and mandatory fees at eligible in-state institutions. For the 2027-28 award year, the Promise application and the FAFSA both open October 1, 2026 and are both due March 1, 2027.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia students",
+      "See the apply page for full merit criteria"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "2027-28 application opens",
+        "note": "Promise application and FAFSA open October 1, 2026"
+      },
+      {
+        "date": "2027-03-01",
+        "label": "2027-28 deadline",
+        "note": "Both the Promise application and the FAFSA are due March 1, 2027"
+      }
+    ],
+    "prerequisites": [
+      "Complete the FAFSA",
+      "Complete the Promise application"
+    ],
+    "whatToBring": [
+      "Completed online — have FAFSA information ready"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CFWV financial aid experts",
+        "value": "877-987-7664"
+      },
+      {
+        "kind": "email",
+        "label": "Promise program",
+        "value": "promise@wvhepc.edu"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Promise Scholarship — apply now",
+        "url": "https://www.cfwv.com/financial-aid/promise-scholarship/apply-now/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cfwv.com/financial-aid/promise-scholarship/apply-now/"
+    ]
+  },
+  {
+    "id": "wv-invests",
+    "name": "WV Invests Grant",
+    "agency": "West Virginia Council for Community and Technical College Education (WVCTCS)",
+    "category": "Education",
+    "description": "Last-dollar grant covering remaining tuition and fees for eligible certificate and associate-degree programs at WV community and technical colleges. Requires WV residency, federal student-aid citizenship eligibility, the FAFSA, admission, enrollment in at least six credits, plus service, residency, and academic conditions. The FAFSA and WV Invests application are required each year; April 15 is the priority deadline. The 2027-28 application and FAFSA open October 1, 2026.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia resident",
+      "Eligible for federal student aid (citizenship requirements)",
+      "Admitted to an eligible certificate or associate program",
+      "Enrolled in at least six credits",
+      "Meets service, residency, and academic conditions — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "2027-28 application opens",
+        "note": "2027-28 WV Invests application and FAFSA open October 1, 2026"
+      },
+      {
+        "date": "2027-04-15",
+        "label": "Priority deadline (annual)",
+        "note": "April 15 priority deadline each year"
+      }
+    ],
+    "prerequisites": [
+      "Complete the FAFSA",
+      "Complete the WV Invests application each year"
+    ],
+    "whatToBring": [
+      "Completed online — have FAFSA information ready"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CFWV financial aid",
+        "value": "304-558-4618"
+      },
+      {
+        "kind": "phone",
+        "label": "CFWV financial aid (toll-free)",
+        "value": "877-987-7664"
+      },
+      {
+        "kind": "email",
+        "label": "WV Invests",
+        "value": "wvinvests@wvctcs.edu"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV Invests Grant — apply now",
+        "url": "https://www.cfwv.com/financial-aid/wv-invests-grant/apply-now/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cfwv.com/financial-aid/wv-invests-grant/",
+      "https://www.cfwv.com/financial-aid/wv-invests-grant/how-it-works/",
+      "https://www.cfwv.com/financial-aid/wv-invests-grant/apply-now/"
+    ]
+  },
+  {
+    "id": "wv-heg",
+    "name": "WV Higher Education Grant",
+    "agency": "West Virginia Higher Education Policy Commission (WVHEPC)",
+    "category": "Education",
+    "description": "Need-based grant for West Virginia residents pursuing post-secondary education. For 2026-27, students with a FAFSA Student Aid Index up to 13,000 may receive up to $3,400 per year at eligible WV institutions ($600 at eligible Pennsylvania schools). Awards depend on need and annual legislative funding.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "West Virginia resident for at least 12 months before applying",
+      "High school graduate or equivalency diploma",
+      "Demonstrated financial need",
+      "FAFSA Student Aid Index up to 13,000 (2026-27 award year)",
+      "Enrolled at a participating WV or Pennsylvania institution",
+      "No prior bachelor's degree"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-04-15",
+        "label": "FAFSA deadline (annual)",
+        "note": "FAFSA must be filed each year by April 15 for the following award year; the 2026-27 deadline was April 15, 2026"
+      },
+      {
+        "date": null,
+        "label": "Renewal",
+        "note": "Renewal requires a 2.0 cumulative GPA, satisfactory academic progress, 24 earned credit hours per year for two-semester awards, and continued WV residency"
+      }
+    ],
+    "prerequisites": [
+      "Complete the FAFSA by April 15 each year"
+    ],
+    "whatToBring": [
+      "Completed online — have FAFSA information ready"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CFWV financial aid",
+        "value": "304-558-4618"
+      },
+      {
+        "kind": "phone",
+        "label": "CFWV financial aid (toll-free)",
+        "value": "877-987-7664"
+      },
+      {
+        "kind": "email",
+        "label": "Higher Education Grant program",
+        "value": "wvgrant@wvhepc.edu"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV Higher Education Grant — about the program",
+        "url": "https://www.cfwv.com/wvgrant"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cfwv.com/wvgrant",
+      "https://www.cfwv.com/financial-aid/wv-higher-education-grant/how-it-works/"
+    ]
+  },
+  {
+    "id": "wv-lieap",
+    "name": "LIEAP — Low Income Energy Assistance Program",
+    "agency": "West Virginia Department of Human Services (DoHS), Bureau for Family Assistance",
+    "category": "Utilities",
+    "description": "Low Income Energy Assistance Program: helps eligible households with heating costs. Winter intake runs for a short period; the emergency opening date is announced later. Repair/replacement and weatherization funds are available until exhausted (no winter cooling work). Hearing requests must be filed within 60 days of the notice date.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Low-income West Virginia households",
+      "See the program page for current intake dates and criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Winter intake is short-term; emergency opening date announced later — see program page"
+      },
+      {
+        "date": null,
+        "label": "Hearing requests",
+        "note": "Request a hearing within 60 days of the notice date"
+      }
+    ],
+    "prerequisites": [
+      "Contact your county DoHS office to apply"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: photo ID, proof of income, current utility bill"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "1-877-716-1212"
+      },
+      {
+        "kind": "web",
+        "label": "LIEAP program page",
+        "value": "https://bfa.wv.gov/utility-assistancelieap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIEAP — utility assistance",
+        "url": "https://bfa.wv.gov/utility-assistancelieap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bfa.wv.gov/utility-assistancelieap"
+    ]
+  },
+  {
+    "id": "wv-utility-discount",
+    "name": "20% Utility Discount Program",
+    "agency": "West Virginia Department of Human Services (DoHS), Bureau for Family Assistance",
+    "category": "Utilities",
+    "description": "20% discount on utility service for eligible low-income West Virginians, administered through the Bureau for Family Assistance alongside LIEAP.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Low-income West Virginia households",
+      "See the program page for criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See program page for current enrollment information"
+      }
+    ],
+    "prerequisites": [
+      "Contact your county DoHS office to apply"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "1-877-716-1212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Utility assistance / LIEAP program page",
+        "url": "https://bfa.wv.gov/utility-assistancelieap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bfa.wv.gov/utility-assistancelieap"
+    ]
+  },
+  {
+    "id": "wv-path",
+    "name": "WV PATH — Online Benefits Portal",
+    "agency": "West Virginia Department of Human Services (DoHS)",
+    "category": "Money & Taxes",
+    "description": "West Virginia's online portal for applying for and reviewing Department of Human Services benefit programs. Status: planned maintenance was posted — applications and reviews were temporarily unavailable while saved work is retained; check the site before starting.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia residents applying for DoHS benefit programs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Maintenance",
+        "note": "Planned maintenance posted: applications and reviews temporarily unavailable; saved work is retained"
+      }
+    ],
+    "prerequisites": [
+      "Create a WV PATH account"
+    ],
+    "whatToBring": [
+      "Completed online — have identity, income, and household information ready"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "1-877-716-1212"
+      },
+      {
+        "kind": "web",
+        "label": "WV PATH portal",
+        "value": "https://www.wvpath.wv.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV PATH portal",
+        "url": "https://www.wvpath.wv.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wvpath.wv.gov/"
+    ]
+  },
+  {
+    "id": "wv-ui",
+    "name": "Unemployment Insurance Benefits",
+    "agency": "WorkForce West Virginia",
+    "category": "Employment",
+    "description": "Weekly unemployment insurance benefits for West Virginia workers who lost their jobs through no fault of their own. Claimants serve an unpaid waiting week and must complete four work searches each week.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia workers unemployed through no fault of their own",
+      "Must meet wage and work-history requirements — see FAQ page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; four work searches required each week"
+      }
+    ],
+    "prerequisites": [
+      "File a claim through WorkForce West Virginia"
+    ],
+    "whatToBring": [
+      "Employment and wage history, Social Security number, photo ID — see FAQ page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WorkForce WV",
+        "value": "1-800-252-JOBS"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment FAQ and filing info",
+        "value": "https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/frequently-asked-questions/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WorkForce WV — unemployment insurance FAQ and filing info",
+        "url": "https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/frequently-asked-questions/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/frequently-asked-questions/"
+    ]
+  },
+  {
+    "id": "wv-snap-et",
+    "name": "SNAP Employment and Training",
+    "agency": "West Virginia Department of Human Services (DoHS), Bureau for Family Assistance",
+    "category": "Employment",
+    "description": "Voluntary employment program for SNAP recipients age 18 and older: no-cost training, education, case management, job-readiness services, and support services.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "SNAP recipients age 18 and older",
+      "Participation is voluntary"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a referral through your county DoHS office"
+      }
+    ],
+    "prerequisites": [
+      "Get a referral through your county DoHS office or call DoHS"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "1-877-716-1212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP Employment and Training",
+        "url": "https://bfa.wv.gov/snap-employment-and-training"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bfa.wv.gov/snap-employment-and-training"
+    ]
+  },
+  {
+    "id": "wv-works",
+    "name": "WV WORKS (TANF) — Temporary Cash Assistance",
+    "agency": "West Virginia Department of Human Services (DoHS)",
+    "category": "Family & Childcare",
+    "description": "Temporary cash assistance for low-income West Virginia families with children. Participants complete an orientation and sign a Personal Responsibility Contract; the program page states a $2,000 asset test.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "$2,000 asset test (per program page)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your county DoHS office"
+      }
+    ],
+    "prerequisites": [
+      "Complete the WV WORKS orientation",
+      "Sign a Personal Responsibility Contract"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS customer service",
+        "value": "1-877-716-1212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV WORKS (TANF)",
+        "url": "https://www.wvdhhr.org/bcf/children_adult/foster/tanf.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wvdhhr.org/bcf/children_adult/foster/tanf.htm"
+    ]
+  },
+  {
+    "id": "wv-wic",
+    "name": "WIC — Women, Infants, and Children Nutrition Program",
+    "agency": "West Virginia Department of Health and Human Resources (DHHR)",
+    "category": "Food",
+    "description": "Nutrition program providing nutrition and breastfeeding counseling, health monitoring, and supplemental foods for eligible women, infants, and children.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Varies — see program page for income and categorical rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at your local WIC clinic"
+      }
+    ],
+    "prerequisites": [
+      "Contact your local WIC clinic to apply"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and income — call ahead for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV WIC",
+        "value": "304-558-0030"
+      },
+      {
+        "kind": "email",
+        "label": "WV WIC",
+        "value": "dhhrwic@wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV WIC program",
+        "url": "https://dhhr.wv.gov/wic"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhhr.wv.gov/wic",
+      "https://dhhr.wv.gov/WIC/Pages/contact.aspx"
+    ]
+  },
+  {
+    "id": "wv-war-orphan",
+    "name": "War Orphan Education Program",
+    "agency": "West Virginia Department of Veterans Assistance (WVDVA)",
+    "category": "Veterans",
+    "description": "Education benefits for children of deceased or disabled West Virginia veterans: qualifying WV institutions waive tuition and fees, and the state provides assistance for room, board, books, and living expenses up to $1,000 per semester and $2,000 per year. Eligibility and required documents are listed in the application PDF.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Children of qualifying deceased or disabled WV veterans — see application PDF for criteria and required documents"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-01-31",
+        "label": "Spring semester",
+        "note": "Applications are not accepted retroactively"
+      },
+      {
+        "date": "2027-08-31",
+        "label": "Fall semester",
+        "note": "Applications are not accepted retroactively"
+      }
+    ],
+    "prerequisites": [
+      "Complete the War Orphan application with supporting documents"
+    ],
+    "whatToBring": [
+      "Supporting documents listed in the application PDF"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WVDVA",
+        "value": "304-558-3661"
+      },
+      {
+        "kind": "email",
+        "label": "WVDVA",
+        "value": "WVDVA@wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "War Orphan Education application (PDF)",
+        "url": "https://veterans.wv.gov/benefits/Documents/War_Orphan_Application.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://veterans.wv.gov/benefits/Documents/War_Orphan_Application.pdf",
+      "https://veterans.wv.gov/benefits/Pages/Education-Benefits.aspx"
+    ]
+  },
+  {
+    "id": "wv-homestead",
+    "name": "Homestead Exemption — Property Tax Relief",
+    "agency": "West Virginia State Tax Department (administered by county assessors)",
+    "category": "Money & Taxes",
+    "description": "Property-tax relief exempting the first $20,000 of assessed value for qualifying homeowners age 65 or older or permanently and totally disabled, subject to residency and other statutory conditions. Claim with your county assessor by December 1 after the July 1 assessment date; missing the deadline waives the exemption for the next tax year. Qualifying seniors generally need not refile unless they move.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Homeowner age 65+ or permanently and totally disabled",
+      "West Virginia residency and other statutory conditions — see WV Code 11-6B"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "Claim deadline",
+        "note": "File with your county assessor by December 1; missing it waives the exemption for the next tax year"
+      }
+    ],
+    "prerequisites": [
+      "File the claim with your county assessor"
+    ],
+    "whatToBring": [
+      "Disability documentation if claiming on disability — see statute for accepted options"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tax Department taxpayer services",
+        "value": "304-558-3333"
+      },
+      {
+        "kind": "phone",
+        "label": "Tax Department (toll-free)",
+        "value": "800-982-8297"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV Code 11-6B — Homestead Exemption (PDF)",
+        "url": "https://code.wvlegislature.gov/pdf/11-6B/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://code.wvlegislature.gov/pdf/11-6B/",
+      "https://tax.wv.gov/about/contact/pages/contactus.aspx"
+    ]
+  },
+  {
+    "id": "wv-hdf",
+    "name": "WV Housing Development Fund — Mortgage Programs",
+    "agency": "West Virginia Housing Development Fund (WVHDF)",
+    "category": "Housing",
+    "description": "State housing finance agency mortgage programs for West Virginia homebuyers, including Homeownership, Movin' Up, and Low Down Home Loan options.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia homebuyers",
+      "Varies by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact WVHDF or a participating lender"
+      }
+    ],
+    "prerequisites": [
+      "Contact WVHDF or a participating lender"
+    ],
+    "whatToBring": [
+      "Standard mortgage documents — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WVHDF",
+        "value": "800-933-8511"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WVHDF mortgage programs guide",
+        "url": "https://www.wvhdf.com/a-guide-to-west-virginia-housing-development-fund-mortgage-programs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; loan terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wvhdf.com/a-guide-to-west-virginia-housing-development-fund-mortgage-programs/"
+    ]
+  },
+  {
+    "id": "wv-dmv",
+    "name": "Driver's Licenses and ID Cards",
+    "agency": "West Virginia Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Driver's licenses and state ID cards, including REAL ID-compliant credentials. Applicants provide identity, Social Security, and two proofs of physical residency; the permanent credential is mailed and the temporary receipt is valid for 60 days. REAL ID carries an additional $10 fee.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "West Virginia residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Renew before your credential expires"
+      }
+    ],
+    "prerequisites": [
+      "Gather identity, Social Security, and residency documents"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Social Security number",
+      "Two proofs of physical residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV DMV",
+        "value": "304-558-3900"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV DMV — driver's licenses and ID cards",
+        "url": "https://dmv.wv.gov/driver-services/drivers/drivers-licenses-and-id-cards"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply; REAL ID carries an additional $10 fee",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dmv.wv.gov/driver-services/drivers/drivers-licenses-and-id-cards",
+      "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/14890-list_of_states_dept_of_mv_081320_v2-tag.pdf"
+    ]
+  },
+  {
+    "id": "wv-legal-aid",
+    "name": "Legal Aid of West Virginia",
+    "agency": "Legal Aid of West Virginia",
+    "category": "Legal Aid",
+    "description": "Free civil legal help (not criminal, accident, or personal-injury cases) for generally low-income West Virginians and domestic-violence survivors; exceptions are possible. Services are free, though court filing costs may apply, and interpreters are available. If you have a court deadline within 10 days, call instead of applying online.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Generally low-income individuals or domestic-violence survivors",
+      "Exceptions possible — see eligibility page",
+      "Civil cases only; not criminal, accident, or personal injury"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "If you have a court deadline within 10 days, call 866-255-4370 instead of applying online"
+      }
+    ],
+    "prerequisites": [
+      "Apply online or call the helpline"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — staff will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid of WV helpline",
+        "value": "866-255-4370"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Aid of WV — apply for help",
+        "url": "http://legalaidwv.org/get-help/apply-for-help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free; court filing costs may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://legalaidwv.org/get-help/eligibility/",
+      "http://legalaidwv.org/get-help/apply-for-help/"
+    ]
+  },
+  {
+    "id": "wv-ship",
+    "name": "WV SHIP — Free Medicare Counseling",
+    "agency": "West Virginia State Health Insurance Assistance Program (SHIP)",
+    "category": "Seniors",
+    "description": "Free, objective, confidential counseling on Medicare, Medigap, Part D, and medical billing for West Virginia seniors. The fetched local SHIP site serves Cabell and neighboring counties; call the statewide line for your area.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Medicare beneficiaries and their families",
+      "Varies — call for local counselor availability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule counseling"
+      }
+    ],
+    "prerequisites": [
+      "Call to schedule counseling"
+    ],
+    "whatToBring": [
+      "Medicare card and current plan/billing documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV SHIP",
+        "value": "1-877-987-4463"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV SHIP — Medicare counseling",
+        "url": "https://lcocinc.com/medicare-counseling"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lcocinc.com/medicare-counseling"
+    ]
+  },
+  {
+    "id": "wv-scsep",
+    "name": "Senior Community Service Employment Program",
+    "agency": "West Virginia Bureau of Senior Services",
+    "category": "Seniors",
+    "description": "Paid community-service and work-based training placements for limited-income West Virginians age 55 and older: up to 20 hours per week at minimum wage, plus training, coaching, and job-placement help. Apply online via the form linked on the program page.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Age 55 or older",
+      "Limited income",
+      "West Virginia resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online via the program page"
+      }
+    ],
+    "prerequisites": [
+      "Complete the online application linked on the program page"
+    ],
+    "whatToBring": [
+      "Proof of age, income, and residency — see application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SCSEP — Kanawha area",
+        "value": "304-342-2078"
+      },
+      {
+        "kind": "phone",
+        "label": "SCSEP — Monongalia area",
+        "value": "304-476-2877"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SCSEP program page and application",
+        "url": "http://www.wvseniorservices.gov/GettingAnswers/OverviewofAgingProgramsInWestVirginia/SeniorCommunityServiceEmploymentProgram/tabid/105/Default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.wvseniorservices.gov/GettingAnswers/OverviewofAgingProgramsInWestVirginia/SeniorCommunityServiceEmploymentProgram/tabid/105/Default.aspx"
+    ]
+  },
+  {
+    "id": "wv-one-stop-business",
+    "name": "WV One Stop Business Portal",
+    "agency": "West Virginia Secretary of State (multi-agency portal)",
+    "category": "Small Business",
+    "description": "Official portal to register a business in West Virginia, file annual reports, and handle tax and workforce requirements with the Secretary of State, State Tax Department, Division of Labor, and WorkForce WV. One Stop Business Center hours: Monday-Friday 9 a.m.-5 p.m.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Anyone starting or operating a business in West Virginia"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Annual reports and filings have statutory deadlines — see portal"
+      }
+    ],
+    "prerequisites": [
+      "Create a portal account"
+    ],
+    "whatToBring": [
+      "Business name, structure, and owner information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV One Stop Business Center",
+        "value": "304-558-8000"
+      },
+      {
+        "kind": "phone",
+        "label": "WV One Stop Business Center (toll-free)",
+        "value": "866-767-8683"
+      },
+      {
+        "kind": "email",
+        "label": "One Stop Business Center",
+        "value": "Business@wvsos.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV One Stop Business Portal",
+        "url": "https://business4.wv.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to use; state filing fees apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://business4.wv.gov/",
+      "https://business4.wv.gov/resources/Pages/Contact-Us.aspx"
+    ]
+  },
+  {
+    "id": "wv-drs",
+    "name": "WV Division of Rehabilitation Services",
+    "agency": "West Virginia Division of Rehabilitation Services",
+    "category": "Disability",
+    "description": "Employment-focused vocational rehabilitation for West Virginians whose disability affects preparing for, obtaining, or keeping a job: counseling, training, and job-placement services. SSDI/SSI recipients planning to work are presumed eligible. Eligibility decisions are normally made within 60 days; there is no charge for VR services, though cost participation may apply to some services in the employment plan.",
+    "scope": {
+      "level": "state",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Disability that affects preparing for, obtaining, or keeping employment",
+      "SSDI/SSI recipients planning to work are presumed eligible"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Eligibility decision normally made within 60 days of application"
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local DRS office"
+    ],
+    "whatToBring": [
+      "Medical and employment documentation — staff will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV DRS",
+        "value": "1-800-642-8207"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV DRS — FAQ and services",
+        "url": "https://wvdrs.org/about/faq/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No charge for VR services; cost participation may apply to some employment-plan services",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wvdrs.org/about/faq/"
+    ]
+  },
+  {
+    "id": "fed-sba-wv",
+    "name": "SBA West Virginia District Office",
+    "agency": "U.S. Small Business Administration (SBA), West Virginia District Office",
+    "category": "Small Business",
+    "description": "Free counseling, loan-program guidance, and start-up help for West Virginia small businesses: business registration, licensing and zoning, tax, health and safety requirements, and connections to local resources. District office in Clarksburg; branch office in Charleston.",
+    "scope": {
+      "level": "federal",
+      "state": "WV"
+    },
+    "eligibility": [
+      "Small businesses and entrepreneurs in West Virginia"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the district or branch office"
+      }
+    ],
+    "prerequisites": [
+      "None — contact the district or branch office"
+    ],
+    "whatToBring": [
+      "Business plan and financial documents if seeking loan guidance"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Charleston branch",
+        "value": "304-347-5220"
+      },
+      {
+        "kind": "phone",
+        "label": "SBA Clarksburg district office",
+        "value": "304-623-5631"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA — doing business in the West Virginia District",
+        "url": "https://www.sba.gov/district/west-virginia/doing-business-west-virginia-district"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/west-virginia/doing-business-west-virginia-district",
+      "http://sba.gov/sites/default/files/staff-directories/west-virginia-district-office-directory-0207.pdf"
+    ]
   }
 ]
