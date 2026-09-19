@@ -41720,5 +41720,1607 @@
     "sources": [
       "https://www.sba.gov/loans/7a-loans/"
     ]
+  },
+  {
+    "id": "denver-311",
+    "name": "Denver 311 — Non-Emergency City Services",
+    "agency": "City and County of Denver",
+    "category": "Money & Taxes",
+    "description": "Denver 311 gives residents an accessible way to navigate city services — contact-center staff handle 40,000+ resident interactions a month. Online portal 24/7; agents Mon–Fri 7:00am–5:00pm MT.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Denver residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online 24/7; agents Mon–Fri 7:00am–5:00pm MT."
+      }
+    ],
+    "prerequisites": [
+      "None — contact directly"
+    ],
+    "whatToBring": [
+      "None — just describe your issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Denver 311",
+        "value": "3-1-1"
+      },
+      {
+        "kind": "phone",
+        "label": "Alternate phone",
+        "value": "720-913-1311"
+      },
+      {
+        "kind": "web",
+        "label": "Denver 311 City Services",
+        "value": "https://www.denvergov.org/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Denver 311 City Services",
+        "url": "https://www.denvergov.org/311"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.denvergov.org/311"
+    ]
+  },
+  {
+    "id": "denver-trua",
+    "name": "Denver Temporary Rental & Utility Assistance (TRUA)",
+    "agency": "Denver Department of Housing Stability (HOST)",
+    "category": "Housing",
+    "description": "Up to 6 months of rental assistance (arrears, current, and one future month) for eligible renter households, plus Denver Water/Xcel utility help alongside rental aid, and one-time relocation aid when eviction cannot be prevented. STATUS: not currently accepting applications — portal reopens 10:00 a.m. Tue Oct 20, 2026 and closes 9:59 a.m. Wed Oct 21, 2026 (monthly third-Tuesday windows, subject to funds).",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Household income at or below 80% of Area Median Income",
+      "Primary residence in the City and County of Denver",
+      "Financial hardship or housing crisis",
+      "Current Demand for Rent or active eviction case at application",
+      "Did not receive TRUA funding in 2025"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-21",
+        "label": "Next application window",
+        "note": "Portal opens 10:00 a.m. Tue Oct 20, 2026; closes 9:59 a.m. Wed Oct 21, 2026. Monthly openings subject to available funds."
+      }
+    ],
+    "prerequisites": [
+      "Random selection after each monthly window; selected applicants are invited by email to complete the application"
+    ],
+    "whatToBring": [
+      "Proof of income for each person 18+",
+      "Evidence of tenancy",
+      "Evidence of rent due (demand notice, ledger)",
+      "Photo ID issued by a governmental entity"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CARE Center (Mon–Fri 8:30am–5:30pm MT)",
+        "value": "303-838-1200"
+      },
+      {
+        "kind": "phone",
+        "label": "Colorado Housing Connects",
+        "value": "1-844-926-6632"
+      },
+      {
+        "kind": "web",
+        "label": "Rent and Utility Help — TRUA",
+        "value": "https://www.denvergov.org/RentAssistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rent and Utility Help — TRUA",
+        "url": "https://www.denvergov.org/RentAssistance"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.denvergov.org/RentAssistance",
+      "https://denvergov.org/files/assets/public/v/1/housing-stability/documents/2025-trua-program-guidelines_english_09.05.25.pdf"
+    ]
+  },
+  {
+    "id": "denverlibrary-central",
+    "name": "Denver Public Library — Central Library",
+    "agency": "Denver Public Library",
+    "category": "Education",
+    "description": "Free public library access downtown — books and media, computers and internet, classes, and research resources.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open during library hours."
+      }
+    ],
+    "prerequisites": [
+      "None — open to the public"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central Library",
+        "value": "720-865-1111"
+      },
+      {
+        "kind": "web",
+        "label": "Central Library",
+        "value": "https://www.denverlibrary.org/content/central-library"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Central Library — hours, services, resources",
+        "url": "https://www.denverlibrary.org/content/central-library"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.denverlibrary.org/content/central-library"
+    ]
+  },
+  {
+    "id": "rtd-live",
+    "name": "RTD LiVE — Income-Based Fare Discount",
+    "agency": "Regional Transportation District (RTD)",
+    "category": "Transportation",
+    "description": "40% discount on RTD fares for qualifying riders. Apply through Colorado PEAK; a suitable photo is required for the discount card.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Age 20–64",
+      "Live within the RTD service area",
+      "Household income at or below 185% of the federal poverty level"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of income and residency — the application lists required documents",
+      "A suitable photo for the discount card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RTD discounted fares / LiVE",
+        "value": "https://staging.rtd-denver.com/fares-passes/fares/discounted-fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RTD discounted fares — LiVE",
+        "url": "https://staging.rtd-denver.com/fares-passes/fares/discounted-fares"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; 40% off standard fares",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://staging.rtd-denver.com/fares-passes/fares/discounted-fares"
+    ]
+  },
+  {
+    "id": "cosprings-gocos",
+    "name": "GoCOS! — Colorado Springs Service Requests",
+    "agency": "City of Colorado Springs",
+    "category": "Money & Taxes",
+    "description": "GoCOS! — report issues, request city services, and contact city departments online; forms are available in multiple languages.",
+    "scope": {
+      "city": "Colorado Springs",
+      "county": "El Paso",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado Springs residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online 24/7."
+      }
+    ],
+    "prerequisites": [
+      "None — contact directly"
+    ],
+    "whatToBring": [
+      "None — describe the issue and its location"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GoCOS! — Contact Us",
+        "value": "https://cspd.coloradosprings.gov/gocos"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "GoCOS! — report an issue",
+        "url": "https://cspd.coloradosprings.gov/gocos"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cspd.coloradosprings.gov/gocos"
+    ]
+  },
+  {
+    "id": "cosprings-utilities-assistance",
+    "name": "Colorado Springs Utilities — Customer Assistance",
+    "agency": "Colorado Springs Utilities",
+    "category": "Utilities",
+    "description": "Payment plans and extensions for utility customers; Project COPE emergency aid once per year regardless of income; LEAP seasonal heating help (Nov 1–Apr 30); HEAP free energy and water efficiency upgrades for qualifying homeowners.",
+    "scope": {
+      "city": "Colorado Springs",
+      "county": "El Paso",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado Springs Utilities customers; program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "LEAP is seasonal (Nov 1–Apr 30); other programs year-round."
+      }
+    ],
+    "prerequisites": [
+      "None — contact customer assistance"
+    ],
+    "whatToBring": [
+      "Utility account information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer assistance",
+        "value": "719-448-4800"
+      },
+      {
+        "kind": "web",
+        "label": "Customer assistance",
+        "value": "https://www.csu.org/customer-assistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CSU customer assistance",
+        "url": "https://www.csu.org/customer-assistance/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.csu.org/customer-assistance/"
+    ]
+  },
+  {
+    "id": "aurora-access-aurora",
+    "name": "Access Aurora — Non-Emergency City Services",
+    "agency": "City of Aurora",
+    "category": "Money & Taxes",
+    "description": "Access Aurora — the city's non-emergency line for questions, comments, and service requests.",
+    "scope": {
+      "city": "Aurora",
+      "county": "Arapahoe",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Aurora residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact directly"
+    ],
+    "whatToBring": [
+      "None — describe your question or request"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Access Aurora",
+        "value": "303-739-7000"
+      },
+      {
+        "kind": "web",
+        "label": "Access Aurora",
+        "value": "https://www.auroragov.org/cms/one.aspx?pageId=16394020"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access Aurora",
+        "url": "https://www.auroragov.org/cms/one.aspx?pageId=16394020"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.auroragov.org/cms/one.aspx?pageId=16394020"
+    ]
+  },
+  {
+    "id": "arapahoe-county-human-services",
+    "name": "Arapahoe County Human Services",
+    "agency": "Arapahoe County Human Services",
+    "category": "Money & Taxes",
+    "description": "County office for public benefits and human services — apply for SNAP, Colorado Works/TANF, Medicaid, LEAP, and child care assistance in person or by phone. Aurora office: 14980 E. Alameda Dr.",
+    "scope": {
+      "city": "Aurora",
+      "county": "Arapahoe",
+      "level": "county",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Arapahoe County residents; program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the county office"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Human Services",
+        "value": "303-636-1130"
+      },
+      {
+        "kind": "web",
+        "label": "Human Services",
+        "value": "https://www.arapahoeco.gov/your_county/county_departments/human_services/index.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Arapahoe County Human Services",
+        "url": "https://www.arapahoeco.gov/your_county/county_departments/human_services/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.arapahoeco.gov/your_county/county_departments/human_services/index.php",
+      "https://cdhs.colorado.gov/contact-your-county"
+    ]
+  },
+  {
+    "id": "fortcollins-access",
+    "name": "Access Fort Collins — Service Requests",
+    "agency": "City of Fort Collins",
+    "category": "Money & Taxes",
+    "description": "Access Fort Collins — submit questions, comments, and service requests and track their status online, 24/7.",
+    "scope": {
+      "city": "Fort Collins",
+      "county": "Larimer",
+      "level": "city",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Fort Collins residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online 24/7."
+      }
+    ],
+    "prerequisites": [
+      "None — contact directly"
+    ],
+    "whatToBring": [
+      "None — describe the issue and its location"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Access Fort Collins",
+        "value": "https://www.fcgov.com/accessfortcollins"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Access Fort Collins — submit a request",
+        "url": "https://www.fcgov.com/accessfortcollins"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.fcgov.com/accessfortcollins"
+    ]
+  },
+  {
+    "id": "larimer-county-human-services",
+    "name": "Larimer County Human Services",
+    "agency": "Larimer County Human Services",
+    "category": "Money & Taxes",
+    "description": "County office for public benefits, child care assistance, child support, and aging services. The Midpoint lobby has permanently closed (secure drop box remains); in-person services continue at 1501 Blue Spruce Dr (Fort Collins), 200 Peridot Ave (Loveland), and 1601 Brodie Ave (Estes Park).",
+    "scope": {
+      "city": "Fort Collins",
+      "county": "Larimer",
+      "level": "county",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Larimer County residents; program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the county office"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Benefits / Child Care Assistance",
+        "value": "970-498-6300"
+      },
+      {
+        "kind": "phone",
+        "label": "Office on Aging",
+        "value": "970-498-7750"
+      },
+      {
+        "kind": "web",
+        "label": "Contact Human Services",
+        "value": "https://www.larimer.gov/humanservices/contact"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Larimer County Human Services — contact",
+        "url": "https://www.larimer.gov/humanservices/contact"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.larimer.gov/humanservices/contact"
+    ]
+  },
+  {
+    "id": "jeffco-human-services",
+    "name": "Jefferson County Human Services",
+    "agency": "Jefferson County Human Services",
+    "category": "Money & Taxes",
+    "description": "County office for public benefits and human services — apply for SNAP, Colorado Works/TANF, Medicaid, LEAP, and child care assistance. 900 Jefferson County Pkwy, Golden.",
+    "scope": {
+      "city": "Lakewood",
+      "county": "Jefferson",
+      "level": "county",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Jefferson County residents; program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact during office hours."
+      }
+    ],
+    "prerequisites": [
+      "None — contact the county office"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Human Services",
+        "value": "303-271-1388"
+      },
+      {
+        "kind": "web",
+        "label": "Human Services",
+        "value": "https://www.jeffco.us/4868/Human-Services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Jefferson County Human Services",
+        "url": "https://www.jeffco.us/4868/Human-Services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.jeffco.us/4868/Human-Services",
+      "https://cdhs.colorado.gov/contact-your-county"
+    ]
+  },
+  {
+    "id": "co-snap",
+    "name": "Colorado SNAP — Food Benefits",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Food",
+    "description": "Monthly food benefits for eligible low-income households, loaded on an EBT card. Apply through Colorado PEAK, by phone, or at your county human services office.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado residents with limited income and resources — see program page for current limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Colorado residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Food and Energy Assistance",
+        "value": "1-800-536-5298"
+      },
+      {
+        "kind": "web",
+        "label": "Apply on Colorado PEAK",
+        "value": "https://colorado.gov/PEAK"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://colorado.gov/PEAK",
+      "https://cdhs.colorado.gov/i-want-to",
+      "https://cdhs.colorado.gov/cash-assistance"
+    ]
+  },
+  {
+    "id": "co-health-first-colorado",
+    "name": "Health First Colorado & Child Health Plan Plus (CHP+)",
+    "agency": "Colorado Department of Health Care Policy & Financing (HCPF)",
+    "category": "Healthcare",
+    "description": "Health First Colorado (Colorado's Medicaid program) and Child Health Plan Plus — free or low-cost health coverage. There is no open enrollment period; apply any time of year.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado residents who meet program income and household rules — see program page for current limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No open enrollment — apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Colorado residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply on Colorado PEAK",
+        "value": "https://colorado.gov/PEAK"
+      },
+      {
+        "kind": "web",
+        "label": "Open enrollment FAQ",
+        "value": "https://www.healthfirstcolorado.gov/is-there-an-open-enrollment-period-for-health-first-colorado/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for health coverage on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.healthfirstcolorado.gov/is-there-an-open-enrollment-period-for-health-first-colorado/",
+      "https://hcpf.colorado.gov/forms"
+    ]
+  },
+  {
+    "id": "co-wic",
+    "name": "Colorado WIC — Nutrition Support for Families",
+    "agency": "Colorado WIC (Dept. of Public Health and Environment)",
+    "category": "Food",
+    "description": "Nutrition support, breastfeeding help, and food benefits for pregnant and postpartum people, infants, and children under 5. Referred applicants are contacted by WIC staff within 10 days; U.S. citizenship is not required.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado residents",
+      "Pregnant, postpartum, or breastfeeding, or a child under 5",
+      "Income guidelines apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; staff contact referrals within 10 days."
+      }
+    ],
+    "prerequisites": [
+      "None — apply directly through WIC"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Colorado residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WIC eligibility and application",
+        "value": "https://www.coloradowic.gov/eligibility/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Colorado WIC",
+        "url": "https://www.coloradowic.gov/eligibility/apply"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.coloradowic.gov/eligibility/apply",
+      "https://www.coloradowic.gov/eligibility"
+    ]
+  },
+  {
+    "id": "co-colorado-works",
+    "name": "Colorado Works — Cash Help for Families (TANF)",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Money & Taxes",
+    "description": "Colorado's TANF program — monthly cash assistance plus work and support services for families with children.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado residency",
+      "Pregnant or caring for a child under 18",
+      "Qualifying immigration status",
+      "Income and resource criteria — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through PEAK or your county office."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and Colorado residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CDHS",
+        "value": "303-866-5700"
+      },
+      {
+        "kind": "web",
+        "label": "Apply on Colorado PEAK",
+        "value": "https://colorado.gov/PEAK"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdhs.colorado.gov/colorado-works",
+      "https://cdhs.colorado.gov/cash-assistance"
+    ]
+  },
+  {
+    "id": "co-unemployment",
+    "name": "Colorado Unemployment Insurance",
+    "agency": "Colorado Department of Labor and Employment (CDLE)",
+    "category": "Employment",
+    "description": "Temporary wage replacement for workers who lost jobs through no fault of their own. File a claim online and certify regularly to keep receiving benefits.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado workers who lost work through no fault of their own and meet wage requirements — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; weekly certification required."
+      }
+    ],
+    "prerequisites": [
+      "Recent employment history in Colorado"
+    ],
+    "whatToBring": [
+      "Employment history and wage information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment claims",
+        "value": "303-318-9000"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-388-5515"
+      },
+      {
+        "kind": "phone",
+        "label": "Spanish — Denver metro",
+        "value": "303-318-9333"
+      },
+      {
+        "kind": "phone",
+        "label": "Spanish — toll-free",
+        "value": "1-866-422-0402"
+      },
+      {
+        "kind": "web",
+        "label": "File a claim",
+        "value": "https://cdle.colorado.gov/ui/claimants/start-a-claim"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://cdle.colorado.gov/ui/claimants/start-a-claim"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdle.colorado.gov/ui/claimants/start-a-claim",
+      "https://cdle.colorado.gov/ui/claimants/resources/faqs",
+      "https://cdle.colorado.gov/ui/contact-unemployment"
+    ]
+  },
+  {
+    "id": "co-leap",
+    "name": "Colorado LEAP — Heating Bill Assistance",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Utilities",
+    "description": "Low-income Energy Assistance Program — seasonal help paying winter heating bills, plus furnace repair or replacement in some cases.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado households with limited income facing heating costs — see program page for current limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Typically runs Nov 1–Apr 30 each heating season; confirm current program-year dates on the program page."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and heating costs — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LEAP",
+        "value": "1-866-432-8435"
+      },
+      {
+        "kind": "web",
+        "label": "LEAP program",
+        "value": "https://cdhs.colorado.gov/leap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdhs.colorado.gov/leap",
+      "https://cdhs.colorado.gov/press-release/leap-provides-eligible-coloradans-with-many-benefits"
+    ]
+  },
+  {
+    "id": "co-cccap",
+    "name": "Colorado Child Care Assistance Program (CCCAP)",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Family & Childcare",
+    "description": "Help paying for child care while parents work, look for work, or attend school or training. Apply through PEAK or your county human services office.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Families who are working, seeking work, or in school/training",
+      "Income and other criteria set by county — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and work/school schedule — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply on Colorado PEAK",
+        "value": "https://colorado.gov/PEAK"
+      },
+      {
+        "kind": "web",
+        "label": "Find your county office",
+        "value": "https://cdhs.colorado.gov/contact-your-county"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://colorado.gov/PEAK",
+      "https://cdhs.colorado.gov/i-want-to",
+      "https://fremontcountyco.gov/human-services/colorado-child-care-assistance-program"
+    ]
+  },
+  {
+    "id": "co-driver-licenses",
+    "name": "Colorado Driver Licenses & ID Cards",
+    "agency": "Colorado Division of Motor Vehicles (DMV)",
+    "category": "Transportation",
+    "description": "Apply for a new Colorado driver license or identification card. Check the required documents before visiting a driver license office or applying for certain services online.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Colorado residents — document requirements vary by credential type"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments and offices available year-round."
+      }
+    ],
+    "prerequisites": [
+      "None — bring required documents to your visit"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and lawful presence — see the documents page for your credential type"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "New license/ID cards",
+        "value": "https://dmv.colorado.gov/newcard"
+      },
+      {
+        "kind": "web",
+        "label": "Required documents",
+        "value": "https://dmv.colorado.gov/documents"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Colorado driver license / ID card",
+        "url": "https://dmv.colorado.gov/newcard"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by credential — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dmv.colorado.gov/newcard",
+      "https://dmv.colorado.gov/documents"
+    ]
+  },
+  {
+    "id": "co-business-registration",
+    "name": "Colorado Business Registration",
+    "agency": "Colorado Secretary of State",
+    "category": "Small Business",
+    "description": "File business documents online — form a new entity (LLC, corporation, nonprofit), file periodic reports, and search existing business records.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Anyone forming or maintaining a Colorado business entity"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Periodic reports have entity-specific due dates — see the Secretary of State site."
+      }
+    ],
+    "prerequisites": [
+      "None — file online"
+    ],
+    "whatToBring": [
+      "Business name, registered agent, and filing details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business and Licensing",
+        "value": "303-894-2200"
+      },
+      {
+        "kind": "web",
+        "label": "File business documents",
+        "value": "https://www.sos.state.co.us/biz/FileDoc.do"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File business documents online",
+        "url": "https://www.sos.state.co.us/biz/FileDoc.do"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sos.state.co.us/biz/FileDoc.do",
+      "https://www.coloradosos.gov/pubs/business/FAQs/finding.html",
+      "https://www.sos.state.co.us/pubs/business/FAQs/reports.html"
+    ]
+  },
+  {
+    "id": "co-legal-services",
+    "name": "Colorado Legal Services — Free Civil Legal Aid",
+    "agency": "Colorado Legal Services",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income and older Coloradans — housing, family, consumer, public benefits, and related cases. Does not handle criminal or traffic matters.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Low-income Coloradans; older adults — income screening applies"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — income screening at intake"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Colorado Legal Services",
+        "value": "303-837-1313"
+      },
+      {
+        "kind": "web",
+        "label": "Get legal help",
+        "value": "https://www.coloradolegalservices.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Colorado Legal Services — get help",
+        "url": "https://www.coloradolegalservices.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.coloradolegalservices.org/"
+    ]
+  },
+  {
+    "id": "co-211",
+    "name": "211 Colorado — Service Navigator",
+    "agency": "Mile High United Way / 211 Colorado",
+    "category": "Healthcare",
+    "description": "Multilingual, confidential referrals to food, shelter, rental assistance, child care, health services, and other local resources. Dial 2-1-1 from anywhere in Colorado.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Anyone in Colorado"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available daily."
+      }
+    ],
+    "prerequisites": [
+      "None — call or visit the site"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 helpline",
+        "value": "211"
+      },
+      {
+        "kind": "web",
+        "label": "211 community programs",
+        "value": "https://unitedwaydenver.org/community-programs/2-1-1/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "211 community programs",
+        "url": "https://unitedwaydenver.org/community-programs/2-1-1/"
+      }
+    ],
+    "languages": [
+      "English",
+      "more — multilingual service"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://unitedwaydenver.org/community-programs/2-1-1/"
+    ]
+  },
+  {
+    "id": "co-workforce-centers",
+    "name": "Colorado Workforce Centers",
+    "agency": "Colorado Department of Labor and Employment (CDLE)",
+    "category": "Employment",
+    "description": "Free job-search help, career counseling, training referrals, and hiring events at workforce centers across Colorado.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Job seekers in Colorado"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in or book during center hours."
+      }
+    ],
+    "prerequisites": [
+      "None — walk in or book"
+    ],
+    "whatToBring": [
+      "Resume and work history if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find a workforce center",
+        "value": "https://co.colorado.gov/workforce-centers"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a workforce center",
+        "url": "https://co.colorado.gov/workforce-centers"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://co.colorado.gov/workforce-centers",
+      "https://cdle.colorado.gov/jobs-training/workforce-centers"
+    ]
+  },
+  {
+    "id": "co-county-veterans",
+    "name": "County Veterans Service Offices",
+    "agency": "Colorado Division of Veterans Affairs",
+    "category": "Veterans",
+    "description": "Every Colorado county has a Veterans Service Office that helps veterans, dependents, and survivors file VA claims and connect with earned benefits.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Veterans, dependents, and survivors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your county office."
+      }
+    ],
+    "prerequisites": [
+      "None — contact your county office"
+    ],
+    "whatToBring": [
+      "DD-214 or other service documentation if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Arapahoe County Veterans Service",
+        "value": "303-738-8045"
+      },
+      {
+        "kind": "phone",
+        "label": "Adams County Veterans Service",
+        "value": "720-523-2770"
+      },
+      {
+        "kind": "web",
+        "label": "County Veterans Service Offices",
+        "value": "https://vets.colorado.gov/services-benefits/county-veterans-service-offices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your County Veterans Service Office",
+        "url": "https://vets.colorado.gov/services-benefits/county-veterans-service-offices"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vets.colorado.gov/services-benefits/county-veterans-service-offices"
+    ]
+  },
+  {
+    "id": "co-dvr",
+    "name": "Division of Vocational Rehabilitation (DVR)",
+    "agency": "Colorado Department of Labor and Employment (CDLE)",
+    "category": "Disability",
+    "description": "Employment services for Coloradans with disabilities — career counseling, training, assistive technology, and job placement support.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Coloradans with a disability who want to work — see program page for criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact DVR to determine eligibility"
+    ],
+    "whatToBring": [
+      "Disability and work history information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVR Aurora office",
+        "value": "303-671-4160"
+      },
+      {
+        "kind": "web",
+        "label": "DVR contact us",
+        "value": "https://dvr.colorado.gov/contact-us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DVR — contact us to get started",
+        "url": "https://dvr.colorado.gov/contact-us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dvr.colorado.gov/contact-us"
+    ]
+  },
+  {
+    "id": "co-988",
+    "name": "988 Colorado — Suicide & Crisis Lifeline",
+    "agency": "Colorado Behavioral Health Administration (BHA)",
+    "category": "Healthcare",
+    "description": "24/7 call or text 988 for suicide prevention and mental-health or substance-use crisis support; online chat also available. The former Colorado Crisis Services line (1-844-493-8255) now routes to 988.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Anyone in Colorado in crisis or supporting someone in crisis"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7."
+      }
+    ],
+    "prerequisites": [
+      "None — call, text, or chat any time"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Call or text",
+        "value": "988"
+      },
+      {
+        "kind": "phone",
+        "label": "Legacy Colorado Crisis Services line (routes to 988)",
+        "value": "1-844-493-8255"
+      },
+      {
+        "kind": "web",
+        "label": "988 in Colorado",
+        "value": "https://bha.colorado.gov/988"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "988 in Colorado",
+        "url": "https://bha.colorado.gov/988"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bha.colorado.gov/988"
+    ]
+  },
+  {
+    "id": "co-adult-financial",
+    "name": "Colorado Adult Financial Programs",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Money & Taxes",
+    "description": "Cash assistance for older adults and people with disabilities who have limited income — including Old Age Pension and Aid to the Needy Disabled. Apply through PEAK or your county office.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Older adults and people with disabilities with limited income — program-specific criteria apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "A Colorado PEAK account to apply online"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and residency — the application lists required documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CDHS",
+        "value": "303-866-5700"
+      },
+      {
+        "kind": "web",
+        "label": "Adult financial programs",
+        "value": "https://cdhs.colorado.gov/adult-financial-programs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Colorado PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdhs.colorado.gov/adult-financial-programs",
+      "https://colorado.gov/PEAK"
+    ]
+  },
+  {
+    "id": "co-state-unit-aging",
+    "name": "State Unit on Aging — Older Adult Services",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Seniors",
+    "description": "Connects older Coloradans with local Area Agencies on Aging — meals, transportation, caregiver support, and benefits counseling.",
+    "scope": {
+      "city": "Denver",
+      "county": "Denver",
+      "level": "state",
+      "state": "CO"
+    },
+    "eligibility": [
+      "Older Coloradans and their caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time."
+      }
+    ],
+    "prerequisites": [
+      "None — contact directly"
+    ],
+    "whatToBring": [
+      "None"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State Unit on Aging",
+        "value": "303-866-2800"
+      },
+      {
+        "kind": "web",
+        "label": "CDHS services",
+        "value": "https://cdhs.colorado.gov/i-want-to"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CDHS — find aging services",
+        "url": "https://cdhs.colorado.gov/i-want-to"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cdhs.colorado.gov/i-want-to"
+    ]
   }
 ]
