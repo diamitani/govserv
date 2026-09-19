@@ -64081,5 +64081,1640 @@
     "sources": [
       "http://va.gov/gulf-coast-health-care/contact-us"
     ]
+  },
+  {
+    "id": "nm-snap",
+    "name": "SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "New Mexico Health Care Authority (HCA)",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for eligible low-income households; eligibility depends on income, household size, and expenses. SNAP Outreach partners give free help with applications, recertifications, and document submission, and multilingual help is available.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Household income within program limits (income, household size, and expenses all matter)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, by mail/fax with a paper application, or in person at a local HCA Income Support Division office",
+      "New applicants and renewing households complete an interview (phone or in person)"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA Customer Service Center",
+        "value": "1-800-283-4465"
+      },
+      {
+        "kind": "phone",
+        "label": "Roadrunner Food Bank SNAP outreach (statewide phone help)",
+        "value": "844-684-6268"
+      },
+      {
+        "kind": "phone",
+        "label": "The Food Depot SNAP outreach",
+        "value": "505-531-5556"
+      },
+      {
+        "kind": "phone",
+        "label": "ECHO Food Bank SNAP outreach (San Juan County)",
+        "value": "505-787-4009"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP program info and how to apply (HCA)",
+        "url": "https://www.hca.nm.gov/lookingforassistance/snap-outreach/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hca.nm.gov/lookingforassistance/snap-outreach/"
+    ]
+  },
+  {
+    "id": "nm-medicaid",
+    "name": "Turquoise Care — New Mexico Medicaid",
+    "agency": "New Mexico Health Care Authority (HCA)",
+    "category": "Healthcare",
+    "description": "New Mexico's Medicaid managed care program (renamed Turquoise Care effective July 1, 2024). Members select among four managed care organizations — Blue Cross Blue Shield of New Mexico, Presbyterian Health Plan, Molina, and UnitedHealthcare — covering physical health, behavioral health, and long-term services. Most Medicaid members are in managed care; Native Americans may opt in.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Meet Medicaid eligibility rules for your category — income and household rules vary; see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply for Medicaid, then select a managed care organization (auto-assigned if you do not choose)"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA/HSD customer service",
+        "value": "1-800-283-4465"
+      },
+      {
+        "kind": "phone",
+        "label": "Turquoise Care MCO selection line",
+        "value": "1-888-997-2583"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Turquoise Care overview and how to apply (HCA)",
+        "url": "https://www.hca.nm.gov/turquoise-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hca.nm.gov/turquoise-care/"
+    ]
+  },
+  {
+    "id": "nm-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance Program",
+    "agency": "New Mexico Health Care Authority (HCA), Income Support Division",
+    "category": "Utilities",
+    "description": "Helps eligible lower-income households with heating and cooling costs. Crisis LIHEAP moves faster for households with disconnected service, a disconnect notice, or nearly depleted bulk fuel (wood, propane). Expect an interview about ten days after applying and a decision letter within 45 days. HCA also contracts with the NM Mortgage Finance Authority for weatherization (weather stripping, windows, furnaces, insulation).",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Income-eligible lower-income household — see program page",
+      "Crisis component: disconnected service, disconnect notice, or nearly out of bulk fuel"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Submit a completed application to the nearest Income Support Division office or through the YES-NM portal",
+      "Complete an interview about ten days after applying"
+    ],
+    "whatToBring": [
+      "Completed application form",
+      "Identity for one adult in the residence",
+      "Proof of income for the last 30 days",
+      "Proof of heating/cooling costs",
+      "Disconnect notice (for crisis LIHEAP)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA Customer Service Center",
+        "value": "1-800-283-4465"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIHEAP program info and what to bring (HCA)",
+        "url": "https://www.hsd.state.nm.us/lookingforassistance/low_income_home_energy_assistance_program/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hsd.state.nm.us/lookingforassistance/low_income_home_energy_assistance_program/"
+    ]
+  },
+  {
+    "id": "nm-mvd",
+    "name": "Driver Licenses and ID Cards — NM Motor Vehicle Division",
+    "agency": "New Mexico Motor Vehicle Division (MVD), Taxation & Revenue Department",
+    "category": "Transportation",
+    "description": "Issues REAL ID and Standard driver licenses and identification cards at MVD field offices statewide. First-time applicants bring 1 proof of ID number, 1 proof of identity, and 2 proofs of NM residency; eye, written, and road tests are required for first-time licensees. New residents must surrender their out-of-state license and apply for a NM license once residency is established. Fees are $18 for a 4-year license or $34 for an 8-year license.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "First-time licensees age 18–24 must complete the None for the Road DWI awareness class first",
+      "Applicants 25+ with a DWI conviction must show completion of an approved DWI prevention program"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Make an appointment at mvd.newmexico.gov",
+      "Gather identity, ID-number, and residency documents (originals; non-English documents need certified translation)"
+    ],
+    "whatToBring": [
+      "One proof of identification number",
+      "One proof of identity (one of the two must show date of birth)",
+      "Two proofs of New Mexico residency",
+      "None for the Road certificate (if required)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MVD — apply for a new driving credential",
+        "value": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/apply-for-a-new-driving-credential/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Any MVD field office (appointment recommended)",
+        "value": "mvd.newmexico.gov field offices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for a new driving credential (MVD)",
+        "url": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/apply-for-a-new-driving-credential/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$18 for a 4-year license; $34 for an 8-year license",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/apply-for-a-new-driving-credential/"
+    ]
+  },
+  {
+    "id": "nm-ui",
+    "name": "Unemployment Insurance — NMDWS",
+    "agency": "New Mexico Department of Workforce Solutions (NMDWS)",
+    "category": "Employment",
+    "description": "Temporary wage replacement for workers who lost their jobs through no fault of their own. File a new claim online through the NM Workforce Connection system or by phone; weekly certifications and at least two work searches per week are required unless exempted.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Earned enough wages in the base period (generally the first four of the previous five calendar quarters)",
+      "Job separation under non-disqualifying conditions (not a voluntary quit without good cause or firing for misconduct)",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Register or log in to a New Mexico Workforce Connection account",
+      "File weekly certifications and keep a work-search log (two searches per week unless exempted)"
+    ],
+    "whatToBring": [
+      "Social Security number (alien registration number if non-citizen)",
+      "Employer names, addresses, and phone numbers for the last 18 months with start/end dates",
+      "Gross pay amount if you worked during the week you file"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NMDWS Unemployment Insurance Operations Center (Mon–Fri 8:00 a.m.–4:30 p.m.)",
+        "value": "1-877-664-6984"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to file for unemployment in NM (Albuquerque Public Library guide, cites NMDWS)",
+        "url": "https://libanswers.abqlibrary.org/branches/faq/27738"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — there is never a fee to file",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://libanswers.abqlibrary.org/branches/faq/27738"
+    ]
+  },
+  {
+    "id": "nm-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "New Mexico Department of Health (NMDOH), Public Health Division",
+    "category": "Food",
+    "description": "Monthly food benefits loaded to a WIC EBT card plus nutrition education, breastfeeding support, and health referrals for pregnant, postpartum, and breastfeeding women, infants, and children under 5, served through public health clinics statewide.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Pregnant, postpartum, or breastfeeding woman; infant; or child under 5",
+      "See the program page for income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Request an appointment online or call a local WIC clinic; each person applying attends the appointment in person"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Roswell Public Health Office WIC",
+        "value": "575-624-6171"
+      },
+      {
+        "kind": "phone",
+        "label": "Las Cruces Public Health Office WIC",
+        "value": "575-528-5047"
+      },
+      {
+        "kind": "phone",
+        "label": "Farmers' Market Nutrition Program",
+        "value": "505-469-0548"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a WIC clinic (official NM WIC)",
+        "url": "https://www.nmwic.org/locations/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmwic.org/locations/",
+      "https://www.nmwic.org/fmnp/"
+    ]
+  },
+  {
+    "id": "nm-opportunity-scholarship",
+    "name": "NM Opportunity & Lottery Scholarships — Tuition-Free College",
+    "agency": "New Mexico Higher Education Department (HED)",
+    "category": "Education",
+    "description": "New Mexico's tuition-free college program: the Lottery Scholarship covers recent high school graduates enrolling full time, and the Opportunity Scholarship covers returning adult learners, part-time students, and students pursuing high-demand career training certificates. Most NM students qualify and can have required fees covered. There is no separate application — the 29 partnering public colleges and universities award the funds directly.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Enrolled at least 6 credit hours toward a certificate, associate, or bachelor's degree at a participating NM public college or university",
+      "Fewer than 90 attempted credit hours toward an associate degree or 160 toward a bachelor's",
+      "Lottery Scholarship: recent high school graduate enrolling full time"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Enroll at a participating New Mexico public college or university",
+      "Contact the school's financial aid office to determine which scholarship applies"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by school; check with the financial aid office"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HED Financial Aid Hotline (Mon–Fri 8 a.m.–5 p.m.)",
+        "value": "1-800-279-9777"
+      },
+      {
+        "kind": "email",
+        "label": "HED financial aid email",
+        "value": "fin.aid@hed.nm.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tuition-free college Q&A (NM Higher Education Department)",
+        "url": "https://hed.nm.gov/news/new-mexico-higher-education-department-addresses-questions-on-tuition-free-college"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hed.nm.gov/news/new-mexico-higher-education-department-addresses-questions-on-tuition-free-college"
+    ]
+  },
+  {
+    "id": "abq-ride",
+    "name": "ABQ RIDE — Albuquerque Bus Service",
+    "agency": "City of Albuquerque Transit Department (ABQ RIDE)",
+    "category": "Transportation",
+    "description": "Albuquerque's main public bus system: fixed routes plus ART rapid transit run on set routes across the city. All ABQ RIDE services are Zero Fares — ride for free, no pass or reservation needed.",
+    "scope": {
+      "level": "city",
+      "city": "Albuquerque",
+      "county": "Bernalillo County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to everyone — no eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "None — board at any signed bus stop"
+    ],
+    "whatToBring": [
+      "Nothing required — all services are fare-free"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ABQ RIDE Customer Service (trip planning and route support)",
+        "value": "243-RIDE (7433)"
+      },
+      {
+        "kind": "web",
+        "label": "ABQ RIDE routes and schedules",
+        "value": "https://www.cabq.gov/transit/routes-and-schedules/routes-and-schedules"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ABQ RIDE routes and schedules (City of Albuquerque)",
+        "url": "https://www.cabq.gov/transit/routes-and-schedules/routes-and-schedules"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — Zero Fares program",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cabq.gov/transit/routes-and-schedules/routes-and-schedules"
+    ]
+  },
+  {
+    "id": "abq-311",
+    "name": "ABQ311 — Albuquerque Community Contact Center",
+    "agency": "City of Albuquerque (311 Division)",
+    "category": "Legal Aid",
+    "description": "One-stop contact for all non-emergency City of Albuquerque services and questions: report potholes, graffiti, weeds, missed trash pickup, broken streetlights, and abandoned vehicles, or request services like large-item garbage pickup and new trash carts. Reach ABQ311 online or through the channels listed on the ABQ311 page.",
+    "scope": {
+      "level": "city",
+      "city": "Albuquerque",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Anyone with a City of Albuquerque question or non-emergency service request"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Have the address or location of the issue ready"
+    ],
+    "whatToBring": [
+      "Not applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ABQ311 Community Contact Center",
+        "value": "https://www.cabq.gov/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ABQ311 Community Contact Center (City of Albuquerque)",
+        "url": "https://www.cabq.gov/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cabq.gov/311"
+    ]
+  },
+  {
+    "id": "sf-trails",
+    "name": "Santa Fe Trails — City Bus Service",
+    "agency": "City of Santa Fe Transit Division",
+    "category": "Transportation",
+    "description": "Santa Fe's public bus system with fixed routes running daily, 7 a.m.–8 p.m. Fares: $1 one-way adult, $0.50 half fare (seniors 60+, people with qualifying disabilities, students), free for youth 18 and younger, active-duty military, veterans, and city employees.",
+    "scope": {
+      "level": "city",
+      "city": "Santa Fe",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "None — board at any stop"
+    ],
+    "whatToBring": [
+      "Fare payment ($1 adult; $0.50 half fare)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Santa Fe Transit customer service",
+        "value": "505-955-2001"
+      },
+      {
+        "kind": "phone",
+        "label": "Santa Fe Transit toll-free",
+        "value": "866-551-7433"
+      },
+      {
+        "kind": "web",
+        "label": "Santa Fe Transit Division",
+        "value": "https://santafenm.gov/public-works/transit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Santa Fe Transit Division — fares, routes, schedules (City of Santa Fe)",
+        "url": "https://santafenm.gov/public-works/transit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1 one-way adult; $0.50 half fare; free for youth 18 and under, veterans, active-duty military, city employees",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://santafenm.gov/public-works/transit"
+    ]
+  },
+  {
+    "id": "lc-roadrunner",
+    "name": "Roadrunner Transit — Las Cruces Bus Service",
+    "agency": "City of Las Cruces",
+    "category": "Transportation",
+    "description": "Las Cruces' public bus system: 8 fixed routes serving shopping areas, employment centers, healthcare facilities, NMSU, and recreation destinations. All bus rides are zero-fare.",
+    "scope": {
+      "level": "city",
+      "city": "Las Cruces",
+      "county": "Doña Ana County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to everyone — no eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "None — board at any stop"
+    ],
+    "whatToBring": [
+      "Nothing required — zero-fare service"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Roadrunner Transit (City of Las Cruces)",
+        "value": "https://lascruces.gov/community/transportation/roadrunner-transit/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Roadrunner Transit routes and info (City of Las Cruces)",
+        "url": "https://lascruces.gov/community/transportation/roadrunner-transit/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — zero-fare service",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lascruces.gov/community/transportation/roadrunner-transit/"
+    ]
+  },
+  {
+    "id": "rr-riometro",
+    "name": "Rio Metro — Rio Rancho Demand-Response Transit",
+    "agency": "Rio Metro Regional Transit District",
+    "category": "Transportation",
+    "description": "Public door-to-door shared-ride service within Rio Rancho city limits, plus fixed bus routes connecting Rio Rancho to the Rail Runner and Albuquerque. Rio Rancho demand-response is for seniors 62+ and people with disabilities 18+ (Valencia County service is open to the general public). Reserve by phone one day in advance before noon. Fares apply — check the Rider's Guide (dated September 2022; confirm current fares when booking).",
+    "scope": {
+      "level": "city",
+      "city": "Rio Rancho",
+      "county": "Sandoval County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Rio Rancho: seniors 62+ and individuals with disabilities 18+ (reduced rate); children 17 and under may ride with eligible riders",
+      "Valencia County: open to the general public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Call 505-404-2063 (Rio Rancho) or 505-352-3595 (Valencia County) at least one day in advance before 12 noon",
+      "Have pickup and destination addresses plus desired pickup time ready"
+    ],
+    "whatToBring": [
+      "Name, address, scheduled pickup time; fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rio Rancho ride reservations",
+        "value": "505-404-2063"
+      },
+      {
+        "kind": "phone",
+        "label": "Rio Metro customer service",
+        "value": "1-866-795-7245"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rio Metro Rider's Guide (policies, fares, how to schedule)",
+        "url": "https://riometro.org/DocumentCenter/View/472/Rio-Metro-Riders-Guide---English-PDF?bidId="
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; confirm current fares when booking (published Rider's Guide is from 2022)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://riometro.org/DocumentCenter/View/472/Rio-Metro-Riders-Guide---English-PDF?bidId="
+    ]
+  },
+  {
+    "id": "nm-childcare",
+    "name": "Universal Child Care Assistance",
+    "agency": "New Mexico Early Childhood Education & Care Department (ECECD)",
+    "category": "Family & Childcare",
+    "description": "Effective November 1, 2025, New Mexico offers no-cost universal child care for families that are working or in school — regardless of income, no copays, no fees. Grandparents raising grandchildren, families caring for substance-exposed babies, families experiencing housing instability, and CYFD-involved families do not need to meet the work/school requirement. Includes centers, home-based providers, before/after-school, and summer programs. Only the child's immigration status is considered.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico family that is working or in school (or exempt: grandparent caregivers, families experiencing housing instability, CYFD-involved families, families caring for substance-exposed infants)",
+      "Child must be a U.S. citizen, legal resident, or qualified immigrant"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply through ECECD (see the at-a-glance guide for how to apply)",
+      "Choose an ECECD-approved provider"
+    ],
+    "whatToBring": [
+      "Current proof of income",
+      "Birth verification for all children in the household",
+      "Proof of New Mexico residency (NM ID/driver's license, lease, utility bill, or mortgage)",
+      "Photo ID of the applicant",
+      "School/training schedule for adults (if applicable)",
+      "Contact info for your ECECD-approved provider"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UNM Child Care Resource & Referral (help finding providers)",
+        "value": "1-800-691-9067"
+      },
+      {
+        "kind": "web",
+        "label": "ECECD universal child care at-a-glance guide (PDF)",
+        "value": "https://www.nmececd.org/wp-content/uploads/2025/09/At-A-Glance-for-Families-Sept-2025_FINAL_ENG_SPAN.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Universal child care at-a-glance for families (ECECD)",
+        "url": "https://www.nmececd.org/wp-content/uploads/2025/09/At-A-Glance-for-Families-Sept-2025_FINAL_ENG_SPAN.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free — no copays or fees for families",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmececd.org/wp-content/uploads/2025/09/At-A-Glance-for-Families-Sept-2025_FINAL_ENG_SPAN.pdf"
+    ]
+  },
+  {
+    "id": "nm-legalaid",
+    "name": "New Mexico Legal Aid",
+    "agency": "New Mexico Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal services statewide for low-income New Mexicans and for victims of violence. Help with public benefits, affordable housing and landlord/tenant issues, domestic violence and family law, foreclosure, consumer rights, migrant farmworkers, veterans, and low-income taxpayer disputes with the IRS. Services range from advice to full representation.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Low-income New Mexico residents",
+      "Victims of violence served regardless of income"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Call 1-833-LGL-HELP (1-833-545-4357) or complete the online application"
+    ],
+    "whatToBring": [
+      "Details of your legal issue; income information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "New Mexico Legal Aid statewide intake (1-833-LGL-HELP)",
+        "value": "1-833-545-4357"
+      },
+      {
+        "kind": "phone",
+        "label": "Business line",
+        "value": "1-866-416-1922"
+      },
+      {
+        "kind": "web",
+        "label": "New Mexico Legal Aid",
+        "value": "https://newmexicolegalaid.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Mexico Legal Aid — call or apply online",
+        "url": "https://newmexicolegalaid.org/?p=731"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://newmexicolegalaid.org/?p=731"
+    ]
+  },
+  {
+    "id": "nm-tanf",
+    "name": "TANF / NMWorks — Cash Assistance",
+    "agency": "New Mexico Health Care Authority (HCA)",
+    "category": "Money & Taxes",
+    "description": "Monthly cash assistance for families with dependent children to meet basic needs like housing, utilities, and clothing. In New Mexico the federal TANF program is known as NMWorks, administered by HCA's Income Support Division.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Live in New Mexico",
+      "Families with dependent children, within program income and resource limits — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local ISD Family Community Resource Center or the YES-NM portal",
+      "Provide monthly income information; an interview is required"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA Customer Service Center (Mon–Fri 7 a.m.–6:30 p.m.)",
+        "value": "1-800-283-4465"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TANF/NMWorks cash assistance overview (HCA)",
+        "url": "https://www.hca.nm.gov/2023/09/01/state-announces-a-23-percent-increase-in-cash-assistance-for-low-income-new-mexico-families/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hca.nm.gov/2023/09/01/state-announces-a-23-percent-increase-in-cash-assistance-for-low-income-new-mexico-families/"
+    ]
+  },
+  {
+    "id": "nm-prek",
+    "name": "New Mexico PreK",
+    "agency": "New Mexico Early Childhood Education & Care Department (ECECD)",
+    "category": "Education",
+    "description": "Free preschool for three- and four-year-olds delivered in community-based, school-based, and some Head Start settings.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Children ages 3 and 4 (PreK eligible age group)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local PreK site directly to enroll; openings vary by site"
+    ],
+    "whatToBring": [
+      "Child's age/birth verification; proof of address — check with your local site"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "New Mexico PreK info (ECECD)",
+        "value": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ECECD family supports — includes New Mexico PreK (nmececd.org)",
+        "url": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+    ]
+  },
+  {
+    "id": "nm-homevisiting",
+    "name": "ECECD Home Visiting",
+    "agency": "New Mexico Early Childhood Education & Care Department (ECECD)",
+    "category": "Family & Childcare",
+    "description": "Free in-home visits from a trained expert for New Mexico families with children ages prenatal to five — regardless of income. Visits cover safe sleep, injury prevention, nutrition, breastfeeding, child care guidance, and parenting support.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "All New Mexico families with children ages prenatal-to-five (no income requirement)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Find your county's Home Visiting provider and contact them directly"
+    ],
+    "whatToBring": [
+      "Not applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ECECD Home Visiting info",
+        "value": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ECECD family supports — includes Home Visiting (nmececd.org)",
+        "url": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+    ]
+  },
+  {
+    "id": "nm-fit",
+    "name": "Family Infant Toddler (FIT) Early Intervention",
+    "agency": "New Mexico Early Childhood Education & Care Department (ECECD)",
+    "category": "Disability",
+    "description": "Free evaluations and early intervention services for New Mexico infants and toddlers with suspected developmental delays or disabilities. If you are concerned your baby or toddler is not developing as expected, FIT provides therapies and developmental services and coaches families on supporting development at home — free for all families.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico families with infants and toddlers",
+      "Children experiencing developmental delays or disabilities (evaluation determines eligibility)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Contact ECECD's FIT program to request a free evaluation"
+    ],
+    "whatToBring": [
+      "Child's information; any medical or developmental records you have"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FIT program info (ECECD)",
+        "value": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ECECD family supports — includes FIT early intervention (nmececd.org)",
+        "url": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — evaluations and services are free for all families",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+    ]
+  },
+  {
+    "id": "nm-families-first",
+    "name": "Families FIRST Perinatal Case Management",
+    "agency": "New Mexico Early Childhood Education & Care Department (ECECD)",
+    "category": "Family & Childcare",
+    "description": "Free support during pregnancy, infancy, and the first three years of a child's life for Medicaid-eligible New Mexico families. Families FIRST nurses provide education, resources, and advice on pregnancy, health, nutrition, and nurturing to help families get a healthy start.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Medicaid-eligible families in New Mexico during pregnancy, infancy, and the first three years"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Call 1-877-842-4152 to reach Families FIRST"
+    ],
+    "whatToBring": [
+      "Not applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Families FIRST",
+        "value": "1-877-842-4152"
+      },
+      {
+        "kind": "web",
+        "label": "Families FIRST info (ECECD)",
+        "value": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ECECD family supports — includes Families FIRST (nmececd.org)",
+        "url": "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmececd.org/2023/08/09/ececd-offers-expansive-supports-to-families-as-children-head-back-to-school/"
+    ]
+  },
+  {
+    "id": "nm-adrc",
+    "name": "Aging and Disability Resource Center (ADRC)",
+    "agency": "New Mexico Aging and Long-Term Services Department (ALTSD)",
+    "category": "Seniors",
+    "description": "Statewide information and assistance hub for older New Mexicans, people with disabilities, and caregivers. The ADRC connects callers to home and community-based services, in-home services, health-insurance counseling, and caregiver and nutrition supports. Call Monday–Friday, 7:45 a.m.–5 p.m. MT.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Older New Mexicans",
+      "People with disabilities",
+      "Family caregivers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Call the ADRC at 1-800-432-2080"
+    ],
+    "whatToBring": [
+      "Information about your situation and needs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADRC (Mon–Fri 7:45 a.m.–5 p.m. MT)",
+        "value": "1-800-432-2080"
+      },
+      {
+        "kind": "web",
+        "label": "ALTSD contact page",
+        "value": "https://www.aging.nm.gov/contact-us/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ALTSD Contact Us — ADRC, ombudsman, office info (aging.nm.gov)",
+        "url": "https://www.aging.nm.gov/contact-us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.aging.nm.gov/contact-us/"
+    ]
+  },
+  {
+    "id": "nm-ombudsman",
+    "name": "Long-Term Care Ombudsman Program",
+    "agency": "New Mexico Aging and Long-Term Services Department (ALTSD)",
+    "category": "Seniors",
+    "description": "Free, confidential, statewide advocacy for residents of nursing homes, assisted living, and other long-term care facilities. Ombudsmen advocate for residents' rights, investigate complaints, help resolve concerns, and work to ensure quality of care.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Adults living in any New Mexico long-term care facility; their families and caregivers may also seek help"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Call the statewide toll-free hotline to report facility abuse, neglect, or exploitation"
+    ],
+    "whatToBring": [
+      "Not applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Long-Term Care Ombudsman (toll-free, statewide)",
+        "value": "1-866-451-2901"
+      },
+      {
+        "kind": "web",
+        "label": "Ombudsman program (ALTSD)",
+        "value": "https://www.aging.nm.gov/ombudsman/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ALTSD Contact Us — ombudsman hotline (aging.nm.gov)",
+        "url": "https://www.aging.nm.gov/contact-us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — confidential statewide",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.aging.nm.gov/contact-us/",
+      "https://www.aging.nm.gov/ombudsman/"
+    ]
+  },
+  {
+    "id": "nm-fmnp",
+    "name": "Farmers' Market Nutrition Program",
+    "agency": "New Mexico Department of Health (DOH) WIC",
+    "category": "Seniors",
+    "description": "Seasonal benefits (May–October each year) to buy fresh fruits and vegetables at approved farmers' markets. Senior FMNP: NM residents age 60+ (or Native American age 55+) with qualifying income apply online or at senior centers, CSFP sites, public-health WIC clinics, or the state office. WIC FMNP: active WIC participants who are pregnant, breastfeeding, postpartum, or infants/children 6 months to 5 years apply through their local WIC clinic.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Seniors: New Mexico residents age 60+ (or Native American age 55+) meeting income requirements",
+      "WIC FMNP: active NM WIC participants who are pregnant, breastfeeding, postpartum, or infants/children 6 months–5 years"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Seniors: apply online or at participating senior centers, CSFP sites, WIC public-health clinics, or the state office",
+      "WIC participants: apply at your local WIC clinic"
+    ],
+    "whatToBring": [
+      "Proof of age, residency, and income (seniors); active WIC status (WIC FMNP)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NM FMNP program",
+        "value": "505-469-0548"
+      },
+      {
+        "kind": "phone",
+        "label": "NM FMNP program (alternate)",
+        "value": "505-487-0904"
+      },
+      {
+        "kind": "email",
+        "label": "NM FMNP email",
+        "value": "doh.fmnp@doh.nm.gov"
+      },
+      {
+        "kind": "web",
+        "label": "NM Farmers' Market Nutrition Program",
+        "value": "https://www.nmwic.org/fmnp/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NM Farmers' Market Nutrition Program (nmwic.org)",
+        "url": "https://www.nmwic.org/fmnp/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free benefit",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nmwic.org/fmnp/"
+    ]
+  },
+  {
+    "id": "abq-library",
+    "name": "Public Library — Albuquerque/Bernalillo County",
+    "agency": "City of Albuquerque (Public Library Albuquerque and Bernalillo County)",
+    "category": "Education",
+    "description": "19 public library branches across Albuquerque and Bernalillo County with free Wi-Fi at every location, books, eBooks, eResources, events, and services like Tech Turn Up (free tech help, no appointment needed at Central & Unser) and ESL conversation groups. Library cards are free for New Mexico residents; apply in person at any branch with photo ID and proof of mailing address — your card works right away at all branches and for all eResources.",
+    "scope": {
+      "level": "city",
+      "city": "Albuquerque",
+      "county": "Bernalillo County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "New Mexico residents (must apply in person and re-verify NM residency every three years)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at any of the 19 branches"
+    ],
+    "whatToBring": [
+      "Current photo ID and proof of mailing address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main Library (501 Copper NW)",
+        "value": "505-768-5141"
+      },
+      {
+        "kind": "phone",
+        "label": "Central & Unser",
+        "value": "505-768-4320"
+      },
+      {
+        "kind": "web",
+        "label": "Library hours and locations",
+        "value": "https://abqlibrary.org/hours-locations"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card (abqlibrary.org)",
+        "url": "https://abqlibrary.org/librarycards"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://abqlibrary.org/hours-locations"
+    ]
+  },
+  {
+    "id": "sf-library",
+    "name": "Santa Fe Public Library",
+    "agency": "City of Santa Fe",
+    "category": "Education",
+    "description": "Public library system for Santa Fe with multiple branches offering books, media, museum passes, technology (hotspots, laptops), no-fine overdue policy (blocking only after 28 days), and automatic renewals. Register in person at the Circulation desk with picture ID and proof of mailing address. Anyone who lives, works, or goes to school in the City of Santa Fe or Santa Fe County qualifies; holders of any other New Mexico public library card are also eligible.",
+    "scope": {
+      "level": "city",
+      "city": "Santa Fe",
+      "county": "Santa Fe County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Live, work, or go to school in the City of Santa Fe or Santa Fe County",
+      "Holders of a library card from any other New Mexico public library"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Fill out an application at the Circulation desk of any Santa Fe Public Library branch"
+    ],
+    "whatToBring": [
+      "Picture ID and proof of mailing address",
+      "Parent/guardian signature for children under 13"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card (santafelibrary.org)",
+        "value": "https://www.santafelibrary.org/get-a-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a library card (santafelibrary.org)",
+        "url": "https://www.santafelibrary.org/get-a-card"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.santafelibrary.org/get-a-card"
+    ]
+  },
+  {
+    "id": "lc-library",
+    "name": "Las Cruces Public Libraries",
+    "agency": "City of Las Cruces",
+    "category": "Education",
+    "description": "Las Cruces' public library system: Thomas Branigan Memorial Library (200 E Picacho Ave, Mon–Thu 9 a.m.–8 p.m., Fri–Sat 9 a.m.–6 p.m.) and the Munson Branch (975 S Mesquite St, Mon–Fri 10 a.m.–2:30 p.m.). Books, digital resources, computer labs, and programs for all ages.",
+    "scope": {
+      "level": "city",
+      "city": "Las Cruces",
+      "county": "Doña Ana County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Visit a branch or the libraries page to register for a card"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address (unverified)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Thomas Branigan Memorial Library",
+        "value": "575-528-4000"
+      },
+      {
+        "kind": "phone",
+        "label": "Munson Branch Library",
+        "value": "575-528-3406"
+      },
+      {
+        "kind": "web",
+        "label": "Las Cruces Public Libraries",
+        "value": "https://lascruces.gov/arts-and-leisure/libraries/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Las Cruces Public Libraries (lascruces.gov)",
+        "url": "https://lascruces.gov/arts-and-leisure/libraries/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lascruces.gov/arts-and-leisure/libraries/"
+    ]
+  },
+  {
+    "id": "rr-library",
+    "name": "Rio Rancho Public Library",
+    "agency": "City of Rio Rancho",
+    "category": "Education",
+    "description": "Rio Rancho's public library system: Loma Colorado Main Library, Esther Bone Memorial Library, and The HUB @ Enchanted Hills (Tue–Sat 9 a.m.–6 p.m.). Books, ebooks, movies, Wi-Fi, public computers, checkout kits, printing, and meeting rooms. One Rio Rancho library card works at all three locations. Call 505-891-5008 for library information.",
+    "scope": {
+      "level": "city",
+      "city": "Rio Rancho",
+      "county": "Sandoval County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Register for a card at any Rio Rancho library location"
+    ],
+    "whatToBring": [
+      "Photo ID and proof of address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rio Rancho library front desk",
+        "value": "505-891-5008"
+      },
+      {
+        "kind": "web",
+        "label": "Rio Rancho library locations (The HUB page)",
+        "value": "https://rrnm.gov/4838/The-HUB"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rio Rancho library information (rrnm.gov)",
+        "url": "https://rrnm.gov/4838/The-HUB"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rrnm.gov/4838/The-HUB"
+    ]
+  },
+  {
+    "id": "roswell-transit",
+    "name": "Roswell Transit — Fixed Route & Diala-Ride",
+    "agency": "City of Roswell",
+    "category": "Transportation",
+    "description": "Roswell's public bus system: daily fixed-route service from the Roswell Air Center/ENMU to the Roswell Mall, Diala-Ride on-demand service to stops off the fixed route (call 575-624-6766, vehicle usually arrives in under 20 minutes), federally mandated ADA complementary paratransit, and airport shuttle service. Fares: $0.25 one-way for all riders (children under 5, veterans, and personal attendants ride free); paratransit punch cards 20 rides for $6.00.",
+    "scope": {
+      "level": "city",
+      "city": "Roswell",
+      "county": "Chaves County",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Open to everyone (fixed route and Diala-Ride)",
+      "ADA complementary paratransit for certified eligible riders with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Diala-Ride: call 575-624-6766 to dispatch; airport shuttle trips outside normal hours must be reserved by 5 p.m. the day before"
+    ],
+    "whatToBring": [
+      "Exact fare ($0.25); paratransit applications available at the terminal or online"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Roswell Transit (Diala-Ride dispatch and info)",
+        "value": "(575) 624-6766"
+      },
+      {
+        "kind": "web",
+        "label": "Roswell Transit passenger guide and schedule",
+        "value": "https://Roswell-nm.gov/DocumentCenter/View/25723/2024-Transit-Guide"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Roswell Transit Passenger Guide & Schedule (roswell-nm.gov)",
+        "url": "https://Roswell-nm.gov/DocumentCenter/View/25723/2024-Transit-Guide"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$0.25 one-way; free for children under 5, military veterans, and personal attendants",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://Roswell-nm.gov/DocumentCenter/View/25723/2024-Transit-Guide"
+    ]
+  },
+  {
+    "id": "nm-dvr",
+    "name": "Division of Vocational Rehabilitation (DVR)",
+    "agency": "New Mexico Division of Vocational Rehabilitation",
+    "category": "Disability",
+    "description": "Free employment services helping New Mexicans with disabilities (ages 14+) secure and retain work matching their abilities and interests. A comprehensive assessment determines goals and services — vocational rehabilitation counseling, career planning, ADA/accommodation guidance, assistive technology, job training, and Social Security Ticket to Work information. Offices in Albuquerque, Las Cruces, Rio Rancho, Roswell, Santa Fe, and more.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "Individuals ages 14+ with a disability seeking employment",
+      "Assessment determines goals, objectives, nature, and scope of services"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local DVR office to start the assessment process"
+    ],
+    "whatToBring": [
+      "Medical/disability documentation; work history"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVR Santa Fe administration (toll-free)",
+        "value": "(800) 224-7005"
+      },
+      {
+        "kind": "phone",
+        "label": "DVR Santa Fe administration",
+        "value": "(505) 954-8500"
+      },
+      {
+        "kind": "phone",
+        "label": "DVR Las Cruces",
+        "value": "(575) 524-6135"
+      },
+      {
+        "kind": "phone",
+        "label": "DVR Rio Rancho",
+        "value": "(505) 896-4500"
+      },
+      {
+        "kind": "phone",
+        "label": "DVR Roswell",
+        "value": "(575) 624-6024"
+      },
+      {
+        "kind": "phone",
+        "label": "DVR Albuquerque Lomas",
+        "value": "(505) 383-2500"
+      },
+      {
+        "kind": "web",
+        "label": "NM DVR office locations (Share NM)",
+        "value": "https://sharenm.org/nm-division-of-vocational-rehabilitation-dvr/new-mexico-dept-of-vocational-rehabilitation"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NM DVR locations and info (sharenm.org)",
+        "url": "https://sharenm.org/nm-division-of-vocational-rehabilitation-dvr/new-mexico-dept-of-vocational-rehabilitation"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sharenm.org/nm-division-of-vocational-rehabilitation-dvr/new-mexico-dept-of-vocational-rehabilitation"
+    ]
+  },
+  {
+    "id": "nm-biz",
+    "name": "SOS Business Services — Start & Maintain a Business",
+    "agency": "New Mexico Secretary of State",
+    "category": "Small Business",
+    "description": "New Mexico's one-stop shop for business registration: corporations, LLCs, and partnerships must register with the Secretary of State. All business filings have moved online — no paper filings accepted. File, report, amend, change your registered agent, or obtain certificates through the online filing portal. Walk-in hours Monday–Thursday; online and phone services also available.",
+    "scope": {
+      "level": "state",
+      "state": "NM"
+    },
+    "eligibility": [
+      "All corporations, LLCs, and partnerships doing business in New Mexico must register"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; see program page for processing timelines."
+      }
+    ],
+    "prerequisites": [
+      "Create or log in to an account on the online filing portal"
+    ],
+    "whatToBring": [
+      "Business name, registered agent name and address, member/manager details (varies by filing)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SOS Business Services Division",
+        "value": "505-827-3600"
+      },
+      {
+        "kind": "web",
+        "label": "SOS Business Services",
+        "value": "https://www.sos.nm.gov/business-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SOS Business Services (sos.nm.gov)",
+        "url": "https://www.sos.nm.gov/business-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to browse; filing fees vary by form",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sos.nm.gov/business-services/"
+    ]
   }
 ]
