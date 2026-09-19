@@ -71726,5 +71726,1512 @@
     "whatToBring": [
       "Housing and financial documents relevant to your situation"
     ]
+  },
+  {
+    "id": "manchester-welfare",
+    "name": "Manchester Welfare Department — General Assistance",
+    "agency": "City of Manchester, Welfare Department",
+    "category": "Money & Taxes",
+    "description": "Financial assistance for Manchester individuals and families who are unable to meet basic need expenses such as food, housing, medications, and utilities. Residents of other towns should contact their own city or town hall for general assistance.",
+    "scope": {
+      "level": "city",
+      "city": "Manchester",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Manchester resident",
+      "Financially unable to meet basic need expenses"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Welfare Department during office hours"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Welfare Department",
+        "value": "(603) 624-6484"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "1528 Elm Street, Manchester, NH 03101-1350"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Manchester Welfare Department",
+        "url": "https://www.manchesternh.gov/Departments/Welfare"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.manchesternh.gov/Departments/Welfare"
+    ]
+  },
+  {
+    "id": "manchester-mta",
+    "name": "Manchester Transit Authority — Bus Fares",
+    "agency": "Manchester Transit Authority (MTA)",
+    "category": "Transportation",
+    "description": "Fixed-route, demand-response (CART), and shuttle bus service in the Manchester area. Fixed-route cash fare is $2.00 ($1.00 for seniors 65+ and riders with a Medicare or MTA half-fare ID); day, weekly, and monthly passes are also sold. CART trips are $2.00 per passenger per trip; the Salem Shopper Shuttle is free.",
+    "scope": {
+      "level": "city",
+      "city": "Manchester",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "General public",
+      "Half fare: age 65+ or Medicare/MTA half-fare ID holder"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Board and pay the farebox (exact cash; no change given)"
+    ],
+    "whatToBring": [
+      "Exact cash fare or a pass"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MTA fare information",
+        "value": "https://mtabus.org/manchester-transit-fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MTA fare information",
+        "url": "https://mtabus.org/manchester-transit-fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see fare page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mtabus.org/manchester-transit-fares/"
+    ]
+  },
+  {
+    "id": "manchester-green-dash",
+    "name": "Green DASH — Free Downtown Shuttle",
+    "agency": "Manchester Transit Authority (MTA)",
+    "category": "Transportation",
+    "description": "Free, wheelchair-accessible shuttle running weekdays in a figure-eight through downtown Manchester and the Millyard area, serving stops including Veterans Park, the Rines Center, UNH Manchester, and Market Basket.",
+    "scope": {
+      "level": "city",
+      "city": "Manchester",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "General public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Board at a Green DASH stop on a weekday"
+    ],
+    "whatToBring": [
+      "None — boarding is free"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Green DASH route and schedule",
+        "value": "https://mtabus.org/the-green-dash-route/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Green DASH route and schedule",
+        "url": "https://mtabus.org/the-green-dash-route/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mtabus.org/the-green-dash-route/"
+    ]
+  },
+  {
+    "id": "manchester-mhra",
+    "name": "Manchester Housing & Redevelopment Authority — Housing Assistance",
+    "agency": "Manchester Housing and Redevelopment Authority (MHRA)",
+    "category": "Housing",
+    "description": "Public housing and rental assistance for the Manchester area, including Section 8 Housing Choice Vouchers. MHRA publishes an application process and FAQ for housing and rental assistance on its website.",
+    "scope": {
+      "level": "city",
+      "city": "Manchester",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Eligibility based on household income and program rules — see application page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply for housing and rental assistance through MHRA"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MHRA Central Office",
+        "value": "603-624-2100"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for housing and rental assistance",
+        "url": "https://www.manchesterhousing.org/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.manchesterhousing.org/"
+    ]
+  },
+  {
+    "id": "manchester-library",
+    "name": "Manchester City Library",
+    "agency": "Manchester City Library",
+    "category": "Education",
+    "description": "Free public library services including books and media, downloadable resources, museum passes, a seed library, events, and the Manchester City Library Foundation support programs.",
+    "scope": {
+      "level": "city",
+      "city": "Manchester",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or its website"
+    ],
+    "whatToBring": [
+      "Library card application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library (unverified)",
+        "value": "603-624-6550 (unverified)"
+      },
+      {
+        "kind": "in-person",
+        "label": "Library (NH State Library directory listing)",
+        "value": "405 Pine Street, Manchester, NH 03104"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Manchester City Library",
+        "url": "https://www.manchester.lib.nh.us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.manchester.lib.nh.us/"
+    ]
+  },
+  {
+    "id": "nashua-welfare",
+    "name": "Nashua Welfare Department — General Assistance",
+    "agency": "City of Nashua, Welfare Department",
+    "category": "Money & Taxes",
+    "description": "Interim financial assistance for low-income Nashua residents or those experiencing financial hardship, covering rent, food, utilities, medication, and limited burial/cremation assistance, plus referrals to community resources.",
+    "scope": {
+      "level": "city",
+      "city": "Nashua",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Nashua resident",
+      "Low income or experiencing financial hardship"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at the Welfare Department during hours of operation; interviews are confidential"
+    ],
+    "whatToBring": [
+      "Photo ID (valid state-issued ID or passport)",
+      "Social Security card",
+      "Proof of residency (lease, mortgage statement, or tax bill)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Welfare Department",
+        "value": "603-589-4555"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "18 Mulberry Street, Nashua, NH"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nashua Welfare Department",
+        "url": "https://nashuanh.gov/651/Welfare-Department"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://nashuanh.gov/651/Welfare-Department"
+    ]
+  },
+  {
+    "id": "nashua-transit",
+    "name": "Nashua Transit System — CityBus",
+    "agency": "Nashua Transit System (City of Nashua)",
+    "category": "Transportation",
+    "description": "Daytime and nighttime fixed-route CityBus service in Nashua, with routes covering French Hill, Amherst Street, Canal Street, Lake Street, the South End, Crown Hill, and the Nashua Mall, plus real-time bus tracking and free travel training.",
+    "scope": {
+      "level": "city",
+      "city": "Nashua",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "General public; fare amounts and any reduced-fare programs are posted on the NTS fare page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Board and pay the posted fare"
+    ],
+    "whatToBring": [
+      "Fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NTS Dispatch",
+        "value": "(603) 880-0100 Ext. 1"
+      },
+      {
+        "kind": "in-person",
+        "label": "Administration",
+        "value": "11 Riverside Street, Nashua, NH 03062"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nashua Transit System",
+        "url": "https://www.ridebigblue.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ridebigblue.com/"
+    ]
+  },
+  {
+    "id": "nashua-library",
+    "name": "Nashua Public Library",
+    "agency": "Nashua Public Library",
+    "category": "Education",
+    "description": "Free public library services: borrowing, research databases, museum passes, meeting rooms, events, and digital lending through the Libby app.",
+    "scope": {
+      "level": "city",
+      "city": "Nashua",
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or its website"
+    ],
+    "whatToBring": [
+      "Library card application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library",
+        "value": "603-589-4600"
+      },
+      {
+        "kind": "in-person",
+        "label": "Library",
+        "value": "2 Court Street, Nashua, NH 03060"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nashua Public Library",
+        "url": "https://www.nashualibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nashualibrary.org/"
+    ]
+  },
+  {
+    "id": "concord-human-services",
+    "name": "Concord Human Services — Local Welfare Office",
+    "agency": "City of Concord, Human Services Department",
+    "category": "Money & Taxes",
+    "description": "Local welfare office for the City of Concord. Connects residents to assistance including state programs (Food Stamps/SNAP, Medicaid, TANF, Emergency Assistance, APTD, OAA, child care, child support) and community resources such as fuel assistance, weatherization, senior programs, and housing/homelessness services.",
+    "scope": {
+      "level": "city",
+      "city": "Concord",
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Concord resident needing local welfare assistance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Contact Concord Human Services"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Human Services (unverified)",
+        "value": "603-225-8575 (unverified)"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Concord Human Services",
+        "url": "https://www.concordnh.gov/579/Human-Services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.concordnh.gov/579/Human-Services"
+    ]
+  },
+  {
+    "id": "concord-cat",
+    "name": "Concord Area Transit — Fare-Free Bus Service",
+    "agency": "Concord Area Transit (CAT)",
+    "category": "Transportation",
+    "description": "Public bus transportation in the Concord area with no fee to ride any CAT transportation service. Donations help keep the service fare-free.",
+    "scope": {
+      "level": "city",
+      "city": "Concord",
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "General public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Board a CAT bus"
+    ],
+    "whatToBring": [
+      "None — boarding is free"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CAT fares",
+        "value": "https://concordareatransit.com/fares/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAT fares",
+        "url": "https://concordareatransit.com/fares/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://concordareatransit.com/fares/"
+    ]
+  },
+  {
+    "id": "concord-library",
+    "name": "Concord Public Library",
+    "agency": "Concord Public Library (City of Concord)",
+    "category": "Education",
+    "description": "Free public library services at the Main Library in downtown Concord.",
+    "scope": {
+      "level": "city",
+      "city": "Concord",
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Visit the library"
+    ],
+    "whatToBring": [
+      "Library card application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library (unverified)",
+        "value": "603-225-8670 (unverified)"
+      },
+      {
+        "kind": "in-person",
+        "label": "Main Library",
+        "value": "45 Green Street, Concord, NH 03301"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Concord Public Library — Main Library",
+        "url": "https://www.concordnh.gov/Facilities/Facility/Details/-89"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.concordnh.gov/Facilities/Facility/Details/-89"
+    ]
+  },
+  {
+    "id": "dover-library",
+    "name": "Dover Public Library",
+    "agency": "Dover Public Library (City of Dover)",
+    "category": "Education",
+    "description": "Free public library services including streaming and downloads, museum passes, a Library of Things, meeting rooms, and programs for all ages.",
+    "scope": {
+      "level": "city",
+      "city": "Dover",
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Visit the library or its website"
+    ],
+    "whatToBring": [
+      "Library card application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main Desk",
+        "value": "603-516-6050"
+      },
+      {
+        "kind": "in-person",
+        "label": "Library",
+        "value": "73 Locust Street, Dover, NH 03820"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dover Public Library",
+        "url": "http://library.dover.nh.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://library.dover.nh.gov/"
+    ]
+  },
+  {
+    "id": "dover-coast",
+    "name": "COAST Bus — Seacoast Public Transit",
+    "agency": "Cooperative Alliance for Seacoast Transportation (COAST)",
+    "category": "Transportation",
+    "description": "Public bus service for the NH Seacoast. Routes 12, 13, and 14 are interlined Rochester–Somersworth–Dover–Portsmouth routes running Monday–Saturday, rideable end-to-end on a single $1.50 fare; Route 6 serves Farmington–Rochester, with additional local and regional routes, ADA paratransit, and senior transportation.",
+    "scope": {
+      "level": "city",
+      "city": "Dover",
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "General public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Board and pay the posted fare"
+    ],
+    "whatToBring": [
+      "Fare payment"
+    ],
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "COAST",
+        "value": "42 Sumner Drive, Dover, NH"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "COAST Routes 12/13/14 schedule and fare (PDF)",
+        "url": "https://coastbus.org/sites/default/files/routes/schedules/Schedule_Route_12_13_14_Oct25_0.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1.50 single fare (Routes 12/13/14)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://coastbus.org/sites/default/files/routes/schedules/Schedule_Route_12_13_14_Oct25_0.pdf"
+    ]
+  },
+  {
+    "id": "rochester-welfare",
+    "name": "Rochester City Welfare Department — General Assistance",
+    "agency": "City of Rochester, Welfare Department",
+    "category": "Money & Taxes",
+    "description": "Municipal general assistance for Rochester residents facing gaps in basic needs. The department also partners with the Community Action Partnership of Strafford County and the Share Fund Food Pantry to connect residents with food supports during federal benefit interruptions.",
+    "scope": {
+      "level": "city",
+      "city": "Rochester",
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Rochester resident needing assistance with basic needs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Rochester City Welfare Department"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "City Welfare Department",
+        "value": "(603) 332-3505"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City announcement: Rochester partnership with Community Action and Share Fund",
+        "url": "https://news.rochesternh.gov/city-of-rochester-announces-partnership-with-community-action-and-share-fund-to-support-residents-during-snap-funding-delays-and-uncertainty/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://news.rochesternh.gov/city-of-rochester-announces-partnership-with-community-action-and-share-fund-to-support-residents-during-snap-funding-delays-and-uncertainty/"
+    ]
+  },
+  {
+    "id": "rochester-housing",
+    "name": "Rochester Housing Authority — Affordable Housing",
+    "agency": "Rochester Housing Authority (RHA)",
+    "category": "Housing",
+    "description": "Develops and manages affordable housing and operates public housing for the Rochester, NH community as an equal opportunity housing provider.",
+    "scope": {
+      "level": "city",
+      "city": "Rochester",
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Eligibility based on household income and program rules — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Contact RHA"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office",
+        "value": "603-332-4126"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "77 Olde Farm Lane, Rochester, NH 03867"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rochester Housing Authority",
+        "url": "https://www.rhanh.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.rhanh.org/"
+    ]
+  },
+  {
+    "id": "hillsborough-snhs-energy",
+    "name": "SNHS Fuel & Electric Assistance",
+    "agency": "Community Action Partnership Hillsborough and Rockingham Counties (SNHS / CAPHR)",
+    "category": "Utilities",
+    "description": "Energy assistance programs helping households in Hillsborough and Rockingham counties with heating and electric bills, alongside workforce, nutrition, child care, housing, and senior services.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Residents of Hillsborough or Rockingham County; income and program rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through SNHS"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SNHS",
+        "value": "https://www.snhs.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNHS — Community Action Partnership",
+        "url": "https://www.snhs.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.snhs.org/"
+    ]
+  },
+  {
+    "id": "hillsborough-snhs-childdev",
+    "name": "SNHS Child Development Programs",
+    "agency": "Community Action Partnership Hillsborough and Rockingham Counties (SNHS / CAPHR)",
+    "category": "Family & Childcare",
+    "description": "Child development services for families in Hillsborough and Rockingham counties, part of SNHS's programs spanning workforce, nutrition, education, child care, housing, energy, and senior living.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Hillsborough",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Families in Hillsborough or Rockingham County; program rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through SNHS"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SNHS",
+        "value": "https://www.snhs.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNHS — Community Action Partnership",
+        "url": "https://www.snhs.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.snhs.org/"
+    ]
+  },
+  {
+    "id": "merrimack-capbm-weatherization",
+    "name": "CAPBM Weatherization Assistance Program",
+    "agency": "Community Action Program Belknap-Merrimack Counties (CAPBM)",
+    "category": "Utilities",
+    "description": "Free weatherization services that reduce energy costs for homes in Merrimack and Belknap counties. Households that qualify for the Fuel Assistance or Electric Assistance programs may also qualify for weatherization; a wait period may apply.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Resident of Merrimack or Belknap County",
+      "May qualify if eligible for Fuel or Electric Assistance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through CAPBM"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPBM (listed on City of Concord Human Services page)",
+        "value": "603-225-6880"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAPBM Weatherization Assistance Program",
+        "url": "https://capbm.org/Weatherization-Assistance-Program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://capbm.org/Weatherization-Assistance-Program"
+    ]
+  },
+  {
+    "id": "merrimack-capbm-fuel",
+    "name": "CAPBM Fuel & Electric Assistance",
+    "agency": "Community Action Program Belknap-Merrimack Counties (CAPBM)",
+    "category": "Utilities",
+    "description": "Fuel Assistance and Electric Assistance programs helping Merrimack and Belknap county households with heating and electric bills, part of CAPBM's broader energy, food, housing, transportation, and elder services.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Resident of Merrimack or Belknap County; income and program rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through CAPBM"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPBM (listed on City of Concord Human Services page)",
+        "value": "603-225-6880"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAPBM",
+        "url": "https://capbm.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://capbm.org/"
+    ]
+  },
+  {
+    "id": "merrimack-capbm-headstart",
+    "name": "CAPBM Head Start & Early Head Start",
+    "agency": "Community Action Program Belknap-Merrimack Counties (CAPBM)",
+    "category": "Family & Childcare",
+    "description": "Early care and education programs including Head Start and Early Head Start for families in the Belknap-Merrimack service area, alongside CAPBM childcare, Meals on Wheels, senior centers, and housing stability services.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Merrimack",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Families in the CAPBM service area; income and age rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through CAPBM"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CAPBM",
+        "value": "https://capbm.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CAPBM",
+        "url": "https://capbm.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://capbm.org/"
+    ]
+  },
+  {
+    "id": "strafford-capsc-fuel",
+    "name": "CAPSC Fuel & Electric Assistance",
+    "agency": "Community Action Partnership of Strafford County (CAPSC)",
+    "category": "Utilities",
+    "description": "Fuel and Electric Assistance Program helping Strafford County residents reduce heating and electric bills, alongside housing assistance, food pantries, family support, senior housing, and early care and education programs.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Strafford County resident; income and program rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through CAPSC"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPSC",
+        "value": "603-435-2500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Action Partnership of Strafford County",
+        "url": "https://straffordcap.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://straffordcap.org/"
+    ]
+  },
+  {
+    "id": "strafford-capsc-food",
+    "name": "CAPSC Food Pantries",
+    "agency": "Community Action Partnership of Strafford County (CAPSC)",
+    "category": "Food",
+    "description": "Food pantries providing meals for children and adults in Strafford County, part of CAPSC's programs for fuel and electric assistance, housing, family support, senior services, and early care and education.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Strafford County resident in need of food assistance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Contact CAPSC for pantry locations and hours"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPSC",
+        "value": "603-435-2500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Action Partnership of Strafford County",
+        "url": "https://straffordcap.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://straffordcap.org/"
+    ]
+  },
+  {
+    "id": "strafford-capsc-housing",
+    "name": "CAPSC Housing Assistance",
+    "agency": "Community Action Partnership of Strafford County (CAPSC)",
+    "category": "Housing",
+    "description": "Housing assistance and senior housing programs helping Strafford County residents achieve housing stability, alongside fuel and electric assistance, food pantries, and family support services.",
+    "scope": {
+      "level": "county",
+      "city": null,
+      "county": "Strafford",
+      "state": "NH"
+    },
+    "eligibility": [
+      "Strafford County resident; income and program rules apply"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through CAPSC"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CAPSC",
+        "value": "603-435-2500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Action Partnership of Strafford County",
+        "url": "https://straffordcap.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://straffordcap.org/"
+    ]
+  },
+  {
+    "id": "nh-211",
+    "name": "211 NH — Community Resource Helpline",
+    "agency": "211 NH",
+    "category": "Healthcare",
+    "description": "Statewide connection to resources from trained Information and Referral Specialists, available 24 hours a day, 365 days a year: food, housing, utility assistance, substance use resources, legal services, mental health support, and more. Call 988 for suicide and crisis help; call 911 for emergencies.",
+    "scope": {
+      "level": "state",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "New Hampshire resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Call, text, or search online"
+    ],
+    "whatToBring": [
+      "A description of what you need help with"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 NH (24/7)",
+        "value": "211"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "211 NH",
+        "url": "https://211nh.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://211nh.org/"
+    ]
+  },
+  {
+    "id": "nh-works",
+    "name": "NH Works — Career Centers & Job Services",
+    "agency": "NH Works / NH Office of Workforce Opportunity",
+    "category": "Employment",
+    "description": "Career centers and workforce services across New Hampshire: job matching through the state's Job Match System, unemployment services, Trade Adjustment Assistance, veterans services, job fairs, and labor market information for job seekers and employers.",
+    "scope": {
+      "level": "state",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "New Hampshire job seekers and employers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Visit an NH Works center or use online services"
+    ],
+    "whatToBring": [
+      "Resume and work history (recommended)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NH Works center locations",
+        "value": "https://www.nhworks.org/job-seekers/nh-works-centers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH Works center locations",
+        "url": "https://www.nhworks.org/job-seekers/nh-works-centers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nhworks.org/job-seekers/nh-works-centers/"
+    ]
+  },
+  {
+    "id": "nh-housing",
+    "name": "New Hampshire Housing — Homeownership & Rental Assistance",
+    "agency": "New Hampshire Housing Finance Authority (New Hampshire Housing)",
+    "category": "Housing",
+    "description": "Statewide programs making homeownership more affordable — mortgages, refinancing, and downpayment/closing-cost assistance (cash assistance amounts advertised include $5,000, $10,000, or $15,000 with an NH Housing mortgage) — plus rental assistance through HUD's Housing Choice Voucher (HCV) program for very low-income households, and emergency housing resources.",
+    "scope": {
+      "level": "state",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "New Hampshire homebuyers and renters; income limits apply",
+      "HCV: very low-income households"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply through New Hampshire Housing"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "New Hampshire Housing",
+        "value": "https://www.nhhfa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Hampshire Housing",
+        "url": "https://www.nhhfa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nhhfa.org/"
+    ]
+  },
+  {
+    "id": "nh-legal-aid",
+    "name": "New Hampshire Legal Assistance — Free Civil Legal Aid",
+    "agency": "New Hampshire Legal Assistance (NHLA)",
+    "category": "Legal Aid",
+    "description": "Free civil legal aid for people in New Hampshire, primarily in housing (eviction, foreclosure, property tax deeding); domestic violence and family law (protective orders, divorce, parenting rights); and public benefits (disability, unemployment). Serves people with low income and limited assets, and older adults age 60 and over.",
+    "scope": {
+      "level": "state",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "New Hampshire resident",
+      "Low income and limited assets, or age 60+"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Apply for civil legal aid through 603 Legal Aid online or by phone"
+    ],
+    "whatToBring": [
+      "Details about your legal issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "603 Legal Aid intake",
+        "value": "1 (800) 639-5290"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "New Hampshire Legal Assistance",
+        "url": "https://www.nhla.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.nhla.org/"
+    ]
+  },
+  {
+    "id": "nh-drc",
+    "name": "Disability Rights Center of New Hampshire",
+    "agency": "Disability Rights Center — NH (DRC-NH)",
+    "category": "Disability",
+    "description": "New Hampshire's disability rights advocacy organization. Contact DRC-NH to speak with an attorney free of charge about disability discrimination and disability-related legal issues. Office open by appointment only, Monday–Thursday 8:00am–4:30pm and Friday 8:00am–4:00pm.",
+    "scope": {
+      "level": "state",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "New Hampshire residents with disability-related legal issues"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Call or email to speak with an attorney"
+    ],
+    "whatToBring": [
+      "Details about your issue"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DRC-NH",
+        "value": "(603) 228-0432"
+      },
+      {
+        "kind": "email",
+        "label": "DRC-NH",
+        "value": "mail@drcnh.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Disability Rights Center — NH",
+        "url": "https://drcnh.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://drcnh.org"
+    ]
+  },
+  {
+    "id": "fed-va-manchester",
+    "name": "Manchester VA Medical Center",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA medical center serving veterans in the Manchester, NH area with health care services; find locations, services, and how to enroll.",
+    "scope": {
+      "level": "federal",
+      "city": null,
+      "county": null,
+      "state": "NH"
+    },
+    "eligibility": [
+      "Veterans meeting VA eligibility requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing times vary."
+      }
+    ],
+    "prerequisites": [
+      "Enroll in VA health care; schedule through the facility"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD214)",
+      "Income information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Manchester VA Medical Center",
+        "value": "https://www.va.gov/manchester-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Manchester VA Medical Center",
+        "url": "https://www.va.gov/manchester-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/manchester-health-care/"
+    ]
   }
 ]
