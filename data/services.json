@@ -65716,5 +65716,1973 @@
     "sources": [
       "https://www.sos.nm.gov/business-services/"
     ]
+  },
+  {
+    "agency": "Metro Transit (Omaha)",
+    "applyLinks": [
+      {
+        "label": "Metro Transit — routes and services",
+        "url": "https://www.ometro.com/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metro customer service (unverified)",
+        "value": "(402) 341-0800 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Metro Transit website",
+        "value": "https://www.ometro.com/"
+      }
+    ],
+    "cost": "Fares apply; reduced fares available for eligible seniors and riders with disabilities.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs daily; half-fare and MOBY applications accepted any time."
+      }
+    ],
+    "description": "Public transit for the Omaha metro: fixed-route local bus service, ORBT rapid bus transit along Dodge Street, the MyRide OMA trip planner and bus tracker, and the Micro Flex on-demand service. MOBY provides ADA door-to-door paratransit for ADA-eligible residents and visitors. K-12 students ride fare-free on any route through the K-12 Rides Free pilot. Reduced fares may be available for qualifying seniors and riders with disabilities; confirm current fare programs with Metro before traveling.",
+    "eligibility": [
+      "Anyone may ride fixed-route buses",
+      "MOBY ADA paratransit requires ADA eligibility certification",
+      "Reduced fares: confirm current eligibility requirements with Metro"
+    ],
+    "id": "omaha-metro-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Metro Transit bus and MOBY paratransit",
+    "prerequisites": [
+      "MOBY requires an ADA eligibility application completed by the applicant and a health care professional",
+      "Half-fare requires the approved half-fare application"
+    ],
+    "scope": {
+      "city": "Omaha",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.ometro.com/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Half-fare ID or proof of approved reduced fare when boarding",
+      "Exact fare or digital pass"
+    ]
+  },
+  {
+    "agency": "Omaha Housing Authority",
+    "applyLinks": [
+      {
+        "label": "OHA contact and waitlist information",
+        "url": "https://ohauthority.org/contact/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Omaha Housing Authority",
+        "value": "(402) 444-6900"
+      },
+      {
+        "kind": "in-person",
+        "label": "OHA office",
+        "value": "1823 Harney Street, Omaha, NE 68102"
+      }
+    ],
+    "cost": "Rent is income-based; no application fee.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Waitlist status",
+        "note": "Voucher waitlist currently closed; Senior Towers public housing list open as stated above."
+      }
+    ],
+    "description": "OHA administers public housing and the Housing Choice Voucher (Section 8) program in Omaha. As of January 1, 2025, the public housing waiting list is open only for one-bedroom apartments in OHA Senior Towers to applicants age 62 and older. The Housing Choice Voucher (Section 8) waiting list is currently closed.",
+    "eligibility": [
+      "Public housing: applicants age 62 or older for the open one-bedroom Senior Towers list",
+      "Income-eligible households under HUD limits when waitlists open"
+    ],
+    "id": "omaha-housing-authority",
+    "languages": [
+      "English"
+    ],
+    "name": "Omaha Housing Authority public housing and Housing Choice Vouchers",
+    "prerequisites": [
+      "Apply through OHA when the relevant waitlist is open"
+    ],
+    "scope": {
+      "city": "Omaha",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://ohauthority.org/contact/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ]
+  },
+  {
+    "agency": "Omaha Public Library",
+    "applyLinks": [
+      {
+        "label": "Do Space at Omaha Public Library",
+        "url": "https://omahalibrary.org/do-space/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OPL (unverified)",
+        "value": "(402) 444-4800 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Do Space at OPL",
+        "value": "https://omahalibrary.org/do-space/"
+      }
+    ],
+    "cost": "Free, including library cards and Do Space equipment use.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Library cards and Do Space access are available year-round."
+      }
+    ],
+    "description": "Public library service including borrowing, programs, and Do Space technology labs at the Central Library (7205 Dodge St., 2nd floor) and the Milton R. Abrahams Branch (5111 N. 90th St.), offering 3D printing, laser cutting and engraving, podcast and media studios, a memory lab for digitizing old media, sewing machines, and specialty printing. All ages and experience levels are welcome.",
+    "eligibility": [
+      "Do Space is open to all ages and experience levels; library cards are available through Omaha Public Library locations (confirm residency requirements with OPL)"
+    ],
+    "id": "omaha-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Omaha Public Library card and Do Space technology labs",
+    "prerequisites": [
+      "Get a free OPL card to check out materials and use reservable equipment"
+    ],
+    "scope": {
+      "city": "Omaha",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://omahalibrary.org/do-space/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of Douglas County residency for a library card"
+    ]
+  },
+  {
+    "agency": "Douglas County Health Department",
+    "applyLinks": [
+      {
+        "label": "DCHD immunization clinic",
+        "url": "https://www.douglascountyhealth.com/clinics-services/immunization-clinic"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Immunization clinic information/appointments",
+        "value": "(402) 444-6163"
+      },
+      {
+        "kind": "in-person",
+        "label": "Midtown Campus Clinic",
+        "value": "1111 South 41st Street, Suite 210, Omaha, NE 68105"
+      }
+    ],
+    "cost": "Vaccines at no cost; donations accepted.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments available on an ongoing basis; call to schedule."
+      }
+    ],
+    "description": "Vaccines at no cost (donations accepted) at the Midtown Campus Clinic, 1111 South 41st Street, Suite 210, Omaha. Childhood/adolescent clinics run every Tuesday 8:30–11:00 AM by appointment; the adult clinic schedule varies Monday–Saturday and requires an appointment. Travel immunizations are not offered.",
+    "eligibility": [
+      "Children birth through age 18 who are uninsured, underinsured, Medicaid-eligible, or American Indian/Alaska Native",
+      "Adults age 19 and older who are uninsured"
+    ],
+    "id": "douglas-county-immunization",
+    "languages": [
+      "English"
+    ],
+    "name": "Douglas County Health Department immunization clinic",
+    "prerequisites": [
+      "Call ahead to schedule an appointment"
+    ],
+    "scope": {
+      "county": "Douglas County",
+      "level": "county",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.douglascountyhealth.com/clinics-services/immunization-clinic"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Immunization records if available",
+      "Insurance card if insured"
+    ]
+  },
+  {
+    "agency": "StarTran (City of Lincoln)",
+    "applyLinks": [
+      {
+        "label": "StarTran fares, passes, and how to ride",
+        "url": "https://www.lincoln.ne.gov/City/Departments/LTU/StarTran/How-to-Ride/FAQ"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "StarTran customer service",
+        "value": "(402) 476-1234"
+      },
+      {
+        "kind": "phone",
+        "label": "League of Human Dignity paratransit registration",
+        "value": "(402) 441-7871"
+      },
+      {
+        "kind": "in-person",
+        "label": "StarTran office",
+        "value": "710 J Street, Lincoln, NE 68508"
+      }
+    ],
+    "cost": "Cash fare $1.25; reduced fare 60 cents for seniors 62+ and people with disabilities; day pass $2.50; paratransit $2.50 each way; low-income 31-day pass $8.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs six days a week; no Sunday service."
+      }
+    ],
+    "description": "City bus service in Lincoln with wheelchair-accessible fixed routes, plus reduced fares and door-to-door paratransit. Seniors age 62 and older and people with disabilities ride fixed routes for 60 cents with a Senior Saver, Go For Less, or Medicare ID. A low-income 31-consecutive-day pass is available for $8 to individuals at or below 200% of the poverty level. Paratransit (Handi-Van) costs $2.50 each way and is arranged through the League of Human Dignity. UNL students, faculty, and staff ride fixed routes free with a UNL bus pass and photo ID.",
+    "eligibility": [
+      "Anyone may ride fixed routes",
+      "Reduced fare: seniors 62+ and people with disabilities with qualifying ID",
+      "Low-income pass: individuals at or below 200% of the poverty level",
+      "Paratransit: disabled persons unable to use regular bus service"
+    ],
+    "id": "lincoln-startran",
+    "languages": [
+      "English"
+    ],
+    "name": "StarTran bus service, reduced fares, and paratransit",
+    "prerequisites": [
+      "Paratransit riders must register with the League of Human Dignity before scheduling rides",
+      "Show a Medicare card, Senior Saver, Go For Less, or state ID/driver's license for the 60-cent reduced fare"
+    ],
+    "scope": {
+      "city": "Lincoln",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.lincoln.ne.gov/City/Departments/LTU/StarTran/How-to-Ride/FAQ"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Exact change ($1.25 cash fare) or a digital/pass ticket",
+      "Photo ID for reduced-fare or low-income pass purchases"
+    ]
+  },
+  {
+    "agency": "Lincoln Housing Authority",
+    "applyLinks": [
+      {
+        "label": "LHA — Apply for Housing",
+        "url": "https://l-housing.com/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LHA (unverified)",
+        "value": "(402) 434-5500 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Lincoln Housing Authority",
+        "value": "https://l-housing.com/"
+      }
+    ],
+    "cost": "Rent is income-based; no application fee.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waiting lists open and close periodically; verify current status on the LHA site before applying."
+      }
+    ],
+    "description": "LHA administers affordable housing programs in Lincoln, including public housing and the Housing Choice Voucher program. Applications are submitted through LHA's online Apply for Housing process. Waiting lists open and close periodically, so check current availability before applying.",
+    "eligibility": [
+      "Income-eligible households under HUD income limits",
+      "Must meet HUD citizenship or immigration status requirements"
+    ],
+    "id": "lincoln-housing-authority",
+    "languages": [
+      "English"
+    ],
+    "name": "Lincoln Housing Authority affordable housing",
+    "prerequisites": [
+      "Complete the LHA online housing application",
+      "Meet applicant selection criteria, including credit and criminal record checks"
+    ],
+    "scope": {
+      "city": "Lincoln",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://l-housing.com/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification for all household members",
+      "Proof of income",
+      "Social Security numbers for all family members"
+    ]
+  },
+  {
+    "agency": "City of Bellevue Human Services Department",
+    "applyLinks": [
+      {
+        "label": "Bellevue Human Services programs",
+        "url": "https://www.bellevue.net/299/Programs"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Human Services / transportation",
+        "value": "(402) 293-3138"
+      }
+    ],
+    "cost": "$2 each way in town; $4 each way out of town.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to pre-register and schedule rides in advance; service runs Monday–Friday."
+      }
+    ],
+    "description": "Door-to-door bus service for elderly or disabled Bellevue residents for trips such as doctor appointments, grocery shopping, and the Senior Activity Center. Riders pre-register, then schedule rides in advance; trips run to Bellevue and Omaha destinations Monday through Friday. Cost is $2 each way for in-town trips and $4 each way for out-of-town trips.",
+    "eligibility": [
+      "Bellevue residents who are elderly or have a medical disability"
+    ],
+    "id": "bellevue-specialized-transportation",
+    "languages": [
+      "English"
+    ],
+    "name": "Bellevue Specialized Transportation bus service",
+    "prerequisites": [
+      "Call in advance to pre-register and reserve each ride"
+    ],
+    "scope": {
+      "city": "Bellevue",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.bellevue.net/299/Programs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of Bellevue residency",
+      "Fare payment"
+    ]
+  },
+  {
+    "agency": "City of Bellevue Human Services Department",
+    "applyLinks": [
+      {
+        "label": "Bellevue Human Services programs",
+        "url": "https://www.bellevue.net/299/Programs"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Human Services appointments",
+        "value": "(402) 293-3138"
+      }
+    ],
+    "cost": "Free; assistance depends on available donations.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Appointments to apply are taken Monday–Friday, 8 AM–4:30 PM; holiday assistance applications are taken each November."
+      }
+    ],
+    "description": "Short-term help for Bellevue residents facing an unexpected interruption of income who have used their own resources and still cannot cover utilities, rent, or groceries. Assistance is funded by charitable donations and food drives. The department also provides food pantry referrals (food bags and grocery vouchers), holiday assistance with toys for Sarpy County families with children age 12 and under who meet low-income guidelines (applications each November), and referrals to other community programs.",
+    "eligibility": [
+      "Bellevue residents with an unexpected income interruption and demonstrated need",
+      "Holiday assistance: Sarpy County families with children 12 and under meeting low-income guidelines"
+    ],
+    "id": "bellevue-emergency-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Bellevue Human Services emergency assistance and food pantry referral",
+    "prerequisites": [
+      "Make an appointment to apply; all applicants must provide proof of residency with proper identification"
+    ],
+    "scope": {
+      "city": "Bellevue",
+      "level": "city",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.bellevue.net/299/Programs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of Bellevue residency",
+      "Documentation of the emergency and financial need"
+    ]
+  },
+  {
+    "agency": "Sarpy/Cass Health Department",
+    "applyLinks": [
+      {
+        "label": "Sarpy/Cass Health Department immunizations",
+        "url": "https://www.schd.ne.gov/what-we-do/programs-services/access-to-services/immunizations.html"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sarpy/Cass Health Department",
+        "value": "(402) 339-4334"
+      },
+      {
+        "kind": "in-person",
+        "label": "Department office",
+        "value": "701 Olson Drive, Suite 101, Papillion, NE 68046"
+      }
+    ],
+    "cost": "Varies by clinic; vaccines for eligible children available at free or reduced cost through the Vaccines for Children program.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Clinics require appointments; call ahead."
+      }
+    ],
+    "description": "Immunization services and referrals for Sarpy and Cass County residents, including clinic locations (Douglas County Health Department children's clinic, OneWorld Community Health Center in Bellevue), VNA home-bound immunizations for people with barriers to clinic visits, pharmacy vaccine finders, and the Vaccines for Children supply program. The department office at 701 Olson Drive, Suite 101, Papillion is open Monday–Friday, 8 AM–4:30 PM.",
+    "eligibility": [
+      "Sarpy and Cass County residents needing immunizations",
+      "Vaccine supply program provides recommended vaccines to eligible children at free or reduced cost"
+    ],
+    "id": "sarpy-cass-health-immunizations",
+    "languages": [
+      "English"
+    ],
+    "name": "Sarpy/Cass Health Department immunizations",
+    "prerequisites": [
+      "Appointments required at partner clinics"
+    ],
+    "scope": {
+      "county": "Sarpy County",
+      "level": "county",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.schd.ne.gov/what-we-do/programs-services/access-to-services/immunizations.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and insurance information for clinical services",
+      "Immunization records if available"
+    ]
+  },
+  {
+    "agency": "CRANE Public Transit (City of Grand Island)",
+    "applyLinks": [
+      {
+        "label": "CRANE Public Transit",
+        "url": "https://www.crane-transit.com/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CRANE Public Transit (unverified)",
+        "value": "(308) 646-0069 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Grand Island Transit",
+        "value": "https://www.crane-transit.com/"
+      }
+    ],
+    "cost": "A per-ride fare applies.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Book rides at least 24 hours in advance."
+      }
+    ],
+    "description": "Public transit for the urbanized area of Grand Island: portal-to-portal, demand-response service operated for the City of Grand Island. All buses are ADA accessible, and a personal attendant may ride along free when a rider needs help boarding or being secured. A minimum 24-hour notice is required; same-day trips are booked when space is available.",
+    "eligibility": [
+      "General public in the Grand Island urbanized area",
+      "Reasonable modifications and accommodations available for riders with disabilities on request"
+    ],
+    "id": "crane-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "CRANE Public Transit",
+    "prerequisites": [
+      "Schedule your ride at least 24 hours in advance"
+    ],
+    "scope": {
+      "county": "Hall County",
+      "level": "county",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.crane-transit.com/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment",
+      "Contact information for booking"
+    ]
+  },
+  {
+    "agency": "Buffalo County Veteran Services",
+    "applyLinks": [
+      {
+        "label": "Buffalo County Veteran Services",
+        "url": "https://buffalocounty.ne.gov/county-offices/veteran-services"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veteran Services Officer",
+        "value": "(308) 236-1253"
+      },
+      {
+        "kind": "email",
+        "label": "Veteran Services email",
+        "value": "veterans@buffalocounty.ne.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office (mailing)",
+        "value": "PO Box 1270, Kearney, NE 68848"
+      }
+    ],
+    "cost": "Free.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Office hours Monday-Friday 8:00 AM-5:00 PM; appointments preferred, walk-ins welcome."
+      }
+    ],
+    "description": "Buffalo County's Veterans' Service Office, created by state statute to assist veterans and their dependents in times of need and to obtain the benefits earned through honorable service. The office provides claims assistance and referrals for federal, state, and county veterans benefits; the Veterans' Service Officer serves under the direction of the Veterans' Service Committee.",
+    "eligibility": [
+      "Veterans and their dependents in Buffalo County"
+    ],
+    "id": "buffalo-county-veteran-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Buffalo County Veteran Services",
+    "prerequisites": [
+      "Appointments are preferred but walk-ins are welcome"
+    ],
+    "scope": {
+      "county": "Buffalo County",
+      "level": "county",
+      "state": "NE"
+    },
+    "sources": [
+      "https://buffalocounty.ne.gov/county-offices/veteran-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of military service and discharge status"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply through iServe Nebraska",
+        "url": "https://iserve.nebraska.gov/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS statewide",
+        "value": "(800) 383-4278"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Lincoln",
+        "value": "(402) 323-3900"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Omaha",
+        "value": "(402) 595-1258"
+      }
+    ],
+    "cost": "Free; SNAP benefits are issued monthly on an EBT card.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "SNAP (formerly Food Stamps) helps low-income households buy food. Apply online through iServe Nebraska or by mail with the official DHHS application. On June 22, 2026, a federal court vacated USDA approval of Nebraska's food-restriction waivers, so the state's prior restrictions on using SNAP for soda and energy drinks were being removed in coordination with retailers.",
+    "eligibility": [
+      "Low-income households meeting federal SNAP income and asset rules",
+      "U.S. citizens and certain qualified non-citizens"
+    ],
+    "id": "ne-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska SNAP food assistance",
+    "prerequisites": [
+      "Complete an application through iServe Nebraska, by mail, or at a DHHS office",
+      "Interview and income verification required"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "http://dhhs.ne.gov/pages/snap.aspx",
+      "https://iserve.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income",
+      "Proof of rent and utility expenses"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply through iServe Nebraska",
+        "url": "https://iserve.nebraska.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid eligibility",
+        "value": "(855) 632-7633"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Lincoln",
+        "value": "(402) 473-7000"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Omaha",
+        "value": "(402) 595-1178"
+      }
+    ],
+    "cost": "Free to apply; most covered services have little or no cost-sharing.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time; newly eligible children get one year of continuous coverage."
+      }
+    ],
+    "description": "Nebraska Medicaid provides health coverage for eligible children, adults age 19–64, pregnant people, parents and caretaker relatives, former foster youth, adults 65 and older, and people meeting SSA disability or visual-impairment guidelines. The CHIP program and 599 CHIP cover qualifying children. Apply any time through iServe Nebraska. Note: iServe Nebraska currently states that starting May 1, able-bodied adults may need to complete work requirements to keep or qualify for Medicaid coverage; DHHS will contact affected members directly.",
+    "eligibility": [
+      "Children, adults 19–64, pregnant people, parents/caretakers, former foster youth, adults 65+, and people meeting SSA disability guidelines",
+      "Nebraska residents who are U.S. citizens or have qualifying immigration status"
+    ],
+    "id": "ne-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Medicaid and CHIP",
+    "prerequisites": [
+      "Complete an application through iServe Nebraska",
+      "Income and household verification required"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/Pages/Medicaid-Eligibility.aspx",
+      "https://iserve.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income",
+      "Proof of citizenship or immigration status"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply through iServe Nebraska",
+        "url": "https://iserve.nebraska.gov/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS statewide",
+        "value": "(800) 383-4278"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Lincoln",
+        "value": "(402) 323-3900"
+      },
+      {
+        "kind": "phone",
+        "label": "DHHS Omaha",
+        "value": "(402) 595-1258"
+      }
+    ],
+    "cost": "Free; benefits are paid toward the heating or cooling bill.",
+    "deadlines": [
+      {
+        "date": "2026-09-30",
+        "label": "2025–2026 LIHEAP program year ends",
+        "note": "Program period runs October 1, 2025–September 30, 2026. Heating assistance: October 1–March 31; cooling: June 1–August 31; crisis help year-round."
+      }
+    ],
+    "description": "LIHEAP helps low-income Nebraska households with heating and cooling costs. For the 2025–2026 program year (October 1, 2025–September 30, 2026), households at or below 150% of the federal poverty level may qualify if they are U.S. citizens or have qualifying status, reside in Nebraska, and are responsible for home energy costs. Heating assistance runs October through March, cooling assistance June through August, and crisis assistance is available year-round. Apply through iServe Nebraska.",
+    "eligibility": [
+      "Households at or below 150% of the federal poverty level",
+      "Nebraska residents responsible for home heating or cooling costs"
+    ],
+    "id": "ne-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Low Income Home Energy Assistance Program (LIHEAP)",
+    "prerequisites": [
+      "Complete an application through iServe Nebraska",
+      "Provide proof of income, residency, and energy costs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/pages/energy-assistance.aspx",
+      "https://iserve.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income",
+      "Utility bill in the applicant's name"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "DHHS WIC information",
+        "url": "https://dhhs.ne.gov/Pages/WIC-About.aspx"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHHS WIC information",
+        "value": "https://dhhs.ne.gov/Pages/WIC-About.aspx"
+      }
+    ],
+    "cost": "Free; provides nutritious foods, nutrition education, and breastfeeding support.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time at local WIC clinics."
+      }
+    ],
+    "description": "WIC serves pregnant, postpartum, and breastfeeding women, infants, and children through age four (up to their fifth birthday) with nutritious foods, nutrition and health education, screenings and referrals, and breastfeeding support. DHHS published new federal income guidelines on July 1, 2026 that increased the income limits for eligibility. People currently receiving Medicaid, SNAP, or Aid to Dependent Children are income-eligible; foster children under age five and pregnant teens in foster care are also income-eligible.",
+    "eligibility": [
+      "Pregnant, postpartum, or breastfeeding women, infants, and children up to age five",
+      "Nebraska residents meeting the current federal income guidelines or automatically eligible through Medicaid, SNAP, ADC, or foster care"
+    ],
+    "id": "ne-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska WIC",
+    "prerequisites": [
+      "Contact a local WIC clinic to apply and complete a nutrition assessment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/Pages/WIC-About.aspx",
+      "https://dhhs.ne.gov/Pages/New-Federal-Income-Guidelines-for-WIC-Increases-Eligibility.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income or proof of Medicaid/SNAP/ADC enrollment",
+      "Proof of Nebraska residency"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply through iServe Nebraska",
+        "url": "https://iserve.nebraska.gov/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS statewide (unverified)",
+        "value": "(800) 383-4278 (unverified)"
+      }
+    ],
+    "cost": "Free to apply; DHHS pays an approved provider at a set subsidy rate, and families may owe a copay based on income.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; provider approval can take up to six weeks and payments are not backdated."
+      }
+    ],
+    "description": "Child Care Subsidy helps qualifying parents pay for child care while they work, attend school or training, participate in Employment First, attend medical or therapy visits, or are unable to provide care due to illness or injury. It generally covers children age 12 and younger, and up to age 19 for a child needing care due to a special need. Care must be provided by a DHHS-approved provider, and parents complete a phone interview as part of the application.",
+    "eligibility": [
+      "Parents who are working, in school or training, in Employment First, attending medical visits, or unable to provide care due to illness or injury",
+      "Children 12 and younger, or up to 19 for a child with a special need"
+    ],
+    "id": "ne-child-care-subsidy",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Child Care Subsidy",
+    "prerequisites": [
+      "Apply through iServe Nebraska and complete a phone interview",
+      "Use a DHHS-approved child care provider"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/Pages/Child-Care-Subsidy-Information-for-Parents.aspx",
+      "https://iserve.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income and qualifying activity (work, school, medical)",
+      "Child's birth information"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Apply through iServe Nebraska",
+        "url": "https://iserve.nebraska.gov/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS statewide (unverified)",
+        "value": "(800) 383-4278 (unverified)"
+      }
+    ],
+    "cost": "Free; monthly cash benefit for qualifying families.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Aid to Dependent Children (ADC) is Nebraska's Temporary Assistance for Needy Families (TANF) program. It provides monthly cash assistance to low-income families with minor children (age 18 and younger) to help pay for rent, utilities, food, clothing, and other necessities. Participation in Employment First work activities may be required. Apply through iServe Nebraska.",
+    "eligibility": [
+      "Low-income families with minor children age 18 and younger",
+      "Nebraska residents meeting ADC income and asset rules"
+    ],
+    "id": "ne-adc",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Aid to Dependent Children (TANF)",
+    "prerequisites": [
+      "Complete an application through iServe Nebraska",
+      "Employment First participation may be required"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/Pages/Child-Care-Assistance.aspx",
+      "https://iserve.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Proof of income and household composition",
+      "Social Security numbers for family members"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Labor",
+    "applyLinks": [
+      {
+        "label": "File for unemployment through NEworks",
+        "url": "https://neworks.nebraska.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment help",
+        "value": "(402) 458-2500"
+      },
+      {
+        "kind": "email",
+        "label": "Unemployment help email",
+        "value": "NDOL.UnemploymentHelp@nebraska.gov"
+      }
+    ],
+    "cost": "Free; weekly benefit amount is based on prior wages.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "File promptly",
+        "note": "A claim begins in the week it is filed; earlier weeks cannot be paid, so file as soon as you are unemployed."
+      }
+    ],
+    "description": "Unemployment insurance provides temporary weekly benefits to workers who lost their jobs through no fault of their own. Claims are filed through NEworks, which requires an account and a searchable résumé. Processing can take up to 21 days. Claimants must complete weekly certifications, and the first eligible week is an unpaid waiting week. File promptly: a claim starts in the filing week and prior weeks cannot be paid.",
+    "eligibility": [
+      "Workers who lost employment through no fault of their own and meet wage requirements",
+      "Must be able to work, available for work, and actively seeking work"
+    ],
+    "id": "ne-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Unemployment Insurance",
+    "prerequisites": [
+      "Create a NEworks account with a searchable résumé",
+      "File the claim through NEworks and complete weekly certifications"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dol.nebraska.gov/UIBenefits/Claims/FAQ/FilingAnApplication",
+      "https://neworks.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and addresses for the past 18 months",
+      "Bank account information for direct deposit"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Labor",
+    "applyLinks": [
+      {
+        "label": "NEworks job search and training",
+        "url": "https://neworks.nebraska.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NEworks",
+        "value": "https://neworks.nebraska.gov/"
+      }
+    ],
+    "cost": "Free.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Accounts can be created any time."
+      }
+    ],
+    "description": "NEworks is Nebraska's free jobs and career platform: search job openings aggregated from thousands of sources across the state, create a résumé, file for unemployment, explore training services, and review labor market and wage data. Employers can post openings and find candidates. Registration is required for full job-seeker features.",
+    "eligibility": [
+      "Open to all job seekers and employers"
+    ],
+    "id": "ne-neworks",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "NEworks job search and training services",
+    "prerequisites": [
+      "Create a free NEworks account for job search, résumé, and unemployment features"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://neworks.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Email address to register",
+      "Résumé or work history"
+    ]
+  },
+  {
+    "agency": "Nebraska Vocational Rehabilitation",
+    "applyLinks": [
+      {
+        "label": "Nebraska Vocational Rehabilitation",
+        "url": "https://vr.nebraska.gov/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nebraska VR",
+        "value": "https://vr.nebraska.gov/"
+      }
+    ],
+    "cost": "Free; services are provided based on an individualized employment plan.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; eligibility is determined after application."
+      }
+    ],
+    "description": "Nebraska Vocational Rehabilitation helps people with disabilities prepare for, find, and keep a job. Services can include counseling and guidance, training and education, job placement assistance, and supports needed to succeed at work. Apply through the Nebraska VR website to begin the eligibility process.",
+    "eligibility": [
+      "Nebraskans with a physical or mental disability that is a substantial barrier to employment",
+      "Must be able to benefit from VR services in achieving an employment outcome"
+    ],
+    "id": "ne-vr",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Vocational Rehabilitation employment services",
+    "prerequisites": [
+      "Apply through Nebraska VR and complete an eligibility determination"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://vr.nebraska.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification",
+      "Medical or disability documentation",
+      "Work history if available"
+    ]
+  },
+  {
+    "agency": "Legal Aid of Nebraska",
+    "applyLinks": [
+      {
+        "label": "Apply online through LawHelpNE",
+        "url": "https://lawhelpne.legalaidofnebraska.org/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid of Nebraska",
+        "value": "(402) 348-1069"
+      }
+    ],
+    "cost": "Free civil legal services for eligible clients.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online applications accepted any time; submitting does not guarantee representation."
+      }
+    ],
+    "description": "Free civil legal help for low-income Nebraskans in areas including housing, debt and finances, family matters, and public benefits. Apply online through the LawHelpNE intake portal or by phone. Applying does not guarantee that a lawyer will be assigned; cases are accepted based on eligibility and capacity.",
+    "eligibility": [
+      "Low-income Nebraskans with civil (non-criminal) legal problems"
+    ],
+    "id": "ne-legal-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid of Nebraska",
+    "prerequisites": [
+      "Complete the online intake or phone screening"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://legalaidofnebraska.org/",
+      "https://lawhelpne.legalaidofnebraska.org/",
+      "https://legalaidofnebraska.org/when-you-need-help/how-to-apply-online.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Details of the legal problem",
+      "Any related documents, notices, or court papers"
+    ]
+  },
+  {
+    "agency": "Disability Rights Nebraska",
+    "applyLinks": [
+      {
+        "label": "Disability Rights Nebraska",
+        "url": "https://www.disabilityrightsnebraska.org/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Disability Rights Nebraska",
+        "value": "(402) 413-2016"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "(800) 422-6691"
+      }
+    ],
+    "cost": "Free advocacy and legal services.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Requests for assistance accepted any time."
+      }
+    ],
+    "description": "Nebraska's designated Protection and Advocacy system. Provides legal representation, information, and referrals to people with disabilities and their families on disability rights issues, including access to services, benefits, and community living. Contact the office to request assistance.",
+    "eligibility": [
+      "People with disabilities in Nebraska and their families"
+    ],
+    "id": "ne-disability-rights",
+    "languages": [
+      "English"
+    ],
+    "name": "Disability Rights Nebraska protection and advocacy",
+    "prerequisites": [
+      "Contact the office to request assistance and describe the issue"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.disabilityrightsnebraska.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Description of the disability-related issue",
+      "Related records or correspondence"
+    ]
+  },
+  {
+    "agency": "Nebraska Public Service Commission",
+    "applyLinks": [
+      {
+        "label": "Apply for federal Lifeline",
+        "url": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "NTAP email for mailed packets",
+        "value": "psc.ntap@nebraska.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Lifeline Support Center",
+        "value": "(800) 234-9473"
+      }
+    ],
+    "cost": "Free to apply; reduces the monthly phone bill for qualifying households.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits must be recertified annually."
+      }
+    ],
+    "description": "The Nebraska Telephone Assistance Program (NTAP)/Lifeline lowers the monthly cost of phone service for qualifying low-income Nebraskans through the federal Lifeline discount plus an additional Nebraska discount. Households may qualify through Medicaid, SNAP, SSI, federal public housing assistance, veterans or survivors pension, or income at or below 135% of the federal poverty level. Only one benefit is allowed per household, and the phone bill must include the applicant's name. Apply through the National Verifier and submit the Nebraska Citizenship Attestation; a mailed application packet is available by emailing the PSC.",
+    "eligibility": [
+      "Nebraska residents qualifying through Medicaid, SNAP, SSI, federal public housing assistance, veterans/survivors pension, or income at or below 135% FPL",
+      "One benefit per household"
+    ],
+    "id": "ne-lifeline",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Telephone Assistance Program / Lifeline",
+    "prerequisites": [
+      "Apply through the National Verifier (online, by mail, or through a phone company)",
+      "Submit the Nebraska Citizenship Attestation"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://psc.nebraska.gov/nebraska-telephone-assistance-programlifeline",
+      "https://www.lifelinesupport.org/get-started"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Full name, date of birth, and last four digits of Social Security number",
+      "Proof of program participation or income",
+      "Phone bill in the applicant's name"
+    ]
+  },
+  {
+    "agency": "Nebraska Coordinating Commission for Postsecondary Education",
+    "applyLinks": [
+      {
+        "label": "Nebraska Opportunity Grant information",
+        "url": "https://ccpe.nebraska.gov/nebraska-opportunity-grant-nog"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nebraska Opportunity Grant",
+        "value": "https://ccpe.nebraska.gov/nebraska-opportunity-grant-nog"
+      }
+    ],
+    "cost": "Free to be considered; grants do not need to be repaid.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Varies by school",
+        "note": "Students complete the FAFSA; each participating school sets its own priority dates."
+      }
+    ],
+    "description": "The Nebraska Opportunity Grant provides need-based financial aid to Nebraska residents attending Nebraska postsecondary institutions. Eligibility is determined from the FAFSA and Student Aid Index, and awards are made through participating schools. There is no separate state application; students complete the FAFSA and any application required by their school.",
+    "eligibility": [
+      "Nebraska residents attending an eligible Nebraska college or university",
+      "Demonstrated financial need based on the FAFSA/Student Aid Index"
+    ],
+    "id": "ne-opportunity-grant",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Opportunity Grant",
+    "prerequisites": [
+      "Complete the FAFSA",
+      "Apply to and attend a participating Nebraska postsecondary institution"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://ccpe.nebraska.gov/nebraska-opportunity-grant-nog"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA confirmation",
+      "School admission and financial aid documents"
+    ]
+  },
+  {
+    "agency": "EducationQuest Foundation",
+    "applyLinks": [
+      {
+        "label": "EducationQuest college planning services",
+        "url": "https://educationquest.org/about-us/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EducationQuest Omaha (unverified)",
+        "value": "(402) 391-4033 (unverified)"
+      },
+      {
+        "kind": "phone",
+        "label": "EducationQuest Lincoln (unverified)",
+        "value": "(402) 475-5222 (unverified)"
+      },
+      {
+        "kind": "phone",
+        "label": "EducationQuest Kearney (unverified)",
+        "value": "(308) 234-6310 (unverified)"
+      }
+    ],
+    "cost": "Free.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round; scholarship deadlines vary."
+      }
+    ],
+    "description": "Free college-planning services for Nebraska students and families: help with FAFSA completion, college and career exploration, scholarship searches, and need-based scholarships and school grants administered by EducationQuest. Offices in Omaha, Lincoln, Kearney, and Scottsbluff also run outreach programs in schools and communities.",
+    "eligibility": [
+      "Nebraska students and families planning for college"
+    ],
+    "id": "ne-educationquest",
+    "languages": [
+      "English"
+    ],
+    "name": "EducationQuest college planning and scholarships",
+    "prerequisites": [
+      "None; walk-ins and appointments available at regional offices"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://educationquest.org/about-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Student and parent financial information for FAFSA help",
+      "College or scholarship application materials"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Veterans' Affairs",
+    "applyLinks": [
+      {
+        "label": "Nebraska Veterans Aid Fund",
+        "url": "https://veterans.nebraska.gov/nva"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nebraska Veterans Aid Fund",
+        "value": "https://veterans.nebraska.gov/nva"
+      }
+    ],
+    "cost": "Free; temporary emergency aid for qualifying veterans and families.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time an emergency need arises."
+      }
+    ],
+    "description": "Temporary emergency financial aid for qualifying Nebraska veterans, their spouses, and dependents when normal living is disrupted and other resources are not immediately available. Aid can cover food, fuel, shelter, transportation, daycare, clothing, funeral expenses, and medical or surgical items. Since September 3, 2025, applications may also be made through a State Service Officer, in addition to county or recognized veterans-organization service officers.",
+    "eligibility": [
+      "Nebraska veterans, their spouses, and dependents facing a temporary emergency need",
+      "Must lack immediately available resources to meet the need"
+    ],
+    "id": "ne-veterans-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Veterans Aid Fund",
+    "prerequisites": [
+      "Apply through a county service officer, a recognized veterans-organization service officer, or (since September 2025) a State Service Officer"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://veterans.nebraska.gov/nva"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of veteran status (such as DD-214)",
+      "Documentation of the emergency need and household expenses"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Health and Human Services",
+    "applyLinks": [
+      {
+        "label": "Aging and Disability Resource Center",
+        "url": "https://dhhs.ne.gov/pages/aging-and-disability-resource-center.aspx"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADRC toll-free",
+        "value": "(844) 843-6364"
+      }
+    ],
+    "cost": "Free information, referral, and options counseling.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or visit any time during operating hours."
+      }
+    ],
+    "description": "The Aging and Disability Resource Center (ADRC) is a single entry point for Nebraskans age 60 and older, people with disabilities of any age, caregivers, family members, and advocates. It offers information and referral, options counseling, transition counseling, benefits assistance, and mobility training, and connects people to housing, transportation, long-term care, nutrition, assistive technology, personal care, and other community services.",
+    "eligibility": [
+      "Nebraskans age 60 and older",
+      "People with disabilities of any age, plus caregivers, family members, and advocates"
+    ],
+    "id": "ne-adrc",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Aging and Disability Resource Center",
+    "prerequisites": [
+      "None; call the toll-free line to get started"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://dhhs.ne.gov/pages/aging-and-disability-resource-center.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Description of the need or question",
+      "Relevant benefit or medical information if seeking benefits help"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Revenue",
+    "applyLinks": [
+      {
+        "label": "NebFile free online filing",
+        "url": "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NebFile information",
+        "value": "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+      }
+    ],
+    "cost": "Free for eligible filers.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax season",
+        "note": "NebFile showed as NOW OPEN on September 19, 2026, for 2025 Nebraska resident individual returns."
+      }
+    ],
+    "description": "NebFile is the Nebraska Department of Revenue's free online filing service for most 2025 Nebraska resident individual income tax returns. Filers must have been full-year 2025 Nebraska residents and have a valid email address, subject to exclusions listed on the NebFile page. Amended returns are not processed through NebFile.",
+    "eligibility": [
+      "Full-year 2025 Nebraska residents with a valid email address",
+      "Must meet the return-type eligibility listed on the NebFile page"
+    ],
+    "id": "ne-nebfile",
+    "languages": [
+      "English"
+    ],
+    "name": "NebFile free state tax filing",
+    "prerequisites": [
+      "Gather 2025 income documents and prior-year return information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "W-2s, 1099s, and other 2025 income documents",
+      "Prior-year Nebraska return"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "Nebraska DMV online services information",
+        "url": "https://www.nebraska.gov/dmv/dlr/restrictions.html"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Nebraska DMV online services information",
+        "value": "https://www.nebraska.gov/dmv/dlr/restrictions.html"
+      }
+    ],
+    "cost": "Transaction and portal fees apply; amounts vary by service.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online services available any time for eligible transactions."
+      }
+    ],
+    "description": "The Nebraska DMV supports eligible online transactions including license and ID renewals and replacements, some new licenses and permits, driver record requests, vehicle registration renewal, and reinstatement eligibility checks. Some people must visit a driver licensing office instead, including noncitizens needing additional record checks and applicants changing their name. Transaction and portal fees apply.",
+    "eligibility": [
+      "Nebraska residents with eligible license, ID, or vehicle transactions"
+    ],
+    "id": "ne-dmv-online",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska DMV online services",
+    "prerequisites": [
+      "Meet the eligibility rules for the specific online transaction"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.nebraska.gov/dmv/dlr/restrictions.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Driver's license or ID number",
+      "Payment method for transaction and portal fees"
+    ]
+  },
+  {
+    "agency": "Nebraska Secretary of State",
+    "applyLinks": [
+      {
+        "label": "Business services forms and fee information",
+        "url": "https://sos.nebraska.gov/business-services/forms-and-fee-information-old?quot="
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State business services",
+        "value": "(402) 471-4079"
+      }
+    ],
+    "cost": "Filing fees apply and vary by filing type.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Filings accepted any time."
+      }
+    ],
+    "description": "Business entity filings with the Nebraska Secretary of State, including formation, registration, and related business documents. Many filings can be submitted through eDelivery, which requires uploading a signed PDF. Filing fees vary by filing type; see the official forms and fee schedule.",
+    "eligibility": [
+      "Businesses and individuals filing business documents in Nebraska"
+    ],
+    "id": "ne-sos-business",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Secretary of State business filings",
+    "prerequisites": [
+      "Prepare the required filing documents; eDelivery requires a signed PDF upload"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://sos.nebraska.gov/business-services/forms-and-fee-information-old?quot="
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed filing forms",
+      "Payment for filing fees"
+    ]
+  },
+  {
+    "agency": "Nebraska Investment Finance Authority",
+    "applyLinks": [
+      {
+        "label": "NIFA",
+        "url": "https://nifa.org/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NIFA",
+        "value": "https://nifa.org/"
+      }
+    ],
+    "cost": "Program terms vary; check current offerings with NIFA or a participating lender.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Programs run continuously; availability and terms change."
+      }
+    ],
+    "description": "The Nebraska Investment Finance Authority (NIFA) supports affordable housing and homeownership in Nebraska, including homebuyer programs offered through participating lenders and an online loan eligibility tool. Program names, rates, and requirements change over time, so confirm current details on the NIFA website or with a participating lender before applying.",
+    "eligibility": [
+      "Nebraska homebuyers meeting current program income and purchase-price limits through participating lenders"
+    ],
+    "id": "ne-nifa",
+    "languages": [
+      "English"
+    ],
+    "name": "NIFA affordable homeownership programs",
+    "prerequisites": [
+      "Work with a NIFA participating lender to determine eligibility for current programs"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://nifa.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income documentation",
+      "Information about the home purchase"
+    ]
+  },
+  {
+    "agency": "Nebraska 211 (United Way)",
+    "applyLinks": [
+      {
+        "label": "Nebraska 211",
+        "url": "https://ne211.org/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1 (unverified)",
+        "value": "2-1-1 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Nebraska 211",
+        "value": "https://ne211.org/"
+      }
+    ],
+    "cost": "Free and confidential.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available around the clock."
+      }
+    ],
+    "description": "Free, confidential referral service connecting Nebraskans to community resources for food, shelter, utility assistance, transportation, legal and disaster services, and other needs. Search resources online or contact 211 for help finding local assistance.",
+    "eligibility": [
+      "Anyone in Nebraska seeking community resources"
+    ],
+    "id": "ne-211",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska 211 community resource referrals",
+    "prerequisites": [
+      "None; describe the need to get matched with resources"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://ne211.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "ZIP code or location to find nearby resources"
+    ]
+  },
+  {
+    "agency": "Nebraska Department of Revenue, Property Assessment Division",
+    "applyLinks": [
+      {
+        "label": "2026 Homestead Exemption news release and filing details",
+        "url": "https://revenue.nebraska.gov/sites/default/files/doc/news-release/pad/2026/NewsRelease_HomesteadExemption_2026.pdf"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department of Revenue",
+        "value": "(888) 475-5101"
+      },
+      {
+        "kind": "phone",
+        "label": "Property Assessment Division",
+        "value": "(402) 471-5962"
+      }
+    ],
+    "cost": "Free to apply; reduces property taxes for qualifying homeowners.",
+    "deadlines": [
+      {
+        "date": "2026-06-30",
+        "label": "Tax year 2026 filing deadline",
+        "note": "Applications (Form 458) for tax year 2026 were due to the county assessor on or before June 30, 2026; this deadline has passed."
+      }
+    ],
+    "description": "The Nebraska homestead exemption provides property tax relief by exempting all or part of a qualifying residence's taxable value, with the state reimbursing counties for the lost revenue. For tax year 2026, it was available to property owners age 65 or older before January 1, 2026, qualified disabled individuals, and qualified disabled veterans and their surviving spouses; some categories face household income and residence valuation limits on a sliding scale. Applications were due to the county assessor by June 30, 2026, so the 2026 filing window is now closed.",
+    "eligibility": [
+      "Property owners age 65 or older, qualified disabled individuals, or qualified disabled veterans and surviving spouses",
+      "Subject to income and residence valuation limits by category"
+    ],
+    "id": "ne-homestead-exemption",
+    "languages": [
+      "English"
+    ],
+    "name": "Nebraska Homestead Exemption",
+    "prerequisites": [
+      "File Form 458 with the county assessor during the filing window"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NE"
+    },
+    "sources": [
+      "https://revenue.nebraska.gov/sites/default/files/doc/news-release/pad/2026/NewsRelease_HomesteadExemption_2026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Form 458 and required documentation",
+      "Proof of age, disability, or veteran status as applicable",
+      "Income documentation if the category is income-limited"
+    ]
+  },
+  {
+    "agency": "988 Suicide & Crisis Lifeline",
+    "applyLinks": [
+      {
+        "label": "988 Lifeline",
+        "url": "https://988lifeline.org/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Call or text 988",
+        "value": "988"
+      },
+      {
+        "kind": "web",
+        "label": "988 Lifeline chat and information",
+        "value": "https://988lifeline.org/"
+      }
+    ],
+    "cost": "Free and confidential, available 24/7/365.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always available",
+        "note": "Counselors answer calls, texts, and chats around the clock."
+      }
+    ],
+    "description": "The 988 Suicide & Crisis Lifeline provides free, confidential, one-on-one support from trained counselors for people facing mental health struggles, emotional distress, alcohol or drug use concerns, or anyone who needs someone to talk to. Available 24 hours a day, 7 days a week by call, text, or chat, including support for friends and loved ones of someone in crisis.",
+    "eligibility": [
+      "Everyone in the United States"
+    ],
+    "id": "fed-988",
+    "languages": [
+      "English"
+    ],
+    "name": "988 Suicide & Crisis Lifeline",
+    "prerequisites": [
+      "None; call, text, or chat 988"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "NE"
+    },
+    "sources": [
+      "https://988lifeline.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "No documents needed"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "How to file a VA disability claim",
+        "url": "https://www.va.gov/disability/how-to-file-claim/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA benefits (unverified)",
+        "value": "(800) 827-1000 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "How to file a VA disability claim",
+        "value": "https://www.va.gov/disability/how-to-file-claim/"
+      }
+    ],
+    "cost": "Free to apply; monthly tax-free compensation for qualifying disabilities.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claims accepted any time; you have up to a year after filing to submit evidence."
+      }
+    ],
+    "description": "VA disability compensation provides monthly tax-free payments to veterans with service-connected disabilities. Claims can be filed online, by mail with VA Form 21-526EZ, in person at a VA regional office, by fax, or with help from an accredited attorney, claims agent, or Veterans Service Organization. Supporting evidence can include VA and private medical records, supporting statements, and discharge papers (DD-214); evidence is not required at filing, and applicants have up to a year to submit it.",
+    "eligibility": [
+      "Veterans with a service-connected disability or a condition made worse by service"
+    ],
+    "id": "fed-va-benefits",
+    "languages": [
+      "English"
+    ],
+    "name": "VA disability compensation",
+    "prerequisites": [
+      "File a claim online, by mail, in person, by fax, or with an accredited representative"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.va.gov/disability/how-to-file-claim/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or separation documents",
+      "Medical records related to the claimed condition",
+      "Supporting statements if available"
+    ]
+  },
+  {
+    "agency": "Lancaster County Veterans Service Office",
+    "applyLinks": [
+      {
+        "label": "Lancaster County Veterans Service Office",
+        "url": "https://www.lancaster.ne.gov/484"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veterans Service Office appointments (unverified)",
+        "value": "(402) 441-7361 (unverified)"
+      },
+      {
+        "kind": "in-person",
+        "label": "Victory Park Campus office",
+        "value": "600 S 70th Street, Building #2, Suite #200, Lincoln, NE"
+      }
+    ],
+    "cost": "Free.",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule an appointment with a Veterans Service Officer."
+      }
+    ],
+    "description": "Lancaster County's Veterans Service Office helps local veterans and their families apply for state and federal veterans benefits, provides veteran advocacy, and administers emergency financial assistance through the County Veterans' Aid Fund for qualifying veterans, spouses, and dependents facing unforeseen emergencies (covering items such as food, shelter, clothing, medical, and funeral expenses). The office is at the Victory Park Campus, 600 S 70th Street, Building #2, Suite #200, Lincoln, alongside Aging Partners and the VA's community-based outpatient clinic.",
+    "eligibility": [
+      "Veterans and their families in Lancaster County",
+      "County Veterans' Aid: veterans with honorable discharge during a recognized conflict period, plus spouses and dependents, meeting residency and financial-need requirements"
+    ],
+    "id": "lancaster-county-veterans-service",
+    "languages": [
+      "English"
+    ],
+    "name": "Lancaster County Veterans Service Office",
+    "prerequisites": [
+      "Call to schedule an appointment with a Veterans Service Officer"
+    ],
+    "scope": {
+      "county": "Lancaster County",
+      "level": "county",
+      "state": "NE"
+    },
+    "sources": [
+      "https://www.lancaster.ne.gov/484"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of military service and discharge status",
+      "Documentation of the emergency need"
+    ]
   }
 ]
