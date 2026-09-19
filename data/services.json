@@ -10491,7 +10491,8 @@
     "description": "NYC311 is the city's 24/7/365 non-emergency services line — report issues, get information on city programs, and track service requests. Phone service is available in 175 languages, with text accessibility at 311-692.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "Anyone needing New York City non-emergency services or information"
@@ -10544,7 +10545,8 @@
     "description": "ACCESS HRA is New York City's online benefits portal: apply for SNAP, recertify SNAP and Cash Assistance, upload documents, and manage your HRA case from a phone or computer.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "New York City residents applying for HRA-administered benefits"
@@ -10595,7 +10597,8 @@
     "description": "Apply for NYCHA public housing through ApplyNYCHA — no documents are needed with the initial application. Applications stay active for two years and must be renewed every 24 months. Note: NYCHA's Section 8 waitlist closed June 9, 2024.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "Low-income households meeting NYCHA admission requirements"
@@ -10649,7 +10652,8 @@
     "description": "Fair Fares NYC gives eligible residents a 50% discount on subway, eligible bus, and Access-A-Ride trips. Open to NYC residents ages 18–64 with household income at or below 145% of the federal poverty level, regardless of immigration status.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "New York City resident",
@@ -10702,7 +10706,8 @@
     "description": "Free job help and training at 18 Workforce1 Career Centers across the city — job search, resume help, training, and employer connections. Open to jobseekers age 18+ who are legally authorized to work; services available in 25 languages plus phone translation.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "Age 18 or older",
@@ -10752,7 +10757,8 @@
     "description": "NYC Health + Hospitals offers low- or no-cost health insurance options and reduced-fee payment arrangements (including HHC Options) for patients who need help paying for care.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "Patients of NYC Health + Hospitals facilities who need help paying for care"
@@ -10802,7 +10808,8 @@
     "description": "Pre-K for All offers free, full-day pre-K to New York City children. For the 2026–27 school year, children born in 2022 were eligible and the application deadline was February 27, 2026 (now closed) — check the program page for the next application cycle.",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "New York City resident",
@@ -10857,7 +10864,8 @@
     "description": "NYC Housing Connect is the city's portal to find and apply for affordable rental and homeownership opportunities across the five boroughs — financed by HPD and HDC, with rents regulated so they can't rise too much over time. Create an account, complete your household profile, and apply to lotteries; qualified applicants are chosen through a randomized lottery system. HPD also runs a multilingual information line (English: 212-863-5610).",
     "scope": {
       "level": "city",
-      "city": "New York City"
+      "city": "New York City",
+      "state": "NY"
     },
     "eligibility": [
       "Households meeting the income and size requirements of the specific lottery"
@@ -10912,7 +10920,8 @@
     "description": "Buffalo 311 is the city's line for non-emergency information, city service requests, and tracking — call 311 within the city or 716-851-4890.",
     "scope": {
       "level": "city",
-      "city": "Buffalo"
+      "city": "Buffalo",
+      "state": "NY"
     },
     "eligibility": [
       "Anyone needing City of Buffalo non-emergency services or information"
@@ -10970,7 +10979,8 @@
     "description": "Erie County DSS offers remote service options for HEAP, Temporary Assistance, Emergency Services, SNAP, child care assistance, child support, and Adult Protective Services — including online applications and document upload.",
     "scope": {
       "level": "county",
-      "county": "Erie"
+      "county": "Erie",
+      "state": "NY"
     },
     "eligibility": [
       "Erie County residents applying for DSS-administered benefits"
@@ -11021,7 +11031,8 @@
     "description": "NFTA-Metro reduced fares for riders age 65+, riders with a qualifying disability, and Community Care participants. A $2 reduced-fare card is available; reduced fares apply on regular routes only (not PAL paratransit).",
     "scope": {
       "level": "county",
-      "county": "Erie"
+      "county": "Erie",
+      "state": "NY"
     },
     "eligibility": [
       "Age 65 or older",
@@ -11083,7 +11094,8 @@
     "description": "Rochester 311 connects you to city services by phone or online — call 311 or 585-428-5990, or submit requests 24/7 through the online portal. Third-party translation services and NYS Relay 711 are available.",
     "scope": {
       "level": "city",
-      "city": "Rochester"
+      "city": "Rochester",
+      "state": "NY"
     },
     "eligibility": [
       "Anyone needing City of Rochester non-emergency services or information"
@@ -11141,7 +11153,8 @@
     "description": "Monroe County's financial assistance hub: SNAP, Medicaid, Temporary Assistance, child care assistance, housing and utility help, and employment support. Note: the county's 2025–26 HEAP Regular and Emergency programs are closed; the page also carries current Summer EBT 2026 details.",
     "scope": {
       "level": "county",
-      "county": "Monroe"
+      "county": "Monroe",
+      "state": "NY"
     },
     "eligibility": [
       "Monroe County residents meeting program income and eligibility rules"
@@ -11197,7 +11210,8 @@
     "description": "RTS reduced fares at half the standard fare for riders age 65+ and riders with a qualifying disability. Apply with the reduced-fare application — documents, medical certification, and a photograph are required; submit by mail or drop-off.",
     "scope": {
       "level": "county",
-      "county": "Monroe"
+      "county": "Monroe",
+      "state": "NY"
     },
     "eligibility": [
       "Age 65 or older",
@@ -11248,7 +11262,8 @@
     "description": "SYRCityline is Syracuse's non-emergency reporting system — report issues by web, mobile app, or phone at 315-448-CITY (2489), Monday–Friday 8:30 a.m.–5 p.m., with online status tracking.",
     "scope": {
       "level": "city",
-      "city": "Syracuse"
+      "city": "Syracuse",
+      "state": "NY"
     },
     "eligibility": [
       "Anyone reporting a non-emergency issue in the City of Syracuse"
@@ -11301,7 +11316,8 @@
     "description": "Onondaga County DSS administers SNAP, Temporary Assistance, public health insurance (Medicaid), HEAP, child support enforcement, and adult services for county residents. Central Intake: 315-435-2700, Monday–Friday 8 a.m.–4 p.m.; 421 Montgomery Street, Syracuse.",
     "scope": {
       "level": "county",
-      "county": "Onondaga"
+      "county": "Onondaga",
+      "state": "NY"
     },
     "eligibility": [
       "Onondaga County residents meeting program income and eligibility rules"
@@ -11362,7 +11378,8 @@
     "description": "Centro half fares ($0.50 on city routes): seniors 65+ with a valid Centro Reduced Fare ID or a Medicare card plus photo ID, persons with disabilities, and children ages 6–9; children under 6 ride free with an adult. Exact fare is required when boarding; drivers cannot make change.",
     "scope": {
       "level": "county",
-      "county": "Onondaga"
+      "county": "Onondaga",
+      "state": "NY"
     },
     "eligibility": [
       "Age 65 or older with valid ID",
@@ -11418,7 +11435,8 @@
     "description": "Albany's Neighborhood Services Department connects residents to city services and community resources. Report non-emergency quality-of-life issues (potholes, illegal garbage, property overgrowth) on SeeClickFix, or call 518-434-CITY; the City Service Desk at 200 Henry Johnson Boulevard is open 8:30 a.m.–4:30 p.m. Monday–Friday.",
     "scope": {
       "level": "city",
-      "city": "Albany"
+      "city": "Albany",
+      "state": "NY"
     },
     "eligibility": [
       "Anyone needing City of Albany services or non-emergency issue reporting"
@@ -11471,7 +11489,8 @@
     "description": "Albany County DSS administers Temporary Assistance, SNAP, HEAP, child care subsidies, child support enforcement, Medicaid for long-term care, and Adult Protective Services. Administrative line 518-447-7300, Monday–Friday 8:30 a.m.–4:30 p.m.; 162 Washington Avenue, Albany.",
     "scope": {
       "level": "county",
-      "county": "Albany"
+      "county": "Albany",
+      "state": "NY"
     },
     "eligibility": [
       "Albany County residents meeting program income and eligibility rules"
@@ -11533,7 +11552,8 @@
     "description": "CDTA half fares for veterans, riders 65+, and riders with disabilities: $0.75 cash on regular routes ($1.00 BusPlus), or load a Half Fare Navigator card — Pay As You Go is $0.65 per ride for the first three rides (the rest of the day free), and a Frequent Rider monthly pass is $32.50. Get a photo ID at the CDTA Sales Center, 85 Watervliet Avenue, Albany, (518) 437-6876, Monday–Friday 9 a.m.–5 p.m.",
     "scope": {
       "level": "county",
-      "county": "Albany"
+      "county": "Albany",
+      "state": "NY"
     },
     "eligibility": [
       "Honorably discharged veterans with qualifying documents",
@@ -11590,7 +11610,8 @@
     "category": "Seniors",
     "description": "Apply online for Social Security retirement or spouse's benefits (up to four months before you want benefits to start; age 62+), disability benefits (age 18+, unable to work due to a condition expected to last at least 12 months or result in death), and Supplemental Security Income (SSI) for adults and children with disabilities or blindness who meet income and resource limits — plus Medicare enrollment at 65.",
     "scope": {
-      "level": "federal"
+      "level": "federal",
+      "state": "NY"
     },
     "eligibility": [
       "Retirement: age 62+ with sufficient work credits",
@@ -11649,7 +11670,8 @@
     "category": "Money & Taxes",
     "description": "Free tax return preparation for qualifying taxpayers: VITA sites serve low- and moderate-income filers, people with disabilities, and limited-English speakers; TCE sites (many run with AARP) specialize in taxpayers age 60+. Find the closest site with the VITA locator or call 1-800-906-9887 (VITA) or 1-888-227-7669 (AARP TCE).",
     "scope": {
-      "level": "federal"
+      "level": "federal",
+      "state": "NY"
     },
     "eligibility": [
       "VITA: low- and moderate-income taxpayers, people with disabilities, limited-English speakers",
@@ -11716,7 +11738,8 @@
     "category": "Healthcare",
     "description": "Medicare is federal health insurance for people 65 or older who meet citizenship or residency requirements — and earlier for people with disabilities, End-Stage Renal Disease, or ALS. If you already get Social Security benefits you're enrolled automatically; otherwise sign up starting three months before your 65th birthday through Social Security.",
     "scope": {
-      "level": "federal"
+      "level": "federal",
+      "state": "NY"
     },
     "eligibility": [
       "Age 65+ meeting citizenship or residency requirements",
@@ -11771,7 +11794,8 @@
     "category": "Housing",
     "description": "FEMA Individual Assistance helps disaster survivors with serious needs and necessary expenses not covered by insurance — including temporary rental assistance, home repairs, and other needs. Apply online at DisasterAssistance.gov, via the FEMA app, at a Disaster Recovery Center, or by calling 800-621-3362 (24/7, multilingual operators).",
     "scope": {
-      "level": "federal"
+      "level": "federal",
+      "state": "NY"
     },
     "eligibility": [
       "Individuals and households affected by a declared disaster with uninsured needs"
@@ -11828,7 +11852,8 @@
     "category": "Housing",
     "description": "HUD's 'Helping Americans' hub points you to rental assistance (Housing Choice Vouchers/Section 8 and public housing through local Public Housing Agencies), HUD-approved housing counselors, homelessness help (dial 2-1-1, press 6), the VA housing hotline for veterans (1-877-424-3838), and fair housing complaint filing (1-800-669-9777).",
     "scope": {
-      "level": "federal"
+      "level": "federal",
+      "state": "NY"
     },
     "eligibility": [
       "Low-income households for rental assistance programs (eligibility set by local Public Housing Agencies)",
@@ -24413,7 +24438,8 @@
     ],
     "scope": {
       "city": "Richmond",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://www.ridegrtc.com/bus_routes/highland-park-u-s-1-brightpoint/"
@@ -24467,7 +24493,8 @@
     ],
     "scope": {
       "city": "Virginia Beach",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://gohrt.com/programs/student-freedom-pass/?gad_source=1"
@@ -24515,7 +24542,8 @@
     ],
     "scope": {
       "county": "Arlington",
-      "level": "county"
+      "level": "county",
+      "state": "VA"
     },
     "sources": [
       "https://www.arlingtonva.us/About-Arlington/Newsroom/Articles/2024/Arlington-Transit-to-Implement-Fare-and-Route-Changes"
@@ -24568,7 +24596,8 @@
     ],
     "scope": {
       "city": "Richmond",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://www.rva.gov/index.php/node/7571"
@@ -24626,7 +24655,8 @@
     ],
     "scope": {
       "city": "Virginia Beach",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://virginiabeach.gov/connect/blog/make-the-right-call-learn-the-three-ways-to-reach-help-in-virginia-beach"
@@ -24674,7 +24704,8 @@
     ],
     "scope": {
       "city": "Norfolk",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://www.Norfolk.gov/CivicAlerts.aspx?AID=4914&ARC=9699"
@@ -24738,7 +24769,8 @@
     ],
     "scope": {
       "city": "Richmond",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
@@ -24797,7 +24829,8 @@
     ],
     "scope": {
       "city": "Norfolk",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
@@ -24856,7 +24889,8 @@
     ],
     "scope": {
       "county": "Arlington",
-      "level": "county"
+      "level": "county",
+      "state": "VA"
     },
     "sources": [
       "https://vsb.org/BU/Site/legal-help/access-guide.aspx"
@@ -24904,7 +24938,8 @@
     ],
     "scope": {
       "city": "Richmond",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://www.rrha.com/events/waitlist-openings-2026-09/"
@@ -24962,7 +24997,8 @@
     ],
     "scope": {
       "city": "Norfolk",
-      "level": "city"
+      "level": "city",
+      "state": "VA"
     },
     "sources": [
       "https://nrha.us/housing/apply/waitlists/"
@@ -25011,7 +25047,8 @@
     ],
     "scope": {
       "county": "Arlington",
-      "level": "county"
+      "level": "county",
+      "state": "VA"
     },
     "sources": [
       "https://library.arlingtonva.us/2026/09/14/launching-unlimited-audiobooks-with-blackstone-unlimited/"
