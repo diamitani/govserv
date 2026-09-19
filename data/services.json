@@ -58599,5 +58599,2084 @@
     "sources": [
       "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
     ]
+  },
+  {
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "applyLinks": [
+      {
+        "label": "Access Arkansas — learn about and apply for SNAP",
+        "url": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Access Arkansas — SNAP",
+        "value": "https://access.arkansas.gov/Learn/Home"
+      },
+      {
+        "kind": "phone",
+        "label": "Access Arkansas call center (unverified on fetched page text)",
+        "value": "1-855-372-1084"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through Access Arkansas"
+      }
+    ],
+    "description": "Helps Arkansas households buy food. Eligibility considers household size, income, and assets. Applications, renewals, and case management are handled through the Access Arkansas portal.",
+    "eligibility": [
+      "Arkansas household",
+      "Meets household size, income, and asset rules (screened on Access Arkansas)"
+    ],
+    "id": "ar-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — Arkansas",
+    "prerequisites": [
+      "Create an Access Arkansas account and submit the application online"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://access.arkansas.gov/Learn/Home"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; see Access Arkansas instructions",
+      "Typically: proof of identity, residency, household income, and expenses"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "applyLinks": [
+      {
+        "label": "Access Arkansas — learn about and apply for TEA",
+        "url": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Access Arkansas — TEA",
+        "value": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through Access Arkansas"
+      }
+    ],
+    "description": "Short-term help for limited-income Arkansas households with a child under 18. Depending on the family's situation, assistance can include cash, job training, childcare, and transportation.",
+    "eligibility": [
+      "Arkansas household with a child under 18",
+      "Limited income (screened on Access Arkansas)"
+    ],
+    "id": "ar-tea",
+    "languages": [
+      "English"
+    ],
+    "name": "Transitional Employment Assistance (TEA) — Arkansas",
+    "prerequisites": [
+      "Create an Access Arkansas account and submit the application online"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://access.arkansas.gov/Learn/Home"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; see Access Arkansas instructions",
+      "Typically: proof of identity, residency, household income, and child in the home"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Human Services (DHS), Division of Medical Services",
+    "applyLinks": [
+      {
+        "label": "DHS — apply for Medicaid and other services",
+        "url": "https://humanservices.arkansas.gov/apply-for-services/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHS — apply for services",
+        "value": "https://humanservices.arkansas.gov/apply-for-services/"
+      },
+      {
+        "kind": "phone",
+        "label": "General customer assistance (unverified on fetched page text)",
+        "value": "1-800-482-8988"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round online, by phone, or in person"
+      }
+    ],
+    "description": "Health coverage for eligible Arkansans, including adults, children, pregnant women, and people with disabilities. Online applications cover SNAP, TEA, Medicaid, ARKids, TEFRA, and other Medicaid categories.",
+    "eligibility": [
+      "Arkansas resident",
+      "Varies by eligibility group — see program page"
+    ],
+    "id": "ar-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Medicaid",
+    "prerequisites": [
+      "Apply online through Access Arkansas, by phone, or at a DHS county office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://humanservices.arkansas.gov/apply-for-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; see application instructions",
+      "Typically: proof of identity, residency, income, and household size"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "applyLinks": [
+      {
+        "label": "DHS — ARKids First program info",
+        "url": "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ARKids First helpline (Mon–Fri, 8:00 a.m.–4:30 p.m.)",
+        "value": "1-888-474-8275"
+      },
+      {
+        "kind": "web",
+        "label": "DHS — ARKids First",
+        "value": "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids/"
+      }
+    ],
+    "cost": "Free to apply; ARKids A has no charge, ARKids B has some copayments",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round"
+      }
+    ],
+    "description": "Health coverage for Arkansas children: preventive, medical, eye, and dental care. ARKids A has no charge to the family; ARKids B has some copayments. Part of Arkansas's Medicaid/CHIP program for children.",
+    "eligibility": [
+      "Child resident of Arkansas",
+      "Income and age rules vary between ARKids A and ARKids B"
+    ],
+    "id": "ar-arkids",
+    "languages": [
+      "English"
+    ],
+    "name": "ARKids First",
+    "prerequisites": [
+      "Apply through Access Arkansas or call the ARKids helpline"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; see application instructions",
+      "Typically: proof of identity, residency, and household income"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Health",
+    "applyLinks": [
+      {
+        "label": "Arkansas WIC — program info",
+        "url": "https://healthy.arkansas.gov/programs-services/community-family-child-health/wic-women-infants-children/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State WIC office",
+        "value": "501-661-2508"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC (toll-free)",
+        "value": "1-800-235-0002"
+      },
+      {
+        "kind": "web",
+        "label": "Arkansas WIC Program",
+        "value": "https://healthy.arkansas.gov/programs-services/community-family-child-health/wic-women-infants-children/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to schedule a WIC appointment; bring required documents to the appointment"
+      }
+    ],
+    "description": "Nutrition benefits, health screening, and education for pregnant, breastfeeding, and postpartum women, infants, and children under 5. Eligibility requires Arkansas residency, income guidelines, and a nutritional-need screening. Interpreters and accommodations are available.",
+    "eligibility": [
+      "Arkansas resident",
+      "Pregnant, postpartum, or breastfeeding woman; infant; or child under age 5",
+      "Meet income guidelines and be screened for nutritional risk"
+    ],
+    "id": "ar-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas WIC (Women, Infants, and Children)",
+    "prerequisites": [
+      "Schedule an appointment at a WIC clinic"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://healthy.arkansas.gov/programs-services/community-family-child-health/wic-women-infants-children/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The person applying for WIC",
+      "Proof of identification",
+      "Proof of Arkansas residence",
+      "Proof of income or enrollment in Medicaid, SNAP, or TANF"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Energy and Environment / community organizations",
+    "applyLinks": [
+      {
+        "label": "Arkansas LIHEAP — find your county organization",
+        "url": "https://adeq.state.ar.us/energy/assistance/liheap.aspx"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Arkansas LIHEAP page",
+        "value": "https://adeq.state.ar.us/energy/assistance/liheap.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Typically offered January–April 30 and July–September 30; contact the community organization serving your county for current dates"
+      }
+    ],
+    "description": "Helps low-income households pay heating and cooling bills. LIHEAP is delivered through community organizations serving all 75 Arkansas counties; there is no application fee. Benefits are typically offered first-come, first-served in winter (January–April 30) and summer (July–September 30) periods.",
+    "eligibility": [
+      "Arkansas household",
+      "Income guidelines apply — see your county community organization"
+    ],
+    "id": "ar-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Low Income Home Energy Assistance Program (LIHEAP)",
+    "prerequisites": [
+      "Apply through the community organization serving your county"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://adeq.state.ar.us/energy/assistance/liheap.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by agency; call ahead",
+      "Typically: photo ID, proof of income, current utility bill"
+    ]
+  },
+  {
+    "agency": "Arkansas Division of Workforce Services (DWS)",
+    "applyLinks": [
+      {
+        "label": "DWS — unemployment insurance info and EZARC",
+        "url": "https://dws.arkansas.gov/workforce-services/unemployment/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Service Center",
+        "value": "1-844-908-2178"
+      },
+      {
+        "kind": "phone",
+        "label": "Arkline (automated)",
+        "value": "501-907-2590"
+      },
+      {
+        "kind": "web",
+        "label": "EZARC online filing",
+        "value": "https://www.ezarc.adws.arkansas.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; certify weekly to keep payments coming"
+      }
+    ],
+    "description": "Temporary wage replacement for Arkansans who lost work through no fault of their own. File initial claims through EZARC (Mon–Fri 6:00 a.m.–6:00 p.m., Sunday 7:00 a.m.–6:00 p.m.); an Arkansas LAUNCH account, identity proof, and weekly certification are required, plus a chosen payment method.",
+    "eligibility": [
+      "Arkansas worker who lost a job through no fault of their own",
+      "Meet earnings and work-history requirements — see DWS page"
+    ],
+    "id": "ar-ui",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Unemployment Insurance",
+    "prerequisites": [
+      "File the initial claim through EZARC with identity proof and an Arkansas LAUNCH account"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://dws.arkansas.gov/workforce-services/unemployment/",
+      "https://www.ezarc.adws.arkansas.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Employment history and earnings information",
+      "Payment method selection"
+    ]
+  },
+  {
+    "agency": "Arkansas Division of Higher Education (ADHE)",
+    "applyLinks": [
+      {
+        "label": "SAMS — Academic Challenge Scholarship details",
+        "url": "https://sams.adhe.edu/Scholarship/Details/ACST"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ADHE — Academic Challenge Scholarship",
+        "value": "https://sams.adhe.edu/Scholarship/Details/ACST"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "July 1 annual deadline — apply before July 1 for the coming academic year"
+      }
+    ],
+    "description": "Lottery-funded college scholarship for Arkansas residents. The annual application deadline is July 1; requirements include residency, education/test criteria, FAFSA completion, and enrollment at an eligible institution — all detailed on the official scholarship page.",
+    "eligibility": [
+      "Arkansas resident",
+      "Meet education/test, FAFSA, and institution requirements on the official page"
+    ],
+    "id": "ar-academic-challenge",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Academic Challenge Scholarship",
+    "prerequisites": [
+      "Complete the FAFSA and the scholarship application on SAMS"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://sams.adhe.edu/Scholarship/Details/ACST"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA submission",
+      "School and test records as described on the scholarship page"
+    ]
+  },
+  {
+    "agency": "Arkansas Division of Workforce Services (DWS), Arkansas Rehabilitation Services",
+    "applyLinks": [
+      {
+        "label": "ARS — vocational rehabilitation process",
+        "url": "https://dws.arkansas.gov/ar-rehabilitation-services/field-services/vocational-rehabilitation-vr-process-at-a-glance/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State office (toll-free)",
+        "value": "1-800-330-0632"
+      },
+      {
+        "kind": "phone",
+        "label": "State office",
+        "value": "501-296-1600"
+      },
+      {
+        "kind": "phone",
+        "label": "Little Rock office",
+        "value": "501-686-2800"
+      },
+      {
+        "kind": "phone",
+        "label": "North Little Rock office",
+        "value": "501-833-1490"
+      },
+      {
+        "kind": "phone",
+        "label": "Fayetteville office",
+        "value": "479-582-1286"
+      },
+      {
+        "kind": "phone",
+        "label": "Fort Smith office",
+        "value": "479-755-3300"
+      },
+      {
+        "kind": "phone",
+        "label": "Jonesboro office",
+        "value": "870-972-0025"
+      },
+      {
+        "kind": "web",
+        "label": "ARS — VR process at a glance",
+        "value": "https://dws.arkansas.gov/ar-rehabilitation-services/field-services/vocational-rehabilitation-vr-process-at-a-glance/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Referrals accepted year-round; eligibility decision within 60 days of application"
+      }
+    ],
+    "description": "Helps Arkansans with disabilities obtain or keep competitive employment. The process: referral, counselor application, assessment, eligibility decision within 60 days, and an Individualized Plan for Employment within 90 days of eligibility.",
+    "eligibility": [
+      "Arkansas resident with a disability that creates a barrier to employment",
+      "Eligibility determined within 60 days of application"
+    ],
+    "id": "ar-vr",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Rehabilitation Services — Vocational Rehabilitation",
+    "prerequisites": [
+      "Submit a referral; a counselor completes the application with you"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://dws.arkansas.gov/ar-rehabilitation-services/field-services/vocational-rehabilitation-vr-process-at-a-glance/",
+      "https://dws.arkansas.gov/ar-rehabilitation-services/contact-ars/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Medical or disability documentation, if available"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Veterans Affairs (ADVA)",
+    "applyLinks": [
+      {
+        "label": "ADVA — veterans benefits and services",
+        "url": "https://www.veterans.arkansas.gov"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ADVA / Veterans Service Office (unverified on fetched page text)",
+        "value": "501-683-2382"
+      },
+      {
+        "kind": "web",
+        "label": "Arkansas Department of Veterans Affairs",
+        "value": "https://www.veterans.arkansas.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact ADVA for program-specific steps and timelines"
+      }
+    ],
+    "description": "Advocacy and access to state and federal veterans benefits, long-term nursing care at state veterans homes, and burial honors. ADVA also connects veterans with career services at Arkansas Workforce Centers.",
+    "eligibility": [
+      "Veteran or eligible dependent in Arkansas",
+      "Varies by program — see ADVA"
+    ],
+    "id": "ar-adva",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Department of Veterans Affairs",
+    "prerequisites": [
+      "Contact ADVA or your county Veterans Service Office"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.veterans.arkansas.gov",
+      "https://dws.arkansas.gov/wp-content/uploads/TAP-Brochure_RV5_FINAL.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other proof of service, if available",
+      "Program-specific documents as directed"
+    ]
+  },
+  {
+    "agency": "Legal Aid of Arkansas (nonprofit law firm)",
+    "applyLinks": [
+      {
+        "label": "Legal Aid of Arkansas — apply for legal aid",
+        "url": "https://arlegalaid.org/contact-us/apply-for-legal-aid.html"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Helpline",
+        "value": "1-800-952-9243"
+      },
+      {
+        "kind": "phone",
+        "label": "Fair housing line",
+        "value": "1-870-338-9834"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for legal aid",
+        "value": "https://arlegalaid.org/contact-us/apply-for-legal-aid.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online any time; helpline hours are limited"
+      }
+    ],
+    "description": "Free legal help for low-income Arkansans, including housing, family, consumer, and public-benefits issues. Apply online; the helpline takes calls Monday–Thursday 9:00–11:00 a.m. and 1:00–3:00 p.m., plus Tuesday evenings 5:15–7:15 p.m.",
+    "eligibility": [
+      "Low-income Arkansas resident",
+      "Meet eligibility guidelines for the legal issue — screened on application"
+    ],
+    "id": "ar-legal-aid",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Aid of Arkansas",
+    "prerequisites": [
+      "Submit the online application or call the helpline"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://arlegalaid.org/contact-us/apply-for-legal-aid.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue (lease, court papers, notices)",
+      "Proof of income, if available"
+    ]
+  },
+  {
+    "agency": "Arkansas Secretary of State, Business & Commercial Services",
+    "applyLinks": [
+      {
+        "label": "Secretary of State — start a business in Arkansas",
+        "url": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Secretary of State — for new businesses",
+        "value": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+      }
+    ],
+    "cost": "Free guidance; state filing fees vary by entity type",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time; annual franchise/registration deadlines vary by entity type"
+      }
+    ],
+    "description": "Official steps to start a business in Arkansas: guidance booklet and FAQ, business-name search, online or paper entity filing, then applying for an EIN. Posted processing estimate for corporation/LLC filings is 3–5 business days.",
+    "eligibility": [
+      "Anyone starting or registering a business in Arkansas"
+    ],
+    "id": "ar-sos-business",
+    "languages": [
+      "English"
+    ],
+    "name": "Starting a Business — Arkansas Secretary of State",
+    "prerequisites": [
+      "Choose an entity type and check name availability"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name and entity details",
+      "Registered agent information",
+      "Filing fee — amount varies by entity type"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Finance and Administration (DFA)",
+    "applyLinks": [
+      {
+        "label": "DFA — Revenue Office appointments",
+        "url": "http://dfa.arkansas.gov/news/eliminate-waiting-book-a-revenue-office-appointment/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DFA — book a Revenue Office appointment",
+        "value": "http://dfa.arkansas.gov/news/eliminate-waiting-book-a-revenue-office-appointment/"
+      }
+    ],
+    "cost": "Free to book; service fees vary",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Book appointments any time; arrive on time for your slot"
+      }
+    ],
+    "description": "Book an online appointment at an Arkansas Revenue Office for services including vehicle registration and driver-license renewal; walk-ins remain available. Appointments eliminate waiting for these in-person services.",
+    "eligibility": [
+      "Anyone needing in-person Revenue Office services in Arkansas"
+    ],
+    "id": "ar-dfa-revenue",
+    "languages": [
+      "English"
+    ],
+    "name": "Revenue Office Appointments — Arkansas DFA",
+    "prerequisites": [
+      "Book online through the DFA appointment system"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "http://dfa.arkansas.gov/news/eliminate-waiting-book-a-revenue-office-appointment/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies by service — e.g., current registration, title, proof of insurance, or driver documents",
+      "See DFA instructions for your specific service"
+    ]
+  },
+  {
+    "agency": "Arkansas Development Finance Authority (ADFA)",
+    "applyLinks": [
+      {
+        "label": "ADFA — homeownership programs",
+        "url": "https://adfa.arkansas.gov/homeloans"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ADFA — home loans",
+        "value": "https://adfa.arkansas.gov/homeloans"
+      }
+    ],
+    "cost": "Free to apply; loan fees vary by lender",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a participating lender to start; program funds can be limited"
+      }
+    ],
+    "description": "State homeownership programs originated through participating lenders, including StartSmart, Move-Up, and down-payment assistance (DPA). DPA can provide up to $15,000 toward down payment and closing costs for qualifying first-time buyers.",
+    "eligibility": [
+      "Arkansas homebuyer",
+      "Meet income, purchase-price, and first-time-buyer rules of the chosen program"
+    ],
+    "id": "ar-adfa",
+    "languages": [
+      "English"
+    ],
+    "name": "ADFA Homeownership Programs",
+    "prerequisites": [
+      "Contact a participating ADFA lender to apply"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://adfa.arkansas.gov/homeloans"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard mortgage documents — varies by lender",
+      "Typically: ID, income verification, and purchase contract"
+    ]
+  },
+  {
+    "agency": "Disability Rights Arkansas (nonprofit)",
+    "applyLinks": [
+      {
+        "label": "Disability Rights Arkansas — get help",
+        "url": "https://disabilityrightsar.org/how-to-get-help/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Toll-free intake",
+        "value": "800-482-1174"
+      },
+      {
+        "kind": "web",
+        "label": "Request help (confidential form)",
+        "value": "https://disabilityrightsar.org/how-to-get-help/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Intake responses stated within 48 hours"
+      }
+    ],
+    "description": "Free, confidential advocacy, legal representation, information/referral, training, and outreach for Arkansans with disabilities. Case acceptance depends on organizational priorities and capacity.",
+    "eligibility": [
+      "Arkansas resident with a disability (or their representative)",
+      "Issue must fit the organization's current priorities and capacity"
+    ],
+    "id": "ar-disability-rights",
+    "languages": [
+      "English"
+    ],
+    "name": "Disability Rights Arkansas",
+    "prerequisites": [
+      "Call the toll-free line or submit the confidential Request Help form"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://disabilityrightsar.org/how-to-get-help/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Description of the issue and any supporting documents",
+      "No personal financial information in the initial request — they will ask what they need"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Education, Office of Early Childhood",
+    "applyLinks": [
+      {
+        "label": "DESE — help paying for child care",
+        "url": "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/help-paying-for-child-care"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "Office of Early Childhood family support",
+        "value": "oec.familysupport@ade.arkansas.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Child care assistance",
+        "value": "501-682-8947"
+      },
+      {
+        "kind": "phone",
+        "label": "Child care (toll-free)",
+        "value": "1-800-322-8176"
+      }
+    ],
+    "cost": "Free to apply; families may owe part of care cost under the sliding fee scale",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through the School Readiness portal"
+      }
+    ],
+    "description": "Help paying for child care for children from birth through age 12. Parents must be working, in full-time school, or in job training — alone or in combination totaling at least 30 hours per week. Family income is checked against a sliding-fee chart, and families may owe part of the care cost.",
+    "eligibility": [
+      "Arkansas child from birth through age 12",
+      "Parent working, in full-time school, or in job training totaling at least 30 hours per week",
+      "Family income within the sliding-fee chart"
+    ],
+    "id": "ar-childcare",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Child Care Assistance (CCDF / School Readiness)",
+    "prerequisites": [
+      "Apply through the School Readiness portal"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/help-paying-for-child-care"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of work/school/training schedule",
+      "Proof of household income",
+      "Child's age documentation"
+    ]
+  },
+  {
+    "agency": "Arkansas Division of Workforce Services (DWS)",
+    "applyLinks": [
+      {
+        "label": "DWS — Arkansas Workforce Centers",
+        "url": "https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Little Rock",
+        "value": "501-682-0228"
+      },
+      {
+        "kind": "phone",
+        "label": "North Little Rock",
+        "value": "501-376-4119"
+      },
+      {
+        "kind": "phone",
+        "label": "Fayetteville",
+        "value": "479-521-5730"
+      },
+      {
+        "kind": "phone",
+        "label": "Fort Smith",
+        "value": "479-783-0231"
+      },
+      {
+        "kind": "phone",
+        "label": "Jonesboro",
+        "value": "870-935-5594"
+      },
+      {
+        "kind": "web",
+        "label": "DWS — Arkansas Workforce Centers",
+        "value": "https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Centers open weekdays; call your local center for hours"
+      }
+    ],
+    "description": "Free job-search and employment services at centers statewide, proud partners of the American Job Center network. Centers are in Little Rock, North Little Rock, Fayetteville, Fort Smith, Jonesboro, and other cities; all services are provided at no cost.",
+    "eligibility": [
+      "Anyone seeking employment or career services"
+    ],
+    "id": "ar-workforce-centers",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas Workforce Centers",
+    "prerequisites": [
+      "Walk in or call your local center"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Work history or resume",
+      "Proof of identity",
+      "Any relevant certifications or credentials"
+    ]
+  },
+  {
+    "agency": "Arkansas Insurance Department",
+    "applyLinks": [
+      {
+        "label": "Arkansas Insurance Department — SHIIP / Medicare resources",
+        "url": "https://insurance.arkansas.gov/site/assets/files/4058/medicare_protection_toolkit_02272026.pdf"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Arkansas Insurance Department — SHIIP resources",
+        "value": "https://insurance.arkansas.gov/site/assets/files/4058/medicare_protection_toolkit_02272026.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact SHIIP for counseling availability"
+      }
+    ],
+    "description": "Free, unbiased Medicare counseling for Arkansas seniors through the State Health Insurance Assistance Program (SHIIP), administered by the Arkansas Insurance Department. SHIIP also works with the Senior Medicare Patrol on Medicare fraud prevention.",
+    "eligibility": [
+      "Arkansas Medicare beneficiaries and their families or caregivers"
+    ],
+    "id": "ar-shiip",
+    "languages": [
+      "English"
+    ],
+    "name": "Arkansas SHIIP — Free Medicare Counseling",
+    "prerequisites": [
+      "Contact SHIIP through the Arkansas Insurance Department"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://insurance.arkansas.gov/site/assets/files/4058/medicare_protection_toolkit_02272026.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your Medicare card or claim number",
+      "List of current medications, if available"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Human Services (DHS), Division of County Operations",
+    "applyLinks": [
+      {
+        "label": "DHS — find a county office",
+        "url": "https://humanservices.arkansas.gov/contact-us/county-offices-map/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of County Operations",
+        "value": "501-682-8375"
+      },
+      {
+        "kind": "phone",
+        "label": "Statewide",
+        "value": "855-372-1084"
+      },
+      {
+        "kind": "phone",
+        "label": "TDD",
+        "value": "501-682-8820"
+      },
+      {
+        "kind": "web",
+        "label": "DHS — find a county office",
+        "value": "https://humanservices.arkansas.gov/contact-us/county-offices-map/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "County offices open weekdays; use the map for hours and directions"
+      }
+    ],
+    "description": "In-person help with SNAP, Medicaid, and TEA cases at DHS offices in every Arkansas county. DHS workers statewide can access your case — you no longer have to rely on a single caseworker for health-care, SNAP, or TEA questions.",
+    "eligibility": [
+      "Anyone needing in-person DHS assistance in Arkansas"
+    ],
+    "id": "ar-dhs-county",
+    "languages": [
+      "English"
+    ],
+    "name": "DHS County Offices — In-Person Assistance",
+    "prerequisites": [
+      "Find your county office on the map or call ahead"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "AR"
+    },
+    "sources": [
+      "https://humanservices.arkansas.gov/contact-us/county-offices-map/",
+      "https://humanservices.arkansas.gov/divisions-shared-services/county-operations/contact-dco/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Case number, if you have one",
+      "Documents related to your SNAP, Medicaid, or TEA case"
+    ]
+  },
+  {
+    "agency": "Central Arkansas Library System (CALS)",
+    "applyLinks": [
+      {
+        "label": "CALS — Pulaski & Perry County libraries",
+        "url": "https://cals.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Central Arkansas Library System",
+        "value": "https://cals.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a library card any time; check the events calendar for programs"
+      }
+    ],
+    "description": "Free public library system serving Pulaski and Perry Counties: books, e-books, public computers, events, and research resources. The CALS Butler Center for Arkansas Studies preserves Arkansas history.",
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "id": "pulaski-cals",
+    "languages": [
+      "English"
+    ],
+    "name": "Central Arkansas Library System",
+    "prerequisites": [
+      "Get a library card online or at any branch"
+    ],
+    "scope": {
+      "county": "Pulaski",
+      "level": "county",
+      "state": "AR"
+    },
+    "sources": [
+      "https://cals.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ]
+  },
+  {
+    "agency": "Arkansas Department of Health",
+    "applyLinks": [
+      {
+        "label": "Pulaski County Health Unit — services and hours",
+        "url": "https://www.healthy.arkansas.gov/health-units/detail/pulaski-county-health-unit-central-little-rock"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Pulaski County Health Unit",
+        "value": "https://www.healthy.arkansas.gov/health-units/detail/pulaski-county-health-unit-central-little-rock"
+      }
+    ],
+    "cost": "Free or low-cost; varies by service",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call ahead for clinic hours and service availability"
+      }
+    ],
+    "description": "Local public-health services in Pulaski County: contagious-disease testing, child screenings, immunizations, wellness education, and public-health protections, as part of the statewide health-unit network.",
+    "eligibility": [
+      "Open to the public; no one denied for inability to pay where stated"
+    ],
+    "id": "pulaski-health-unit",
+    "languages": [
+      "English"
+    ],
+    "name": "Pulaski County Health Unit",
+    "prerequisites": [
+      "Walk in or call ahead for the service you need"
+    ],
+    "scope": {
+      "county": "Pulaski",
+      "level": "county",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.healthy.arkansas.gov/health-units/detail/pulaski-county-health-unit-central-little-rock"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card, if insured",
+      "Child's immunization record, if applicable"
+    ]
+  },
+  {
+    "agency": "Metropolitan Housing Alliance (Little Rock Housing Authority)",
+    "applyLinks": [
+      {
+        "label": "Metropolitan Housing Alliance",
+        "url": "https://www.metropolitanhousingalliance.org"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Metropolitan Housing Alliance",
+        "value": "https://www.metropolitanhousingalliance.org"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Public-housing waiting list was closed on the official site; check current waitlist status before applying"
+      }
+    ],
+    "description": "Public housing and Housing Choice Vouchers for low-income residents in the Little Rock area. The official site notes the public-housing waiting list is currently closed; verify current waitlist status before applying.",
+    "eligibility": [
+      "Low-income household",
+      "Income limits and waitlist status vary — see MHA"
+    ],
+    "id": "pulaski-mha",
+    "languages": [
+      "English"
+    ],
+    "name": "Metropolitan Housing Alliance — Public Housing & Vouchers",
+    "prerequisites": [
+      "Apply through MHA when waitlists are open"
+    ],
+    "scope": {
+      "county": "Pulaski",
+      "level": "county",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.metropolitanhousingalliance.org"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity for household members",
+      "Proof of income",
+      "Proof of residency"
+    ]
+  },
+  {
+    "agency": "City of Little Rock",
+    "applyLinks": [
+      {
+        "label": "City of Little Rock — contact and 311",
+        "url": "https://littlerock.gov/contact-us/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Little Rock 311 (dial within city)",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "City government",
+        "value": "501-371-4510"
+      },
+      {
+        "kind": "email",
+        "label": "311 service",
+        "value": "LittleRock311Service@littlerock.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Submit requests any time through the app, phone, or online dashboard"
+      }
+    ],
+    "description": "Non-emergency city services for Little Rock: report potholes, broken streetlights, and other issues by dialing 3-1-1, using the free Little Rock 311 mobile app, or the online citizen-request dashboard.",
+    "eligibility": [
+      "Anyone reporting a Little Rock city issue"
+    ],
+    "id": "littlerock-311",
+    "languages": [
+      "English"
+    ],
+    "name": "Little Rock 311 — City Services",
+    "prerequisites": [
+      "Describe the issue and its location when reporting"
+    ],
+    "scope": {
+      "city": "Little Rock",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://littlerock.gov/contact-us/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Location/address of the issue",
+      "Description and, if possible, a photo"
+    ]
+  },
+  {
+    "agency": "Rock Region METRO",
+    "applyLinks": [
+      {
+        "label": "Rock Region METRO",
+        "url": "https://rrmetro.org/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Rock Region METRO",
+        "value": "https://rrmetro.org/"
+      }
+    ],
+    "cost": "Fares vary; passes available — see METRO site",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check routes and schedules before riding"
+      }
+    ],
+    "description": "Public transit for the Little Rock metro (Pulaski County): fixed-route buses with route selection, trip planning, published schedules, fares and passes, real-time arrivals, and transit trackers.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "littlerock-metro",
+    "languages": [
+      "English"
+    ],
+    "name": "Rock Region METRO — Little Rock Transit",
+    "prerequisites": [
+      "Plan your trip using routes, schedules, or the trip planner"
+    ],
+    "scope": {
+      "city": "Little Rock",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://rrmetro.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment method — exact change, pass, or card as accepted"
+    ]
+  },
+  {
+    "agency": "Fayetteville Public Library",
+    "applyLinks": [
+      {
+        "label": "Fayetteville Public Library",
+        "url": "https://faylib.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Fayetteville Public Library",
+        "value": "https://faylib.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a card and attend events any time"
+      }
+    ],
+    "description": "Free public library for Fayetteville: books, events for adults and youth, catalog resources, and public access to knowledge in the library's mission.",
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "id": "fayetteville-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Fayetteville Public Library",
+    "prerequisites": [
+      "Get a library card online or in person"
+    ],
+    "scope": {
+      "city": "Fayetteville",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://faylib.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ]
+  },
+  {
+    "agency": "Ozark Regional Transit Authority",
+    "applyLinks": [
+      {
+        "label": "Ozark Regional Transit — Northwest Arkansas",
+        "url": "https://www.ozark.org/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Ozark Regional Transit",
+        "value": "https://www.ozark.org/"
+      }
+    ],
+    "cost": "Varies — see fare info on the ORT site",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check routes and on-demand service info before riding"
+      }
+    ],
+    "description": "Safe, reliable, affordable public transportation for the four-county Northwest Arkansas region (including Fayetteville and Springdale), with flexible transit options connecting people to jobs, schools, and health care.",
+    "eligibility": [
+      "Open to the public"
+    ],
+    "id": "fayetteville-ort",
+    "languages": [
+      "English"
+    ],
+    "name": "Ozark Regional Transit",
+    "prerequisites": [
+      "Check fixed-route or on-demand options for your trip"
+    ],
+    "scope": {
+      "city": "Fayetteville",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.ozark.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment method — see ORT site for fares and passes"
+    ]
+  },
+  {
+    "agency": "City of Fort Smith",
+    "applyLinks": [
+      {
+        "label": "Fort Smith Transit — rider guide and tips",
+        "url": "https://www.fortsmithar.gov/resident-services/transportation-and-mobility/transit-overview-bus-bike-walk-or-ride/rider-guide-tips"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fort Smith Transit (local number; dial 479 first from outside Fort Smith)",
+        "value": "783-6464"
+      },
+      {
+        "kind": "web",
+        "label": "Fort Smith Transit rider guide",
+        "value": "https://www.fortsmithar.gov/resident-services/transportation-and-mobility/transit-overview-bus-bike-walk-or-ride/rider-guide-tips"
+      }
+    ],
+    "cost": "$1.25 regular; 50¢ reduced (65+, certified disabled, Medicare cardholders with reduced-fare card); 75¢ UAFS students; free for veterans with service-connected disabilities, children 7 and under, and transfers; monthly passes $35",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fixed routes run Monday–Saturday 7:00 a.m.–6:00 p.m. (last transfer 5:00 p.m.); some routes do not run Saturdays"
+      }
+    ],
+    "description": "Fixed-route bus service in Fort Smith with bike racks, free Wi-Fi, and paratransit options. Children 7 and under must be accompanied by a passenger 12 or older; seat belts are required on buses with padded seating.",
+    "eligibility": [
+      "Open to the public",
+      "Reduced fares require a Reduced Fare Card"
+    ],
+    "id": "fortsmith-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Fort Smith Transit — Fixed-Route Bus",
+    "prerequisites": [
+      "Have fare in hand when boarding"
+    ],
+    "scope": {
+      "city": "Fort Smith",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.fortsmithar.gov/resident-services/transportation-and-mobility/transit-overview-bus-bike-walk-or-ride/rider-guide-tips"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Exact fare or pass",
+      "Reduced Fare Card, if claiming reduced fare"
+    ]
+  },
+  {
+    "agency": "Fort Smith Public Library",
+    "applyLinks": [
+      {
+        "label": "Fort Smith Public Library",
+        "url": "https://fortsmithlibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Fort Smith Public Library",
+        "value": "https://fortsmithlibrary.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Get a card and attend events any time"
+      }
+    ],
+    "description": "Free public library system for Fort Smith: the Main library plus Dallas, Miller, and Windsor branches, with programs for babies through adults — many requiring no registration or library card.",
+    "eligibility": [
+      "Open to the public; library card needed to borrow"
+    ],
+    "id": "fortsmith-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Fort Smith Public Library",
+    "prerequisites": [
+      "Get a library card online or at any branch"
+    ],
+    "scope": {
+      "city": "Fort Smith",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://fortsmithlibrary.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Photo ID and proof of address for a library card"
+    ]
+  },
+  {
+    "agency": "Springdale Public Library",
+    "applyLinks": [
+      {
+        "label": "Springdale Public Library",
+        "url": "https://springdalelibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library",
+        "value": "479-750-8180"
+      },
+      {
+        "kind": "web",
+        "label": "Library cards",
+        "value": "https://springdalelibrary.org/library-cards/"
+      }
+    ],
+    "cost": "Free for residents; $25/year non-resident household card",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open Mon–Thu 9am–8pm, Fri–Sat 9am–6pm, Sun 1pm–5pm"
+      }
+    ],
+    "description": "Free public library in Springdale ('Library in the Park'): books, digital resources (Libby, Hoopla, Kanopy, NYT), technology, and programs. Cards are free to anyone living, working, owning property, or attending school in Springdale or Washington County; photo ID and proof of address required.",
+    "eligibility": [
+      "Open to the public; Springdale/Washington County connection needed for a free card"
+    ],
+    "id": "springdale-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Springdale Public Library",
+    "prerequisites": [
+      "Show valid photo ID and proof of current address for a card"
+    ],
+    "scope": {
+      "city": "Springdale",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://springdalelibrary.org/",
+      "https://springdalelibrary.org/library-cards/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Valid photo ID",
+      "Proof of current address"
+    ]
+  },
+  {
+    "agency": "City of Jonesboro",
+    "applyLinks": [
+      {
+        "label": "City of Jonesboro — GOJO/JET Saturday map & schedule",
+        "url": "https://jonesboroar.gov/724/Saturday-Map-Schedule"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "JET Department",
+        "value": "870-935-5387"
+      },
+      {
+        "kind": "email",
+        "label": "JET Department",
+        "value": "jet@jonesboro.org"
+      },
+      {
+        "kind": "web",
+        "label": "GOJO/JET Saturday schedule",
+        "value": "https://jonesboroar.gov/724/Saturday-Map-Schedule"
+      }
+    ],
+    "cost": "$1.25 base fare; reduced fares available",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Weekday routes run morning to evening; Saturday Green Route runs 9:27 a.m.–4:00 p.m.; no Sunday service"
+      }
+    ],
+    "description": "GOJO — Jonesboro's public transit system (formerly JET/JETS): city bus routes from the Regional Transfer Center at Caraway Rd & Matthews Ave, plus paratransit and free A-State routes with a current school ID.",
+    "eligibility": [
+      "Open to the public",
+      "Paratransit requires eligibility screening"
+    ],
+    "id": "jonesboro-gojo",
+    "languages": [
+      "English"
+    ],
+    "name": "GOJO — Jonesboro Public Transit",
+    "prerequisites": [
+      "Check the route map and schedule for your trip"
+    ],
+    "scope": {
+      "city": "Jonesboro",
+      "level": "city",
+      "state": "AR"
+    },
+    "sources": [
+      "https://jonesboroar.gov/724/Saturday-Map-Schedule",
+      "https://www.jonesboroar.gov/DocumentCenter/View/10829/Blue-Route-Schedule-Weekdays-2025",
+      "https://Jonesboro.org/DocumentCenter/View/7200/JET-Transit-Asset-Management-Plan"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare payment method",
+      "Paratransit application, if using paratransit"
+    ]
+  },
+  {
+    "agency": "U.S. Social Security Administration",
+    "applyLinks": [
+      {
+        "label": "SSA — Social Security",
+        "url": "https://www.ssa.gov"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Social Security Administration",
+        "value": "https://www.ssa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply when eligible; benefit timing varies by program"
+      }
+    ],
+    "description": "Federal retirement, disability (SSDI/SSI), survivor, and Medicare enrollment services for Arkansans. Apply online, track applications and appeals, replace Social Security cards, and estimate benefits through a my Social Security account. Local field offices serve Arkansas residents in person.",
+    "eligibility": [
+      "Varies by benefit — work credits for retirement/SSDI; limited income and resources for SSI"
+    ],
+    "id": "fed-ssa-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security — Retirement, Disability & SSI",
+    "prerequisites": [
+      "Create a my Social Security account to apply online"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.ssa.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Work history and earnings information",
+      "Identity documents as directed"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "VA — apply for health care",
+        "url": "https://www.va.gov/health-care"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA health care",
+        "value": "https://www.va.gov/health-care"
+      }
+    ],
+    "cost": "Free to apply; copays vary by priority group and income",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; decision timing varies"
+      }
+    ],
+    "description": "VA health care for Arkansas veterans: primary care, specialists, mental health, home health and geriatric care, prescriptions, and medical equipment. Apply online, by phone, by mail, or in person; priority groups determine eligibility and costs.",
+    "eligibility": [
+      "Veteran with qualifying service",
+      "Eligibility and priority groups determined at application"
+    ],
+    "id": "fed-va-healthcare-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Health Care",
+    "prerequisites": [
+      "Apply for VA health care online, by phone, by mail, or in person"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.va.gov/health-care"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other proof of service",
+      "Income information, if applicable"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Education, Federal Student Aid",
+    "applyLinks": [
+      {
+        "label": "Federal Student Aid — FAFSA",
+        "url": "https://studentaid.gov"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Federal Student Aid",
+        "value": "https://studentaid.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual",
+        "note": "The 2026–27 FAFSA form is available; school and state deadlines vary — file early"
+      }
+    ],
+    "description": "The Free Application for Federal Student Aid (FAFSA) unlocks federal grants, loans, and work-study for Arkansas students. The 2026–27 form is available now for attendance between July 1, 2026 and June 30, 2027; create an FSA ID first.",
+    "eligibility": [
+      "U.S. citizen or eligible noncitizen enrolled in an eligible program",
+      "Varies by aid type — see studentaid.gov"
+    ],
+    "id": "fed-fafsa-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "FAFSA — Federal Student Aid",
+    "prerequisites": [
+      "Create an FSA ID, then complete the FAFSA form"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://studentaid.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FSA ID",
+      "Tax returns or income information",
+      "Social Security number (if you have one)"
+    ]
+  },
+  {
+    "agency": "Federal Communications Commission / Universal Service Administrative Company",
+    "applyLinks": [
+      {
+        "label": "FCC — Lifeline program",
+        "url": "https://www.fcc.gov/lifeline-consumers"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FCC — Lifeline",
+        "value": "https://www.fcc.gov/lifeline-consumers"
+      }
+    ],
+    "cost": "Free to apply; discount applied to your phone/internet bill",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a participating provider"
+      }
+    ],
+    "description": "Federal discount on phone or internet service for low-income Arkansas households: up to $9.25/month on qualifying service (up to $5.25/month for voice-only). One benefit per household; qualifying programs include SNAP, Medicaid, SSI, and Federal Public Housing Assistance, or income at or below 135% of federal poverty guidelines.",
+    "eligibility": [
+      "Arkansas household with income at or below 135% of federal poverty guidelines, or enrolled in SNAP, Medicaid, SSI, Federal Public Housing Assistance, Veterans Pension, or certain Tribal programs"
+    ],
+    "id": "fed-lifeline-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "Lifeline — Phone & Internet Discount",
+    "prerequisites": [
+      "Verify eligibility and apply through a participating provider"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.fcc.gov/lifeline-consumers"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of program participation or household income"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development",
+    "applyLinks": [
+      {
+        "label": "HUD — housing counseling",
+        "url": "https://www.hud.gov/program_offices/housing/sfh/hcc"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HUD Office of Housing Counseling",
+        "value": "https://www.hud.gov/program_offices/housing/sfh/hcc"
+      }
+    ],
+    "cost": "Free or low-cost counseling",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact a HUD-approved counselor any time"
+      }
+    ],
+    "description": "Free or low-cost HUD-approved housing counseling for Arkansas residents: buying a home, avoiding foreclosure, rental counseling, and reverse mortgages. Use HUD's counselor search to find an agency near you.",
+    "eligibility": [
+      "Anyone needing housing counseling in Arkansas"
+    ],
+    "id": "fed-hud-counseling-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "HUD-Approved Housing Counseling",
+    "prerequisites": [
+      "Find a HUD-approved counseling agency and schedule a session"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.hud.gov/program_offices/housing/sfh/hcc"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Financial documents relevant to your housing question",
+      "Mortgage or lease documents, if applicable"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration",
+    "applyLinks": [
+      {
+        "label": "SBA — small business resources",
+        "url": "https://www.sba.gov"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "U.S. Small Business Administration",
+        "value": "https://www.sba.gov"
+      }
+    ],
+    "cost": "Free resources and counseling",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Loan and program deadlines vary — check current offerings"
+      }
+    ],
+    "description": "Federal small-business help for Arkansas entrepreneurs: counseling, capital (SBA-backed loans), contracting expertise, and disaster recovery. Services are delivered through SBA field offices and partners including Small Business Development Centers, SCORE, and Women's Business Centers.",
+    "eligibility": [
+      "Small businesses and entrepreneurs in Arkansas"
+    ],
+    "id": "fed-sba-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "Small Business Administration — Counseling & Loans",
+    "prerequisites": [
+      "Identify the SBA program or partner that fits your need"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.sba.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business plan or business description",
+      "Financial statements, if applying for a loan"
+    ]
+  },
+  {
+    "agency": "U.S. Office of Personnel Management",
+    "applyLinks": [
+      {
+        "label": "USAJOBS — federal jobs",
+        "url": "https://www.usajobs.gov"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USAJOBS",
+        "value": "https://www.usajobs.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply before each announcement's closing date; postings open and close continuously"
+      }
+    ],
+    "description": "The official job site of the U.S. federal government. Search federal job openings in Arkansas and nationwide, build a profile and resume, set up saved searches and alerts, and apply through the USAJOBS process — there is never an application or testing fee.",
+    "eligibility": [
+      "Open to everyone; specific postings list eligibility (citizenship, veterans' preference, etc.)"
+    ],
+    "id": "fed-usajobs-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "USAJOBS — Federal Employment",
+    "prerequisites": [
+      "Create a USAJOBS profile with a login.gov account and upload a resume"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://www.usajobs.gov"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Resume",
+      "Supporting documents listed in each job announcement"
+    ]
+  },
+  {
+    "agency": "SAMHSA / 988 Suicide & Crisis Lifeline",
+    "applyLinks": [
+      {
+        "label": "988 Lifeline",
+        "url": "https://988lifeline.org"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "988 Lifeline — call or text 988 (24/7/365)",
+        "value": "988"
+      },
+      {
+        "kind": "web",
+        "label": "988 Lifeline",
+        "value": "https://988lifeline.org"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7/365 — call, text, or chat any time"
+      }
+    ],
+    "description": "Free, confidential crisis support for Arkansans facing mental-health struggles, emotional distress, alcohol or drug use concerns, or needing someone to talk to. Call or text 988 any time; skilled, judgment-free counselors respond around the clock.",
+    "eligibility": [
+      "Anyone — the 988 Lifeline is for everyone"
+    ],
+    "id": "fed-988-ar",
+    "languages": [
+      "English"
+    ],
+    "name": "988 Suicide & Crisis Lifeline",
+    "prerequisites": [
+      "Call, text, or chat 988"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "AR"
+    },
+    "sources": [
+      "https://988lifeline.org"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "No documents needed — just call, text, or chat 988"
+    ]
   }
 ]
