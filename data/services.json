@@ -80918,5 +80918,1426 @@
     "sources": [
       "https://www.va.gov/boise-health-care/"
     ]
+  },
+  {
+    "agency": "MaineHousing",
+    "applyLinks": [
+      {
+        "label": "HEAP program details",
+        "url": "https://mainehousing.org/programs-services/energy/energydetails/liheap"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HEAP / MaineHousing",
+        "value": "1-800-452-4668"
+      },
+      {
+        "kind": "phone",
+        "label": "MaineHousing main line",
+        "value": "(207) 626-4600"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://mainehousing.org/programs-services/energy/energydetails/liheap"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2026-08-03",
+        "label": "2026-27 HEAP applications open",
+        "note": "Applications accepted starting August 3, 2026"
+      },
+      {
+        "date": "2027-05-29",
+        "label": "2026-27 HEAP applications close",
+        "note": "Or earlier if program funds are exhausted"
+      },
+      {
+        "date": "2026-11-01",
+        "label": "ECIP crisis assistance begins",
+        "note": "Emergency Crisis Intervention Program runs November 1, 2026 through April 30, 2027"
+      },
+      {
+        "date": "2027-04-30",
+        "label": "ECIP crisis assistance ends",
+        "note": ""
+      }
+    ],
+    "description": "Helps Maine homeowners and renters pay heating costs. For the 2026-27 season, applications run August 3, 2026 through fund exhaustion or May 29, 2027, and Emergency Crisis Intervention Program (ECIP) heating-crisis help runs November 1, 2026 through April 30, 2027.",
+    "eligibility": [
+      "Maine homeowners and renters",
+      "Income limits apply - see program page"
+    ],
+    "id": "me-heap",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Home Energy Assistance Program (HEAP)",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://mainehousing.org/programs-services/energy/energydetails/liheap"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Department of Labor",
+    "applyLinks": [
+      {
+        "label": "Unemployment program page",
+        "url": "https://maine.gov/unemployment"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://maine.gov/unemployment"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as you become unemployed; weekly certification required while claiming"
+      }
+    ],
+    "description": "Temporary, employer-funded benefits for Maine workers who lose a job through no fault of their own. Weekly certification is required while claiming benefits.",
+    "eligibility": [
+      "Maine workers unemployed through no fault of their own",
+      "Must meet wage and work-history requirements - see program page"
+    ],
+    "id": "me-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Unemployment Insurance",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://maine.gov/unemployment"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Finance Authority of Maine (FAME)",
+    "applyLinks": [
+      {
+        "label": "Maine State Grant program page",
+        "url": "https://www.famemaine.com/affording-education/pay-for-school/maine-grant-tuition-programs/maine-state-grant-program/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.famemaine.com/affording-education/pay-for-school/maine-grant-tuition-programs/maine-state-grant-program/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File the FAFSA to be considered; check FAME for current-year timelines"
+      }
+    ],
+    "description": "Need-based grant for Maine undergraduate students. The 2026-27 maximum is $2,500 for full-time enrollment ($1,250 for half-time); a FAFSA is required.",
+    "eligibility": [
+      "Maine resident undergraduate students",
+      "Demonstrated financial need (SAI maximum of 10,000 for 2026-27, subject to adjustment)",
+      "FAFSA required"
+    ],
+    "id": "me-maine-state-grant",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine State Grant Program",
+    "prerequisites": [
+      "File the FAFSA"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.famemaine.com/affording-education/pay-for-school/maine-grant-tuition-programs/maine-state-grant-program/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Bureau of Veterans' Services",
+    "applyLinks": [
+      {
+        "label": "Maine veterans assistance page",
+        "url": "https://www.maine.gov/veterans/maine-veterans-assistance"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.maine.gov/veterans/maine-veterans-assistance"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Emergency assistance available as needed"
+      }
+    ],
+    "description": "Connects Maine veterans and their families with accredited Veteran Service Officers and emergency help, including the Veterans Emergency Financial Assistance Program (VEFAP) for urgent expenses.",
+    "eligibility": [
+      "Maine veterans and their families",
+      "Varies by program - see program page"
+    ],
+    "id": "me-veterans-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Veterans Assistance",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.maine.gov/veterans/maine-veterans-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Department of Labor",
+    "applyLinks": [
+      {
+        "label": "Maine CareerCenter page",
+        "url": "https://mainecareercenter.gov/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://mainecareercenter.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in or register online; workshop schedules vary by center"
+      }
+    ],
+    "description": "Free job-search help at local centers statewide: the JobLink job board, workshops, and dedicated resources for veterans and people with disabilities.",
+    "eligibility": [
+      "Open to Maine job seekers"
+    ],
+    "id": "me-careercenter",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine CareerCenters",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://mainecareercenter.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Division of Vocational Rehabilitation",
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation page",
+        "url": "https://maine.gov/rehab/dvr"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://maine.gov/rehab/dvr"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; services planned around individual needs"
+      }
+    ],
+    "description": "Employment support for people with physical, mental, or emotional disabilities, including counseling, training, and job-placement help.",
+    "eligibility": [
+      "Mainers with a physical, mental, or emotional disability that is a barrier to employment"
+    ],
+    "id": "me-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Vocational Rehabilitation (VR)",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://maine.gov/rehab/dvr"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Revenue Services",
+    "applyLinks": [
+      {
+        "label": "Property Tax Fairness Credit page",
+        "url": "http://www11.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/property-tax-fairness-credit"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://www11.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/property-tax-fairness-credit"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claimed with the annual Maine income tax return"
+      }
+    ],
+    "description": "Refundable Maine income-tax credit for homeowners and renters whose property tax or rent burden is high relative to income. Claimed on Form 1040ME with Schedule PTFC/STFC.",
+    "eligibility": [
+      "Maine resident homeowners and renters",
+      "Must meet property-tax/rent and income tests - see program page"
+    ],
+    "id": "me-property-tax-fairness-credit",
+    "languages": [
+      "English"
+    ],
+    "name": "Property Tax Fairness Credit",
+    "prerequisites": [
+      "File Maine Form 1040ME with Schedule PTFC/STFC"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "http://www11.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/property-tax-fairness-credit"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "211 Maine",
+    "applyLinks": [
+      {
+        "label": "211 Maine contact page",
+        "url": "http://211maine.org/contact/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-866-811-5695"
+      },
+      {
+        "kind": "phone",
+        "label": "Out of state",
+        "value": "1-877-463-6207"
+      },
+      {
+        "kind": "web",
+        "label": "Contact page",
+        "value": "http://211maine.org/contact/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7"
+      }
+    ],
+    "description": "Free, confidential 24/7 helpline connecting callers to health and human services statewide, including help with food, housing, utilities, and health care. Available in all languages; you can also text your ZIP code to 898-211.",
+    "eligibility": [
+      "Open to anyone in Maine"
+    ],
+    "id": "me-211",
+    "languages": [
+      "English"
+    ],
+    "name": "211 Maine",
+    "prerequisites": [
+      "None - call, text, or visit the contact page"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "http://211maine.org/contact/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Bureau of Motor Vehicles",
+    "applyLinks": [
+      {
+        "label": "REAL ID renewal announcement",
+        "url": "https://www1.maine.gov/sos/news/mainers-can-now-renew-real-ids-online"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bureau of Motor Vehicles",
+        "value": "207-624-9000 x52114"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www1.maine.gov/sos/news/mainers-can-now-renew-real-ids-online"
+      }
+    ],
+    "cost": "Fees apply - vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Renew before your current ID expires"
+      }
+    ],
+    "description": "Most Mainers with an expiring REAL ID can now renew online; first-time REAL ID applications must still be completed in person.",
+    "eligibility": [
+      "Maine residents renewing an expiring REAL ID"
+    ],
+    "id": "me-real-id-renewal",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine REAL ID Renewal",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www1.maine.gov/sos/news/mainers-can-now-renew-real-ids-online"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "CoverME.gov",
+    "applyLinks": [
+      {
+        "label": "CoverME.gov",
+        "url": "https://www.coverme.gov/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Marketplace home",
+        "value": "https://www.coverme.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Special enrollment generally within 60 days of a qualifying life event"
+      }
+    ],
+    "description": "Maine's official health-insurance marketplace. Tax credits remain available to lower premiums, and special enrollment is generally open within 60 days of a qualifying life event, including recent loss of MaineCare.",
+    "eligibility": [
+      "Maine residents needing health coverage",
+      "Varies - see program page"
+    ],
+    "id": "me-coverme",
+    "languages": [
+      "English"
+    ],
+    "name": "CoverME.gov - Maine Health Insurance Marketplace",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.coverme.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "MaineHousing",
+    "applyLinks": [
+      {
+        "label": "MaineHousing homebuyer programs",
+        "url": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Homebuyer overview",
+        "value": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender"
+      }
+    ],
+    "description": "MaineHousing's first-time homebuyer mortgage program for Maine residents buying a primary residence, listed on MaineHousing's homebuyer overview.",
+    "eligibility": [
+      "First-time homebuyers purchasing a primary residence in Maine",
+      "Income and purchase-price limits apply - see program page"
+    ],
+    "id": "me-first-home-loan",
+    "languages": [
+      "English"
+    ],
+    "name": "MaineHousing First Home Loan",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.mainehousing.org/programs-services/homebuyer"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "MaineHousing",
+    "applyLinks": [
+      {
+        "label": "MaineHousing homebuyer programs",
+        "url": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Homebuyer overview",
+        "value": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See program page for current availability"
+      }
+    ],
+    "description": "MaineHousing assistance aimed at first-generation homebuyers, described on MaineHousing's homebuyer overview page. See the program page for current terms and eligibility.",
+    "eligibility": [
+      "First-generation homebuyers in Maine",
+      "Varies - see program page"
+    ],
+    "id": "me-first-generation-homebuyer",
+    "languages": [
+      "English"
+    ],
+    "name": "MaineHousing First Generation Homebuyer Program",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.mainehousing.org/programs-services/homebuyer"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "MaineHousing",
+    "applyLinks": [
+      {
+        "label": "MaineHousing homebuyer programs",
+        "url": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Homebuyer overview",
+        "value": "https://www.mainehousing.org/programs-services/homebuyer"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See program page for current availability"
+      }
+    ],
+    "description": "MaineHousing homebuyer assistance for veterans and active-duty military members, described on MaineHousing's homebuyer overview page. See the program page for current terms and eligibility.",
+    "eligibility": [
+      "Veterans and active-duty military members buying in Maine",
+      "Varies - see program page"
+    ],
+    "id": "me-salute-me",
+    "languages": [
+      "English"
+    ],
+    "name": "Salute ME / Home Again (Veterans Homebuyer Program)",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.mainehousing.org/programs-services/homebuyer"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "MaineHousing (federal program run by the State of Maine)",
+    "applyLinks": [
+      {
+        "label": "HAF information and application guidance",
+        "url": "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Foreclosure Prevention Hotline",
+        "value": "1-888-664-2569"
+      },
+      {
+        "kind": "web",
+        "label": "Program information (PTLA)",
+        "value": "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Program winding down: complete applications received after January 10, 5 PM are waitlisted. Check MaineHousing for updates."
+      }
+    ],
+    "description": "Federal grants of up to $50,000 per household for Maine homeowners at risk of losing their homes: mortgage, property tax, homeowner insurance, HOA/condo fees, mobile-home lot rent, and utility help for those with COVID-19-connected financial hardship. STATUS: the program is winding down; complete applications received after January 10 at 5 PM are placed on a waitlist.",
+    "eligibility": [
+      "Maine homeowners whose home is their primary residence (1-4 units, including mobile homes)",
+      "At or below income limits (e.g. $75,300 for a one-person household; higher by household size and location)",
+      "At risk of home loss or utility disconnection with COVID-19-related financial hardship",
+      "SNAP, TANF, LIHEAP, or SSI recipients are automatically income-eligible"
+    ],
+    "id": "me-homeowner-assistance-fund",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Homeowner Assistance Fund (HAF)",
+    "prerequisites": [
+      "Contact your local Community Action Agency for a paper application or help applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Pine Tree Legal Assistance (PTLA)",
+    "applyLinks": [
+      {
+        "label": "Foreclosure help information",
+        "url": "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Foreclosure Prevention Hotline",
+        "value": "1-888-664-2569"
+      },
+      {
+        "kind": "web",
+        "label": "Program information (PTLA)",
+        "value": "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call during PTLA intake hours"
+      }
+    ],
+    "description": "Connects Maine homeowners facing foreclosure or property-tax foreclosure with housing counselors and free lawyers during PTLA intake hours.",
+    "eligibility": [
+      "Maine homeowners facing foreclosure or needing ownership legal help"
+    ],
+    "id": "me-foreclosure-prevention-hotline",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Foreclosure Prevention Hotline",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.ptla.org/maine-homeowner-assistance-fund-haf-faq"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "20 participating Maine public housing authorities (centralized waitlist)",
+    "applyLinks": [
+      {
+        "label": "Centralized Section 8 application (PDF)",
+        "url": "https://spha.net/wp-content/uploads/2025/02/Full-App-Maine-CWL-4_19_24.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Centralized application line",
+        "value": "(866) 466-7328"
+      },
+      {
+        "kind": "phone",
+        "label": "Portland Housing Authority",
+        "value": "207-773-4753"
+      },
+      {
+        "kind": "phone",
+        "label": "South Portland Housing Authority",
+        "value": "207-773-4140"
+      },
+      {
+        "kind": "phone",
+        "label": "Lewiston Housing Authority",
+        "value": "207-783-1423"
+      },
+      {
+        "kind": "phone",
+        "label": "Auburn Housing Authority",
+        "value": "207-784-7351"
+      },
+      {
+        "kind": "phone",
+        "label": "Bangor Housing Authority",
+        "value": "207-942-6365"
+      },
+      {
+        "kind": "web",
+        "label": "Application packet (PDF)",
+        "value": "https://spha.net/wp-content/uploads/2025/02/Full-App-Maine-CWL-4_19_24.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist status varies by housing authority; confirm before applying"
+      }
+    ],
+    "description": "One application joins the Housing Choice Voucher waitlists of 20 participating Maine housing authorities. Eligibility follows HUD income limits and citizenship/immigration requirements. Note: the application form is labeled version 4/2024 - confirm current acceptance with a participating housing authority before applying.",
+    "eligibility": [
+      "Households meeting HUD income limits",
+      "U.S. citizens or eligible immigrants",
+      "Varies by housing authority - see application"
+    ],
+    "id": "me-section-8-cwl",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Centralized Section 8 / Housing Choice Voucher Application",
+    "prerequisites": [
+      "Review the application packet and HUD income limits"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://spha.net/wp-content/uploads/2025/02/Full-App-Maine-CWL-4_19_24.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed application packet",
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Maine Equal Justice",
+    "applyLinks": [
+      {
+        "label": "About Maine Equal Justice",
+        "url": "https://maineequaljustice.org/site/assets/files/4283/whoweare_twopager_policyteam.pdf"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Helpline",
+        "value": "(866) 626-7059 x205"
+      },
+      {
+        "kind": "phone",
+        "label": "Office",
+        "value": "(207) 626-7058"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "126 Sewall Street, Augusta, ME 04330"
+      },
+      {
+        "kind": "web",
+        "label": "About Maine Equal Justice (PDF)",
+        "value": "https://maineequaljustice.org/site/assets/files/4283/whoweare_twopager_policyteam.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the helpline for assistance"
+      }
+    ],
+    "description": "Nonprofit legal-aid provider working to increase economic security for Mainers. Direct legal help for people unable to access or maintain benefits they qualify for - MaineCare, Food Assistance (SNAP), or TANF - plus impact litigation and policy advocacy.",
+    "eligibility": [
+      "Mainers with low income struggling to meet basic needs"
+    ],
+    "id": "me-equal-justice",
+    "languages": [
+      "English"
+    ],
+    "name": "Maine Equal Justice - Legal Helpline",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://maineequaljustice.org/site/assets/files/4283/whoweare_twopager_policyteam.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Legal Services for Maine Elders",
+    "applyLinks": [
+      {
+        "label": "About Legal Services for Maine Elders",
+        "url": "https://mainelse.org/content/about-legal-services-maine-elders"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-750-5353"
+      },
+      {
+        "kind": "phone",
+        "label": "Local",
+        "value": "207-623-1797"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://mainelse.org/content/about-legal-services-maine-elders"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for free legal advice"
+      }
+    ],
+    "description": "Free legal advice for Mainers age 60 and older on health care, benefits, pensions, consumer matters, elder abuse, and guardianship.",
+    "eligibility": [
+      "Maine residents age 60 and older"
+    ],
+    "id": "me-legal-services-elders",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Services for Maine Elders",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "sources": [
+      "https://mainelse.org/content/about-legal-services-maine-elders"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Portland Housing Authority",
+    "applyLinks": [
+      {
+        "label": "Public housing application packet (PDF)",
+        "url": "https://porthouse.org/DocumentCenter/View/647/Public-Housing-Application-Packet-PDF?bidId="
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Portland Housing Authority",
+        "value": "207-773-4753"
+      },
+      {
+        "kind": "web",
+        "label": "Application packet (PDF)",
+        "value": "https://porthouse.org/DocumentCenter/View/647/Public-Housing-Application-Packet-PDF?bidId="
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Waitlist status varies; confirm with the housing authority"
+      }
+    ],
+    "description": "Public-housing application for Portland, Maine. Submit the application packet to 970 Baxter Boulevard, Portland; reasonable accommodations are available on request.",
+    "eligibility": [
+      "Varies by waitlist and household - see application packet"
+    ],
+    "id": "portland-public-housing",
+    "languages": [
+      "English"
+    ],
+    "name": "Portland Housing Authority - Public Housing Application",
+    "prerequisites": [
+      "Complete the public-housing application packet"
+    ],
+    "scope": {
+      "city": "Portland",
+      "level": "city",
+      "state": "ME"
+    },
+    "sources": [
+      "https://porthouse.org/DocumentCenter/View/647/Public-Housing-Application-Packet-PDF?bidId="
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Completed application packet",
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Greater Portland Transit District (METRO)",
+    "applyLinks": [
+      {
+        "label": "METRO fare information",
+        "url": "https://www.gpmetro.org/fares-guides/fare-information/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Fare information",
+        "value": "https://www.gpmetro.org/fares-guides/fare-information/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Fares current as of August 1, 2026"
+      }
+    ],
+    "description": "Official fare information for Greater Portland METRO buses, updated August 1, 2026, including reduced-fare options for eligible riders.",
+    "eligibility": [
+      "Open to all riders; reduced fares for eligible groups - see fare page"
+    ],
+    "id": "portland-metro-bus-fares",
+    "languages": [
+      "English"
+    ],
+    "name": "Greater Portland Metro - Bus Fares",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "city": "Portland",
+      "level": "city",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.gpmetro.org/fares-guides/fare-information/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Lewiston Public Library",
+    "applyLinks": [
+      {
+        "label": "Library card registration",
+        "url": "https://lplonline.org/services/library-cards/register-renew/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main line (unverified)",
+        "value": "207-513-3135"
+      },
+      {
+        "kind": "web",
+        "label": "Register or renew a card",
+        "value": "https://lplonline.org/services/library-cards/register-renew/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Register or renew online any time"
+      }
+    ],
+    "description": "Free borrower's cards for Lewiston residents; Auburn residents and other categories are also eligible under city policy. Online registration and renewal; children under 12 must register with a parent or guardian.",
+    "eligibility": [
+      "Lewiston residents (free)",
+      "Auburn residents and other eligible categories - see registration policy"
+    ],
+    "id": "lewiston-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Lewiston Public Library - Library Card",
+    "prerequisites": [
+      "Complete the online registration form"
+    ],
+    "scope": {
+      "city": "Lewiston",
+      "level": "city",
+      "state": "ME"
+    },
+    "sources": [
+      "https://lplonline.org/services/library-cards/register-renew/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "City of Bangor",
+    "applyLinks": [
+      {
+        "label": "Community Connector page",
+        "url": "http://bangormaine.gov/communityconnector"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://bangormaine.gov/communityconnector"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Check the official page for current detours and schedules"
+      }
+    ],
+    "description": "Bangor's public bus system serving Bangor and surrounding communities. The official page posts current route detours (September 2026) and notes free transit for Brewer High School students.",
+    "eligibility": [
+      "Open to all riders"
+    ],
+    "id": "bangor-community-connector",
+    "languages": [
+      "English"
+    ],
+    "name": "Bangor Community Connector",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "city": "Bangor",
+      "level": "city",
+      "state": "ME"
+    },
+    "sources": [
+      "http://bangormaine.gov/communityconnector"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "Bangor Public Library",
+    "applyLinks": [
+      {
+        "label": "Bangor Public Library",
+        "url": "https://bangorpubliclibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main line",
+        "value": "(207) 947-8336"
+      },
+      {
+        "kind": "in-person",
+        "label": "Library",
+        "value": "145 Harlow St., Bangor"
+      },
+      {
+        "kind": "web",
+        "label": "Library home",
+        "value": "https://bangorpubliclibrary.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Sign up any time"
+      }
+    ],
+    "description": "Library cards are free to all Maine residents. Located at 145 Harlow St., Bangor.",
+    "eligibility": [
+      "All Maine residents"
+    ],
+    "id": "bangor-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Bangor Public Library - Library Card",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "city": "Bangor",
+      "level": "city",
+      "state": "ME"
+    },
+    "sources": [
+      "https://bangorpubliclibrary.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs (VA Maine Healthcare System)",
+    "applyLinks": [
+      {
+        "label": "Register for VA Maine health care",
+        "url": "https://www.va.gov/maine-health-care/register-for-care/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Registration page",
+        "value": "https://www.va.gov/maine-health-care/register-for-care/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll before scheduling appointments"
+      }
+    ],
+    "description": "Veterans must enroll for VA health care before scheduling appointments. Apply online, by phone or mail, or in person; the official page lists the supporting documents needed to complete registration.",
+    "eligibility": [
+      "Veterans meeting VA eligibility requirements - see program page"
+    ],
+    "id": "fed-va-maine-health-care",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Maine Health Care - Registration",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.va.gov/maine-health-care/register-for-care/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Supporting documents listed on the registration page - see program page"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Housing and Urban Development (Maine field office)",
+    "applyLinks": [
+      {
+        "label": "HUD Maine resources",
+        "url": "https://www.hud.gov/me"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing counseling",
+        "value": "(800) 569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "Public housing help",
+        "value": "(800) 955-2232"
+      },
+      {
+        "kind": "phone",
+        "label": "General assistance",
+        "value": "(800) 442-6003"
+      },
+      {
+        "kind": "phone",
+        "label": "Bangor HUD office",
+        "value": "(207) 945-0467"
+      },
+      {
+        "kind": "web",
+        "label": "HUD Maine page",
+        "value": "https://www.hud.gov/me"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies by program"
+      }
+    ],
+    "description": "Federal housing help with a Maine footprint: referrals for housing and homelessness services, housing counseling, public housing, eviction help, disaster recovery, and crisis lines.",
+    "eligibility": [
+      "Varies by program - see program page"
+    ],
+    "id": "fed-hud-maine",
+    "languages": [
+      "English"
+    ],
+    "name": "HUD Maine - Housing Resources",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.hud.gov/me"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration",
+    "applyLinks": [
+      {
+        "label": "SBA Maine district office",
+        "url": "https://www.sba.gov/district/maine"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA Maine district page",
+        "value": "https://www.sba.gov/district/maine"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Varies by program"
+      }
+    ],
+    "description": "Federal small-business support with Maine offices in Augusta, Bangor, and Portland: funding programs, free counseling, contracting certifications, and disaster recovery help.",
+    "eligibility": [
+      "Maine small businesses - varies by program"
+    ],
+    "id": "fed-sba-maine",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA Maine District Office",
+    "prerequisites": [
+      "Review eligibility on the program page before applying"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ME"
+    },
+    "sources": [
+      "https://www.sba.gov/district/maine"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ]
   }
 ]
