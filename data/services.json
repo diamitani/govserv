@@ -56205,5 +56205,2399 @@
       "https://www.employnv.gov",
       "https://detr.nv.gov/content/media/EmployNV_in_Southern_Nevada_July_31_August_14_.pdf"
     ]
+  },
+  {
+    "id": "des-moines-report-a-problem",
+    "name": "Report a Problem (Des Moines)",
+    "agency": "City of Des Moines",
+    "category": "Utilities",
+    "description": "Request city services and report issues such as potholes, graffiti, water problems, traffic signs, sewer and stormwater problems, trash collection, and snow plowing through myDSMmobile or by phone at (515) 283-4950.",
+    "scope": {
+      "level": "city",
+      "city": "Des Moines",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Des Moines residents, property owners, and visitors reporting problems within city limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Requests accepted any time."
+      }
+    ],
+    "prerequisites": [
+      "Submit online through the myDSMmobile form or call (515) 283-4950"
+    ],
+    "whatToBring": [
+      "Location of the problem",
+      "A description of the issue",
+      "A photo, if reporting online"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Report a Problem line",
+        "value": "(515) 283-4950"
+      },
+      {
+        "kind": "web",
+        "label": "Report a Problem page",
+        "value": "http://www.dsm.city/report/report_a_problem.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Report a Problem — myDSMmobile",
+        "url": "http://www.dsm.city/report/report_a_problem.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.dsm.city/report/report_a_problem.php"
+    ]
+  },
+  {
+    "id": "des-moines-dart-reduced-fare",
+    "name": "DART Half Fare and Ride to Thrive (Des Moines)",
+    "agency": "Des Moines Area Regional Transit Authority (DART)",
+    "category": "Transportation",
+    "description": "Reduced-fare transit: Half Fare for adults 65+, people with disabilities, refugees, and students; Ride to Thrive gives reduced fares to recipients of food, housing, or workforce assistance with a two-year enrollment. Apply in person at DART Central Station, 620 Cherry Street, Des Moines.",
+    "scope": {
+      "level": "city",
+      "city": "Des Moines",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Adults 65+",
+      "People with disabilities",
+      "Refugees",
+      "Students",
+      "Recipients of food, housing, or workforce assistance (Ride to Thrive)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; Ride to Thrive enrollment lasts two years."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at DART Central Station, 620 Cherry Street, Des Moines"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of qualifying status (age, disability, student, refugee, or assistance-recipient documentation)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DART reduced fare page",
+        "value": "https://www.ridedart.com/fares/reduced-fare"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DART reduced fare program page",
+        "url": "https://www.ridedart.com/fares/reduced-fare"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Half fare or reduced fare for qualifying riders",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ridedart.com/fares/reduced-fare"
+    ]
+  },
+  {
+    "id": "des-moines-library-card",
+    "name": "Des Moines Public Library Card",
+    "agency": "Des Moines Public Library",
+    "category": "Education",
+    "description": "Free library card for Iowa residents, usable at six Des Moines Public Library locations. Pre-register online to place holds, then visit a location within 60 days with current photo ID and proof of permanent address to complete the card.",
+    "scope": {
+      "level": "city",
+      "city": "Des Moines",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online pre-registration must be completed in person within 60 days."
+      }
+    ],
+    "prerequisites": [
+      "Pre-register online or apply at any library location"
+    ],
+    "whatToBring": [
+      "Current photo ID",
+      "Proof of permanent address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a library card page",
+        "value": "https://www.dmpl.org/get-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a card — Des Moines Public Library",
+        "url": "https://www.dmpl.org/get-card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dmpl.org/get-card"
+    ]
+  },
+  {
+    "id": "polk-harm-reduction",
+    "name": "Polk County Harm Reduction Supplies",
+    "agency": "Polk County Health Department",
+    "category": "Healthcare",
+    "description": "Free harm-reduction supplies including Narcan, emergency contraception, condoms and lube, gun locks, and safer-use supplies. Available 24/7 from a vending machine at 1907 Carpenter Ave, Des Moines. No ID or appointment needed; confidential; subject to availability.",
+    "scope": {
+      "level": "county",
+      "county": "Polk",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Anyone (no ID, appointment, or fee required)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7 while supplies last."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites — walk up to the vending machine"
+    ],
+    "whatToBring": [
+      "No items needed — supplies are free while available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Harm reduction page",
+        "value": "https://www.polkcountyiowa.gov/health-department/education-resources/harm-reduction/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Polk County harm reduction page",
+        "url": "https://www.polkcountyiowa.gov/health-department/education-resources/harm-reduction/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.polkcountyiowa.gov/health-department/education-resources/harm-reduction/"
+    ]
+  },
+  {
+    "id": "polk-healthy-women",
+    "name": "Healthy Women Program (Polk County)",
+    "agency": "Polk County Health Department",
+    "category": "Healthcare",
+    "description": "May provide no-cost breast and cervical cancer screening for eligible women through grant funding. Eligibility includes age and clinical criteria, income at or below 250% of the federal poverty level, and being uninsured or having inadequate coverage.",
+    "scope": {
+      "level": "county",
+      "county": "Polk",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Women meeting age and clinical criteria",
+      "Income at or below 250% of the federal poverty level",
+      "Uninsured or inadequate coverage"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to check current availability."
+      }
+    ],
+    "prerequisites": [
+      "Call (515) 286-3642 to check eligibility"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Insurance information, if any"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Healthy Women Program",
+        "value": "(515) 286-3642"
+      },
+      {
+        "kind": "web",
+        "label": "Healthy Women program page",
+        "value": "https://www.polkcountyiowa.gov/health-department/healthy-women-program/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Healthy Women program page",
+        "url": "https://www.polkcountyiowa.gov/health-department/healthy-women-program/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No cost for eligible participants",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.polkcountyiowa.gov/health-department/healthy-women-program/"
+    ]
+  },
+  {
+    "id": "des-moines-housing-authority",
+    "name": "Des Moines Municipal Housing Agency (Public Housing & Section 8)",
+    "agency": "Des Moines Municipal Housing Agency (DMMHA)",
+    "category": "Housing",
+    "description": "HUD-funded public housing and Section 8 Housing Choice Voucher rental assistance in Des Moines and Polk County. As of verification, the Section 8 waitlist is closed and the public housing waitlist is closed for 2, 3, 4, and 5-bedroom units — applications are accepted only for household sizes of two persons or fewer.",
+    "scope": {
+      "level": "city",
+      "city": "Des Moines",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income households in Des Moines and Polk County",
+      "Public housing: households of two persons or fewer while larger-unit waitlists are closed"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Paused — waitlists closed",
+        "note": "Section 8 HCV waitlist is currently closed; public housing applications accepted only for household sizes of two persons or fewer."
+      }
+    ],
+    "prerequisites": [
+      "Check the DMMHA page for current waitlist status before applying"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Household composition documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMMHA page",
+        "value": "http://www.dsm.city/departments/housing/index.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Des Moines Municipal Housing Agency page",
+        "url": "http://www.dsm.city/departments/housing/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.dsm.city/departments/housing/index.php"
+    ]
+  },
+  {
+    "id": "cedar-rapids-income-based-free-fare",
+    "name": "CR Transit Income-Based Free Fare (Cedar Rapids)",
+    "agency": "Cedar Rapids Transit",
+    "category": "Transportation",
+    "description": "Free bus fare for adults at or below 160% of the federal poverty level. Qualifying proof includes SNAP, FIP, Medicaid, Section 8, LIHEAP, or Linn County General Assistance documentation. A temporary qualifying letter is valid 30 days and is exchanged for a free-fare photo ID; the first card is free and replacements are $3.",
+    "scope": {
+      "level": "city",
+      "city": "Cedar Rapids",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Adults at or below 160% of the federal poverty level",
+      "Recipients of SNAP, FIP, Medicaid, Section 8, LIHEAP, or Linn County General Assistance"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; temporary qualifying letter valid 30 days."
+      }
+    ],
+    "prerequisites": [
+      "Bring proof of qualifying benefits to a Transit office"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of qualifying benefits (SNAP, FIP, Medicaid, Section 8, LIHEAP, or Linn County General Assistance)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CR Transit",
+        "value": "(319) 286-5573"
+      },
+      {
+        "kind": "web",
+        "label": "Income-Based Free Fare Program document",
+        "value": "https://www.cedar-rapids.org/Transit/Documents/2026_CR%20Income-Based%20Free%20Fare%20Program.pdf?t=20260612140228545"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Income-Based Free Fare Program (PDF)",
+        "url": "https://www.cedar-rapids.org/Transit/Documents/2026_CR%20Income-Based%20Free%20Fare%20Program.pdf?t=20260612140228545"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free fare; first card free, replacement $3",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cedar-rapids.org/Transit/Documents/2026_CR%20Income-Based%20Free%20Fare%20Program.pdf?t=20260612140228545"
+    ]
+  },
+  {
+    "id": "cedar-rapids-civil-rights",
+    "name": "Civil Rights Complaints (Cedar Rapids)",
+    "agency": "Cedar Rapids Civil Rights Commission",
+    "category": "Legal Aid",
+    "description": "File complaints about discrimination — including housing, employment, and public accommodation complaints — with the Cedar Rapids Civil Rights Commission.",
+    "scope": {
+      "level": "city",
+      "city": "Cedar Rapids",
+      "state": "IA"
+    },
+    "eligibility": [
+      "People who experienced discrimination in Cedar Rapids"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File complaints as soon as possible; ask about time limits when you call."
+      }
+    ],
+    "prerequisites": [
+      "Call (319) 286-5036 or contact the Civil Rights Commission to file"
+    ],
+    "whatToBring": [
+      "Details of the incident: what happened, when, where, and who was involved",
+      "Any supporting documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Civil Rights Commission",
+        "value": "319-286-5036"
+      },
+      {
+        "kind": "web",
+        "label": "City services directory",
+        "value": "https://cedar-rapids.org/i_want_to/contact/city_services_directory.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cedar Rapids city services directory",
+        "url": "https://cedar-rapids.org/i_want_to/contact/city_services_directory.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cedar-rapids.org/i_want_to/contact/city_services_directory.php"
+    ]
+  },
+  {
+    "id": "linn-county-public-health",
+    "name": "Linn County Public Health Clinic Services",
+    "agency": "Linn County Public Health",
+    "category": "Healthcare",
+    "description": "Clinic services at 1020 6th St SE, Cedar Rapids: free or reduced hepatitis, STD, HIV, and pregnancy testing for qualifiers; TB testing; immunizations for adults and children; free condoms; Healthy Home assessments; and communicable disease investigations. Appointments are strongly encouraged.",
+    "scope": {
+      "level": "county",
+      "county": "Linn",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Linn County residents",
+      "Free or reduced testing for those who qualify"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call before seeking services; hours may change."
+      }
+    ],
+    "prerequisites": [
+      "Call 319-892-6093 for clinic appointments"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card, if insured",
+      "Vaccination records, for immunizations"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Linn County Public Health office",
+        "value": "319-892-6000"
+      },
+      {
+        "kind": "phone",
+        "label": "Linn County Public Health clinic",
+        "value": "319-892-6093"
+      },
+      {
+        "kind": "web",
+        "label": "2026 Health Resources guide (PDF)",
+        "value": "https://gis.linncountyiowa.gov/web-data/lccs/community-resources/Health-Resources.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "2026 Health Resources guide (PDF)",
+        "url": "https://gis.linncountyiowa.gov/web-data/lccs/community-resources/Health-Resources.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or reduced for qualifying services",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://gis.linncountyiowa.gov/web-data/lccs/community-resources/Health-Resources.pdf"
+    ]
+  },
+  {
+    "id": "davenport-paratransit",
+    "name": "Davenport ADA Paratransit (CitiBus)",
+    "agency": "City of Davenport / CitiBus",
+    "category": "Transportation",
+    "description": "Door-to-door paratransit for Davenport residents whose disabilities prevent use of fixed-route buses, within 3/4 mile of a route. Fare is $2 for riders age 9 and up; children under 8 ride free with a paying adult; one personal care attendant rides free. Request an application at 563-888-2151; schedule approved rides through River Bend Transit.",
+    "scope": {
+      "level": "city",
+      "city": "Davenport",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Davenport residents with disabilities that prevent fixed-route bus use",
+      "Within 3/4 mile of a CitiBus route"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Request and complete the ADA paratransit application"
+    ],
+    "whatToBring": [
+      "Disability documentation as requested on the application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Paratransit application requests",
+        "value": "563-888-2151"
+      },
+      {
+        "kind": "phone",
+        "label": "River Bend Transit ride scheduling",
+        "value": "563-386-1350"
+      },
+      {
+        "kind": "phone",
+        "label": "River Bend Transit (toll-free)",
+        "value": "800-292-8959"
+      },
+      {
+        "kind": "web",
+        "label": "Paratransit page",
+        "value": "https://cityofdavenportiowa.hosted.civiclive.com/cms/One.aspx?portalId=6481456&pageId=19545407"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Davenport paratransit page",
+        "url": "https://cityofdavenportiowa.hosted.civiclive.com/cms/One.aspx?portalId=6481456&pageId=19545407"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$2 per ride age 9+; under 8 free with paying adult; PCA free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cityofdavenportiowa.hosted.civiclive.com/cms/One.aspx?portalId=6481456&pageId=19545407"
+    ]
+  },
+  {
+    "id": "davenport-housing-authority",
+    "name": "Davenport Housing Authority (Housing Choice Voucher)",
+    "agency": "Davenport Housing Authority",
+    "category": "Housing",
+    "description": "Rental assistance through the Housing Choice Voucher program (tenant-based and project-based). The waitlist is currently closed; the Housing Authority's 2026-2027 plan states it is planning to open the waitlist in 2027. A preference has been added for chronically homeless individuals or families.",
+    "scope": {
+      "level": "city",
+      "city": "Davenport",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income households in Davenport",
+      "Preference for chronically homeless individuals or families when the waitlist opens"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Paused — waitlist closed",
+        "note": "The Housing Authority is planning to open the waitlist in 2027."
+      }
+    ],
+    "prerequisites": [
+      "Wait for the 2027 waitlist opening announcement"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Household composition documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "2026-2027 Annual PHA Plan (PDF)",
+        "value": "https://www.davenportiowa.com/UserFiles/Servers/Server_6481372/File/Departments/CPED/HCV/Annual%20Plan-%202026-2027.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "2026-2027 Annual PHA Plan (PDF)",
+        "url": "https://www.davenportiowa.com/UserFiles/Servers/Server_6481372/File/Departments/CPED/HCV/Annual%20Plan-%202026-2027.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.davenportiowa.com/UserFiles/Servers/Server_6481372/File/Departments/CPED/HCV/Annual%20Plan-%202026-2027.pdf"
+    ]
+  },
+  {
+    "id": "scott-county-health-department",
+    "name": "Scott County Health Department",
+    "agency": "Scott County Health Department",
+    "category": "Healthcare",
+    "description": "Public-health services for Scott County residents: immunization clinics (call 563-326-8618 to make an appointment), health alerts and guidance on current outbreaks, and disease-response programs.",
+    "scope": {
+      "level": "county",
+      "county": "Scott",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Scott County residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for clinic appointments."
+      }
+    ],
+    "prerequisites": [
+      "Call 563-326-8618 to schedule immunization clinic appointments"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance card, if insured",
+      "Vaccination records, for immunizations"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Scott County Health Department",
+        "value": "563-326-8618"
+      },
+      {
+        "kind": "web",
+        "label": "Health Department page",
+        "value": "https://www.scottcountyiowa.gov/health"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Scott County Health Department page",
+        "url": "https://www.scottcountyiowa.gov/health"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.scottcountyiowa.gov/health"
+    ]
+  },
+  {
+    "id": "sioux-city-transit-reduced-fare",
+    "name": "Sioux City Transit Reduced Fares",
+    "agency": "Sioux City Transit",
+    "category": "Transportation",
+    "description": "Reduced bus fares for people with disabilities, seniors 62+, Medicare cardholders, and students through high school. Children under 5 ride free with an adult. Service-connected disabled veterans ride fixed routes free with a qualifying VA photo ID. Riders approved for disability reduced fare receive a photo ID.",
+    "scope": {
+      "level": "city",
+      "city": "Sioux City",
+      "state": "IA"
+    },
+    "eligibility": [
+      "People with disabilities",
+      "Seniors 62+",
+      "Medicare cardholders",
+      "Students through high school",
+      "Service-connected disabled veterans with VA photo ID (free)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for disability reduced fare any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the disability reduced-fare application for approval and photo ID"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of qualifying status (disability, age, Medicare card, student status, or VA photo ID)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sioux City Transit dispatch",
+        "value": "712-279-6404"
+      },
+      {
+        "kind": "web",
+        "label": "Fares page",
+        "value": "https://www.sioux-city.org/743/Fares-Easy-Steps-Guidelines-Lost-Found"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sioux City Transit fares page",
+        "url": "https://www.sioux-city.org/743/Fares-Easy-Steps-Guidelines-Lost-Found"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Reduced fare; under 5 free with adult; free for service-connected disabled veterans with VA photo ID",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sioux-city.org/743/Fares-Easy-Steps-Guidelines-Lost-Found"
+    ]
+  },
+  {
+    "id": "sioux-city-housing-authority",
+    "name": "Sioux City Housing Authority (Housing Choice Voucher)",
+    "agency": "Sioux City Housing Authority",
+    "category": "Housing",
+    "description": "Income-limited rental assistance through the Housing Choice Voucher program; participants generally pay about 30% of adjusted income toward rent and utilities. The online application is active; the current estimated wait is about two years, subject to change. HUD-VASH referrals come through the VA, not a direct Housing Authority application.",
+    "scope": {
+      "level": "city",
+      "city": "Sioux City",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income households in Sioux City meeting HUD income limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Online application active; current estimated wait about two years, subject to change."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through the Housing Authority page"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Household composition documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sioux City Housing Authority page",
+        "value": "https://www.sioux-city.org/354/Sioux-City-Housing-Authority"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sioux City Housing Authority page (with online application)",
+        "url": "https://www.sioux-city.org/354/Sioux-City-Housing-Authority"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sioux-city.org/354/Sioux-City-Housing-Authority"
+    ]
+  },
+  {
+    "id": "iowa-city-transit",
+    "name": "Iowa City Transit",
+    "agency": "City of Iowa City",
+    "category": "Transportation",
+    "description": "Fare-free fixed-route bus service open to the public in Iowa City — no pass or fare needed. Thirteen routes run Monday through Saturday; all buses are wheelchair-accessible.",
+    "scope": {
+      "level": "city",
+      "city": "Iowa City",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Open to the public"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No fare or pass required."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites — just board the bus"
+    ],
+    "whatToBring": [
+      "No items needed — service is fare-free"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Iowa City Transit",
+        "value": "319-356-5151"
+      },
+      {
+        "kind": "email",
+        "label": "Iowa City Transit email",
+        "value": "ICTransit@iowa-city.org"
+      },
+      {
+        "kind": "web",
+        "label": "Transit page",
+        "value": "https://www.icgov.org/government/departments-and-divisions/transportation/transit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa City Transit page",
+        "url": "https://www.icgov.org/government/departments-and-divisions/transportation/transit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free (fare-free system)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.icgov.org/government/departments-and-divisions/transportation/transit"
+    ]
+  },
+  {
+    "id": "iowa-city-housing-authority",
+    "name": "Iowa City Housing Authority (Housing Choice Voucher & Public Housing)",
+    "agency": "Iowa City Housing Authority",
+    "category": "Housing",
+    "description": "Rental assistance through the Housing Choice Voucher and Public Housing programs. As of verification, the Housing Authority is not accepting applications for the HCV or Public Housing programs. Households experiencing homelessness can call Shelter House at 319-351-0326 (24/7); at-risk households are directed to Iowa Housing Help.",
+    "scope": {
+      "level": "city",
+      "city": "Iowa City",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income households in Iowa City (applications currently not accepted)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Paused — applications not accepted",
+        "note": "Not currently accepting HCV or Public Housing applications."
+      }
+    ],
+    "prerequisites": [
+      "Check the Housing Authority page for reopening announcements"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Household composition documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Iowa City Housing Authority",
+        "value": "319-356-5400"
+      },
+      {
+        "kind": "phone",
+        "label": "Shelter House (24/7 homelessness help)",
+        "value": "319-351-0326"
+      },
+      {
+        "kind": "web",
+        "label": "Housing Authority page",
+        "value": "https://www.icgov.org/government/departments-and-divisions/neighborhood-and-development-services/neighborhood-services/housing-authority"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa City Housing Authority page",
+        "url": "https://www.icgov.org/government/departments-and-divisions/neighborhood-and-development-services/neighborhood-services/housing-authority"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.icgov.org/government/departments-and-divisions/neighborhood-and-development-services/neighborhood-services/housing-authority"
+    ]
+  },
+  {
+    "id": "iowa-city-free-medical-clinic",
+    "name": "Iowa City Free Medical and Dental Clinic",
+    "agency": "Iowa City Free Medical and Dental Clinic (nonprofit)",
+    "category": "Healthcare",
+    "description": "Nonprofit clinic at 2440 Towncrest Dr, Iowa City, providing free medical and dental care to people in the Iowa City area who would otherwise lack access. Walk-in medical clinics run Tuesday 9:00–2:00 and Thursday 9:00–noon as available; call 319-337-4459 to schedule appointments. Also offers prescription refills, vision vouchers, and social-worker appointments by availability.",
+    "scope": {
+      "level": "city",
+      "city": "Iowa City",
+      "state": "IA"
+    },
+    "eligibility": [
+      "People in the Iowa City area who cannot otherwise access care (free, nonprofit)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call to confirm current walk-in availability."
+      }
+    ],
+    "prerequisites": [
+      "Call 319-337-4459 to schedule; walk-in clinics as available"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "List of current medications",
+      "Any medical records available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Free Medical Clinic",
+        "value": "319-337-4459"
+      },
+      {
+        "kind": "web",
+        "label": "Free Medical and Dental Clinic site",
+        "value": "http://freemedicalclinic.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free Medical and Dental Clinic site",
+        "url": "http://freemedicalclinic.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://freemedicalclinic.org/"
+    ]
+  },
+  {
+    "id": "ia-snap",
+    "name": "SNAP — Food Assistance (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for eligible Iowa households. Apply online, at a local HHS office, or by email, fax, or mail; an interview and follow-up documents (ID, income, housing, and household details) are required.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa residents",
+      "Households meeting income and asset guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; expedited service available for households with urgent need."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, at a local HHS office, or by email, fax, or mail",
+      "Complete the eligibility interview"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Housing cost information",
+      "Household member details"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for SNAP page",
+        "value": "https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      },
+      {
+        "label": "Apply for SNAP",
+        "url": "https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply",
+      "https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap"
+    ]
+  },
+  {
+    "id": "ia-wic",
+    "name": "WIC — Women, Infants, and Children (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Food",
+    "description": "Supplemental foods, breastfeeding support, nutrition education, and health referrals for pregnant and postpartum women and children through age 5. Apply at a local WIC clinic.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Pregnant and postpartum women",
+      "Infants and children through age 5",
+      "Iowa residents meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time at a local WIC clinic."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic to apply"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of Iowa residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-medicaid",
+    "name": "Medicaid (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income Iowans. Apply online, through healthcare.gov, at a local HHS office or Federally Qualified Health Center, by paper/email/fax/mail, or by phone at 1-855-889-7985. Paper applications may take up to 45 days to process.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income Iowans meeting income and category guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing can take up to 45 days."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or by paper application"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid member services",
+        "value": "1-855-889-7985"
+      },
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid/Hawki application (PDF)",
+        "value": "https://hhs.iowa.gov/media/8116/download?inline"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      },
+      {
+        "label": "Medicaid/Hawki application (PDF)",
+        "url": "https://hhs.iowa.gov/media/8116/download?inline"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; coverage for eligible members",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply",
+      "https://hhs.iowa.gov/media/8116/download?inline"
+    ]
+  },
+  {
+    "id": "ia-hawki",
+    "name": "Hawki — Children's Health Insurance (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Healthcare",
+    "description": "Health insurance for uninsured Iowa children in families that earn too much for Medicaid but cannot afford private coverage. Apply online, by phone at 1-800-257-8563, or by mail; processing can take up to 45 days.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Uninsured Iowa children",
+      "Families above Medicaid limits meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; processing can take up to 45 days."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or by mail"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Hawki",
+        "value": "1-800-257-8563"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid/Hawki application (PDF)",
+        "value": "https://hhs.iowa.gov/media/8116/download?inline"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Medicaid/Hawki application (PDF)",
+        "url": "https://hhs.iowa.gov/media/8116/download?inline"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; low or no premiums",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/media/8116/download?inline",
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-hipp",
+    "name": "HIPP — Health Insurance Premium Payment (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Healthcare",
+    "description": "Medicaid may pay the cost of a member's employer or individual health insurance when doing so is cost-effective, helping members keep private coverage with premium and cost-sharing help.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa Medicaid members with access to cost-effective employer or individual coverage"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Enrolled in Iowa Medicaid",
+      "Contact HIPP to determine cost-effectiveness"
+    ],
+    "whatToBring": [
+      "Health insurance policy information",
+      "Premium cost information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HIPP",
+        "value": "515-974-3282"
+      },
+      {
+        "kind": "phone",
+        "label": "HIPP (toll-free)",
+        "value": "1-888-346-9562"
+      },
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Medicaid members",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-family-planning",
+    "name": "Family Planning Program (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Healthcare",
+    "description": "Limited family planning and reproductive-health coverage for eligible Iowans ages 12–54. Apply through a local HHS office or a Title X agency.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowans ages 12–54",
+      "Meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through a local HHS office or Title X agency"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Planning Program",
+        "value": "515-675-5211"
+      },
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-liheap",
+    "name": "LIHEAP — Heating Bill Assistance (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Utilities",
+    "description": "One-time payment toward winter heating bills for eligible low-income households, administered through local community action agency outreach offices.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income Iowa households meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Heating-season program; contact your local community action agency for current dates."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local community action agency outreach office"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Heating bill or utility account information",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-weatherization",
+    "name": "Weatherization Assistance Program (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Utilities",
+    "description": "Free home energy-efficiency improvements (insulation, air sealing, furnace work) for eligible low-income households, provided through local community action agencies.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Low-income Iowa households, prioritizing elderly, disabled, and families with children"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a local community action agency."
+      }
+    ],
+    "prerequisites": [
+      "Apply through a local community action agency outreach office"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of homeownership or landlord permission"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Weatherization program",
+        "value": "515-281-3861"
+      },
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-rent-reimbursement",
+    "name": "Rent Reimbursement (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Housing",
+    "description": "Up to $1,000 for income-eligible elderly or disabled renters who live in non-tax-exempt buildings. Apply online, at a local HHS office, or through a community action agency.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa renters who are elderly or disabled",
+      "Income-eligible",
+      "Renting in non-tax-exempt buildings"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual claim",
+        "note": "Claims cover rent paid in the prior year; check the HHS page for the current filing window."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, at a local HHS office, or through a community action agency"
+    ],
+    "whatToBring": [
+      "Proof of age or disability",
+      "Proof of income",
+      "Rent receipts or lease"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rent Reimbursement",
+        "value": "1-866-468-7887"
+      },
+      {
+        "kind": "phone",
+        "label": "Rent Reimbursement (local)",
+        "value": "515-420-6077"
+      },
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-child-care-assistance",
+    "name": "Child Care Assistance (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Family & Childcare",
+    "description": "Helps working, schooling, and training families pay for child care. Apply online, at a local HHS office, or by mail.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Families with children needing child care",
+      "Parents working, in school, or in approved training",
+      "Iowa residents meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, at a local HHS office, or by mail"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of work, school, or training schedule",
+      "Child's information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; family co-pay may apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-child-support",
+    "name": "Child Support Services (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Family & Childcare",
+    "description": "Establishes paternity and child or medical support orders, and collects and distributes support payments. Apply online.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Parents and custodians needing paternity establishment or support orders"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through Iowa HHS"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Child's birth certificate, if available",
+      "Information about the other parent"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-fip",
+    "name": "Family Investment Program — FIP (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Money & Taxes",
+    "description": "Monthly cash assistance plus employment and training services for families with children. Apply online, at a local HHS office, or by email, fax, or mail. Income, citizenship, and identity are verified; eligibility decisions can take up to 30 days.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Families with children",
+      "Iowa residents meeting income guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; eligibility decisions can take up to 30 days."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, at a local HHS office, or by email, fax, or mail",
+      "Complete income, citizenship, and identity verification"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Proof of citizenship",
+      "Household information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-state-supplementary-assistance",
+    "name": "State Supplementary Assistance (Iowa)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Disability",
+    "description": "Monthly payments for the special needs of aged, blind, or disabled Iowans that are not met by Supplemental Security Income (SSI). Apply online or by paper application.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Aged, blind, or disabled Iowans",
+      "Special needs not met by SSI"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or by paper application"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of disability or age",
+      "Proof of income and resources"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS application hub",
+        "value": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa HHS — how to apply",
+        "url": "https://hhs.iowa.gov/assistance-programs/apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/apply"
+    ]
+  },
+  {
+    "id": "ia-unemployment-insurance",
+    "name": "Unemployment Insurance (Iowa)",
+    "agency": "Iowa Workforce Development",
+    "category": "Employment",
+    "description": "Temporary income for Iowa workers who lost jobs through no fault of their own. File online or at an IowaWORKS center; weekly claims and reemployment requirements apply.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa workers unemployed through no fault of their own",
+      "Meeting wage and work-history requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; weekly claims required to keep benefits."
+      }
+    ],
+    "prerequisites": [
+      "File online or at an IowaWORKS center",
+      "Verify identity through ID.me"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Dependents' information",
+      "Address, phone, and email",
+      "Recent employer information and dates of employment",
+      "Reason for separation",
+      "Current government ID for ID.me verification"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI customer service",
+        "value": "866-239-0843"
+      },
+      {
+        "kind": "email",
+        "label": "UI claims help",
+        "value": "uiclaimshelp@iwd.iowa.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment filing guide (PDF)",
+        "value": "https://workforce.iowa.gov/media/740/download?inline="
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Unemployment filing guide — how to file (PDF)",
+        "url": "https://workforce.iowa.gov/media/740/download?inline="
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://workforce.iowa.gov/media/740/download?inline="
+    ]
+  },
+  {
+    "id": "ia-iowaworks",
+    "name": "IowaWORKS Career Services",
+    "agency": "Iowa Workforce Development",
+    "category": "Employment",
+    "description": "Free career-planning help at 17 statewide centers: job search, resume help, training referrals, and employer connections. Metro locations include Des Moines (200 Army Post Road and 525 SW Fifth St), Cedar Rapids (1025 Kirkwood Pkwy SW), Davenport (1801 E Kimberly Rd), Iowa City satellite (1700 S 1st Ave), and Sioux City (2508 4th Street).",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Anyone seeking work or career help in Iowa"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in or call during center hours."
+      }
+    ],
+    "prerequisites": [
+      "Locate your nearest center on the IowaWORKS map"
+    ],
+    "whatToBring": [
+      "Resume, if you have one",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IowaWORKS centers map",
+        "value": "https://workforce.iowa.gov/jobs/iowaworks/map"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IowaWORKS centers map",
+        "url": "https://workforce.iowa.gov/jobs/iowaworks/map"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://workforce.iowa.gov/jobs/iowaworks/map"
+    ]
+  },
+  {
+    "id": "ia-vocational-rehabilitation",
+    "name": "Iowa Vocational Rehabilitation Services",
+    "agency": "Iowa Workforce Development",
+    "category": "Disability",
+    "description": "Employment services for Iowans with disabilities: counseling, training, job placement, and assistive technology. Pre-Employment Transition Services (Pre-ETS) are available for students ages 14–21 with disabilities. Apply online, by paper/mail or drop-off, or at a local office; staff can help complete the forms.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowans with a disability that is a barrier to employment",
+      "Students ages 14–21 with disabilities (Pre-ETS)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by paper/mail or drop-off, or at a local office"
+    ],
+    "whatToBring": [
+      "Disability documentation",
+      "Education and work history"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vocational Rehabilitation",
+        "value": "1-800-532-1486"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for VR services",
+        "value": "https://workforce.iowa.gov/vr/apply-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for VR services",
+        "url": "https://workforce.iowa.gov/vr/apply-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://workforce.iowa.gov/vr/apply-services"
+    ]
+  },
+  {
+    "id": "ia-real-id",
+    "name": "REAL ID (Iowa)",
+    "agency": "Iowa Department of Transportation",
+    "category": "Transportation",
+    "description": "Get a REAL ID-compliant Iowa driver's license or ID. An in-person appointment is required for a first REAL ID; the card arrives by mail in up to 30 days. No extra REAL ID fee beyond the normal issuance, renewal, or replacement fee.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa residents seeking a REAL ID-compliant license or ID"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "REAL ID is required for domestic air travel and federal building access; get it before you need it."
+      }
+    ],
+    "prerequisites": [
+      "Book an appointment for a first REAL ID"
+    ],
+    "whatToBring": [
+      "One identity/lawful-status document",
+      "One Social Security number document",
+      "Two printed documents proving Iowa residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "REAL ID page",
+        "value": "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/real-id"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa DOT — REAL ID",
+        "url": "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/real-id"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No extra REAL ID fee; standard issuance/renewal/replacement fees apply (replacement $10)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/real-id"
+    ]
+  },
+  {
+    "id": "ia-legal-aid",
+    "name": "Iowa Legal Aid — Free Civil Legal Help",
+    "agency": "Iowa Legal Aid",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for income-eligible Iowans, including unemployment benefit fact-finding hearings and appeals. Deadlines are short and case-specific — fact-finding decisions and later administrative-law-judge decisions have separate appeal windows, and the notices control. Apply through the online intake or by phone.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Income-eligible Iowans with civil legal problems",
+      "Iowans 60+ for the senior legal hotline"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Unemployment appeal deadlines are short and case-specific; check your notice immediately."
+      }
+    ],
+    "prerequisites": [
+      "Complete the online intake or call"
+    ],
+    "whatToBring": [
+      "Notices or decision letters",
+      "Case documents and deadlines"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Iowa Legal Aid intake",
+        "value": "800-532-1275"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowans 60+ legal hotline",
+        "value": "800-992-8161"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment appeals guide with intake link",
+        "value": "https://iowalegalaid.org/resource/fact-finding-hearings-and-appeals-for-unemployment-benefits/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Unemployment appeals guide with online intake link",
+        "url": "https://iowalegalaid.org/resource/fact-finding-hearings-and-appeals-for-unemployment-benefits/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://iowalegalaid.org/resource/fact-finding-hearings-and-appeals-for-unemployment-benefits/"
+    ]
+  },
+  {
+    "id": "ia-eitc",
+    "name": "Iowa Earned Income Tax Credit",
+    "agency": "Iowa Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Refundable state credit equal to 15% of the federal Earned Income Tax Credit, available to taxpayers who qualify for the federal EITC. Filers who qualify for the low-income exemption can file an Iowa return solely to claim the EITC refund.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Taxpayers who qualify for the federal Earned Income Tax Credit"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax filing",
+        "note": "Claimed on the Iowa individual income tax return."
+      }
+    ],
+    "prerequisites": [
+      "Qualify for the federal EITC",
+      "File an Iowa individual income tax return"
+    ],
+    "whatToBring": [
+      "Federal tax return showing EITC",
+      "Income documents (W-2s, 1099s)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa EITC instructions",
+        "value": "https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/iowa-earned-income-tax-credit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Iowa EITC instructions",
+        "url": "https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/iowa-earned-income-tax-credit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free (claimed on your Iowa tax return)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/iowa-earned-income-tax-credit"
+    ]
+  },
+  {
+    "id": "ia-veterans-trust-fund",
+    "name": "Iowa Veterans Trust Fund",
+    "agency": "Iowa Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "Emergency and support benefits for Iowa veterans (90+ aggregate days of active federal service other than training with an honorable discharge, with injury exceptions), plus eligible spouses, dependents, and unremarried surviving spouses. Benefits can cover medical travel, retraining or tuition, unemployment or underemployment tied to a service disability, dental, vision, hearing, and prescriptions, durable home equipment, counseling and substance-use treatment, emergency ambulance and ER care, and emergency vehicle, housing, and temporary housing needs. Other available aid is generally used first.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa veterans meeting the service and discharge definition",
+      "Eligible spouses, dependents, and unremarried surviving spouses",
+      "Income at or below 300% of the federal poverty level; liquid assets no more than $20,000"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; emergency needs are prioritized."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Iowa Department of Veterans Affairs or a county veterans service office"
+    ],
+    "whatToBring": [
+      "DD-214 or other discharge paperwork",
+      "Proof of income",
+      "Proof of liquid assets",
+      "Documentation of the need (bills, estimates)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Veterans Trust Fund rule (eligibility and benefits, PDF)",
+        "value": "https://www.legis.iowa.gov/docs/aco/chapter/801.14.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans Trust Fund rule (eligibility and benefits, PDF)",
+        "url": "https://www.legis.iowa.gov/docs/aco/chapter/801.14.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.legis.iowa.gov/docs/aco/chapter/801.14.pdf"
+    ]
+  },
+  {
+    "id": "ia-firsthome",
+    "name": "FirstHome Mortgage (Iowa Finance Authority)",
+    "agency": "Iowa Finance Authority",
+    "category": "Housing",
+    "description": "First-time homebuyer mortgage program, plus down payment and closing-cost help: a $2,500 grant with a FirstHome mortgage, or a second loan of up to 5% of the sale price (no maximum, no monthly payments; repaid on sale, refinance, or payoff). A Homes for Iowans mortgage option exists for repeat buyers. Apply through an IFA participating lender.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "First-time homebuyers (no home owned in the last three years)",
+      "Iowa primary residence",
+      "County income and purchase-price limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender any time."
+      }
+    ],
+    "prerequisites": [
+      "Work with an IFA participating lender",
+      "Check eligibility with the IFA quick-check tool"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Tax returns",
+      "Bank statements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Iowa Finance Authority",
+        "value": "515-452-0400"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa Finance Authority (toll-free)",
+        "value": "800-432-7230"
+      },
+      {
+        "kind": "web",
+        "label": "Homeownership programs (PDF)",
+        "value": "https://opportunityiowa.gov/media/5558/download?inline"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IFA homeownership programs (PDF)",
+        "url": "https://opportunityiowa.gov/media/5558/download?inline"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; standard mortgage costs",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://opportunityiowa.gov/media/5558/download?inline"
+    ]
+  },
+  {
+    "id": "ia-military-homeownership",
+    "name": "Military Homeownership Assistance (Iowa)",
+    "agency": "Iowa Finance Authority",
+    "category": "Veterans",
+    "description": "$5,000 grant for down payment assistance and closing costs for eligible service members and veterans buying a qualifying Iowa home.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Eligible service members and veterans buying a qualifying Iowa home"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through a participating lender any time."
+      }
+    ],
+    "prerequisites": [
+      "Work with an IFA participating lender"
+    ],
+    "whatToBring": [
+      "Military service documentation",
+      "Photo ID",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Iowa Finance Authority",
+        "value": "515-452-0400"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa Finance Authority (toll-free)",
+        "value": "800-432-7230"
+      },
+      {
+        "kind": "web",
+        "label": "Homeownership programs (PDF)",
+        "value": "https://opportunityiowa.gov/media/5558/download?inline"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IFA homeownership programs (PDF)",
+        "url": "https://opportunityiowa.gov/media/5558/download?inline"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free grant — no repayment",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://opportunityiowa.gov/media/5558/download?inline"
+    ]
+  },
+  {
+    "id": "ia-shiip",
+    "name": "SHIIP — Senior Health Insurance Information Program (Iowa)",
+    "agency": "Iowa Insurance Division",
+    "category": "Seniors",
+    "description": "Free, confidential, unbiased one-on-one Medicare counseling from trained, certified volunteer counselors statewide: plan comparisons, enrollment help, billing and appeals help, and Medicare fraud reporting through the Senior Medicare Patrol. Especially useful during Open Enrollment (October 15–December 7); counselors can also explain guaranteed-issue rights when a plan is canceled.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowans on Medicare, turning 65, or on Medicare due to disability",
+      "Caregivers and people who work with older Iowans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Medicare Open Enrollment runs October 15–December 7 each year."
+      }
+    ],
+    "prerequisites": [
+      "Call 1-800-351-4664 to reach a local SHIIP-SMP counselor"
+    ],
+    "whatToBring": [
+      "Medicare card",
+      "Current plan information",
+      "Prescription list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SHIIP-SMP",
+        "value": "1-800-351-4664"
+      },
+      {
+        "kind": "web",
+        "label": "SHIIP-SMP Medicare open enrollment info",
+        "value": "https://iowafraudfighters.gov/2025/11/10/iowans-on-medicare-seek-coverage-lower-costs-in-2026/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SHIIP-SMP Medicare open enrollment info",
+        "url": "https://iowafraudfighters.gov/2025/11/10/iowans-on-medicare-seek-coverage-lower-costs-in-2026/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://iowafraudfighters.gov/2025/11/10/iowans-on-medicare-seek-coverage-lower-costs-in-2026/"
+    ]
+  },
+  {
+    "id": "ia-sos-business",
+    "name": "Iowa Business Entity Filings (Secretary of State)",
+    "agency": "Iowa Secretary of State",
+    "category": "Small Business",
+    "description": "Register and maintain an Iowa business entity: file articles, biennial reports, and other entity documents, most of them online through Fast Track Filing. The forms-and-fees page publishes biennial report schedules and filing fees.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Anyone forming or maintaining an Iowa business entity"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Biennial reports follow the schedule on the forms-and-fees page."
+      }
+    ],
+    "prerequisites": [
+      "File online through Fast Track Filing or by paper form"
+    ],
+    "whatToBring": [
+      "Entity name and type",
+      "Registered agent information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State — Business Services",
+        "value": "515-281-5204"
+      },
+      {
+        "kind": "web",
+        "label": "Business entity forms and fees",
+        "value": "http://sos.iowa.gov/businesses/business-entity-forms-and-fees"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business entity forms and fees",
+        "url": "http://sos.iowa.gov/businesses/business-entity-forms-and-fees"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by form",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://sos.iowa.gov/businesses/business-entity-forms-and-fees"
+    ]
+  },
+  {
+    "id": "fed-social-security",
+    "name": "Social Security Benefits (Federal)",
+    "agency": "Social Security Administration",
+    "category": "Seniors",
+    "description": "Monthly federal payments: retirement (age 62+ with 10+ years of Social Security taxes), disability for people with a disability or blindness and enough work history, survivors' benefits for certain family members, family benefits, and Supplemental Security Income (SSI) for people 65+ or with a disability or blindness who have little income and resources.",
+    "scope": {
+      "level": "federal",
+      "state": "IA"
+    },
+    "eligibility": [
+      "U.S. residents meeting work-history, age, disability, or income criteria"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; some benefits can be paid retroactively."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or at a local Social Security office"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Birth certificate",
+      "Work history",
+      "Medical records (disability claims)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SSA benefit types page",
+        "value": "https://www.ssa.gov/benefits/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SSA benefit types and how to apply",
+        "url": "https://www.ssa.gov/benefits/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ssa.gov/benefits/"
+    ]
+  },
+  {
+    "id": "fed-irs-free-file",
+    "name": "IRS Free File (Federal)",
+    "agency": "Internal Revenue Service",
+    "category": "Money & Taxes",
+    "description": "Prepare and e-file a federal tax return for free through IRS Free File. Iowa residents are covered: guided tax software is available to ages 17–85 with $89,000 or less AGI or active-duty military; Free File Fillable Forms are available at any income level. Always start at IRS.gov/freefile — not at a partner's commercial site.",
+    "scope": {
+      "level": "federal",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Ages 17–85 with $89,000 or less AGI, or active-duty military (guided software)",
+      "Any income level (Fillable Forms)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax filing",
+        "note": "Available during tax season; current-year returns only."
+      }
+    ],
+    "prerequisites": [
+      "Start at IRS.gov/freefile and choose a partner or Fillable Forms"
+    ],
+    "whatToBring": [
+      "Income statements (W-2s, 1099s)",
+      "Prior-year AGI or self-select PIN",
+      "Deduction and credit documents"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IRS Free File page",
+        "value": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IRS Free File — do your taxes for free",
+        "url": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for qualifying filers",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
+    ]
   }
 ]
