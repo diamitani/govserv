@@ -52628,5 +52628,2047 @@
     "whatToBring": [
       "Business plan and financial records - varies by program; call ahead"
     ]
+  },
+  {
+    "id": "ok-snap",
+    "name": "SNAP — Food Assistance",
+    "agency": "Oklahoma Human Services (OKDHS)",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for eligible low-income Oklahoma households. Oklahoma's SNAP page ties eligibility to citizenship or qualified non-citizen status, income and work rules, with Social Security numbers for household members.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma households meeting income and resource rules — see program page for current figures",
+      "U.S. citizens and certain qualified non-citizens",
+      "Work requirements may apply to some adults without dependents",
+      "Social Security numbers required for household members included in the case"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; benefits begin after an approved interview and verification."
+      }
+    ],
+    "prerequisites": [
+      "Apply online at OKDHSLive",
+      "Complete an eligibility interview",
+      "Provide the verification documents OKDHS requests"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income and household expenses",
+      "Social Security numbers for household members",
+      "See the program page for the current document checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP information line",
+        "value": "1-888-328-6551"
+      },
+      {
+        "kind": "phone",
+        "label": "OKDHS general line",
+        "value": "(405) 522-5050"
+      },
+      {
+        "kind": "web",
+        "label": "OKDHSLive application portal",
+        "value": "https://www.okdhslive.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP at OKDHSLive",
+        "url": "https://www.okdhslive.org/"
+      },
+      {
+        "label": "SNAP program page",
+        "url": "https://oklahoma.gov/okdhs/services/snap.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://aem-prod.oklahoma.gov/okdhs/services/snap.html",
+      "https://www.okdhslive.org/"
+    ]
+  },
+  {
+    "id": "ok-tanf",
+    "name": "TANF — Temporary Assistance for Needy Families",
+    "agency": "Oklahoma Human Services (OKDHS)",
+    "category": "Family & Childcare",
+    "description": "Time-limited cash and basic-needs assistance for families with minor children, paired with employment services and child care support. Applicants must be responsible for a minor child, meet citizenship/qualified-status rules, and cooperate with child support and a work plan.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Responsible for a minor child",
+      "U.S. citizen or qualified non-citizen status",
+      "Cooperation with child support requirements",
+      "Participation in an approved work plan"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply through OKDHSLive",
+      "Complete an eligibility interview and work assessment"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income, resources, and household composition",
+      "Child's birth certificate or proof of relationship where requested"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TANF information",
+        "value": "(405) 521-4391"
+      },
+      {
+        "kind": "phone",
+        "label": "TANF statewide line",
+        "value": "1-866-411-1877"
+      },
+      {
+        "kind": "web",
+        "label": "OKDHSLive application portal",
+        "value": "https://www.okdhslive.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for TANF at OKDHSLive",
+        "url": "https://www.okdhslive.org/"
+      },
+      {
+        "label": "TANF program page",
+        "url": "https://oklahoma.gov/okdhs/services/tanf/tanfhome.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/services/tanf/tanfhome.html",
+      "https://www.okdhslive.org/"
+    ]
+  },
+  {
+    "id": "ok-child-care-subsidy",
+    "name": "Child Care Subsidy",
+    "agency": "Oklahoma Human Services (OKDHS)",
+    "category": "Family & Childcare",
+    "description": "Help paying for licensed child care for qualifying working families. Per a January 2026 OKDHS announcement, income eligibility was realigned to 55% of state median income effective July 1, 2026, and new applications and renewals are reviewed under the current guidelines.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma families meeting current income guidelines (realigned to 55% of state median income effective July 1, 2026)",
+      "Work, training, or education participation rules apply — see the program page for current details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Program status change",
+        "note": "OKDHS realigned eligibility effective July 1, 2026 and reviews applications and renewals under current guidelines. Confirm the current status on the program page or by phone before applying."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at a local OKDHS office or by phone",
+      "Provide income and work/training verification"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Proof of work, training, or school schedule",
+      "Child's information and chosen provider details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Child care subsidy line",
+        "value": "(405) 522-5050"
+      },
+      {
+        "kind": "web",
+        "label": "OKDHSLive (renewal status)",
+        "value": "https://www.okdhslive.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OKDHS January 2026 eligibility update",
+        "url": "https://oklahoma.gov/okdhs/newsroom/2026/january/comm01072026.html"
+      },
+      {
+        "label": "OKDHSLive",
+        "url": "https://www.okdhslive.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/newsroom/2026/january/comm01072026.html",
+      "https://www.okdhslive.org/"
+    ]
+  },
+  {
+    "id": "ok-child-support",
+    "name": "Child Support Services",
+    "agency": "OKDHS Office of Child Support Services",
+    "category": "Family & Childcare",
+    "description": "Establishes paternity, obtains court orders for support, and collects and enforces child support payments for Oklahoma families.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Parents, guardians, or custodians seeking to establish or enforce a support order",
+      "Varies — see the program page for who may open a case"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Complete the OCSS application overview process",
+      "Provide information about the child and the other parent"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Child's birth certificate",
+      "Any existing court orders",
+      "Income information where available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Oklahoma City office",
+        "value": "(405) 522-2273"
+      },
+      {
+        "kind": "phone",
+        "label": "Tulsa office",
+        "value": "(918) 295-3500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Child support application overview",
+        "url": "https://oklahoma.gov/okdhs/services/ocss/appovw.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply; enforcement services are provided by the state.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/services/ocss/appovw.html"
+    ]
+  },
+  {
+    "id": "ok-liheap",
+    "name": "LIHEAP — Low Income Home Energy Assistance",
+    "agency": "Oklahoma Human Services (OKDHS)",
+    "category": "Utilities",
+    "description": "Seasonal help with winter heating and summer cooling bills for eligible low-income Oklahoma households, administered by OKDHS.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma households meeting income guidelines — see the program page for current limits",
+      "Responsibility for home energy costs (directly or in rent)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "LIHEAP typically opens heating and cooling enrollment windows each year; check the program page for the current season's dates and availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply through OKDHSLive during the open enrollment window"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Recent utility bill or proof of energy costs",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OKDHS general line",
+        "value": "(405) 522-5050"
+      },
+      {
+        "kind": "web",
+        "label": "OKDHSLive application portal",
+        "value": "https://www.okdhslive.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at OKDHSLive",
+        "url": "https://www.okdhslive.org/"
+      },
+      {
+        "label": "LIHEAP program page",
+        "url": "https://oklahoma.gov/okdhs/services/liheap.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/services/liheap.html",
+      "https://www.okdhslive.org/"
+    ]
+  },
+  {
+    "id": "ok-aps",
+    "name": "Adult Protective Services — Abuse & Neglect Hotline",
+    "agency": "Oklahoma Human Services (OKDHS)",
+    "category": "Seniors",
+    "description": "Investigates reports of abuse, neglect, and exploitation of vulnerable adults age 18 and older who cannot protect themselves, and connects them with protective services. Anyone may report; reports can be anonymous and are accepted 24/7.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Reports concern vulnerable adults (18+) with disabilities or impairments limiting self-protection",
+      "Anyone with reasonable cause to suspect maltreatment may report — mandatory reporters must report promptly"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Always open",
+        "note": "The hotline operates 24 hours a day, 7 days a week. For life-threatening emergencies call 911 first."
+      }
+    ],
+    "prerequisites": [
+      "Call the hotline or file an online report — no account or prior enrollment needed"
+    ],
+    "whatToBring": [
+      "Name and location of the adult, if known",
+      "Description of the suspected abuse, neglect, or exploitation",
+      "Any known caregiver or facility information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Abuse and Neglect Hotline (24/7)",
+        "value": "1-800-522-3511"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Report suspected abuse or neglect online",
+        "url": "https://www.ourokdhs.org/s/reportabuse"
+      },
+      {
+        "label": "OKDHS adult-abuse awareness page",
+        "url": "https://oklahoma.gov/okdhs/newsroom/2006/october/aps10262006.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/newsroom/2006/october/aps10262006.html",
+      "https://www.ourokdhs.org/s/reportabuse"
+    ]
+  },
+  {
+    "id": "ok-soonercare",
+    "name": "SoonerCare (Oklahoma Medicaid)",
+    "agency": "Oklahoma Health Care Authority (OHCA)",
+    "category": "Healthcare",
+    "description": "Oklahoma's Medicaid program: doctor visits, hospital care, prescriptions, dental, behavioral health, and related services for eligible children, pregnant people, parents and caretaker relatives, seniors, and people with disabilities.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma residents meeting income and category rules — see the eligibility guidelines for current figures",
+      "Citizenship or qualified-status requirements apply",
+      "Covered groups include children, pregnant people, parents/caretakers, adults 19-64, seniors, and people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through MySoonerCare",
+      "Provide household, income, and citizenship information"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of income",
+      "Proof of Oklahoma residency",
+      "Citizenship or immigration documentation where applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SoonerCare helpline",
+        "value": "1-800-987-7767"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through MySoonerCare",
+        "url": "https://oklahoma.gov/ohca/individuals/mysoonercare.html"
+      },
+      {
+        "label": "OHCA homepage",
+        "url": "https://oklahoma.gov/ohca.html"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/ohca/individuals/mysoonercare.html",
+      "https://oklahoma.gov/ohca.html"
+    ]
+  },
+  {
+    "id": "ok-wic",
+    "name": "WIC — Women, Infants, and Children",
+    "agency": "Oklahoma State Department of Health",
+    "category": "Food",
+    "description": "Nutrition program providing healthy foods, nutrition education, breastfeeding support, health screening, and referrals for pregnant, postpartum, and breastfeeding women, infants, and children under 5.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma residents in the covered categories (pregnant/postpartum/breastfeeding women, infants, children under 5)",
+      "Meet income guidelines and nutritional-risk criteria — contact a local WIC clinic for a free certification visit"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Contact a local WIC clinic for a certification appointment"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Oklahoma residency",
+      "Proof of income",
+      "Immunization records for infants/children if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State WIC office",
+        "value": "(405) 426-8500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma WIC program page",
+        "url": "https://oklahoma.gov/health/services/children-family-health/wic.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/health/services/children-family-health/wic.html"
+    ]
+  },
+  {
+    "id": "ok-unemployment-insurance",
+    "name": "Unemployment Insurance",
+    "agency": "Oklahoma Employment Security Commission (OESC)",
+    "category": "Employment",
+    "description": "Temporary weekly benefits for Oklahoma workers who lost their jobs through no fault of their own. Claims are filed and certified through OESC, which also runs reemployment services.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Earned sufficient wages during the base period",
+      "Unemployed through no fault of your own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; weekly certifications are required to keep receiving benefits."
+      }
+    ],
+    "prerequisites": [
+      "File a claim with OESC",
+      "Complete weekly benefit certifications",
+      "Register for work as directed"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and addresses for the last 18 months",
+      "Dates of employment and reason for separation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OESC claimant line",
+        "value": "405-525-1500"
+      },
+      {
+        "kind": "phone",
+        "label": "OESC main line",
+        "value": "405-557-7100"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OESC — file and manage unemployment claims",
+        "url": "https://oklahoma.gov/oesc.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/oesc.html"
+    ]
+  },
+  {
+    "id": "ok-service-oklahoma",
+    "name": "Driver Licenses & Vehicle Services",
+    "agency": "Service Oklahoma",
+    "category": "Transportation",
+    "description": "Driver licenses and ID cards (including REAL ID), vehicle registration and tag renewal, disability placards, and related motor-vehicle services for Oklahomans.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma residents needing a license, ID card, or vehicle transaction",
+      "REAL ID requires additional identity documents — use the SOK document checklist"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Use the Service Oklahoma document checklist for your transaction",
+      "Some services require an in-person visit to a licensed operator or exam site"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Proof of Oklahoma residency",
+      "Current license/registration for renewals",
+      "See the Documents Checklist on the Service Oklahoma page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Service Oklahoma — all driver and vehicle services",
+        "value": "https://oklahoma.gov/service.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Service Oklahoma",
+        "url": "https://oklahoma.gov/service.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by service; see Service Oklahoma for the current fee schedule.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/service.html"
+    ]
+  },
+  {
+    "id": "ok-voter-registration",
+    "name": "Voter Registration & Voter Portal",
+    "agency": "Oklahoma State Election Board",
+    "category": "Legal Aid",
+    "description": "Register to vote, check your registration status, find your polling place, and request absentee ballots through the official OK Voter Portal.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Oklahoma resident",
+      "18 years or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Election-linked",
+        "note": "Registration closes before each election; check the portal for the current deadline."
+      }
+    ],
+    "prerequisites": [
+      "Submit a registration application online, by mail, or in person",
+      "Update your registration after a move or name change"
+    ],
+    "whatToBring": [
+      "Oklahoma driver license or state ID number (for online registration)",
+      "Last four digits of your Social Security number where required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "OK Voter Portal",
+        "value": "https://okvoterportal.okelections.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OK Voter Portal — register and check status",
+        "url": "https://okvoterportal.okelections.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://okvoterportal.okelections.gov/"
+    ]
+  },
+  {
+    "id": "ok-tax-commission",
+    "name": "Individual Income Tax Filing (OkTAP)",
+    "agency": "Oklahoma Tax Commission",
+    "category": "Money & Taxes",
+    "description": "File and pay Oklahoma individual income taxes, check refund status, and manage tax accounts online 24/7 through OkTAP (Taxpayer Access Point); in-person help is available by appointment.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Anyone with an Oklahoma individual income tax filing obligation",
+      "Businesses use OkTAP for sales, withholding, and other state taxes"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File by the annual state income tax deadline; check the Tax Commission calendar for the current year's date."
+      }
+    ],
+    "prerequisites": [
+      "Create or sign in to an OkTAP account",
+      "Have your federal return information available when filing a state return"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal adjusted gross income and return details",
+      "W-2s and 1099s",
+      "Prior-year Oklahoma return if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Oklahoma Tax Commission — OkTAP online services",
+        "value": "https://oklahoma.gov/tax.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma Tax Commission / OkTAP",
+        "url": "https://oklahoma.gov/tax.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to file through OkTAP; taxes owed are separate.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/tax.html"
+    ]
+  },
+  {
+    "id": "ok-veterans-affairs",
+    "name": "Veterans Services",
+    "agency": "Oklahoma Department of Veterans Affairs (ODVA)",
+    "category": "Veterans",
+    "description": "State veterans benefits counseling and claims assistance, state veterans homes, and the Oklahoma Veterans Registry.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Veterans, service members, and their families residing in Oklahoma",
+      "Program-specific eligibility (veterans homes, registry) — see the department page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Contact ODVA or a veterans service officer for a benefits review"
+    ],
+    "whatToBring": [
+      "DD214 or other discharge documentation",
+      "VA correspondence if already filed",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ODVA main line",
+        "value": "405-523-4000"
+      },
+      {
+        "kind": "phone",
+        "label": "ODVA toll-free",
+        "value": "(833) 993-0234"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma Department of Veterans Affairs",
+        "url": "https://oklahoma.gov/veterans.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/veterans.html"
+    ]
+  },
+  {
+    "id": "ok-vocational-rehabilitation",
+    "name": "Vocational Rehabilitation",
+    "agency": "Oklahoma Department of Rehabilitation Services (DRS)",
+    "category": "Employment",
+    "description": "Employment services for Oklahomans with disabilities: career counseling, training and education support, assistive technology, and job placement.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahomans with a physical or mental disability that is a barrier to employment",
+      "Must be able to benefit from services toward an employment outcome"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply for services through DRS",
+      "Complete an eligibility determination and individualized plan for employment"
+    ],
+    "whatToBring": [
+      "Documentation of disability where available",
+      "Work history and employment goals",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DRS main line",
+        "value": "(405) 951-3400"
+      },
+      {
+        "kind": "phone",
+        "label": "DRS toll-free",
+        "value": "(800) 845-8476"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma Department of Rehabilitation Services",
+        "url": "https://oklahoma.gov/okdrs.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdrs.html"
+    ]
+  },
+  {
+    "id": "ok-dds",
+    "name": "Developmental Disabilities Services",
+    "agency": "OKDHS Developmental Disabilities Services Division",
+    "category": "Disability",
+    "description": "Home- and community-based waiver services and supports for Oklahomans with intellectual and developmental disabilities, focused on living as independently as possible in the community.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahomans with intellectual or developmental disabilities meeting waiver criteria",
+      "Varies — see the division page for current intake rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the DDS division",
+      "Complete an eligibility and needs assessment"
+    ],
+    "whatToBring": [
+      "Documentation of diagnosis",
+      "Photo ID and residency information",
+      "Current service or school records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DDS information",
+        "value": "(405) 522-3221"
+      },
+      {
+        "kind": "phone",
+        "label": "OKDHS general line",
+        "value": "(405) 522-5050"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Developmental Disabilities Services",
+        "url": "https://oklahoma.gov/okdhs/services/dds.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/okdhs/services/dds.html"
+    ]
+  },
+  {
+    "id": "ok-ohfa",
+    "name": "Housing Programs (OHFA)",
+    "agency": "Oklahoma Housing Finance Agency",
+    "category": "Housing",
+    "description": "OHFA's homebuyer down payment assistance (3.5% program), Housing Stability Program, and rental assistance resources for eligible Oklahomans.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Program-specific income and purchase-price limits — see OHFA for current figures",
+      "Homebuyer programs generally require working through an OHFA participating lender"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Review the program requirements on ohfa.org",
+      "For homebuyer assistance, contact an OHFA participating lender"
+    ],
+    "whatToBring": [
+      "Income and employment documentation",
+      "For home purchase: lender pre-approval materials",
+      "See the program page for each program's checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Oklahoma Housing Finance Agency",
+        "value": "https://www.ohfa.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OHFA — homebuyer, rental, and stability programs",
+        "url": "https://www.ohfa.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to review programs; loan and program fees vary.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ohfa.org/"
+    ]
+  },
+  {
+    "id": "ok-oklahomas-promise",
+    "name": "Oklahoma's Promise Scholarship",
+    "agency": "Oklahoma State Regents for Higher Education",
+    "category": "Education",
+    "description": "Full-tuition scholarship at Oklahoma public colleges and universities for students who enroll in 8th, 9th, or 10th grade, complete the required high school coursework, and meet family income limits.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma residents enrolling during 8th, 9th, or 10th grade",
+      "Family income within program limits at application and renewal",
+      "Completion of the required 17-unit high school curriculum"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Grade-window",
+        "note": "Students must apply during 8th, 9th, or 10th grade; see the program page for the current application window."
+      }
+    ],
+    "prerequisites": [
+      "Apply during the eligible grade window",
+      "Complete required coursework and maintain program standards in high school"
+    ],
+    "whatToBring": [
+      "Student and parent income information",
+      "School enrollment information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Oklahoma's Promise",
+        "value": "405-225-9152"
+      },
+      {
+        "kind": "phone",
+        "label": "Oklahoma's Promise toll-free",
+        "value": "800-858-1840"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma's Promise",
+        "url": "https://okpromise.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee to apply.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://okpromise.org/"
+    ]
+  },
+  {
+    "id": "ok-careertech",
+    "name": "CareerTech",
+    "agency": "Oklahoma Department of Career and Technology Education",
+    "category": "Education",
+    "description": "Career and technology education across Oklahoma: full-time career programs, adult education and family literacy, industry certifications, and workforce training delivered through technology centers statewide.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Varies by program — full-time career programs, adult education, and short-term workforce training each have their own rules",
+      "See the CareerTech page for program-specific eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Explore programs and contact a local technology center",
+      "Complete that center's enrollment process"
+    ],
+    "whatToBring": [
+      "Varies by program — see the program or technology center page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Oklahoma CareerTech",
+        "value": "https://oklahoma.gov/careertech.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma CareerTech",
+        "url": "https://oklahoma.gov/careertech.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Costs vary by program; see the technology center for tuition and aid options.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/careertech.html"
+    ]
+  },
+  {
+    "id": "ok-legal-aid",
+    "name": "Legal Aid Services of Oklahoma",
+    "agency": "Legal Aid Services of Oklahoma",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income Oklahomans: housing and eviction defense, domestic and family issues, health-coverage problems, and senior legal issues through the OK-SPLASH program.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Low-income Oklahoma residents facing civil legal problems",
+      "Intake screens for income eligibility and case type"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or call the intake line",
+      "Complete an intake screening"
+    ],
+    "whatToBring": [
+      "Description of the legal problem",
+      "Related documents (lease, court papers, notices)",
+      "Income information for the eligibility screen"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid intake line",
+        "value": "1-888-534-5243"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Legal Aid Services of Oklahoma",
+        "url": "https://legalaidok.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible clients.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://legalaidok.org/"
+    ]
+  },
+  {
+    "id": "ok-able-tech",
+    "name": "Oklahoma ABLE Tech",
+    "agency": "Oklahoma ABLE Tech (Oklahoma's assistive technology program)",
+    "category": "Disability",
+    "description": "Assistive technology device demonstrations, short-term device loans, and guidance on funding so Oklahomans with disabilities can try the right equipment before obtaining it.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahomans with disabilities who could benefit from assistive technology",
+      "Open to individuals, families, educators, and employers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Contact ABLE Tech to schedule a demonstration or device loan"
+    ],
+    "whatToBring": [
+      "Description of the functional need or task",
+      "Any relevant therapy or school evaluations if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ABLE Tech",
+        "value": "405-744-9748"
+      },
+      {
+        "kind": "phone",
+        "label": "ABLE Tech toll-free",
+        "value": "800-257-1705"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma ABLE Tech",
+        "url": "https://www.okabletech.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Demonstrations and device loans are free; device purchase costs vary.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.okabletech.org/"
+    ]
+  },
+  {
+    "id": "ok-sbdc",
+    "name": "Oklahoma Small Business Development Center",
+    "agency": "Oklahoma Small Business Development Center",
+    "category": "Small Business",
+    "description": "Free one-on-one business advising, training workshops, and help with SBA disaster-loan applications for Oklahoma small businesses and startups.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma small-business owners and aspiring entrepreneurs",
+      "No-cost advising — registration required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Register for advising on the SBDC site",
+      "Bring business documents to the advising session"
+    ],
+    "whatToBring": [
+      "Business plan or business idea summary",
+      "Financial statements or projections if available"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Oklahoma SBDC — register for advising",
+        "value": "https://www.oksbdc.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma SBDC",
+        "url": "https://www.oksbdc.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Advising is free; some workshops may have fees.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.oksbdc.org/"
+    ]
+  },
+  {
+    "id": "ok-commerce",
+    "name": "Business Incentives & Support",
+    "agency": "Oklahoma Department of Commerce",
+    "category": "Small Business",
+    "description": "State business incentives, site-selection assistance, and workforce programs for companies locating, expanding, or investing in Oklahoma.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Businesses considering Oklahoma locations or expansions",
+      "Incentive-specific investment and job-creation thresholds — see the department page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Department of Commerce business team",
+      "Provide project details for an incentives review"
+    ],
+    "whatToBring": [
+      "Business description and project scope",
+      "Planned investment and hiring figures"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Department of Commerce",
+        "value": "405-815-6552"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-879-6552"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma Department of Commerce",
+        "url": "https://www.okcommerce.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to inquire; incentive terms vary by program.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.okcommerce.gov/"
+    ]
+  },
+  {
+    "id": "ok-occ",
+    "name": "Consumer & Utility Services",
+    "agency": "Oklahoma Corporation Commission",
+    "category": "Utilities",
+    "description": "Regulates oil and gas, public utilities, and motor carriers in Oklahoma, and takes consumer complaints about regulated utility services.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma consumers with complaints about regulated utilities or carriers",
+      "Industry filers use the commission's divisions directly"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "File a consumer complaint through the commission or call the consumer line"
+    ],
+    "whatToBring": [
+      "Account and billing details for the complaint",
+      "Copies of relevant bills or notices"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Corporation Commission",
+        "value": "(405) 521-2211"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma Corporation Commission",
+        "url": "https://oklahoma.gov/occ.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file a consumer complaint.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://oklahoma.gov/occ.html"
+    ]
+  },
+  {
+    "id": "ok-211",
+    "name": "211 Oklahoma — Community Resource Referral",
+    "agency": "211 (United Way network)",
+    "category": "Legal Aid",
+    "description": "Free, confidential referral helpline connecting Oklahomans with local food, housing, utility, health, and crisis resources. Dial 2-1-1 from any phone.",
+    "scope": {
+      "level": "state",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Anyone in Oklahoma seeking referrals to local help",
+      "No eligibility screen to call"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7."
+      }
+    ],
+    "prerequisites": [
+      "Dial 2-1-1 or use the online search"
+    ],
+    "whatToBring": [
+      "Your ZIP code and a description of what you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1 (toll-free referral line)",
+        "value": "211"
+      },
+      {
+        "kind": "web",
+        "label": "211.org — search local resources",
+        "value": "https://www.211.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "211.org — find local help",
+        "url": "https://www.211.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.211.org/"
+    ]
+  },
+  {
+    "id": "okc-embark",
+    "name": "EMBARK Public Transit (Oklahoma City)",
+    "agency": "Central Oklahoma Transportation and Parking Authority (EMBARK)",
+    "category": "Transportation",
+    "description": "Bus, OKC Streetcar, paratransit, and downtown parking for the Oklahoma City metro, operated by EMBARK.",
+    "scope": {
+      "level": "city",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Reduced fares and paratransit eligibility vary — see EMBARK for details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Plan your trip on embarkok.com",
+      "Purchase fare or pass before boarding where required"
+    ],
+    "whatToBring": [
+      "Fare or pass",
+      "Photo ID for reduced-fare or paratransit programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EMBARK customer service",
+        "value": "(405) 235-7433"
+      },
+      {
+        "kind": "web",
+        "label": "EMBARK",
+        "value": "https://www.embarkok.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EMBARK — routes, fares, and schedules",
+        "url": "https://www.embarkok.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; see EMBARK for current passes and reduced-fare options.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.embarkok.com/"
+    ]
+  },
+  {
+    "id": "norman-embark",
+    "name": "EMBARK Norman Transit",
+    "agency": "Central Oklahoma Transportation and Parking Authority (EMBARK)",
+    "category": "Transportation",
+    "description": "Local bus service for the City of Norman, operated by EMBARK, connecting neighborhoods, the University of Oklahoma area, and regional routes.",
+    "scope": {
+      "level": "city",
+      "city": "Norman",
+      "county": "Cleveland County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Open to all riders",
+      "Reduced fares and paratransit eligibility vary — see EMBARK for details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Check Norman routes and schedules on the EMBARK Norman page"
+    ],
+    "whatToBring": [
+      "Fare or pass",
+      "Photo ID for reduced-fare or paratransit programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "EMBARK customer service",
+        "value": "(405) 235-7433"
+      },
+      {
+        "kind": "web",
+        "label": "EMBARK Norman",
+        "value": "https://www.embarkok.com/norman/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EMBARK Norman — routes and schedules",
+        "url": "https://www.embarkok.com/norman/"
+      },
+      {
+        "label": "City of Norman transit & parking page",
+        "url": "https://www.normanok.gov/residents-visitors/transit-parking"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares apply; see EMBARK for current passes and reduced-fare options.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.embarkok.com/norman/",
+      "https://www.normanok.gov/residents-visitors/transit-parking"
+    ]
+  },
+  {
+    "id": "okc-health-department",
+    "name": "Oklahoma City-County Health Department",
+    "agency": "Oklahoma City-County Health Department (OCCHD)",
+    "category": "Healthcare",
+    "description": "Clinics, immunizations, WIC, restaurant inspections, and public health services for Oklahoma County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Oklahoma County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma County residents; some clinic services have income or program rules — see OCCHD for details"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit the OCCHD site to find the right clinic and schedule"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance or Medicaid card if insured",
+      "Immunization records for vaccine visits"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OCCHD main line",
+        "value": "405-427-8651"
+      },
+      {
+        "kind": "web",
+        "label": "OCCHD",
+        "value": "https://occhd.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Oklahoma City-County Health Department",
+        "url": "https://occhd.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Many public health services are free or low-cost; fees vary by clinic service.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://occhd.org/"
+    ]
+  },
+  {
+    "id": "tulsa-health-department",
+    "name": "Tulsa Health Department",
+    "agency": "Tulsa Health Department",
+    "category": "Healthcare",
+    "description": "Immunizations, WIC, family planning, restaurant inspections, vital records, and disease prevention for Tulsa County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Tulsa County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Tulsa County residents; some services have program-specific rules — see the department site"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Find the service location and schedule on tulsa-health.org"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Insurance or Medicaid card if insured",
+      "Immunization records for vaccine visits"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tulsa Health Department",
+        "value": "918-582-9355"
+      },
+      {
+        "kind": "web",
+        "label": "Tulsa Health Department",
+        "value": "https://tulsa-health.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tulsa Health Department",
+        "url": "https://tulsa-health.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Many public health services are free or low-cost; fees vary by service.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tulsa-health.org/"
+    ]
+  },
+  {
+    "id": "okc-metro-library",
+    "name": "Metropolitan Library System",
+    "agency": "Metropolitan Library System",
+    "category": "Education",
+    "description": "Free library cards, books and media, public computers, job-search help, and children's and teen programs across the Oklahoma City metro.",
+    "scope": {
+      "level": "city",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Residents of the library service area — see the library site for card eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID with current address (or address verification documents) for a full card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metropolitan Library System",
+        "value": "(405) 231-8650"
+      },
+      {
+        "kind": "web",
+        "label": "Metropolitan Library System",
+        "value": "https://www.metrolibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Metropolitan Library System",
+        "url": "https://www.metrolibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Library cards are free for eligible residents.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.metrolibrary.org/"
+    ]
+  },
+  {
+    "id": "tulsa-county-library",
+    "name": "Tulsa City-County Library",
+    "agency": "Tulsa City-County Library",
+    "category": "Education",
+    "description": "Free library cards, books and media, public computers, job and career resources, and children's programs across Tulsa County, including the Broken Arrow libraries.",
+    "scope": {
+      "level": "county",
+      "county": "Tulsa County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Tulsa County residents — see the library site for card eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply for a card online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID with current address (or address verification documents) for a full card"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tulsa City-County Library",
+        "value": "918-549-7323"
+      },
+      {
+        "kind": "web",
+        "label": "Tulsa City-County Library",
+        "value": "https://www.tulsalibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tulsa City-County Library",
+        "url": "https://www.tulsalibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Library cards are free for eligible residents.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.tulsalibrary.org/"
+    ]
+  },
+  {
+    "id": "tulsa-311",
+    "name": "Tulsa 311 — City Services",
+    "agency": "City of Tulsa — Working in Neighborhoods",
+    "category": "Legal Aid",
+    "description": "Non-emergency access to City of Tulsa services: report potholes, code violations, missed trash, streetlight outages, and get routed to the right department by calling 311, chatting, or reporting online.",
+    "scope": {
+      "level": "city",
+      "city": "Tulsa",
+      "county": "Tulsa County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Anyone needing non-emergency City of Tulsa services",
+      "For emergencies call 911"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Call 311, start an online chat, or use the online reporting form"
+    ],
+    "whatToBring": [
+      "Address or location of the issue",
+      "Description and photos of the problem if reporting online"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Call 311",
+        "value": "311"
+      },
+      {
+        "kind": "web",
+        "label": "Tulsa 311",
+        "value": "https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tulsa 311 — report and request services",
+        "url": "https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cityoftulsa.org/government/departments/working-in-neighborhoods/311"
+    ]
+  },
+  {
+    "id": "tulsa-county-social-services",
+    "name": "Tulsa County Social Services",
+    "agency": "Tulsa County",
+    "category": "Housing",
+    "description": "Basic necessities, pharmacy assistance, shelter and transitional living, and indigent cremation services for low-income Tulsa County residents.",
+    "scope": {
+      "level": "county",
+      "county": "Tulsa County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Low-income Tulsa County residents — services are need-based; call for current program rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Call the department for an intake screening"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of Tulsa County residency",
+      "Proof of income or need",
+      "See the department page for program-specific documents"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Tulsa County Social Services",
+        "value": "918-596-5560"
+      },
+      {
+        "kind": "phone",
+        "label": "Tulsa County main line",
+        "value": "918-596-5000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tulsa County Social Services",
+        "url": "https://www2.tulsacounty.org/government/departments-offices/social-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Services are need-based; no application fee.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www2.tulsacounty.org/government/departments-offices/social-services"
+    ]
+  },
+  {
+    "id": "edmond-housing-utility-assistance",
+    "name": "Edmond Housing & Utility Assistance",
+    "agency": "City of Edmond",
+    "category": "Housing",
+    "description": "City-published directory of local providers — including the HOPE Center of Edmond and Samaritan House — offering rent, utility, food, prescription, and clothing help to qualifying households in Edmond-area ZIP codes.",
+    "scope": {
+      "level": "city",
+      "city": "Edmond",
+      "county": "Oklahoma County",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Households in the listed Edmond-area ZIP codes (e.g., 73003, 73007, 73012, 73013, 73025, 73034 for the HOPE Center)",
+      "Assistance is based on need and income — contact the provider directly"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Providers keep their own hours — e.g., HOPE Center Mon–Thu 8:30am–4pm, Fri 8:30am–noon."
+      }
+    ],
+    "prerequisites": [
+      "Contact the listed provider directly (HOPE Center, Samaritan House, or others on the city page)"
+    ],
+    "whatToBring": [
+      "Photo ID",
+      "Proof of address in the service ZIP codes",
+      "Proof of income or need",
+      "Utility bill or lease for rent/utility help"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HOPE Center of Edmond",
+        "value": "405-348-1340"
+      },
+      {
+        "kind": "phone",
+        "label": "Samaritan House",
+        "value": "405-216-7554"
+      },
+      {
+        "kind": "in-person",
+        "label": "HOPE Center of Edmond",
+        "value": "1251 N. Broadway, Edmond"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "City of Edmond — Housing & Utility Assistance",
+        "url": "https://edmondok.gov/1881/Housing-Utility-Assistance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No fee; assistance is need-based.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://edmondok.gov/1881/Housing-Utility-Assistance"
+    ]
+  },
+  {
+    "id": "fed-va-oklahoma-city",
+    "name": "VA Oklahoma City Health Care",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "VA hospital and community clinics serving veterans in central and western Oklahoma: primary care, specialty care, mental health, and pharmacy services.",
+    "scope": {
+      "level": "federal",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care",
+      "Eligibility depends on service history, discharge status, and income — apply for enrollment to determine eligibility"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Apply for VA health care enrollment online, by phone, or in person"
+    ],
+    "whatToBring": [
+      "DD214 or service records",
+      "Photo ID",
+      "Income information for enrollment determination"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VA benefits line (unverified)",
+        "value": "1-800-827-1000"
+      },
+      {
+        "kind": "web",
+        "label": "VA Oklahoma City Health Care",
+        "value": "https://www.va.gov/oklahoma-city-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Oklahoma City Health Care",
+        "url": "https://www.va.gov/oklahoma-city-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No enrollment fee; copays may apply based on priority group.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/oklahoma-city-health-care/"
+    ]
+  },
+  {
+    "id": "fed-sba-oklahoma",
+    "name": "SBA Oklahoma District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Federal small-business loans, free counseling, and contracting assistance through the SBA's Oklahoma district office.",
+    "scope": {
+      "level": "federal",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Oklahoma small businesses meeting SBA size standards",
+      "Varies by loan and contracting program — see the district office"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Contact the district office or an SBA resource partner (SBDC, SCORE)"
+    ],
+    "whatToBring": [
+      "Business plan",
+      "Financial statements",
+      "Loan-purpose details for financing programs"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA Oklahoma District Office",
+        "value": "405-609-8000"
+      },
+      {
+        "kind": "web",
+        "label": "SBA Oklahoma District",
+        "value": "https://legacy.sba.gov/district/oklahoma"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Oklahoma District Office",
+        "url": "https://legacy.sba.gov/district/oklahoma"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Counseling is free; loan fees vary by program.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://legacy.sba.gov/district/oklahoma"
+    ]
+  },
+  {
+    "id": "fed-hud-oklahoma",
+    "name": "HUD in Oklahoma",
+    "agency": "U.S. Department of Housing and Urban Development",
+    "category": "Housing",
+    "description": "Federal housing resources for Oklahoma: HUD-approved housing counseling, fair housing complaint filing, and contacts for local public housing authorities.",
+    "scope": {
+      "level": "federal",
+      "state": "OK"
+    },
+    "eligibility": [
+      "Anyone seeking housing counseling or filing a fair housing complaint",
+      "Program-specific rules for public housing and vouchers through local housing authorities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted on an ongoing basis; see the program page for current availability."
+      }
+    ],
+    "prerequisites": [
+      "Find a HUD-approved counselor or file a complaint through hud.gov"
+    ],
+    "whatToBring": [
+      "Description of the housing issue",
+      "Lease or loan documents where relevant"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD housing counseling line (unverified)",
+        "value": "800-569-4287"
+      },
+      {
+        "kind": "web",
+        "label": "HUD Oklahoma",
+        "value": "https://www.hud.gov/states/oklahoma"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD in Oklahoma",
+        "url": "https://www.hud.gov/states/oklahoma"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Housing counseling through HUD-approved agencies is typically free.",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/states/oklahoma"
+    ]
   }
 ]
