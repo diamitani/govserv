@@ -86037,5 +86037,1869 @@
     "whatToBring": [
       "Employment records related to your question or complaint"
     ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — Self-Service Portal",
+        "url": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Support Center (toll-free)",
+        "value": "1-866-614-6005"
+      },
+      {
+        "kind": "email",
+        "label": "Customer Support Center email",
+        "value": "applyforhelp@nd.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Self-Service Portal",
+        "value": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Monthly food benefits for eligible low-income North Dakota households, loaded on an EBT card. Apply online through the Self-Service Portal, at a local human service zone office, or through the Customer Support Center at 1-866-614-6005.",
+    "eligibility": [
+      "North Dakota residents",
+      "Income and household eligibility determined by HHS — see program page"
+    ],
+    "id": "nd-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — North Dakota",
+    "prerequisites": [
+      "Create a North Dakota Login to use the Self-Service Portal at www.applyforhelp.nd.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.applyforhelp.nd.gov",
+      "https://www.hhs.nd.gov/sites/www/files/documents/EA/Application-for-Assistance-Guidebook.pdf",
+      "https://www.hhs.nd.gov/service-locations/human-service/zones"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — Self-Service Portal",
+        "url": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Support Center (toll-free)",
+        "value": "1-866-614-6005"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid eligibility information",
+        "value": "https://www.hhs.nd.gov/healthcare/medicaid/eligibility"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Health coverage for eligible low-income North Dakotans. Apply online through the Self-Service Portal, in person at a local human service zone office, or through the Customer Support Center at 1-866-614-6005.",
+    "eligibility": [
+      "North Dakota residents",
+      "Eligibility varies by Medicaid program category — see program page"
+    ],
+    "id": "nd-medicaid",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Medicaid",
+    "prerequisites": [
+      "Create a North Dakota Login to use the Self-Service Portal at www.applyforhelp.nd.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.hhs.nd.gov/healthcare/medicaid/eligibility",
+      "https://www.applyforhelp.nd.gov",
+      "https://www.hhs.nd.gov/service-locations/human-service/zones"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — Self-Service Portal",
+        "url": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Support Center (toll-free)",
+        "value": "1-866-614-6005"
+      },
+      {
+        "kind": "web",
+        "label": "Self-Service Portal",
+        "value": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Temporary cash assistance plus work-readiness, training, and job-placement services for low-income North Dakota families with children. Apply online through the Self-Service Portal, at a local human service zone office, or through the Customer Support Center at 1-866-614-6005.",
+    "eligibility": [
+      "Low-income North Dakota families with children",
+      "Income and program rules — see program page"
+    ],
+    "id": "nd-tanf",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance for Needy Families (TANF) — North Dakota",
+    "prerequisites": [
+      "Create a North Dakota Login to use the Self-Service Portal at www.applyforhelp.nd.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.applyforhelp.nd.gov",
+      "https://www.hhs.nd.gov/sites/www/files/documents/EA/Application-for-Assistance-Guidebook.pdf",
+      "https://www.hhs.nd.gov/service-locations/human-service/zones"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — Self-Service Portal",
+        "url": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Support Center (toll-free)",
+        "value": "1-866-614-6005"
+      },
+      {
+        "kind": "phone",
+        "label": "Community Options (HHS partner agency)",
+        "value": "(800) 823-2417"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "Application window is seasonal; check the program page for the current year's dates."
+      }
+    ],
+    "description": "Federally funded help with heating costs for qualifying North Dakota households, plus weatherization services and emergency fuel assistance. The application window is seasonal; HHS's last published window was Oct. 2, 2023 through May 31, 2024. Apply online at applyforhelp.nd.gov, at a human service zone office, or by mail.",
+    "eligibility": [
+      "Qualifying North Dakota households",
+      "Both homeowners and renters",
+      "Households with heating costs included in rent or receiving housing assistance with heat included are not eligible"
+    ],
+    "id": "nd-liheap",
+    "languages": [
+      "English"
+    ],
+    "name": "Low Income Home Energy Assistance Program (LIHEAP) — North Dakota",
+    "prerequisites": [
+      "Apply online, in person at a human service zone office, or by mail"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.hhs.nd.gov/news/application-window-heating-assistance-now-open-north-dakotans",
+      "https://www.hhs.nd.gov/sites/www/files/documents/EA/Application-for-Assistance-Guidebook.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "How to apply for WIC",
+        "url": "https://www.hhs.nd.gov/food-programs/WIC/apply"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ND HHS (as listed on WIC page)",
+        "value": "701-328-2310"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for WIC",
+        "value": "https://www.hhs.nd.gov/food-programs/WIC/apply"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Supplemental foods, nutrition education, breastfeeding support, and health-care referrals for pregnant and postpartum women, infants, and children through age 5. Apply at a local WIC agency; see the HHS WIC apply page for how to start.",
+    "eligibility": [
+      "Pregnant and postpartum women, infants, and children through age 5",
+      "Income guidelines — see program page"
+    ],
+    "id": "nd-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC — Women, Infants, and Children (North Dakota)",
+    "prerequisites": [
+      "Contact a local WIC agency to begin the application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.hhs.nd.gov/food-programs/WIC/apply",
+      "https://www.hhs.nd.gov/food-programs/WIC/referrals"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "Apply online — Self-Service Portal",
+        "url": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Support Center (toll-free)",
+        "value": "1-866-614-6005"
+      },
+      {
+        "kind": "web",
+        "label": "Self-Service Portal",
+        "value": "https://www.applyforhelp.nd.gov"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Help paying for child care for North Dakota families who are working, in education or training, or in other allowable activities. Apply online through the Self-Service Portal, at a local human service zone office, or through the Customer Support Center at 1-866-614-6005.",
+    "eligibility": [
+      "Families with children under 13",
+      "Parents working or in education/training",
+      "Income guidelines — see program page"
+    ],
+    "id": "nd-ccap",
+    "languages": [
+      "English"
+    ],
+    "name": "Child Care Assistance Program (CCAP) — North Dakota",
+    "prerequisites": [
+      "Create a North Dakota Login to use the Self-Service Portal at www.applyforhelp.nd.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.applyforhelp.nd.gov",
+      "https://www.hhs.nd.gov/sites/www/files/documents/EA/Application-for-Assistance-Guidebook.pdf",
+      "https://www.hhs.nd.gov/service-locations/human-service/zones"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "About Vocational Rehabilitation",
+        "url": "https://www.hhs.nd.gov/vr/about"
+      },
+      {
+        "label": "Regional office locations",
+        "url": "https://www.hhs.nd.gov/vr/regional-offices"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vocational Rehabilitation (toll-free)",
+        "value": "800-755-2745"
+      },
+      {
+        "kind": "web",
+        "label": "Regional office locations",
+        "value": "https://www.hhs.nd.gov/vr/regional-offices"
+      }
+    ],
+    "cost": "Most services free; some on a sliding fee scale",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Employment services for North Dakotans with disabilities: help preparing for, obtaining, keeping, or advancing in employment, including counseling, training, and placement. Most services have no cost; some use a sliding fee scale. Regional offices serve Bismarck, Fargo, Grand Forks, Minot, and other areas.",
+    "eligibility": [
+      "North Dakotans with disabilities who face barriers to employment",
+      "Varies — see program page"
+    ],
+    "id": "nd-vocational-rehabilitation",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Vocational Rehabilitation",
+    "prerequisites": [
+      "Contact a regional office to begin the application process"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.hhs.nd.gov/vr/about",
+      "https://www.hhs.nd.gov/vr/regional-offices"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ]
+  },
+  {
+    "agency": "North Dakota University System (NDUS)",
+    "applyLinks": [
+      {
+        "label": "ND State Grant and Scholarship Programs chart (NDUS)",
+        "url": "https://s3.cdn.ndus.edu/ndus-web/media/ND-State-Programs-chart-of-programs-25-26-1.pdf"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ND State Grant and Scholarship Programs chart (NDUS)",
+        "value": "https://s3.cdn.ndus.edu/ndus-web/media/ND-State-Programs-chart-of-programs-25-26-1.pdf"
+      }
+    ],
+    "cost": "Free (non-repayable grant)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Complete the FAFSA annually; awards are made until funds are exhausted. Early completion encouraged."
+      }
+    ],
+    "description": "Non-repayable need-based grants for North Dakota residents pursuing a first undergraduate degree in North Dakota, awarded until funds are exhausted. Per the 2025-2026 NDUS chart, awards are up to $1,375 per semester or $917 per quarter, with a lifetime limit of 8 semesters or 12 quarters. Apply by completing the FAFSA at studentaid.gov.",
+    "eligibility": [
+      "North Dakota residents pursuing a first undergraduate degree within North Dakota",
+      "At least quarter-time enrollment (awards prorated below full time; less than 3 credits not eligible)",
+      "Demonstrate unmet financial need via FAFSA data"
+    ],
+    "id": "nd-state-grant",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota State Grant — Student Financial Aid",
+    "prerequisites": [
+      "Complete the Free Application for Federal Student Aid (FAFSA) at studentaid.gov"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://s3.cdn.ndus.edu/ndus-web/media/ND-State-Programs-chart-of-programs-25-26-1.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA information; school financial-aid office handles the rest"
+    ]
+  },
+  {
+    "agency": "North Dakota State Library",
+    "applyLinks": [
+      {
+        "label": "State Library FAQs and card information",
+        "url": "https://www.library.nd.gov/faqs"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Library patrons (library account, interlibrary loan, reference)",
+        "value": "701.328.4622"
+      },
+      {
+        "kind": "phone",
+        "label": "Library patrons (toll-free)",
+        "value": "800.472.2104"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Library cards and services available any time."
+      }
+    ],
+    "description": "Research and lending services for state agencies, libraries, and all North Dakota residents, including interlibrary loan, e-books and e-audiobooks, reading challenges, and STEM/Book Club kits. Get a library card with the online form; public hours are Monday–Friday, 8 a.m. to 4 p.m. at 604 E. Boulevard Ave., Bismarck.",
+    "eligibility": [
+      "North Dakota residents",
+      "Library card available via the online form"
+    ],
+    "id": "nd-state-library",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota State Library",
+    "prerequisites": [
+      "Complete the online library card form"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.library.nd.gov/faqs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard identification — see library card page"
+    ]
+  },
+  {
+    "agency": "North Dakota Office of State Tax Commissioner",
+    "applyLinks": [
+      {
+        "label": "Tax Commissioner contact and assistance",
+        "url": "https://www.tax.nd.gov/about/contact-us"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Individual income tax questions",
+        "value": "701-328-1247"
+      },
+      {
+        "kind": "phone",
+        "label": "General information",
+        "value": "701-328-7088"
+      },
+      {
+        "kind": "phone",
+        "label": "General information (toll-free)",
+        "value": "877-328-7088"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Returns for tax year 2025 were due April 15, 2026; see tax.nd.gov for current deadlines."
+      }
+    ],
+    "description": "File and manage North Dakota individual income taxes with the Office of State Tax Commissioner. Free assistance is available by phone or email for questions about filing, forms, refunds, and estimated payments.",
+    "eligibility": [
+      "North Dakota taxpayers",
+      "Varies — see program page"
+    ],
+    "id": "nd-income-tax",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Individual Income Tax",
+    "prerequisites": [
+      "None for general assistance"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.tax.nd.gov/about/contact-us"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard tax documents — see tax.nd.gov"
+    ]
+  },
+  {
+    "agency": "FirstLink",
+    "applyLinks": [
+      {
+        "label": "FirstLink 2-1-1 information",
+        "url": "https://myfirstlink.org/wp-content/uploads/2019/11/2019-01-FirstLink-2-1-1-Poster-Updated.pdf"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dial 2-1-1",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "FirstLink line",
+        "value": "701-235-7335"
+      },
+      {
+        "kind": "web",
+        "label": "Text your ZIP code to 898-211",
+        "value": "https://myfirstlink.org/wp-content/uploads/2019/11/2019-01-FirstLink-2-1-1-Poster-Updated.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24 hours a day."
+      }
+    ],
+    "description": "Free, confidential 24-hour information and referral connecting North Dakotans with community resources: health care, housing, utilities, legal help, employment, financial assistance, addiction and mental health services, disability services, food, and disaster services. Dial 2-1-1 or 701-235-7335, or text your ZIP code to 898-211. Serves North Dakota and Clay County, Minnesota.",
+    "eligibility": [
+      "Anyone in North Dakota or Clay County, Minnesota"
+    ],
+    "id": "nd-firstlink-211",
+    "languages": [
+      "English"
+    ],
+    "name": "FirstLink 2-1-1 — North Dakota Community Information and Referral",
+    "prerequisites": [
+      "None — call, text, or visit the website"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://myfirstlink.org/wp-content/uploads/2019/11/2019-01-FirstLink-2-1-1-Poster-Updated.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "A description of what you need help with"
+    ]
+  },
+  {
+    "agency": "North Dakota Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "What Am I Eligible For",
+        "url": "http://www.veterans.nd.gov/benefits-and-services/what-am-i-eligible"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ND Department of Veterans Affairs",
+        "value": "701.239.7165"
+      },
+      {
+        "kind": "web",
+        "label": "What Am I Eligible For",
+        "value": "http://www.veterans.nd.gov/benefits-and-services/what-am-i-eligible"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "State benefits and services for North Dakota veterans, including help finding a service officer, transportation for veterans, veterans' preference, and a guide to what each veteran is eligible for. See the 'What Am I Eligible For' page or contact the department.",
+    "eligibility": [
+      "North Dakota veterans",
+      "Specific programs have their own eligibility — see program page"
+    ],
+    "id": "nd-veterans-affairs",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Department of Veterans Affairs — Benefits and Services",
+    "prerequisites": [
+      "None for general information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "http://www.veterans.nd.gov/benefits-and-services/what-am-i-eligible"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Discharge paperwork (DD-214) where applicable — see program page"
+    ]
+  },
+  {
+    "agency": "Great Plains Food Bank",
+    "applyLinks": [
+      {
+        "label": "Food distributions calendar",
+        "url": "https://greatplainsfoodbank.org/food-distributions/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Food distributions calendar",
+        "value": "https://greatplainsfoodbank.org/food-distributions/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Distributions run on scheduled dates; see the distributions calendar."
+      }
+    ],
+    "description": "North Dakota's only food bank delivers free food across the state and Clay County, Minnesota through mobile food pantries, pop-up pantries, and a network of partner food pantries, shelters, and meal sites. Anyone in need of food assistance is welcome at no cost.",
+    "eligibility": [
+      "Anyone in need of food assistance in North Dakota and Clay County, Minnesota"
+    ],
+    "id": "nd-great-plains-food-bank",
+    "languages": [
+      "English"
+    ],
+    "name": "Great Plains Food Bank — Food Distributions",
+    "prerequisites": [
+      "None — show up at a scheduled distribution"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://greatplainsfoodbank.org/food-distributions/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "No documentation required"
+    ]
+  },
+  {
+    "agency": "Job Service North Dakota",
+    "applyLinks": [
+      {
+        "label": "File a claim",
+        "url": "https://JobsND.com/unemployment-individuals/file-claim"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Job Service North Dakota (as listed)",
+        "value": "701-328-4995"
+      },
+      {
+        "kind": "web",
+        "label": "File a claim",
+        "value": "https://JobsND.com/unemployment-individuals/file-claim"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File as soon as possible after job loss."
+      }
+    ],
+    "description": "Temporary income for North Dakota workers who lost employment through no fault of their own. File a claim online through Job Service North Dakota.",
+    "eligibility": [
+      "Workers who lost employment through no fault of their own",
+      "Wage and work-history requirements — see program page"
+    ],
+    "id": "nd-job-service-unemployment",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Unemployment Insurance — File a Claim",
+    "prerequisites": [
+      "File online at JobsND.com"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://JobsND.com/unemployment-individuals/file-claim"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number, employment history, and wage information"
+    ]
+  },
+  {
+    "agency": "North Dakota Secretary of State",
+    "applyLinks": [
+      {
+        "label": "Register a business",
+        "url": "https://www.sos.nd.gov/business/business-services/register-business"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State (as listed)",
+        "value": "701-328-2900"
+      },
+      {
+        "kind": "web",
+        "label": "Register a business",
+        "value": "https://www.sos.nd.gov/business/business-services/register-business"
+      }
+    ],
+    "cost": "Fees apply — vary by filing",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Registrations accepted any time."
+      }
+    ],
+    "description": "Register a business in North Dakota — corporations, LLCs, partnerships, and other entity types — through the Secretary of State's business services. Most filings can be completed online.",
+    "eligibility": [
+      "Anyone registering a business in North Dakota"
+    ],
+    "id": "nd-sos-business-registration",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Business Registration",
+    "prerequisites": [
+      "Choose a business structure and name"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.sos.nd.gov/business/business-services/register-business"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business details — see the registration page for required information"
+    ]
+  },
+  {
+    "agency": "North Dakota Department of Transportation (NDDOT)",
+    "applyLinks": [
+      {
+        "label": "Driver license page",
+        "url": "https://www.dot.nd.gov/driver/driver-license"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Driver license information (as listed)",
+        "value": "701-328-2500"
+      },
+      {
+        "kind": "web",
+        "label": "Driver license page",
+        "value": "https://www.dot.nd.gov/driver/driver-license"
+      }
+    ],
+    "cost": "Fees apply — vary by credential",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "Apply for or renew a North Dakota driver license. Minimum age is 16 for a full license, with a restricted license available at 15. Fees apply. Driving tests can be scheduled online.",
+    "eligibility": [
+      "North Dakota residents",
+      "Minimum age 16 (restricted license at 15)"
+    ],
+    "id": "nd-driver-license",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Driver License",
+    "prerequisites": [
+      "Schedule a driving test online where required"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.dot.nd.gov/driver/driver-license"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, residency, and lawful status — see the driver license page"
+    ]
+  },
+  {
+    "agency": "North Dakota Housing Finance Agency (NDHFA)",
+    "applyLinks": [
+      {
+        "label": "NDHFA rates and programs",
+        "url": "https://www.ndhfa.org/finance/wp_rates.aspx"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NDHFA rates and programs",
+        "value": "https://www.ndhfa.org/finance/wp_rates.aspx"
+      }
+    ],
+    "cost": "Free to apply; mortgage terms apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Programs available through participating lenders; HomeAccess currently unavailable."
+      }
+    ],
+    "description": "State homeownership programs including FirstHome (first-time buyers), FirstHome with down payment/closing cost assistance, North Dakota Roots, and HomeAccess. STATUS: HomeAccess is currently unavailable, per the NDHFA rate page verified 2026-09-19. Rates and product availability change; see the current rate page.",
+    "eligibility": [
+      "North Dakota homebuyers",
+      "Program-specific income and purchase-price limits — see program page"
+    ],
+    "id": "nd-housing-finance-agency",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Housing Finance Agency — Homeownership Programs",
+    "prerequisites": [
+      "Work with an NDHFA participating lender"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.ndhfa.org/finance/wp_rates.aspx"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, asset, and purchase documentation — per lender"
+    ]
+  },
+  {
+    "agency": "Legal Services of North Dakota",
+    "applyLinks": [
+      {
+        "label": "Legal Services of North Dakota — apply for assistance",
+        "url": "https://www.lsnd.org/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LSND (as listed)",
+        "value": "1-800-634-5263"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Services of North Dakota",
+        "value": "https://www.lsnd.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted any time."
+      }
+    ],
+    "description": "Free civil legal assistance for income-eligible North Dakotans with a North Dakota legal issue. Apply for assistance through LSND's online application.",
+    "eligibility": [
+      "Income-eligible North Dakotans",
+      "Must have a North Dakota legal issue",
+      "Must complete an application"
+    ],
+    "id": "nd-legal-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Legal Services of North Dakota (LSND)",
+    "prerequisites": [
+      "Complete the online application for assistance"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.lsnd.org/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Documents related to your legal issue — see LSND for details"
+    ]
+  },
+  {
+    "agency": "North Dakota Health and Human Services (HHS)",
+    "applyLinks": [
+      {
+        "label": "HHS agency contacts — Adults and Aging Services",
+        "url": "https://www.hhs.nd.gov/contact"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Aging and Disability Resource Link (toll-free)",
+        "value": "855.462.5465"
+      },
+      {
+        "kind": "web",
+        "label": "HHS agency contacts",
+        "value": "https://www.hhs.nd.gov/contact"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "Statewide programs supporting older adults, adults with physical disabilities, and caregivers: information and assistance, options counseling, congregate and home-delivered meals, caregiver support, and adult protective services. Contact the Aging and Disability Resource Link toll-free at 855-462-5465.",
+    "eligibility": [
+      "Older adults, adults with physical disabilities, and caregivers",
+      "Older Americans Act programs serve adults age 60 and older"
+    ],
+    "id": "nd-aging-services",
+    "languages": [
+      "English"
+    ],
+    "name": "North Dakota Adult and Aging Services",
+    "prerequisites": [
+      "Contact the Aging and Disability Resource Link"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.hhs.nd.gov/contact"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ]
+  },
+  {
+    "agency": "U.S. Department of Veterans Affairs",
+    "applyLinks": [
+      {
+        "label": "Register for care — VA Fargo",
+        "url": "https://www.va.gov/fargo-health-care/register-for-care/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "in-person",
+        "label": "VA Fargo health care",
+        "value": "2101 Elm Street North, Fargo, ND 58102"
+      },
+      {
+        "kind": "web",
+        "label": "Register for care — VA Fargo",
+        "value": "https://www.va.gov/fargo-health-care/register-for-care/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Registration accepted any time."
+      }
+    ],
+    "description": "VA health care for veterans in the Fargo region. Veterans not yet enrolled can apply in person at VA Fargo, 2101 Elm Street North, Fargo, or get started online.",
+    "eligibility": [
+      "Veterans",
+      "Enrollment in VA health care — see program page"
+    ],
+    "id": "fed-fargo-va-health-care",
+    "languages": [
+      "English"
+    ],
+    "name": "VA Fargo Health Care — Register for Care",
+    "prerequisites": [
+      "Apply in person or start online"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.va.gov/fargo-health-care/register-for-care/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Discharge paperwork (DD-214) and identification"
+    ]
+  },
+  {
+    "agency": "USDA Rural Development",
+    "applyLinks": [
+      {
+        "label": "Single Family Housing Direct Home Loans in North Dakota",
+        "url": "https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans/nd"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Single Family Housing Direct Home Loans in North Dakota",
+        "value": "https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans/nd"
+      }
+    ],
+    "cost": "Free to apply; loan terms apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through local RD offices."
+      }
+    ],
+    "description": "Section 502 Direct Loan Program: payment assistance that reduces the mortgage payment for low- and very-low-income applicants buying decent, safe, sanitary housing in eligible rural areas. Effective Sept. 1, 2026, the interest rate is 5.250% (as low as 1% with payment assistance); no down payment is typically required. Applications are accepted year-round through local RD offices.",
+    "eligibility": [
+      "Low- and very-low-income applicants",
+      "Property in an eligible rural area",
+      "Unable to obtain a loan from other resources on reasonable terms",
+      "Agree to occupy the property as a primary residence",
+      "U.S. citizen or eligible noncitizen"
+    ],
+    "id": "fed-usda-rural-housing-loans",
+    "languages": [
+      "English"
+    ],
+    "name": "USDA Single Family Housing Direct Home Loans — North Dakota",
+    "prerequisites": [
+      "Contact the local USDA Rural Development office"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans/nd"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, debt, asset, and property documentation — see program page"
+    ]
+  },
+  {
+    "agency": "U.S. Small Business Administration",
+    "applyLinks": [
+      {
+        "label": "SBA North Dakota District Office",
+        "url": "https://legacy.sba.gov/district/north-dakota?page=0,2"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SBA North Dakota office",
+        "value": "701-239-5131"
+      },
+      {
+        "kind": "in-person",
+        "label": "SBA North Dakota office",
+        "value": "657 2nd Ave. N., Room 360, Fargo, ND 58108"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "The SBA's North Dakota office serves all 53 counties with small-business support including loans, counseling, federal contracting help, and disaster assistance. Fargo office: 657 2nd Ave. N., Room 360, Fargo; open Monday–Friday, 8 a.m. to 4:30 p.m.",
+    "eligibility": [
+      "North Dakota small businesses",
+      "Program-specific eligibility — see sba.gov"
+    ],
+    "id": "fed-sba-north-dakota",
+    "languages": [
+      "English"
+    ],
+    "name": "SBA North Dakota District Office",
+    "prerequisites": [
+      "None for general assistance; appointments available"
+    ],
+    "scope": {
+      "level": "federal",
+      "state": "ND"
+    },
+    "sources": [
+      "https://legacy.sba.gov/district/north-dakota?page=0,2"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Varies by program — see sba.gov"
+    ]
+  },
+  {
+    "agency": "Fargo Housing and Redevelopment Authority",
+    "applyLinks": [
+      {
+        "label": "Apply now — Fargo Housing",
+        "url": "https://fargohousing.org/apply-now/"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fargo Housing and Redevelopment Authority",
+        "value": "701-293-6262"
+      },
+      {
+        "kind": "web",
+        "label": "Apply now — Fargo Housing",
+        "value": "https://fargohousing.org/apply-now/"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted online when waitlists are open; see the apply page for current status."
+      }
+    ],
+    "description": "Housing Choice Vouchers (Section 8) and other rental assistance through the Fargo Housing and Redevelopment Authority. Applications are accepted online when waitlists are open; check the apply page for current waitlist status. Eligibility depends on income and household size, with at least one adult household member and citizenship or eligible immigration status.",
+    "eligibility": [
+      "Income-eligible households",
+      "At least one household member 18 or older",
+      "Citizenship or eligible immigration status"
+    ],
+    "id": "fargo-housing-authority",
+    "languages": [
+      "English"
+    ],
+    "name": "Fargo Housing and Redevelopment Authority — Rental Assistance",
+    "prerequisites": [
+      "Applications accepted online when waitlists are open"
+    ],
+    "scope": {
+      "city": "Fargo",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://fargohousing.org/apply-now/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, household, and identification documents — see the apply page"
+    ]
+  },
+  {
+    "agency": "MATBUS",
+    "applyLinks": [
+      {
+        "label": "MATBUS fares and passes",
+        "url": "https://matbus.com/riding-matbus/fares-passes"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MATBUS (as listed)",
+        "value": "701.232.7500"
+      },
+      {
+        "kind": "web",
+        "label": "MATBUS",
+        "value": "https://matbus.com/"
+      }
+    ],
+    "cost": "Cash fares: $2.00 adult; $1.00 discount (elderly, disabled, youth)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs Monday through Saturday."
+      }
+    ],
+    "description": "Public bus service in Fargo, West Fargo, Moorhead, and Dilworth, running Monday through Saturday. Cash fares are $2.00 for adults and $1.00 for elderly, disabled, and youth riders; 1-day passes are $5.00 and 7-day passes are $10.00.",
+    "eligibility": [
+      "General public",
+      "Discounted fares for elderly, disabled, and youth riders"
+    ],
+    "id": "fargo-matbus",
+    "languages": [
+      "English"
+    ],
+    "name": "MATBUS — Fargo-Moorhead Public Transit",
+    "prerequisites": [
+      "None — pay per ride or buy a pass"
+    ],
+    "scope": {
+      "city": "Fargo",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://matbus.com/",
+      "https://matbus.com/riding-matbus/fares-passes"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Cash or a pass"
+    ]
+  },
+  {
+    "agency": "Fargo Cass Public Health",
+    "applyLinks": [
+      {
+        "label": "Immunization clinic services",
+        "url": "https://fargond.gov/city-government/departments/fargo-cass-public-health/clinic-services/immunizations"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fargo Cass Public Health clinic (as listed)",
+        "value": "701.241.1310"
+      },
+      {
+        "kind": "web",
+        "label": "Immunization clinic services",
+        "value": "https://fargond.gov/city-government/departments/fargo-cass-public-health/clinic-services/immunizations"
+      }
+    ],
+    "cost": "Insurance billed; see clinic page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk-in clinics at listed locations and times."
+      }
+    ],
+    "description": "Immunization clinics and other public health services for Fargo and Cass County residents. Walk-in immunization clinics are held at listed locations and times; bring insurance information.",
+    "eligibility": [
+      "Fargo and Cass County residents"
+    ],
+    "id": "fargo-cass-public-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Fargo Cass Public Health — Clinic Services",
+    "prerequisites": [
+      "None — walk-in clinics as listed"
+    ],
+    "scope": {
+      "county": "Cass",
+      "level": "county",
+      "state": "ND"
+    },
+    "sources": [
+      "https://fargond.gov/city-government/departments/fargo-cass-public-health/clinic-services/immunizations"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance information"
+    ]
+  },
+  {
+    "agency": "West Fargo Public Library",
+    "applyLinks": [
+      {
+        "label": "Library card and policies",
+        "url": "https://westfargolibrary.org/1383/Library"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "West Fargo Public Library (as listed)",
+        "value": "701-515-5200"
+      },
+      {
+        "kind": "web",
+        "label": "Library card and policies",
+        "value": "https://westfargolibrary.org/1383/Library"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "Free public library services for the West Fargo area: books, media, digital collections, computer access, programs, and a library card. See the library's card policy page for eligibility details.",
+    "eligibility": [
+      "West Fargo area residents",
+      "Library card — see policy page for details"
+    ],
+    "id": "west-fargo-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "West Fargo Public Library",
+    "prerequisites": [
+      "Apply for a library card per the library's policy"
+    ],
+    "scope": {
+      "city": "West Fargo",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://westfargolibrary.org/1383/Library"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification and proof of address — see library card page"
+    ]
+  },
+  {
+    "agency": "Bis-Man Transit (Bismarck–Mandan)",
+    "applyLinks": [
+      {
+        "label": "CAT bus rider guide (PDF)",
+        "url": "https://bismantransit.com/files/2026/04/4.2026_BMT_Rider_Guide_web.pdf"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bis-Man Transit (as listed)",
+        "value": "701-258-6817"
+      },
+      {
+        "kind": "web",
+        "label": "CAT bus rider guide (PDF)",
+        "value": "https://bismantransit.com/files/2026/04/4.2026_BMT_Rider_Guide_web.pdf"
+      }
+    ],
+    "cost": "CAT 1-way $1.50; 30-day $36.00; reduced $0.75 / $24.00; demand response $3.00",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See the rider guide for service days and hours."
+      }
+    ],
+    "description": "Fixed-route CAT bus and demand-response paratransit service in the Bismarck–Mandan area. One-way fare is $1.50 ($0.75 reduced) and a 30-day pass is $36.00 ($24.00 reduced); students K-12 and higher education, Medicare cardholders, and veterans qualify for reduced fare with photo ID. Children 5 and under, people 65 and over, and paratransit passengers ride free.",
+    "eligibility": [
+      "General public in Bismarck and Mandan",
+      "Reduced fares: students K-12 and higher ed, Medicare cardholders, veterans with photo ID",
+      "Free: children 5 and under, age 65 and over, paratransit passengers"
+    ],
+    "id": "bismarck-bisman-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Bis-Man Transit — CAT Fixed-Route Bus and Paratransit",
+    "prerequisites": [
+      "Paratransit requires eligibility certification — see Bis-Man Transit"
+    ],
+    "scope": {
+      "city": "Bismarck",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://bismantransit.com/files/2026/04/4.2026_BMT_Rider_Guide_web.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Fare or pass; photo ID for reduced fares"
+    ]
+  },
+  {
+    "agency": "Bismarck-Burleigh Public Health",
+    "applyLinks": [
+      {
+        "label": "Bismarck-Burleigh Public Health",
+        "url": "http://www.bismarcknd.gov/95/Public-Health"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bismarck-Burleigh Public Health (as listed)",
+        "value": "701-355-1540"
+      },
+      {
+        "kind": "in-person",
+        "label": "Public Health office",
+        "value": "407 S 26th St., Bismarck, ND 58504"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Clinic hours as posted."
+      }
+    ],
+    "description": "Local public health services for Bismarck and Burleigh County, including clinics and prevention programs. Office at 407 S 26th St., Bismarck.",
+    "eligibility": [
+      "Bismarck and Burleigh County residents"
+    ],
+    "id": "bismarck-burleigh-public-health",
+    "languages": [
+      "English"
+    ],
+    "name": "Bismarck-Burleigh Public Health",
+    "prerequisites": [
+      "None for general information"
+    ],
+    "scope": {
+      "county": "Burleigh",
+      "level": "county",
+      "state": "ND"
+    },
+    "sources": [
+      "http://www.bismarcknd.gov/95/Public-Health"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance information and identification — call ahead"
+    ]
+  },
+  {
+    "agency": "Grand Forks Housing Authority",
+    "applyLinks": [
+      {
+        "label": "Housing Choice Vouchers",
+        "url": "https://www.thegfha.org/housing-choice-vouchers.html"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Grand Forks Housing Authority (as listed)",
+        "value": "701-746-2545"
+      },
+      {
+        "kind": "web",
+        "label": "Housing Choice Vouchers",
+        "value": "https://www.thegfha.org/housing-choice-vouchers.html"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "See the apply page and waitlist specialist for current waitlist status."
+      }
+    ],
+    "description": "Housing Choice Vouchers (Section 8) and public housing through the Grand Forks Housing Authority. The authority publishes 2026 payment standards and application guidance; those needing immediate help should contact the waitlist specialist about affordable properties.",
+    "eligibility": [
+      "Income-eligible households in Grand Forks",
+      "Program-specific rules — see the apply page"
+    ],
+    "id": "grand-forks-housing-authority",
+    "languages": [
+      "English"
+    ],
+    "name": "Grand Forks Housing Authority — Housing Choice Vouchers",
+    "prerequisites": [
+      "See the apply page for current waitlist status and application steps"
+    ],
+    "scope": {
+      "city": "Grand Forks",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.thegfha.org/housing-choice-vouchers.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, household, and identification documents — see the apply page"
+    ]
+  },
+  {
+    "agency": "City of Grand Forks — Cities Area Transit (CAT)",
+    "applyLinks": [
+      {
+        "label": "Cities Area Transit (CAT) information",
+        "url": "https://www.grandforksgov.com/government/city-departments/cities-area-transit-cat/-sortn-FCPhone"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cities Area Transit (as listed)",
+        "value": "701-746-2600"
+      },
+      {
+        "kind": "web",
+        "label": "Cities Area Transit (CAT) information",
+        "value": "https://www.grandforksgov.com/government/city-departments/cities-area-transit-cat/-sortn-FCPhone"
+      }
+    ],
+    "cost": "One-way: $2.00 full / $1.00 K-12 / $0.80 reduced; passes $6.50–$40.00",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service hours as posted on the CAT page."
+      }
+    ],
+    "description": "Public transit in Grand Forks: full fare is $2.00 one-way, K-12 students $1.00, and reduced fare $0.80 for seniors 62+, Medicare cardholders, and people with disabilities. Monthly passes run $6.50 to $40.00 with free transfers. Service runs 6:30 a.m. to 9:30 p.m. Monday–Friday and 8:30 a.m. to 9:30 p.m. Saturday.",
+    "eligibility": [
+      "General public in Grand Forks",
+      "Reduced fare: seniors 62+, Medicare cardholders, people with disabilities"
+    ],
+    "id": "grand-forks-cities-area-transit",
+    "languages": [
+      "English"
+    ],
+    "name": "Cities Area Transit (CAT) — Grand Forks",
+    "prerequisites": [
+      "None — pay per ride or buy a pass"
+    ],
+    "scope": {
+      "city": "Grand Forks",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.grandforksgov.com/government/city-departments/cities-area-transit-cat/-sortn-FCPhone"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Cash, tokens, or a pass"
+    ]
+  },
+  {
+    "agency": "Minot Housing Authority",
+    "applyLinks": [
+      {
+        "label": "Housing Choice Voucher program",
+        "url": "https://www.minothousing.com/housing-choice-voucher"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Minot Housing Authority (as listed)",
+        "value": "701-852-0485"
+      },
+      {
+        "kind": "web",
+        "label": "Section 8 waitlist information",
+        "value": "https://www.minothousing.com/housing-choice-voucher/section-8-waitlist"
+      }
+    ],
+    "cost": "Free to apply",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications ordered by application date/time; see waitlist page for current status."
+      }
+    ],
+    "description": "Housing Choice Vouchers (Section 8) helping low-income individuals, families, elderly people, and people with disabilities afford housing in Minot. Applications are available at the housing authority office or website, and the waitlist is ordered by application date/time.",
+    "eligibility": [
+      "Low-income individuals, families, elderly people, and people with disabilities",
+      "Waitlist ordered by application date/time"
+    ],
+    "id": "minot-housing-authority",
+    "languages": [
+      "English"
+    ],
+    "name": "Minot Housing Authority — Housing Choice Vouchers",
+    "prerequisites": [
+      "Submit an application online or at the office"
+    ],
+    "scope": {
+      "city": "Minot",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.minothousing.com/housing-choice-voucher",
+      "https://www.minothousing.com/housing-choice-voucher/section-8-waitlist"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Income, household, and identification documents — see the apply page"
+    ]
+  },
+  {
+    "agency": "Minot Public Library",
+    "applyLinks": [
+      {
+        "label": "Minot Public Library services",
+        "url": "https://www.minotlibrary.org/"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Minot Public Library (as listed)",
+        "value": "701-852-1045"
+      },
+      {
+        "kind": "web",
+        "label": "Minot Public Library",
+        "value": "https://www.minotlibrary.org/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available any time."
+      }
+    ],
+    "description": "Free public library services in Minot: books and media, library cards, homebound delivery for residents unable to visit, interlibrary loan, research help, computers and Wi-Fi, and large-print/audio and talking-book services. Call 701-852-1045 or visit minotlibrary.org.",
+    "eligibility": [
+      "General public",
+      "Library card for borrowing"
+    ],
+    "id": "minot-public-library",
+    "languages": [
+      "English"
+    ],
+    "name": "Minot Public Library",
+    "prerequisites": [
+      "Apply for a library card to borrow materials"
+    ],
+    "scope": {
+      "city": "Minot",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.minotlibrary.org/",
+      "https://www.minotlibrary.org/book-delivery/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Identification and proof of address — see library for details"
+    ]
+  },
+  {
+    "agency": "First District Health Unit",
+    "applyLinks": [
+      {
+        "label": "First District Health Unit — Minot/Ward County",
+        "url": "https://fdhu.org/county-offices/minot-ward-county/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "First District Health Unit Minot (as listed)",
+        "value": "701-852-1376"
+      },
+      {
+        "kind": "web",
+        "label": "Minot/Ward County office",
+        "value": "https://fdhu.org/county-offices/minot-ward-county/"
+      }
+    ],
+    "cost": "Varies by service — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Clinic hours as posted."
+      }
+    ],
+    "description": "Local public health services for Minot and Ward County, including immunizations, WIC and nutrition services, reproductive health, infectious disease follow-up, and other prevention programs. Call 701-852-1376 to reach the Minot office.",
+    "eligibility": [
+      "Minot and Ward County residents"
+    ],
+    "id": "minot-ward-first-district-health",
+    "languages": [
+      "English"
+    ],
+    "name": "First District Health Unit — Minot/Ward County",
+    "prerequisites": [
+      "None for general information"
+    ],
+    "scope": {
+      "county": "Ward",
+      "level": "county",
+      "state": "ND"
+    },
+    "sources": [
+      "https://fdhu.org/county-offices/minot-ward-county/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance information and identification — call ahead"
+    ]
+  },
+  {
+    "agency": "Global Refuge",
+    "applyLinks": [
+      {
+        "label": "Immigration legal services",
+        "url": "https://www.globalrefuge.org/what-we-do/immigration-legal-services/"
+      }
+    ],
+    "category": "Immigration",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Global Refuge (as listed)",
+        "value": "410-983-4000"
+      },
+      {
+        "kind": "web",
+        "label": "Immigration legal services",
+        "value": "https://www.globalrefuge.org/what-we-do/immigration-legal-services/"
+      }
+    ],
+    "cost": "Free or low-cost for low-income clients — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Consultations by appointment."
+      }
+    ],
+    "description": "Low-income immigration legal services in Fargo: consultations, work permits, TPS and reparole, DACA, family sponsorship, asylum, adjustment of status, and naturalization. Services are available in Fargo, North Dakota.",
+    "eligibility": [
+      "Low-income immigrants and refugees",
+      "Varies by case type — see program page"
+    ],
+    "id": "fargo-global-refuge-immigration",
+    "languages": [
+      "English"
+    ],
+    "name": "Global Refuge — Immigration Legal Services (Fargo)",
+    "prerequisites": [
+      "Contact Global Refuge to schedule a consultation"
+    ],
+    "scope": {
+      "city": "Fargo",
+      "level": "city",
+      "state": "ND"
+    },
+    "sources": [
+      "https://www.globalrefuge.org/what-we-do/immigration-legal-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Immigration documents — see program page for details"
+    ]
   }
 ]
