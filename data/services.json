@@ -37735,5 +37735,2095 @@
       "https://www.fcc.gov/lifeline-consumers"
     ],
     "verifiedAt": "2026-09-19"
+  },
+  {
+    "id": "mn-snap",
+    "name": "Minnesota SNAP — Food Benefits",
+    "agency": "Minnesota Department of Children, Youth, and Families (DCYF)",
+    "category": "Food",
+    "description": "Monthly food benefits for low-income Minnesota households to buy groceries, issued on an EBT card. Apply through your county human services agency.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents",
+      "Low-income households; financial eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — apply through your county human services agency"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by county; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How SNAP Works — DCYF",
+        "value": "https://dcyf.mn.gov/how-snap-works-1"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How SNAP Works",
+        "url": "https://dcyf.mn.gov/how-snap-works-1"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dcyf.mn.gov/how-snap-works-1"
+    ]
+  },
+  {
+    "id": "mn-mfip",
+    "name": "Minnesota Family Investment Program (MFIP)",
+    "agency": "Minnesota Department of Human Services (DHS)",
+    "category": "Money & Taxes",
+    "description": "Minnesota's cash assistance program for low-income families with children, combining monthly cash and food benefits with employment services. Apply through your county human services agency.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Families with children",
+      "Low-income; financial eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your county human services agency"
+    ],
+    "whatToBring": [
+      "ID, proof of income, proof of household composition — varies by county"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MFIP Overview (PDF)",
+        "value": "https://edocs.dhs.state.mn.us/lfserver/Public/DHS-5830-ENG"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MFIP Overview (PDF)",
+        "url": "https://edocs.dhs.state.mn.us/lfserver/Public/DHS-5830-ENG"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://edocs.dhs.state.mn.us/lfserver/Public/DHS-5830-ENG"
+    ]
+  },
+  {
+    "id": "mn-unemployment",
+    "name": "Minnesota Unemployment Insurance",
+    "agency": "Minnesota Department of Employment and Economic Development (DEED)",
+    "category": "Employment",
+    "description": "Temporary partial wage replacement for workers who lost a job through no fault of their own. Apply online through the Unemployment Insurance Minnesota system.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Workers unemployed through no fault of their own",
+      "Minimum earnings requirements apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Social Security number and recent employment history"
+    ],
+    "whatToBring": [
+      "SSN and employer names, addresses, and dates for recent work"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance Minnesota",
+        "value": "https://uimn.org/applicants/howapply/application-process/self-service.jsp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Unemployment Benefits",
+        "url": "https://uimn.org/applicants/howapply/application-process/self-service.jsp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://uimn.org/applicants/howapply/application-process/self-service.jsp"
+    ]
+  },
+  {
+    "id": "mn-medical-assistance-minnesotacare",
+    "name": "Medical Assistance and MinnesotaCare",
+    "agency": "Minnesota Department of Human Services (DHS)",
+    "category": "Healthcare",
+    "description": "Free or low-cost health coverage: Medical Assistance for low-income Minnesotans, and MinnesotaCare for people who earn too much for MA but cannot afford other coverage. Apply through MNsure or your county human services agency.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents",
+      "Income eligibility rules apply",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — apply through MNsure or your county"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to Apply for Health Care — DHS",
+        "value": "https://mn.gov/dhs/health-care/apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Apply for Health Care",
+        "url": "https://mn.gov/dhs/health-care/apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; coverage costs vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/dhs/health-care/apply/"
+    ]
+  },
+  {
+    "id": "mn-emergency-medical-assistance",
+    "name": "Emergency Medical Assistance (EMA)",
+    "agency": "Minnesota Department of Human Services (DHS)",
+    "category": "Healthcare",
+    "description": "Covers emergency medical services for people who do not qualify for Medical Assistance because of immigration status.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents with an emergency medical condition",
+      "Ineligible for Medical Assistance due to immigration status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — see program page"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Emergency Medical Assistance (PDF)",
+        "value": "https://mn.gov/dhs/assets/emergency-medical-assistance_tcm1053-652616.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "EMA Information (PDF)",
+        "url": "https://mn.gov/dhs/assets/emergency-medical-assistance_tcm1053-652616.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/dhs/assets/emergency-medical-assistance_tcm1053-652616.pdf"
+    ]
+  },
+  {
+    "id": "mn-ma-epd",
+    "name": "Medical Assistance for Employed Persons with Disabilities (MA-EPD)",
+    "agency": "Minnesota Department of Human Services (DHS)",
+    "category": "Disability",
+    "description": "Allows employed people with disabilities to pay a premium and keep Medical Assistance health coverage while working.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "People with a qualifying disability",
+      "Employed; premium based on income — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — see program page"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MA-EPD Information — DHS",
+        "value": "https://mn.gov/dhs/health-care/apply/over-65-blind-disabled/employed-with-disabilities/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MA-EPD Information",
+        "url": "https://mn.gov/dhs/health-care/apply/over-65-blind-disabled/employed-with-disabilities/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Premium based on income — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/dhs/health-care/apply/over-65-blind-disabled/employed-with-disabilities/"
+    ]
+  },
+  {
+    "id": "mn-child-care-assistance",
+    "name": "Child Care Assistance Program (CCAP)",
+    "agency": "Minnesota Department of Human Services (DHS)",
+    "category": "Family & Childcare",
+    "description": "Helps low-income families pay for child care while parents work, look for work, or attend school. Apply through your county human services agency.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Low-income families",
+      "Parents working, job searching, or in school",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your county human services agency"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by county; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Child Care Assistance (PDF)",
+        "value": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_FILE&dID=167173&dDocName=MNDHS-075662&allowInterrupt=1"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CCAP Information (PDF)",
+        "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_FILE&dID=167173&dDocName=MNDHS-075662&allowInterrupt=1"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_FILE&dID=167173&dDocName=MNDHS-075662&allowInterrupt=1"
+    ]
+  },
+  {
+    "id": "mn-energy-assistance",
+    "name": "Minnesota Energy Assistance Program (EAP)",
+    "agency": "Minnesota Department of Commerce",
+    "category": "Utilities",
+    "description": "Helps low-income households pay heating and electric bills and repair or replace heating equipment. Administered by local community action agencies statewide.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Low-income households",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local community action agency"
+    ],
+    "whatToBring": [
+      "Standard documents — varies; see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Energy Assistance Program — Commerce",
+        "value": "https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/media-toolkit.jsp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Energy Assistance Program",
+        "url": "https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/media-toolkit.jsp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/media-toolkit.jsp"
+    ]
+  },
+  {
+    "id": "mn-working-family-credit",
+    "name": "Minnesota Working Family Credit",
+    "agency": "Minnesota Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Refundable state tax credit for working individuals and families with low to moderate income. Claim it on your Minnesota income tax return.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Workers with low to moderate income",
+      "Must file a Minnesota income tax return",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Tax filing",
+        "note": "Claim on your Minnesota income tax return each year; no separate application deadline published."
+      }
+    ],
+    "prerequisites": [
+      "File a Minnesota income tax return"
+    ],
+    "whatToBring": [
+      "Tax return and supporting documents — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Working Family Credit — Revenue",
+        "value": "https://revenue.state.mn.us/working-family-credit"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Working Family Credit",
+        "url": "https://revenue.state.mn.us/working-family-credit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://revenue.state.mn.us/working-family-credit"
+    ]
+  },
+  {
+    "id": "mn-homeowner-property-tax-refund",
+    "name": "Minnesota Homeowner Property Tax Refund",
+    "agency": "Minnesota Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Annual state refund for homeowners whose property taxes are high relative to household income. File with the Minnesota Department of Revenue.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota homeowners",
+      "Property taxes high relative to household income — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File a property tax refund return with the Department of Revenue"
+    ],
+    "whatToBring": [
+      "Property tax statement and household income records"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Filing for a Property Tax Refund — Revenue",
+        "value": "https://www.revenue.state.mn.us/filing-property-tax-refund"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for a Property Tax Refund",
+        "url": "https://www.revenue.state.mn.us/filing-property-tax-refund"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.revenue.state.mn.us/filing-property-tax-refund"
+    ]
+  },
+  {
+    "id": "mn-renter-property-tax-refund",
+    "name": "Minnesota Renter's Property Tax Refund",
+    "agency": "Minnesota Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Annual state refund for renters who pay property taxes indirectly through rent. File with the Minnesota Department of Revenue.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota renters",
+      "Rent paid on a Minnesota property — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "File a property tax refund return with the Department of Revenue"
+    ],
+    "whatToBring": [
+      "Rent records and household income records"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Filing for a Property Tax Refund — Revenue",
+        "value": "https://www.revenue.state.mn.us/filing-property-tax-refund"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for a Property Tax Refund",
+        "url": "https://www.revenue.state.mn.us/filing-property-tax-refund"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.revenue.state.mn.us/filing-property-tax-refund"
+    ]
+  },
+  {
+    "id": "mn-dvs-license-id",
+    "name": "Minnesota Driver and Vehicle Services (DVS)",
+    "agency": "Minnesota Department of Public Safety — Driver and Vehicle Services",
+    "category": "Transportation",
+    "description": "Driver's licenses, permits, and state ID cards, including REAL ID. Renew and manage many services through the DVS online portal; apply in person at DVS exam stations and deputy registrar offices.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents",
+      "Identity and residency documentation required — see application form"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Completed application; identity documents per the application form"
+    ],
+    "whatToBring": [
+      "Completed application and identity documents — see application form"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DVS Online Portal",
+        "value": "https://dps.mn.gov/news/online-portal-lets-you-manage-dvs-services-your-schedule"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DVS Online Services",
+        "url": "https://dps.mn.gov/news/online-portal-lets-you-manage-dvs-services-your-schedule"
+      },
+      {
+        "label": "License/Permit/ID Application (PDF)",
+        "url": "https://assets.dps.mn.gov/files/dvs/dvs-license-permit-id-application.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by credential",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dps.mn.gov/news/online-portal-lets-you-manage-dvs-services-your-schedule",
+      "https://assets.dps.mn.gov/files/dvs/dvs-license-permit-id-application.pdf"
+    ]
+  },
+  {
+    "id": "mn-business-registration",
+    "name": "Register a Business in Minnesota",
+    "agency": "Minnesota Secretary of State",
+    "category": "Small Business",
+    "description": "Register a business entity — LLC, corporation, assumed name, or nonprofit — with the Minnesota Secretary of State, and find startup guidance for new businesses.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Anyone forming a business in Minnesota"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Choose a business structure and name"
+    ],
+    "whatToBring": [
+      "Business name, registered agent, and filing information — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to Register Your Business — SOS",
+        "value": "https://sos.mn.gov:443/business-liens/business-help/how-to-register-your-business/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Register Your Business",
+        "url": "https://sos.mn.gov:443/business-liens/business-help/how-to-register-your-business/"
+      },
+      {
+        "label": "How to Start a Business in Minnesota",
+        "url": "https://www.sos.mn.gov/business-liens/start-a-business/how-to-start-a-business-in-minnesota/?searchTerm=minnesota"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sos.mn.gov:443/business-liens/business-help/how-to-register-your-business/",
+      "https://www.sos.mn.gov/business-liens/start-a-business/how-to-start-a-business-in-minnesota/?searchTerm=minnesota"
+    ]
+  },
+  {
+    "id": "mn-sbdc",
+    "name": "Minnesota Small Business Development Centers (SBDC)",
+    "agency": "Minnesota Department of Employment and Economic Development (DEED)",
+    "category": "Small Business",
+    "description": "No-cost, confidential business consulting and low- or no-cost training through nine regional centers statewide, helping entrepreneurs start, grow, and finance businesses. DEED is the lead center with the U.S. Small Business Administration.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota small businesses and entrepreneurs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — request consulting through a regional center"
+    ],
+    "whatToBring": [
+      "Business information as requested by your consultant"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DEED Budget Summary — SBDC (PDF)",
+        "value": "https://mn.gov/mmb-stat/documents/budget/research-and-data/summary-of-agencies-programs-activities/employment-and-economic-development.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBDC Program Overview (PDF)",
+        "url": "https://mn.gov/mmb-stat/documents/budget/research-and-data/summary-of-agencies-programs-activities/employment-and-economic-development.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free consulting; some training at low cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/mmb-stat/documents/budget/research-and-data/summary-of-agencies-programs-activities/employment-and-economic-development.pdf"
+    ]
+  },
+  {
+    "id": "mn-free-school-meals",
+    "name": "Minnesota Free School Meals for Kids",
+    "agency": "Minnesota Department of Education (MDE)",
+    "category": "Food",
+    "description": "Free school breakfast and lunch for students at participating Minnesota public and charter schools.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Students enrolled at participating Minnesota schools"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Enrollment at a participating school"
+    ],
+    "whatToBring": [
+      "School enrollment — contact your school for any forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Free School Meals — MDE",
+        "value": "https://education.mn.gov/MDE/dse/FNS/SNP/free/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Free School Meals Program",
+        "url": "https://education.mn.gov/MDE/dse/FNS/SNP/free/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://education.mn.gov/MDE/dse/FNS/SNP/free/"
+    ]
+  },
+  {
+    "id": "mn-wic",
+    "name": "Minnesota WIC — Women, Infants, and Children",
+    "agency": "Minnesota Department of Health (MDH)",
+    "category": "Food",
+    "description": "Nutrition education, breastfeeding support, health and social service referrals, and monthly food benefits for pregnant and postpartum women, infants, and children under age 5.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Pregnant and postpartum women, infants, and children under 5",
+      "Minnesota residents; income guidelines apply",
+      "Nutritional need assessed at a WIC clinic"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Schedule a certification appointment at a local WIC clinic"
+    ],
+    "whatToBring": [
+      "ID, proof of address, proof of income or program participation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Minnesota WIC — MDH",
+        "value": "https://www.health.state.mn.us/people/wic/index.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Minnesota WIC Program",
+        "url": "https://www.health.state.mn.us/people/wic/index.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.health.state.mn.us/people/wic/index.html"
+    ]
+  },
+  {
+    "id": "mn-aging-pathways",
+    "name": "Minnesota Aging Pathways",
+    "agency": "Minnesota Board on Aging",
+    "category": "Seniors",
+    "description": "Information and assistance connecting older adults, caregivers, and families to aging services across Minnesota.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Older adults, caregivers, and families in Minnesota"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published"
+    ],
+    "whatToBring": [
+      "None published"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Aging Pathways — Board on Aging",
+        "value": "https://mn.gov/board-on-aging/direct-services/aging-pathways/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Aging Pathways",
+        "url": "https://mn.gov/board-on-aging/direct-services/aging-pathways/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/board-on-aging/direct-services/aging-pathways/"
+    ]
+  },
+  {
+    "id": "mn-veterans-mdva",
+    "name": "Minnesota Department of Veterans Affairs (MDVA)",
+    "agency": "Minnesota Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "State veterans benefits and services, including help filing VA claims, state veterans homes, state veterans cemeteries, and outreach programs.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota veterans, service members, and their families"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — see program page"
+    ],
+    "whatToBring": [
+      "Military service documentation — varies by program"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "What MDVA Does",
+        "value": "https://mn.gov/mdva/about/what-we-do.jsp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "What MDVA Does",
+        "url": "https://mn.gov/mdva/about/what-we-do.jsp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/mdva/about/what-we-do.jsp"
+    ]
+  },
+  {
+    "id": "mn-veteran-relief-grant",
+    "name": "Minnesota Veteran's Relief Grant",
+    "agency": "Minnesota Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "Grants to help Minnesota veterans facing unexpected financial hardship with essential needs. Check the current overview for eligibility and application steps.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota veterans facing financial hardship",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "See grant overview for application steps"
+    ],
+    "whatToBring": [
+      "Documentation of need — see grant overview"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Veteran's Relief Grant Overview (PDF)",
+        "value": "https://mn.gov/mdva/assets/2024-07-22-vrg-overview_tcm1066-638308.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veteran's Relief Grant Overview (PDF)",
+        "url": "https://mn.gov/mdva/assets/2024-07-22-vrg-overview_tcm1066-638308.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; grant amounts vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/mdva/assets/2024-07-22-vrg-overview_tcm1066-638308.pdf"
+    ]
+  },
+  {
+    "id": "mn-vocational-rehabilitation",
+    "name": "Minnesota Vocational Rehabilitation Services (VRS)",
+    "agency": "Minnesota Department of Employment and Economic Development (DEED)",
+    "category": "Disability",
+    "description": "Employment services for Minnesotans with disabilities, including career counseling, training, and job placement support.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesotans with a disability that is a barrier to employment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — contact VRS to start"
+    ],
+    "whatToBring": [
+      "None published — contact VRS"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find Vocational Rehabilitation Services — DEED",
+        "value": "https://mn.gov/deed/job-seekers/find-vrs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find Vocational Rehabilitation Services",
+        "url": "https://mn.gov/deed/job-seekers/find-vrs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/deed/job-seekers/find-vrs/"
+    ]
+  },
+  {
+    "id": "mn-housing-startup-stepup",
+    "name": "Minnesota Housing Start Up and Step Up",
+    "agency": "Minnesota Housing",
+    "category": "Housing",
+    "description": "First-time and repeat homebuyer loan programs with down payment and closing cost assistance, offered through participating Minnesota lenders.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Homebuyers meeting income and purchase-price limits",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Work with a participating Minnesota Housing lender"
+    ],
+    "whatToBring": [
+      "Financial documents as required by your lender"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Start Up / Step Up — Minnesota Housing",
+        "value": "https://www.mnhousing.gov/get/mhfa_1043060"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start Up / Step Up Programs",
+        "url": "https://www.mnhousing.gov/get/mhfa_1043060"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Loan terms vary — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mnhousing.gov/get/mhfa_1043060"
+    ]
+  },
+  {
+    "id": "mn-lawhelpmn",
+    "name": "LawHelpMN — Free Legal Help",
+    "agency": "LawHelp Minnesota (legal aid network)",
+    "category": "Legal Aid",
+    "description": "Statewide directory and self-help resources for free civil legal help in Minnesota, including housing, family, consumer, and immigration issues.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesotans needing civil legal help",
+      "Income guidelines vary by provider — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published"
+    ],
+    "whatToBring": [
+      "Case details — varies by provider"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal aid hotline (per LawHelpMN booklet)",
+        "value": "1-877-696-6529"
+      },
+      {
+        "kind": "web",
+        "label": "LawHelpMN Tenants' Rights Booklet (PDF)",
+        "value": "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LawHelpMN Legal Resources (PDF booklet)",
+        "url": "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
+    ]
+  },
+  {
+    "id": "mn-mnsure",
+    "name": "MNsure — Minnesota Health Insurance Marketplace",
+    "agency": "MNsure",
+    "category": "Healthcare",
+    "description": "Minnesota's official health insurance marketplace to compare and enroll in qualified health plans, and to apply for Medical Assistance and MinnesotaCare.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents",
+      "Plan and program eligibility rules apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — create an account and apply online"
+    ],
+    "whatToBring": [
+      "Household and income information — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MNsure",
+        "value": "https://www.mnsure.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MNsure",
+        "url": "https://www.mnsure.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; plan premiums vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.mnsure.org"
+    ]
+  },
+  {
+    "id": "mn-ona",
+    "name": "Minnesota Office of New Americans (ONA)",
+    "agency": "Minnesota Department of Employment and Economic Development (DEED)",
+    "category": "Immigration",
+    "description": "State office established in 2023 (Minn. Stat. § 116J.4231) to support immigrant and refugee integration — reducing employment barriers and connecting New Americans with state services, employers, and community organizations.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Immigrants and refugees in Minnesota",
+      "Employers and community organizations serving New Americans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published"
+    ],
+    "whatToBring": [
+      "None published"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Office of New Americans 2025 Report (PDF)",
+        "value": "https://mn.gov/deed/assets/ona-report-2025-acc_tcm1045-701555.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Office of New Americans 2025 Report (PDF)",
+        "url": "https://mn.gov/deed/assets/ona-report-2025-acc_tcm1045-701555.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mn.gov/deed/assets/ona-report-2025-acc_tcm1045-701555.pdf"
+    ]
+  },
+  {
+    "id": "mn-careerforce",
+    "name": "CareerForce Minnesota",
+    "agency": "Minnesota Department of Employment and Economic Development (DEED)",
+    "category": "Employment",
+    "description": "Minnesota's workforce development system: job search tools, career planning, training resources, and in-person help at CareerForce locations statewide.",
+    "scope": {
+      "level": "state",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota job seekers and employers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — walk in or register online"
+    ],
+    "whatToBring": [
+      "Résumé and work history as needed"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CareerForceMN.com",
+        "value": "https://www.careerforcemn.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CareerForceMN.com",
+        "url": "https://www.careerforcemn.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.careerforcemn.com"
+    ]
+  },
+  {
+    "id": "mpls-public-housing",
+    "name": "Minneapolis Public Housing Authority (MPHA)",
+    "agency": "Minneapolis Public Housing Authority",
+    "category": "Housing",
+    "description": "Nearly 6,000 public and deeply affordable rental units across 42 high-rises, family homes, and townhomes in Minneapolis for households at or below 80% of Area Median Income. Demand is high and applicants join a waitlist.",
+    "scope": {
+      "level": "city",
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Household income at or below 80% of Area Median Income",
+      "Eligible citizen/noncitizen status; criminal history screening"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Check current waitlist openings on the MPHA housing page"
+    ],
+    "whatToBring": [
+      "Social Security numbers and dates of birth for all household members",
+      "Household income and asset documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MPHA main line (voicemail)",
+        "value": "612-342-1400"
+      },
+      {
+        "kind": "in-person",
+        "label": "MPHA headquarters",
+        "value": "1001 N Washington Ave, Minneapolis, MN 55401"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MPHA Housing — Apply",
+        "url": "https://mphaonline.org/mpha-housing/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Somali"
+    ],
+    "cost": "Rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mphaonline.org/mpha-housing/"
+    ]
+  },
+  {
+    "id": "stpaul-public-housing",
+    "name": "Saint Paul Public Housing Agency",
+    "agency": "Saint Paul Public Housing Agency",
+    "category": "Housing",
+    "description": "Public housing and Housing Choice Voucher (Section 8) rental assistance in Saint Paul. STATUS: the Housing Choice Voucher waiting list is currently closed; public housing applications for scattered-site 5-bedroom homes opened July 21, 2025 until further notice (online only).",
+    "scope": {
+      "level": "city",
+      "city": "Saint Paul",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Low-income households",
+      "Income and preference criteria apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Open until further notice",
+        "note": "Public housing 5-bedroom scattered-site applications opened 2025-07-21; Housing Choice Voucher waiting list currently closed."
+      }
+    ],
+    "prerequisites": [
+      "Apply online only; no paper, fax, or email applications accepted"
+    ],
+    "whatToBring": [
+      "Household, income, and ID information — see application page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Waitlist status IVR",
+        "value": "651-371-6135"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Apply — St. Paul PHA",
+        "url": "https://stpha.org/applicant-resources-and-information/how-to-apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Rent based on income",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://stpha.org/applicant-resources-and-information/how-to-apply"
+    ]
+  },
+  {
+    "id": "rochester-hra",
+    "name": "Olmsted County Housing and Redevelopment Authority (HRA)",
+    "agency": "Olmsted County Housing and Redevelopment Authority",
+    "category": "Housing",
+    "description": "Administers rental assistance, homeowner and rental rehabilitation funds, and county-owned rental properties to expand affordable housing opportunities for Olmsted County residents, including Rochester.",
+    "scope": {
+      "level": "county",
+      "county": "Olmsted",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Olmsted County residents",
+      "Income and program criteria apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — check current waitlist and program status"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Olmsted County HRA",
+        "value": "https://www.olmstedcounty.gov/government/county-boards-commissions/housing-redevelopment-authority-hra/olmsted-county-hra-mission"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Olmsted County HRA",
+        "url": "https://www.olmstedcounty.gov/government/county-boards-commissions/housing-redevelopment-authority-hra/olmsted-county-hra-mission"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; assistance terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.olmstedcounty.gov/government/county-boards-commissions/housing-redevelopment-authority-hra/olmsted-county-hra-mission"
+    ]
+  },
+  {
+    "id": "bloomington-hra",
+    "name": "Bloomington Housing and Redevelopment Authority (HRA)",
+    "agency": "City of Bloomington Housing and Redevelopment Authority",
+    "category": "Housing",
+    "description": "Affordable housing programs in Bloomington: Housing Choice Vouchers for households at or below 50% of Area Median Income, down payment assistance, home improvement loans, and senior home-maintenance services.",
+    "scope": {
+      "level": "city",
+      "city": "Bloomington",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Bloomington residents",
+      "Income limits apply by program — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — see HRA resources page"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by program; see HRA resources page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Bloomington HRA Resources",
+        "value": "https://bloomingtonmn.gov/hr/hra-resources"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Bloomington HRA Resources",
+        "url": "https://bloomingtonmn.gov/hr/hra-resources"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; assistance terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://bloomingtonmn.gov/hr/hra-resources"
+    ]
+  },
+  {
+    "id": "duluth-transit",
+    "name": "Duluth Transit Authority (DTA)",
+    "agency": "Duluth Transit Authority",
+    "category": "Transportation",
+    "description": "Fixed-route bus service in the Duluth area. Fares: peak $1.50, off-peak $0.75, day pass $3.00, 31-day adult pass $40.00. Reduced fares available for eligible riders with DTA approval.",
+    "scope": {
+      "level": "city",
+      "city": "Duluth",
+      "state": "MN"
+    },
+    "eligibility": [
+      "General public",
+      "Reduced fare: eligibility and DTA approval required — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published"
+    ],
+    "whatToBring": [
+      "Reduced fare: eligibility documentation and DTA approval"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DTA Fares and Passes",
+        "value": "https://www.duluthtransit.com/home/getting-there/fares-and-passes/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DTA Fares and Passes",
+        "url": "https://www.duluthtransit.com/home/getting-there/fares-and-passes/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$0.75–$1.50 per ride; passes $3–$40",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.duluthtransit.com/home/getting-there/fares-and-passes/"
+    ]
+  },
+  {
+    "id": "msp-transit-tap",
+    "name": "Metro Transit Transit Assistance Program (TAP)",
+    "agency": "Metro Transit (Metropolitan Council)",
+    "category": "Transportation",
+    "description": "Reduced $1-per-ride transit fares on a Go-To Card for eligible lower-income riders across the seven-county Twin Cities metro (Minneapolis–St. Paul). Reduced $1 fares are also available for seniors 65+, youth 6–12, and Medicare card holders; service-connected disabled veterans ride free with a VA ID.",
+    "scope": {
+      "level": "city",
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Income at or below 50% of Area Median Income",
+      "Seniors 65+, youth 6–12, Medicare card holders, qualifying riders with disabilities"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Accepted eligibility documentation or income verification"
+    ],
+    "whatToBring": [
+      "Identity document and eligibility/income documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Metro Transit Customer Relations",
+        "value": "612-373-3333"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Metro Transit Fares (incl. TAP)",
+        "url": "https://www.metrotransit.org/fares?intent=info&agency_id=0"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$1 per ride with TAP",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.metrotransit.org/fares?intent=info&agency_id=0"
+    ]
+  },
+  {
+    "id": "hennepin-library",
+    "name": "Hennepin County Library Card",
+    "agency": "Hennepin County Library",
+    "category": "Education",
+    "description": "Free library cards for Hennepin County residents and property owners, covering Minneapolis and Bloomington. Apply online for an immediate digital card, or in person at any of 41 locations; includes eBooks, audiobooks, computers, and 100+ online resources.",
+    "scope": {
+      "level": "county",
+      "county": "Hennepin",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Hennepin County residents and property owners",
+      "Most Minnesota residents can register a local library card with HCL"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — apply online or in person"
+    ],
+    "whatToBring": [
+      "None published for online digital card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a Library Card — HCL",
+        "value": "https://www.hclib.org/about/library-cards/get-a-card"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a Library Card",
+        "url": "https://www.hclib.org/about/library-cards/get-a-card"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hclib.org/about/library-cards/get-a-card"
+    ]
+  },
+  {
+    "id": "stpaul-library",
+    "name": "Saint Paul Public Library Card",
+    "agency": "Saint Paul Public Library",
+    "category": "Education",
+    "description": "Free library cards for Saint Paul residents — eCards available online for first-time cardholders — with books, eBooks, computers, homework help, and language-learning resources across 13 locations. Photo ID, proof of date of birth, and proof of current address required for full cards.",
+    "scope": {
+      "level": "city",
+      "city": "Saint Paul",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Saint Paul residents (free)",
+      "Cards from other Minnesota library systems can be registered"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online for an eCard or visit any location"
+    ],
+    "whatToBring": [
+      "Photo ID, proof of date of birth, proof of current address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Library Cards — SPPL",
+        "value": "https://sppl.org/library-cards/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Library Cards — SPPL",
+        "url": "https://sppl.org/library-cards/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sppl.org/library-cards/"
+    ]
+  },
+  {
+    "id": "rochester-library",
+    "name": "Rochester Public Library Card",
+    "agency": "Rochester Public Library",
+    "category": "Education",
+    "description": "Free library cards for Rochester and Olmsted County residents, with books, eBooks, computers, printing, and bookmobile service. Main library: 101 2nd Street SE, Rochester, MN 55904.",
+    "scope": {
+      "level": "city",
+      "city": "Rochester",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Rochester and Olmsted County residents",
+      "SELCO member library cards honored"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or in person"
+    ],
+    "whatToBring": [
+      "Photo ID — see library card page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rochester Public Library",
+        "value": "507-328-2300"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for a Library Card",
+        "url": "https://rplmn.org/borrow/apply-for-a-library-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://rplmn.org/borrow/apply-for-a-library-card/"
+    ]
+  },
+  {
+    "id": "duluth-library",
+    "name": "Duluth Public Library Card",
+    "agency": "Duluth Public Library",
+    "category": "Education",
+    "description": "Free library cards for Duluth and Arrowhead Library System region residents. An Easy Access Card is available with just a government-issued photo ID (no proof of address required), giving access to digital resources and up to 4 physical items.",
+    "scope": {
+      "level": "city",
+      "city": "Duluth",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Duluth and Arrowhead Library System region residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online or in person"
+    ],
+    "whatToBring": [
+      "Government-issued photo ID; proof of address for a standard card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Get a Library Card — DPL",
+        "value": "https://duluthlibrary.org/library-cards/get-a-library-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get a Library Card — DPL",
+        "url": "https://duluthlibrary.org/library-cards/get-a-library-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://duluthlibrary.org/library-cards/get-a-library-card/"
+    ]
+  },
+  {
+    "id": "fed-medicare-mn",
+    "name": "Medicare Enrollment",
+    "agency": "U.S. Centers for Medicare & Medicaid Services",
+    "category": "Healthcare",
+    "description": "Federal health insurance for people 65 and older, certain younger people with disabilities, and people with End-Stage Renal Disease. Compare plans and enroll at medicare.gov.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Age 65 and older",
+      "Certain disabilities or End-Stage Renal Disease"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — enrollment periods apply; see program page"
+    ],
+    "whatToBring": [
+      "Social Security number and personal information — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Medicare.gov",
+        "value": "https://www.medicare.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Medicare.gov",
+        "url": "https://www.medicare.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Premiums and costs vary by plan",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.medicare.gov/"
+    ]
+  },
+  {
+    "id": "fed-va-minneapolis",
+    "name": "VA Minneapolis Health Care",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The VA Minneapolis Health Care System provides health care services to eligible Minnesota veterans. Apply for VA health care enrollment online.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Eligible veterans — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — apply for VA health care enrollment online"
+    ],
+    "whatToBring": [
+      "Military service information — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Minneapolis Health Care",
+        "value": "https://www.va.gov/minneapolis-health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Minneapolis Health Care",
+        "url": "https://www.va.gov/minneapolis-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; costs vary by priority group",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/minneapolis-health-care/"
+    ]
+  },
+  {
+    "id": "fed-sba-minnesota",
+    "name": "SBA Local Assistance — Minnesota",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "Find SBA district offices, Small Business Development Centers, SCORE mentors, and Women's Business Centers in Minnesota, plus federal loan and contracting programs.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota small businesses and entrepreneurs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published — search by ZIP code"
+    ],
+    "whatToBring": [
+      "None published"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Find Local SBA Assistance",
+        "value": "https://www.sba.gov/local-assistance/find"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find Local SBA Assistance",
+        "url": "https://www.sba.gov/local-assistance/find"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/local-assistance/find"
+    ]
+  },
+  {
+    "id": "fed-lifeline-mn",
+    "name": "FCC Lifeline Program",
+    "agency": "Federal Communications Commission / USAC",
+    "category": "Utilities",
+    "description": "Federal discount on monthly phone or broadband service for qualifying low-income households. Apply through the National Verifier.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Low-income households",
+      "Program participation or income criteria apply — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the National Verifier"
+    ],
+    "whatToBring": [
+      "Eligibility documentation — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lifeline Support",
+        "value": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lifeline Support",
+        "url": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; discount applied to service bill",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.lifelinesupport.org/"
+    ]
+  },
+  {
+    "id": "fed-fafsa-mn",
+    "name": "FAFSA — Federal Student Aid",
+    "agency": "U.S. Department of Education — Federal Student Aid",
+    "category": "Education",
+    "description": "Free Application for Federal Student Aid: the single application for federal grants, work-study, and student loans for Minnesota students attending college or career school.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Students attending college or career school",
+      "U.S. citizens and eligible noncitizens — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create an FSA ID and complete the FAFSA online"
+    ],
+    "whatToBring": [
+      "Social Security number, tax records, school information — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for FAFSA",
+        "value": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for FAFSA",
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://studentaid.gov/h/apply-for-aid/fafsa"
+    ]
+  },
+  {
+    "id": "fed-usajobs-mn",
+    "name": "USAJOBS — Federal Jobs",
+    "agency": "U.S. Office of Personnel Management",
+    "category": "Employment",
+    "description": "Official job board for federal government positions, including openings in Minnesota. Create an account to search and apply.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "U.S. citizens and nationals; some roles open to others — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a USAJOBS account to apply"
+    ],
+    "whatToBring": [
+      "Résumé and application materials — varies by posting"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USAJOBS",
+        "value": "https://www.usajobs.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USAJOBS",
+        "url": "https://www.usajobs.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.usajobs.gov/"
+    ]
+  },
+  {
+    "id": "fed-hud-minneapolis-field-office",
+    "name": "HUD Minneapolis Field Office",
+    "agency": "U.S. Department of Housing and Urban Development",
+    "category": "Housing",
+    "description": "HUD's Minneapolis field office serving Minnesota — a contact point for fair housing complaints and HUD-approved housing counseling resources.",
+    "scope": {
+      "level": "federal",
+      "state": "MN"
+    },
+    "eligibility": [
+      "Minnesota residents with housing questions or fair housing complaints"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No published deadline; apply any time."
+      }
+    ],
+    "prerequisites": [
+      "None published"
+    ],
+    "whatToBring": [
+      "Details of your housing question or complaint"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD Minneapolis Field Office",
+        "value": "(612) 370-3000"
+      },
+      {
+        "kind": "in-person",
+        "label": "HUD Minneapolis Field Office",
+        "value": "212 Third Avenue South, Suite 150, Minneapolis, MN 55401"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fair Housing & HUD Contacts (LawHelpMN booklet, PDF)",
+        "url": "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lawhelpmn.org/sites/default/files/2025-10/2025%20Tenants%20Rights%20Booklet.pdf"
+    ]
   }
 ]
