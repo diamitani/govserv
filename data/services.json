@@ -9330,5 +9330,2561 @@
     "sources": [
       "https://www.uscis.gov/citizenship/apply-for-naturalization"
     ]
+  },
+  {
+    "agency": "NYS Office of Temporary and Disability Assistance (OTDA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for SNAP (OTDA)",
+        "url": "https://OTDA.NY.Gov/programs/apply/"
+      }
+    ],
+    "category": "Food",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OTDA hotline",
+        "value": "1-800-342-3009"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits (online applications)",
+        "value": "https://mybenefits.ny.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; approved benefits must begin no later than 30 days after the local district receives the application."
+      }
+    ],
+    "description": "Monthly food benefits on an EBT card for eligible low-income New York households — New York State's version of SNAP. Apply online at myBenefits.ny.gov, in person at your local department of social services (or a SNAP Center in NYC), or by mail/fax. Expedited processing is available for households with little or no income.",
+    "eligibility": [
+      "New York State resident",
+      "Household income within program limits",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "id": "ny-snap",
+    "languages": [
+      "English"
+    ],
+    "name": "SNAP — Food Benefits (New York State)",
+    "prerequisites": [
+      "Apply online at myBenefits.ny.gov, in person at the local department of social services, or by mail/fax",
+      "Provide household income and expense information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://OTDA.NY.Gov/programs/apply/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by local office; call ahead"
+    ]
+  },
+  {
+    "agency": "NYS Office of Temporary and Disability Assistance (OTDA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for Temporary Assistance (OTDA)",
+        "url": "https://OTDA.NY.Gov/programs/apply/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OTDA hotline",
+        "value": "1-800-342-3009"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits (online applications)",
+        "value": "https://mybenefits.ny.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Contact your local department of social services immediately if you have emergency needs — you must be interviewed and given a written decision the same day you apply."
+      }
+    ],
+    "description": "Temporary cash assistance to help cover basic needs: Family Assistance for households with children, and Safety Net Assistance for single adults and childless couples. Apply online at myBenefits.ny.gov, in person at your local department of social services (Job Center in NYC), or by mail/fax.",
+    "eligibility": [
+      "New York State resident",
+      "Financial need within program limits",
+      "Time limits apply — check the program page"
+    ],
+    "id": "ny-temporary-assistance",
+    "languages": [
+      "English"
+    ],
+    "name": "Temporary Assistance (Family Assistance / Safety Net)",
+    "prerequisites": [
+      "Apply online at myBenefits.ny.gov, in person, or by mail/fax",
+      "Interview with the local department of social services"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://OTDA.NY.Gov/programs/apply/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies by local office; call ahead"
+    ]
+  },
+  {
+    "agency": "NYS Office of Temporary and Disability Assistance (OTDA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for HEAP (OTDA)",
+        "url": "https://OTDA.NY.Gov/programs/apply/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OTDA hotline",
+        "value": "1-800-342-3009"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits (outside NYC)",
+        "value": "https://mybenefits.ny.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Seasonal",
+        "note": "The 2025-26 season opened Regular benefits December 1, 2025 and Cooling Assistance April 15, 2026. Check the OTDA HEAP page for current-season dates — many SNAP and Temporary Assistance households receive HEAP automatically."
+      }
+    ],
+    "description": "The Home Energy Assistance Program (HEAP) helps eligible New Yorkers heat and cool their homes, with one Regular benefit per season plus Emergency benefits for households at risk of running out of fuel or losing utility service. The 2025-2026 season has ended; watch the OTDA HEAP page for 2026-2027 opening dates. Many SNAP and Temporary Assistance households receive HEAP automatically.",
+    "eligibility": [
+      "New York State resident",
+      "Household gross monthly income at or below the published guidelines for household size, OR",
+      "Receive SNAP benefits, federally funded Temporary Assistance, or Code A SSI (Living Alone)"
+    ],
+    "id": "ny-heap",
+    "languages": [
+      "English"
+    ],
+    "name": "HEAP — Home Energy Assistance Program",
+    "prerequisites": [
+      "Apply when the season is open: online (myBenefits.ny.gov outside NYC; ACCESS HRA in NYC), in person at your HEAP Local District Contact, or by mail",
+      "Provide income and heating-cost information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://OTDA.NY.Gov/programs/apply/",
+      "https://otda.ny.gov/programs/heap/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income for all household members",
+      "Heating/utility bill or fuel-delivery information"
+    ]
+  },
+  {
+    "agency": "NYS Office of Temporary and Disability Assistance (OTDA) — Office of Administrative Hearings",
+    "applyLinks": [
+      {
+        "label": "How to request a Fair Hearing (OTDA)",
+        "url": "https://OTDA.NY.Gov/programs/apply/"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Fair Hearing request line (unverified)",
+        "value": "1-800-342-3334"
+      },
+      {
+        "kind": "phone",
+        "label": "NYC emergency Fair Hearings only (unverified)",
+        "value": "800-205-0110"
+      },
+      {
+        "kind": "in-person",
+        "label": "Fair Hearing office — New York City",
+        "value": "5 Beaver Street, New York, NY"
+      },
+      {
+        "kind": "in-person",
+        "label": "Fair Hearing office — Albany",
+        "value": "40 North Pearl Street, Albany, NY"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Request a hearing as soon as possible after you receive a notice of adverse action — deadlines to appeal are stated on the notice."
+      }
+    ],
+    "description": "Free appeal process if you disagree with a decision on SNAP, Temporary Assistance, HEAP, or other OTDA-administered benefits. Request a Fair Hearing online through the Fair Hearing Online Request Form, by phone, in person at a Fair Hearing office, or in writing to 40 North Pearl Street, 15th Floor, Albany, NY 12243.",
+    "eligibility": [
+      "Received an adverse decision on an OTDA-administered benefit (denial, reduction, discontinuance)"
+    ],
+    "id": "ny-fair-hearing",
+    "languages": [
+      "English"
+    ],
+    "name": "OTDA Fair Hearings — Benefit Appeals",
+    "prerequisites": [
+      "Have a notice of decision you want to appeal",
+      "Request online, by phone, in person, or in writing"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://OTDA.NY.Gov/programs/apply/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The notice of decision you are appealing",
+      "Any supporting documents for your case"
+    ]
+  },
+  {
+    "agency": "NYS Office of Temporary and Disability Assistance (OTDA) and the U.S. Social Security Administration (SSA)",
+    "applyLinks": [
+      {
+        "label": "How to apply for Social Security Disability (OTDA)",
+        "url": "https://OTDA.NY.Gov/programs/apply/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Security Administration",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "SSA online services",
+        "value": "https://www.ssa.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. After you apply to SSA, your claim is sent to the NYS Division of Disability Determinations for medical review; SSA makes the final determination."
+      }
+    ],
+    "description": "Social Security Disability Insurance (SSDI) provides monthly benefits to people who can no longer work because of a significant illness or injury. Apply online through SSA, by phone at 1-800-772-1213, or in person at a local Social Security office. The NYS Division of Disability Determinations reviews the medical evidence in New York claims.",
+    "eligibility": [
+      "Work history with Social Security contributions (SSDI)",
+      "A medical condition expected to last at least one year or result in death",
+      "SSA makes the final determination of eligibility"
+    ],
+    "id": "ny-social-security-disability",
+    "languages": [
+      "English"
+    ],
+    "name": "Social Security Disability Insurance — NY Claims",
+    "prerequisites": [
+      "Apply through the Social Security Administration (online, phone, or in person)",
+      "Provide work history and medical evidence"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://OTDA.NY.Gov/programs/apply/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Standard documents — varies; SSA will specify what is needed"
+    ]
+  },
+  {
+    "agency": "NYS Department of Health (DOH)",
+    "applyLinks": [
+      {
+        "label": "How to apply for NY Medicaid",
+        "url": "https://www.health.ny.gov/health_care/medicaid/how_do_i_apply.htm"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NY State of Health Marketplace customer service",
+        "value": "(855) 355-5777"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid Helpline",
+        "value": "(800) 541-2831"
+      },
+      {
+        "kind": "web",
+        "label": "NY State of Health marketplace",
+        "value": "https://nystateofhealth.ny.gov"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time — there is no open-enrollment window for Medicaid."
+      }
+    ],
+    "description": "Free or low-cost health coverage for eligible New York residents, including doctor visits, hospital care, prescriptions, and long-term care. Apply through NY State of Health (the official health plan marketplace) with free enrollment-assistor help, through a managed care organization, by calling the Medicaid Helpline, or at your local department of social services. The page is published in 15 languages.",
+    "eligibility": [
+      "New York State resident",
+      "Income-based eligibility using MAGI rules for most adults, children, and pregnant individuals",
+      "Aged, blind, or disabled applicants may apply through their local department of social services",
+      "Emergency Medicaid available regardless of immigration status for pregnancy or emergency conditions"
+    ],
+    "id": "ny-medicaid",
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "Russian",
+      "Yiddish",
+      "Bangla",
+      "Korean",
+      "Haitian Creole",
+      "Italian",
+      "Arabic",
+      "Polish",
+      "French",
+      "Urdu"
+    ],
+    "name": "Medicaid — Free or Low-Cost Health Coverage (NY)",
+    "prerequisites": [
+      "Apply through NY State of Health, a managed care organization, the Medicaid Helpline, or your local department of social services",
+      "Provide income, household, and citizenship/immigration information"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://www.health.ny.gov/health_care/medicaid/how_do_i_apply.htm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, residence, income, and citizenship/immigration status",
+      "Social Security number",
+      "Recent pay stubs (four weeks, if working)",
+      "Insurance or Medicare cards if you have other coverage"
+    ]
+  },
+  {
+    "agency": "NYS Department of Health",
+    "applyLinks": [
+      {
+        "label": "Apply or recertify for WIC",
+        "url": "https://www.health.ny.gov/prevention/nutrition/wic/how_to_apply.htm"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Growing Up Healthy Hotline (24/7)",
+        "value": "1-800-522-5006"
+      },
+      {
+        "kind": "web",
+        "label": "Find a local WIC office",
+        "value": "https://www.health.ny.gov/prevention/nutrition/wic/how_to_apply.htm"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; appointments are by phone or in person at a local WIC office."
+      }
+    ],
+    "description": "Free nutrition support for pregnant and postpartum women, infants, and children under 5: healthy foods on an eWIC card, nutrition counseling, breastfeeding support, and referrals to other services. WIC does not ask about immigration status, and working families may qualify. You can be certified regardless of immigration status.",
+    "eligibility": [
+      "Live in New York State",
+      "Pregnant, breastfeeding, or had a baby within the last 6 months; or have a child under 5 (parents, guardians, foster parents may apply)",
+      "Income within the posted 2026-2027 limits (e.g., $29,526/year for a household of one, effective through June 30, 2027), OR enrolled in Medicaid, SNAP, TANF, Head Start, or Essential Plan"
+    ],
+    "id": "ny-wic",
+    "languages": [
+      "English"
+    ],
+    "name": "WIC — Women, Infants, and Children",
+    "prerequisites": [
+      "Contact your local WIC office for a phone or in-person appointment",
+      "Have proof of identity, address, and income ready"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://www.health.ny.gov/prevention/nutrition/wic/how_to_apply.htm",
+      "https://www.health.ny.gov/prevention/nutrition/wic/eligibility.htm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity (photo ID, birth certificate, or similar)",
+      "Proof of address (bill, lease, or mail with your name)",
+      "Proof of income (pay stubs, or proof of enrollment in Medicaid/SNAP/TANF/Head Start/Essential Plan)"
+    ]
+  },
+  {
+    "agency": "NYS Department of Labor",
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance contact and filing info (DOL)",
+        "url": "https://dol.ny.gov/unemployment-insurance-contact"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Telephone Claims Center (file a claim)",
+        "value": "(888) 209-8124"
+      },
+      {
+        "kind": "phone",
+        "label": "Weekly benefit certification",
+        "value": "1-888-581-5812"
+      },
+      {
+        "kind": "phone",
+        "label": "UI fraud hotline",
+        "value": "(888) 598-2077"
+      },
+      {
+        "kind": "web",
+        "label": "Certify weekly benefits online",
+        "value": "https://www.labor.ny.gov/signin"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File during your first week of total or partial unemployment. Up to 26 weeks of benefits per year; an unpaid waiting week applies before payments begin."
+      }
+    ],
+    "description": "Temporary income for New York workers who lost employment through no fault of their own. File a claim online with a NY.gov ID or by phone through the Telephone Claims Center, then certify for benefits each week online or by phone. A handbook and benefit determination are mailed after you file.",
+    "eligibility": [
+      "Lost employment through no fault of your own",
+      "Enough prior earnings to establish a claim",
+      "Ready, willing, and able to work, and actively seeking work"
+    ],
+    "id": "ny-unemployment-insurance",
+    "languages": [
+      "English"
+    ],
+    "name": "Unemployment Insurance — NYS Department of Labor",
+    "prerequisites": [
+      "Create a personal NY.gov ID to file and certify online",
+      "File during the first week of unemployment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://dol.ny.gov/unemployment-insurance-contact",
+      "https://dol.ny.gov/you-file-claim-unemployment-faqs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Employer and wage information",
+      "Bank account information for direct deposit"
+    ]
+  },
+  {
+    "agency": "NYS Department of Taxation and Finance",
+    "applyLinks": [
+      {
+        "label": "STAR frequently asked questions (Tax Department)",
+        "url": "http://www.tax.ny.gov/star/faqs.htm"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "STAR registration line (unverified)",
+        "value": "518-457-2036"
+      },
+      {
+        "kind": "web",
+        "label": "Homeowner Benefit Portal (register/manage STAR)",
+        "value": "https://www.tax.ny.gov/online/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "No annual deadline for the STAR credit — register any time; the department accepts registrations up to three years from the income tax filing deadline (e.g., the 2024 credit can be claimed through April 15, 2028). Once registered, eligibility is reviewed automatically each year."
+      }
+    ],
+    "description": "The School Tax Relief (STAR) program gives eligible New York homeowners property tax relief each year: a STAR credit (a check or direct deposit from the Tax Department) or a STAR exemption (a reduction on the school tax bill for those who had it before 2016). Basic STAR is for owners with combined income of $500,000 or less; Enhanced STAR gives a larger benefit to qualifying seniors.",
+    "eligibility": [
+      "Own your primary residence in New York State",
+      "Combined income of owners and spouses of $500,000 or less (Basic STAR)",
+      "Enhanced STAR: age 65+ with lower qualifying income — check the program page"
+    ],
+    "id": "ny-star",
+    "languages": [
+      "English"
+    ],
+    "name": "STAR — School Tax Relief for Homeowners",
+    "prerequisites": [
+      "Register for the STAR credit through the Tax Department's Homeowner Benefit Portal (create an Individual Online Services account)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "http://www.tax.ny.gov/star/faqs.htm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Names and Social Security numbers for all owners and spouses",
+      "School district of the primary residence",
+      "Date of property purchase and seller name",
+      "Most recent school tax bill, if received"
+    ]
+  },
+  {
+    "agency": "NYS Higher Education Services Corporation (HESC)",
+    "applyLinks": [
+      {
+        "label": "Apply for New York State TAP",
+        "url": "https://www.ny.gov/services/apply-new-york-state-tap"
+      }
+    ],
+    "category": "Education",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HESC website",
+        "value": "https://www.hesc.ny.gov"
+      },
+      {
+        "kind": "web",
+        "label": "TAP on the Web application",
+        "value": "https://www.tap.hesc.ny.gov/totw/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": "2027-06-30",
+        "label": "2026-27 TAP application deadline",
+        "note": "The 2026-27 FAFSA and TAP applications are open until June 30, 2027. Apply as early as possible."
+      }
+    ],
+    "description": "The Tuition Assistance Program (TAP) is a grant — not a loan — of up to $5,665 per year for eligible New York State residents at approved in-state colleges and universities. Available for full-time and part-time undergraduates, including non-degree workforce credential programs at SUNY and CUNY schools. Students who don't meet residency requirements may qualify through the NYS DREAM Act.",
+    "eligibility": [
+      "New York State resident for at least 12 continuous months (or qualify through the NYS DREAM Act)",
+      "Enrolled in an approved undergraduate or non-degree workforce program at a NYS college or university",
+      "Income within program limits (up to $125,000 net taxable income for dependent students)"
+    ],
+    "id": "ny-tap",
+    "languages": [
+      "English"
+    ],
+    "name": "TAP — Tuition Assistance Program",
+    "prerequisites": [
+      "Complete the FAFSA (Free Application for Federal Student Aid)",
+      "Create a HESC account (HESCPIN) to manage the TAP application"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "https://www.ny.gov/services/apply-new-york-state-tap",
+      "https://www.governor.ny.gov/news/governor-hochul-announces-opening-key-new-york-state-college-aid-applications-2026-27-academic"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "FAFSA confirmation and income information",
+      "HESC account credentials"
+    ]
+  },
+  {
+    "agency": "NYS Department of Veterans' Services",
+    "applyLinks": [
+      {
+        "label": "NYS Department of Veterans' Services",
+        "url": "http://veterans.ny.gov/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Talk to a Veterans Benefits Advisor",
+        "value": "1-888-838-7697"
+      },
+      {
+        "kind": "web",
+        "label": "veterans.ny.gov",
+        "value": "http://veterans.ny.gov/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time to book a phone, video, or in-person consultation with an accredited Veterans Benefits Advisor."
+      }
+    ],
+    "description": "New York's advocacy agency for veterans, service members, and military families since 1945. Free help from accredited Veterans Benefits Advisors — all veterans themselves — with VA claims and appeals, discharge upgrades, New York State benefits (including the Blind Annuity and emergency housing assistance), and referrals to health, legal, education, and employment services.",
+    "eligibility": [
+      "Veterans, service members, and military families in New York State"
+    ],
+    "id": "ny-veterans-services",
+    "languages": [
+      "English"
+    ],
+    "name": "NYS Department of Veterans' Services",
+    "prerequisites": [
+      "Book a consultation online or call to schedule an appointment",
+      "Use the office search to find a Services Office near you"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "sources": [
+      "http://veterans.ny.gov/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD-214 or other separation documents, if available",
+      "Any VA decision letters you want reviewed"
+    ]
+  },
+  {
+    "id": "ny-paid-family-leave",
+    "name": "Paid Family Leave",
+    "agency": "NYS Paid Family Leave (Workers' Compensation Board)",
+    "category": "Employment",
+    "description": "New York's Paid Family Leave provides up to 12 weeks of job-protected, paid time off for bonding with a new child, caring for a seriously ill family member, or handling a qualifying military exigency. Benefits are calculated using a 67% of average weekly wage formula.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Employed in New York State (most private-sector employees are covered)",
+      "Meet the program's qualifying work-period requirements — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File a claim when a qualifying event occurs; notify your employer as required."
+      }
+    ],
+    "prerequisites": [
+      "Notify your employer of the qualifying event",
+      "File a claim with your employer's Paid Family Leave insurance carrier"
+    ],
+    "whatToBring": [
+      "Proof of employment and wages",
+      "Documentation of the qualifying family or military event"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Paid Family Leave for employees",
+        "value": "http://paidfamilyleave.ny.gov/employees"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Paid Family Leave for employees",
+        "url": "http://paidfamilyleave.ny.gov/employees"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://paidfamilyleave.ny.gov/employees"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-acces-vr",
+    "name": "ACCES-VR — Vocational Rehabilitation",
+    "agency": "NYS Education Department — ACCES-VR",
+    "category": "Employment",
+    "description": "Adult Career and Continuing Education Services–Vocational Rehabilitation (ACCES-VR) helps New Yorkers age 14 and older with disabilities prepare for, get, and keep employment — including vocational assessments (provided at no cost), training, and job placement support.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "New York State resident age 14 or older",
+      "Have a disability that affects employment",
+      "Willing to participate in vocational rehabilitation"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the ACCES-VR application online",
+      "Provide disability and employment background information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Medical or disability documentation, if available",
+      "Work and education history"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for ACCES-VR services",
+        "value": "http://www.acces.nysed.gov/vr/vrapply"
+      },
+      {
+        "kind": "email",
+        "label": "ACCES-VR applications",
+        "value": "accesvrapplications@nysed.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for ACCES-VR services",
+        "url": "http://www.acces.nysed.gov/vr/vrapply"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://www.acces.nysed.gov/vr/vrapply"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-connects",
+    "name": "NY Connects — Long-Term Services Link",
+    "agency": "NYS Office for the Aging — NY Connects",
+    "category": "Seniors",
+    "description": "NY Connects is New York's free, trusted link to long-term services and supports — one place to get information and help connecting to home care, transportation, meals, caregiver support, and other services for older adults and people with disabilities.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Older adults, people with disabilities, and caregivers in New York State"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time for free support navigation."
+      }
+    ],
+    "prerequisites": [
+      "Call or contact your local NY Connects office",
+      "Describe the services or support you need"
+    ],
+    "whatToBring": [
+      "Basic information about the person needing services"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NY Connects",
+        "value": "(800) 342-9871"
+      },
+      {
+        "kind": "web",
+        "label": "NY Connects — Office for the Aging",
+        "value": "https://aging.ny.gov/ny-connects-your-link-long-term-services-and-supports"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NY Connects — find your local office",
+        "url": "https://aging.ny.gov/ny-connects-your-link-long-term-services-and-supports"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://aging.ny.gov/ny-connects-your-link-long-term-services-and-supports"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-hcr-section-8",
+    "name": "Housing Choice Vouchers (Section 8) — HCR",
+    "agency": "NYS Homes and Community Renewal (HCR)",
+    "category": "Housing",
+    "description": "HCR administers the federal Housing Choice Voucher (Section 8) program in parts of New York State through local administrators — rental assistance that helps eligible low-income households afford homes in the private market. Note: HCR's Project-Based Voucher lottery was listed as closed Friday, July 24 at 5:00 p.m.; check the page for current availability.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Low-income household within program income limits",
+      "Apply through a local HCR voucher administrator"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications depend on local administrator waitlists — contact the administrator for your area."
+      }
+    ],
+    "prerequisites": [
+      "Contact the HCR local administrator serving your area",
+      "Provide household income and composition information"
+    ],
+    "whatToBring": [
+      "Proof of identity for household members",
+      "Proof of income",
+      "Current address information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing Choice Voucher portal help",
+        "value": "(833) 791-2748"
+      },
+      {
+        "kind": "web",
+        "label": "HCR Housing Choice Vouchers",
+        "value": "https://hcr.ny.gov/hcv"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HCR Housing Choice Voucher program",
+        "url": "https://hcr.ny.gov/hcv"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://hcr.ny.gov/hcv"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-office-new-americans",
+    "name": "Office for New Americans Hotline",
+    "agency": "NYS Department of State — Office for New Americans",
+    "category": "Immigration",
+    "description": "The Office for New Americans runs a free, anonymous hotline connecting immigrants and refugees to legal services, English classes, citizenship help, and community resources — with assistance in more than 200 languages.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Immigrants and refugees in New York State",
+      "Calls are free and anonymous"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call any time during hotline hours."
+      }
+    ],
+    "prerequisites": [
+      "Call the hotline and describe what help you need"
+    ],
+    "whatToBring": [
+      "No documents required — the hotline is free and anonymous"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office for New Americans hotline",
+        "value": "1-800-566-7636"
+      },
+      {
+        "kind": "web",
+        "label": "Office for New Americans",
+        "value": "https://dos.ny.gov/office-new-americans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Office for New Americans",
+        "url": "https://dos.ny.gov/office-new-americans"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://dos.ny.gov/office-new-americans"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-child-care-assistance",
+    "name": "Child Care Assistance Program",
+    "agency": "NYS Office of Children and Family Services (OCFS)",
+    "category": "Family & Childcare",
+    "description": "New York State's Child Care Assistance Program helps eligible families pay for child care — the state is expanding access toward free or low-cost care for more families. Apply through your local department of social services.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "New York State resident",
+      "Income within program limits — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your local department of social services."
+      }
+    ],
+    "prerequisites": [
+      "Apply through your local department of social services",
+      "Provide income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Child's birth certificate or proof of age"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Governor's child care portal announcement",
+        "value": "https://www.governor.ny.gov/news/governor-hochul-launches-digital-portal-help-new-york-state-deliver-free-or-low-cost-child"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NYS child care assistance information",
+        "url": "https://www.governor.ny.gov/news/governor-hochul-launches-digital-portal-help-new-york-state-deliver-free-or-low-cost-child"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.governor.ny.gov/news/governor-hochul-launches-digital-portal-help-new-york-state-deliver-free-or-low-cost-child"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-empire-state-child-credit",
+    "name": "Empire State Child Credit",
+    "agency": "NYS Department of Taxation and Finance",
+    "category": "Money & Taxes",
+    "description": "The Empire State Child Credit is a refundable New York State tax credit for qualifying families with children. Eligible filers need a valid Social Security number or ITIN; official 2025 and 2026–27 credit amounts are published on the Tax Department page.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "New York State resident taxpayer",
+      "Qualifying child meeting program rules",
+      "Valid Social Security number or ITIN"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claim the credit when you file your New York State income tax return."
+      }
+    ],
+    "prerequisites": [
+      "File a New York State income tax return",
+      "Meet the qualifying-child and income rules"
+    ],
+    "whatToBring": [
+      "Social Security numbers or ITINs for you and qualifying children",
+      "Income tax records"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Empire State Child Credit (Tax Department)",
+        "value": "https://tax.ny.gov/pit/credits/empire_state_child_credit.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Empire State Child Credit",
+        "url": "https://tax.ny.gov/pit/credits/empire_state_child_credit.htm"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://tax.ny.gov/pit/credits/empire_state_child_credit.htm"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-llc-formation",
+    "name": "Form a Limited Liability Company (LLC)",
+    "agency": "NYS Department of State — Division of Corporations",
+    "category": "Small Business",
+    "description": "Form a Limited Liability Company in New York State: file Articles of Organization with the Department of State ($200 filing fee), adopt an operating agreement, and complete the publication requirement.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in New York State"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File any time; the LLC is formed when the Department of State accepts your filing."
+      }
+    ],
+    "prerequisites": [
+      "Prepare Articles of Organization",
+      "File with the Department of State and pay the fee"
+    ],
+    "whatToBring": [
+      "Proposed LLC name",
+      "Registered agent name and address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Corporations",
+        "value": "(518) 473-2492"
+      },
+      {
+        "kind": "web",
+        "label": "Forming an LLC in New York",
+        "value": "https://dos.ny.gov/forming-limited-liability-company-new-york"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Forming a Limited Liability Company in New York",
+        "url": "https://dos.ny.gov/forming-limited-liability-company-new-york"
+      }
+    ],
+    "cost": "$200 filing fee",
+    "sources": [
+      "https://dos.ny.gov/forming-limited-liability-company-new-york"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "ny-unclaimed-funds",
+    "name": "Unclaimed Funds — Search & Claim",
+    "agency": "NYS Office of the State Comptroller",
+    "category": "Money & Taxes",
+    "description": "Search the State Comptroller's unclaimed funds database for money owed to you — forgotten bank accounts, uncashed checks, and more. Searching and claiming are free; online claims can be filed in minutes and most are paid within 30 days.",
+    "scope": {
+      "level": "state",
+      "state": "NY"
+    },
+    "eligibility": [
+      "Anyone who may be owed funds held by New York State"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Search and claim any time."
+      }
+    ],
+    "prerequisites": [
+      "Search the unclaimed funds database",
+      "File a claim with documentation if funds are found"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Documentation linking you to the funds (varies by claim)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to search for and claim property",
+        "value": "https://www.osc.ny.gov/unclaimed-funds/claimants/how-search-claim-property"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Search and claim unclaimed funds",
+        "url": "https://www.osc.ny.gov/unclaimed-funds/claimants/how-search-claim-property"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.osc.ny.gov/unclaimed-funds/claimants/how-search-claim-property"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-311",
+    "name": "NYC311 — City Services & Information",
+    "agency": "City of New York — NYC311 (Office of Technology & Innovation)",
+    "category": "Legal Aid",
+    "description": "NYC311 is the city's 24/7/365 non-emergency services line — report issues, get information on city programs, and track service requests. Phone service is available in 175 languages, with text accessibility at 311-692.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "Anyone needing New York City non-emergency services or information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available 24/7/365."
+      }
+    ],
+    "prerequisites": [
+      "Call, text, or use the NYC311 website/app"
+    ],
+    "whatToBring": [
+      "Location details for the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NYC311",
+        "value": "311"
+      },
+      {
+        "kind": "web",
+        "label": "NYC311",
+        "value": "https://www.nyc.gov/content/oti/pages/meet-the-team/nyc311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NYC311",
+        "url": "https://www.nyc.gov/content/oti/pages/meet-the-team/nyc311"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.nyc.gov/content/oti/pages/meet-the-team/nyc311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-access-hra",
+    "name": "ACCESS HRA — Benefits Portal",
+    "agency": "NYC Human Resources Administration (HRA)",
+    "category": "Food",
+    "description": "ACCESS HRA is New York City's online benefits portal: apply for SNAP, recertify SNAP and Cash Assistance, upload documents, and manage your HRA case from a phone or computer.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "New York City residents applying for HRA-administered benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply and recertify any time online."
+      }
+    ],
+    "prerequisites": [
+      "Create an ACCESS HRA account",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Household expense information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ACCESS HRA",
+        "value": "https://www.nyc.gov/site/hra/help/accesshra.page"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "ACCESS HRA",
+        "url": "https://www.nyc.gov/site/hra/help/accesshra.page"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.nyc.gov/site/hra/help/accesshra.page"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-nycha-public-housing",
+    "name": "NYCHA Public Housing",
+    "agency": "NYC Housing Authority (NYCHA)",
+    "category": "Housing",
+    "description": "Apply for NYCHA public housing through ApplyNYCHA — no documents are needed with the initial application. Applications stay active for two years and must be renewed every 24 months. Note: NYCHA's Section 8 waitlist closed June 9, 2024.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "Low-income households meeting NYCHA admission requirements"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; applications remain active two years and must be renewed every 24 months."
+      }
+    ],
+    "prerequisites": [
+      "Submit an application through ApplyNYCHA",
+      "No documents needed with the initial application"
+    ],
+    "whatToBring": [
+      "No documents needed to start the application; NYCHA will request documents later"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ApplyNYCHA help",
+        "value": "(718) 707-7771"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for NYCHA public housing",
+        "value": "https://www.nyc.gov/site/nycha/eligibility/apply.page"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for NYCHA public housing",
+        "url": "https://www.nyc.gov/site/nycha/eligibility/apply.page"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.nyc.gov/site/nycha/eligibility/apply.page"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-fair-fares",
+    "name": "Fair Fares NYC — Transit Discount",
+    "agency": "NYC Mayor's Public Engagement Unit",
+    "category": "Transportation",
+    "description": "Fair Fares NYC gives eligible residents a 50% discount on subway, eligible bus, and Access-A-Ride trips. Open to NYC residents ages 18–64 with household income at or below 145% of the federal poverty level, regardless of immigration status.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "New York City resident",
+      "Age 18–64",
+      "Household income at or below 145% of the federal poverty level",
+      "Any immigration status"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online and provide household income information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of NYC address",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Fair Fares NYC",
+        "value": "https://www.nyc.gov/site/mayorspeu/programs/fair-fares.page"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fair Fares NYC",
+        "url": "https://www.nyc.gov/site/mayorspeu/programs/fair-fares.page"
+      }
+    ],
+    "cost": "Free to apply; half-price transit fares",
+    "sources": [
+      "https://www.nyc.gov/site/mayorspeu/programs/fair-fares.page"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-workforce1",
+    "name": "Workforce1 Career Centers",
+    "agency": "NYC Department of Small Business Services — Workforce1",
+    "category": "Employment",
+    "description": "Free job help and training at 18 Workforce1 Career Centers across the city — job search, resume help, training, and employer connections. Open to jobseekers age 18+ who are legally authorized to work; services available in 25 languages plus phone translation.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "Age 18 or older",
+      "Legally authorized to work in the United States"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Walk in or contact a center any time."
+      }
+    ],
+    "prerequisites": [
+      "Visit or contact a Workforce1 Career Center"
+    ],
+    "whatToBring": [
+      "Proof of identity and work authorization",
+      "Resume, if you have one"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Workforce1",
+        "value": "https://www.nyc.gov/employment/programs/workforce1"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Workforce1",
+        "url": "https://www.nyc.gov/employment/programs/workforce1"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.nyc.gov/employment/programs/workforce1"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-hhc-financial-assistance",
+    "name": "NYC Health + Hospitals Financial Assistance",
+    "agency": "NYC Health + Hospitals",
+    "category": "Healthcare",
+    "description": "NYC Health + Hospitals offers low- or no-cost health insurance options and reduced-fee payment arrangements (including HHC Options) for patients who need help paying for care.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "Patients of NYC Health + Hospitals facilities who need help paying for care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ask about financial assistance any time you receive care."
+      }
+    ],
+    "prerequisites": [
+      "Contact the facility's financial counseling or patient accounts office"
+    ],
+    "whatToBring": [
+      "Proof of income",
+      "Proof of address",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Financial assistance information",
+        "value": "https://www.nyc.gov/html/hhc/qhc/html/patient/financial.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Financial assistance information",
+        "url": "https://www.nyc.gov/html/hhc/qhc/html/patient/financial.shtml"
+      }
+    ],
+    "cost": "Free to apply",
+    "sources": [
+      "https://www.nyc.gov/html/hhc/qhc/html/patient/financial.shtml"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-pre-k",
+    "name": "Pre-K for All",
+    "agency": "NYC Department of Education",
+    "category": "Education",
+    "description": "Pre-K for All offers free, full-day pre-K to New York City children. For the 2026–27 school year, children born in 2022 were eligible and the application deadline was February 27, 2026 (now closed) — check the program page for the next application cycle.",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "New York City resident",
+      "Child born in the eligible year for the application cycle"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-02-27",
+        "label": "2026–27 application closed",
+        "note": "The 2026–27 Pre-K application deadline was February 27, 2026. Watch the program page for the next application cycle."
+      }
+    ],
+    "prerequisites": [
+      "Apply online during the application period"
+    ],
+    "whatToBring": [
+      "Child's birth certificate or proof of age",
+      "Proof of NYC address"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Pre-K admissions",
+        "value": "718-935-2009"
+      },
+      {
+        "kind": "web",
+        "label": "Pre-K for All",
+        "value": "https://access.nyc.gov/pl/programs/pre-k-for-all/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pre-K for All",
+        "url": "https://access.nyc.gov/pl/programs/pre-k-for-all/"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://access.nyc.gov/pl/programs/pre-k-for-all/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nyc-housing-connect",
+    "name": "NYC Housing Connect — Affordable Housing Lotteries",
+    "agency": "NYC Department of Housing Preservation and Development (HPD)",
+    "category": "Housing",
+    "description": "NYC Housing Connect is the city's portal to find and apply for affordable rental and homeownership opportunities across the five boroughs — financed by HPD and HDC, with rents regulated so they can't rise too much over time. Create an account, complete your household profile, and apply to lotteries; qualified applicants are chosen through a randomized lottery system. HPD also runs a multilingual information line (English: 212-863-5610).",
+    "scope": {
+      "level": "city",
+      "city": "New York City"
+    },
+    "eligibility": [
+      "Households meeting the income and size requirements of the specific lottery"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Lotteries open and close on their own schedules — check current opportunities regularly."
+      }
+    ],
+    "prerequisites": [
+      "Create a Housing Connect account and complete your household profile",
+      "Keep income and household information up to date"
+    ],
+    "whatToBring": [
+      "Proof of household income (pay stubs or other records)",
+      "Identification for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Housing Connect info (English)",
+        "value": "212-863-5610"
+      },
+      {
+        "kind": "web",
+        "label": "NYC Housing Connect (HPD)",
+        "value": "https://www.nyc.gov/site/hpd/services-and-information/nyc-housing-connect.page"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NYC Housing Connect (HPD)",
+        "url": "https://www.nyc.gov/site/hpd/services-and-information/nyc-housing-connect.page"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.nyc.gov/site/hpd/services-and-information/nyc-housing-connect.page"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "buffalo-311",
+    "name": "Buffalo 311 — City Services",
+    "agency": "City of Buffalo — 311",
+    "category": "Legal Aid",
+    "description": "Buffalo 311 is the city's line for non-emergency information, city service requests, and tracking — call 311 within the city or 716-851-4890.",
+    "scope": {
+      "level": "city",
+      "city": "Buffalo"
+    },
+    "eligibility": [
+      "Anyone needing City of Buffalo non-emergency services or information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or report any time."
+      }
+    ],
+    "prerequisites": [
+      "Call 311 or 716-851-4890, or use the online request system"
+    ],
+    "whatToBring": [
+      "Location details for the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Buffalo 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Buffalo 311 (outside the city)",
+        "value": "716-851-4890"
+      },
+      {
+        "kind": "web",
+        "label": "Contact Buffalo 311",
+        "value": "https://www.buffalony.gov/463/Contact-311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Contact Buffalo 311",
+        "url": "https://www.buffalony.gov/463/Contact-311"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.buffalony.gov/463/Contact-311"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "erie-dss-benefits",
+    "name": "Erie County DSS — Remote Benefit Services",
+    "agency": "Erie County Department of Social Services",
+    "category": "Food",
+    "description": "Erie County DSS offers remote service options for HEAP, Temporary Assistance, Emergency Services, SNAP, child care assistance, child support, and Adult Protective Services — including online applications and document upload.",
+    "scope": {
+      "level": "county",
+      "county": "Erie"
+    },
+    "eligibility": [
+      "Erie County residents applying for DSS-administered benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; remote options are available."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or in person",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Household expense information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Erie County DSS remote service options",
+        "value": "http://www3.erie.gov/socialservices/press/erie-county-department-social-services-promotes-remote-service-options"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Erie County DSS remote service options",
+        "url": "http://www3.erie.gov/socialservices/press/erie-county-department-social-services-promotes-remote-service-options"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://www3.erie.gov/socialservices/press/erie-county-department-social-services-promotes-remote-service-options"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "nfta-reduced-fares",
+    "name": "NFTA Reduced Fares",
+    "agency": "Niagara Frontier Transportation Authority (NFTA)",
+    "category": "Transportation",
+    "description": "NFTA-Metro reduced fares for riders age 65+, riders with a qualifying disability, and Community Care participants. A $2 reduced-fare card is available; reduced fares apply on regular routes only (not PAL paratransit).",
+    "scope": {
+      "level": "county",
+      "county": "Erie"
+    },
+    "eligibility": [
+      "Age 65 or older",
+      "Qualifying disability",
+      "Community Care participants"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the reduced-fare application",
+      "Provide proof of age or disability documentation"
+    ],
+    "whatToBring": [
+      "Proof of age or disability",
+      "Photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NFTA customer service",
+        "value": "(716) 855-6611"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY/relay",
+        "value": "(800) 662-1220"
+      },
+      {
+        "kind": "web",
+        "label": "NFTA reduced fares",
+        "value": "https://metro.nfta.com/fares/reduced-fares"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NFTA reduced fares",
+        "url": "https://metro.nfta.com/fares/reduced-fares"
+      }
+    ],
+    "cost": "$2 reduced-fare card",
+    "sources": [
+      "https://metro.nfta.com/fares/reduced-fares"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "rochester-311",
+    "name": "Rochester 311 — City Services",
+    "agency": "City of Rochester — Emergency Communications Department",
+    "category": "Legal Aid",
+    "description": "Rochester 311 connects you to city services by phone or online — call 311 or 585-428-5990, or submit requests 24/7 through the online portal. Third-party translation services and NYS Relay 711 are available.",
+    "scope": {
+      "level": "city",
+      "city": "Rochester"
+    },
+    "eligibility": [
+      "Anyone needing City of Rochester non-emergency services or information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone lines have set hours; online requests are available 24/7."
+      }
+    ],
+    "prerequisites": [
+      "Call 311 or 585-428-5990, or use the online portal"
+    ],
+    "whatToBring": [
+      "Location details for the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rochester 311",
+        "value": "311"
+      },
+      {
+        "kind": "phone",
+        "label": "Rochester 311 (outside the city)",
+        "value": "585-428-5990"
+      },
+      {
+        "kind": "web",
+        "label": "Rochester 311",
+        "value": "http://cityofrochester.gov/departments/emergency-communications-department/311-click-or-call-connect"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Rochester 311",
+        "url": "http://cityofrochester.gov/departments/emergency-communications-department/311-click-or-call-connect"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://cityofrochester.gov/departments/emergency-communications-department/311-click-or-call-connect"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "monroe-county-assistance",
+    "name": "Monroe County Financial Assistance Programs",
+    "agency": "Monroe County Department of Human Services",
+    "category": "Food",
+    "description": "Monroe County's financial assistance hub: SNAP, Medicaid, Temporary Assistance, child care assistance, housing and utility help, and employment support. Note: the county's 2025–26 HEAP Regular and Emergency programs are closed; the page also carries current Summer EBT 2026 details.",
+    "scope": {
+      "level": "county",
+      "county": "Monroe"
+    },
+    "eligibility": [
+      "Monroe County residents meeting program income and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time for SNAP, Medicaid, and Temporary Assistance."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, or in person",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Household expense information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP",
+        "value": "585-753-6960"
+      },
+      {
+        "kind": "web",
+        "label": "Monroe County financial assistance",
+        "value": "http://www.monroecounty.gov/hs-assistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Monroe County financial assistance",
+        "url": "http://www.monroecounty.gov/hs-assistance"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://www.monroecounty.gov/hs-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "rts-reduced-fare",
+    "name": "RTS Reduced Fare Program",
+    "agency": "Regional Transit Service (RTS) — Rochester",
+    "category": "Transportation",
+    "description": "RTS reduced fares at half the standard fare for riders age 65+ and riders with a qualifying disability. Apply with the reduced-fare application — documents, medical certification, and a photograph are required; submit by mail or drop-off.",
+    "scope": {
+      "level": "county",
+      "county": "Monroe"
+    },
+    "eligibility": [
+      "Age 65 or older",
+      "Qualifying disability with medical certification"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the reduced-fare application",
+      "Provide documents, medical certification, and a photograph"
+    ],
+    "whatToBring": [
+      "Proof of age or medical certification of disability",
+      "Photograph meeting application requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "RTS reduced fare application",
+        "value": "https://myrts.com/Portals/0/Documents/Policies%20and%20Procedures/reduced%20fare%20application%20March%202022%20(002).pdf?ver=2023-03-21-124144-377"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RTS reduced fare application",
+        "url": "https://myrts.com/Portals/0/Documents/Policies%20and%20Procedures/reduced%20fare%20application%20March%202022%20(002).pdf?ver=2023-03-21-124144-377"
+      }
+    ],
+    "cost": "Half the standard fare",
+    "sources": [
+      "https://myrts.com/Portals/0/Documents/Policies%20and%20Procedures/reduced%20fare%20application%20March%202022%20(002).pdf?ver=2023-03-21-124144-377"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "syracuse-cityline",
+    "name": "SYRCityline — City Service Requests",
+    "agency": "City of Syracuse — Department of Public Works",
+    "category": "Legal Aid",
+    "description": "SYRCityline is Syracuse's non-emergency reporting system — report issues by web, mobile app, or phone at 315-448-CITY (2489), Monday–Friday 8:30 a.m.–5 p.m., with online status tracking.",
+    "scope": {
+      "level": "city",
+      "city": "Syracuse"
+    },
+    "eligibility": [
+      "Anyone reporting a non-emergency issue in the City of Syracuse"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Phone lines Monday–Friday 8:30 a.m.–5 p.m.; web and app available any time."
+      }
+    ],
+    "prerequisites": [
+      "Call, or use the web/app reporting system"
+    ],
+    "whatToBring": [
+      "Location details for the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SYRCityline",
+        "value": "315-448-CITY (2489)"
+      },
+      {
+        "kind": "web",
+        "label": "SYRCityline",
+        "value": "https://www.syr.gov/Departments/Public-Works/SYRCityline?lang_update=638850818893751139"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SYRCityline",
+        "url": "https://www.syr.gov/Departments/Public-Works/SYRCityline?lang_update=638850818893751139"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.syr.gov/Departments/Public-Works/SYRCityline?lang_update=638850818893751139"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "onondaga-dss",
+    "name": "Onondaga County DSS — Benefit Programs",
+    "agency": "Onondaga County Department of Social Services",
+    "category": "Food",
+    "description": "Onondaga County DSS administers SNAP, Temporary Assistance, public health insurance (Medicaid), HEAP, child support enforcement, and adult services for county residents. Central Intake: 315-435-2700, Monday–Friday 8 a.m.–4 p.m.; 421 Montgomery Street, Syracuse.",
+    "scope": {
+      "level": "county",
+      "county": "Onondaga"
+    },
+    "eligibility": [
+      "Onondaga County residents meeting program income and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time for SNAP, Temporary Assistance, and Medicaid."
+      }
+    ],
+    "prerequisites": [
+      "Contact Central Intake or apply online",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Household expense information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central Intake Division",
+        "value": "315-435-2700"
+      },
+      {
+        "kind": "phone",
+        "label": "Commissioner's Office",
+        "value": "315-435-2985"
+      },
+      {
+        "kind": "web",
+        "label": "Onondaga County DSS (211 CNY)",
+        "value": "https://www.211cny.com/resource/onondaga-county-department-of-social-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Onondaga County DSS (211 CNY)",
+        "url": "https://www.211cny.com/resource/onondaga-county-department-of-social-services/"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.211cny.com/resource/onondaga-county-department-of-social-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "centro-half-fare",
+    "name": "Centro Half Fares",
+    "agency": "Central New York Regional Transportation Authority (Centro)",
+    "category": "Transportation",
+    "description": "Centro half fares ($0.50 on city routes): seniors 65+ with a valid Centro Reduced Fare ID or a Medicare card plus photo ID, persons with disabilities, and children ages 6–9; children under 6 ride free with an adult. Exact fare is required when boarding; drivers cannot make change.",
+    "scope": {
+      "level": "county",
+      "county": "Onondaga"
+    },
+    "eligibility": [
+      "Age 65 or older with valid ID",
+      "Persons with disabilities",
+      "Children ages 6–9"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Ride any time; get a Reduced Fare ID from Centro."
+      }
+    ],
+    "prerequisites": [
+      "Show a valid Centro Reduced Fare ID, or a Medicare card plus photo ID, when boarding"
+    ],
+    "whatToBring": [
+      "Photo ID and Medicare card, or a valid Centro Reduced Fare ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Centro Call Center",
+        "value": "(315) 442-3400"
+      },
+      {
+        "kind": "web",
+        "label": "Centro fares and passes",
+        "value": "https://www.centro.org/fares-passes/fares-and-passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Centro fares and passes",
+        "url": "https://www.centro.org/fares-passes/fares-and-passes"
+      }
+    ],
+    "cost": "$0.50 half fare on city routes",
+    "sources": [
+      "https://www.centro.org/fares-passes/fares-and-passes",
+      "https://www.centro.org"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "albany-neighborhood-services",
+    "name": "Albany Neighborhood Services",
+    "agency": "City of Albany — Department of Neighborhood Services",
+    "category": "Legal Aid",
+    "description": "Albany's Neighborhood Services Department connects residents to city services and community resources. Report non-emergency quality-of-life issues (potholes, illegal garbage, property overgrowth) on SeeClickFix, or call 518-434-CITY; the City Service Desk at 200 Henry Johnson Boulevard is open 8:30 a.m.–4:30 p.m. Monday–Friday.",
+    "scope": {
+      "level": "city",
+      "city": "Albany"
+    },
+    "eligibility": [
+      "Anyone needing City of Albany services or non-emergency issue reporting"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report issues any time; service desk Monday–Friday 8:30 a.m.–4:30 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Use SeeClickFix, call, email, or visit the City Service Desk"
+    ],
+    "whatToBring": [
+      "Location details for the issue you are reporting"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Neighborhood Services",
+        "value": "518-434-CITY"
+      },
+      {
+        "kind": "web",
+        "label": "Neighborhood and Community Services",
+        "value": "https://albanyny.gov/2152/Neighborhood-and-Community-Services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Neighborhood and Community Services",
+        "url": "https://albanyny.gov/2152/Neighborhood-and-Community-Services"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://albanyny.gov/2152/Neighborhood-and-Community-Services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "albanycounty-dss",
+    "name": "Albany County DSS — Benefit Programs",
+    "agency": "Albany County Department of Social Services",
+    "category": "Food",
+    "description": "Albany County DSS administers Temporary Assistance, SNAP, HEAP, child care subsidies, child support enforcement, Medicaid for long-term care, and Adult Protective Services. Administrative line 518-447-7300, Monday–Friday 8:30 a.m.–4:30 p.m.; 162 Washington Avenue, Albany.",
+    "scope": {
+      "level": "county",
+      "county": "Albany"
+    },
+    "eligibility": [
+      "Albany County residents meeting program income and eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time for Temporary Assistance, SNAP, HEAP, and Medicaid."
+      }
+    ],
+    "prerequisites": [
+      "Contact the department or apply online",
+      "Provide household and income information"
+    ],
+    "whatToBring": [
+      "Proof of identity and address",
+      "Proof of income",
+      "Household expense information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Administrative",
+        "value": "518-447-7300"
+      },
+      {
+        "kind": "phone",
+        "label": "Adult Protective Services / NY Connects intake",
+        "value": "518-447-7177"
+      },
+      {
+        "kind": "web",
+        "label": "Albany County Social Services",
+        "value": "https://www.albanycounty.com/departments/social-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Albany County Social Services",
+        "url": "https://www.albanycounty.com/departments/social-services"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.albanycounty.com/departments/social-services",
+      "https://www.211neny.org/resource/albany-county-department-of-social-services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "cdta-half-fare",
+    "name": "CDTA Half Fare Program",
+    "agency": "Capital District Transportation Authority (CDTA)",
+    "category": "Transportation",
+    "description": "CDTA half fares for veterans, riders 65+, and riders with disabilities: $0.75 cash on regular routes ($1.00 BusPlus), or load a Half Fare Navigator card — Pay As You Go is $0.65 per ride for the first three rides (the rest of the day free), and a Frequent Rider monthly pass is $32.50. Get a photo ID at the CDTA Sales Center, 85 Watervliet Avenue, Albany, (518) 437-6876, Monday–Friday 9 a.m.–5 p.m.",
+    "scope": {
+      "level": "county",
+      "county": "Albany"
+    },
+    "eligibility": [
+      "Honorably discharged veterans with qualifying documents",
+      "Age 65 or older with valid photo ID",
+      "Individuals with a disability with qualifying proof"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for a Half Fare Navigator ID any time at an issuing site."
+      }
+    ],
+    "prerequisites": [
+      "Bring qualifying documents to a Half Fare issuing site",
+      "Get a pictured Half Fare Navigator ID card"
+    ],
+    "whatToBring": [
+      "Photo ID showing age (65+)",
+      "DD-214 or veterans documents",
+      "Disability benefit proof or completed medical determination form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CDTA Sales Center — Albany County issuing site",
+        "value": "(518) 437-6876"
+      },
+      {
+        "kind": "web",
+        "label": "CDTA Half Fare",
+        "value": "https://cdta.org/index.php/node/152"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CDTA Half Fare",
+        "url": "https://cdta.org/index.php/node/152"
+      }
+    ],
+    "cost": "From $0.65/ride half fare",
+    "sources": [
+      "https://cdta.org/index.php/node/152"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-ssa-apply-benefits",
+    "name": "Social Security Benefits — Apply Online",
+    "agency": "U.S. Social Security Administration (SSA)",
+    "category": "Seniors",
+    "description": "Apply online for Social Security retirement or spouse's benefits (up to four months before you want benefits to start; age 62+), disability benefits (age 18+, unable to work due to a condition expected to last at least 12 months or result in death), and Supplemental Security Income (SSI) for adults and children with disabilities or blindness who meet income and resource limits — plus Medicare enrollment at 65.",
+    "scope": {
+      "level": "federal"
+    },
+    "eligibility": [
+      "Retirement: age 62+ with sufficient work credits",
+      "Disability: age 18+, unable to work due to a qualifying medical condition",
+      "SSI: disability/blindness or age 65+ with limited income and resources"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; you can save your progress and return later."
+      }
+    ],
+    "prerequisites": [
+      "Create or sign in to a my Social Security account",
+      "Gather work history, medical, and financial information"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Birth certificate or proof of age",
+      "Work history and earnings records",
+      "Medical records for disability claims",
+      "Bank account information for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Security Administration",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for Social Security benefits online",
+        "value": "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Social Security benefits online",
+        "url": "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.ssa.gov/blog/en/posts/2023-08-31.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-irs-vita-tce",
+    "name": "IRS VITA & TCE — Free Tax Help",
+    "agency": "Internal Revenue Service (IRS)",
+    "category": "Money & Taxes",
+    "description": "Free tax return preparation for qualifying taxpayers: VITA sites serve low- and moderate-income filers, people with disabilities, and limited-English speakers; TCE sites (many run with AARP) specialize in taxpayers age 60+. Find the closest site with the VITA locator or call 1-800-906-9887 (VITA) or 1-888-227-7669 (AARP TCE).",
+    "scope": {
+      "level": "federal"
+    },
+    "eligibility": [
+      "VITA: low- and moderate-income taxpayers, people with disabilities, limited-English speakers",
+      "TCE: taxpayers age 60 and older"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Sites operate during tax season — check hours before visiting."
+      }
+    ],
+    "prerequisites": [
+      "Find a nearby VITA or TCE site with the locator or by phone",
+      "Check the site's hours and appointment requirements"
+    ],
+    "whatToBring": [
+      "Government-issued photo ID",
+      "Social Security cards or ITIN documents for you, your spouse, and dependents",
+      "All income forms (W-2, 1099s)",
+      "Bank account and routing numbers for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VITA site locator",
+        "value": "1-800-906-9887"
+      },
+      {
+        "kind": "phone",
+        "label": "AARP TCE site locator",
+        "value": "1-888-227-7669"
+      },
+      {
+        "kind": "phone",
+        "label": "IRS main taxpayer assistance line",
+        "value": "1-800-829-1040"
+      },
+      {
+        "kind": "web",
+        "label": "How to get tax help from the IRS",
+        "value": "https://www.irs.gov/newsroom/how-to-get-tax-help-from-the-irs"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to get tax help from the IRS",
+        "url": "https://www.irs.gov/newsroom/how-to-get-tax-help-from-the-irs"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.irs.gov/newsroom/how-to-get-tax-help-from-the-irs"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-medicare-get-started",
+    "name": "Medicare — Get Started",
+    "agency": "Centers for Medicare & Medicaid Services (CMS) / SSA",
+    "category": "Healthcare",
+    "description": "Medicare is federal health insurance for people 65 or older who meet citizenship or residency requirements — and earlier for people with disabilities, End-Stage Renal Disease, or ALS. If you already get Social Security benefits you're enrolled automatically; otherwise sign up starting three months before your 65th birthday through Social Security.",
+    "scope": {
+      "level": "federal"
+    },
+    "eligibility": [
+      "Age 65+ meeting citizenship or residency requirements",
+      "Any age with a qualifying disability, ESRD, or ALS"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Initial Enrollment Period: the 7 months around your 65th birthday (3 months before, the month of, 3 months after)."
+      }
+    ],
+    "prerequisites": [
+      "Apply through Social Security online, by phone, or at a local office",
+      "Create a my Social Security account for online enrollment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Proof of age and citizenship or residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Social Security (Medicare enrollment)",
+        "value": "1-800-772-1213"
+      },
+      {
+        "kind": "web",
+        "label": "Get started with Medicare",
+        "value": "https://medicare.gov/basics/get-started-with-medicare"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Get started with Medicare",
+        "url": "https://medicare.gov/basics/get-started-with-medicare"
+      }
+    ],
+    "cost": "Free to apply; premiums vary by part and income",
+    "sources": [
+      "https://medicare.gov/basics/get-started-with-medicare"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-fema-disaster-assistance",
+    "name": "FEMA Disaster Assistance",
+    "agency": "Federal Emergency Management Agency (FEMA)",
+    "category": "Housing",
+    "description": "FEMA Individual Assistance helps disaster survivors with serious needs and necessary expenses not covered by insurance — including temporary rental assistance, home repairs, and other needs. Apply online at DisasterAssistance.gov, via the FEMA app, at a Disaster Recovery Center, or by calling 800-621-3362 (24/7, multilingual operators).",
+    "scope": {
+      "level": "federal"
+    },
+    "eligibility": [
+      "Individuals and households affected by a declared disaster with uninsured needs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply after a disaster declaration — registration deadlines are announced per disaster."
+      }
+    ],
+    "prerequisites": [
+      "File an insurance claim first if you have coverage",
+      "Apply with your contact info, SSN, damage description, and household income"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Description of damage and losses",
+      "Annual household income",
+      "Insurance policy information, if insured",
+      "Bank account information for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "FEMA helpline",
+        "value": "800-621-3362"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply for FEMA assistance",
+        "value": "https://www.fema.gov/node/how-do-i-apply-fema-assistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for FEMA disaster assistance",
+        "url": "http://www.disasterassistance.gov/"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "https://www.fema.gov/node/how-do-i-apply-fema-assistance"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "id": "fed-hud-housing-help",
+    "name": "HUD Housing Help — Rental Assistance & Counseling",
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "HUD's 'Helping Americans' hub points you to rental assistance (Housing Choice Vouchers/Section 8 and public housing through local Public Housing Agencies), HUD-approved housing counselors, homelessness help (dial 2-1-1, press 6), the VA housing hotline for veterans (1-877-424-3838), and fair housing complaint filing (1-800-669-9777).",
+    "scope": {
+      "level": "federal"
+    },
+    "eligibility": [
+      "Low-income households for rental assistance programs (eligibility set by local Public Housing Agencies)",
+      "Anyone seeking housing counseling"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact your local Public Housing Agency — waitlists vary by area."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local Public Housing Agency to apply for vouchers or public housing",
+      "Search for a HUD-approved housing counselor for personalized advice"
+    ],
+    "whatToBring": [
+      "Proof of household income",
+      "Identification for household members",
+      "Information on household size"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HUD-approved housing counselors",
+        "value": "(800) 569-4287"
+      },
+      {
+        "kind": "phone",
+        "label": "PIH Information Resource Center",
+        "value": "(800) 955-2232"
+      },
+      {
+        "kind": "phone",
+        "label": "Fair housing complaints",
+        "value": "1-800-669-9777"
+      },
+      {
+        "kind": "web",
+        "label": "HUD — Helping Americans",
+        "value": "http://www.hud.gov/helping-americans"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUD — Helping Americans",
+        "url": "http://www.hud.gov/helping-americans"
+      }
+    ],
+    "cost": "Free",
+    "sources": [
+      "http://www.hud.gov/helping-americans"
+    ],
+    "verifiedAt": "2026-09-19",
+    "languages": [
+      "English"
+    ]
   }
 ]
