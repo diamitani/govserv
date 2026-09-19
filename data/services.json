@@ -102403,5 +102403,2114 @@
     "whatToBring": [
       "Standard documents — varies by office; call ahead"
     ]
+  },
+  {
+    "id": "de-snap",
+    "name": "Delaware SNAP (Food Supplement Program) — Food Benefits",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Social Services",
+    "category": "Food",
+    "description": "Delaware's SNAP (called the Food Supplement Program) helps low-income families buy food for better nutrition. Apply online through Delaware ASSIST, by phone, mail, fax, or in person at a State Service Center.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents",
+      "Low-income households — income and household rules apply; use the ASSIST screening tool to check",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; recertify when your certification period ends."
+      }
+    ],
+    "prerequisites": [
+      "None — apply online via ASSIST, by phone, mail, fax, or at a DSS office"
+    ],
+    "whatToBring": [
+      "Proof of income, housing costs (rent/mortgage, utilities), and household size — missing items can delay approval"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS Customer Relations",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dhss/dss/",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-tanf",
+    "name": "Temporary Assistance for Needy Families (TANF) — Cash Assistance",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Social Services",
+    "category": "Money & Taxes",
+    "description": "Delaware's main cash assistance program for families with dependent children. The goal is temporary help until recipients get a job. Apply through Delaware ASSIST.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware families with dependent children",
+      "Low income — income and resource limits apply",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST, by phone, or at a DSS office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS Customer Relations",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dhss/dss/",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-general-assistance",
+    "name": "General Assistance — State Cash Aid",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Social Services",
+    "category": "Money & Taxes",
+    "description": "State-funded cash assistance for low-income Delawareans who do not qualify for federally funded programs such as TANF or Social Security benefits. Apply through Delaware ASSIST.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents with low income",
+      "Do not qualify for federally funded programs such as TANF or Social Security",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST, by phone, or at a DSS office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS Customer Relations",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dhss/dss/",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-child-care-assistance",
+    "name": "Purchase of Care — Child Care Assistance",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Social Services",
+    "category": "Family & Childcare",
+    "description": "Helps Delaware families with children pay for child care so a caretaker can hold a job, get training, or meet special needs of the parent or child. Listed as 'Child Care Services' on Delaware ASSIST.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware families with children",
+      "Caretaker working, in training, or meeting special needs",
+      "Income limits apply — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST ('Child Care Services'), by phone, or at a DSS office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS Customer Relations",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dhss/dss/",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-medicaid",
+    "name": "Delaware Medicaid — Health Coverage",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Medicaid & Medical Assistance (DMMA)",
+    "category": "Healthcare",
+    "description": "Provides medical coverage to low-income individuals and families in Delaware. STATUS (2026): new federal eligibility rules for non-citizens take effect 10/1/2026 — check de.gov/medicaidengage before applying or renewing. Apply through Delaware ASSIST.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents with low income",
+      "New federal non-citizen eligibility rules start 10/1/2026 — see de.gov/medicaidengage",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; renewals were restarted April 1, 2023."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST, by phone, or at a DSS office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHSS Customer Relations",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://assist.dhss.delaware.gov/",
+      "https://dhss.delaware.gov/dhss/dmma/"
+    ]
+  },
+  {
+    "id": "de-liheap",
+    "name": "Delaware Energy Assistance Program (DEAP / LIHEAP)",
+    "agency": "DHSS Division of State Service Centers (DSSC); administered with Catholic Charities Diocese of Wilmington and the Energy Coordinating Agency",
+    "category": "Utilities",
+    "description": "Federally funded help with home energy bills: Winter Heating Fuel Assistance (Oct 1–Mar 31; electricity, gas, oil, kerosene, propane, coal, wood), year-round Crisis Assistance for shut-off emergencies, and Summer Cooling Assistance (flat electric benefit plus a single-room window AC for demonstrated need).",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Income at or below 60% of Delaware State Median Income (after federal and local taxes)",
+      "Homeowners and renters",
+      "Crisis assistance: shut-off/disconnect notice, fuel tank at or below 10%, or past-due utility bills"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Winter Heating Fuel Assistance runs October 1 – March 31 each year; Crisis Assistance is available year-round."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST self-service, or call your county's Catholic Charities office"
+    ],
+    "whatToBring": [
+      "Proof of income, utility bills, and household information — see ASSIST for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Energy Assistance — New Castle County",
+        "value": "302-654-9295"
+      },
+      {
+        "kind": "phone",
+        "label": "Energy Assistance — Kent County",
+        "value": "302-674-1782"
+      },
+      {
+        "kind": "phone",
+        "label": "Energy Assistance — Sussex County",
+        "value": "302-856-6310"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of State Service Centers — LIHEAP",
+        "value": "302-255-9875"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply online",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dhss.delaware.gov/dssc/liheap.html",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-wic",
+    "name": "Delaware WIC — Women, Infants, and Children",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Public Health",
+    "category": "Food",
+    "description": "Federal nutrition program for pregnant women, new mothers, and children up to age 5 at nutrition risk. Provides supplemental foods, nutrition education, breastfeeding support, farmers' market benefits, and referrals to health care and social services.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Pregnant women, postpartum/breastfeeding mothers, infants, and children up to age 5",
+      "Delaware residents at or below WIC income guidelines",
+      "Determined to be at nutritional risk"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; use the WIC eligibility screener on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Complete the 'Determine WIC Eligibility' screener on the WIC program page, then contact your county WIC office"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC — New Castle County (Hudson)",
+        "value": "302-605-4066"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC — New Castle County (West End)",
+        "value": "302-605-6653"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC — New Castle County (Northeast/Claymont)",
+        "value": "302-605-4099"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC — Kent County",
+        "value": "302-605-1833"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC — Kent & Sussex Counties (Spanish)",
+        "value": "302-605-4077"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC — Sussex County",
+        "value": "302-605-4055"
+      },
+      {
+        "kind": "email",
+        "label": "WIC — Kent County",
+        "value": "kentwic@delaware.gov"
+      },
+      {
+        "kind": "email",
+        "label": "WIC — Sussex County",
+        "value": "sussexwic@delaware.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware WIC program page",
+        "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-sun-bucks",
+    "name": "Delaware SUN Bucks (Summer EBT)",
+    "agency": "Delaware Department of Health and Social Services (DHSS), Division of Social Services",
+    "category": "Food",
+    "description": "Summer grocery benefits for school-age children when school is out. STATUS: the 2026 application season is CLOSED (deadline was Aug 31, 2026); ASSIST is now accepting applications for summer 2027. Children on SNAP, TANF, income-tested Medicaid, free/reduced-price meals, or in foster care / homeless / migrant / Head Start get benefits automatically without applying.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Child enrolled in a Delaware school participating in the National School Lunch Program",
+      "Household income at or below 185% of the federal poverty level (for families who must apply)",
+      "Automatic — no application needed: children receiving SNAP or TANF, income-tested Medicaid within limits, approved free/reduced-price meals, foster care, homeless, migrant, runaway, or Head Start status",
+      "No U.S. citizenship or Social Security number required; SSN optional"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-08-31",
+        "label": "2026 application deadline — closed",
+        "note": "2027 summer applications now open via ASSIST."
+      }
+    ],
+    "prerequisites": [
+      "Apply online via ASSIST, or email/mail/drop off the application at a Division of Social Services office"
+    ],
+    "whatToBring": [
+      "Household income information; complete all required sections of the application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SUN Bucks helpline (Mon–Fri 8:00 AM–4:30 PM)",
+        "value": "1-866-843-7212"
+      },
+      {
+        "kind": "email",
+        "label": "SUN Bucks",
+        "value": "DHSS_DSS_SummerEBT@delaware.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ASSIST — apply for benefits",
+        "value": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits with Delaware ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://assist-uatcr.dhss.delaware.gov/PDF/2026_SUNBucks_Application_English.pdf",
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-unemployment",
+    "name": "Delaware Unemployment Insurance (UI)",
+    "agency": "Delaware Department of Labor, Division of Unemployment Insurance",
+    "category": "Employment",
+    "description": "Temporary partial wage replacement for workers who become unemployed through no fault of their own. New claims use ID.me identity verification; file initial claims online, weekly claims via WebBenefits or TeleBenefits; every claimant must register with Delaware JobLink.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Earned a minimum amount of wages in the base period",
+      "Able to work, available for work, and actively seeking work",
+      "Registered for work with the Department of Employment and Training (unless exempt by law)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File in the first week employment stops. Appeals must be filed within 10 days of the decision mailing date."
+      }
+    ],
+    "prerequisites": [
+      "Create an ID.me account for identity verification",
+      "After filing, register with Delaware JobLink (joblink.delaware.gov) and create a resume"
+    ],
+    "whatToBring": [
+      "Full legal name, address, Social Security card (or W-2/pay stub with SSN plus government photo ID)",
+      "Work history — names and addresses of all employers over the last 18 months",
+      "DD 214 (Member 4) for veterans",
+      "Reason for job loss"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Insurance",
+        "value": "302-761-6637"
+      },
+      {
+        "kind": "email",
+        "label": "UI claims",
+        "value": "UIClaims@delaware.gov"
+      },
+      {
+        "kind": "email",
+        "label": "UI appeals",
+        "value": "dol_dui_appeals_request@delaware.gov"
+      },
+      {
+        "kind": "web",
+        "label": "DOL claimant services",
+        "value": "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOL claimant services — file online",
+        "url": "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+    ]
+  },
+  {
+    "id": "de-joblink",
+    "name": "Delaware JobLink — Job Search & Career Services",
+    "agency": "Delaware Department of Labor, Division of Employment and Training",
+    "category": "Employment",
+    "description": "Delaware's official job-matching site for job seekers and employers, run with the American Job Centers. UI claimants must register here and create a resume; live-agent chat help is available 8am–4:30pm.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware job seekers and employers",
+      "UI claimants — registration required"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Open any time."
+      }
+    ],
+    "prerequisites": [
+      "Create a free JobLink account"
+    ],
+    "whatToBring": [
+      "Resume and work history to build your profile"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Delaware JobLink",
+        "value": "https://joblink.delaware.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware JobLink",
+        "url": "https://joblink.delaware.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://joblink.delaware.gov",
+      "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+    ]
+  },
+  {
+    "id": "de-dmv",
+    "name": "Delaware DMV — Driver License & ID Services",
+    "agency": "Delaware Division of Motor Vehicles (DMV)",
+    "category": "Transportation",
+    "description": "Renew or replace a Delaware driver license or ID card online through a MyDMV account or in person at any DMV facility. Licenses are issued for 8 years; renew up to 180 days before expiration. In-person renewal requires turning in the old license, an application, and an eye screening; proof of residency, SSN, and legal presence may be required.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents",
+      "Online renewal: age 18+, valid Class D license/ID within 6 months of expiration",
+      "Online renewal not available for CDL, graduated licenses, last renewal at a kiosk, or suspended driving privileges"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Renew up to 180 days before expiration; reminders mailed ~60 days before; late renewals incur a late fee."
+      }
+    ],
+    "prerequisites": [
+      "Create a MyDMV account for online services"
+    ],
+    "whatToBring": [
+      "Current driver license, proof of residency if moved, proof of SSN and/or legal presence if asked",
+      "For REAL ID (federally compliant license): full document checklist — one-time revalidation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV driver license services",
+        "value": "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DMV driver license services",
+        "url": "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — see the DMV fee chart",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+    ]
+  },
+  {
+    "id": "de-tax",
+    "name": "Delaware Taxpayer Portal — File & Pay State Taxes",
+    "agency": "Delaware Division of Revenue",
+    "category": "Money & Taxes",
+    "description": "Delaware's official online portal for filing and paying state taxes, checking refund status, and managing tax accounts. Contact the Division of Revenue for help with personal income tax, business taxes, and withholding.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware taxpayers",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File by the state tax deadline each year; check the portal for current-year dates."
+      }
+    ],
+    "prerequisites": [
+      "Create a Taxpayer Portal account to file and pay online"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by filing type; see the portal"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Revenue",
+        "value": "302-577-8200"
+      },
+      {
+        "kind": "email",
+        "label": "Taxpayer Portal support",
+        "value": "taxportal@delaware.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware Taxpayer Portal",
+        "value": "https://tax.delaware.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware Taxpayer Portal",
+        "url": "https://tax.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through the portal; taxes owed vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://tax.delaware.gov/"
+    ]
+  },
+  {
+    "id": "de-corporations",
+    "name": "Delaware Division of Corporations — Business Formation & Filings",
+    "agency": "Delaware Department of State, Division of Corporations",
+    "category": "Small Business",
+    "description": "Delaware's corporate registry: form LLCs and corporations, file annual reports, and order certificates and status information. A general information line answers filing questions.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Anyone forming or maintaining a Delaware business entity",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Annual reports and franchise taxes have statutory due dates — check the Division's schedule."
+      }
+    ],
+    "prerequisites": [
+      "Choose an entity type and registered agent before filing"
+    ],
+    "whatToBring": [
+      "Business name, registered agent information, and filing details — see the Division's forms"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Corporations — general information (option 2)",
+        "value": "302-739-3073"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Corporations — contact",
+        "value": "https://corp.delaware.gov/contact/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Division of Corporations — contact & services",
+        "url": "https://corp.delaware.gov/contact/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by filing and entity type",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://corp.delaware.gov/contact/"
+    ]
+  },
+  {
+    "id": "de-dart-reduced-fare",
+    "name": "DART Reduced Fare — Seniors & Riders with Disabilities",
+    "agency": "Delaware Transit Corporation (DART First State)",
+    "category": "Transportation",
+    "description": "Reduced bus fares for riders age 65 and older or with a Medicare card; riders with a disability who do not have a Medicare card use the full application form. Apply by mail, email, or fax with proof of eligibility.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Age 65 or older, or Medicare cardholder",
+      "Riders with a disability (full application form required without a Medicare card)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Reduced Fare Application (short form for age 65+/Medicare)"
+    ],
+    "whatToBring": [
+      "Proof of age (65+) or Medicare card; disability documentation for the full form"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DART eligibility (option 3)",
+        "value": "1-800-652-3278"
+      },
+      {
+        "kind": "email",
+        "label": "DART eligibility fax/email",
+        "value": "DOT_Eligibility_Faxes@Delaware.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Reduced Fare Application (PDF)",
+        "value": "https://dartfirststate.com/RiderInfo/Fares/pdfs/ReducedFareApplicationShort.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Reduced Fare Application (PDF)",
+        "url": "https://dartfirststate.com/RiderInfo/Fares/pdfs/ReducedFareApplicationShort.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; reduced fares apply at boarding",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dartfirststate.com/RiderInfo/Fares/pdfs/ReducedFareApplicationShort.pdf"
+    ]
+  },
+  {
+    "id": "de-adrc",
+    "name": "Delaware Aging & Disability Resource Center (ADRC)",
+    "agency": "DHSS Division of Services for Aging and Adults with Physical Disabilities (DSAAPD)",
+    "category": "Seniors",
+    "description": "Statewide information and guidance for older adults, people with disabilities, caregivers, and families — regardless of income. ADRC connects callers to long-term services, benefits, and community supports.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Older adults, people with disabilities, caregivers, and families",
+      "No income requirement"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call or email any time."
+      }
+    ],
+    "prerequisites": [
+      "None — call or email for guidance"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by referral; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Delaware ADRC",
+        "value": "1-800-223-9074"
+      },
+      {
+        "kind": "email",
+        "label": "Delaware ADRC",
+        "value": "DelawareADRC@delaware.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "ADRC TDD",
+        "value": "302-424-7141"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware ADRC",
+        "value": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware ADRC",
+        "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    ]
+  },
+  {
+    "id": "de-veterans-trust",
+    "name": "Delaware Veterans Trust Fund — Emergency Financial Aid",
+    "agency": "Delaware Office of Veterans Services (transitioning to the Delaware Department of Veterans Affairs)",
+    "category": "Veterans",
+    "description": "Emergency financial assistance for Delaware resident veterans in need. Funds are paid directly to the vendor (not the applicant); approval is not guaranteed and funding is limited. STATUS: the Office of Veterans Services is transitioning to a new cabinet-level Department of Veterans Affairs, with full independence required by July 1, 2030.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware resident veteran",
+      "Honorable or general-under-honorable discharge",
+      "Demonstrated emergency financial need"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; funding is limited."
+      }
+    ],
+    "prerequisites": [
+      "Complete the Veterans Trust Fund application"
+    ],
+    "whatToBring": [
+      "DD 214 or discharge papers, proof of Delaware residency, and documentation of the emergency need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Veterans Services",
+        "value": "800-344-9900"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of Veterans Services (local)",
+        "value": "302-739-2792"
+      },
+      {
+        "kind": "email",
+        "label": "Office of Veterans Services",
+        "value": "DOS_OVS@Delaware.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Veterans Trust Fund application (PDF)",
+        "value": "https://vets.delaware.gov/wp-content/uploads/sites/193/2026/05/OVS-DCVA-Trust-Fund-Application-2026.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veterans Trust Fund application (PDF)",
+        "url": "https://vets.delaware.gov/wp-content/uploads/sites/193/2026/05/OVS-DCVA-Trust-Fund-Application-2026.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://vets.delaware.gov/wp-content/uploads/sites/193/2026/05/OVS-DCVA-Trust-Fund-Application-2026.pdf",
+      "https://news.delaware.gov/2025/08/13/governor-meyer-signs-house-bill-1-establishing-veterans-affairs-department-with-cabinet-level-secretary/"
+    ]
+  },
+  {
+    "id": "de-dvr",
+    "name": "Delaware Division of Vocational Rehabilitation (DVR)",
+    "agency": "Delaware Department of Labor, Division of Vocational Rehabilitation",
+    "category": "Disability",
+    "description": "Employment services for Delawareans whose disability affects getting or keeping a job and who need DVR services to reach an employment goal. Some services may require financial participation; SSI/SSDI recipients pay no service cost.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents with a disability that affects employment",
+      "Must need DVR services to achieve an employment outcome"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Apply for DVR services; an eligibility determination follows"
+    ],
+    "whatToBring": [
+      "Medical and employment documentation — the counselor will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DVR rehabilitation process",
+        "value": "https://labor.delaware.gov/divisions/dvr/rehab-process/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DVR rehabilitation process",
+        "url": "https://labor.delaware.gov/divisions/dvr/rehab-process/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for SSI/SSDI recipients; some services may require financial participation",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://labor.delaware.gov/divisions/dvr/rehab-process/"
+    ]
+  },
+  {
+    "id": "de-dheo-scholarships",
+    "name": "Delaware Higher Education Office — Scholarships & Financial Aid",
+    "agency": "Delaware Department of Education, Delaware Higher Education Office (DHEO)",
+    "category": "Education",
+    "description": "Delaware's hub for state scholarships and financial aid, including the SEED Scholarship (tuition-free DTCC or UD Associate in Arts for qualifying Delaware residents), INSPIRE, the Academic Common Market, and FAFSA guidance. Apply through the state scholarship portal.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents pursuing postsecondary education",
+      "Program-specific academic and enrollment requirements — see the portal"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Scholarship deadlines vary by program and academic year — check the DHEO portal for current dates."
+      }
+    ],
+    "prerequisites": [
+      "Create an account on the state scholarship portal",
+      "File the FAFSA"
+    ],
+    "whatToBring": [
+      "Academic records and FAFSA information — varies by scholarship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Delaware scholarships & financial aid resources",
+        "value": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware scholarships & financial aid resources",
+        "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/"
+    ]
+  },
+  {
+    "id": "de-libraries",
+    "name": "Delaware Libraries — Get Connected",
+    "agency": "Delaware Division of Libraries",
+    "category": "Education",
+    "description": "Free library services across Delaware: borrow Chromebooks and Wi-Fi hotspots, book free private meeting booths, get digital-literacy help, and earn free Google Career Certificates. Limited-time offer: Delaware residents 18+ can get two free Talkspace therapy sessions per month for up to three months if registered before December 15, 2026 (limited vouchers).",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents",
+      "Talkspace offer: age 18+, registration before 2026-12-15, limited vouchers"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "label": "Talkspace free-session registration cutoff",
+        "note": "Register before Dec 15, 2026 for two free Talkspace sessions per month for up to three months; vouchers are limited."
+      }
+    ],
+    "prerequisites": [
+      "Delaware library card for borrowing"
+    ],
+    "whatToBring": [
+      "Photo ID to get a library card"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Delaware Libraries — Get Connected",
+        "value": "https://lib.de.us/getconnected/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware Libraries — Get Connected",
+        "url": "https://lib.de.us/getconnected/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://lib.de.us/getconnected/"
+    ]
+  },
+  {
+    "id": "de-211",
+    "name": "Delaware 211 — Health & Human Services Referrals",
+    "agency": "Delaware 211",
+    "category": "Healthcare",
+    "description": "Free, confidential, multilingual non-emergency referral service connecting Delawareans to food, housing, health care, and other community resources. Reachable by dialing 211, by landline, or by text.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Anyone in Delaware needing community referrals",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call center hours: Monday–Friday, 8 a.m.–7 p.m."
+      }
+    ],
+    "prerequisites": [
+      "None — call, or text your ZIP code"
+    ],
+    "whatToBring": [
+      "Your ZIP code and a description of what you need"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Delaware 211 (dial 211)",
+        "value": "211"
+      },
+      {
+        "kind": "phone",
+        "label": "Delaware 211 (landline)",
+        "value": "1-800-560-3372"
+      },
+      {
+        "kind": "phone",
+        "label": "Delaware 211 (text your ZIP code to)",
+        "value": "898-211"
+      },
+      {
+        "kind": "web",
+        "label": "Delaware 211 FAQ",
+        "value": "https://delaware211.org/faq/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Delaware 211 FAQ",
+        "url": "https://delaware211.org/faq/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://delaware211.org/faq/"
+    ]
+  },
+  {
+    "id": "de-emergency-housing",
+    "name": "Delaware State Service Centers — Emergency Housing Help",
+    "agency": "DHSS Division of State Service Centers (DSSC)",
+    "category": "Housing",
+    "description": "Delaware's fifteen State Service Centers (plus four Social Services buildings) are the front door for emergency help, including emergency temporary housing — contact the State Service Center nearest you. Centers also process applications for SNAP, cash assistance, child care, Summer EBT, Medicaid, and LIHEAP.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware residents facing a housing emergency",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Emergency housing is handled case-by-case; contact your nearest center immediately."
+      }
+    ],
+    "prerequisites": [
+      "Contact the State Service Center nearest you"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "State Service Centers",
+        "value": "https://dhss.delaware.gov/dhss/dssc/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "State Service Centers",
+        "url": "https://dhss.delaware.gov/dhss/dssc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dhss.delaware.gov/dhss/dssc/"
+    ]
+  },
+  {
+    "id": "de-dsha-homebuyer",
+    "name": "DSHA Homeownership Programs — Diamond in the Rough & First-Time Buyers",
+    "agency": "Delaware State Housing Authority (DSHA)",
+    "category": "Housing",
+    "description": "DSHA mortgage programs for Delaware homebuyers, including Smart Start and the First State Home Loan, plus Diamond in the Rough — which combines FHA limited 203(k) financing, renovations up to $35,000, and an eligible 5% second-mortgage assistance loan. Minimum credit score 620 for the featured programs.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Delaware homebuyers",
+      "Minimum credit score of 620 (featured programs)",
+      "Income and purchase-price limits apply — see DSHA"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through a DSHA-approved lender."
+      }
+    ],
+    "prerequisites": [
+      "Work with a DSHA-approved lender"
+    ],
+    "whatToBring": [
+      "Income, credit, and property documentation — your lender will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSHA",
+        "value": "302-739-4263"
+      },
+      {
+        "kind": "web",
+        "label": "DSHA homeownership programs (news release)",
+        "value": "https://www.destatehousing.com/news/dsha-introduces-diamond-in-the-rough-program-for-affordable-home-purchases-and-renovations/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DSHA homeownership programs (news release)",
+        "url": "https://www.destatehousing.com/news/dsha-introduces-diamond-in-the-rough-program-for-affordable-home-purchases-and-renovations/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; mortgage terms vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.destatehousing.com/news/dsha-introduces-diamond-in-the-rough-program-for-affordable-home-purchases-and-renovations/"
+    ]
+  },
+  {
+    "id": "de-clasi-housing",
+    "name": "Community Legal Aid Society (CLASI) — Housing Legal Services",
+    "agency": "Community Legal Aid Society, Inc. (CLASI)",
+    "category": "Legal Aid",
+    "description": "Free legal help for qualifying low-income tenants in subsidized housing facing eviction, lockout, subsidy termination, or unsafe conditions; also handles fair housing and manufactured-housing issues.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Low-income Delaware tenants in subsidized housing",
+      "Facing eviction, lockout, subsidy termination, or unsafe conditions"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the CLASI office nearest you for intake."
+      }
+    ],
+    "prerequisites": [
+      "Contact the CLASI office nearest you"
+    ],
+    "whatToBring": [
+      "Lease, eviction or termination notices, and correspondence with the landlord"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CLASI — Wilmington",
+        "value": "302-575-0660"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Wilmington (toll-free)",
+        "value": "800-292-7980"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Dover",
+        "value": "302-674-8500"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Dover (toll-free)",
+        "value": "800-537-8383"
+      },
+      {
+        "kind": "web",
+        "label": "CLASI housing legal services",
+        "value": "https://declasi.org/legal-services/housing-legal-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CLASI housing legal services",
+        "url": "https://declasi.org/legal-services/housing-legal-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for qualifying clients",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://declasi.org/legal-services/housing-legal-services/"
+    ]
+  },
+  {
+    "id": "wilmington-311",
+    "name": "Wilmington 311 — City Service Requests",
+    "agency": "City of Wilmington",
+    "category": "Utilities",
+    "description": "Wilmington's 311 system for reporting and tracking non-emergency city service requests such as potholes, trash, and other municipal services.",
+    "scope": {
+      "level": "city",
+      "city": "Wilmington",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Wilmington residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Report and track requests any time."
+      }
+    ],
+    "prerequisites": [
+      "None"
+    ],
+    "whatToBring": [
+      "Location and details of the issue being reported"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wilmington 311",
+        "value": "311"
+      },
+      {
+        "kind": "web",
+        "label": "Wilmington 311",
+        "value": "https://wilmingtonde.gov/residents/311"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wilmington 311",
+        "url": "https://wilmingtonde.gov/residents/311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wilmingtonde.gov/residents/311",
+      "https://wilmingtoncitycouncil.com/wp-content/uploads/2025/12/0156-A-Resolution-Requesting-System-Improvements-to-the-Citys-311-Reporting-Platform-js-1.pdf"
+    ]
+  },
+  {
+    "id": "dover-utilities",
+    "name": "City of Dover — Utility Services & Rates",
+    "agency": "City of Dover",
+    "category": "Utilities",
+    "description": "City of Dover electric, water/wastewater, and trash services: start or change electric accounts, manage water service, and view rates. After-hours water emergencies have a dedicated line.",
+    "scope": {
+      "level": "city",
+      "city": "Dover",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Dover residents and utility customers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Start, stop, or change service any time."
+      }
+    ],
+    "prerequisites": [
+      "Set up or change service through the City's utility office"
+    ],
+    "whatToBring": [
+      "Account information and ID — call ahead for new-service requirements"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dover Public Works / water",
+        "value": "302-736-7025"
+      },
+      {
+        "kind": "phone",
+        "label": "Dover after-hours water emergencies",
+        "value": "302-736-7086"
+      },
+      {
+        "kind": "web",
+        "label": "Dover utility services & rates",
+        "value": "https://www.cityofdover.gov/utility-services-rates-210210"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dover utility services & rates",
+        "url": "https://www.cityofdover.gov/utility-services-rates-210210"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Utility rates apply — see the City's rate schedule",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.cityofdover.gov/utility-services-rates-210210"
+    ]
+  },
+  {
+    "id": "newark-bulk-refuse",
+    "name": "City of Newark — Bulk Refuse Collection",
+    "agency": "City of Newark",
+    "category": "Utilities",
+    "description": "Two no-cost bulk refuse collections per year for City of Newark residents, with item limits; excessive weight or special equipment may incur fees. Schedule by calling Public Works.",
+    "scope": {
+      "level": "city",
+      "city": "Newark",
+      "state": "DE"
+    },
+    "eligibility": [
+      "City of Newark residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Two free collections per household per year; schedule ahead."
+      }
+    ],
+    "prerequisites": [
+      "Schedule the collection by phone"
+    ],
+    "whatToBring": [
+      "Address and description of items for pickup"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Newark Public Works",
+        "value": "302-366-7000"
+      },
+      {
+        "kind": "web",
+        "label": "Newark bulk refuse",
+        "value": "https://newarkde.gov/index.aspx?nid=502"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Newark bulk refuse collection",
+        "url": "https://newarkde.gov/index.aspx?nid=502"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free (two per year); fees may apply for excessive weight or equipment",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://newarkde.gov/index.aspx?nid=502"
+    ]
+  },
+  {
+    "id": "middletown-utilities",
+    "name": "Town of Middletown — Utility Billing & Payment Arrangements",
+    "agency": "Town of Middletown",
+    "category": "Utilities",
+    "description": "Electric, water, sewer, and trash billing for Middletown customers. Payment arrangements require an in-person request under specified terms; the billing page also lists assistance referrals for customers who need help.",
+    "scope": {
+      "level": "city",
+      "city": "Middletown",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Middletown utility customers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Pay bills or request arrangements any time."
+      }
+    ],
+    "prerequisites": [
+      "Payment arrangements must be requested in person"
+    ],
+    "whatToBring": [
+      "Account information and ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Middletown utility billing",
+        "value": "302-696-2958"
+      },
+      {
+        "kind": "web",
+        "label": "Middletown utility billing",
+        "value": "https://www.middletown.delaware.gov/departments/Billing"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Middletown utility billing",
+        "url": "https://www.middletown.delaware.gov/departments/Billing"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Utility rates apply — see the Town's billing page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.middletown.delaware.gov/departments/Billing"
+    ]
+  },
+  {
+    "id": "smyrna-services",
+    "name": "Town of Smyrna — Trash, Recycling & Utility Services",
+    "agency": "Town of Smyrna",
+    "category": "Utilities",
+    "description": "Town of Smyrna trash and recycling collection, utility services, yard-waste collection, and meter information. New utility applications carry a nonrefundable application fee and a deposit.",
+    "scope": {
+      "level": "city",
+      "city": "Smyrna",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Smyrna residents and utility customers"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Start or manage service any time."
+      }
+    ],
+    "prerequisites": [
+      "Complete a utility application for new service"
+    ],
+    "whatToBring": [
+      "ID and property information — see the Town's application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Smyrna services",
+        "value": "https://smyrna.delaware.gov/281/Services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Smyrna services",
+        "url": "https://smyrna.delaware.gov/281/Services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Nonrefundable application fee and deposit for new utility service; collection rates apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://smyrna.delaware.gov/281/Services"
+    ]
+  },
+  {
+    "id": "newcastle-dps",
+    "name": "New Castle County — Down Payment & Settlement Program",
+    "agency": "New Castle County Department of Community Services",
+    "category": "Housing",
+    "description": "Down-payment and settlement assistance for first-time homebuyers in New Castle County: deferred-payment loans covering closing costs and up to half of the required down payment. Applicants must be first-time buyers at or below 80% of county median income, complete HUD-approved housing counseling, and not have owned a principal residence in the last three years. NOTE: program details are from the County's published program sheet (2015); confirm current income limits with the program office.",
+    "scope": {
+      "level": "county",
+      "county": "New Castle",
+      "state": "DE"
+    },
+    "eligibility": [
+      "First-time homebuyer (no principal-residence ownership in last 3 years)",
+      "Household income at or below 80% of county median income",
+      "Complete HUD-approved housing counseling"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the program for current funding availability and income limits."
+      }
+    ],
+    "prerequisites": [
+      "Complete HUD-approved housing counseling"
+    ],
+    "whatToBring": [
+      "Income documentation, ID, and pre-approval — the program office will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Down Payment & Settlement Program",
+        "value": "1-800-642-2227"
+      },
+      {
+        "kind": "phone",
+        "label": "New Castle County",
+        "value": "302-395-5600"
+      },
+      {
+        "kind": "web",
+        "label": "Down Payment & Settlement Program (PDF)",
+        "value": "https://www.newcastlede.gov/DocumentCenter/View/1488/Down-Payment-Settlement-Program-PDF"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Down Payment & Settlement Program (PDF)",
+        "url": "https://www.newcastlede.gov/DocumentCenter/View/1488/Down-Payment-Settlement-Program-PDF"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; deferred-payment loan terms apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.newcastlede.gov/DocumentCenter/View/1488/Down-Payment-Settlement-Program-PDF"
+    ]
+  },
+  {
+    "id": "kent-community-development",
+    "name": "Kent County — Housing Repair Grants",
+    "agency": "Kent County Levy Court, Department of Housing and Community Development",
+    "category": "Housing",
+    "description": "Grants for the repair of owner-occupied houses and manufactured housing for low-to-moderate-income Kent County residents, funded through CDBG, HOME, and USDA Housing Preservation Grant programs. Homeowners fill out a referral form to join the waiting list. CDBG/HOME serve unincorporated Kent County and 19 municipalities excluding the City of Dover.",
+    "scope": {
+      "level": "county",
+      "county": "Kent",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Low-to-moderate-income homeowners in Kent County",
+      "Owner-occupied house or manufactured housing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Referral form places homeowners on the program waiting list."
+      }
+    ],
+    "prerequisites": [
+      "Fill out the referral form to get on the waiting list"
+    ],
+    "whatToBring": [
+      "Proof of ownership, income, and ID — the department will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kent County Community Development",
+        "value": "302-744-2480"
+      },
+      {
+        "kind": "email",
+        "label": "Kent County Community Development",
+        "value": "comdev@kentcountyde.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Kent County Community Development",
+        "value": "https://www.kentcountyde.gov/My-Government/Departments/Planning/Community-Development"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kent County Community Development",
+        "url": "https://www.kentcountyde.gov/My-Government/Departments/Planning/Community-Development"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — grants, not loans",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.kentcountyde.gov/My-Government/Departments/Planning/Community-Development"
+    ]
+  },
+  {
+    "id": "sussex-home-repair",
+    "name": "Sussex County — Owner-Occupied Home Rehabilitation",
+    "agency": "Sussex County Community Development & Housing",
+    "category": "Housing",
+    "description": "Federal and county funding to help low-and-moderate-income Sussex County households with repairs to their homes. Call for information or to have an application mailed to you.",
+    "scope": {
+      "level": "county",
+      "county": "Sussex",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Low-and-moderate-income Sussex County households",
+      "Owner-occupied homes"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time."
+      }
+    ],
+    "prerequisites": [
+      "Call the department for an application"
+    ],
+    "whatToBring": [
+      "Proof of ownership, income, and ID — the department will advise"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Sussex County Community Development & Housing",
+        "value": "302-855-7777"
+      },
+      {
+        "kind": "web",
+        "label": "Community Development & Housing programs (PDF)",
+        "value": "https://sussexcountyde.gov/sites/default/files/PDFs/SCCDH_programs.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Community Development & Housing programs (PDF)",
+        "url": "https://sussexcountyde.gov/sites/default/files/PDFs/SCCDH_programs.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sussexcountyde.gov/sites/default/files/PDFs/SCCDH_programs.pdf"
+    ]
+  },
+  {
+    "id": "de-clasi-immigration",
+    "name": "CLASI — Immigration Legal Services",
+    "agency": "Community Legal Aid Society, Inc. (CLASI)",
+    "category": "Immigration",
+    "description": "Free legal help for immigrants living in Delaware who are survivors of domestic violence, trafficking, or other violent crime, and for abused, abandoned, or neglected immigrant children and youth. Handles U Visa and T Visa petitions, Special Immigrant Juvenile Status (SIJS), and VAWA self-petitions; immigrants referred through the Medical-Legal Partnership Program may also get help with citizenship applications, green card or TPS renewals, and DACA renewals.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Immigrants living in Delaware",
+      "Survivors of domestic violence, trafficking, or other violent crime",
+      "Abused, abandoned, or neglected immigrant children and youth",
+      "Free services — eligibility assessed at intake"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the CLASI office in your county for intake; bring related notices or papers if possible."
+      }
+    ],
+    "prerequisites": [
+      "Contact the CLASI office in your county",
+      "A clerical team member takes basic intake information before legal staff review"
+    ],
+    "whatToBring": [
+      "Any notices or papers related to the immigration issue, if available",
+      "Standard documents — varies by office; call ahead (typical)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CLASI — New Castle County (Wilmington)",
+        "value": "302-575-0660"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — New Castle County (toll-free)",
+        "value": "800-292-7980"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Kent County (Dover)",
+        "value": "302-674-8500"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Kent County (toll-free)",
+        "value": "800-537-8383"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Sussex County (Georgetown)",
+        "value": "302-856-0038"
+      },
+      {
+        "kind": "phone",
+        "label": "CLASI — Sussex County (toll-free)",
+        "value": "800-462-7070"
+      },
+      {
+        "kind": "web",
+        "label": "Immigration Legal Services — CLASI",
+        "value": "https://declasi.org/legal-services/immigration-legal-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Immigration Legal Services — CLASI",
+        "url": "https://declasi.org/legal-services/immigration-legal-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://declasi.org/legal-services/immigration-legal-services/",
+      "https://declasi.org/programs-and-units/immigration-unit/"
+    ]
+  },
+  {
+    "id": "de-catholic-charities-immigration",
+    "name": "Catholic Charities — Immigration Counseling",
+    "agency": "Catholic Charities, Diocese of Wilmington",
+    "category": "Immigration",
+    "description": "Immigration and naturalization counseling for individuals and families: adjustment of status, consular processing, family reunification and family-based petitions, employment authorization, TPS, DACA, fiancé visas, citizenship/naturalization applications, travel documents, and representation before the Department of Homeland Security and the National Visa Center. Fully recognized by the U.S. government's Board of Immigration Appeals; any immigrant is eligible regardless of status, documentation, or national origin.",
+    "scope": {
+      "level": "state",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Any immigrant — regardless of status, documentation, or national origin",
+      "Offices in Kent and Sussex counties; serves all three Delaware counties"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call the location closest to you; download and complete the intake form before the first appointment."
+      }
+    ],
+    "prerequisites": [
+      "Download and complete the client intake form for the first appointment"
+    ],
+    "whatToBring": [
+      "Completed intake form",
+      "Immigration documents and notices related to the case"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Immigration Services — Kent County office",
+        "value": "302-674-1600"
+      },
+      {
+        "kind": "phone",
+        "label": "Immigration Services — Sussex County office",
+        "value": "302-856-9578"
+      },
+      {
+        "kind": "in-person",
+        "label": "Kent County office — 2099 S DuPont Highway, Dover, DE 19901",
+        "value": "2099 S DuPont Highway, Dover, DE 19901"
+      },
+      {
+        "kind": "in-person",
+        "label": "Sussex County office — 404 S Bedford Street, Suite 9, Georgetown, DE 19947",
+        "value": "404 S Bedford Street, Suite 9, Georgetown, DE 19947"
+      },
+      {
+        "kind": "web",
+        "label": "Immigration Counseling — Catholic Charities",
+        "value": "https://www.ccwilm.org/immigration/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Immigration Counseling — Catholic Charities",
+        "url": "https://www.ccwilm.org/immigration/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Nominal fees — reduced based on the individual's financial circumstances",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ccwilm.org/immigration/"
+    ]
+  },
+  {
+    "id": "nccde-tax-exemptions",
+    "name": "New Castle County — Senior & Disability Property Tax Exemptions",
+    "agency": "New Castle County Assessment Division",
+    "category": "Money & Taxes",
+    "description": "County and school property-tax exemptions for New Castle County homeowners: the Over-65 exemption, the disability exemption, and the disabled veteran exemption (county and crossing-guard taxes fully reduced to zero for qualifying disabled veterans). Also summarizes the State of Delaware Over-65 school-tax exemption and the Senior School Tax Credit (50% of school tax line item, up to $500).",
+    "scope": {
+      "level": "county",
+      "county": "New Castle",
+      "state": "DE"
+    },
+    "eligibility": [
+      "New Castle County homeowners (owner of record; primary residence)",
+      "Over-65 exemption: age 65 before July 1; 10 consecutive years Delaware domicile; property value <= $676,000; household AGI <= $65,000 (excl. taxable Social Security / Railroad Retirement Tier 1); tax and sewer accounts current or on payment plan",
+      "Disability exemption: primary residence, owner of record, proof of disability (SSA award or physician attestation); same income rule; durational residency requirement waived for qualifying armed-forces disabled",
+      "Disabled veteran exemption: 100% VA disability rating; primary residence; no residency waiting period"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual — June 1",
+        "note": "County exemption applications due June 1; exemptions effective July 1."
+      },
+      {
+        "date": null,
+        "label": "Annual — April 30",
+        "note": "State Senior School Tax Credit deadline; credit is not permitted retroactively."
+      }
+    ],
+    "prerequisites": [
+      "Obtain the current-year exemption application from the Assessment webpage",
+      "Submit the completed application to the County Assessment Division"
+    ],
+    "whatToBring": [
+      "Valid DE driver's license or state ID (age/residency)",
+      "Proof of disability where applicable (SSA award or physician attestation)",
+      "Income documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "New Castle County Constituent Affairs",
+        "value": "302-395-5114"
+      },
+      {
+        "kind": "in-person",
+        "label": "New Castle County Government — 87 Reads Way, New Castle, DE 19720",
+        "value": "87 Reads Way, New Castle, DE 19720"
+      },
+      {
+        "kind": "web",
+        "label": "Tax Information & Forms — New Castle County",
+        "value": "https://newcastlede.gov/232/Tax-Information-Forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tax Information & Forms — New Castle County (exemption applications via Assessment)",
+        "url": "https://newcastlede.gov/232/Tax-Information-Forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://newcastlede.gov/232/Tax-Information-Forms",
+      "https://www.newcastlede.gov/DocumentCenter/View/62792/New-Castle-County-Tax-Exemption-and-Appeals"
+    ]
+  },
+  {
+    "id": "kent-elderly-disability-exemption",
+    "name": "Kent County — Elderly/Disability Property Tax Exemption",
+    "agency": "Kent County Levy Court, Board of Assessment",
+    "category": "Money & Taxes",
+    "description": "Annual reduction in taxable assessment for Kent County homeowners age 65 or older or totally (100%) disabled, which can reduce or eliminate property tax liability. Income-contingent — applicants must reapply every year by April 30. Senior school property tax credit recipients keep that credit under separate rules.",
+    "scope": {
+      "level": "county",
+      "county": "Kent",
+      "state": "DE"
+    },
+    "eligibility": [
+      "Kent County homeowners — title in the applicant's name, spouse's name, or a revocable grantor trust",
+      "Age 65 or older by May 31, or 100% disabled with documented proof (physician statement, SSA or VA award letter)",
+      "5 years Delaware residency (waived for 100% disabled veterans)",
+      "Primary residence on the property for 12 months before application (waived for qualifying disabled veterans)",
+      "AGI <= $18,000 single / $24,750 married (excludes Social Security, Railroad Retirement Tier 1, and disability-related income)",
+      "All Kent County taxes, fees, and charges paid in full by April 30"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Annual — April 30",
+        "note": "Completed application and verification forms must reach the Board of Assessment by April 30 each year; missing the deadline denies the exemption for that tax year."
+      }
+    ],
+    "prerequisites": [
+      "Complete the annual exemption application",
+      "Submit application and verification forms to the Board of Assessment"
+    ],
+    "whatToBring": [
+      "Delaware driver's license or state ID (age/residency)",
+      "Physician's statement of disability or SSA/VA award letter (disability applicants)",
+      "Copy of federal and Delaware income tax returns",
+      "Signed IRS Form 4506T"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Kent County Assessment Office",
+        "value": "302-744-2401"
+      },
+      {
+        "kind": "in-person",
+        "label": "Board of Assessment — 555 Bay Road, Dover, DE 19901",
+        "value": "Board of Assessment, 555 Bay Road, Dover, DE 19901"
+      },
+      {
+        "kind": "web",
+        "label": "Tax Credits, Exemptions & Assessment — Kent County",
+        "value": "https://www.kentcountyde.gov/Residents/Tax-Credits-Exemptions-Assessment"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tax Credits, Exemptions & Assessment — Kent County",
+        "url": "https://www.kentcountyde.gov/Residents/Tax-Credits-Exemptions-Assessment"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.kentcountyde.gov/Residents/Tax-Credits-Exemptions-Assessment",
+      "https://www.kentcountyde.gov/files/sharedassets/public/v/1/website-pdfs_web/admin/kent-co-winter-2024-25-web-1.pdf",
+      "https://www.kentcountyde.gov/files/sharedassets/public/v/2/content-publishers/finance_tax/finance-pdf/elderly-disability-exemption.pdf"
+    ]
   }
 ]
