@@ -76662,5 +76662,2160 @@
     "whatToBring": [
       "Social Security number, work history, and benefit-specific documents — ssa.gov lists the checklist"
     ]
+  },
+  {
+    "id": "ut-snap",
+    "name": "SNAP (Food Assistance) — Utah",
+    "agency": "Utah Department of Workforce Services (DWS)",
+    "category": "Food",
+    "description": "The Supplemental Nutrition Assistance Program helps Utah families buy food. If you qualify, you receive an Electronic Benefit Transfer (EBT/Horizon) card for groceries at authorized SNAP stores and farmers markets. Eligibility is based on household size, monthly income, expenses, assets, and citizenship status.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident",
+      "Low-income household; eligibility varies by household size, monthly income, expenses, assets, and citizenship status",
+      "Example on the official page: a family of four with monthly income under $2,500 after deductions could qualify"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; benefits start the day of application. SNAP interviews can be done by phone."
+      }
+    ],
+    "prerequisites": [
+      "Create a UtahID account or sign in to myCase"
+    ],
+    "whatToBring": [
+      "Verification checklist is issued after you apply — return requested items promptly",
+      "Typically: proof of identity, income, expenses, and household information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS assistance (English/other languages)",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "phone",
+        "label": "Horizon Card Helpdesk (EBT activate/PIN)",
+        "value": "800-997-4444"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP / Food Assistance (DWS Doorway)",
+        "value": "https://mydoorway.utah.gov/food-assistance-snap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP program page and how to apply (myCase)",
+        "url": "https://mydoorway.utah.gov/food-assistance-snap/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mydoorway.utah.gov/food-assistance-snap/"
+    ]
+  },
+  {
+    "id": "ut-medicaid",
+    "name": "Utah Medicaid — Medical Assistance",
+    "agency": "Utah Department of Health and Human Services (DHHS); eligibility via Utah Department of Workforce Services (DWS)",
+    "category": "Healthcare",
+    "description": "Medicaid is a state and federal program that covers medical expenses for low-income individuals and families, including family Medicaid, Adult Expansion (ages 19–64), pregnant women, children, and CHIP for kids who do not qualify for Medicaid. Eligibility varies by household size and monthly income.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident",
+      "Income limits vary by program; examples on the official page: Adult Expansion — family of four at $3,458/month or less; pregnant women — $3,614/month or less; CHIP — $5,200/month or less",
+      "U.S. citizen or qualified non-citizen (Medicaid programs)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; no open enrollment for Medicaid."
+      }
+    ],
+    "prerequisites": [
+      "Create a UtahID account or sign in to myCase"
+    ],
+    "whatToBring": [
+      "A verification checklist is issued after applying — submit items within 30 days",
+      "Typically: Social Security numbers, proof of income, Utah residency, and citizenship/immigration status"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS application help",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "Medicaid / Medical assistance (DWS Doorway)",
+        "value": "https://mydoorway.utah.gov/medical-medicaid/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Medicaid program page and how to apply (myCase)",
+        "url": "https://mydoorway.utah.gov/medical-medicaid/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to apply; CHIP may have quarterly premiums and co-pays",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mydoorway.utah.gov/medical-medicaid/"
+    ]
+  },
+  {
+    "id": "ut-wic",
+    "name": "Utah WIC — Women, Infants and Children",
+    "agency": "Utah Department of Health and Human Services (DHHS), WIC Program",
+    "category": "Food",
+    "description": "WIC provides nutrition education, breastfeeding support, and supplemental foods to pregnant women, mothers, infants, and children up to their 5th birthday. Families get a debit-like WIC card for healthy groceries at authorized stores. Services are delivered through local health departments statewide.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident (citizenship not required)",
+      "Pregnant woman, postpartum/breastfeeding mother, infant, or child under 5",
+      "Income guidelines apply; nutritional risk determined at the clinic appointment"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; schedule an appointment at your local WIC clinic."
+      }
+    ],
+    "prerequisites": [
+      "Make an appointment with your local WIC clinic"
+    ],
+    "whatToBring": [
+      "Proof of income (Medicaid card or pay statements from the last 30 days)",
+      "Proof of address (utility bill, rent/mortgage receipt with street address)",
+      "Proof of identity for each person (driver license, birth certificate, Medicaid card, or photo ID)",
+      "Children being certified must attend; parent or guardian must be present"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Utah WIC hotline",
+        "value": "1-877-WIC-KIDS"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC card customer service",
+        "value": "1-855-784-5584"
+      },
+      {
+        "kind": "web",
+        "label": "Utah WIC program",
+        "value": "https://wic.utah.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Utah WIC program (eligibility check and clinic info)",
+        "url": "https://wic.utah.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://wic.utah.gov/",
+      "https://wic.utah.gov/wp-content/uploads/Final-FY25-Utah-WIC-Program-Shopping-Guide.pdf"
+    ]
+  },
+  {
+    "id": "ut-heat",
+    "name": "HEAT — Home Energy Assistance Target (LIHEAP)",
+    "agency": "Utah Department of Workforce Services (DWS), Housing and Community Development",
+    "category": "Utilities",
+    "description": "HEAT is Utah's Low-Income Home Energy Assistance Program — it helps pay monthly power and gas bills for eligible low-income households year-round, while federal funds last. Priority goes to households with elderly (60+), disabled, or young children (under 6) members; crisis help is available if you are in danger of shut-off.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident",
+      "Total household income at or below 150% of the federal poverty level (official example: family of four at $4,125/month or less)",
+      "Household responsible for paying home energy costs",
+      "At least one adult (18+) or emancipated member in the household",
+      "At least one U.S. citizen or qualified non-citizen in the household"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Priority application window opens",
+        "note": "Program year begins Oct 1 each year and runs through Sep 30 (or until federal LIHEAP funds are exhausted). Applications from households with disabled, elderly (60+), or children under 6 accepted Oct 1; general public Nov 1. Check your local HEAT office for current-year dates."
+      }
+    ],
+    "prerequisites": [
+      "Contact your local HEAT office (regional agencies listed on the program page)"
+    ],
+    "whatToBring": [
+      "Copy of power and heat bills",
+      "Proof of ALL income received by all household members in the month prior to applying",
+      "Proof of eligible medical expenses, child support, and alimony paid in the prior month",
+      "Proof of disability, if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HEAT program assistance",
+        "value": "866-205-4357"
+      },
+      {
+        "kind": "phone",
+        "label": "Disability accommodations for HEAT",
+        "value": "801-526-9240"
+      },
+      {
+        "kind": "web",
+        "label": "HEAT program (DWS)",
+        "value": "https://jobs.utah.gov/community/scso/seal/heat.html"
+      },
+      {
+        "kind": "web",
+        "label": "Utility assistance / how to apply (DWS Doorway)",
+        "value": "https://mydoorway.utah.gov/utility-assistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HEAT program page (DWS)",
+        "url": "https://jobs.utah.gov/community/scso/seal/heat.html"
+      },
+      {
+        "label": "Utility assistance — how to apply (DWS Doorway)",
+        "url": "https://mydoorway.utah.gov/utility-assistance/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://jobs.utah.gov/community/scso/seal/heat.html",
+      "https://mydoorway.utah.gov/utility-assistance/"
+    ]
+  },
+  {
+    "id": "ut-weatherization",
+    "name": "Weatherization Assistance Program — Utah",
+    "agency": "Utah Department of Workforce Services (DWS), Housing and Community Development",
+    "category": "Utilities",
+    "description": "Free energy-efficient home improvements for low-income Utahns — tuning or repairing heating and cooling systems, adding insulation, and other upgrades. The program reports average savings of about 12% (roughly $283/year). Priority goes to elderly, disabled, and families with young children. Apply through the local agency serving your county.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident",
+      "Low-income household; priority for elderly, disabled, and families with young children"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your county's local weatherization agency."
+      }
+    ],
+    "prerequisites": [
+      "Contact the local agency that services your county (ask for a Weatherization referral when you apply for HEAT)"
+    ],
+    "whatToBring": [
+      "Varies by local agency — call ahead",
+      "Typically: proof of income, utility bills, and home ownership/rental status"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Utility assistance / Weatherization (DWS Doorway)",
+        "value": "https://mydoorway.utah.gov/utility-assistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Utility assistance — Weatherization (DWS Doorway)",
+        "url": "https://mydoorway.utah.gov/utility-assistance/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — improvements are installed at no cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mydoorway.utah.gov/utility-assistance/"
+    ]
+  },
+  {
+    "agency": "Utah Department of Workforce Services (DWS)",
+    "applyLinks": [
+      {
+        "label": "Unemployment Insurance — how to file (DWS Doorway)",
+        "url": "https://mydoorway.utah.gov/unemployment-insurance/"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI claims — Salt Lake/South Davis counties",
+        "value": "801-526-4400"
+      },
+      {
+        "kind": "phone",
+        "label": "UI claims — Weber/North Davis counties",
+        "value": "801-612-0877"
+      },
+      {
+        "kind": "phone",
+        "label": "UI claims — Utah County",
+        "value": "801-375-4067"
+      },
+      {
+        "kind": "phone",
+        "label": "UI claims — elsewhere in Utah/out of state",
+        "value": "888-848-0688"
+      },
+      {
+        "kind": "web",
+        "label": "Unemployment Insurance (DWS)",
+        "value": "https://jobs.utah.gov/ui/employer/Public/UINoticePosterEnglish.aspx"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File immediately after becoming unemployed or when hours drop below full time — no benefits are paid for weeks before the week you file."
+      }
+    ],
+    "description": "Temporary wage replacement for qualified Utah workers who are unemployed through no fault of their own and are able, available, and seeking full-time work. Benefits are based on previous earnings, not economic need. File online at jobs.utah.gov or call the Claims Assistance and Re-Employment Team.",
+    "eligibility": [
+      "Utah worker with wages in covered employment",
+      "Unemployed through no fault of your own",
+      "Able, available, and seeking full-time work"
+    ],
+    "id": "ut-ui",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Unemployment Insurance — Utah",
+    "prerequisites": [
+      "Create a UtahID account; file online at jobs.utah.gov (Assistance > Unemployment Insurance > File New or Reopen Claims)",
+      "Request separation information from your employer; you do not need a separation notice to file"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://mydoorway.utah.gov/unemployment-insurance/",
+      "https://jobs.utah.gov/ui/employer/Public/UINoticePosterEnglish.aspx",
+      "https://jobs.utah.gov/UI/Employer/Public/UIEmployerPoster.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Social Security number",
+      "Work history and employer contact information",
+      "Reason for separation from each employer"
+    ]
+  },
+  {
+    "agency": "Utah Department of Workforce Services (DWS)",
+    "applyLinks": [
+      {
+        "label": "Application form — Financial Assistance (DWS 61APP)",
+        "url": "https://jobs.utah.gov/Infosource/EOMOA/61APP_09.12.pdf"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS assistance (English/other languages)",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "TANF State Plan (program details, DWS)",
+        "value": "https://Jobs.utah.gov/edo/stateplans/tanfstateplan.pdf"
+      },
+      {
+        "kind": "web",
+        "label": "Application form — Financial Assistance (DWS 61APP)",
+        "value": "https://jobs.utah.gov/Infosource/EOMOA/61APP_09.12.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Utah has a 36-month state lifetime limit on TANF cash assistance (established Jan 1, 1997)."
+      }
+    ],
+    "description": "The Family Employment Program is Utah's TANF-funded cash assistance program for families. It offers temporary cash support while connecting parents to employment, training, child support, and other services aimed at financial independence. Cash payment amounts vary by household size.",
+    "eligibility": [
+      "Utah resident",
+      "Family with a dependent child under 18 (or 18 and a full-time student expected to finish before 19), or a pregnant woman in her third trimester",
+      "Countable assets of $2,000 or less (motorized vehicles exempt)",
+      "U.S. citizen or qualifying non-citizen status",
+      "Income limits published by DWS (vary by household size)"
+    ],
+    "id": "ut-fep",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Family Employment Program (FEP) — TANF Cash Assistance",
+    "prerequisites": [
+      "Create a UtahID account; apply online or in person at a DWS employment center",
+      "Meet with an employment counselor to create an employment plan; participation in work activities is required",
+      "Cooperate with the Office of Recovery Services on child support collection (or claim good cause)"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://Jobs.utah.gov/edo/stateplans/tanfstateplan.pdf",
+      "https://jobs.utah.gov/Infosource/EOMOA/61APP_09.12.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, income, and assets for all household members",
+      "Vehicle information",
+      "Child support/unemployment/SSI benefit information, if any",
+      "Social Security numbers (optional for child care, required for financial assistance screening)"
+    ]
+  },
+  {
+    "agency": "Utah Department of Workforce Services (DWS)",
+    "applyLinks": [
+      {
+        "label": "Child Care Assistance — how to apply (DWS Doorway)",
+        "url": "https://mydoorway.utah.gov/child-care-assistance/"
+      }
+    ],
+    "category": "Family & Childcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS assistance (English/other languages)",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "Child Care Assistance (DWS Doorway)",
+        "value": "https://mydoorway.utah.gov/child-care-assistance/"
+      }
+    ],
+    "cost": "Free to apply; families pay any cost above the subsidy amount directly to the provider",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. Income eligibility limits are updated annually — apply even if you were denied in the past."
+      }
+    ],
+    "description": "Helps eligible Utah families pay part of the cost of child care while parents work or attend approved school or training. Income limits are higher than most other assistance programs and are updated annually. Monthly payments go directly to the provider.",
+    "eligibility": [
+      "Utah resident",
+      "Parent, foster parent, approved relative, or legal guardian of the child",
+      "Household income within published limits (updated annually) — limits are higher than most other assistance programs",
+      "Work at least 15 hours/week or need care for approved school/training activities",
+      "Use a DWS-approved provider (licensed or approved family, friend, or neighbor)"
+    ],
+    "id": "ut-childcare",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Child Care Assistance — Utah",
+    "prerequisites": [
+      "Create a UtahID account; apply online or in person at a DWS employment center",
+      "Select an approved child care provider (search at careaboutchildcare.utah.gov)",
+      "Return the verification checklist within 30 days of applying"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://mydoorway.utah.gov/child-care-assistance/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Verification checklist is issued after applying — return requested items within 30 days",
+      "Typically: proof of income, work/school schedule, and provider information"
+    ]
+  },
+  {
+    "agency": "Utah State Tax Commission",
+    "applyLinks": [
+      {
+        "label": "File and Pay — Utah State Tax Commission",
+        "url": "https://tax.utah.gov/business/file-and-pay/"
+      }
+    ],
+    "category": "Money & Taxes",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TAP account PIN help",
+        "value": "801-297-3996"
+      },
+      {
+        "kind": "web",
+        "label": "File and Pay — Utah State Tax Commission",
+        "value": "https://tax.utah.gov/business/file-and-pay/"
+      }
+    ],
+    "cost": "Free to file via TAP (Taxpayer Access Point)",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling / seasonal",
+        "note": "Individual income tax returns can be filed in TAP from the date the IRS begins accepting e-filed returns (typically late January) through November 30 of the same year for non-logged-in filers; logged-in filers can file the current year's return up to two years from the original due date."
+      }
+    ],
+    "description": "The Utah State Tax Commission's official way to file individual income tax returns and business taxes online. Individuals can file the current year's Individual Income Tax return through the Taxpayer Access Point (TAP) with or without a login profile. Businesses create a TAP profile to file, pay, and amend tax returns.",
+    "eligibility": [
+      "Anyone with a Utah individual income tax obligation or an active Utah business tax account"
+    ],
+    "id": "ut-tax-filing",
+    "languages": [
+      "English"
+    ],
+    "name": "File Utah State Taxes — Taxpayer Access Point (TAP)",
+    "prerequisites": [
+      "Individuals can file the current year's return in TAP without a login; businesses must create a TAP profile and add tax accounts using the Account ID number and PIN from their business registration"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://tax.utah.gov/business/file-and-pay/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Federal income tax return information",
+      "W-2s, 1099s, and other income documents",
+      "Utah tax account ID and PIN (businesses)"
+    ]
+  },
+  {
+    "agency": "Utah Driver License Division (DLD), Utah Department of Public Safety",
+    "applyLinks": [
+      {
+        "label": "DLD Office Locations and Hours",
+        "url": "https://dld.utah.gov/office-locations/"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DLD customer service",
+        "value": "801.965.4437"
+      },
+      {
+        "kind": "phone",
+        "label": "DLD toll-free",
+        "value": "888.353.4224"
+      },
+      {
+        "kind": "web",
+        "label": "DLD Office Locations and Hours",
+        "value": "https://dld.utah.gov/office-locations/"
+      }
+    ],
+    "cost": "Varies by service — see DLD fee schedule on the DLD site",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Offices generally open Monday–Friday, 8:00 am–5:00 pm (some extended hours); appointments are scheduled through the DLD homepage by service type."
+      }
+    ],
+    "description": "The Utah Driver License Division issues and renews driver licenses, identification cards, and other credentials at offices statewide, including Fairpark (Salt Lake City), West Valley–Taylorsville, South Valley (Draper), Orem, and Springville. Schedule appointments by service type from the DLD homepage.",
+    "eligibility": [
+      "Utah residents needing a new license, renewal, ID card, or other DLD services"
+    ],
+    "id": "ut-driver-license",
+    "languages": [
+      "English"
+    ],
+    "name": "Utah Driver License and ID Services",
+    "prerequisites": [
+      "Schedule an appointment from the DLD homepage by service type (return to the homepage and select your service type)",
+      "Bring required identity and residency documents for your service type"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://dld.utah.gov/office-locations/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity, Utah residency, and lawful presence (requirements vary by service — check the DLD site before your appointment)",
+      "Existing license or ID card (renewals)"
+    ]
+  },
+  {
+    "agency": "Utah Division of Corporations and Commercial Code, Utah Department of Commerce",
+    "applyLinks": [
+      {
+        "label": "Register a Business — Division of Corporations (Commerce Utah)",
+        "url": "https://commerce.utah.gov/corporations/business-entities/foreign-limited-partnership/"
+      }
+    ],
+    "category": "Small Business",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of Corporations — business entity filings (Commerce Utah)",
+        "value": "https://commerce.utah.gov/corporations/business-entities/foreign-limited-partnership/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File formation documents before starting operations. Renewal filing timing — see program page."
+      }
+    ],
+    "description": "The Division of Corporations and Commercial Code registers Utah business entities (corporations, LLCs, partnerships, DBAs). Registration is done online: log in to the state's business registration system with a UtahID, select Formations, choose the entity type (Domestic, Foreign, DBA, etc.), and complete the filing with the required business classification, name availability, registered agent, and principal information.",
+    "eligibility": [
+      "Anyone forming or registering a business entity to operate in Utah"
+    ],
+    "id": "ut-business-registration",
+    "languages": [
+      "English"
+    ],
+    "name": "Register a Business in Utah — Division of Corporations",
+    "prerequisites": [
+      "Create a UtahID account",
+      "Choose a business entity type and confirm name availability",
+      "Have registered agent name and Utah address, and principal business information ready"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://commerce.utah.gov/corporations/business-entities/foreign-limited-partnership/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Business name and classification",
+      "Registered agent name and Utah street address",
+      "Principal office information",
+      "Payment method for filing fees"
+    ]
+  },
+  {
+    "agency": "Utah Department of Veterans and Military Affairs (UDVMA)",
+    "applyLinks": [
+      {
+        "label": "Benefits of a VSO — Utah Dept. of Veterans and Military Affairs",
+        "url": "https://veterans.utah.gov/benefits-of-a-vso/"
+      }
+    ],
+    "category": "Veterans",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UDVMA (unverified)",
+        "value": "801-592-0956 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Benefits of a VSO — Utah Dept. of Veterans and Military Affairs",
+        "value": "https://veterans.utah.gov/benefits-of-a-vso/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for VA benefits any time; VSO assistance is free and available year-round."
+      }
+    ],
+    "description": "Utah's Veteran Service Officers (VSOs) provide free help understanding and applying for VA benefits: health care, disability compensation, education, Veteran readiness and employment, home loans, life insurance, pensions, survivor benefits, and burial benefits. VSOs can also request DD214/discharge documents and help appeal adverse VA decisions.",
+    "eligibility": [
+      "Veterans, current service members, and their dependents in Utah"
+    ],
+    "id": "ut-veterans-vso",
+    "languages": [
+      "English"
+    ],
+    "name": "Veteran Service Officer (VSO) Claims Assistance — Utah",
+    "prerequisites": [
+      "Contact UDVMA or a local VSO to start; bring discharge documents (DD214) if available"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://veterans.utah.gov/benefits-of-a-vso/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "DD214 or discharge documents",
+      "Medical evidence related to claims",
+      "VA correspondence you have received"
+    ]
+  },
+  {
+    "agency": "Utah Division of Aging and Adult Services (DAAS), Utah DHHS",
+    "applyLinks": [
+      {
+        "label": "Division of Aging and Adult Services (DAAS)",
+        "url": "https://daas.utah.gov/about/"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DAAS (unverified)",
+        "value": "801-538-4171 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Aging and Adult Services (DAAS)",
+        "value": "https://daas.utah.gov/about/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; 12 Area Agencies on Aging cover all 29 Utah counties."
+      }
+    ],
+    "description": "Utah's State Unit on Aging connects seniors to local Area Agencies on Aging that administer home and community-based services for residents 60 and older: Meals on Wheels, in-home services, senior transportation, caregiver support, health promotion, legal services, and information and assistance. DAAS also administers Adult Protective Services, which investigates abuse, neglect, and exploitation of vulnerable adults statewide.",
+    "eligibility": [
+      "Utah residents 60 and older (Area Agencies on Aging services)",
+      "Vulnerable adults needing abuse/neglect investigation (Adult Protective Services)"
+    ],
+    "id": "ut-aging",
+    "languages": [
+      "English"
+    ],
+    "name": "Utah Aging and Adult Services — Area Agencies on Aging",
+    "prerequisites": [
+      "Contact the Area Agency on Aging for your county to enroll; DAAS office can direct you"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://daas.utah.gov/about/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age and Utah residency",
+      "Information about the senior's needs"
+    ]
+  },
+  {
+    "agency": "Utah Division of Services for People with Disabilities (DSPD), Utah DHHS",
+    "applyLinks": [
+      {
+        "label": "DSPD Services",
+        "url": "https://dspd.utah.gov/services/"
+      }
+    ],
+    "category": "Disability",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSPD (unverified)",
+        "value": "801-538-4200 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "DSPD Services",
+        "value": "https://dspd.utah.gov/services/"
+      }
+    ],
+    "cost": "Varies — see program page",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time. DSPD often has a waiting list — eligible individuals may be placed on the list and notified as funds become available."
+      }
+    ],
+    "description": "The Division of Services for People with Disabilities promotes self-determined lives by overseeing home and community-based services (Medicaid waivers) for Utahns with disabilities. Services include supported employment, day services, respite care, behavior supports, supported living, host homes, chore services, environmental adaptations, transportation (including UTA passes), and support coordination.",
+    "eligibility": [
+      "Utah residents with qualifying disabilities — DSPD determines eligibility through intake",
+      "Service type depends on which Medicaid waiver the person qualifies for"
+    ],
+    "id": "ut-dspd",
+    "languages": [
+      "English"
+    ],
+    "name": "Services for People with Disabilities (DSPD)",
+    "prerequisites": [
+      "Contact DSPD for an intake to determine eligibility",
+      "Annual paperwork keeps your name on the waiting list — return requested information each year"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://dspd.utah.gov/services/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Disability documentation and medical records",
+      "Information about current supports and needs"
+    ]
+  },
+  {
+    "agency": "Utah Legal Services (ULS)",
+    "applyLinks": [
+      {
+        "label": "Who Qualifies for Help — Utah Legal Services",
+        "url": "https://www.utahlegalservices.org/page/16/who-qualifies-get-help-utah-legal-services"
+      }
+    ],
+    "category": "Legal Aid",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ULS intake (Mon–Fri 9:00 am–2:00 pm)",
+        "value": "801-328-8891"
+      },
+      {
+        "kind": "web",
+        "label": "Who Qualifies for Help — Utah Legal Services",
+        "value": "https://www.utahlegalservices.org/page/16/who-qualifies-get-help-utah-legal-services"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply online or call any time; call as soon as you recognize you have a legal problem."
+      }
+    ],
+    "description": "Utah Legal Services is a nonprofit law office providing free legal help in non-criminal (civil) cases to low-income Utahns, in areas including family law, protective orders, landlord/tenant, public benefits, consumer cases, and criminal record expungement. Offices in Salt Lake City, Ogden, Provo, and St. George serve the whole state.",
+    "eligibility": [
+      "Low-income Utah resident — in most cases household income at or below 200% of the federal poverty level",
+      "Citizen or legal permanent resident (exceptions for domestic violence cases, e.g., protective orders)",
+      "Case must be a priority case type; ULS screens every applicant"
+    ],
+    "id": "ut-legal-services",
+    "languages": [
+      "English"
+    ],
+    "name": "Utah Legal Services — Free Civil Legal Aid",
+    "prerequisites": [
+      "Apply online via the ULS website or call 801-328-8891 Monday–Friday 9:00 am–2:00 pm",
+      "Complete ULS's eligibility screening before services can be provided"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://www.utahlegalservices.org/page/16/who-qualifies-get-help-utah-legal-services"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Information about your legal problem and any court or legal documents",
+      "Proof of income and assets for the financial screening"
+    ]
+  },
+  {
+    "agency": "United Way / 211 Utah",
+    "applyLinks": [
+      {
+        "label": "211 Utah — connect to help",
+        "url": "https://211utah.org/wp-content/uploads/2026/05/Utah211_Overview-Flyer_8.5x11_v1.pdf"
+      }
+    ],
+    "category": "Housing",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "211 Utah (toll-free)",
+        "value": "888.826.9790"
+      },
+      {
+        "kind": "web",
+        "label": "211 Utah",
+        "value": "https://211utah.org/wp-content/uploads/2026/05/Utah211_Overview-Flyer_8.5x11_v1.pdf"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available year-round; call, text, or chat any time."
+      }
+    ],
+    "description": "211 Utah is a free, confidential statewide service connecting people to nearly 3,000 providers offering 10,000 services: housing, food and meals, healthcare, utility assistance, transportation, income assistance, employment, and education. Reach 211 by dialing 2-1-1, calling 888.826.9790, texting your ZIP code to 801.845.2211, using the 211 Utah app, or emailing 211@uw.org.",
+    "eligibility": [
+      "Anyone in Utah who needs help finding services"
+    ],
+    "id": "ut-211",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "211 Utah — Statewide Help Line and Referrals",
+    "prerequisites": [
+      "Dial 2-1-1 or contact 211 Utah by phone, text, app, or email"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "https://211utah.org/wp-content/uploads/2026/05/Utah211_Overview-Flyer_8.5x11_v1.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Your ZIP code (for text-based help)",
+      "A description of what you need help with"
+    ]
+  },
+  {
+    "agency": "Utah State Office of Rehabilitation (USOR), Utah Department of Workforce Services",
+    "applyLinks": [
+      {
+        "label": "About the Utah State Office of Rehabilitation",
+        "url": "http://jobs.utah.gov/usor/overview/about.html"
+      }
+    ],
+    "category": "Employment",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "USOR (unverified)",
+        "value": "1-800-473-7530 (unverified)"
+      },
+      {
+        "kind": "web",
+        "label": "About the Utah State Office of Rehabilitation",
+        "value": "http://jobs.utah.gov/usor/overview/about.html"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; vocational rehabilitation is provided based on an individualized plan for employment."
+      }
+    ],
+    "description": "The Utah State Office of Rehabilitation has served Utahns with disabilities for more than 90 years. Its Vocational Rehabilitation program provides rehabilitation counseling and related services to individuals whose disability is a substantial impediment to employment, helping them prepare for, obtain, keep, or regain a job. Main programs: Vocational Rehabilitation, Services for the Deaf and Hard of Hearing, Services for the Blind and Visually Impaired, and Disability Determination Services.",
+    "eligibility": [
+      "Individuals with disabilities whose disability is a substantial impediment to employment"
+    ],
+    "id": "ut-usor-vr",
+    "languages": [
+      "English"
+    ],
+    "name": "Vocational Rehabilitation (USOR) — Utah",
+    "prerequisites": [
+      "Apply through USOR; eligibility is determined through an intake process",
+      "Services are based on the individual's needs, abilities, choices, and an individualized plan for employment"
+    ],
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "sources": [
+      "http://jobs.utah.gov/usor/overview/about.html"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Disability documentation",
+      "Work and education history"
+    ]
+  },
+  {
+    "agency": "Salt Lake County Department of Human Services — Aging & Adult Services",
+    "applyLinks": [
+      {
+        "label": "Salt Lake County Aging & Adult Services annual report",
+        "url": "https://www.saltlakecounty.gov/globalassets/1-site-files/aging--adult-services/information/annualreport.pdf"
+      }
+    ],
+    "category": "Seniors",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SLCo Aging & Adult Services",
+        "value": "(385) 468-3200"
+      },
+      {
+        "kind": "web",
+        "label": "saltlakecounty.gov/aging",
+        "value": "https://www.saltlakecounty.gov/globalassets/1-site-files/aging--adult-services/information/annualreport.pdf"
+      }
+    ],
+    "cost": "Free; senior center membership free for adults 60+",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through the outreach team."
+      }
+    ],
+    "description": "Salt Lake County Aging & Adult Services is the federally designated Area Agency on Aging for Salt Lake County, serving 18,000+ older adults. Services include 14 senior centers (plus a virtual center), Meals on Wheels home-delivered meals, congregate meals, Rides for Wellness medical rides, in-home services, caregiver support and respite, Veterans Direct Care, the ombudsman program for long-term care residents, and Medicare Options counseling.",
+    "eligibility": [
+      "Older adults 60 and older and their caregivers in Salt Lake County",
+      "Eligibility requirements remain in place for each program"
+    ],
+    "id": "slco-aging",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Salt Lake County Aging & Adult Services",
+    "prerequisites": [
+      "Call (385) 468-3200 to sign up through the outreach team; senior center membership is free for adults 60+"
+    ],
+    "scope": {
+      "county": "Salt Lake",
+      "level": "county",
+      "state": "UT"
+    },
+    "sources": [
+      "https://www.saltlakecounty.gov/globalassets/1-site-files/aging--adult-services/information/annualreport.pdf"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of age and Salt Lake County residency",
+      "Information about the older adult's needs"
+    ]
+  },
+  {
+    "agency": "Salt Lake County Health Department",
+    "applyLinks": [
+      {
+        "label": "Immunizations — Salt Lake County Health Department",
+        "url": "https://www.saltlakecounty.gov/health/immunizations/contact/"
+      }
+    ],
+    "category": "Healthcare",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SLCo Health Dept. immunizations",
+        "value": "385-468-7468"
+      },
+      {
+        "kind": "web",
+        "label": "Immunizations — Salt Lake County Health Department",
+        "value": "https://www.saltlakecounty.gov/health/immunizations/contact/"
+      }
+    ],
+    "cost": "Varies — insurance accepted including Medicaid/CHIP; Vaccines for Children (VFC) program for children 18 and under with no insurance",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Call for an appointment; same-day appointments are often available."
+      }
+    ],
+    "description": "Salt Lake County Health Department provides public health services including immunizations at five public health centers: West Valley City (4535 S 5600 W), Salt Lake City (610 S 200 E), South Salt Lake (3690 S Main St), West Jordan (7971 S 1825 W), and Sandy (9340 S 700 E). Also handles communicable disease response, food establishment inspections, and vital records.",
+    "eligibility": [
+      "Open to all residents of Salt Lake County"
+    ],
+    "id": "slco-health",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "Salt Lake County Health Department — Immunizations and Public Health",
+    "prerequisites": [
+      "Call 385-468-7468 (385-468-SHOT) to schedule; same-day appointments often available"
+    ],
+    "scope": {
+      "county": "Salt Lake",
+      "level": "county",
+      "state": "UT"
+    },
+    "sources": [
+      "https://www.saltlakecounty.gov/health/immunizations/contact/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Insurance card if you have one (Medicaid/CHIP accepted)",
+      "Immunization records if available"
+    ]
+  },
+  {
+    "agency": "Utah Transit Authority (UTA)",
+    "applyLinks": [
+      {
+        "label": "UTA Reduced Fare",
+        "url": "https://rideuta.com/Fares-And-Passes/Individual-Fares/Reduced-Fare"
+      }
+    ],
+    "category": "Transportation",
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UTA customer service",
+        "value": "801-743-3882"
+      },
+      {
+        "kind": "web",
+        "label": "UTA Reduced Fare",
+        "value": "https://rideuta.com/Fares-And-Passes/Individual-Fares/Reduced-Fare"
+      }
+    ],
+    "cost": "$1.00 per one-way trip (regular fare $2.50); capped at $2/day and $8/week for local service",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; income-based eligibility must be renewed annually."
+      }
+    ],
+    "description": "UTA's Reduced Fare FAREPAY Card gives qualifying riders a flat $1.00 one-way fare (regular $2.50) with daily and weekly fare caps, on UTA buses, TRAX, FrontRunner, S-Line streetcar, and UTA On Demand across Salt Lake, Utah, and other Wasatch Front counties. Apply online, verify eligibility, and receive the card after approval.",
+    "eligibility": [
+      "Youth ages 6–18",
+      "Seniors ages 65+",
+      "Persons with disabilities (Medicare or healthcare professional verification)",
+      "Income-qualified riders: member of a participating program or household income at 200% or less of federal poverty guidelines (e.g., $31,920/year for a household of one)"
+    ],
+    "id": "uta-reduced-fare",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "name": "UTA Reduced Fare FAREPAY Card",
+    "prerequisites": [
+      "Apply online (Chrome or Safari preferred browsers) and verify identification and eligibility"
+    ],
+    "scope": {
+      "county": "Salt Lake",
+      "level": "county",
+      "state": "UT"
+    },
+    "sources": [
+      "https://rideuta.com/Fares-And-Passes/Individual-Fares/Reduced-Fare"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "Proof of identity",
+      "Eligibility documentation (Medicare card, healthcare verification, or income documentation)"
+    ]
+  },
+  {
+    "agency": "Salt Lake City",
+    "applyLinks": [
+      {
+        "label": "Report or Request Service — Salt Lake City",
+        "url": "https://www.slc.gov/cleancity/report-or-request-service/"
+      }
+    ],
+    "category": "Utilities",
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Report or Request Service — Salt Lake City",
+        "value": "https://www.slc.gov/cleancity/report-or-request-service/"
+      }
+    ],
+    "cost": "Free",
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reports accepted year-round through mySLC."
+      }
+    ],
+    "description": "Salt Lake City's mySLC portal is the city's 311-equivalent: request services, report non-emergency issues (graffiti removal, illegal dumping, abandoned belongings, homeless encampments, needles or biowaste), share comments with city officials, and track submissions with city staff directly. Graffiti cleanup is typically within 24 business hours.",
+    "eligibility": [
+      "Anyone in Salt Lake City needing city services or reporting a non-emergency issue"
+    ],
+    "id": "slc-311",
+    "languages": [
+      "English"
+    ],
+    "name": "mySLC — Salt Lake City Service Requests",
+    "prerequisites": [
+      "Use the mySLC portal to submit reports; include location, description, and a photo"
+    ],
+    "scope": {
+      "city": "Salt Lake City",
+      "level": "city",
+      "state": "UT"
+    },
+    "sources": [
+      "https://www.slc.gov/cleancity/report-or-request-service/"
+    ],
+    "verifiedAt": "2026-09-19",
+    "whatToBring": [
+      "The exact location of the issue",
+      "A short description and a photo"
+    ]
+  },
+  {
+    "id": "ut-chip",
+    "name": "CHIP — Children's Health Insurance Program (Utah)",
+    "agency": "Utah Department of Health and Human Services (DHHS)",
+    "category": "Healthcare",
+    "description": "The Children's Health Insurance Program (CHIP) provides health coverage for uninsured Utah children who do not qualify for Medicaid. Call 1-877-543-7669 for enrollment help and current income limits.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Uninsured Utah child",
+      "Income limits apply — call 1-877-543-7669 or see the program page for current figures"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; no open enrollment for CHIP."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "CHIP enrollment help",
+        "value": "1-877-543-7669"
+      },
+      {
+        "kind": "web",
+        "label": "CHIP program page (Medicaid.utah.gov)",
+        "value": "https://medicaid.utah.gov/childrens-health-insurance-program/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CHIP program page and enrollment information",
+        "url": "https://medicaid.utah.gov/childrens-health-insurance-program/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; cost-sharing varies — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://medicaid.utah.gov/childrens-health-insurance-program/"
+    ]
+  },
+  {
+    "id": "ut-promise-grant",
+    "name": "Utah Promise Grant",
+    "agency": "Utah System of Higher Education (USHE)",
+    "category": "Education",
+    "description": "A need-based grant for Utah resident or resident-tuition students with demonstrated financial need — including recent high school graduates and adult residents. Award amounts vary with available funding. Students complete the FAFSA and apply through their college or university's financial aid office.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah resident or resident-tuition student",
+      "Demonstrated financial need (FAFSA completed)",
+      "Recent high school graduate or adult resident"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time through your institution's financial aid office; check school deadlines."
+      }
+    ],
+    "prerequisites": [
+      "FAFSA completed",
+      "Contact your college or university financial aid office"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Utah Promise Grant (USHE)",
+        "value": "https://ushe.edu/utah-promise-grant/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Utah Promise Grant information page",
+        "url": "https://ushe.edu/utah-promise-grant/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ushe.edu/utah-promise-grant/"
+    ]
+  },
+  {
+    "id": "ut-fthb",
+    "name": "Utah First-Time Homebuyer Assistance (New Construction)",
+    "agency": "Utah Housing Corporation",
+    "category": "Housing",
+    "description": "Assistance for first-time buyers of newly built qualifying Utah homes: a 0% interest subordinate loan with no monthly payments, up to $20,000, obtained through a participating Utah Housing lender. Requires 12 months of Utah residency; purchase-price limits apply (check current limits). Funding is limited — subject to availability.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "First-time homebuyer purchasing a newly built qualifying Utah home",
+      "Utah resident for the previous 12 months",
+      "Credit-qualified through a participating Utah Housing lender",
+      "Home price within current program limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Funds are limited — apply while funding is available; check the program page for current status."
+      }
+    ],
+    "prerequisites": [
+      "Credit-qualify through a participating Utah Housing lender"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "First-Time Homebuyer Program Assistance FAQ (PDF)",
+        "value": "https://utahhousingcorp.org/pdf/FTHB_Program_Assistance_FAQ.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "FTHB Program Assistance FAQ (PDF)",
+        "url": "https://utahhousingcorp.org/pdf/FTHB_Program_Assistance_FAQ.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://utahhousingcorp.org/pdf/FTHB_Program_Assistance_FAQ.pdf"
+    ]
+  },
+  {
+    "id": "ut-veteran-homebuyer-grant",
+    "name": "Utah Veteran First-Time Homebuyer Grant",
+    "agency": "Utah Department of Veterans and Military Affairs",
+    "category": "Veterans",
+    "description": "A $2,500 grant toward a veteran's first Utah home purchase for recent veterans (separated within the last 5 years) or current Active Duty/Reserve/Guard members eligible for a VA Home Loan Certificate of Eligibility. The home must be a primary residence occupied within 30 days of closing. The grant package is due at least 10 business days before closing, with documents to Utah Housing at least 5 business days before closing. Subject to legislative funding.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Veteran separated within the last 5 years, or current Active Duty/Reserve/Guard member",
+      "Eligible for a VA Home Loan Certificate of Eligibility",
+      "First home in Utah, used as primary residence and occupied within 30 days of closing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Before closing",
+        "note": "Grant package due at least 10 business days before closing; documents to Utah Housing at least 5 business days before closing."
+      }
+    ],
+    "prerequisites": [
+      "VA Home Loan Certificate of Eligibility"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Utah Department of Veterans and Military Affairs",
+        "value": "801-326-2372"
+      },
+      {
+        "kind": "web",
+        "label": "Veteran First-Time Homebuyer Grant page",
+        "value": "https://veterans.utah.gov/first-time-homebuyer-grant/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veteran First-Time Homebuyer Grant page and application",
+        "url": "https://veterans.utah.gov/first-time-homebuyer-grant/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://veterans.utah.gov/first-time-homebuyer-grant/"
+    ]
+  },
+  {
+    "id": "ut-child-support",
+    "name": "Utah Child Support Services — Apply",
+    "agency": "Utah Office of Recovery Services (ORS)",
+    "category": "Family & Childcare",
+    "description": "Child support services including establishing paternity, setting and enforcing support orders, and collecting and distributing payments. Apply online or by paper application; a separate application is required for each family group, with copies of required documents listed on the application page.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Parent or custodian seeking child support services in Utah",
+      "Separate application required for each family group"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time online or by mail."
+      }
+    ],
+    "prerequisites": [
+      "Copies of required documents (listed on the application page)"
+    ],
+    "whatToBring": [
+      "Required document copies — see application page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for Child Support (ORS)",
+        "value": "https://ors.utah.gov/child-support/apply-child-support/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Child Support Services",
+        "url": "https://ors.utah.gov/child-support/apply-child-support/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://ors.utah.gov/child-support/apply-child-support/"
+    ]
+  },
+  {
+    "id": "ut-courts-self-help",
+    "name": "Utah Courts Self-Help Center",
+    "agency": "Utah State Courts",
+    "category": "Legal Aid",
+    "description": "Free legal information and help for people representing themselves in Utah courts — staff can explain court procedures and answer questions, but cannot give legal advice, represent you, or tell you what to do. Hours: Monday–Friday, 11:00 AM–5:00 PM.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Anyone representing themselves in a Utah court case"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact any time during business hours; no application required."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Information about your court case"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Self-Help Center",
+        "value": "888-683-0009"
+      },
+      {
+        "kind": "phone",
+        "label": "Self-Help Center (text)",
+        "value": "801-742-1898"
+      },
+      {
+        "kind": "email",
+        "label": "Self-Help Center email",
+        "value": "selfhelp@utcourts.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Self-Help Center contact page",
+        "value": "http://www.utcourts.gov/en/self-help/services/contact.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Self-Help Center contact page",
+        "url": "http://www.utcourts.gov/en/self-help/services/contact.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://www.utcourts.gov/en/self-help/services/contact.html"
+    ]
+  },
+  {
+    "id": "ut-refugee-support",
+    "name": "Utah Refugee Support",
+    "agency": "Utah Department of Workforce Services — myDoorway",
+    "category": "Immigration",
+    "description": "Navigation and connection to resources for refugees and newcomers in Utah: employment, housing, English language learning, food, childcare, health services, and crisis resources. The Utah Refugee Center offers classes, training, and youth programs.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Refugees and newcomers in Utah"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reach out any time."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Refugee Support (myDoorway)",
+        "value": "https://mydoorway.utah.gov/refugee-support/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Refugee Support information page",
+        "url": "https://mydoorway.utah.gov/refugee-support/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://mydoorway.utah.gov/refugee-support/"
+    ]
+  },
+  {
+    "id": "ut-refugee-cash-assistance",
+    "name": "Refugee Cash Assistance (RCA) — Utah",
+    "agency": "Utah Department of Workforce Services",
+    "category": "Immigration",
+    "description": "Time-limited cash assistance for eligible refugees, asylees, and trafficking victims who are not yet eligible for TANF/FEP. Duration depends on when ORR eligibility was established: up to 4 months for eligibility on or after May 5, 2025; up to 12 months for eligibility before May 5, 2025. Requires qualifying immigration status with documentation (usually DHS Form I-94). Cannot receive RCA while receiving a local resettlement agency Matching Grant.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Eligible refugee, asylee, trafficking victim, or other qualifying immigration status",
+      "Immigration documentation (usually DHS Form I-94)",
+      "Not currently receiving a resettlement agency Matching Grant"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; assistance is time-limited from the date ORR eligibility is established."
+      }
+    ],
+    "prerequisites": [
+      "Qualifying immigration status and documentation"
+    ],
+    "whatToBring": [
+      "DHS Form I-94 or other immigration documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Refugee Services Center",
+        "value": "801-618-5096"
+      },
+      {
+        "kind": "email",
+        "label": "Refugee Services Center email",
+        "value": "refugeecenter@utah.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Refugee Services Center",
+        "value": "150 North 1950 West, Salt Lake City, UT 84116"
+      },
+      {
+        "kind": "web",
+        "label": "Refugee Cash Assistance page (jobs.utah.gov)",
+        "value": "http://jobs.utah.gov/customereducation/services/financialhelp/refugee/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Refugee Cash Assistance page",
+        "url": "http://jobs.utah.gov/customereducation/services/financialhelp/refugee/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "http://jobs.utah.gov/customereducation/services/financialhelp/refugee/"
+    ]
+  },
+  {
+    "id": "ut-startup-state",
+    "name": "Startup State — Utah Entrepreneurship Resource Portal",
+    "agency": "Utah Governor's Office of Economic Opportunity (GOEO)",
+    "category": "Small Business",
+    "description": "Utah's official entrepreneurship resource portal, connecting business owners and founders with programs, tools, and guidance for every stage of the business lifecycle — from idea to growth.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Entrepreneurs and business owners in Utah"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Use the portal any time."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Startup State portal",
+        "value": "https://startup.utah.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Startup State portal",
+        "url": "https://startup.utah.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://startup.utah.gov/"
+    ]
+  },
+  {
+    "id": "ut-disability-law-center",
+    "name": "Disability Law Center — Utah",
+    "agency": "Disability Law Center",
+    "category": "Disability",
+    "description": "The Disability Law Center provides disability-support resources and help applying for assistance for Utahns with disabilities, covering topics including abuse and neglect, accessibility, assistive technology, education, employment, healthcare, and housing. Intake typically responds within five business days.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utahns with disabilities seeking help or information"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply for help any time; intake typically responds within five business days."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for Help (Disability Law Center)",
+        "value": "https://disabilitylawcenter.org/get-help/apply-for-help/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Help",
+        "url": "https://disabilitylawcenter.org/get-help/apply-for-help/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://disabilitylawcenter.org/get-help/apply-for-help/"
+    ]
+  },
+  {
+    "id": "ut-ship",
+    "name": "SHIP — Free Medicare Counseling (Utah)",
+    "agency": "State Health Insurance Assistance Program — administered in Utah through the Division of Aging and Adult Services and local Area Agencies on Aging",
+    "category": "Seniors",
+    "description": "Free, unbiased one-on-one Medicare counseling for Utah Medicare beneficiaries, families, and caregivers: plan options, enrollment, prescription drug coverage, costs, billing problems, and fraud reporting. SHIP is federally funded and not affiliated with the insurance industry. Utah statewide toll-free line: 1-800-541-7735.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Medicare beneficiaries and their families or caregivers in Utah"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Free counseling any time; especially useful during Medicare Open Enrollment (Oct 15–Dec 7)."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Your Medicare card and list of prescription medications"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Utah statewide SHIP toll-free line",
+        "value": "1-800-541-7735"
+      },
+      {
+        "kind": "phone",
+        "label": "SHIP coordinator (Weber/Morgan counties)",
+        "value": "801-625-3664"
+      },
+      {
+        "kind": "web",
+        "label": "Find your local SHIP (shiphelp.org)",
+        "value": "https://www.shiphelp.org/"
+      },
+      {
+        "kind": "web",
+        "label": "Medicare Counseling (Weber Human Services Aging)",
+        "value": "https://www.weberhsaging.net/medicare-counseling"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find your local SHIP",
+        "url": "https://www.shiphelp.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.shiphelp.org/",
+      "https://www.weberhsaging.net/medicare-counseling"
+    ]
+  },
+  {
+    "id": "ut-adult-education",
+    "name": "Utah Adult Education (ABE / GED / Diploma)",
+    "agency": "Utah State Board of Education (USBE)",
+    "category": "Education",
+    "description": "Statewide adult education: Adult Basic Education (reading, writing, math), Adult Secondary Education leading to a Utah Adult Secondary Diploma, English Language Acquisition, and GED test preparation. GED: open to adults 18+ whose high school class has graduated (16–18 with eligibility forms); $120 for the full test or $30 per module; passing all four modules earns the Utah High School Completion Diploma. Find local programs in the 2026–27 program directory on the program page.",
+    "scope": {
+      "level": "state",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Utah residents 18 or older, and out-of-school youth 16 or older",
+      "Legal residents of the United States with Utah as permanent home"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll any time; local programs set their own schedules."
+      }
+    ],
+    "prerequisites": [
+      "16–18 year-olds: HSE Candidate and Adult Education Eligibility Form from the last school attended"
+    ],
+    "whatToBring": [
+      "Varies by program — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Adult Education (schools.utah.gov)",
+        "value": "https://schools.utah.gov/adulteducation/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Adult Education program page and program directory",
+        "url": "https://schools.utah.gov/adulteducation/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; GED testing fees apply ($120 full test / $30 per module)",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://schools.utah.gov/adulteducation/"
+    ]
+  },
+  {
+    "id": "provo-home-purchase-plus",
+    "name": "Home Purchase Plus — Down Payment Assistance (Provo)",
+    "agency": "Provo City — Development Services, Community Programs",
+    "category": "Housing",
+    "description": "A 0% interest, deferred-payment loan for first-time homebuyers purchasing in Provo City. Qualified applicants may receive the mortgage-required down payment (5% for conventional or 3.5% for FHA) plus estimated closing costs, minus $1,000 of their own money, plus an additional 5%/3.5% — capped at $40,000. No payments are due while the home is owned and occupied as the primary residence; a $5,000 prepayment penalty applies if sold or vacated within two years. Currently accepting applications — applicants must have a property under contract before applying, and apply through neighborly.provo.org under Down Payment Assistance.",
+    "scope": {
+      "level": "city",
+      "city": "Provo",
+      "state": "UT"
+    },
+    "eligibility": [
+      "First-time homebuyer (no ownership in a principal residence in the last 3 years)",
+      "Income-eligible per the program's HUD income chart",
+      "Minimum mid-credit score of 650",
+      "On current job for at least 6 months",
+      "Liquid assets of $15,000 or less at closing",
+      "Completed pre-homeownership counseling",
+      "Home price within HUD purchase-price limits (check current limit)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Currently accepting applications (verified 2026-09-19) — applicants must have a property under contract before applying."
+      }
+    ],
+    "prerequisites": [
+      "Property under contract in Provo City",
+      "Pre-homeownership counseling completed (Community Action, NeighborWorks, or approved online course)"
+    ],
+    "whatToBring": [
+      "Last three months of pay stubs",
+      "Loan Estimate from your lender",
+      "Proof of pre-homeownership counseling"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Home Purchase Plus Program (provo.org)",
+        "value": "https://www.provo.org/departments/development/cdbg-home/home-purchase-plus-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Home Purchase Plus Program page (apply via neighborly.provo.org)",
+        "url": "https://www.provo.org/departments/development/cdbg-home/home-purchase-plus-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.provo.org/departments/development/cdbg-home/home-purchase-plus-program"
+    ]
+  },
+  {
+    "id": "wj-senior-housing",
+    "name": "West Jordan Senior Housing",
+    "agency": "West Jordan City (HUD Section 202 development) — applications via Utah Nonprofit Housing Corporation",
+    "category": "Housing",
+    "description": "A 65-unit one-bedroom development for seniors 62 and older, developed under HUD's Section 202 program. Rent with utilities included at 30% of monthly income. Amenities include laundry rooms, a craft/exercise room, library, meeting room with kitchen, covered parking, and a walking trail; the project is near the West Jordan Senior Center, Gene Fullmer Recreation Center, and a TRAX station. Contact the Utah Nonprofit Housing Corporation at 801-364-6117 for details and an application.",
+    "scope": {
+      "level": "city",
+      "city": "West Jordan",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Age 62 or older"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Contact the Utah Nonprofit Housing Corporation for current availability."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — contact for an application"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Utah Nonprofit Housing Corporation",
+        "value": "801-364-6117"
+      },
+      {
+        "kind": "web",
+        "label": "Affordable Housing (West Jordan City)",
+        "value": "https://www.westjordan.utah.gov/community-development/affordable-housing/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Affordable Housing page (West Jordan City)",
+        "url": "https://www.westjordan.utah.gov/community-development/affordable-housing/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Rent set at 30% of monthly income, utilities included",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.westjordan.utah.gov/community-development/affordable-housing/"
+    ]
+  },
+  {
+    "id": "fed-va-slc",
+    "name": "VA Salt Lake City Health Care System",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The VA Salt Lake City Healthcare System provides health care to veterans at the George E. Wahlen VA Medical Center (500 Foothill Boulevard, Salt Lake City, UT 84148) and affiliated clinics. Enroll in VA health care and manage care online, by phone, or in person.",
+    "scope": {
+      "level": "federal",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Veterans eligible for VA health care"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Enroll in VA health care any time."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD214) and other enrollment documents — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA Salt Lake City Health Care",
+        "value": "https://www.va.gov/salt-lake-city-health-care/"
+      },
+      {
+        "kind": "in-person",
+        "label": "George E. Wahlen VA Medical Center",
+        "value": "500 Foothill Boulevard, Salt Lake City, UT 84148"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA Salt Lake City Health Care page",
+        "url": "https://www.va.gov/salt-lake-city-health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply; care costs vary",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/salt-lake-city-health-care/"
+    ]
+  },
+  {
+    "id": "provo-311",
+    "name": "Provo 311 — Report An Issue",
+    "agency": "City of Provo",
+    "category": "Utilities",
+    "description": "Report non-emergency city issues in Provo — potholes, missed trash, streetlights, and more — through the city's online Report An Issue portal with a map-based service request, or dial 3-1-1. For emergencies, dial 911; for police or animal control response, call 801-852-6210.",
+    "scope": {
+      "level": "city",
+      "city": "Provo",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Anyone reporting a non-emergency city issue in Provo"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Reports accepted year-round through the online portal."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Provo Police non-emergency (from 311 page)",
+        "value": "801-852-6210"
+      },
+      {
+        "kind": "web",
+        "label": "Report An Issue (provo.gov)",
+        "value": "https://www.provo.gov/215/Report-An-Issue"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Report An Issue portal",
+        "url": "https://www.provo.gov/215/Report-An-Issue"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.provo.gov/215/Report-An-Issue"
+    ]
+  },
+  {
+    "id": "utco-health",
+    "name": "Utah County Health Department — Public Health Services",
+    "agency": "Utah County Health Department",
+    "category": "Healthcare",
+    "description": "Public health services across Utah County: immunizations, birth/death certificates, the Wellness Clinic, cancer prevention/BeWise, WIC, senior volunteers, food safety, water quality, tobacco prevention, chronic disease and injury prevention, and substance use and suicide prevention. Main office at 151 S University Ave, Provo; clinics in Payson, Saratoga Springs, Spanish Fork, and more.",
+    "scope": {
+      "level": "county",
+      "county": "Utah County",
+      "state": "UT"
+    },
+    "eligibility": [
+      "Open to Utah County residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round; hours vary by location and service."
+      }
+    ],
+    "prerequisites": [
+      "No prerequisites"
+    ],
+    "whatToBring": [
+      "Varies by service — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Locations and services (health.utahcounty.gov)",
+        "value": "https://health.utahcounty.gov/locations/"
+      },
+      {
+        "kind": "in-person",
+        "label": "Main office (Provo)",
+        "value": "151 S University Ave, Provo, UT 84601"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Locations and services page",
+        "url": "https://health.utahcounty.gov/locations/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by service — see program page",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.utahcounty.gov/locations/"
+    ]
   }
 ]
