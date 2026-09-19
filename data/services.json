@@ -90555,5 +90555,1882 @@
     "sources": [
       "https://www.sba.gov/district/vermont"
     ]
+  },
+  {
+    "id": "wy-snap",
+    "name": "Supplemental Nutrition Assistance Program (SNAP) — Wyoming",
+    "agency": "Wyoming Department of Family Services (DFS)",
+    "category": "Food",
+    "description": "Monthly food benefits on an EBT card for eligible low-income Wyoming households. Applications are submitted to the local DFS office in person, by mail, or by fax; DFS then schedules a required interview.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming resident",
+      "Household income and assets within program limits — varies, see program page",
+      "Citizenship/immigration rules apply — check the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round; benefits are issued monthly once approved."
+      }
+    ],
+    "prerequisites": [
+      "Submit an application to the local DFS office in person, by mail, or by fax",
+      "Complete the interview after DFS schedules it"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: proof of identity, residency, household income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP program manager",
+        "value": "307-473-3948"
+      },
+      {
+        "kind": "phone",
+        "label": "SNAP interview line — interviews only, not for case questions",
+        "value": "307-777-8550"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP — how to apply and forms",
+        "value": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/snap-how-to-apply-and-frequently-used-forms/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SNAP program page",
+        "url": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/"
+      },
+      {
+        "label": "SNAP — how to apply and frequently used forms",
+        "url": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/snap-how-to-apply-and-frequently-used-forms/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/",
+      "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/snap-how-to-apply-and-frequently-used-forms/"
+    ]
+  },
+  {
+    "id": "wy-lieap",
+    "name": "Low Income Energy Assistance Program (LIEAP) — Wyoming",
+    "agency": "Wyoming Department of Family Services (DFS)",
+    "category": "Utilities",
+    "description": "Heating-season help paying winter energy bills for eligible Wyoming households. A new heating-season application is required each year; priority households could apply early while all other households opened later in the season — see the program page for current status.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming household with heating costs",
+      "Income within program limits — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-04-30",
+        "label": "Heating-season application window",
+        "note": "Applications run through April 30, 2027; a new heating-season application is required each year."
+      }
+    ],
+    "prerequisites": [
+      "Apply online through the Utility Assistance Online Portal or via the program page"
+    ],
+    "whatToBring": [
+      "Standard documents — see the program page for the current application checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "LIEAP",
+        "value": "800-246-4221"
+      },
+      {
+        "kind": "web",
+        "label": "LIEAP program page",
+        "value": "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/low-income-energy-assistance-program-lieap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LIEAP program page",
+        "url": "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/low-income-energy-assistance-program-lieap/"
+      },
+      {
+        "label": "Utility Assistance Online Portal",
+        "url": "https://dfsgovcloud.my.site.com/UtilityAssistanceOnlinePortal/s/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/low-income-energy-assistance-program-lieap/"
+    ]
+  },
+  {
+    "id": "wy-weatherization",
+    "name": "Weatherization Assistance Program (WAP) — Wyoming",
+    "agency": "Wyoming Department of Family Services (DFS)",
+    "category": "Utilities",
+    "description": "Free eligible home improvements — such as insulation and air sealing — for low-income Wyoming households to reduce energy bills and improve home safety and comfort. Apply through the Utility Assistance Online Portal.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming household",
+      "Income within program limits — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round through the Utility Assistance Online Portal."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the Utility Assistance Online Portal or the program page"
+    ],
+    "whatToBring": [
+      "Standard documents — see the program page for the current application checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Weatherization program page",
+        "value": "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/weatherization-assistance-program-wap-2/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Weatherization program page",
+        "url": "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/weatherization-assistance-program-wap-2/"
+      },
+      {
+        "label": "Utility Assistance Online Portal",
+        "url": "https://dfsgovcloud.my.site.com/UtilityAssistanceOnlinePortal/s/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/weatherization-assistance-program-wap-2/"
+    ]
+  },
+  {
+    "id": "wy-power-tanf",
+    "name": "POWER (Personal Opportunities with Employment Responsibilities) — Wyoming",
+    "agency": "Wyoming Department of Family Services (DFS)",
+    "category": "Money & Taxes",
+    "description": "Wyoming's cash assistance program for families, including POWER Work and POWER Caretaker Relative programs, paired with employment-focused services. Apply through your local DFS office.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming household — see program page for full eligibility rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round at local DFS offices."
+      }
+    ],
+    "prerequisites": [
+      "Apply at the local DFS office (in person, by mail, or fax)"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead",
+      "Typically: proof of identity, residency, household income, and family composition"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Cash assistance — DFS",
+        "value": "https://dfs.wyo.gov/assistance-programs/cash-assistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cash assistance — DFS",
+        "url": "https://dfs.wyo.gov/assistance-programs/cash-assistance/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dfs.wyo.gov/assistance-programs/cash-assistance/"
+    ]
+  },
+  {
+    "id": "wy-child-care-subsidy",
+    "name": "Child Care Subsidy — Wyoming",
+    "agency": "Wyoming Department of Family Services (DFS)",
+    "category": "Family & Childcare",
+    "description": "Helps eligible low-income Wyoming families pay for child care when parents are searching for work, working, attending school, or in training. Use the child care resource and referral pages to find providers and start an application.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming family",
+      "Low income — varies, see program page",
+      "Parent or guardian working, job searching, in school, or in training"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "Choose a licensed child care provider (resource and referral pages can help)"
+    ],
+    "whatToBring": [
+      "Standard documents — varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DFS child care",
+        "value": "https://dfs.wyo.gov/services/family-services/child-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DFS child care",
+        "url": "https://dfs.wyo.gov/services/family-services/child-care/"
+      },
+      {
+        "label": "Child care resource and referral for parents",
+        "url": "https://dfs.wyo.gov/services/family-services/child-care/resource-and-referral-parents/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dfs.wyo.gov/services/family-services/child-care/",
+      "https://dfs.wyo.gov/services/family-services/child-care/resource-and-referral-parents/"
+    ]
+  },
+  {
+    "id": "wy-medicaid",
+    "name": "Wyoming Medicaid — Apply for Health Coverage",
+    "agency": "Wyoming Department of Health",
+    "category": "Healthcare",
+    "description": "Health coverage for eligible low-income Wyoming residents. Apply online, by phone, by mail, or in person; applications can take up to 45 days to process.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming resident",
+      "Income and category rules — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round; applications can take up to 45 days to process."
+      }
+    ],
+    "prerequisites": [
+      "Complete the application for health coverage (online, phone, mail, or in person)"
+    ],
+    "whatToBring": [
+      "Standard documents — see the paper application for the document checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Apply/renew — Medicaid",
+        "value": "1-855-294-2127"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-855-329-5204"
+      },
+      {
+        "kind": "phone",
+        "label": "Fax",
+        "value": "1-855-329-5205"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply — Wyoming Medicaid",
+        "value": "https://health.wyo.gov/healthcarefin/apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply — Wyoming Medicaid",
+        "url": "https://health.wyo.gov/healthcarefin/apply/"
+      },
+      {
+        "label": "Application for Health Coverage (paper, English)",
+        "url": "https://health.wyo.gov/wp-content/uploads/2026/03/Application-for-Health-Coverage-Help-Paying-Costs-February-2026.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.wyo.gov/healthcarefin/medicaid/",
+      "https://health.wyo.gov/healthcarefin/apply/",
+      "https://health.wyo.gov/wp-content/uploads/2026/03/Application-for-Health-Coverage-Help-Paying-Costs-February-2026.pdf"
+    ]
+  },
+  {
+    "id": "wy-kid-care-chip",
+    "name": "Kid Care CHIP — Wyoming",
+    "agency": "Wyoming Department of Health",
+    "category": "Healthcare",
+    "description": "Low-cost health coverage for Wyoming children whose families earn too much for Medicaid but cannot afford private coverage. Apply through the Wyoming Medicaid application process.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming child",
+      "Income rules — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "Complete the application for health coverage (online, phone, mail, or in person)"
+    ],
+    "whatToBring": [
+      "Standard documents — see the paper application for the document checklist"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Apply/renew",
+        "value": "1-855-294-2127"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-855-329-5204"
+      },
+      {
+        "kind": "web",
+        "label": "Kid Care CHIP",
+        "value": "https://health.wyo.gov/healthcarefin/chip/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kid Care CHIP",
+        "url": "https://health.wyo.gov/healthcarefin/chip/"
+      },
+      {
+        "label": "How to apply — health coverage",
+        "url": "https://health.wyo.gov/healthcarefin/apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.wyo.gov/healthcarefin/chip/",
+      "https://health.wyo.gov/healthcarefin/apply/"
+    ]
+  },
+  {
+    "id": "wy-wic",
+    "name": "WIC — Women, Infants, and Children — Wyoming",
+    "agency": "Wyoming Department of Health",
+    "category": "Healthcare",
+    "description": "Nutrition program for pregnant and postpartum women, infants, and children up to age 5 — food packages, nutrition education, breastfeeding support, and health referrals. Apply online through the WIC participant portal or contact the WIC helpdesk.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Pregnant or postpartum women, infants, and children up to age 5",
+      "Wyoming resident",
+      "Income within program limits — varies, see program page",
+      "At nutritional risk — determined during certification"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "Apply through the WIC participant portal or contact the local WIC office"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and income — see the apply page for details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC helpdesk",
+        "value": "307-777-6236"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for WIC",
+        "value": "https://health.wyo.gov/publichealth/wic/apply-for-wic/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for WIC",
+        "url": "https://health.wyo.gov/publichealth/wic/apply-for-wic/"
+      },
+      {
+        "label": "WIC participant portal",
+        "url": "https://wic-portal.health.wyo.gov/ParticipantPortal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.wyo.gov/publichealth/wic/",
+      "https://health.wyo.gov/publichealth/wic/apply-for-wic/"
+    ]
+  },
+  {
+    "id": "wy-unemployment-insurance",
+    "name": "Unemployment Insurance — Wyoming",
+    "agency": "Wyoming Department of Workforce Services (DWS)",
+    "category": "Employment",
+    "description": "Weekly benefit payments for Wyoming workers who lost their jobs through no fault of their own. Claimants must register in the WYUI system; continued claims must be filed within 14 days after the claim week ends.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Lost job through no fault of your own",
+      "Worked in Wyoming and meet wage requirements — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "File promptly after job loss; continued claims must be filed within 14 days after the claim week ends."
+      }
+    ],
+    "prerequisites": [
+      "Register in the WYUI system",
+      "File the initial claim following the filing instructions page"
+    ],
+    "whatToBring": [
+      "Employment history and separation information — see the filing instructions page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Filing for UI — instructions",
+        "value": "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/filing-for-ui/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Filing for UI — instructions",
+        "url": "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/filing-for-ui/"
+      },
+      {
+        "label": "UI claimants FAQ",
+        "url": "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/faq2/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/filing-for-ui/",
+      "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/faq2/"
+    ]
+  },
+  {
+    "id": "wy-vocational-rehabilitation",
+    "name": "Vocational Rehabilitation — Wyoming",
+    "agency": "Wyoming Department of Workforce Services (DWS)",
+    "category": "Employment",
+    "description": "Helps Wyoming job seekers with disabilities prepare for, find, and keep jobs — counseling, training, and employment services through regional VR offices statewide.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming resident with a disability that is a barrier to employment — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round at regional VR offices."
+      }
+    ],
+    "prerequisites": [
+      "Contact or visit a regional VR office to start the application process"
+    ],
+    "whatToBring": [
+      "Medical and employment documentation — the VR office will advise what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VR Cheyenne (main office) — 5221 Yellowstone Road",
+        "value": "307-777-7364"
+      },
+      {
+        "kind": "web",
+        "label": "How do I apply — VR",
+        "value": "https://dws.wyo.gov/dws-division/vocational-rehabilitation/job-seekers/how-do-i-apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vocational Rehabilitation overview",
+        "url": "https://dws.wyo.gov/dws-division/vocational-rehabilitation/"
+      },
+      {
+        "label": "How do I apply — VR",
+        "url": "https://dws.wyo.gov/dws-division/vocational-rehabilitation/job-seekers/how-do-i-apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://dws.wyo.gov/dws-division/vocational-rehabilitation/",
+      "https://dws.wyo.gov/dws-division/vocational-rehabilitation/contact/"
+    ]
+  },
+  {
+    "id": "wy-veterans-commission",
+    "name": "Wyoming Veterans Commission — Benefits Assistance",
+    "agency": "Wyoming Veterans Commission (Wyoming Military Department)",
+    "category": "Veterans",
+    "description": "Helps Wyoming veterans, service members, and their families connect with federal and state benefits, military records, and veteran resources. Call the veterans hotline for help.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming veterans, service members, and their families — varies by benefit, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Help available year-round."
+      }
+    ],
+    "prerequisites": [
+      "Call the veterans hotline or the commission office"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD-214) and other service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Veterans hotline",
+        "value": "800-833-5987"
+      },
+      {
+        "kind": "phone",
+        "label": "Wyoming Veterans Commission",
+        "value": "307-777-8152"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veteran benefits resources and military records",
+        "url": "https://www.wyomilitary.wyo.gov/resources/veteran/benefits-resources-military-records/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wyomilitary.wyo.gov/resources/veteran/benefits-resources-military-records/"
+    ]
+  },
+  {
+    "id": "wy-business-registration",
+    "name": "Start a Business — Wyoming Secretary of State",
+    "agency": "Wyoming Secretary of State — Business Division",
+    "category": "Small Business",
+    "description": "Register a business entity in Wyoming — LLCs, corporations, partnerships, and more — through the Secretary of State's online filing system or paper forms.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Anyone registering a business in Wyoming — see filing requirements on the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Filings accepted year-round; annual reports have their own due dates — see program page."
+      }
+    ],
+    "prerequisites": [
+      "Choose an entity type; a registered agent with a Wyoming address is required for most filings"
+    ],
+    "whatToBring": [
+      "Business name, registered agent information, and organizer/incorporator details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Division",
+        "value": "307.777.7311"
+      },
+      {
+        "kind": "email",
+        "label": "Business Division email",
+        "value": "Business@wyo.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Contact the Secretary of State",
+        "value": "https://sos.wyo.gov/contactus.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start a business",
+        "url": "https://sos.wyo.gov/Business/StartABusiness.aspx"
+      },
+      {
+        "label": "Online business filing",
+        "url": "https://wyobiz.wyo.gov/Business/Default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by filing",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://sos.wyo.gov/Business/StartABusiness.aspx",
+      "https://wyobiz.wyo.gov/Business/Default.aspx",
+      "https://sos.wyo.gov/contactus.aspx"
+    ]
+  },
+  {
+    "id": "wy-driver-license",
+    "name": "Driver License and ID Services — Wyoming",
+    "agency": "Wyoming Department of Transportation (WYDOT)",
+    "category": "Transportation",
+    "description": "Wyoming driver licenses, instruction permits, and identification cards. The oneWYO online portal supports renewals, duplicates, address updates, driving records, replacement disabled placards, and selected uploads; first-time licensing still requires station steps.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming resident — see the program page for age and documentation rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round; renew before your license expires."
+      }
+    ],
+    "prerequisites": [
+      "Create a oneWYO account for online services",
+      "First-time licenses require an in-person station visit"
+    ],
+    "whatToBring": [
+      "Proof of identity, residency, and lawful presence — see the program page for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WYDOT driver services",
+        "value": "307-777-4800"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license — WYDOT",
+        "url": "https://www.dot.state.wy.us/home/driver_license_records/driver-license.html"
+      },
+      {
+        "label": "ID cards — WYDOT",
+        "url": "https://www.dot.state.wy.us/home/driver_license_records/id_cards.html"
+      },
+      {
+        "label": "oneWYO online portal",
+        "url": "https://onewyoprodweb.mvds.onewyo.gov/home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by transaction",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.dot.state.wy.us/home/driver_license_records/driver-license.html",
+      "https://www.dot.state.wy.us/home/driver_license_records/id_cards.html"
+    ]
+  },
+  {
+    "id": "wy-hathaway-scholarship",
+    "name": "Hathaway Scholarship — Wyoming",
+    "agency": "State of Wyoming — Hathaway Scholarship",
+    "category": "Education",
+    "description": "Merit-based scholarship for eligible Wyoming public-school, homeschool, and HSEC graduates to use at the University of Wyoming or a Wyoming community college. Apply through the selected eligible college.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming high school graduate (public, homeschool, or HSEC)",
+      "Eligibility levels and award rules — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through the selected eligible college — see the program page for timelines."
+      }
+    ],
+    "prerequisites": [
+      "Apply and be admitted to the University of Wyoming or a Wyoming community college"
+    ],
+    "whatToBring": [
+      "School transcripts and application materials required by the selected college"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hathaway Scholarship",
+        "value": "https://hathawayscholarship.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hathaway Scholarship",
+        "url": "https://hathawayscholarship.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://hathawayscholarship.org"
+    ]
+  },
+  {
+    "id": "wy-tomorrow-scholarship",
+    "name": "Wyoming's Tomorrow Scholarship",
+    "agency": "Wyoming Community College Commission",
+    "category": "Education",
+    "description": "Scholarship for adult learners age 24 and older with financial need, covering tuition at Wyoming colleges. Requirements include citizenship/residency, DWS registration, FAFSA completion, and credential-seeking admission; applications go through the selected institution.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Adult learner age 24+",
+      "Financial need",
+      "Citizenship/residency requirements",
+      "DWS registration",
+      "FAFSA completed",
+      "Credential-seeking admission — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply through the selected institution — see the program page for timelines."
+      }
+    ],
+    "prerequisites": [
+      "Register with DWS",
+      "Complete the FAFSA",
+      "Apply to and be admitted to a Wyoming college"
+    ],
+    "whatToBring": [
+      "Financial and residency documentation required by the selected college"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Wyoming's Tomorrow Scholarship",
+        "value": "https://communitycolleges.wy.edu/wyoming-tomorrow-scholarship"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wyoming's Tomorrow Scholarship",
+        "url": "https://communitycolleges.wy.edu/wyoming-tomorrow-scholarship"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://communitycolleges.wy.edu/wyoming-tomorrow-scholarship"
+    ]
+  },
+  {
+    "id": "wy-wyoming-works",
+    "name": "Wyoming Works Program",
+    "agency": "Wyoming Community College Commission",
+    "category": "Employment",
+    "description": "Individual grants for adult students enrolling in approved programs at a Wyoming community college to learn a skill and secure employment. The program also helps colleges create high-demand programs.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Adult student enrolling in an approved program at a Wyoming community college — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Grants awarded per the program's process — see the program page."
+      }
+    ],
+    "prerequisites": [
+      "Enroll in an approved program at a Wyoming community college"
+    ],
+    "whatToBring": [
+      "Enrollment and application materials required by the selected college"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wyoming Community College Commission",
+        "value": "307-777-7763"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wyoming Works Program",
+        "url": "https://communitycolleges.wy.edu/wyoming-works-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://communitycolleges.wy.edu/wyoming-works-program"
+    ]
+  },
+  {
+    "id": "wy-legal-aid",
+    "name": "Legal Aid of Wyoming",
+    "agency": "Legal Aid of Wyoming",
+    "category": "Legal Aid",
+    "description": "Free civil legal help for low-income Wyoming residents — housing, family, consumer, and other non-criminal matters. Apply online or call the hotline Monday–Friday, 9:00 a.m.–4:00 p.m.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming resident",
+      "Low income — screened during intake"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Intake accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "Complete the online intake or call the hotline"
+    ],
+    "whatToBring": [
+      "Documents related to your legal issue — the intake process will advise what is needed"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Legal Aid hotline (Mon–Fri 9 a.m.–4 p.m.)",
+        "value": "1-877-432-9955"
+      },
+      {
+        "kind": "web",
+        "label": "Legal Aid of Wyoming",
+        "value": "https://www.lawyoming.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online",
+        "url": "https://www.lawyoming.org/apply-online"
+      },
+      {
+        "label": "Legal Aid of Wyoming",
+        "url": "https://www.lawyoming.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.lawyoming.org/",
+      "https://www.lawyoming.org/apply-online"
+    ]
+  },
+  {
+    "id": "wy-211",
+    "name": "Wyoming 211 — Community Resource Helpline",
+    "agency": "Wyoming Department of Health / Wyoming 211",
+    "category": "Healthcare",
+    "description": "Connections to a wide array of resources including food, job training, rent assistance, utilities, and more. Call 211 or text your ZIP code to 898211 any time.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Anyone in Wyoming — the helpline is for everyone"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Available year-round — call, text, or visit any time."
+      }
+    ],
+    "prerequisites": [
+      "Call 211 or text your ZIP code to 898211"
+    ],
+    "whatToBring": [
+      "No documents needed — just call or text"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wyoming 211 — call",
+        "value": "211"
+      },
+      {
+        "kind": "web",
+        "label": "Wyoming 211",
+        "value": "https://wyoming211.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wyoming 211",
+        "url": "https://wyoming211.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://health.wyo.gov/publichealth/prevention/wivpp/suicide-prevention/other-helplines/"
+    ]
+  },
+  {
+    "id": "wy-wcda-homebuyer",
+    "name": "WCDA First-Time Homebuyer Programs — Wyoming",
+    "agency": "Wyoming Community Development Authority (WCDA)",
+    "category": "Housing",
+    "description": "Wyoming's housing finance agency offers first-time homebuyer loan products — low fixed-rate 30-year financing, the Homestretch down payment assistance loan, and Spruce Up renovation financing. Purchase-price and income limits apply, and homebuyer education through Wyoming Housing Network is required.",
+    "scope": {
+      "level": "state",
+      "state": "WY"
+    },
+    "eligibility": [
+      "First-time homebuyer (no ownership interest in a primary residence in the last 3 years)",
+      "Purchase-price and income limits",
+      "Owner-occupied primary residence — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Programs available year-round through participating lenders."
+      }
+    ],
+    "prerequisites": [
+      "Complete homebuyer education through Wyoming Housing Network",
+      "Work with a participating lender"
+    ],
+    "whatToBring": [
+      "Financial documents required by the participating lender"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WCDA homebuyer programs",
+        "value": "https://www.wyomingcda.com/homebuyers/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WCDA homebuyer loan products",
+        "url": "https://www.wyomingcda.com/homebuyers/"
+      },
+      {
+        "label": "WCDA",
+        "url": "https://www.wyomingcda.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.wyomingcda.com/",
+      "https://www.wyomingcda.com/homebuyers/"
+    ]
+  },
+  {
+    "id": "natrona-property-tax-relief",
+    "name": "Property Tax Relief Programs — Natrona County",
+    "agency": "Natrona County Assessor",
+    "category": "Money & Taxes",
+    "description": "County-administered property tax relief: the veterans exemption (about $400 off the 2026 property tax bill or up to $180 off vehicle registration; deadline the 4th Monday in May), the long-term homeowner 50% exemption for residents 65+ who have paid Wyoming property tax for 25+ years (apply in person with affidavit; sign-ups October 1, 2026–March 1, 2027), and the 25% exemption for owner-occupied single-family homes (deadline March 1, 2027).",
+    "scope": {
+      "level": "county",
+      "state": "WY",
+      "county": "Natrona"
+    },
+    "eligibility": [
+      "Natrona County property owner",
+      "Program-specific rules — veterans, long-term homeowner, or owner-occupied single-family — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": "2027-03-01",
+        "label": "25% exemption — 2027 tax year",
+        "note": "Online affidavit required for owner-occupied single-family homes."
+      },
+      {
+        "date": null,
+        "label": "4th Monday in May",
+        "note": "Annual deadline for the veterans exemption and the long-term homeowner exemption."
+      }
+    ],
+    "prerequisites": [
+      "Apply in person at the County Assessor's Office with the required affidavit",
+      "Bring valid ID when turning in the application"
+    ],
+    "whatToBring": [
+      "Completed exemption affidavit (per the program page)",
+      "Valid ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Assessor's Office",
+        "value": "307-235-9444"
+      },
+      {
+        "kind": "phone",
+        "label": "Treasurer — property tax",
+        "value": "307-235-9470"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Property tax relief programs",
+        "url": "https://www.natronacounty-wy.gov/926/Property-Tax-Relief-Programs---Updated-M"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.natronacounty-wy.gov/926/Property-Tax-Relief-Programs---Updated-M",
+      "https://www.natronacounty-wy.gov/15/Assessor"
+    ]
+  },
+  {
+    "id": "campbell-public-health",
+    "name": "Campbell County Public Health — Gillette",
+    "agency": "Campbell County Public Health",
+    "category": "Healthcare",
+    "description": "Public health services in Gillette, many free of charge: walk-in clinics, immunizations, health screenings, STD/STI testing, maternal-child health, home visits, and WIC. Programs include general, adult, maternal-child, and children's services.",
+    "scope": {
+      "level": "county",
+      "state": "WY",
+      "county": "Campbell"
+    },
+    "eligibility": [
+      "Campbell County residents and visitors — some programs have specific eligibility, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round during office hours."
+      }
+    ],
+    "prerequisites": [
+      "Call to confirm hours and program availability"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance information if available; many services are free"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Campbell County Public Health",
+        "value": "307-682-7275"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Campbell County Public Health",
+        "url": "https://www.ccgov.net/296/Public-Health"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.ccgov.net/296/Public-Health"
+    ]
+  },
+  {
+    "id": "sweetwater-veterans",
+    "name": "Veteran's Services — Sweetwater County",
+    "agency": "Sweetwater County Veteran's Services",
+    "category": "Veterans",
+    "description": "County veteran services office helping veterans with questions about VA benefits and claims. Director Garry McLean. Offices in Rock Springs and Green River; also serves Lincoln and Sublette counties.",
+    "scope": {
+      "level": "county",
+      "state": "WY",
+      "county": "Sweetwater"
+    },
+    "eligibility": [
+      "Veterans and their families in Sweetwater County (also serves Lincoln and Sublette counties)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round, Monday–Thursday, 8:00 a.m.–5:00 p.m."
+      }
+    ],
+    "prerequisites": [
+      "Call or visit the office"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD-214) and other service records if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Rock Springs office",
+        "value": "307-362-6641"
+      },
+      {
+        "kind": "in-person",
+        "label": "333 Broadway, Suite 231, Rock Springs, WY 82901",
+        "value": "333 Broadway, Suite 231, Rock Springs, WY 82901"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Veteran's Services — Sweetwater County",
+        "url": "https://www.sweetwatercountywy.gov/departments/veteran_s_services/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sweetwatercountywy.gov/departments/veteran_s_services/index.php"
+    ]
+  },
+  {
+    "id": "sweetwater-health",
+    "name": "District Board of Health — Sweetwater County",
+    "agency": "Sweetwater County District Board of Health",
+    "category": "Healthcare",
+    "description": "County public health department providing disease monitoring and prevention, food and water safety, waste disposal oversight, and public health education for county residents and visitors.",
+    "scope": {
+      "level": "county",
+      "state": "WY",
+      "county": "Sweetwater"
+    },
+    "eligibility": [
+      "Sweetwater County residents and visitors"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Services available year-round during office hours."
+      }
+    ],
+    "prerequisites": [
+      "Call for program and clinic availability"
+    ],
+    "whatToBring": [
+      "Photo ID and insurance information if available"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Health Department",
+        "value": "307-872-3970"
+      },
+      {
+        "kind": "in-person",
+        "label": "80 W. Flaming Gorge Way, Green River, WY 82935",
+        "value": "80 W. Flaming Gorge Way, Green River, WY 82935"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "District Board of Health",
+        "url": "https://www.sweetwatercountywy.gov/boards/district_board_of_health/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sweetwatercountywy.gov/boards/district_board_of_health/index.php"
+    ]
+  },
+  {
+    "id": "casper-311",
+    "name": "Casper 311 — Request City Services",
+    "agency": "City of Casper",
+    "category": "Transportation",
+    "description": "Online portal for non-emergency City of Casper service requests — potholes, streets, trash, code issues, and other municipal services. Submit requests as an account holder or guest through the portal.",
+    "scope": {
+      "level": "city",
+      "state": "WY",
+      "city": "Casper",
+      "county": "Natrona"
+    },
+    "eligibility": [
+      "Anyone reporting an issue within the City of Casper"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Requests accepted any time through the 311 portal."
+      }
+    ],
+    "prerequisites": [
+      "Submit through the online portal; no account required for guest requests"
+    ],
+    "whatToBring": [
+      "Location and description of the issue"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Request Services — Casper 311",
+        "value": "https://cityofcasperwy.tylerportico.com/TIM/Portal/portal-home"
+      },
+      {
+        "kind": "phone",
+        "label": "City of Casper main line",
+        "value": "307-235-8400"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Request Services — Casper 311 portal",
+        "url": "https://cityofcasperwy.tylerportico.com/TIM/Portal/portal-home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://cityofcasperwy.tylerportico.com/TIM/Portal/portal-home"
+    ]
+  },
+  {
+    "id": "casper-link-transit",
+    "name": "Casper Area Transit (LINK) — Public Transit",
+    "agency": "City of Casper — Casper Area Transit",
+    "category": "Transportation",
+    "description": "LINK fixed-route public transit in Casper with a reduced-fare program. Adults (age 18–61) ride for $1.25 one way; qualified reduced-fare single rides are $0.50; scan passes are sold at the Casper Area Transit Office. The Transit Center is at 1715 East 4th Street.",
+    "scope": {
+      "level": "city",
+      "state": "WY",
+      "city": "Casper",
+      "county": "Natrona"
+    },
+    "eligibility": [
+      "General public — anyone can ride LINK",
+      "Reduced-fare riders must qualify — see the program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs year-round; check the program page for route schedules."
+      }
+    ],
+    "prerequisites": [
+      "Have exact cash fare or a scan pass when boarding — drivers do not carry change"
+    ],
+    "whatToBring": [
+      "Exact fare or scan pass"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Casper Area Transit",
+        "value": "https://www.casperwy.gov/services/casper_area_transit/index.php"
+      },
+      {
+        "kind": "phone",
+        "label": "City of Casper main line",
+        "value": "307-235-8400"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LINK public transit",
+        "url": "https://www.casperwy.gov/services/casper_area_transit/link_public_transit.php"
+      },
+      {
+        "label": "Reduced Fare Program",
+        "url": "https://www.casperwy.gov/services/casper_area_transit/rider_subsidy_program.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fares: $1.25 adults, $0.50 qualified reduced fare",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.casperwy.gov/services/casper_area_transit/index.php",
+      "https://www.casperwy.gov/services/casper_area_transit/link_public_transit.php"
+    ]
+  },
+  {
+    "id": "casper-housing-authority",
+    "name": "Casper Housing Authority — Rental Assistance",
+    "agency": "Casper Housing Authority (contracted by the City of Casper)",
+    "category": "Housing",
+    "description": "Provides rental vouchers and public housing for persons earning at or below 50% of the area median income. Due to housing demand, applicants may join a waiting list — this is not an immediate assistance program.",
+    "scope": {
+      "level": "city",
+      "state": "WY",
+      "city": "Casper",
+      "county": "Natrona"
+    },
+    "eligibility": [
+      "Household income at or below 50% of area median income",
+      "Casper area residents — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round; waiting lists may apply."
+      }
+    ],
+    "prerequisites": [
+      "Contact the Housing Authority to apply and check waiting-list status"
+    ],
+    "whatToBring": [
+      "Proof of identity, income, and household composition"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Casper Housing Authority",
+        "value": "307-266-1388"
+      },
+      {
+        "kind": "in-person",
+        "label": "145 N. Durbin Street, Casper, WY 82601",
+        "value": "145 N. Durbin Street, Casper, WY 82601"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Housing — City of Casper",
+        "url": "https://www.casperwy.gov/community/housing/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.casperwy.gov/community/housing/index.php"
+    ]
+  },
+  {
+    "id": "laramie-uw-transit",
+    "name": "UWYO Roundup Transit, SafeRide & Paratransit — Laramie",
+    "agency": "University of Wyoming Transportation Services",
+    "category": "Transportation",
+    "description": "Roundup fixed-route bus service for students, faculty, staff, visitors, and the local Laramie community; SafeRide on-call public transportation during late nights and weekends; and paratransit for individuals unable to use fixed-route buses due to a disability (eligibility determined through the Transportation Services office).",
+    "scope": {
+      "level": "city",
+      "state": "WY",
+      "city": "Laramie",
+      "county": "Albany"
+    },
+    "eligibility": [
+      "Students, faculty, staff, visitors, and the Laramie community — open to the general public",
+      "Paratransit requires approved eligibility through the Transportation Services office"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Service runs year-round per published schedules."
+      }
+    ],
+    "prerequisites": [
+      "Paratransit riders must apply for eligibility through the Transportation Services office",
+      "SafeRide rides can be requested through the UWYO SafeRide app"
+    ],
+    "whatToBring": [
+      "No documents needed for fixed routes — just board the bus"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UW Transportation Services (SafeRide)",
+        "value": "307-766-7433"
+      },
+      {
+        "kind": "web",
+        "label": "Transportation Services",
+        "value": "https://www.uwyo.edu/transportation/index.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "UW Transportation Services",
+        "url": "https://www.uwyo.edu/transportation/index.html"
+      },
+      {
+        "label": "Paratransit service",
+        "url": "https://www.uwyo.edu/transportation/transit/paratransit.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.uwyo.edu/transportation/index.html",
+      "https://www.uwyo.edu/transportation/transit/paratransit.html"
+    ]
+  },
+  {
+    "id": "fed-fafsa-wy",
+    "name": "FAFSA — Federal Student Aid",
+    "agency": "Federal Student Aid, U.S. Department of Education",
+    "category": "Education",
+    "description": "The Free Application for Federal Student Aid (FAFSA) — the form Wyoming students use to apply for federal grants, loans, and work-study for college or career school.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "U.S. citizens and eligible noncitizens planning to attend college or career school",
+      "Financial need rules vary by aid type — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply as early as possible; federal, state, and school deadlines vary — see the program page."
+      }
+    ],
+    "prerequisites": [
+      "Create an FSA ID to sign the FAFSA electronically"
+    ],
+    "whatToBring": [
+      "Social Security number, tax records, and financial information — see the FAFSA form for the full list"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FAFSA",
+        "value": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for FAFSA",
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://studentaid.gov/h/apply-for-aid/fafsa"
+    ]
+  },
+  {
+    "id": "fed-hud-housing-counseling-wy",
+    "name": "HUD-Approved Housing Counseling",
+    "agency": "U.S. Department of Housing and Urban Development",
+    "category": "Housing",
+    "description": "Free or low-cost counseling from HUD-approved agencies on buying a home, renting, mortgage defaults, foreclosures, and credit issues. Talk to a housing counselor by phone or in person.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Anyone — counseling is open to all, including Wyoming residents"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling available year-round."
+      }
+    ],
+    "prerequisites": [
+      "Find a HUD-approved counselor through the program page"
+    ],
+    "whatToBring": [
+      "Financial and housing documents related to your situation"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Talk to a Housing Counselor — HUD",
+        "value": "https://www.hud.gov/counseling"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Talk to a Housing Counselor — HUD",
+        "url": "https://www.hud.gov/counseling"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.hud.gov/counseling"
+    ]
+  },
+  {
+    "id": "fed-sba-district-wy",
+    "name": "SBA Wyoming District Office",
+    "agency": "U.S. Small Business Administration",
+    "category": "Small Business",
+    "description": "The SBA district office serving Wyoming small businesses with counseling, training, and guidance on SBA loan and contracting programs.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Wyoming small business owners and entrepreneurs"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Counseling and services available year-round."
+      }
+    ],
+    "prerequisites": [
+      "Contact the district office or a local SBA resource partner"
+    ],
+    "whatToBring": [
+      "Business plan and financial documents for loan-related counseling"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SBA Wyoming District Office",
+        "value": "https://www.sba.gov/district/wyoming"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "SBA Wyoming District Office",
+        "url": "https://www.sba.gov/district/wyoming"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.sba.gov/district/wyoming"
+    ]
+  },
+  {
+    "id": "fed-lifeline-wy",
+    "name": "Lifeline — Discounted Phone and Broadband",
+    "agency": "Universal Service Administrative Company (USAC) / FCC",
+    "category": "Utilities",
+    "description": "Federal benefit that lowers the monthly cost of phone or broadband service for qualifying households; tribal lands and survivor benefits are also available. Apply through a participating provider or USAC.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Income-based or program-based qualification — varies, see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; recertification is required annually."
+      }
+    ],
+    "prerequisites": [
+      "Check qualification and apply through a participating company or USAC"
+    ],
+    "whatToBring": [
+      "Proof of income or program participation — see the supporting-documents page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Lifeline — USAC",
+        "value": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Lifeline — how to apply",
+        "url": "https://www.lifelinesupport.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.lifelinesupport.org/"
+    ]
+  },
+  {
+    "id": "fed-va-health-care-wy",
+    "name": "VA Health Care — Apply for Enrollment",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "Apply for VA health care enrollment. With VA health care, you are covered for regular checkups with your primary care provider and appointments with specialists, including mental health care.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Veterans — eligibility and priority groups vary, see the VA site"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Applications accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "Apply online, by phone, by mail, or in person at a VA facility"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD-214) and income information may be requested"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VA health care",
+        "value": "https://www.va.gov/health-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VA health care — apply",
+        "url": "https://www.va.gov/health-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/health-care/"
+    ]
+  },
+  {
+    "id": "fed-va-disability-wy",
+    "name": "VA Disability Compensation — File a Claim",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "File a claim for VA disability compensation for service-connected conditions (VA Form 21-526EZ). File online, by mail, or in person with help from an accredited representative.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Veterans with a service-connected condition — see the VA site for full rules"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Claims accepted year-round."
+      }
+    ],
+    "prerequisites": [
+      "File VA Form 21-526EZ online, by mail, or in person"
+    ],
+    "whatToBring": [
+      "Discharge papers (DD-214), medical records, and service treatment records"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File for VA disability benefits",
+        "value": "https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for VA disability benefits",
+        "url": "https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction"
+    ]
+  },
+  {
+    "id": "fed-usajobs-wy",
+    "name": "USAJOBS — Federal Employment",
+    "agency": "U.S. Office of Personnel Management",
+    "category": "Employment",
+    "description": "The official portal for U.S. federal job openings. Search Wyoming and nationwide postings, build a profile and resume, set up saved searches and alerts, and apply online — there is never an application or testing fee.",
+    "scope": {
+      "level": "federal",
+      "state": "WY"
+    },
+    "eligibility": [
+      "Open to everyone; specific postings list eligibility (citizenship, veterans' preference, etc.)"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Postings list their own closing dates — apply before each announcement closes."
+      }
+    ],
+    "prerequisites": [
+      "Create a USAJOBS profile with a login.gov account and upload a resume"
+    ],
+    "whatToBring": [
+      "Resume",
+      "Supporting documents listed in each job announcement"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "USAJOBS",
+        "value": "https://www.usajobs.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "USAJOBS",
+        "url": "https://www.usajobs.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-19",
+    "sources": [
+      "https://www.usajobs.gov/"
+    ]
   }
 ]

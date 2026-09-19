@@ -125,6 +125,7 @@ const ROADMAP = [
   { label: "South Dakota", status: "live", note: "30 services indexed" },
   { label: "North Dakota", status: "live", note: "37 services indexed" },
   { label: "Vermont", status: "live", note: "47 services indexed" },
+  { label: "Wyoming", status: "live", note: "34 services indexed" },
   { label: "50 states", status: "later", note: "Federal programs first, then every state" },
 ];
 
