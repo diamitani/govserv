@@ -107012,5 +107012,1338 @@
     "sources": [
       "https://health.alaska.gov/en/services/denali-kidcare/"
     ]
+  },
+  {
+    "id": "al-madison-transit-madison-assisted-ride-system",
+    "name": "Madison Assisted Ride System (MARS)",
+    "agency": "City of Madison",
+    "category": "Transportation",
+    "description": "The Madison Assisted Ride System (MARS) provides transportation for residents within Madison City Limits who are eligible for paratransit services under ADA guidelines. Transportation is available for medical and/or work purposes only.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Madison"
+    },
+    "eligibility": [
+      "Residents who live within the Madison City Limits",
+      "Eligible for paratransit services under ADA guidelines"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Complete an application with the resident's physician's information and signature"
+    ],
+    "whatToBring": [
+      "Completed MARS application form",
+      "Physician's information and signature"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.madisonal.gov/122/Madison-Assisted-Ride-System"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MARS Application",
+        "url": "https://www.madisonal.gov/DocumentCenter/View/18379"
+      },
+      {
+        "label": "Application for Assisted Ride Program",
+        "url": "https://www.madisonal.gov/DocumentCenter/View/18379/MARS-Application-Form-2025"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.madisonal.gov/122/Madison-Assisted-Ride-System"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Tickets are $2 per trip (or boarding of the bus)",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.madisonal.gov/122/Madison-Assisted-Ride-System"
+    ]
+  },
+  {
+    "id": "al-madison-business-licenses",
+    "name": "City of Madison Business Licenses",
+    "agency": "City of Madison Building Department",
+    "category": "Small Business",
+    "description": "The City of Madison provides online access to business license and permit applications through its Permit Portal. Contractors must activate an account with their business license number and start of business date to submit permit applications online. Residents can search for permits without an account.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Madison"
+    },
+    "eligibility": [
+      "Businesses operating within the City of Madison.",
+      "Contractors must be registered with the city."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "For contractors: Business license number and start of business date.",
+      "For residents: Property's PPIN number for permit searches."
+    ],
+    "whatToBring": [
+      "Business license number (for contractors).",
+      "Property's PPIN number (for residents).",
+      "Proof of business registration (if applicable)."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://buildportal.madisonal.gov/esuite.permits/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://buildportal.madisonal.gov/esuite.permits/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by permit type",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://buildportal.madisonal.gov/esuite.permits/"
+    ]
+  },
+  {
+    "id": "al-madison-city-hall",
+    "name": "Madison City Hall",
+    "agency": "Madison City Government",
+    "category": "Family & Childcare",
+    "description": "City Hall for Madison, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Madison",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.madisonal.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.madisonal.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.madisonal.gov/"
+    ]
+  },
+  {
+    "id": "al-huntsville-transit-orbit",
+    "name": "Orbit Public Transit Service",
+    "agency": "City of Huntsville",
+    "category": "Transportation",
+    "description": "Orbit is a public bus service in Huntsville offering specialized, door-to-door, demand-response paratransit service. It provides transportation options including bus routes, hours of operation, and fare details.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Residents of Huntsville, AL",
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies - see program page"
+    ],
+    "whatToBring": [
+      "Varies - see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/residents/streets/public-transportation/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.huntsvilleal.gov/residents/streets/public-transportation/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies - see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/residents/streets/public-transportation/"
+    ]
+  },
+  {
+    "id": "al-huntsville-311",
+    "name": "Huntsville Connect Service Request",
+    "agency": "City of Huntsville",
+    "category": "Family & Childcare",
+    "description": "Report non-emergency service requests to the City of Huntsville using Huntsville Connect. Issues such as graffiti, illegal dumping, potholes, broken parking meters, or found pets can be reported. You will be notified when your issue is resolved and can track existing problems.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Residents of Huntsville, Alabama"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Access to a mobile phone or computer"
+    ],
+    "whatToBring": [
+      "Photos of the issue (if possible)",
+      "Detailed description of the issue"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/residents/neighborhoods/huntsville-connect-service-request/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.huntsvilleal.gov/residents/neighborhoods/huntsville-connect-service-request/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/residents/neighborhoods/huntsville-connect-service-request/"
+    ]
+  },
+  {
+    "id": "al-huntsville-311-council-notification",
+    "name": "City Council Meeting Notification Sign-Up",
+    "agency": "City of Huntsville",
+    "category": "Family & Childcare",
+    "description": "Sign up to receive email notifications about City Council meetings and work sessions.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Residents of Huntsville, Alabama"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Valid email address"
+    ],
+    "whatToBring": [
+      "Email address"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/government/city-council/my-huntsville-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sign up to receive e-mail notices of City Council meetings and work sessions",
+        "url": "https://signup.e2ma.net/signup/1825550/1780821/"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.huntsvilleal.gov/government/city-council/my-huntsville-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/government/city-council/my-huntsville-services/"
+    ]
+  },
+  {
+    "id": "al-huntsville-parks-recreation",
+    "name": "Parks & Recreation Programs",
+    "agency": "City of Huntsville",
+    "category": "Family & Childcare",
+    "description": "The City of Huntsville offers year-round activities and programs at more than 60 public parks, 15 recreation centers, and six sports complexes. Seasonal program guides provide details on classes, activities, and events.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Residents of Huntsville, AL"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies - see program page"
+    ],
+    "whatToBring": [
+      "Varies - see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/parks-recreation-program-guides/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.huntsvilleal.gov/parks-recreation-program-guides/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies - see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/parks-recreation-program-guides/"
+    ]
+  },
+  {
+    "id": "al-huntsville-rental-assistance",
+    "name": "Huntsville Housing Helps",
+    "agency": "City of Huntsville",
+    "category": "Housing",
+    "description": "Huntsville Housing Helps is a rental and utility assistance program designed to help residents facing significant financial hardship. The program replaces the previous Emergency Rental Assistance Program (ERAP) and is administered by Catholic Center of Concern. It provides support to eligible households with rental and utility costs.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Residents must live within the city limits of Huntsville.",
+      "Household income must not exceed 50% of Huntsville's Area Median Income (AMI)."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Residents must be experiencing significant financial hardship."
+    ],
+    "whatToBring": [
+      "Proof of residency within the city limits of Huntsville.",
+      "Documentation of household income.",
+      "Proof of financial hardship."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/huntsville-housing-helps-program-to-assist-residents-with-utility-rental-costs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.huntsvilleal.gov/huntsville-housing-helps-program-to-assist-residents-with-utility-rental-costs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/huntsville-housing-helps-program-to-assist-residents-with-utility-rental-costs/"
+    ]
+  },
+  {
+    "id": "al-huntsville-business-licenses",
+    "name": "Business License Renewal",
+    "agency": "City of Huntsville",
+    "category": "Small Business",
+    "description": "The City of Huntsville provides an online portal for business license renewals. Users can check the status of their renewal application, pay fees for approved renewals, and renew existing business licenses.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Huntsville"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "A Taxpayer ID (Account No) is required, which can be found on a previous license.",
+      "Must create a user account to access the portal."
+    ],
+    "whatToBring": [
+      "A Taxpayer ID (Account No).",
+      "Previous business license for reference."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://businesslicense.huntsvilleal.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://businesslicense.huntsvilleal.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by credential",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://businesslicense.huntsvilleal.gov/"
+    ]
+  },
+  {
+    "id": "al-huntsville-city-hall",
+    "name": "Huntsville City Hall",
+    "agency": "City of Huntsville",
+    "category": "Family & Childcare",
+    "description": "City Hall for Huntsville, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.huntsvilleal.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.huntsvilleal.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.huntsvilleal.gov/"
+    ]
+  },
+  {
+    "id": "al-birmingham-311-create-account",
+    "name": "Create A 311 Account Through Your Browser",
+    "agency": "City of Birmingham",
+    "category": "Family & Childcare",
+    "description": "Step-by-step instructions on how to register for the City of Birmingham's 311 center through your web browser. This service allows residents to create an account, submit requests, and access city services.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Birmingham"
+    },
+    "eligibility": [
+      "Residents of Birmingham, Alabama"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Access to a web browser",
+      "Email address for account verification"
+    ],
+    "whatToBring": [
+      "Email address",
+      "First and last name",
+      "Password"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.birminghamal.gov/government/city-council/residents/311-call-center/create-311-account-through-your-browser"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.birminghamal.gov/government/city-council/residents/311-call-center/create-311-account-through-your-browser"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.birminghamal.gov/government/city-council/residents/311-call-center/create-311-account-through-your-browser"
+    ]
+  },
+  {
+    "id": "al-birmingham-311-customer-service-center",
+    "name": "311 - Birmingham's Customer Service Center",
+    "agency": "City of Birmingham",
+    "category": "Family & Childcare",
+    "description": "The 311 Customer Service Center allows residents to report issues like pothole repairs, blocked storm drains, broken traffic signals, illegal dumping, and missed trash collection. Requests can be submitted via smartphone app, browser, or by calling customer service.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Birmingham"
+    },
+    "eligibility": [
+      "Residents of Birmingham, Alabama"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Location of the problem",
+      "Description of the problem",
+      "How long the problem has existed",
+      "Your contact information"
+    ],
+    "whatToBring": [
+      "Location details",
+      "Description of the issue",
+      "Contact information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.birminghamal.gov/government/city-council/residents/311-birminghams-customer-service-center"
+    ]
+  },
+  {
+    "id": "al-birmingham-business-licenses",
+    "name": "Business License Application and Renewal",
+    "agency": "City of Birmingham Tax and License Division",
+    "category": "Small Business",
+    "description": "Businesses in Birmingham, Alabama, must obtain and renew licenses annually. Applications are accepted Monday through Friday at the Tax and License Division office. License fees vary depending on the type of business and gross receipts.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Birmingham"
+    },
+    "eligibility": [
+      "All businesses conducting trade or providing services within Birmingham city limits."
+    ],
+    "deadlines": [
+      {
+        "date": "2026-01-01",
+        "label": "Business License Renewal Due",
+        "note": "All business license renewals are due annually on January 1st."
+      },
+      {
+        "date": "2026-02-15",
+        "label": "General Business License Delinquency",
+        "note": "General business licenses become delinquent if not renewed by February 15."
+      }
+    ],
+    "prerequisites": [
+      "Business must operate within the city limits of Birmingham.",
+      "Submission of required documentation for license application."
+    ],
+    "whatToBring": [
+      "A completed business license application.",
+      "A Supplemental Documentation Checklist (available on the program page).",
+      "Sworn affidavit for gross receipts-based licenses."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.birminghamal.gov/government/city-departments/finance/tax-license-division/information-regarding-business-licenses"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.birminghamal.gov/government/city-departments/finance/tax-license-division/information-regarding-business-licenses"
+      },
+      {
+        "label": "A Supplemental Documentation Checklist",
+        "url": "https://www.birminghamal.gov/government/city-departments/finance/tax-license-division/supplemental-documentation-checklist-business-license-applications"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by business type and gross receipts.",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.birminghamal.gov/government/city-departments/finance/tax-license-division/information-regarding-business-licenses"
+    ]
+  },
+  {
+    "id": "al-birmingham-city-hall",
+    "name": "Birmingham City Hall",
+    "agency": "Birmingham City Government",
+    "category": "Family & Childcare",
+    "description": "City Hall for Birmingham, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.birminghamal.gov/government"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.birminghamal.gov/government"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.birminghamal.gov/government"
+    ]
+  },
+  {
+    "id": "al-mobile-business-licenses",
+    "name": "Mobile County Business Licenses",
+    "agency": "Mobile County License Commission",
+    "category": "Small Business",
+    "description": "Mobile County provides business licensing services for local businesses, including application, renewal, and compliance with state and county regulations.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Mobile"
+    },
+    "eligibility": [
+      "Businesses operating within Mobile County, Alabama."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Valid business entity or registration with the state of Alabama.",
+      "Compliance with local zoning and business regulations."
+    ],
+    "whatToBring": [
+      "Completed application form.",
+      "Proof of business registration or entity formation.",
+      "Identification documents for the business owner(s)."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.mobilecountylc.gov/licensing-and-permits/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.mobilecountylc.gov/licensing-and-permits/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by credential",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.mobilecountylc.gov/licensing-and-permits/"
+    ]
+  },
+  {
+    "id": "al-mobile-city-hall",
+    "name": "City Hall",
+    "agency": "City of Mobile",
+    "category": "Family & Childcare",
+    "description": "City Hall for Mobile, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Mobile",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.cityofmobile.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.cityofmobile.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.cityofmobile.gov/"
+    ]
+  },
+  {
+    "id": "al-hoover-water-utility",
+    "name": "Water Services",
+    "agency": "City of Hoover",
+    "category": "Utilities",
+    "description": "The City of Hoover provides water services primarily through Central Alabama Water, with some areas serviced by Shelby County Water, Bessemer Water, or Pelham Water. Residents can contact the appropriate water provider for inquiries or issues.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Hoover"
+    },
+    "eligibility": [
+      "Residents of Hoover, AL who require water services."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Residence within the City of Hoover."
+    ],
+    "whatToBring": [
+      "Contact the appropriate water provider for specific requirements."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.hooveralabama.gov/622/Water-Services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.hooveralabama.gov/622/Water-Services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies - see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.hooveralabama.gov/622/Water-Services"
+    ]
+  },
+  {
+    "id": "al-hoover-police-nonemergency",
+    "name": "Hoover Police Department Non-Emergency Line",
+    "agency": "Hoover Police Department",
+    "category": "Family & Childcare",
+    "description": "The Hoover Police Department provides a non-emergency line for reporting code enforcement concerns, including noise complaints after business hours. Residents can also use the MyHooverConnect app to report and track community enhancement issues.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Hoover"
+    },
+    "eligibility": [
+      "Residents of Hoover, AL who wish to report code violations or non-emergency concerns."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Access to a phone or internet to report concerns."
+    ],
+    "whatToBring": [
+      "Information regarding the location and nature of the reported violation or concern."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.hooveralabama.gov/1153/Report-Code-Concerns"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.hooveralabama.gov/1153/Report-Code-Concerns"
+      },
+      {
+        "label": "Sign up for city news & updates.",
+        "url": "http://www.hooveral.gov/notifyme.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.hooveralabama.gov/1153/Report-Code-Concerns"
+    ]
+  },
+  {
+    "id": "al-hoover-business-licenses",
+    "name": "Business Licenses",
+    "agency": "City of Hoover",
+    "category": "Small Business",
+    "description": "Businesses operating in Hoover, AL must obtain a city business license. Licenses are issued based on the City of Hoover's License Schedule and require a completed application. A $5.00 issuance fee is added to the license cost.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Hoover"
+    },
+    "eligibility": [
+      "Any person or entity operating a business in Hoover, AL."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Complete the City of Hoover license application.",
+      "Determine the proper license classification based on the License Schedule."
+    ],
+    "whatToBring": [
+      "Completed two-page license application.",
+      "Reference to the General Licensing Requirements document."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.hooveralabama.gov/151/Business-Licenses"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sign up for city news & updates.",
+        "url": "http://www.hooveral.gov/notifyme.aspx"
+      },
+      {
+        "label": "license application",
+        "url": "https://www.hooveralabama.gov/DocumentCenter/View/7040"
+      },
+      {
+        "label": "Delivery License Application",
+        "url": "https://www.hooveralabama.gov/1106/Delivery-License-Application"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.hooveralabama.gov/151/Business-Licenses"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by credential",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.hooveralabama.gov/151/Business-Licenses"
+    ]
+  },
+  {
+    "id": "al-hoover-city-hall",
+    "name": "Hoover City Hall",
+    "agency": "Hoover City Government",
+    "category": "Family & Childcare",
+    "description": "City Hall for Hoover, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Hoover",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.hooveralabama.gov/35/Departments"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.hooveralabama.gov/35/Departments"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.hooveralabama.gov/35/Departments"
+    ]
+  },
+  {
+    "id": "al-dothan-water-utility",
+    "name": "Dothan Utilities",
+    "agency": "Dothan Utilities",
+    "category": "Utilities",
+    "description": "Dothan Utilities provides electric, water, and wastewater services to residents of Dothan, AL. The department offers 24/7 emergency support for utility issues and maintains a focus on reliable service and community involvement.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Dothan"
+    },
+    "eligibility": [
+      "Residents of Dothan, AL who receive utility services from Dothan Utilities."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Must be a Dothan Utilities customer."
+    ],
+    "whatToBring": [
+      "Address and contact information for service requests.",
+      "Permit number for tree cutting or electric meter base replacement."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.dothan.org/153/Dothan-Utilities"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.dothan.org/153/Dothan-Utilities"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by service",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.dothan.org/153/Dothan-Utilities"
+    ]
+  },
+  {
+    "id": "al-dothan-business-licenses",
+    "name": "City of Dothan Business Licensing",
+    "agency": "City of Dothan",
+    "category": "Small Business",
+    "description": "A business license is required for anyone conducting any type of business, trade, profession, or home occupation within the city limits of Dothan. This includes making repairs, contracting, selling, or providing any type of service within the city limits.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Dothan"
+    },
+    "eligibility": [
+      "Anyone conducting a business, trade, profession, or home occupation within the city limits of Dothan."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Business Structure - Sole proprietorship, partnership, LLC, corporation, or other business form.",
+      "Federal Employer Identification Number (FEIN) for LLCs and corporations.",
+      "Business Activity - Description of the business activity.",
+      "Location - Address of the business, verified for zoning compliance.",
+      "Certification - Any required certification or permit from a state agency or regulatory board."
+    ],
+    "whatToBring": [
+      "Completed Business License application.",
+      "Proof of business structure (e.g., registration with Alabama Secretary of State for LLCs and corporations).",
+      "FEIN or Social Security Number for tax identification.",
+      "Documentation of business activity and location.",
+      "Certifications or permits from state agencies if required."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.dothan.org/150/Business-Licensing"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "IRS website",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online"
+      },
+      {
+        "label": "Apply Online",
+        "url": "https://businesslicense.dothan.org"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.dothan.org/150/Business-Licensing"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by credential",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.dothan.org/150/Business-Licensing"
+    ]
+  },
+  {
+    "id": "al-dothan-city-hall",
+    "name": "Dothan City Hall",
+    "agency": "Dothan City Government",
+    "category": "Family & Childcare",
+    "description": "City Hall for Dothan, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Dothan",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.dothan.org/27/Government"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.dothan.org/27/Government"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.dothan.org/27/Government"
+    ]
+  },
+  {
+    "id": "al-decatur-senior-services",
+    "name": "Commission on Aging Senior Centers",
+    "agency": "Morgan County Commission on Aging",
+    "category": "Seniors",
+    "description": "Provides services for senior citizens of Morgan County through multiple centers countywide. Services include daily meals, games, exercise classes, quilting meets, and day trips in a safe and friendly environment.",
+    "scope": {
+      "level": "county",
+      "state": "AL",
+      "county": "Morgan"
+    },
+    "eligibility": [
+      "Must be 60 years of age or older, or married to someone who meets this requirement."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NARCOG",
+        "value": "256-355-4515"
+      },
+      {
+        "kind": "phone",
+        "label": "2-1-1 Connects Alabama",
+        "value": "1-888-421-1266"
+      },
+      {
+        "kind": "phone",
+        "label": "Alabama Department of Senior Services",
+        "value": "1-800-243-5463"
+      },
+      {
+        "kind": "phone",
+        "label": "Alabama Department of Human Resources – Adult Protective Services",
+        "value": "1-800-458-7214"
+      },
+      {
+        "kind": "phone",
+        "label": "United Way of Central Alabama",
+        "value": "205-251-5131"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://morgancounty-al.gov/departments-services/commission-on-aging/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://morgancounty-al.gov/departments-services/commission-on-aging/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://morgancounty-al.gov/departments-services/commission-on-aging/"
+    ]
+  },
+  {
+    "id": "al-decatur-city-hall",
+    "name": "Decatur City Hall",
+    "agency": "City of Decatur",
+    "category": "Family & Childcare",
+    "description": "City Hall for Decatur, Alabama - the central office for municipal services and resident inquiries.",
+    "scope": {
+      "level": "city",
+      "city": "Decatur",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.decatur-al.gov/government/departments/city_clerk/index.php"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.decatur-al.gov/government/departments/city_clerk/index.php"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.decatur-al.gov/government/departments/city_clerk/index.php"
+    ]
   }
 ]
