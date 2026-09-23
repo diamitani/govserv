@@ -105060,5 +105060,1957 @@
     "whatToBring": [
       "Varies — see program page"
     ]
+  },
+  {
+    "id": "ak-tanf",
+    "name": "Alaska Temporary Assistance Program (ATAP)",
+    "agency": "State of Alaska Department of Health",
+    "category": "Money & Taxes",
+    "description": "The Alaska Temporary Assistance Program (ATAP) is a jobs-focused program that helps families with basic needs while they work toward supporting themselves. ATAP provides cash assistance and work services to low-income families with children.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "To participate in ATAP, a family must meet certain limits for countable resources and countable income. Countable resources must be less than $2,000, or less than $3,000 if the family includes a person 60 or older.",
+      "Countable income must be less than the ATAP income limit for their family type and size.",
+      "Participants must be willing to look for paid employment or participate in activities that focus on gaining skills and experience leading to employment."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Families must have children.",
+      "Participants must be willing to engage in employment-related activities."
+    ],
+    "whatToBring": [
+      "Proof of family size and income.",
+      "Documentation of countable resources and shelter expenses."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://health.alaska.gov/en/services/alaska-temporary-assistance/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://health.alaska.gov/en/services/alaska-temporary-assistance/"
+      },
+      {
+        "label": "Apply for Medicaid",
+        "url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://health.alaska.gov/en/services/alaska-temporary-assistance/"
+    ]
+  },
+  {
+    "id": "ak-wic",
+    "name": "WIC Women, Infants, & Children (WIC)",
+    "agency": "Municipality of Anchorage Health Department",
+    "category": "Food",
+    "description": "The WIC program provides nutrition education, healthy food benefits, breastfeeding support, and referrals to health and community resources for pregnant women, new mothers, and children under five in the Anchorage area.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Pregnant women, new mothers, and children under age five.",
+      "Residents of the Anchorage Municipality."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Proof of residency in the Anchorage area.",
+      "Proof of income or participation in other assistance programs (if applicable)."
+    ],
+    "whatToBring": [
+      "Identification for all family members.",
+      "Proof of income or participation in other assistance programs.",
+      "Medical records or documentation related to pregnancy or child health."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "L Street WIC Clinic",
+        "value": "1 (907) 343-4668"
+      },
+      {
+        "kind": "phone",
+        "label": "JBER Military Base WIC Clinic",
+        "value": "(907) 343-4430"
+      },
+      {
+        "kind": "phone",
+        "label": "Eagle River WIC Clinic",
+        "value": "(907) 343-1520"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Departments/health/WIC/Pages/Default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Departments/health/WIC/Pages/Default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Departments/health/WIC/Pages/Default.aspx"
+    ]
+  },
+  {
+    "id": "ak-unemployment-insurance-claim-assistance",
+    "name": "Unemployment Insurance Claim Assistance",
+    "agency": "Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "Provides assistance for filing unemployment insurance claims online or by phone. Claim center technicians are available during specific hours for support.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Must be eligible for unemployment insurance benefits as determined by Alaska state guidelines."
+    ],
+    "whatToBring": [
+      "Proof of identity and employment information.",
+      "Bank account details for direct deposit (if applicable)."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Toll-Free Claim Center",
+        "value": "(800) 770-8255"
+      },
+      {
+        "kind": "phone",
+        "label": "Anchorage Claim Center",
+        "value": "(907) 269-4700"
+      },
+      {
+        "kind": "phone",
+        "label": "Juneau Claim Center",
+        "value": "(907) 465-5552"
+      },
+      {
+        "kind": "phone",
+        "label": "Fairbanks Claim Center",
+        "value": "(907) 451-2871"
+      },
+      {
+        "kind": "phone",
+        "label": "Wasilla Claim Center",
+        "value": "(907) 931-6400"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.labor.alaska.gov/unemployment/call-centers.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.labor.alaska.gov/unemployment/call-centers.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.labor.alaska.gov/unemployment/call-centers.htm"
+    ]
+  },
+  {
+    "id": "anchorage-wic-how-to-apply",
+    "name": "WIC Application Process",
+    "agency": "Municipal Government Health Department",
+    "category": "Food",
+    "description": "The WIC program provides assistance to pregnant women, breastfeeding women, and young children. Applying involves submitting forms and proof of eligibility.",
+    "scope": {
+      "level": "city",
+      "city": "Anchorage",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Pregnant women",
+      "Breastfeeding or postpartum women",
+      "Infants and children up to age 4"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Submit a Family Information Form",
+      "Submit an application for each person being applied for",
+      "Provide proof of income, ID, and residency"
+    ],
+    "whatToBring": [
+      "Proof of income (e.g., pay stubs, tax returns, ATAP letter)",
+      "Proof of ID (e.g., driver's license, passport)",
+      "Proof of residency (e.g., driver's license, bill with current address)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WIC Office",
+        "value": "907-343-4668"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/departments/health/wic/pages/howtoapply.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Pregnant Women Application",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=y3h6EsUZykaxH4fDPEmpBxZRujrxIC1Low-COT_6cU1URUIyR1IyS1lXOEZNWE9NNzgzSUdaUDdOMy4u"
+      },
+      {
+        "label": "Breastfeeding/Postpartum Women Application",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=y3h6EsUZykaxH4fDPEmpBxZRujrxIC1Low-COT_6cU1UNEoxUFZSWFFTSjVJNFlYUDNMQU9RSzFCSy4u"
+      },
+      {
+        "label": "Infant Application",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=y3h6EsUZykaxH4fDPEmpBxZRujrxIC1Low-COT_6cU1URVo1R0syTlRPM0UySURGOExTN1MzWERTTy4u"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/departments/health/wic/pages/howtoapply.aspx"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hmong",
+      "Swahili"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/departments/health/wic/pages/howtoapply.aspx"
+    ]
+  },
+  {
+    "id": "fed-va-anchorage-regional-office",
+    "name": "Anchorage VA Regional Benefit Office At Colonel Mary Louise Rasmuson Campus Of The Alaska VA Healthcare System",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The Anchorage VA Regional Benefit Office provides assistance to Veterans, service members, and their families in accessing VA benefits and services, including disability compensation, education benefits, life insurance, pensions, and home loans.",
+    "scope": {
+      "level": "federal",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Veterans",
+      "Active and retired service members",
+      "Eligible family members of Veterans and service members"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Proof of military service (e.g., DD214)",
+      "Personal information including Social Security number",
+      "Information about dependents"
+    ],
+    "whatToBring": [
+      "Current, unexpired photo ID",
+      "A copy of discharge or separation papers (DD214)",
+      "Relevant medical records",
+      "Direct deposit information",
+      "Information about dependents including dates of birth and Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Anchorage VA Regional Benefit Office",
+        "value": "800-827-1000"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.va.gov/anchorage-va-regional-benefit-office-at-colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.va.gov/anchorage-va-regional-benefit-office-at-colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.va.gov/anchorage-va-regional-benefit-office-at-colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system/"
+    ]
+  },
+  {
+    "id": "ak-unemployment",
+    "name": "Unemployment Insurance (UI) Claimant Handbook",
+    "agency": "Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "The Unemployment Insurance (UI) Claimant Handbook provides information on eligibility, filing procedures, benefit amounts, and responsibilities for Alaska residents seeking unemployment benefits.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Must be physically able and available to seek and accept suitable full-time work.",
+      "Must register for work and actively seek employment.",
+      "Must report all work activity and earnings weekly.",
+      "Must maintain a current mailing address with the agency."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Register for work as directed by the local state workforce agency.",
+      "Maintain transportation and childcare options if offered employment.",
+      "Report any changes in availability or work status."
+    ],
+    "whatToBring": [
+      "Social Security number.",
+      "Documentation for dependent allowances if applicable.",
+      "Proof of work search contacts and earnings."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Claim Center",
+        "value": "(907) 269-4835"
+      },
+      {
+        "kind": "phone",
+        "label": "UI Fraud Hotline",
+        "value": "(907) 269-4880"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-Free UI Contact",
+        "value": "(877) 272-4635"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://labor.alaska.gov/unemployment/ui-handbook.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://labor.alaska.gov/unemployment/ui-handbook.html"
+      }
+    ],
+    "languages": [
+      "English",
+      "Filipino",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://labor.alaska.gov/unemployment/ui-handbook.html"
+    ]
+  },
+  {
+    "id": "ak-pioneer-homes",
+    "name": "Alaska Pioneer Homes",
+    "agency": "Alaska Department of Family and Community Services",
+    "category": "Seniors",
+    "description": "The Alaska Pioneer Homes provide a network of state-run assisted living communities dedicated to supporting Alaska's seniors with dignity, independence, and quality care. Located across the state, these homes offer a range of services in a safe, welcoming environment.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Must be an Alaska senior"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://dfcs.alaska.gov/alaska-pioneer-homes/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Applications and Waitlists",
+        "url": "https://dfcs.alaska.gov/alaska-pioneer-homes/admissions/applications-and-waitlists/"
+      },
+      {
+        "label": "Program page",
+        "url": "https://dfcs.alaska.gov/alaska-pioneer-homes/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://dfcs.alaska.gov/alaska-pioneer-homes/"
+    ]
+  },
+  {
+    "id": "ak-pfd-permanent-fund-dividend",
+    "name": "Permanent Fund Dividend (PFD)",
+    "agency": "Alaska Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "The Permanent Fund Dividend (PFD) program provides eligible Alaskans with an annual dividend from the state's oil revenues. The program aims to ensure all eligible residents receive timely dividends and that fraud is prosecuted.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Eligibility Requirements",
+      "Establishing Residency",
+      "Absence Guidelines",
+      "Military Eligibility",
+      "Student Eligibility",
+      "Deceased Applicants",
+      "Appeals",
+      "Statutes and Regulations",
+      "Immigration",
+      "Competing Application",
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "myAlaska account for electronic signature and application status."
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Phone",
+        "value": "907-465-2326"
+      },
+      {
+        "kind": "web",
+        "label": "Fax",
+        "value": "907-465-3470"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Filing Period",
+        "url": "https://pfd.alaska.gov/application/filing-period"
+      },
+      {
+        "label": "Proof of Filing",
+        "url": "https://pfd.alaska.gov/application/proof-of-filing"
+      },
+      {
+        "label": "Applying for a Child",
+        "url": "https://pfd.alaska.gov/application/applying-for-a-child"
+      },
+      {
+        "label": "Program page",
+        "url": "https://pfd.alaska.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://pfd.alaska.gov/"
+    ]
+  },
+  {
+    "id": "ak-child-care-assistance",
+    "name": "Child Care Assistance Program (CCAP)",
+    "agency": "State of Alaska Department of Health",
+    "category": "Family & Childcare",
+    "description": "Provides financial assistance to families seeking child care in Alaska. Learn about financial assistance programs, including the Child Care Assistance Program (CCAP), and how to apply.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://health.alaska.gov/en/topics/child-care/child-care-for-alaska-families/get-help-paying-for-child-care/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Medicaid",
+        "url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/"
+      },
+      {
+        "label": "Program page",
+        "url": "https://health.alaska.gov/en/topics/child-care/child-care-for-alaska-families/get-help-paying-for-child-care/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://health.alaska.gov/en/topics/child-care/child-care-for-alaska-families/get-help-paying-for-child-care/"
+    ]
+  },
+  {
+    "id": "ak-adult-public-assistance",
+    "name": "Alaska Adult Public Assistance Manual",
+    "agency": "Division of Public Assistance",
+    "category": "Money & Taxes",
+    "description": "The Alaska Adult Public Assistance Manual provides information on public assistance programs for adults in Alaska. It details program guidelines and procedures.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://dpaweb.hss.state.ak.us/manuals/apa/apa.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "http://dpaweb.hss.state.ak.us/manuals/apa/apa.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "http://dpaweb.hss.state.ak.us/manuals/apa/apa.htm"
+    ]
+  },
+  {
+    "id": "fnsb-services-community-assistance-program-for-unincorporated-communities",
+    "name": "Community Assistance Program for Unincorporated Communities",
+    "agency": "Fairbanks North Star Borough",
+    "category": "Family & Childcare",
+    "description": "The State of Alaska allocates funds to Alaskan communities each year through this program. Funds are received by the Fairbanks North Star Borough and then distributed to qualifying Non-Profit Agencies for their work within those areas.",
+    "scope": {
+      "level": "county",
+      "state": "AK",
+      "county": "Fairbanks North Star Borough"
+    },
+    "eligibility": [
+      "Qualifying Non-Profit Agencies"
+    ],
+    "deadlines": [
+      {
+        "date": "2026-03-01",
+        "label": "CAP Application Deadline",
+        "note": "Apply any time; confirm current details on the program page."
+      },
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Must be a qualifying Non-Profit Agency"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.co.fairbanks.ak.us/1204/Community-Assistance-Program-for-Unincor"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply and View Complete RFA",
+        "url": "https://www.co.fairbanks.ak.us/DocumentCenter/View/26520/2027-CAP-Application"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.co.fairbanks.ak.us/1204/Community-Assistance-Program-for-Unincor"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.co.fairbanks.ak.us/1204/Community-Assistance-Program-for-Unincor"
+    ]
+  },
+  {
+    "id": "ak-food-bank-tefap",
+    "name": "The Emergency Food Assistance Program (TEFAP)",
+    "agency": "Alaska Department of Education & Early Development",
+    "category": "Food",
+    "description": "The Emergency Food Assistance Program (TEFAP) is a federal program that supplements the diets of low-income Americans by providing emergency food and nutrition assistance at no cost. Commodity foods are made available by the USDA to states, which then distribute them to local agencies serving soup kitchens and food pantries.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Households must be at or below 300% of the current federal poverty guidelines.",
+      "Households eligible for programs such as Food Stamps, Temporary Assistance to Needy Families (TANF), Supplemental Security Income (SSI), or Low-income Energy Assistance Program.",
+      "Congregate feeding agencies must serve predominately needy people; income verification is not required for participants."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "For household distribution, eligibility is based on income or participation in other assistance programs.",
+      "For congregate feeding, agencies must primarily serve needy individuals."
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Program Coordinator",
+        "value": "(907) 465-8710"
+      },
+      {
+        "kind": "phone",
+        "label": "Education Program Assistant",
+        "value": "(907) 465-3629"
+      },
+      {
+        "kind": "phone",
+        "label": "General Contact",
+        "value": "907-465-2800"
+      },
+      {
+        "kind": "phone",
+        "label": "General Contact Fax",
+        "value": "907-465-2806"
+      },
+      {
+        "kind": "phone",
+        "label": "Teacher Certification",
+        "value": "907-465-2831"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://education.alaska.gov/cnp/tefap"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Apply for TEFAP Food Assistance in Alaska",
+        "url": "https://education.alaska.gov/tls/cnp/docs/How%20to Apply for TEFAP Food Assistance.pdf"
+      },
+      {
+        "label": "Program page",
+        "url": "https://education.alaska.gov/cnp/tefap"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://education.alaska.gov/cnp/tefap"
+    ]
+  },
+  {
+    "id": "fed-va-alaska-healthcare-colonel-mary-louise-rasmuson-campus",
+    "name": "Colonel Mary Louise Rasmuson Campus Of The Alaska VA Healthcare System",
+    "agency": "Department of Veterans Affairs",
+    "category": "Healthcare",
+    "description": "This VA campus provides primary and specialty health services, including mental health, and programs for homeless Veterans. Services include advice nurses, caregiver support, chiropractic care, COVID-19 vaccines, dental care, and mental health counseling.",
+    "scope": {
+      "level": "federal",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Veterans enrolled in VA health care",
+      "Veterans who are homeless or at risk of becoming homeless",
+      "Caregivers of Veterans"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Referral may be required for some services; contact primary care provider if needed.",
+      "Appointment required for some services."
+    ],
+    "whatToBring": [
+      "Identification may be required."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main phone",
+        "value": "907-257-4854"
+      },
+      {
+        "kind": "web",
+        "label": "VA health connect",
+        "value": "Varies — see program page"
+      },
+      {
+        "kind": "web",
+        "label": "Mental health care",
+        "value": "Varies — see program page"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.va.gov/alaska-health-care/locations/colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.va.gov/alaska-health-care/locations/colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system/"
+    ]
+  },
+  {
+    "id": "ak-medicaid-healthcare-program",
+    "name": "Alaska Medicaid Application",
+    "agency": "Health Care Services, State of Alaska",
+    "category": "Healthcare",
+    "description": "The ARIES Self-Service Portal allows residents to apply for or check eligibility for Medical Assistance in Alaska. Users can start or continue applications and view case details.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://aries.alaska.gov/screener/?logIn=N"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Registered User: Sign In",
+        "url": "https://aries.alaska.gov/access/accessController?PAGE_ACTION=HomeApplyForBenefits&CURRENT_PAGE_ID=AGHME&LOG_OFF=Y"
+      },
+      {
+        "label": "Start or continue an application. View details about your case. ARIES Self-Servi",
+        "url": "https://aries.alaska.gov/screener/accessScreener?PAGE_ACTION=LoadWelcome&CURRENT_PAGE_ID=AGHME&VALID_GET=Y"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://aries.alaska.gov/screener/?logIn=N"
+    ]
+  },
+  {
+    "id": "ak-senior-benefits-alaska-senior-assistance-program",
+    "name": "Alaska Senior Assistance Program",
+    "agency": "Department of Health and Social Services",
+    "category": "Seniors",
+    "description": "The Alaska Senior Assistance Program provides assistance to seniors through a public application process. The program includes a frequently asked questions page to address common concerns.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://dpaweb.hss.state.ak.us/index.php/node/174"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "http://dpaweb.hss.state.ak.us/index.php/node/174"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "http://dpaweb.hss.state.ak.us/index.php/node/174"
+    ]
+  },
+  {
+    "id": "ak-voc-rehab",
+    "name": "Alaska Division of Vocational Rehabilitation Application",
+    "agency": "Alaska Department of Labor and Workforce Development",
+    "category": "Disability",
+    "description": "The Vocational Rehabilitation (VR) application process allows individuals with disabilities in Alaska to request services to help them achieve employment outcomes. The process includes an intake interview and assessment to determine eligibility and develop an individualized plan for employment.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Any individual with a disability who is physically present in Alaska and wants to work."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Completion of an intake interview.",
+      "Providing information necessary to begin the assessment process."
+    ],
+    "whatToBring": [
+      "Existing medical, psychological, or educational records if available.",
+      "Signed Release of Information (ROI) forms for providers treating disabilities."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://dol.alaska.gov/dvr/policies/6-application.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "6. Application",
+        "url": "https://dol.alaska.gov/dvr/policies/6-application.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://dol.alaska.gov/dvr/policies/6-application.htm"
+    ]
+  },
+  {
+    "id": "ak-voc-rehab-pathways",
+    "name": "DVR Pathways",
+    "agency": "Department of Labor and Workforce Development",
+    "category": "Disability",
+    "description": "DVR Pathways are short-term projects that bridge the gap between Special Education and Career and Technical Education (CTE) for students with disabilities. These projects provide career exploration opportunities through hands-on learning, promoting transitions to postsecondary education, paid employment, or self-employment.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Students with a disability"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Eligibility for Special Education services",
+      "Interest in career exploration and hands-on learning"
+    ],
+    "whatToBring": [
+      "Application for the Pathways project",
+      "Documentation of disability and eligibility for Special Education"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://dol.alaska.gov/dvr/pathways.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://dol.alaska.gov/dvr/pathways.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://dol.alaska.gov/dvr/pathways.html"
+    ]
+  },
+  {
+    "id": "ak-adrc-aging-disability-resource-center",
+    "name": "Aging & Disability Resource Center",
+    "agency": "Municipality of Anchorage Health Department",
+    "category": "Seniors",
+    "description": "The Aging & Disability Resource Center (ADRC) connects seniors, people with disabilities, and caregivers with long-term care information and services. Trained specialists provide options counseling, application assistance, and support for Medicaid waivers and emergency outreach programs.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Older adults",
+      "Persons with disabilities",
+      "Caregivers",
+      "Professional providers",
+      "Residents of the Municipality of Anchorage region"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Residency in the Municipality of Anchorage region",
+      "Need for long-term care information or services"
+    ],
+    "whatToBring": [
+      "Information about your needs or those of a loved one",
+      "Documentation related to eligibility for services or benefits"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Departments/health/PHIP/ADRC/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Departments/health/PHIP/ADRC/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Departments/health/PHIP/ADRC/Pages/default.aspx"
+    ]
+  },
+  {
+    "id": "anchorage-rental-assistance",
+    "name": "Anchorage Rental Assistance through Emergency Solutions Grant (ESG)",
+    "agency": "Human Services Division, Anchorage, AK",
+    "category": "Housing",
+    "description": "The Emergency Solutions Grant (ESG) Program assists individuals and families experiencing homelessness or housing crises. It provides financial support for rental deposits, past-due housing costs, and eviction prevention.",
+    "scope": {
+      "level": "city",
+      "state": "AK",
+      "city": "Anchorage"
+    },
+    "eligibility": [
+      "At imminent risk of homelessness",
+      "Meet federal definitions of homelessness",
+      "Fleeing or attempting to flee domestic violence",
+      "Income at or below 30% of the area median income",
+      "Lack resources or support networks to maintain stable housing"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Contact United Way of Anchorage at 2-1-1 or 1-800-478-2221 for a pre-screening",
+      "Complete a pre-screening to determine eligibility"
+    ],
+    "whatToBring": [
+      "Picture ID",
+      "Social Security Numbers for all adults in the household"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Departments/health/PHIP/Pages/Emergency_Outreach.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Departments/health/PHIP/Pages/Emergency_Outreach.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Departments/health/PHIP/Pages/Emergency_Outreach.aspx"
+    ]
+  },
+  {
+    "id": "anchorage-people-mover-fares-and-passes",
+    "name": "People Mover Fares and Passes",
+    "agency": "Anchorage Municipal Transportation",
+    "category": "Transportation",
+    "description": "The People Mover provides various fare options and passes for public transit in Anchorage, including single ride tickets, day passes, week passes, 30-day passes, and annual passes. Smart cards and mobile ticketing options are also available.",
+    "scope": {
+      "level": "city",
+      "state": "AK",
+      "city": "Anchorage"
+    },
+    "eligibility": [
+      "Youth 18 and under ride free year-round.",
+      "Seniors age 60 and over ride free on Wednesdays and Fridays.",
+      "Half fare is available for seniors age 60 and over, individuals with Medicare cards, and Veterans.",
+      "Qualifying disabilities require completing the Half Fare application process."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Youth must show government-issued ID to confirm free ride eligibility.",
+      "Seniors and Veterans must show government-issued ID to confirm free or half fare eligibility.",
+      "Individuals with Medicare cards must present a Medicare card with photo ID.",
+      "Qualifying disabilities require completing the Half Fare application process."
+    ],
+    "whatToBring": [
+      "Government-issued ID for youth, seniors, and Veterans.",
+      "Medicare card with photo ID.",
+      "Completed Half Fare application for individuals with disabilities."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Departments/transit/PeopleMover/Pages/FaresandPasses.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Download a Smart Card application here (English)",
+        "url": "https://www.muni.org/Departments/transit/PeopleMover/Documents/Applications/20240424%20Regular%20Smartcard%20Application.pdf"
+      },
+      {
+        "label": "Hmong",
+        "url": "https://www.muni.org/Departments/transit/PeopleMover/Documents/Applications/20240424%20Regular%20Smartcard%20Application_HMN.pdf"
+      },
+      {
+        "label": "Korean",
+        "url": "https://www.muni.org/Departments/transit/PeopleMover/Documents/Applications/20240424%20Regular%20Smartcard%20Application_KOR.pdf"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Departments/transit/PeopleMover/Pages/FaresandPasses.aspx"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hmong",
+      "Korean"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Departments/transit/PeopleMover/Pages/FaresandPasses.aspx"
+    ]
+  },
+  {
+    "id": "fed-va-vet-center-ak",
+    "name": "Anchorage Vet Center",
+    "agency": "U.S. Department of Veterans Affairs",
+    "category": "Veterans",
+    "description": "The Anchorage Vet Center offers confidential counseling and support services for Veterans, service members, and their families. Services include assistance with PTSD, depression, military sexual trauma (MST), and other psychological effects of military service. No registration or VA benefits are required to access these services.",
+    "scope": {
+      "level": "federal",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Veterans, service members, and their families",
+      "No requirement to be registered for VA care or receiving VA benefits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Proof of qualifying military service (e.g., DD214, deployment orders, or awards)"
+    ],
+    "whatToBring": [
+      "Discharge documents (such as a DD214)",
+      "Receipt of certain awards",
+      "Deployment orders",
+      "Other documents that show qualifying military service"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.va.gov/anchorage-vet-center/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.va.gov/anchorage-vet-center/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.va.gov/anchorage-vet-center/"
+    ]
+  },
+  {
+    "id": "ak-snap-food-assistance",
+    "name": "Alaska SNAP Food Assistance",
+    "agency": "Alaska Department of Health and Social Services",
+    "category": "Food",
+    "description": "SNAP provides food assistance to eligible individuals and families in Alaska. This program helps low-income households afford groceries.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm"
+    ]
+  },
+  {
+    "id": "ak-heating-assistance",
+    "name": "Heating Assistance",
+    "agency": "Department of Health and Social Services (DHSS), Division of Public Assistance (DPA)",
+    "category": "Utilities",
+    "description": "The Heating Assistance Program provides financial assistance to low-income households to offset the cost of home heating. Applications are accepted from September 1 through April 30 each year. The program also assists with utility deposits for subsidized rental housing.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "http://dpaweb.hss.state.ak.us/node/33"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "http://dpaweb.hss.state.ak.us/node/33"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "http://dpaweb.hss.state.ak.us/node/33"
+    ]
+  },
+  {
+    "id": "ak-dmv-identification-card",
+    "name": "Alaska Identification (ID) Card",
+    "agency": "Division of Motor Vehicles, State of Alaska",
+    "category": "Transportation",
+    "description": "Alaska residents can obtain a state identification card, valid for up to 8 years. The card is available to all residents, including children, and requires documents to verify identity, lawful status, and address.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Anyone living in the State of Alaska can get an identification card, including children."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Documents to verify name, lawful status, and physical address.",
+      "Social Security Number or a letter showing ineligibility.",
+      "Completed D1 application."
+    ],
+    "whatToBring": [
+      "Primary document proving legal name, date of birth, and lawful presence (e.g., birth certificate, passport).",
+      "Residential address proof (e.g., utility bill, voter registration card).",
+      "Social Security Number or documentation from the Social Security Administration.",
+      "Name change proof if applicable (e.g., court order, marriage certificate)."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://dmv.alaska.gov/credential-services/identification-card/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "D1 application",
+        "url": "https://dmv.alaska.gov/media/tskk4urs/d1.pdf"
+      },
+      {
+        "label": "Program page",
+        "url": "https://dmv.alaska.gov/credential-services/identification-card/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Standard ID cards are $15, Real ID cards are $35. For Alaskans 60 years old and older, standard ID cards are free or $20 for Real ID. Alcohol-restricted ID cards have an additional $50 fee.",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://dmv.alaska.gov/credential-services/identification-card/"
+    ]
+  },
+  {
+    "id": "ak-weatherization",
+    "name": "Alaska Weatherization Program",
+    "agency": "Alaska Housing Finance Corporation",
+    "category": "Housing",
+    "description": "The Weatherization program provides energy efficiency improvements for eligible homes in Alaska. Homeowners and renters may apply if they meet income guidelines. Services are provided at no cost to qualified applicants.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Individuals who meet income limits may apply.",
+      "Homeowners and renters may apply.",
+      "Homes previously weatherized before May 14, 2008, may be eligible for re-weatherization if income guidelines are met."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Contact a weatherization service provider in your area.",
+      "Check income guidelines to determine eligibility."
+    ],
+    "whatToBring": [
+      "Proof of income to verify eligibility.",
+      "Contact information for the home or rental unit."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.ahfc.us/efficiency/weatherization"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.ahfc.us/efficiency/weatherization"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.ahfc.us/efficiency/weatherization"
+    ]
+  },
+  {
+    "id": "anchorage-business-license",
+    "name": "Anchorage Business Licenses and Permits",
+    "agency": "Municipality of Anchorage",
+    "category": "Small Business",
+    "description": "The Municipality of Anchorage issues municipal business licenses and permits for business activities operating within Anchorage. The licenses page lists license and permit types with applications and requirements; most businesses also need a State of Alaska business license.",
+    "scope": {
+      "level": "city",
+      "city": "Anchorage",
+      "state": "AK"
+    },
+    "eligibility": [
+      "All types of business entities including Sole Proprietor, Partnership, LLC, S Corporation, Non Profit, etc."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Obtain a state of Alaska Business license.",
+      "Complete any corporation or professional licensing paperwork relevant to your industry."
+    ],
+    "whatToBring": [
+      "Application for the specific license or permit required.",
+      "Industry-specific documentation as outlined on the program page."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Businesses/Pages/licenses.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Businesses/Pages/licenses.aspx"
+      },
+      {
+        "label": "Bar Safety Hour",
+        "url": "https://www.muni.org/Departments/Assembly/Clerk/Licensing/SiteAssets/Pages/BarSafetyHourPermit/Permit%20Application%20Form%20-%20Bar%20Safety%20Hour%20v.2020%20Fillable.pdf"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply — vary by credential",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Businesses/Pages/licenses.aspx"
+    ]
+  },
+  {
+    "id": "ak-job-center-alaska-job-center-network",
+    "name": "Alaska Job Center Network",
+    "agency": "Department of Labor and Workforce Development",
+    "category": "Employment",
+    "description": "The Alaska Job Center Network provides job seekers and employers with resources for job search, recruitment, training, and employment services. It includes access to the AlaskaJobs system, which replaced ALEXsys for job postings, resumes, and employer connections.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://jobs.alaska.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://jobs.alaska.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://jobs.alaska.gov/"
+    ]
+  },
+  {
+    "id": "anchorage-health-dept-general-services",
+    "name": "Anchorage Health Department General Services",
+    "agency": "Anchorage Health Department",
+    "category": "Healthcare",
+    "description": "The Anchorage Health Department provides a range of health services including immunizations, sexual health testing, child care licensing, animal care, WIC benefits, and environmental health services.",
+    "scope": {
+      "level": "city",
+      "state": "AK",
+      "city": "Anchorage"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Main Number",
+        "value": "(907) 343-6718"
+      },
+      {
+        "kind": "phone",
+        "label": "Outreach",
+        "value": "(907) 343-4799"
+      },
+      {
+        "kind": "phone",
+        "label": "Child Care Licensing",
+        "value": "(907) 343-4758"
+      },
+      {
+        "kind": "phone",
+        "label": "Animal Care & Control",
+        "value": "(907) 343-8118"
+      },
+      {
+        "kind": "phone",
+        "label": "WIC Benefits",
+        "value": "(907) 343-4668"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.muni.org/Departments/health/Pages/default.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to Apply",
+        "url": "https://www.muni.org/departments/health/wic/pages/howtoapply.aspx"
+      },
+      {
+        "label": "Apply for a Permit",
+        "url": "https://www.muni.org/Departments/health/Admin/environment/FSS/Food%20Safety%20and%20Sanitation%20Forms/EH%20Health%20Permit%20Application.pdf"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.muni.org/Departments/health/Pages/default.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.muni.org/Departments/health/Pages/default.aspx"
+    ]
+  },
+  {
+    "id": "ak-legal-services",
+    "name": "Alaska Legal Services Corporation",
+    "agency": "Alaska Legal Services Corporation (ALSC)",
+    "category": "Legal Aid",
+    "description": "Alaska Legal Services Corporation provides free civil legal aid to low-income Alaskans in areas such as consumer law, family law, housing, public benefits, health care, and Alaska Native law. ALSC also offers resources and training for community justice workers and domestic violence survivors.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.alsc-law.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply For Help",
+        "url": "https://www.alsc-law.org/apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.alsc-law.org/"
+    ]
+  },
+  {
+    "id": "ak-ahfc",
+    "name": "Alaska Housing Finance Corporation",
+    "agency": "Alaska Housing Finance Corporation",
+    "category": "Housing",
+    "description": "The Alaska Housing Finance Corporation provides housing resources and support for Alaskans, including homebuying assistance, affordable housing options, and programs for renters and energy savers.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.ahfc.us/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.ahfc.us/"
+      },
+      {
+        "label": "View and sign up",
+        "url": "https://www.ahfc.us/current-rates"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.ahfc.us/"
+    ]
+  },
+  {
+    "id": "fed-hud-ak-housing-program",
+    "name": "HUD Alaska Housing Program",
+    "agency": "U.S. Department of Housing and Urban Development (HUD)",
+    "category": "Housing",
+    "description": "HUD provides housing-related programs and resources for residents of Alaska. Details and eligibility can be found on the official HUD Alaska page.",
+    "scope": {
+      "level": "federal",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.hud.gov/states/alaska"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.hud.gov/states/alaska"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies — see program page",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.hud.gov/states/alaska"
+    ]
+  },
+  {
+    "id": "ak-211-alaska-2-1-1",
+    "name": "Alaska 2-1-1",
+    "agency": "Alaska 2-1-1",
+    "category": "Family & Childcare",
+    "description": "Alaska 2-1-1 provides information and referrals to community resources and services across Alaska. The program helps connect individuals with local programs related to health, housing, food, and other essential needs.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Varies — see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Varies — see program page"
+    ],
+    "whatToBring": [
+      "Varies — see program page"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://alaska211.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://alaska211.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://alaska211.org/"
+    ]
+  },
+  {
+    "id": "anchorage-library-public-services",
+    "name": "Anchorage Public Library Services",
+    "agency": "Anchorage Public Library",
+    "category": "Education",
+    "description": "The Anchorage Public Library provides free access to books, movies, music, research databases, and community programs. It offers resources for learning, career help, and events for all ages.",
+    "scope": {
+      "level": "city",
+      "state": "AK",
+      "city": "Anchorage"
+    },
+    "eligibility": [
+      "Open to all residents and visitors of Anchorage."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "A valid library card is required to access most services."
+    ],
+    "whatToBring": [
+      "Identification to obtain a library card.",
+      "Library card for borrowing and accessing resources."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.anchoragelibrary.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.anchoragelibrary.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.anchoragelibrary.org/"
+    ]
+  },
+  {
+    "id": "ak-denali-kidcare",
+    "name": "Denali KidCare",
+    "agency": "State of Alaska Department of Health",
+    "category": "Healthcare",
+    "description": "Denali KidCare is Alaska's Children's Health Insurance Program (CHIP). It covers children from birth through age 18 and pregnant women. Eligibility is based on household income.",
+    "scope": {
+      "level": "state",
+      "state": "AK"
+    },
+    "eligibility": [
+      "Children from birth through age 18",
+      "Pregnant women",
+      "Must meet income limits"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "None - see program page for application steps"
+    ],
+    "whatToBring": [
+      "Standard documents - varies by office; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://health.alaska.gov/en/services/denali-kidcare/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Medicaid",
+        "url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/"
+      },
+      {
+        "label": "Program page",
+        "url": "https://health.alaska.gov/en/services/denali-kidcare/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://health.alaska.gov/en/services/denali-kidcare/"
+    ]
   }
 ]
