@@ -101,7 +101,7 @@ const ROADMAP = [
   { label: "Massachusetts", status: "live", note: "35 services indexed" },
   { label: "Colorado", status: "live", note: "28 services indexed" },
   { label: "South Carolina", status: "live", note: "33 services indexed" },
-  { label: "Alabama", status: "live", note: "65 services indexed" },
+  { label: "Alabama", status: "live", note: "72 services indexed" },
   { label: "Louisiana", status: "live", note: "33 services indexed" },
   { label: "Kentucky", status: "live", note: "33 services indexed" },
   { label: "Oregon", status: "live", note: "30 services indexed" },

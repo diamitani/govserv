@@ -108345,5 +108345,395 @@
     "sources": [
       "https://www.decatur-al.gov/government/departments/city_clerk/index.php"
     ]
+  },
+  {
+    "id": "al-montgomery-city-hall",
+    "name": "Montgomery City Hall",
+    "agency": "City of Montgomery",
+    "category": "Family & Childcare",
+    "description": "City Hall for Montgomery, AL - the central office for municipal services and resident inquiries. The official site blocks automated verification; confirm details on the official website.",
+    "scope": {
+      "level": "city",
+      "city": "Montgomery",
+      "state": "AL"
+    },
+    "eligibility": [
+      "Varies - see program page"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Confirm current details on the official website."
+      }
+    ],
+    "prerequisites": [
+      "None - see official website for contact options"
+    ],
+    "whatToBring": [
+      "Standard documents - varies; call ahead"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Official website",
+        "value": "https://www.montgomeryal.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Official website",
+        "url": "https://www.montgomeryal.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.montgomeryal.gov/"
+    ]
+  },
+  {
+    "id": "al-tuscaloosa-police-nonemergency",
+    "name": "Tuscaloosa Police Non-Emergency Reporting",
+    "agency": "City of Tuscaloosa Police Department",
+    "category": "Family & Childcare",
+    "description": "The Tuscaloosa Police Department provides a non-emergency reporting system for incidents such as theft, vandalism, identity theft, and traffic complaints. Residents can file reports online if the incident occurred within Tuscaloosa city limits or at a business in Tuscaloosa Police jurisdiction.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Tuscaloosa"
+    },
+    "eligibility": [
+      "The incident must have occurred within the Tuscaloosa Police Department city limits or at a business in Tuscaloosa Police jurisdiction.",
+      "The incident must not be an emergency."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "The incident must be non-emergency in nature.",
+      "The incident must be eligible for online reporting as listed on the program page."
+    ],
+    "whatToBring": [
+      "Details of the incident, including time, location, and any relevant information.",
+      "A valid email address to receive confirmation of the report submission."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Non-Emergency Police Line",
+        "value": "205-349-2121"
+      },
+      {
+        "kind": "phone",
+        "label": "Tuscaloosa 311",
+        "value": "205-248-5311"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.tuscaloosa.com/tpd/reports"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Submit a Report",
+        "url": "https://www.tuscaloosa.com/tpd/reports"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.tuscaloosa.com/tpd/reports"
+    ]
+  },
+  {
+    "id": "al-tuscaloosa-water-utility",
+    "name": "Tuscaloosa Water Utility Auto Bill Payment",
+    "agency": "City of Tuscaloosa",
+    "category": "Utilities",
+    "description": "The City of Tuscaloosa offers an online auto bill payment portal for water utility bills. Customers can set up recurring payments using various methods, including eCheck/ACH, debit/credit cards, and digital wallets like PayPal and Venmo. A $30 fee applies for insufficient funds.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Tuscaloosa"
+    },
+    "eligibility": [
+      "Residents of Tuscaloosa who receive water utility services from the City of Tuscaloosa."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "An active water utility account with the City of Tuscaloosa.",
+      "A valid email address for confirmation purposes."
+    ],
+    "whatToBring": [
+      "Valid personal or business identification.",
+      "Bank account or credit/debit card information for payment setup."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.tuscaloosa.com/ach"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sign Up Here",
+        "url": "https://www.tuscaloosa.com/news-alerts"
+      },
+      {
+        "label": "Program page",
+        "url": "https://www.tuscaloosa.com/ach"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.tuscaloosa.com/ach"
+    ]
+  },
+  {
+    "id": "al-auburn-water-utility",
+    "name": "Auburn Water Utility Billing",
+    "agency": "City of Auburn",
+    "category": "Utilities",
+    "description": "The Utility Billing Office provides billing and service for water and other utility services in Auburn. It offers accurate billing, customer service, and information about utility rates and services.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Auburn"
+    },
+    "eligibility": [
+      "Residents and businesses in Auburn requiring utility services."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Residence or business in the City of Auburn."
+    ],
+    "whatToBring": [
+      "Proof of address or business location in Auburn.",
+      "Application for utility service if new to the area."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.auburnal.gov/utility-billing/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.auburnal.gov/utility-billing/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by service",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.auburnal.gov/utility-billing/"
+    ]
+  },
+  {
+    "id": "al-auburn-police-nonemergency",
+    "name": "Auburn Police Non-Emergency Contact",
+    "agency": "City of Auburn Public Safety",
+    "category": "Family & Childcare",
+    "description": "The City of Auburn provides a non-emergency contact for police-related inquiries. This service allows residents to reach Public Safety personnel for non-urgent matters.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Auburn"
+    },
+    "eligibility": [
+      "Residents of Auburn, AL"
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Non-emergency inquiry"
+    ],
+    "whatToBring": [
+      "Details of the non-emergency inquiry"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.auburnal.gov/communications/non-emergency/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.auburnal.gov/communications/non-emergency/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.auburnal.gov/communications/non-emergency/"
+    ]
+  },
+  {
+    "id": "al-auburn-parks-recreation",
+    "name": "Parks and Recreation Programs",
+    "agency": "City of Auburn",
+    "category": "Family & Childcare",
+    "description": "The City of Auburn offers a variety of parks and recreation programs including fitness classes, camps, cultural arts, and special events. Participants must create a MyRec account to register for programs.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Auburn"
+    },
+    "eligibility": [
+      "Participants must live or work in the City of Auburn during the first two weeks of season registration."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "Create a MyRec account to register for programs.",
+      "Payment is required for programs with an associated cost."
+    ],
+    "whatToBring": [
+      "Identification to create a MyRec account.",
+      "Payment (credit card, cash, or check) if applicable."
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.auburnal.gov/parks/programs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.auburnal.gov/parks/programs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - vary by program",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.auburnal.gov/parks/programs/"
+    ]
+  },
+  {
+    "id": "al-auburn-parks-recreation-classes-and-programs",
+    "name": "Classes and Programs",
+    "agency": "City of Auburn Parks and Recreation",
+    "category": "Family & Childcare",
+    "description": "The City of Auburn Parks and Recreation department offers various classes and programs, including therapeutic programs like Bingo, Fitness, TR Game Night, and Mystery Trips. Registration for TR programs is available online.",
+    "scope": {
+      "level": "city",
+      "state": "AL",
+      "city": "Auburn"
+    },
+    "eligibility": [
+      "Participants must have established social maturity to interact appropriately with others.",
+      "Participants must be able to follow directions and respect staff leadership and rules.",
+      "Participants must not be a danger to self or others.",
+      "Participants must be able to stay with the group and not elope.",
+      "Participants must not put non-edible items in their mouths.",
+      "Participants must require minimal restroom assistance and have little to no accidents.",
+      "Participants requiring a 1:1 assistant must register at least 1 week in advance.",
+      "Participants needing medication during a program must be able to administer it independently or have a caregiver present."
+    ],
+    "deadlines": [
+      {
+        "date": null,
+        "label": "Rolling",
+        "note": "Apply any time; confirm current details on the program page."
+      }
+    ],
+    "prerequisites": [
+      "All participants requiring a specific diet must be shared up-front with Elizabeth Kaufman, in writing.",
+      "All participants with medical issues must be shared up-front with Elizabeth Kaufman, in writing.",
+      "All program participants must have allergies or medical conditions reminded to staff at drop off EVERY PROGRAM.",
+      "Behavioral issues must be discussed with Elizabeth Kaufman prior to program registration."
+    ],
+    "whatToBring": [
+      "Participants must be able to be responsible for their personal items during all TR Programs."
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dean Road Rec Center",
+        "value": "(334) 501-2950"
+      },
+      {
+        "kind": "email",
+        "label": "Dean Road Rec Center",
+        "value": "webparksrec@auburnal.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Elizabeth Kaufman, Therapeutic Programs Coordinator",
+        "value": "(334) 501-2939"
+      },
+      {
+        "kind": "web",
+        "label": "Program page",
+        "value": "https://www.auburnal.gov/parks/programs/classes-and-programs/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Program page",
+        "url": "https://www.auburnal.gov/parks/programs/classes-and-programs/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees apply - $1 per minute for late pick-up.",
+    "verifiedAt": "2026-09-23",
+    "sources": [
+      "https://www.auburnal.gov/parks/programs/classes-and-programs/"
+    ]
   }
 ]
