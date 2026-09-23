@@ -56,7 +56,7 @@ const FAQS = [
   },
   {
     q: "Which cities do you cover?",
-    a: "Chicago is our first live city, with Cook County and Illinois statewide programs fully indexed. Illinois is next on the roadmap, followed by all 50 states.",
+    a: "All of them, nationwide. GovServ covers every state plus DC and the US territories — city, county, state, and federal programs, all verified against official agency sources.",
   },
   {
     q: "How accurate is the information?",
@@ -78,7 +78,7 @@ const FAQS = [
 
 const ROADMAP = [
   { label: "Chicago", status: "live", note: "City + Cook County programs indexed" },
-  { label: "Illinois", status: "next", note: "Statewide agencies and county programs" },
+  { label: "Illinois", status: "live", note: "48 services indexed" },
   { label: "California", status: "live", note: "41 services indexed" },
   { label: "Texas", status: "live", note: "50 services indexed" },
   { label: "Florida", status: "live", note: "42 services indexed" },
@@ -121,7 +121,7 @@ const ROADMAP = [
   { label: "Utah", status: "live", note: "38 services indexed" },
   { label: "Idaho", status: "live", note: "39 services indexed" },
   { label: "Maine", status: "live", note: "30 services indexed" },
-  { label: "Rhode Island", status: "live", note: "46 services indexed" },
+  { label: "Rhode Island", status: "live", note: "43 services indexed" },
   { label: "South Dakota", status: "live", note: "30 services indexed" },
   { label: "North Dakota", status: "live", note: "37 services indexed" },
   { label: "Vermont", status: "live", note: "47 services indexed" },
@@ -131,14 +131,20 @@ const ROADMAP = [
   { label: "Guam", status: "live", note: "38 services indexed" },
   { label: "U.S. Virgin Islands", status: "live", note: "47 services indexed" },
   { label: "Northern Mariana Islands", status: "live", note: "20 services indexed" },
-  { label: "Delaware", status: "live", note: "42 services indexed" },
-  { label: "American Samoa", status: "live", note: "18 services indexed" },
-  { label: "50 states", status: "later", note: "Federal programs first, then every state" },
+  { label: "Delaware", status: "live", note: "35 services indexed" },
+  { label: "American Samoa", status: "live", note: "10 services indexed" },
+  { label: "Alaska", status: "next", note: "Coming soon — the final state" },
 ];
 
 export default function Home() {
   const services = getServices();
   const categories = getCategories();
+  const citiesCovered = new Set(
+    services.map((s) => s.scope.city).filter((c): c is string => Boolean(c))
+  ).size;
+  const statesCovered = new Set(
+    services.map((s) => s.scope.state).filter((c): c is string => Boolean(c))
+  ).size;
 
   return (
     <div>
@@ -156,7 +162,7 @@ export default function Home() {
         />
         <div className="relative mx-auto max-w-7xl px-4 pb-20 pt-16 sm:px-6 sm:pt-24">
           <p className="inline-flex items-center rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-gold-400">
-            Now live in Chicago
+            Now live nationwide
           </p>
           <h1 className="mt-6 max-w-3xl font-display text-4xl font-bold leading-tight text-white sm:text-6xl">
             Your portal to government services.
@@ -189,16 +195,16 @@ export default function Home() {
               <dd className="mt-1 font-display text-3xl font-bold text-white">{services.length}</dd>
             </div>
             <div>
-              <dt className="text-xs font-semibold uppercase tracking-wider text-slate-400">Cities live</dt>
-              <dd className="mt-1 font-display text-3xl font-bold text-white">1</dd>
+              <dt className="text-xs font-semibold uppercase tracking-wider text-slate-400">Cities covered</dt>
+              <dd className="mt-1 font-display text-3xl font-bold text-white">{citiesCovered}</dd>
             </div>
             <div>
               <dt className="text-xs font-semibold uppercase tracking-wider text-slate-400">Categories</dt>
               <dd className="mt-1 font-display text-3xl font-bold text-white">{categories.length}</dd>
             </div>
             <div>
-              <dt className="text-xs font-semibold uppercase tracking-wider text-slate-400">Roadmap</dt>
-              <dd className="mt-1 font-display text-3xl font-bold text-gold-400">50 states</dd>
+              <dt className="text-xs font-semibold uppercase tracking-wider text-slate-400">States & territories</dt>
+              <dd className="mt-1 font-display text-3xl font-bold text-gold-400">{statesCovered}</dd>
             </div>
           </dl>
         </div>
@@ -252,14 +258,15 @@ export default function Home() {
       {/* ── Chicago first / roadmap ──────────────────────── */}
       <section id="cities" className="bg-navy-950 py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6">
-          <p className="text-sm font-semibold uppercase tracking-wider text-gold-400">Chicago first</p>
+          <p className="text-sm font-semibold uppercase tracking-wider text-gold-400">Nationwide coverage</p>
           <h2 className="mt-2 max-w-2xl font-display text-3xl font-bold text-white sm:text-4xl">
-            One city done right, then every state.
+            Every state. Every territory.
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-slate-300">
-            We&apos;re launching deep, not wide. Chicago&apos;s city, Cook County, and
-            Illinois statewide programs are fully indexed and verified — then we
-            scale the same playbook nationwide.
+            We launched deep, then went wide. Chicago&apos;s city, Cook County,
+            and Illinois statewide programs were our proving ground — now the
+            same verified playbook covers cities, counties, states, and federal
+            programs across the entire country.
           </p>
           <ol className="mt-10 grid gap-6 md:grid-cols-3">
             {ROADMAP.map((r, i) => (

@@ -47,7 +47,7 @@ function ServicesDirectory() {
             Services directory
           </h1>
           <p className="mt-2 text-slate-600">
-            {getServices().length} programs indexed · Chicago first, Illinois statewide
+            {getServices().length} programs indexed · nationwide coverage across all 50 states, DC &amp; territories
           </p>
 
           {/* Search */}
