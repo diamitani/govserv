@@ -1,0 +1,5419 @@
+[
+  {
+    "id": "st-mi-drivers-license",
+    "name": "Michigan Driver's License — New & Renewal",
+    "agency": "Michigan Secretary of State",
+    "category": "IDs & Records",
+    "description": "The Michigan Secretary of State issues driver's licenses and state ID cards. Renew online, by mail, at a self-service station, or in person at a Secretary of State office; an in-person visit with a new photo is required at least once every 12 years.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "U.S. citizen or lawful presence for a driver's license"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewal",
+        "date": null,
+        "note": "Renew on or before your license expiration date"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Michigan residency",
+      "Current license or ID card if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State (888-SOS-MICH)",
+        "value": "888-767-6424"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan Secretary of State",
+        "value": "https://michigan.gov/sos"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Secretary of State",
+        "url": "https://michigan.gov/sos"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://michigan.gov/sos"
+    ]
+  },
+  {
+    "id": "st-mi-vehicle-registration",
+    "name": "Michigan Vehicle Registration & Title",
+    "agency": "Michigan Secretary of State",
+    "category": "IDs & Records",
+    "description": "The Michigan Secretary of State handles vehicle registrations, license plate renewals, and titles. Renew plates online, by mail, at a self-service station, or at an office — and add the Recreation Passport at plate renewal.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner with Michigan registration"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Vehicle title or current registration",
+      "Proof of Michigan no-fault insurance",
+      "Driver's license or ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Secretary of State (888-SOS-MICH)",
+        "value": "888-767-6424"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan Secretary of State",
+        "value": "https://michigan.gov/sos"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Secretary of State",
+        "url": "https://michigan.gov/sos"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Registration fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://michigan.gov/sos"
+    ]
+  },
+  {
+    "id": "st-mi-medicaid",
+    "name": "Michigan Medicaid / Healthy Michigan Plan",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Health & Benefits",
+    "description": "Michigan Medicaid and the Healthy Michigan Plan provide free or low-cost health coverage to eligible residents, including adults, children, pregnant women, and people with disabilities. Apply online through MI Bridges.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits for your household size"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Create a free MI Bridges account to apply online"
+    ],
+    "whatToBring": [
+      "Social Security numbers for applicants",
+      "Proof of income",
+      "Proof of Michigan residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHHS benefits helpline",
+        "value": "1-855-275-6424"
+      },
+      {
+        "kind": "web",
+        "label": "Apply on MI Bridges",
+        "value": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on MI Bridges",
+        "url": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/mibridges"
+    ]
+  },
+  {
+    "id": "st-mi-snap",
+    "name": "Michigan SNAP (Food Assistance)",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Health & Benefits",
+    "description": "Michigan's Food Assistance Program (SNAP) helps eligible residents buy groceries with benefits loaded on a Bridge Card. Apply online through MI Bridges or at a local MDHHS office.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHHS benefits helpline",
+        "value": "1-855-275-6424"
+      },
+      {
+        "kind": "web",
+        "label": "Apply on MI Bridges",
+        "value": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on MI Bridges",
+        "url": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/mibridges"
+    ]
+  },
+  {
+    "id": "st-mi-unemployment",
+    "name": "Michigan Unemployment Insurance — File a Claim",
+    "agency": "Michigan Unemployment Insurance Agency (UIA), Department of Labor and Economic Opportunity",
+    "category": "Money & Taxes",
+    "description": "If you lost your job through no fault of your own, file for unemployment benefits with Michigan UIA online through MiWAM or by phone, then certify biweekly to keep receiving payments.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Michigan",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "File a new claim before certifying for benefits"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of employment",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UIA customer service",
+        "value": "1-866-500-0017"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan UIA",
+        "value": "https://www.michigan.gov/uia"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim (Michigan UIA)",
+        "url": "https://www.michigan.gov/uia"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/uia"
+    ]
+  },
+  {
+    "id": "st-mi-voter-registration",
+    "name": "Michigan Voter Registration",
+    "agency": "Michigan Bureau of Elections",
+    "category": "IDs & Records",
+    "description": "Register to vote in Michigan online, by mail, or in person. For the November 3, 2026 general election, the online and mail registration deadline is October 19, 2026; you can also register in person at your city or township clerk's office through Election Day.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Michigan resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Online/mail registration",
+        "date": "2026-10-19",
+        "note": "Deadline for the Nov 3, 2026 general election"
+      },
+      {
+        "label": "In-person registration",
+        "date": "2026-11-03",
+        "note": "Register at your city or township clerk's office through Election Day"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [
+      "Michigan driver's license or state ID number (or last 4 of SSN)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bureau of Elections",
+        "value": "800-292-5973"
+      },
+      {
+        "kind": "web",
+        "label": "Michigan voting info",
+        "value": "https://michigan.gov/sos/elections/voting"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register / voting info",
+        "url": "https://michigan.gov/sos/elections/voting"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://michigan.gov/sos/elections/voting"
+    ]
+  },
+  {
+    "id": "st-mi-llc",
+    "name": "Michigan LLC Formation",
+    "agency": "Michigan Department of Licensing and Regulatory Affairs (LARA), Corporations, Securities & Commercial Licensing Bureau",
+    "category": "Business & Work",
+    "description": "Form a Michigan LLC by filing Articles of Organization with LARA ($50). File online through the MiBusiness Registry Portal; most filings are processed quickly.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Chosen business name available in Michigan",
+      "Registered agent with a Michigan address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Check name availability with LARA"
+    ],
+    "whatToBring": [
+      "Articles of Organization details (name, purpose, registered agent)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LARA",
+        "value": "https://www.michigan.gov/lara"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LARA — Corporations",
+        "url": "https://www.michigan.gov/lara"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 filing fee",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/lara"
+    ]
+  },
+  {
+    "id": "st-mi-tax-filing",
+    "name": "Michigan Individual Income Tax Filing",
+    "agency": "Michigan Department of Treasury",
+    "category": "Money & Taxes",
+    "description": "File your Michigan individual income tax return (MI-1040) online for free through Michigan Treasury eServices, the state's official filing portal. Michigan returns are due April 15 each year.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Michigan resident, part-year resident, or nonresident with Michigan income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Michigan individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Michigan Treasury eServices",
+        "value": "https://www.michigan.gov/taxes/mitreasuryeservices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Michigan Treasury eServices",
+        "url": "https://www.michigan.gov/taxes/mitreasuryeservices"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to e-file through Michigan Treasury eServices",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/taxes/mitreasuryeservices"
+    ]
+  },
+  {
+    "id": "st-mi-professional-licensing",
+    "name": "Michigan Professional Licensing",
+    "agency": "Michigan Department of Licensing and Regulatory Affairs (LARA), Bureau of Professional Licensing",
+    "category": "Business & Work",
+    "description": "LARA's Bureau of Professional Licensing oversees licensing for dozens of Michigan professions, from health care to skilled trades. Apply for or renew a license online through the MiPLUS portal.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LARA online services",
+        "value": "https://michigan.gov/lara/online-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LARA online services (MiPLUS)",
+        "url": "https://michigan.gov/lara/online-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://michigan.gov/lara/online-services"
+    ]
+  },
+  {
+    "id": "st-mi-birth-certificate",
+    "name": "Michigan Birth Certificate",
+    "agency": "Michigan Department of Health and Human Services, Division for Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Michigan birth records from MDHHS. Order online through VitalChek: $34 for the first copy plus a $14 online processing fee.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Information from the birth record (name, date, place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "517-335-8666"
+      },
+      {
+        "kind": "web",
+        "label": "Order a record online",
+        "value": "https://www.michigan.gov/mdhhs/doing-business/vitalrecords/order-a-record-online"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a vital record online",
+        "url": "https://www.michigan.gov/mdhhs/doing-business/vitalrecords/order-a-record-online"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$34 first copy, plus $14 online processing via VitalChek",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/mdhhs/doing-business/vitalrecords/order-a-record-online"
+    ]
+  },
+  {
+    "id": "st-mi-tanf",
+    "name": "Michigan Family Independence Program (FIP)",
+    "agency": "Michigan Department of Health and Human Services (MDHHS)",
+    "category": "Health & Benefits",
+    "description": "Michigan's Family Independence Program (FIP) is the state's TANF cash assistance program for low-income families with children, paired with employment and training support. Apply through MI Bridges.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Michigan resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHHS benefits helpline",
+        "value": "1-855-275-6424"
+      },
+      {
+        "kind": "web",
+        "label": "Apply on MI Bridges",
+        "value": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on MI Bridges",
+        "url": "https://www.michigan.gov/mibridges"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/mibridges"
+    ]
+  },
+  {
+    "id": "st-mi-parks-pass",
+    "name": "Michigan Recreation Passport",
+    "agency": "Michigan Department of Natural Resources",
+    "category": "Recreation",
+    "description": "The Recreation Passport gives your vehicle a year of entry to Michigan state parks, recreation areas, and state boat launches. Buy it when you renew your license plate through the Secretary of State — $15 per vehicle, $29 for two years, or $7 for a motorcycle.",
+    "scope": {
+      "state": "MI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Any vehicle registered in Michigan"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Recreation Passport info",
+        "value": "https://www.michigan.gov/dnr/buy-and-apply/rec-pp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Recreation Passport info",
+        "url": "https://www.michigan.gov/dnr/buy-and-apply/rec-pp"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 per vehicle at plate renewal ($29 two-year; $7 motorcycle)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.michigan.gov/dnr/buy-and-apply/rec-pp"
+    ]
+  },
+  {
+    "id": "st-mn-drivers-license",
+    "name": "Minnesota Driver's License — New & Renewal",
+    "agency": "Minnesota Driver and Vehicle Services (DVS), Department of Public Safety",
+    "category": "IDs & Records",
+    "description": "Minnesota DVS issues driver's licenses and state ID cards. Start applications and renewals online at drive.mn.gov, then visit a DVS exam station or deputy registrar office as needed.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Minnesota resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Minnesota residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVS",
+        "value": "651-297-3298"
+      },
+      {
+        "kind": "web",
+        "label": "drive.mn.gov",
+        "value": "http://drive.mn.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "drive.mn.gov",
+        "url": "http://drive.mn.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license class and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://drive.mn.gov/"
+    ]
+  },
+  {
+    "id": "st-mn-vehicle-registration",
+    "name": "Minnesota Vehicle Registration & Title",
+    "agency": "Minnesota Driver and Vehicle Services (DVS), Department of Public Safety",
+    "category": "IDs & Records",
+    "description": "Renew vehicle registration tabs, transfer titles, and handle plates through Minnesota DVS at drive.mn.gov or in person at a deputy registrar office.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner with Minnesota registration"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DVS",
+        "value": "651-297-3298"
+      },
+      {
+        "kind": "web",
+        "label": "drive.mn.gov",
+        "value": "http://drive.mn.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "drive.mn.gov",
+        "url": "http://drive.mn.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://drive.mn.gov/"
+    ]
+  },
+  {
+    "id": "st-mn-medicaid",
+    "name": "Minnesota Medical Assistance (MA)",
+    "agency": "Minnesota Department of Human Services",
+    "category": "Health & Benefits",
+    "description": "Medical Assistance (MA) is Minnesota's Medicaid program, providing free or low-cost health coverage to eligible residents. Apply through MNsure, Minnesota's health insurance marketplace.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Minnesota resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MNsure",
+        "value": "855-366-7873"
+      },
+      {
+        "kind": "phone",
+        "label": "Medical Assistance questions",
+        "value": "1-800-657-3739"
+      },
+      {
+        "kind": "web",
+        "label": "MNsure",
+        "value": "https://www.mnsure.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through MNsure",
+        "url": "https://www.mnsure.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mnsure.org"
+    ]
+  },
+  {
+    "id": "st-mn-snap",
+    "name": "Minnesota SNAP",
+    "agency": "Minnesota Department of Children, Youth, and Families (DCYF)",
+    "category": "Health & Benefits",
+    "description": "Minnesota SNAP provides monthly food benefits on an EBT card to eligible households. Apply online at mnbenefits.mn.gov or through your county human services office.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Minnesota resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCYF",
+        "value": "651-431-4049"
+      },
+      {
+        "kind": "phone",
+        "label": "DCYF toll-free",
+        "value": "800-657-3698"
+      },
+      {
+        "kind": "phone",
+        "label": "EBT customer service",
+        "value": "888-997-2227"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at MNbenefits",
+        "value": "https://mnbenefits.mn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at MNbenefits",
+        "url": "https://mnbenefits.mn.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mnbenefits.mn.gov"
+    ]
+  },
+  {
+    "id": "st-mn-unemployment",
+    "name": "Minnesota Unemployment Insurance — File a Claim",
+    "agency": "Minnesota Unemployment Insurance Program",
+    "category": "Money & Taxes",
+    "description": "File for Minnesota unemployment benefits and request weekly payments online at uimn.org or by phone. You must request payment each week to keep receiving benefits.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Minnesota",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI applicant line (Twin Cities)",
+        "value": "651-296-3644"
+      },
+      {
+        "kind": "phone",
+        "label": "UI applicant line (toll-free)",
+        "value": "1-877-898-9090"
+      },
+      {
+        "kind": "web",
+        "label": "uimn.org",
+        "value": "https://www.uimn.org/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at uimn.org",
+        "url": "https://www.uimn.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.uimn.org/"
+    ]
+  },
+  {
+    "id": "st-mn-voter-registration",
+    "name": "Minnesota Voter Registration",
+    "agency": "Minnesota Secretary of State",
+    "category": "IDs & Records",
+    "description": "Register to vote in Minnesota online, by mail, or in person. The advance registration deadline for the November 3, 2026 general election is October 13, 2026 — and Minnesota also allows same-day registration at your polling place on Election Day.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Minnesota resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Advance registration",
+        "date": "2026-10-13",
+        "note": "Deadline for the Nov 3, 2026 general election"
+      },
+      {
+        "label": "Same-day registration",
+        "date": "2026-11-03",
+        "note": "Register at your polling place on Election Day with proof of residence"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "mnvotes.gov",
+        "value": "https://mnvotes.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at mnvotes.gov",
+        "url": "https://mnvotes.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mnvotes.gov"
+    ]
+  },
+  {
+    "id": "st-mn-llc",
+    "name": "Minnesota LLC Formation",
+    "agency": "Minnesota Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a Minnesota LLC by filing Articles of Organization with the Secretary of State — $155 online or $135 by mail. Minnesota LLCs file a free annual renewal each year.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Minnesota address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Articles of Organization details (name, registered agent, organizers)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Minnesota Secretary of State",
+        "value": "https://www.sos.mn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Minnesota Secretary of State",
+        "url": "https://www.sos.mn.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$155 online / $135 by mail",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.mn.gov"
+    ]
+  },
+  {
+    "id": "st-mn-tax-filing",
+    "name": "Minnesota Individual Income Tax Filing",
+    "agency": "Minnesota Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Minnesota individual income tax return online. Minnesota offers free e-file options for taxpayers with adjusted gross income of $89,000 or less.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Minnesota resident, part-year resident, or nonresident with Minnesota income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Minnesota individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MN Dept. of Revenue (Twin Cities)",
+        "value": "651-296-3781"
+      },
+      {
+        "kind": "phone",
+        "label": "MN Dept. of Revenue (toll-free)",
+        "value": "800-652-9094"
+      },
+      {
+        "kind": "web",
+        "label": "File your return",
+        "value": "http://revenue.state.mn.us/file-income-tax-return"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File your Minnesota return",
+        "url": "http://revenue.state.mn.us/file-income-tax-return"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free e-file if AGI is $89,000 or less",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://revenue.state.mn.us/file-income-tax-return"
+    ]
+  },
+  {
+    "id": "st-mn-birth-certificate",
+    "name": "Minnesota Birth Certificate",
+    "agency": "Minnesota Department of Health, Office of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Minnesota birth certificates: $26 for the first copy and $19 for each additional copy. Order online through VitalChek or by mail.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Vital Records",
+        "value": "651-201-5970"
+      }
+    ],
+    "applyLinks": [],
+    "languages": [
+      "English"
+    ],
+    "cost": "$26 first copy; $19 each additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.health.state.mn.us/people/vitalrecords/"
+    ]
+  },
+  {
+    "id": "st-mn-tanf",
+    "name": "Minnesota Family Investment Program (MFIP)",
+    "agency": "Minnesota Department of Children, Youth, and Families (DCYF)",
+    "category": "Health & Benefits",
+    "description": "The Minnesota Family Investment Program (MFIP) is the state's TANF program, providing cash assistance and employment services to low-income families with children. Apply at mnbenefits.mn.gov or your county office.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Minnesota resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCYF",
+        "value": "651-431-4049"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at MNbenefits",
+        "value": "https://mnbenefits.mn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at MNbenefits",
+        "url": "https://mnbenefits.mn.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mnbenefits.mn.gov"
+    ]
+  },
+  {
+    "id": "st-mn-parks-pass",
+    "name": "Minnesota State Parks Vehicle Permit",
+    "agency": "Minnesota Department of Natural Resources",
+    "category": "Recreation",
+    "description": "A Minnesota state parks vehicle permit gives you a year of unlimited visits to all 75 state parks and recreation areas. The year-round permit is $35; buy online or at a park office.",
+    "scope": {
+      "state": "MN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Buy a state parks permit",
+        "value": "https://dnr.state.mn.us/state_parks/permit.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a state parks permit",
+        "url": "https://dnr.state.mn.us/state_parks/permit.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$35 year-round vehicle permit",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dnr.state.mn.us/state_parks/permit.html"
+    ]
+  },
+  {
+    "id": "st-ms-drivers-license",
+    "name": "Mississippi Driver's License — New & Renewal",
+    "agency": "Mississippi Department of Public Safety, Driver Service Bureau",
+    "category": "IDs & Records",
+    "description": "The Mississippi Driver Service Bureau issues driver's licenses and ID cards at offices statewide. New licenses and many renewals are handled in person at a driver license station.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Mississippi resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Mississippi residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Driver Service Bureau",
+        "value": "(601) 987-1212"
+      },
+      {
+        "kind": "phone",
+        "label": "Driver Service Bureau (alt.)",
+        "value": "(601) 987-1224"
+      },
+      {
+        "kind": "web",
+        "label": "MS Dept. of Public Safety",
+        "value": "https://www.dps.ms.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MS Dept. of Public Safety",
+        "url": "https://www.dps.ms.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dps.ms.gov/"
+    ]
+  },
+  {
+    "id": "st-ms-vehicle-registration",
+    "name": "Mississippi Vehicle Registration & Title",
+    "agency": "Mississippi Department of Revenue",
+    "category": "IDs & Records",
+    "description": "Vehicle registrations and license plates in Mississippi are issued by your county tax collector's office on behalf of the Department of Revenue. Renew in person or by mail through your county.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in Mississippi"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MS Dept. of Revenue",
+        "value": "https://www.dor.ms.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MS Dept. of Revenue",
+        "url": "https://www.dor.ms.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dor.ms.gov"
+    ]
+  },
+  {
+    "id": "st-ms-medicaid",
+    "name": "Mississippi Medicaid",
+    "agency": "Mississippi Division of Medicaid",
+    "category": "Health & Benefits",
+    "description": "Mississippi Medicaid provides free or low-cost health coverage to eligible residents, including children, pregnant women, and people with disabilities. Apply online, by phone, or at a regional office.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Mississippi resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Medicaid",
+        "value": "800-421-2408"
+      },
+      {
+        "kind": "web",
+        "label": "How to apply",
+        "value": "https://medicaid.ms.gov/medicaid-coverage/how-to-apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for Mississippi Medicaid",
+        "url": "https://medicaid.ms.gov/medicaid-coverage/how-to-apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://medicaid.ms.gov/medicaid-coverage/how-to-apply/"
+    ]
+  },
+  {
+    "id": "st-ms-snap",
+    "name": "Mississippi SNAP",
+    "agency": "Mississippi Department of Human Services (MDHS)",
+    "category": "Health & Benefits",
+    "description": "Mississippi SNAP provides monthly food benefits to eligible households on an EBT card. Apply online, by phone, or at your county MDHS office.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Mississippi resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHS",
+        "value": "601-359-4500"
+      },
+      {
+        "kind": "web",
+        "label": "SNAP info",
+        "value": "https://www.mdhs.ms.gov/economicassistance/snap/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDHS SNAP info",
+        "url": "https://www.mdhs.ms.gov/economicassistance/snap/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mdhs.ms.gov/economicassistance/snap/"
+    ]
+  },
+  {
+    "id": "st-ms-unemployment",
+    "name": "Mississippi Unemployment Insurance — File a Claim",
+    "agency": "Mississippi Department of Employment Security (MDES)",
+    "category": "Money & Taxes",
+    "description": "File for Mississippi unemployment benefits online through MDES. File your initial claim, then certify weekly to keep receiving payments.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Mississippi",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDES",
+        "value": "1-888-844-3577"
+      },
+      {
+        "kind": "web",
+        "label": "File an unemployment claim",
+        "value": "https://www.mdes.ms.gov/unemployment-claims/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://www.mdes.ms.gov/unemployment-claims/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mdes.ms.gov/unemployment-claims/"
+    ]
+  },
+  {
+    "id": "st-ms-voter-registration",
+    "name": "Mississippi Voter Registration",
+    "agency": "Mississippi Secretary of State",
+    "category": "IDs & Records",
+    "description": "Mississippi does not offer online voter registration. For the November 3, 2026 general election, the registration deadline was October 5, 2026 — register in person at your county circuit clerk's office or by mail postmarked by the deadline.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Mississippi resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 general)",
+        "date": "2026-10-05",
+        "note": "Passed — Mississippi has no online registration"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Elections hotline",
+        "value": "1-800-829-6786"
+      },
+      {
+        "kind": "web",
+        "label": "Y'all Vote",
+        "value": "https://yallvote.ms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Y'all Vote — Mississippi elections",
+        "url": "https://yallvote.ms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://yallvote.ms"
+    ]
+  },
+  {
+    "id": "st-ms-llc",
+    "name": "Mississippi LLC Formation",
+    "agency": "Mississippi Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a Mississippi LLC by filing a Certificate of Formation online with the Secretary of State for $50. Mississippi LLCs file a free annual report each year, due April 15.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Mississippi address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Certificate of Formation details (name, registered agent)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Services",
+        "value": "601-359-1633"
+      },
+      {
+        "kind": "web",
+        "label": "Business Services online",
+        "value": "https://business.sos.ms.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (Business Services)",
+        "url": "https://business.sos.ms.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 online filing",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://business.sos.ms.gov"
+    ]
+  },
+  {
+    "id": "st-ms-tax-filing",
+    "name": "Mississippi Individual Income Tax Filing",
+    "agency": "Mississippi Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Mississippi individual income tax return through the Department of Revenue's TAP (Taxpayer Access Point) portal or an approved e-file provider. Mississippi returns are due April 15.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Mississippi resident, part-year resident, or nonresident with Mississippi income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Mississippi individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Individual income tax",
+        "value": "https://www.dor.ms.gov/individual"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Individual income tax (DOR)",
+        "url": "https://www.dor.ms.gov/individual"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "E-file through TAP or approved providers (some free options)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dor.ms.gov/individual"
+    ]
+  },
+  {
+    "id": "st-ms-birth-certificate",
+    "name": "Mississippi Birth Certificate",
+    "agency": "Mississippi State Department of Health, Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Mississippi birth certificates from the State Department of Health — $17 for the first copy and $6 for each additional copy, by mail, phone, or in person.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "601-206-8200"
+      },
+      {
+        "kind": "web",
+        "label": "MSDH",
+        "value": "https://msdh.ms.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MSDH",
+        "url": "https://msdh.ms.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$17 first copy; $6 each additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://msdh.ms.gov"
+    ]
+  },
+  {
+    "id": "st-ms-tanf",
+    "name": "Mississippi TANF (Temporary Assistance for Needy Families)",
+    "agency": "Mississippi Department of Human Services (MDHS)",
+    "category": "Health & Benefits",
+    "description": "Mississippi's TANF program provides temporary cash assistance to low-income families with children, along with work and training support. Apply through MDHS.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Mississippi resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MDHS",
+        "value": "601-359-4500"
+      }
+    ],
+    "applyLinks": [],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mdhs.ms.gov"
+    ]
+  },
+  {
+    "id": "st-ms-parks-pass",
+    "name": "Mississippi State Parks Annual Entrance Pass",
+    "agency": "Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP)",
+    "category": "Recreation",
+    "description": "The Mississippi State Parks Annual Entrance Pass covers day-use entry for one person to all Mississippi state parks for a full year — $50 per person.",
+    "scope": {
+      "state": "MS",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MDWFP",
+        "value": "https://www.mdwfp.com/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MDWFP — State Parks",
+        "url": "https://www.mdwfp.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 per person per year",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mdwfp.com/"
+    ]
+  },
+  {
+    "id": "st-mo-drivers-license",
+    "name": "Missouri Driver's License — New & Renewal",
+    "agency": "Missouri Department of Revenue",
+    "category": "IDs & Records",
+    "description": "The Missouri Department of Revenue issues driver's licenses and nondriver ID cards through license offices statewide. Use the office locator to find the nearest location and check what to bring.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Missouri resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, lawful status, Social Security number, and Missouri residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Driver licensing",
+        "value": "573-526-2407"
+      },
+      {
+        "kind": "web",
+        "label": "MO Dept. of Revenue",
+        "value": "https://dor.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MO Dept. of Revenue",
+        "url": "https://dor.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dor.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-vehicle-registration",
+    "name": "Missouri Vehicle Registration & Title",
+    "agency": "Missouri Department of Revenue",
+    "category": "IDs & Records",
+    "description": "Register your vehicle and renew license plates through the Missouri Department of Revenue — online, by mail, by phone at (573) 751-1957, or at a license office.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in Missouri"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance",
+      "Safety/emissions inspection if required"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Motor vehicle",
+        "value": "573-526-3669"
+      },
+      {
+        "kind": "phone",
+        "label": "Plate renewal by phone",
+        "value": "(573) 751-1957"
+      },
+      {
+        "kind": "web",
+        "label": "MO Dept. of Revenue",
+        "value": "https://dor.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MO Dept. of Revenue",
+        "url": "https://dor.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dor.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-medicaid",
+    "name": "MO HealthNet (Missouri Medicaid)",
+    "agency": "Missouri Department of Social Services",
+    "category": "Health & Benefits",
+    "description": "MO HealthNet is Missouri's Medicaid program, providing health coverage to eligible children, pregnant women, parents, seniors, and people with disabilities. Apply online at mydss.mo.gov.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Missouri resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MO HealthNet",
+        "value": "800-392-2161"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at mydss.mo.gov",
+        "value": "https://mydss.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at mydss.mo.gov",
+        "url": "https://mydss.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mydss.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-snap",
+    "name": "Missouri SNAP (Food Stamps)",
+    "agency": "Missouri Department of Social Services, Family Support Division",
+    "category": "Health & Benefits",
+    "description": "Missouri SNAP provides monthly food benefits to eligible households. Apply online at mydss.mo.gov or by phone through the Family Support Division.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Missouri resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Support Division",
+        "value": "855-373-4636"
+      },
+      {
+        "kind": "phone",
+        "label": "SNAP/TA interviews",
+        "value": "855-823-4908"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at mydss.mo.gov",
+        "value": "https://mydss.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at mydss.mo.gov",
+        "url": "https://mydss.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mydss.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-unemployment",
+    "name": "Missouri Unemployment Insurance — File a Claim",
+    "agency": "Missouri Division of Employment Security, Department of Labor and Industrial Relations",
+    "category": "Money & Taxes",
+    "description": "File for Missouri unemployment benefits online through UInteract, the Division of Employment Security's claims portal, or by phone. File weekly requests for payment to keep receiving benefits.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Missouri",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Employment Security",
+        "value": "800-320-2519"
+      },
+      {
+        "kind": "web",
+        "label": "Division of Employment Security",
+        "value": "https://labor.mo.gov/DES"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (UInteract)",
+        "url": "https://uinteract.labor.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://labor.mo.gov/DES"
+    ]
+  },
+  {
+    "id": "st-mo-voter-registration",
+    "name": "Missouri Voter Registration",
+    "agency": "Missouri Secretary of State",
+    "category": "IDs & Records",
+    "description": "For the November 3, 2026 general election, Missouri's voter registration deadline was October 7, 2026 — it has passed. Eligible voters can register online, by mail, or in person at a county clerk's office for future elections.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Missouri resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 general)",
+        "date": "2026-10-07",
+        "note": "Passed"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MO Secretary of State",
+        "value": "https://www.sos.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MO Secretary of State — Elections",
+        "url": "https://www.sos.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-llc",
+    "name": "Missouri LLC Formation",
+    "agency": "Missouri Secretary of State, Corporations Division",
+    "category": "Business & Work",
+    "description": "Form a Missouri LLC by filing Articles of Organization with the Secretary of State — $50 online or $105 by paper.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Missouri address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Articles of Organization details (name, registered agent, organizers)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MO Secretary of State",
+        "value": "https://www.sos.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MO Secretary of State — Business Services",
+        "url": "https://www.sos.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 online / $105 paper",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-tax-filing",
+    "name": "Missouri Individual Income Tax Filing",
+    "agency": "Missouri Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Missouri individual income tax return online. Missouri partners with the IRS Free File Alliance, so qualifying taxpayers can e-file state and federal returns for free.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Missouri resident, part-year resident, or nonresident with Missouri income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Missouri individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Individual income tax",
+        "value": "(573) 751-3505"
+      },
+      {
+        "kind": "web",
+        "label": "Filing information",
+        "value": "https://dor.mo.gov/taxation/individual/tax-types/income/filing.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to file (MO DOR)",
+        "url": "https://dor.mo.gov/taxation/individual/tax-types/income/filing.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free e-file options through IRS Free File partners",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dor.mo.gov/taxation/individual/tax-types/income/filing.html"
+    ]
+  },
+  {
+    "id": "st-mo-professional-licensing",
+    "name": "Missouri Professional Licensing",
+    "agency": "Missouri Division of Professional Registration",
+    "category": "Business & Work",
+    "description": "Missouri's Division of Professional Registration licenses and regulates more than 200 professions and occupations. Apply for, renew, and verify licenses online through the MOPRO portal.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of Professional Registration",
+        "value": "https://www.pr.missouri.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MOPRO licensing portal",
+        "url": "https://mopro.mo.gov/license/s/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.pr.missouri.gov"
+    ]
+  },
+  {
+    "id": "st-mo-birth-certificate",
+    "name": "Missouri Birth Certificate",
+    "agency": "Missouri Department of Health and Senior Services, Bureau of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Missouri birth certificates for $15 per copy — online through VitalChek, by mail, or in person in Jefferson City.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bureau of Vital Records",
+        "value": "573-751-6387"
+      },
+      {
+        "kind": "web",
+        "label": "Order a vital record",
+        "value": "https://health.mo.gov/vital-records-registries/vital-records/order-copy-vital-record"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a vital record (DHSS)",
+        "url": "https://health.mo.gov/vital-records-registries/vital-records/order-copy-vital-record"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 per copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://health.mo.gov/vital-records-registries/vital-records/order-copy-vital-record"
+    ]
+  },
+  {
+    "id": "st-mo-tanf",
+    "name": "Missouri Temporary Assistance (TA)",
+    "agency": "Missouri Department of Social Services, Family Support Division",
+    "category": "Health & Benefits",
+    "description": "Temporary Assistance (TA) is Missouri's TANF cash assistance program for low-income families with children, paired with work support services. Apply online at mydss.mo.gov.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Missouri resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Support Division",
+        "value": "855-373-4636"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at mydss.mo.gov",
+        "value": "https://mydss.mo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at mydss.mo.gov",
+        "url": "https://mydss.mo.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mydss.mo.gov"
+    ]
+  },
+  {
+    "id": "st-mo-parks-pass",
+    "name": "Missouri State Parks — Free Admission",
+    "agency": "Missouri Department of Natural Resources, Division of State Parks",
+    "category": "Recreation",
+    "description": "Missouri state parks and historic sites are free to enter — day-use admission is funded by the state's Parks, Soils and Water sales tax. Reserve campsites, cabins, and tours online at mostateparks.com.",
+    "scope": {
+      "state": "MO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Reservations",
+        "value": "1-877-422-6766"
+      },
+      {
+        "kind": "web",
+        "label": "Missouri State Parks",
+        "value": "https://mostateparks.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Missouri State Parks",
+        "url": "https://mostateparks.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free admission",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mostateparks.com"
+    ]
+  },
+  {
+    "id": "st-mt-drivers-license",
+    "name": "Montana Driver's License — New & Renewal",
+    "agency": "Montana Motor Vehicle Division, Department of Justice",
+    "category": "IDs & Records",
+    "description": "The Montana Motor Vehicle Division issues driver's licenses and ID cards. Start renewals online, then visit a driver license station for in-person services like photos and testing.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Montana resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Montana residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVD",
+        "value": "1-866-450-8034"
+      },
+      {
+        "kind": "phone",
+        "label": "Driver licensing",
+        "value": "406-444-3933"
+      },
+      {
+        "kind": "web",
+        "label": "Driver licensing",
+        "value": "https://dojmt.gov/driving/driverlicensing/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver licensing (MT DOJ)",
+        "url": "https://dojmt.gov/driving/driverlicensing/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dojmt.gov/driving/driverlicensing/"
+    ]
+  },
+  {
+    "id": "st-mt-vehicle-registration",
+    "name": "Montana Vehicle Registration & Title",
+    "agency": "Montana Motor Vehicle Division, Department of Justice",
+    "category": "IDs & Records",
+    "description": "Register your vehicle and handle titles through your county treasurer's office on behalf of the Motor Vehicle Division. Montana offers permanent registration for vehicles 11 years and older.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in Montana"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVD",
+        "value": "1-866-450-8034"
+      },
+      {
+        "kind": "web",
+        "label": "MT MVD",
+        "value": "https://dojmt.gov/driving/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MT Motor Vehicle Division",
+        "url": "https://dojmt.gov/driving/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dojmt.gov/driving/"
+    ]
+  },
+  {
+    "id": "st-mt-medicaid",
+    "name": "Montana Medicaid",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Health & Benefits",
+    "description": "Montana Medicaid provides free or low-cost health coverage to eligible residents. Apply online at apply.mt.gov or call the Public Assistance Helpline.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Montana resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at apply.mt.gov",
+        "value": "https://apply.mt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits",
+        "url": "https://apply.mt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apply.mt.gov/"
+    ]
+  },
+  {
+    "id": "st-mt-snap",
+    "name": "Montana SNAP",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Health & Benefits",
+    "description": "Montana SNAP provides monthly food benefits to eligible households. Apply online at apply.mt.gov or call the Public Assistance Helpline.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Montana resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at apply.mt.gov",
+        "value": "https://apply.mt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits",
+        "url": "https://apply.mt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apply.mt.gov/"
+    ]
+  },
+  {
+    "id": "st-mt-unemployment",
+    "name": "Montana Unemployment Insurance — File a Claim",
+    "agency": "Montana Department of Labor and Industry, Unemployment Insurance Division",
+    "category": "Money & Taxes",
+    "description": "File for Montana unemployment benefits online or by phone, then file weekly payment requests. MontanaWorks.gov also connects claimants with job search help.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Montana",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Division",
+        "value": "406-444-2545"
+      },
+      {
+        "kind": "web",
+        "label": "File for UI benefits",
+        "value": "https://uid.dli.mt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for UI benefits",
+        "url": "https://uid.dli.mt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://uid.dli.mt.gov/"
+    ]
+  },
+  {
+    "id": "st-mt-voter-registration",
+    "name": "Montana Voter Registration",
+    "agency": "Montana Secretary of State",
+    "category": "IDs & Records",
+    "description": "Montana's regular voter registration deadline for the November 3, 2026 general election was October 5, 2026 — but late registration is available at your county election office through Election Day.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Montana resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Regular registration",
+        "date": "2026-10-05",
+        "note": "Passed"
+      },
+      {
+        "label": "Late registration",
+        "date": "2026-11-03",
+        "note": "Available at county election offices through Election Day"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VoteMT.gov",
+        "value": "https://votemt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "VoteMT.gov",
+        "url": "https://votemt.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://votemt.gov"
+    ]
+  },
+  {
+    "id": "st-mt-llc",
+    "name": "Montana LLC Formation",
+    "agency": "Montana Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a Montana LLC by filing Articles of Organization with the Secretary of State for $35. Montana LLCs file a free annual report each year.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Montana address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Articles of Organization details (name, registered agent)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File online",
+        "value": "https://biz.sosmt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (biz.sosmt.gov)",
+        "url": "https://biz.sosmt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$35 filing fee",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://biz.sosmt.gov/"
+    ]
+  },
+  {
+    "id": "st-mt-tax-filing",
+    "name": "Montana Individual Income Tax Filing",
+    "agency": "Montana Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Montana individual income tax return (Form 2) online for free through the Department of Revenue's TransAction Portal (TAP).",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Montana resident, part-year resident, or nonresident with Montana income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Montana individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dept. of Revenue",
+        "value": "(406) 444-6900"
+      },
+      {
+        "kind": "web",
+        "label": "TransAction Portal (TAP)",
+        "value": "https://tap.dor.mt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File through TAP",
+        "url": "https://tap.dor.mt.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to e-file through TAP",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tap.dor.mt.gov"
+    ]
+  },
+  {
+    "id": "st-mt-professional-licensing",
+    "name": "Montana Professional & Occupational Licensing",
+    "agency": "Montana Department of Labor and Industry, Business Standards Division",
+    "category": "Business & Work",
+    "description": "Montana's Business Standards Division licenses dozens of professions and occupations, from health care to construction trades. Apply for and renew licenses online through the EBIZ portal.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Standards Division",
+        "value": "(406) 444-6880"
+      },
+      {
+        "kind": "web",
+        "label": "Licensing boards",
+        "value": "https://boards.bsd.dli.mt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Licensing boards (BSD)",
+        "url": "https://boards.bsd.dli.mt.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://boards.bsd.dli.mt.gov"
+    ]
+  },
+  {
+    "id": "st-mt-birth-certificate",
+    "name": "Montana Birth Certificate",
+    "agency": "Montana Department of Public Health and Human Services, Office of Vital Statistics",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Montana birth certificates: $12 for the first certified copy and $5 for each additional copy. Order online through VitalChek or by mail.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Vital Statistics",
+        "value": "406-444-2685"
+      },
+      {
+        "kind": "web",
+        "label": "Birth & death certificates",
+        "value": "https://dphhs.mt.gov/VitalRecords/BirthDeathCertificates"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birth & death certificates (DPHHS)",
+        "url": "https://dphhs.mt.gov/VitalRecords/BirthDeathCertificates"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$12 first copy; $5 each additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dphhs.mt.gov/VitalRecords/BirthDeathCertificates"
+    ]
+  },
+  {
+    "id": "st-mt-tanf",
+    "name": "Montana Temporary Assistance for Needy Families (TANF)",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+    "category": "Health & Benefits",
+    "description": "Montana's TANF program provides temporary cash assistance to low-income families with children, along with employment support. Apply online at apply.mt.gov.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Montana resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Public Assistance Helpline",
+        "value": "1-888-706-1535"
+      },
+      {
+        "kind": "web",
+        "label": "Apply at apply.mt.gov",
+        "value": "https://apply.mt.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits",
+        "url": "https://apply.mt.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apply.mt.gov/"
+    ]
+  },
+  {
+    "id": "st-mt-parks-pass",
+    "name": "Montana State Parks — Resident & Nonresident Passes",
+    "agency": "Montana Fish, Wildlife & Parks",
+    "category": "Recreation",
+    "description": "Montana residents enter state parks free with the $9 opt-in State Parks/Trails fee added at vehicle registration; nonresidents can buy a Nonresident Entrance Pass for day-use access.",
+    "scope": {
+      "state": "MT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MT Fish, Wildlife & Parks",
+        "value": "https://fwp.mt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MT Fish, Wildlife & Parks",
+        "url": "https://fwp.mt.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$9 resident opt-in at vehicle registration; $25 nonresident passport",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://fwp.mt.gov"
+    ]
+  },
+  {
+    "id": "st-ne-drivers-license",
+    "name": "Nebraska Driver's License — New & Renewal",
+    "agency": "Nebraska Department of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "The Nebraska DMV issues driver's licenses and state ID cards. Many renewals can be completed online at dmv.nebraska.gov; new licenses require an in-person visit to a driver licensing office.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nebraska resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Nebraska residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nebraska DMV",
+        "value": "402-471-3861"
+      },
+      {
+        "kind": "web",
+        "label": "Nebraska DMV",
+        "value": "https://dmv.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nebraska DMV online services",
+        "url": "https://dmv.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-vehicle-registration",
+    "name": "Nebraska Vehicle Registration & Title",
+    "agency": "Nebraska Department of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Register vehicles and renew registrations through your county treasurer's office on behalf of the Nebraska DMV; many services are also available online at dmv.nebraska.gov.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in Nebraska"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nebraska DMV",
+        "value": "402-471-3861"
+      },
+      {
+        "kind": "web",
+        "label": "Nebraska DMV",
+        "value": "https://dmv.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nebraska DMV online services",
+        "url": "https://dmv.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-medicaid",
+    "name": "Nebraska Medicaid",
+    "agency": "Nebraska Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "Nebraska Medicaid provides health coverage to eligible residents through managed care plans. Apply online through iServe Nebraska or by phone.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nebraska resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Medicaid",
+        "value": "855-632-7633"
+      },
+      {
+        "kind": "phone",
+        "label": "Economic assistance",
+        "value": "800-383-4278"
+      },
+      {
+        "kind": "web",
+        "label": "iServe Nebraska",
+        "value": "https://iserve.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on iServe Nebraska",
+        "url": "https://iserve.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://iserve.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-snap",
+    "name": "Nebraska SNAP",
+    "agency": "Nebraska Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "Nebraska SNAP provides monthly food benefits to eligible households. Apply online through iServe Nebraska or by phone.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nebraska resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Economic assistance",
+        "value": "800-383-4278"
+      },
+      {
+        "kind": "web",
+        "label": "iServe Nebraska",
+        "value": "https://iserve.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on iServe Nebraska",
+        "url": "https://iserve.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://iserve.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-unemployment",
+    "name": "Nebraska Unemployment Insurance — File a Claim",
+    "agency": "Nebraska Department of Labor",
+    "category": "Money & Taxes",
+    "description": "File for Nebraska unemployment benefits online through NEworks or by phone. File weekly claims to keep receiving payments.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Nebraska",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Nebraska Dept. of Labor",
+        "value": "402-458-2500"
+      },
+      {
+        "kind": "web",
+        "label": "NEworks",
+        "value": "https://neworks.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File on NEworks",
+        "url": "https://neworks.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://neworks.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-voter-registration",
+    "name": "Nebraska Voter Registration",
+    "agency": "Nebraska Secretary of State",
+    "category": "IDs & Records",
+    "description": "The online, mail, and DMV voter registration deadline for the November 3, 2026 general election was October 16, 2026 — but you can still register in person at your county election office until 6 p.m. on October 23.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Nebraska resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Online/mail/DMV registration",
+        "date": "2026-10-16",
+        "note": "Passed"
+      },
+      {
+        "label": "In-person registration",
+        "date": "2026-10-23",
+        "note": "At county election offices until 6 p.m."
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NE Secretary of State",
+        "value": "https://www.sos.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NE Secretary of State — Elections",
+        "url": "https://www.sos.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-llc",
+    "name": "Nebraska LLC Formation",
+    "agency": "Nebraska Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a Nebraska LLC by filing a Certificate of Organization — $100 online or $110 in person. Nebraska also requires publishing notice of organization and filing a biennial report in odd-numbered years.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Nebraska address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Publish notice of organization as required by Nebraska law"
+    ],
+    "whatToBring": [
+      "Certificate of Organization details (name, registered agent, organizers)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NE Secretary of State",
+        "value": "https://www.sos.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NE Secretary of State — Business Services",
+        "url": "https://www.sos.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 online / $110 in person",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-tax-filing",
+    "name": "Nebraska Individual Income Tax Filing (NebFile)",
+    "agency": "Nebraska Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Nebraska individual income tax return for free with NebFile, the Department of Revenue's free e-file program for Nebraska residents.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nebraska resident with a completed federal return"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "Nebraska individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Dept. of Revenue (toll-free)",
+        "value": "800-742-7474"
+      },
+      {
+        "kind": "phone",
+        "label": "Dept. of Revenue (Lincoln)",
+        "value": "402-471-5729"
+      },
+      {
+        "kind": "web",
+        "label": "NebFile",
+        "value": "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File free with NebFile",
+        "url": "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free with NebFile",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://revenue.nebraska.gov/individuals/nebfile-individuals"
+    ]
+  },
+  {
+    "id": "st-ne-birth-certificate",
+    "name": "Nebraska Birth Certificate",
+    "agency": "Nebraska Department of Health and Human Services, Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Nebraska birth certificates for $17 per copy through DHHS Vital Records, by mail, phone, or in person.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "402-471-2871"
+      },
+      {
+        "kind": "web",
+        "label": "DHHS",
+        "value": "https://dhhs.ne.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DHHS Vital Records",
+        "url": "https://dhhs.ne.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$17 per copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhhs.ne.gov"
+    ]
+  },
+  {
+    "id": "st-ne-tanf",
+    "name": "Nebraska Aid to Dependent Children (ADC)",
+    "agency": "Nebraska Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "Aid to Dependent Children (ADC) is Nebraska's TANF cash assistance program for low-income families with children. Apply online through iServe Nebraska.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nebraska resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Economic assistance",
+        "value": "800-383-4278"
+      },
+      {
+        "kind": "web",
+        "label": "iServe Nebraska",
+        "value": "https://iserve.nebraska.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on iServe Nebraska",
+        "url": "https://iserve.nebraska.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://iserve.nebraska.gov"
+    ]
+  },
+  {
+    "id": "st-ne-parks-pass",
+    "name": "Nebraska State Park Entry Permit",
+    "agency": "Nebraska Game and Parks Commission",
+    "category": "Recreation",
+    "description": "A Nebraska park entry permit is required at state parks, recreation areas, and historical parks — $35 for residents or $70 for nonresidents for an annual permit.",
+    "scope": {
+      "state": "NE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Permit pricing",
+        "value": "https://outdoornebraska.gov/permits/permit-pricing/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a park permit",
+        "url": "https://outdoornebraska.gov/permits/permit-pricing/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$35 resident / $70 nonresident annual",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://outdoornebraska.gov/permits/permit-pricing/"
+    ]
+  },
+  {
+    "id": "st-nv-drivers-license",
+    "name": "Nevada Driver's License — New & Renewal",
+    "agency": "Nevada Department of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "The Nevada DMV issues driver's licenses and ID cards. Many renewals can be done online at dmv.nv.gov; new licenses and Real ID upgrades require an in-person office visit.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nevada resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and Nevada residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV (Reno/Carson City)",
+        "value": "(775) 684-4368"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV (Las Vegas)",
+        "value": "(702) 486-4368"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV (rural/toll-free)",
+        "value": "(877) 368-7828"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada DMV",
+        "value": "https://dmv.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nevada DMV online services",
+        "url": "https://dmv.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-vehicle-registration",
+    "name": "Nevada Vehicle Registration & Title",
+    "agency": "Nevada Department of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Register vehicles and renew registrations online at dmv.nv.gov or in person at a DMV office. Nevada requires annual registration renewal with an emissions check in Clark and Washoe counties.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in Nevada"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance",
+      "Emissions inspection if required"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV (Reno/Carson City)",
+        "value": "(775) 684-4368"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV (Las Vegas)",
+        "value": "(702) 486-4368"
+      },
+      {
+        "kind": "web",
+        "label": "Nevada DMV",
+        "value": "https://dmv.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Nevada DMV online services",
+        "url": "https://dmv.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-medicaid",
+    "name": "Nevada Medicaid",
+    "agency": "Nevada Department of Health and Human Services, Division of Welfare and Supportive Services (DWSS)",
+    "category": "Health & Benefits",
+    "description": "Nevada Medicaid provides free or low-cost health coverage to eligible residents. Apply online through Access Nevada, the DWSS benefits portal.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nevada resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWSS",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "phone",
+        "label": "Nevada Health Link",
+        "value": "800-547-2927"
+      },
+      {
+        "kind": "web",
+        "label": "Access Nevada",
+        "value": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Access Nevada",
+        "url": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dss.nv.gov/programs/Medicaid/apply-for-assistance/"
+    ]
+  },
+  {
+    "id": "st-nv-snap",
+    "name": "Nevada SNAP",
+    "agency": "Nevada Department of Health and Human Services, Division of Welfare and Supportive Services (DWSS)",
+    "category": "Health & Benefits",
+    "description": "Nevada SNAP provides monthly food benefits to eligible households. Apply online through Access Nevada or by phone.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nevada resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWSS",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "web",
+        "label": "Access Nevada",
+        "value": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Access Nevada",
+        "url": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://accessnevada.dwss.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-unemployment",
+    "name": "Nevada Unemployment Insurance — File a Claim",
+    "agency": "Nevada Department of Employment, Training and Rehabilitation (DETR), Employment Security Division",
+    "category": "Money & Taxes",
+    "description": "File for Nevada unemployment benefits online at ui.nv.gov or by phone, then file weekly claims to keep receiving payments.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in Nevada",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI (Northern Nevada)",
+        "value": "775-684-0350"
+      },
+      {
+        "kind": "phone",
+        "label": "UI (Southern Nevada)",
+        "value": "702-486-0350"
+      },
+      {
+        "kind": "phone",
+        "label": "UI (rural/toll-free)",
+        "value": "888-890-8211"
+      },
+      {
+        "kind": "web",
+        "label": "File at ui.nv.gov",
+        "value": "https://ui.nv.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at ui.nv.gov",
+        "url": "https://ui.nv.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ui.nv.gov/"
+    ]
+  },
+  {
+    "id": "st-nv-voter-registration",
+    "name": "Nevada Voter Registration",
+    "agency": "Nevada Secretary of State",
+    "category": "IDs & Records",
+    "description": "Nevada's standard mail and in-person registration deadline was October 6, 2026 — but online registration continues through Election Day, November 3, and same-day registration is available at the polls (provisional ballot).",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Nevada resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Standard mail/in-person",
+        "date": "2026-10-06",
+        "note": "Passed"
+      },
+      {
+        "label": "Online registration",
+        "date": "2026-11-03",
+        "note": "Available through Election Day"
+      },
+      {
+        "label": "Same-day registration",
+        "date": "2026-11-03",
+        "note": "At the polls on Election Day (provisional ballot)"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote",
+        "value": "https://registertovote.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://registertovote.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://registertovote.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-llc",
+    "name": "Nevada LLC Formation",
+    "agency": "Nevada Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a Nevada LLC online through the Secretary of State's SilverFlume portal. Day-one state costs total $425 ($75 Articles of Organization, $150 Initial List of managers/members, and $200 State Business License); the annual cost is $350.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a Nevada address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Articles of Organization details (name, registered agent)",
+      "Initial List of managers/members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NV Secretary of State",
+        "value": "https://www.sos.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NV Secretary of State — Business",
+        "url": "https://www.sos.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$425 day-one; $350 annually",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-tax-filing",
+    "name": "Nevada Taxes — No Individual Income Tax",
+    "agency": "Nevada Department of Taxation",
+    "category": "Money & Taxes",
+    "description": "Nevada has no individual income tax — there is no state income tax return to file. The Nevada Department of Taxation administers business taxes such as the commerce tax, modified business tax, and sales and use tax.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "No filing required for individuals"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NV Dept. of Taxation",
+        "value": "https://tax.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NV Dept. of Taxation",
+        "url": "https://tax.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-birth-certificate",
+    "name": "Nevada Birth Certificate",
+    "agency": "Nevada Department of Health and Human Services, Office of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of Nevada birth certificates for $25 per copy — online through VitalChek, by mail, or in person.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Vital Records",
+        "value": "775-684-4242"
+      },
+      {
+        "kind": "web",
+        "label": "Vital records",
+        "value": "https://dpbh.nv.gov/vitalrecords/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital records (DPBH)",
+        "url": "https://dpbh.nv.gov/vitalrecords/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 per copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dpbh.nv.gov/vitalrecords/"
+    ]
+  },
+  {
+    "id": "st-nv-tanf",
+    "name": "Nevada TANF (Temporary Assistance for Needy Families)",
+    "agency": "Nevada Department of Health and Human Services, Division of Welfare and Supportive Services (DWSS)",
+    "category": "Health & Benefits",
+    "description": "Nevada's TANF program provides temporary cash assistance to low-income families with children, along with employment support. Apply online through Access Nevada.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Nevada resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWSS",
+        "value": "1-800-992-0900"
+      },
+      {
+        "kind": "web",
+        "label": "Access Nevada",
+        "value": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Access Nevada",
+        "url": "https://accessnevada.dwss.nv.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://accessnevada.dwss.nv.gov"
+    ]
+  },
+  {
+    "id": "st-nv-parks-pass",
+    "name": "Nevada State Parks Annual Permits",
+    "agency": "Nevada Division of State Parks",
+    "category": "Recreation",
+    "description": "Nevada state parks offer an Annual Day Use Permit ($100) and an All Access Permit ($250) covering day use plus camping and other discounts. Buy online through Reserve Nevada.",
+    "scope": {
+      "state": "NV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State Parks",
+        "value": "(775) 684-2770"
+      },
+      {
+        "kind": "web",
+        "label": "Buy a pass",
+        "value": "https://reservenevada.com/NevadaWeb/Passes/AdvancePasses.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a pass (Reserve Nevada)",
+        "url": "https://reservenevada.com/NevadaWeb/Passes/AdvancePasses.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 Annual Day Use / $250 All Access",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://reservenevada.com/NevadaWeb/Passes/AdvancePasses.aspx"
+    ]
+  },
+  {
+    "id": "st-nh-drivers-license",
+    "name": "New Hampshire Driver's License — New & Renewal",
+    "agency": "New Hampshire Division of Motor Vehicles, Department of Safety",
+    "category": "IDs & Records",
+    "description": "The New Hampshire DMV issues driver's licenses and non-driver ID cards. Renew online at nh.gov/dmv or in person at a DMV office; a standard renewal costs about $50.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Hampshire resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and New Hampshire residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "603-227-4000"
+      },
+      {
+        "kind": "phone",
+        "label": "Driver licensing",
+        "value": "603-227-4020"
+      },
+      {
+        "kind": "web",
+        "label": "NH DMV",
+        "value": "https://www.nh.gov/dmv"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH DMV",
+        "url": "https://www.nh.gov/dmv"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "About $50 for a standard renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nh.gov/dmv"
+    ]
+  },
+  {
+    "id": "st-nh-vehicle-registration",
+    "name": "New Hampshire Vehicle Registration & Title",
+    "agency": "New Hampshire Division of Motor Vehicles, Department of Safety",
+    "category": "IDs & Records",
+    "description": "Register vehicles through your town or city clerk's office and the DMV. Renew online with E-Reg, by mail, or in person.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in New Hampshire"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of residency in your town/city"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Registration",
+        "value": "603-227-4030"
+      },
+      {
+        "kind": "web",
+        "label": "NH DMV",
+        "value": "https://www.nh.gov/dmv"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH DMV",
+        "url": "https://www.nh.gov/dmv"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle and municipality",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nh.gov/dmv"
+    ]
+  },
+  {
+    "id": "st-nh-medicaid",
+    "name": "New Hampshire Medicaid",
+    "agency": "New Hampshire Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "New Hampshire Medicaid provides free or low-cost health coverage to eligible residents. Apply online through NH EASY or by phone.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Hampshire resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS",
+        "value": "1-844-275-3447"
+      },
+      {
+        "kind": "web",
+        "label": "NH EASY",
+        "value": "https://nheasy.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on NH EASY",
+        "url": "https://nheasy.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://nheasy.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-snap",
+    "name": "New Hampshire SNAP (Food Stamps)",
+    "agency": "New Hampshire Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "New Hampshire SNAP provides monthly food benefits to eligible households. Apply online through NH EASY or by phone.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Hampshire resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS",
+        "value": "1-844-275-3447"
+      },
+      {
+        "kind": "web",
+        "label": "NH EASY",
+        "value": "https://nheasy.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on NH EASY",
+        "url": "https://nheasy.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://nheasy.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-unemployment",
+    "name": "New Hampshire Unemployment Insurance — File a Claim",
+    "agency": "New Hampshire Employment Security (NHES)",
+    "category": "Money & Taxes",
+    "description": "File for New Hampshire unemployment benefits online through the NH Unemployment Insurance System or by phone, then file weekly continued claims.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in New Hampshire",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NHES",
+        "value": "603-271-7700"
+      },
+      {
+        "kind": "web",
+        "label": "File for benefits",
+        "value": "https://nhuis.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File for benefits (NHUIS)",
+        "url": "https://nhuis.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://nhuis.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-voter-registration",
+    "name": "New Hampshire Voter Registration",
+    "agency": "New Hampshire Secretary of State",
+    "category": "IDs & Records",
+    "description": "New Hampshire does not offer online voter registration. Register in person at your town or city clerk's office, or same-day at the polls on Election Day, November 3, 2026, with ID and proof of domicile.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "New Hampshire resident (domiciled)",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Same-day registration",
+        "date": "2026-11-03",
+        "note": "Register at the polls on Election Day with ID and proof of domicile"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [
+      "Photo ID and proof of domicile"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NH elections",
+        "value": "https://www.sos.nh.gov/elections"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH elections info",
+        "url": "https://www.sos.nh.gov/elections"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nh.gov/elections"
+    ]
+  },
+  {
+    "id": "st-nh-llc",
+    "name": "New Hampshire LLC Formation",
+    "agency": "New Hampshire Secretary of State, Corporation Division",
+    "category": "Business & Work",
+    "description": "Form a New Hampshire LLC by filing a Certificate of Formation — $100 by mail or $102 online through NH QuickStart. Annual reports are $100, due April 1.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a New Hampshire address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Certificate of Formation details (name, registered agent, managers/members)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NH Secretary of State",
+        "value": "https://www.sos.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH Secretary of State — Corporations",
+        "url": "https://www.sos.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 ($102 online)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-tax-filing",
+    "name": "New Hampshire Taxes — No Individual Income Tax",
+    "agency": "New Hampshire Department of Revenue Administration",
+    "category": "Money & Taxes",
+    "description": "New Hampshire has no individual income tax — the Interest and Dividends tax was repealed effective January 1, 2025, so there is no state income tax return to file.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "No filing required for individuals"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Dept. of Revenue Administration",
+        "value": "https://www.revenue.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Dept. of Revenue Administration",
+        "url": "https://www.revenue.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.revenue.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-professional-licensing",
+    "name": "New Hampshire Professional Licensing",
+    "agency": "New Hampshire Office of Professional Licensure and Certification (OPLC)",
+    "category": "Business & Work",
+    "description": "OPLC oversees licensing for dozens of New Hampshire professions, from health care to real estate. Apply for and renew licenses online through the OPLC application portal.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "OPLC",
+        "value": "https://www.oplc.nh.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "OPLC office",
+        "value": "7 Eagle Square, Concord, NH 03301"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OPLC",
+        "url": "https://www.oplc.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.oplc.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-birth-certificate",
+    "name": "New Hampshire Birth Certificate",
+    "agency": "New Hampshire Department of State, Division of Vital Records Administration",
+    "category": "IDs & Records",
+    "description": "Order certified copies of New Hampshire birth certificates — $15 for the first copy and $10 for each additional copy — by mail, phone, or in person.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "603-271-4654"
+      },
+      {
+        "kind": "web",
+        "label": "NH Secretary of State",
+        "value": "https://www.sos.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NH Secretary of State — Vital Records",
+        "url": "https://www.sos.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 first copy; $10 each additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-tanf",
+    "name": "New Hampshire Financial Assistance to Needy Families (FANF)",
+    "agency": "New Hampshire Department of Health and Human Services (DHHS)",
+    "category": "Health & Benefits",
+    "description": "Financial Assistance to Needy Families (FANF) is New Hampshire's TANF cash assistance program for low-income families. Apply online through NH EASY or at a DHHS district office.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Hampshire resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DHHS",
+        "value": "1-844-275-3447"
+      },
+      {
+        "kind": "web",
+        "label": "NH EASY",
+        "value": "https://nheasy.nh.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on NH EASY",
+        "url": "https://nheasy.nh.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://nheasy.nh.gov"
+    ]
+  },
+  {
+    "id": "st-nh-parks-pass",
+    "name": "New Hampshire State Parks Season Pass",
+    "agency": "New Hampshire Division of Parks and Recreation",
+    "category": "Recreation",
+    "description": "A New Hampshire state parks season pass covers day-use entry for a full year — $60 for an individual, $105 for a resident family, or $120 for a non-resident family. Buy online or at a park.",
+    "scope": {
+      "state": "NH",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State Parks",
+        "value": "603-271-3556"
+      },
+      {
+        "kind": "web",
+        "label": "Buy or renew a season pass",
+        "value": "https://www.nhstateparks.org/fees-reservations/buy-or-renew-a-season-pass/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy or renew a season pass",
+        "url": "https://www.nhstateparks.org/fees-reservations/buy-or-renew-a-season-pass/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$60 individual / $105 resident family / $120 non-resident family",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nhstateparks.org/fees-reservations/buy-or-renew-a-season-pass/"
+    ]
+  },
+  {
+    "id": "st-nj-drivers-license",
+    "name": "New Jersey Driver's License — New & Renewal",
+    "agency": "New Jersey Motor Vehicle Commission",
+    "category": "IDs & Records",
+    "description": "The NJ Motor Vehicle Commission issues driver's licenses, valid for four years. Renew online, by mail, or in person at an MVC agency; a standard renewal costs about $24.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Jersey resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "6-point ID verification documents",
+      "Proof of address",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVC",
+        "value": "(609) 292-6500"
+      },
+      {
+        "kind": "web",
+        "label": "NJ MVC",
+        "value": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ Motor Vehicle Commission",
+        "url": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "About $24 for a four-year renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nj.gov/mvc/"
+    ]
+  },
+  {
+    "id": "st-nj-vehicle-registration",
+    "name": "New Jersey Vehicle Registration & Title",
+    "agency": "New Jersey Motor Vehicle Commission",
+    "category": "IDs & Records",
+    "description": "Renew vehicle registrations online through the MVC website or in person at an MVC agency. Titles and new registrations are handled at MVC agencies.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in New Jersey"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance",
+      "Driver's license"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVC",
+        "value": "(609) 292-6500"
+      },
+      {
+        "kind": "web",
+        "label": "NJ MVC",
+        "value": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NJ Motor Vehicle Commission",
+        "url": "https://www.nj.gov/mvc/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nj.gov/mvc/"
+    ]
+  },
+  {
+    "id": "st-nj-medicaid",
+    "name": "NJ FamilyCare (New Jersey Medicaid)",
+    "agency": "New Jersey Department of Human Services",
+    "category": "Health & Benefits",
+    "description": "NJ FamilyCare is New Jersey's Medicaid and CHIP program, providing free or low-cost health coverage to eligible children and adults. Apply online or by phone.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Jersey resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJ FamilyCare",
+        "value": "1-800-701-0710"
+      },
+      {
+        "kind": "web",
+        "label": "NJ FamilyCare",
+        "value": "https://www.njfamilycare.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at NJ FamilyCare",
+        "url": "https://www.njfamilycare.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.njfamilycare.org"
+    ]
+  },
+  {
+    "id": "st-nj-snap",
+    "name": "New Jersey SNAP",
+    "agency": "New Jersey Department of Human Services",
+    "category": "Health & Benefits",
+    "description": "NJ SNAP provides monthly food benefits to eligible households on a Families First EBT card. Apply online at njsnap.gov or through your county board of social services.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Jersey resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "NJ SNAP",
+        "value": "1-800-687-9512"
+      },
+      {
+        "kind": "web",
+        "label": "Apply online",
+        "value": "https://www.njsnap.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at njsnap.gov",
+        "url": "https://www.njsnap.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.njsnap.gov"
+    ]
+  },
+  {
+    "id": "st-nj-unemployment",
+    "name": "New Jersey Unemployment Insurance — File a Claim",
+    "agency": "New Jersey Department of Labor and Workforce Development",
+    "category": "Money & Taxes",
+    "description": "File for New Jersey unemployment benefits online at myunemployment.nj.gov, then certify for weekly benefits to keep receiving payments. Contact the Department of Labor through its online contact form.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in New Jersey",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Contact the Division (online form)",
+        "value": "https://www.myunemployment.nj.gov/help/contact-us/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File / contact (myunemployment.nj.gov)",
+        "url": "https://www.myunemployment.nj.gov/help/contact-us/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.myunemployment.nj.gov/help/contact-us/"
+    ]
+  },
+  {
+    "id": "st-nj-voter-registration",
+    "name": "New Jersey Voter Registration",
+    "agency": "New Jersey Department of State, Division of Elections",
+    "category": "IDs & Records",
+    "description": "Register to vote in New Jersey online, by mail, or in person. The registration deadline for the November 3, 2026 general election is October 13, 2026.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "New Jersey resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 general)",
+        "date": "2026-10-13",
+        "note": "Online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [
+      "NJ driver's license or non-driver ID number (or last 4 of SSN)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote",
+        "value": "https://vote.nj.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at vote.nj.gov",
+        "url": "https://vote.nj.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://vote.nj.gov"
+    ]
+  },
+  {
+    "id": "st-nj-llc",
+    "name": "New Jersey LLC Formation",
+    "agency": "New Jersey Division of Revenue and Enterprise Services (DORES), Department of the Treasury",
+    "category": "Business & Work",
+    "description": "Form a New Jersey LLC by filing a Certificate of Formation online through NJ Business Gateway Services — $100. Annual reports are $75, due by the last day of the LLC's formation month each year.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a New Jersey address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Certificate of Formation details (name, registered agent, business purpose)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DORES",
+        "value": "https://www.nj.gov/treasury/revenue/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (Business Gateway Services)",
+        "url": "https://www.njportal.com/DOR/BusinessFormation/Home/Welcome"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 filing fee",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.njportal.com/DOR/BusinessFormation/Home/Welcome",
+      "https://www.fbm.com/joseph-i-hilliard/publications/nonprofit-quick-tip-registration-in-new-york-and-new-jersey/"
+    ]
+  },
+  {
+    "id": "st-nj-tax-filing",
+    "name": "New Jersey Gross Income Tax Filing",
+    "agency": "New Jersey Division of Taxation",
+    "category": "Money & Taxes",
+    "description": "File your New Jersey Gross Income Tax return online for free through NJ Online Filing. Questions? Call the automated tax information line at 1-800-323-4400.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Jersey resident, part-year resident, or nonresident with New Jersey income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "New Jersey returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Taxation (Trenton)",
+        "value": "609-292-6400"
+      },
+      {
+        "kind": "phone",
+        "label": "Automated tax info",
+        "value": "1-800-323-4400"
+      },
+      {
+        "kind": "web",
+        "label": "Filing information",
+        "value": "https://www.nj.gov/treasury/taxation/gitforms.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File / forms (Division of Taxation)",
+        "url": "https://www.nj.gov/treasury/taxation/gitforms.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free through NJ Online Filing",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nj.gov/treasury/taxation/gitforms.shtml"
+    ]
+  },
+  {
+    "id": "st-nj-professional-licensing",
+    "name": "New Jersey Professional Licensing",
+    "agency": "New Jersey Division of Consumer Affairs",
+    "category": "Business & Work",
+    "description": "The Division of Consumer Affairs licenses and regulates dozens of New Jersey professions, from health care to cosmetology. Apply for and renew licenses online through the MyLicense portal.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Consumer Affairs",
+        "value": "(973) 504-6200"
+      },
+      {
+        "kind": "phone",
+        "label": "Consumer Affairs (toll-free)",
+        "value": "(800) 242-5846"
+      },
+      {
+        "kind": "web",
+        "label": "Licensing boards",
+        "value": "https://www.njconsumeraffairs.gov/Pages/licensingboards.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MyLicense portal",
+        "url": "https://newjersey.mylicense.com/eGov/Login.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.njconsumeraffairs.gov/Pages/licensingboards.aspx"
+    ]
+  },
+  {
+    "id": "st-nj-birth-certificate",
+    "name": "New Jersey Birth Certificate",
+    "agency": "New Jersey Department of Health, Office of Vital Statistics and Registry",
+    "category": "IDs & Records",
+    "description": "Order certified copies of New Jersey birth certificates — $25 for the initial copy and $2 for each additional copy. Order online through VitalChek, by mail, or in person at 140 E. Front Street, Trenton.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VitalChek ordering",
+        "value": "877-622-7549"
+      },
+      {
+        "kind": "web",
+        "label": "Vital statistics",
+        "value": "https://www.nj.gov/health/vital/index.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital statistics (NJ Dept. of Health)",
+        "url": "https://www.nj.gov/health/vital/index.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 initial copy; $2 each additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nj.gov/health/vital/index.shtml"
+    ]
+  },
+  {
+    "id": "st-nj-tanf",
+    "name": "WorkFirst New Jersey (WFNJ)",
+    "agency": "New Jersey Department of Human Services",
+    "category": "Health & Benefits",
+    "description": "WorkFirst New Jersey is the state's TANF program, providing temporary cash assistance and employment services to low-income families. Apply online through MyNJHelps or in person at your county board of social services.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Jersey resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WFNJ hotline",
+        "value": "1-800-792-9773"
+      },
+      {
+        "kind": "web",
+        "label": "NJHelps",
+        "value": "https://www.njhelps.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Screen & apply (NJHelps)",
+        "url": "https://www.njhelps.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.njhelps.gov",
+      "https://acf.gov/ofa/map/help-families"
+    ]
+  },
+  {
+    "id": "st-nj-parks-pass",
+    "name": "New Jersey State Parks & Forests Passport",
+    "agency": "New Jersey Department of Environmental Protection, Division of Parks and Forestry",
+    "category": "Recreation",
+    "description": "New Jersey state parks and forests are free to enter for residents 62 and older, people with total disabilities, and active New Jersey National Guard members; other parks may charge entrance fees, with annual passes available.",
+    "scope": {
+      "state": "NJ",
+      "level": "state"
+    },
+    "eligibility": [
+      "Free entry for NJ residents 62+, totally disabled persons, and active NJ National Guard"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Parks passport info",
+        "value": "http://dep.nj.gov/parksandforests/get-outside/passport/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Parks passport info (DEP)",
+        "url": "http://dep.nj.gov/parksandforests/get-outside/passport/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for NJ residents 62+, totally disabled, and active National Guard",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://dep.nj.gov/parksandforests/get-outside/passport/"
+    ]
+  },
+  {
+    "id": "st-nm-drivers-license",
+    "name": "New Mexico Driver's License — New & Renewal",
+    "agency": "New Mexico Motor Vehicle Division (MVD)",
+    "category": "IDs & Records",
+    "description": "The New Mexico MVD issues driver's licenses — $18 for four years or $34 for eight years. Renew online at mvdonline.com or in person at an MVD office.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "U.S. citizen or lawful presence for a license"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, Social Security number, and New Mexico residency",
+      "Current license if renewing"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVD (888-MVDINFO)",
+        "value": "888-683-4636"
+      },
+      {
+        "kind": "web",
+        "label": "NM MVD",
+        "value": "https://mvd.newmexico.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NM MVD",
+        "url": "https://mvd.newmexico.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$18 (4-year) / $34 (8-year)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mvd.newmexico.gov"
+    ]
+  },
+  {
+    "id": "st-nm-vehicle-registration",
+    "name": "New Mexico Vehicle Registration & Title",
+    "agency": "New Mexico Motor Vehicle Division (MVD)",
+    "category": "IDs & Records",
+    "description": "Register vehicles and renew registrations online, by phone, or in person through the New Mexico MVD.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owner registering in New Mexico"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Title or current registration",
+      "Proof of insurance"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "MVD (888-MVDINFO)",
+        "value": "888-683-4636"
+      },
+      {
+        "kind": "web",
+        "label": "NM MVD",
+        "value": "https://mvd.newmexico.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NM MVD",
+        "url": "https://mvd.newmexico.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mvd.newmexico.gov"
+    ]
+  },
+  {
+    "id": "st-nm-medicaid",
+    "name": "Centennial Care (New Mexico Medicaid)",
+    "agency": "New Mexico Health Care Authority (HCA)",
+    "category": "Health & Benefits",
+    "description": "Centennial Care is New Mexico's Medicaid program, providing health coverage to eligible residents through managed care organizations. Apply online through Yes New Mexico.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "U.S. citizen or qualifying non-citizen",
+      "Meet income limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA",
+        "value": "1-800-283-4465"
+      },
+      {
+        "kind": "web",
+        "label": "Yes New Mexico",
+        "value": "https://www.yes.state.nm.us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Yes New Mexico",
+        "url": "https://www.yes.state.nm.us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yes.state.nm.us"
+    ]
+  },
+  {
+    "id": "st-nm-snap",
+    "name": "New Mexico SNAP",
+    "agency": "New Mexico Health Care Authority, Income Support Division",
+    "category": "Health & Benefits",
+    "description": "New Mexico SNAP provides monthly food benefits to eligible households. Apply online through Yes New Mexico or at a local Income Support Division office.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA",
+        "value": "1-800-283-4465"
+      },
+      {
+        "kind": "web",
+        "label": "Yes New Mexico",
+        "value": "https://www.yes.state.nm.us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Yes New Mexico",
+        "url": "https://www.yes.state.nm.us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yes.state.nm.us"
+    ]
+  },
+  {
+    "id": "st-nm-unemployment",
+    "name": "New Mexico Unemployment Insurance — File a Claim",
+    "agency": "New Mexico Department of Workforce Solutions",
+    "category": "Money & Taxes",
+    "description": "File for New Mexico unemployment benefits online through the Department of Workforce Solutions, then certify weekly to keep receiving payments.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned qualifying wages in New Mexico",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and employment dates",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Unemployment Insurance",
+        "value": "1-877-664-6984"
+      },
+      {
+        "kind": "web",
+        "label": "Dept. of Workforce Solutions",
+        "value": "https://www.dws.state.nm.us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim (DWS)",
+        "url": "https://www.dws.state.nm.us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dws.state.nm.us"
+    ]
+  },
+  {
+    "id": "st-nm-voter-registration",
+    "name": "New Mexico Voter Registration",
+    "agency": "New Mexico Secretary of State",
+    "category": "IDs & Records",
+    "description": "New Mexico's regular voter registration deadline for the November 3, 2026 general election was October 6, 2026 — but same-day registration is available during early voting and on Election Day.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "New Mexico resident",
+      "At least 18 by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Regular registration",
+        "date": "2026-10-06",
+        "note": "Passed"
+      },
+      {
+        "label": "Same-day registration",
+        "date": "2026-11-03",
+        "note": "Available during early voting and on Election Day"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NMVote.org",
+        "value": "https://www.nmvote.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "NMVote.org",
+        "url": "https://www.nmvote.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nmvote.org"
+    ]
+  },
+  {
+    "id": "st-nm-llc",
+    "name": "New Mexico LLC Formation",
+    "agency": "New Mexico Secretary of State",
+    "category": "Business & Work",
+    "description": "Form a New Mexico LLC by filing Articles of Organization online with the Secretary of State for $50. New Mexico has no annual report requirement for LLCs.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "Available business name",
+      "Registered agent with a New Mexico address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Articles of Organization details (name, registered agent, organizers)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "NM Secretary of State",
+        "value": "https://enterprise.sos.nm.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (NM SOS)",
+        "url": "https://enterprise.sos.nm.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 online",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://enterprise.sos.nm.gov"
+    ]
+  },
+  {
+    "id": "st-nm-tax-filing",
+    "name": "New Mexico Personal Income Tax Filing",
+    "agency": "New Mexico Taxation and Revenue Department",
+    "category": "Money & Taxes",
+    "description": "File your New Mexico Personal Income Tax return (PIT-1) for free online through the Taxation and Revenue Department's Taxpayer Access Point (TAP).",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Mexico resident, part-year resident, or nonresident with New Mexico income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual return due",
+        "date": null,
+        "note": "New Mexico individual returns are due April 15 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal tax return"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Taxation and Revenue",
+        "value": "1-866-285-2996"
+      },
+      {
+        "kind": "web",
+        "label": "Online services",
+        "value": "https://tax.newmexico.gov/online-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Online services (TAP)",
+        "url": "https://tax.newmexico.gov/online-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free e-file through TAP",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.newmexico.gov/online-services/"
+    ]
+  },
+  {
+    "id": "st-nm-professional-licensing",
+    "name": "New Mexico Professional Licensing",
+    "agency": "New Mexico Regulation and Licensing Department",
+    "category": "Business & Work",
+    "description": "New Mexico's Regulation and Licensing Department oversees licensing for dozens of professions and trades. Apply for and renew licenses online through the RLD licensing portal.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meet the education, exam, and experience requirements of your profession"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Regulation and Licensing Dept.",
+        "value": "https://www.rld.nm.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "RLD online licensing portal",
+        "url": "https://nmrldlpi.my.site.com/bcd/s/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.rld.nm.gov"
+    ]
+  },
+  {
+    "id": "st-nm-birth-certificate",
+    "name": "New Mexico Birth Certificate",
+    "agency": "New Mexico Department of Health, Bureau of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order certified copies of New Mexico birth certificates for $10 per copy — online through VitalChek, by mail to P.O. Box 25767, Albuquerque NM 87125, or in person.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the record, immediate family, or legal representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Birth record details (name, date and place of birth, parents' names)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Bureau of Vital Records",
+        "value": "1-866-534-0051"
+      }
+    ],
+    "applyLinks": [],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 per copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.nmhealth.org/about/vsd/"
+    ]
+  },
+  {
+    "id": "st-nm-tanf",
+    "name": "New Mexico TANF (Temporary Assistance for Needy Families)",
+    "agency": "New Mexico Health Care Authority, Income Support Division",
+    "category": "Health & Benefits",
+    "description": "New Mexico's TANF program provides temporary cash assistance to low-income families with children, along with employment support. Apply online through Yes New Mexico.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "New Mexico resident",
+      "Family with dependent children",
+      "Meet income and asset limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity, income, and residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "HCA",
+        "value": "1-800-283-4465"
+      },
+      {
+        "kind": "web",
+        "label": "Yes New Mexico",
+        "value": "https://www.yes.state.nm.us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Yes New Mexico",
+        "url": "https://www.yes.state.nm.us"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yes.state.nm.us"
+    ]
+  },
+  {
+    "id": "st-nm-parks-pass",
+    "name": "New Mexico State Parks Annual Day-Use Pass",
+    "agency": "New Mexico State Parks Division, Energy, Minerals and Natural Resources Department",
+    "category": "Recreation",
+    "description": "The New Mexico State Parks Annual Day-Use Pass covers day-use entry to all state parks for a full year — $75 for residents or $150 for non-residents. Buy online or at a park.",
+    "scope": {
+      "state": "NM",
+      "level": "state"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State Parks",
+        "value": "1-888-667-2757"
+      },
+      {
+        "kind": "web",
+        "label": "Fees & permits",
+        "value": "https://www.emnrd.nm.gov/spd/fees-permits/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Fees & permits (EMNRD)",
+        "url": "https://www.emnrd.nm.gov/spd/fees-permits/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$75 resident / $150 non-resident",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.emnrd.nm.gov/spd/fees-permits/"
+    ]
+  }
+]

@@ -1,0 +1,5533 @@
+[
+  {
+    "id": "st-al-drivers-license",
+    "name": "Alabama Driver License — New & Renewal",
+    "agency": "Alabama Law Enforcement Agency (ALEA) — Driver License Division",
+    "category": "IDs & Records",
+    "description": "Apply for a new Alabama driver license or renew an existing one. ALEA offers online renewal every other cycle for eligible drivers.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Valid Social Security number"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Alabama residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online services",
+        "value": "https://www.alabamainteractive.org/dl_renewal/welcome.action"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew or replace online",
+        "url": "https://www.alabamainteractive.org/dl_renewal/welcome.action"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$36.25 per renewal cycle",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.alabamainteractive.org/dl_renewal/welcome.action"
+    ]
+  },
+  {
+    "id": "st-al-vehicle-registration",
+    "name": "Alabama Vehicle Registration & Title",
+    "agency": "Alabama Department of Revenue — Motor Vehicle Division",
+    "category": "Transportation",
+    "description": "Register and title your vehicle at your county's License Plate Issuing Office. Alabama requires proof of liability insurance to register a vehicle.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by an Alabama resident",
+      "Alabama liability insurance in force"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Alabama driver license or state ID"
+    ],
+    "whatToBring": [
+      "Alabama driver license",
+      "Proof of liability insurance",
+      "Vehicle title or bill of sale"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Where to register",
+        "value": "https://www.revenue.alabama.gov/faqs/where-do-i-go-to-register-my-motor-vehicle-in-alabama/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Registration information",
+        "url": "https://www.revenue.alabama.gov/faqs/where-do-i-go-to-register-my-motor-vehicle-in-alabama/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle (ad valorem tax plus registration fee)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.revenue.alabama.gov/faqs/where-do-i-go-to-register-my-motor-vehicle-in-alabama/"
+    ]
+  },
+  {
+    "id": "st-al-medicaid",
+    "name": "Alabama Medicaid",
+    "agency": "Alabama Medicaid Agency",
+    "category": "Health",
+    "description": "Alabama Medicaid provides health coverage for eligible low-income residents, including children, pregnant women, seniors, and people with disabilities.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Low-income household or qualifying category (child, pregnant woman, senior, disability)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number for each applicant"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply and member information",
+        "value": "https://medicaid.alabama.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-362-1504"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Medicaid",
+        "url": "https://medicaid.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://medicaid.alabama.gov/"
+    ]
+  },
+  {
+    "id": "st-al-snap",
+    "name": "Alabama SNAP (Food Stamps)",
+    "agency": "Alabama Department of Human Resources (DHR)",
+    "category": "Food & Nutrition",
+    "description": "SNAP provides monthly food benefits on an EBT card for eligible Alabama households. Apply online through the MyDHR portal.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Alabama resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security numbers for household members"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income",
+      "Proof of rent or utility expenses"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply online (MyDHR)",
+        "value": "https://mydhr.alabama.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Customer service",
+        "value": "1-833-822-2202"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP online",
+        "url": "https://mydhr.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mydhr.alabama.gov/"
+    ]
+  },
+  {
+    "id": "st-al-unemployment-insurance",
+    "name": "Alabama Unemployment Insurance — File a Claim",
+    "agency": "Alabama Department of Labor",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits if you lost work through no fault of your own.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history for the last 18 months"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Claimant portal",
+        "value": "https://uiclaimantportal.labor.alabama.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Claim assistance",
+        "value": "1-866-234-5382"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-361-4524"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://uiclaimantportal.labor.alabama.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://uiclaimantportal.labor.alabama.gov"
+    ]
+  },
+  {
+    "id": "st-al-voter-registration",
+    "name": "Alabama Voter Registration",
+    "agency": "Alabama Secretary of State",
+    "category": "Civic Participation",
+    "description": "Register to vote or update your registration online with the Alabama Secretary of State.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Alabama resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the 2026-11-03 general election",
+        "date": "2026-10-19",
+        "note": "Alabama closes registration 15 days before the election"
+      }
+    ],
+    "prerequisites": [
+      "Valid Alabama driver license or state ID for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote",
+        "value": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register or update online",
+        "url": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+    ]
+  },
+  {
+    "id": "st-al-business-registration",
+    "name": "Alabama Business Registration / LLC Formation",
+    "agency": "Alabama Secretary of State",
+    "category": "Business",
+    "description": "Register a business entity or form an LLC with the Alabama Secretary of State.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name distinguishable on state records",
+      "Registered agent with an Alabama address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Alabama address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business services",
+        "value": "https://www.sos.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity online",
+        "url": "https://www.sos.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.alabama.gov/"
+    ]
+  },
+  {
+    "id": "st-al-tax-filing",
+    "name": "Alabama Individual Income Tax Filing",
+    "agency": "Alabama Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Alabama individual income tax return and make payments through the My Alabama Taxes portal.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Alabama resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "My Alabama Taxes",
+        "value": "https://www.myalabamataxes.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File or pay online",
+        "url": "https://www.myalabamataxes.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.myalabamataxes.alabama.gov/"
+    ]
+  },
+  {
+    "id": "st-al-birth-certificate",
+    "name": "Alabama Birth Certificate",
+    "agency": "Alabama Department of Public Health — Center for Health Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Alabama birth certificate online, by mail, or in person. Phone orders go through VitalChek.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Birth certificate information",
+        "value": "http://www.alabamapublichealth.gov/vitalrecords/birth-certificates.html"
+      },
+      {
+        "kind": "phone",
+        "label": "VitalChek phone orders",
+        "value": "1-888-279-9888"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mail requests",
+        "value": "PO Box 5625, Montgomery, AL 36103-5625"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order options",
+        "url": "http://www.alabamapublichealth.gov/vitalrecords/birth-certificates.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 for the first copy, $6 per additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://www.alabamapublichealth.gov/vitalrecords/birth-certificates.html"
+    ]
+  },
+  {
+    "id": "st-al-tanf",
+    "name": "Alabama Family Assistance (TANF)",
+    "agency": "Alabama Department of Human Resources (DHR)",
+    "category": "Jobs & Benefits",
+    "description": "Alabama Family Assistance provides temporary monthly cash assistance to eligible low-income families with children.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Alabama resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Child's birth certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program information",
+        "value": "https://dhr.alabama.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through DHR",
+        "url": "https://dhr.alabama.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhr.alabama.gov/"
+    ]
+  },
+  {
+    "id": "st-al-parks-pass",
+    "name": "Alabama State Parks — Dirt Pass Trail Crew",
+    "agency": "Alabama Department of Conservation and Natural Resources — State Parks Division",
+    "category": "Parks & Recreation",
+    "description": "Support Alabama's trail system with the Dirt Pass Trail Crew membership — a year-long trail program with member perks.",
+    "scope": {
+      "state": "AL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone who wants to support Alabama State Parks trails"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Dirt Pass Trail Crew",
+        "value": "http://www.Alapark.com/trails/dirt-pass-trail-crew-program"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Join the Trail Crew",
+        "url": "http://www.Alapark.com/trails/dirt-pass-trail-crew-program"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$35 per year",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "http://www.Alapark.com/trails/dirt-pass-trail-crew-program"
+    ]
+  },
+  {
+    "id": "st-ar-drivers-license",
+    "name": "Arkansas Driver License — New & Renewal",
+    "agency": "Arkansas Department of Finance and Administration — Office of Driver Services",
+    "category": "IDs & Records",
+    "description": "Apply for a new Arkansas driver license or renew online through the MyDMV portal.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Arkansas resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Valid Social Security number"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Arkansas residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyDMV",
+        "value": "https://dfa.arkansas.gov/office/mydmv/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver services online",
+        "url": "https://dfa.arkansas.gov/office/mydmv/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfa.arkansas.gov/office/mydmv/"
+    ]
+  },
+  {
+    "id": "st-ar-vehicle-registration",
+    "name": "Arkansas Vehicle Registration & Title",
+    "agency": "Arkansas Department of Finance and Administration — Office of Motor Vehicle",
+    "category": "Transportation",
+    "description": "Register or renew your vehicle registration and license plates. New residents must register their vehicles within 60 days of moving to Arkansas. ARSTAR enables online tag renewal.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by an Arkansas resident",
+      "Registration within 60 days for new residents"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Arkansas driver license",
+      "Proof of insurance",
+      "Vehicle title or bill of sale"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyDMV",
+        "value": "https://dfa.arkansas.gov/office/mydmv/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle services online",
+        "url": "https://dfa.arkansas.gov/office/mydmv/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle weight and type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfa.arkansas.gov/office/mydmv/"
+    ]
+  },
+  {
+    "id": "st-ar-medicaid",
+    "name": "Arkansas Medicaid",
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "category": "Health",
+    "description": "Arkansas Medicaid provides health coverage for eligible low-income residents, including children, pregnant women, seniors, and people with disabilities.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Arkansas resident",
+      "Low-income household or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for services",
+        "value": "https://humanservices.arkansas.gov/apply-for-services/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Medicaid",
+        "url": "https://humanservices.arkansas.gov/apply-for-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://humanservices.arkansas.gov/apply-for-services/"
+    ]
+  },
+  {
+    "id": "st-ar-snap",
+    "name": "Arkansas SNAP",
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through Arkansas's Access Arkansas online portal.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Arkansas resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Access Arkansas",
+        "value": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online",
+        "url": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://access.arkansas.gov/Learn/Home"
+    ]
+  },
+  {
+    "id": "st-ar-unemployment-insurance",
+    "name": "Arkansas Unemployment Insurance — File a Claim",
+    "agency": "Arkansas Division of Workforce Services",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits if you lost work through no fault of your own.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Claimant services",
+        "value": "https://dws.arkansas.gov/workforce-services/unemployment/"
+      },
+      {
+        "kind": "phone",
+        "label": "UI hotline",
+        "value": "1-844-908-2178"
+      },
+      {
+        "kind": "phone",
+        "label": "Arkline",
+        "value": "501-907-2590"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://dws.arkansas.gov/workforce-services/unemployment/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dws.arkansas.gov/workforce-services/unemployment/"
+    ]
+  },
+  {
+    "id": "st-ar-voter-registration",
+    "name": "Arkansas Voter Registration",
+    "agency": "Arkansas Secretary of State",
+    "category": "Civic Participation",
+    "description": "Arkansas does not offer online voter registration — complete a paper application and mail or deliver it to your county clerk. Check your status at voterview.org.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Arkansas resident",
+      "Age 18 or older by the next general election"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Paper application (no online registration)"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Registration information",
+        "value": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information"
+      },
+      {
+        "kind": "phone",
+        "label": "Elections division",
+        "value": "1-800-482-1127"
+      },
+      {
+        "kind": "web",
+        "label": "Check registration status",
+        "value": "https://www.voterview.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Registration information",
+        "url": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information"
+    ]
+  },
+  {
+    "id": "st-ar-business-registration",
+    "name": "Arkansas Business Registration / LLC Formation",
+    "agency": "Arkansas Secretary of State — Business & Commercial Services (BCS)",
+    "category": "Business",
+    "description": "Register a business entity or form an LLC with the Arkansas Secretary of State's Business & Commercial Services division.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with an Arkansas address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Arkansas address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "New business information",
+        "value": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start a business filing",
+        "url": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business"
+    ]
+  },
+  {
+    "id": "st-ar-tax-filing",
+    "name": "Arkansas Individual Income Tax Filing",
+    "agency": "Arkansas Department of Finance and Administration",
+    "category": "Money & Taxes",
+    "description": "File your Arkansas individual income tax return. Note: individual income tax returns cannot be filed on ATAP — e-file through an IRS-authorized provider or file by mail; use ATAP for payments and refunds.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Arkansas resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Taxpayer online services",
+        "value": "https://www.dfa.arkansas.gov/online-services/taxpayers/"
+      },
+      {
+        "kind": "web",
+        "label": "ATAP payments and refunds",
+        "value": "https://atap.arkansas.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Taxpayer hotline",
+        "value": "(501) 682-1100"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "(800) 882-9275"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Taxpayer online services",
+        "url": "https://www.dfa.arkansas.gov/online-services/taxpayers/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to e-file through providers; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dfa.arkansas.gov/online-services/taxpayers/"
+    ]
+  },
+  {
+    "id": "st-ar-birth-certificate",
+    "name": "Arkansas Birth Certificate",
+    "agency": "Arkansas Department of Health — Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Arkansas birth certificate online, by mail, or in person at the Little Rock office.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Order birth records",
+        "value": "https://www.healthy.arkansas.gov/programs-services/topics/order-birth-records"
+      },
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "(501) 661-2134"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "4815 W Markham St, Little Rock, AR 72205"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a birth record",
+        "url": "https://www.healthy.arkansas.gov/programs-services/topics/order-birth-records"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$12 for the first copy, $10 per additional copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.healthy.arkansas.gov/programs-services/topics/order-birth-records"
+    ]
+  },
+  {
+    "id": "st-ar-tanf",
+    "name": "Arkansas Transitional Employment Assistance (TEA)",
+    "agency": "Arkansas Department of Human Services (DHS)",
+    "category": "Jobs & Benefits",
+    "description": "Arkansas's TEA program — the state's TANF program — provides temporary cash assistance to eligible low-income families with children.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Arkansas resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Child's birth certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Access Arkansas",
+        "value": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online",
+        "url": "https://access.arkansas.gov/Learn/Home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://access.arkansas.gov/Learn/Home"
+    ]
+  },
+  {
+    "id": "st-ar-parks-pass",
+    "name": "Arkansas State Parks Passport Program",
+    "agency": "Arkansas Department of Parks, Heritage and Tourism — Division of State Parks",
+    "category": "Parks & Recreation",
+    "description": "Arkansas's 52 state parks charge no entry fees. The free Passport Program lets you track visits and earn recognition at parks statewide.",
+    "scope": {
+      "state": "AR",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting Arkansas state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "State parks",
+        "value": "https://www.arkansasstateparks.com/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-888-287-2757"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Explore state parks",
+        "url": "https://www.arkansasstateparks.com/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — no park entry fees",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.arkansasstateparks.com/"
+    ]
+  },
+  {
+    "id": "st-ca-drivers-license",
+    "name": "California Driver License — New & Renewal",
+    "agency": "California Department of Motor Vehicles (DMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new California driver license, renew, or upgrade to a REAL ID through the DMV.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "California resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Proofs of California residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver license & ID info (REAL ID)",
+        "value": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Start a driver license application",
+        "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+    ]
+  },
+  {
+    "id": "st-ca-vehicle-registration",
+    "name": "California Vehicle Registration & Title",
+    "agency": "California Department of Motor Vehicles (DMV)",
+    "category": "Transportation",
+    "description": "Renew your vehicle registration, transfer a title, or register a vehicle purchased out of state through the California DMV.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a California resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "California driver license",
+      "Proof of insurance",
+      "Smog certification when required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vehicle registration",
+        "value": "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "1-800-777-0133"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew registration online",
+        "url": "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle value and type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/"
+    ]
+  },
+  {
+    "id": "st-ca-medicaid",
+    "name": "Medi-Cal (California Medicaid)",
+    "agency": "California Department of Health Care Services (DHCS)",
+    "category": "Health",
+    "description": "Medi-Cal is California's Medicaid program, providing free or low-cost health coverage for eligible residents.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "California resident",
+      "Income within program limits or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "How to get care",
+        "value": "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+      },
+      {
+        "kind": "phone",
+        "label": "DHCS",
+        "value": "(916) 552-9200"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Medi-Cal information",
+        "url": "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dhcs.ca.gov/how-to-get-the-care-you-need/"
+    ]
+  },
+  {
+    "id": "st-ca-snap",
+    "name": "CalFresh (California SNAP)",
+    "agency": "California Department of Social Services (CDSS)",
+    "category": "Food & Nutrition",
+    "description": "CalFresh — California's SNAP program — provides monthly food benefits on an EBT card. GetCalFresh.org offers a simple online application.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "California resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (GetCalFresh)",
+        "value": "https://www.getcalfresh.org"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-877-847-3663"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for CalFresh",
+        "url": "https://www.getcalfresh.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.getcalfresh.org"
+    ]
+  },
+  {
+    "id": "st-ca-unemployment-insurance",
+    "name": "California Unemployment Insurance — File a Claim",
+    "agency": "California Employment Development Department (EDD)",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for benefits through the EDD if you lost work through no fault of your own.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for unemployment",
+        "value": "https://edd.ca.gov/en/unemployment/step-2-apply"
+      },
+      {
+        "kind": "phone",
+        "label": "UI assistance",
+        "value": "1-800-300-5616"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://edd.ca.gov/en/unemployment/step-2-apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://edd.ca.gov/en/unemployment/step-2-apply"
+    ]
+  },
+  {
+    "id": "st-ca-voter-registration",
+    "name": "California Voter Registration",
+    "agency": "California Secretary of State",
+    "category": "Civic Participation",
+    "description": "Register to vote online with the California Secretary of State. Conditional same-day registration is also available at vote centers on Election Day.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "California resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the 2026-11-03 general election",
+        "date": "2026-10-19",
+        "note": "Conditional voter registration available in person after this date"
+      }
+    ],
+    "prerequisites": [
+      "California driver license or ID number, or last four digits of SSN for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote",
+        "value": "https://registertovote.ca.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Voter hotline",
+        "value": "(800) 345-8683"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://registertovote.ca.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://registertovote.ca.gov/"
+    ]
+  },
+  {
+    "id": "st-ca-business-registration",
+    "name": "California Business Registration / LLC Formation",
+    "agency": "California Secretary of State",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity through the Secretary of State's bizfile portal.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a California address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Statement of Information due within 90 days of forming an LLC"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and California address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "bizfile online",
+        "value": "https://bizfileonline.sos.ca.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Business entities",
+        "value": "(916) 653-6814"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity",
+        "url": "https://bizfileonline.sos.ca.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$70 LLC Articles of Organization plus $20 Statement of Information within 90 days",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://bizfileonline.sos.ca.gov/"
+    ]
+  },
+  {
+    "id": "st-ca-tax-filing",
+    "name": "California Individual Income Tax Filing (CalFile)",
+    "agency": "California Franchise Tax Board (FTB)",
+    "category": "Money & Taxes",
+    "description": "File your California individual income tax return for free with CalFile, the state's free e-file service.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "California resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Free e-file (CalFile)",
+        "value": "https://www.ca.gov/departments/236/services/1168/"
+      },
+      {
+        "kind": "phone",
+        "label": "FTB",
+        "value": "800-852-5711"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File free with CalFile",
+        "url": "https://www.ca.gov/departments/236/services/1168/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ca.gov/departments/236/services/1168/"
+    ]
+  },
+  {
+    "id": "st-ca-professional-licensing",
+    "name": "California Professional Licensing (BreEZe)",
+    "agency": "California Department of Consumer Affairs",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional license through BreEZe, the Department of Consumer Affairs' online licensing system covering dozens of boards and bureaus.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Licensing services",
+        "value": "https://www.ca.gov/departments/210/services/1135/"
+      },
+      {
+        "kind": "web",
+        "label": "About BreEZe",
+        "value": "https://dca.ca.gov/breeze/about_breeze.html"
+      },
+      {
+        "kind": "phone",
+        "label": "DCA",
+        "value": "800-952-5210"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "BreEZe online services",
+        "url": "https://www.ca.gov/departments/210/services/1135/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ca.gov/departments/210/services/1135/",
+      "https://dca.ca.gov/breeze/about_breeze.html"
+    ]
+  },
+  {
+    "id": "st-ca-birth-certificate",
+    "name": "California Birth Certificate",
+    "agency": "California Department of Public Health — Vital Records (CDPH-VR)",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a California birth certificate from the state Office of Vital Records or the county recorder where the birth occurred.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Ordering certified copies",
+        "value": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth-Records.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ordering information",
+        "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth-Records.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$31 per copy (2026)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth-Records.aspx"
+    ]
+  },
+  {
+    "id": "st-ca-tanf",
+    "name": "CalWORKs (California TANF)",
+    "agency": "California Department of Social Services (CDSS)",
+    "category": "Jobs & Benefits",
+    "description": "CalWORKs — California's TANF program — provides temporary cash aid and employment services to eligible families with children.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "California resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CalWORKs services",
+        "value": "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CalWORKs information",
+        "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.cdss.ca.gov/inforesources/cdss-programs/calworks/services"
+    ]
+  },
+  {
+    "id": "st-ca-parks-pass",
+    "name": "California State Parks Passes",
+    "agency": "California Department of Parks and Recreation",
+    "category": "Parks & Recreation",
+    "description": "Explorer ($195/yr) and Golden Poppy ($125/yr) passes cover day-use entry at participating California state parks. The Golden Poppy pass can also be purchased through your state tax return using Fund Code 423.",
+    "scope": {
+      "state": "CA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting California state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Parks passes",
+        "value": "https://www.parks.ca.gov/?page_id=1049"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Parks pass options",
+        "url": "https://www.parks.ca.gov/?page_id=1049"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$195/year (Explorer) or $125/year (Golden Poppy)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.parks.ca.gov/?page_id=1049"
+    ]
+  },
+  {
+    "id": "st-co-drivers-license",
+    "name": "Colorado Driver License — New & Renewal",
+    "agency": "Colorado Department of Revenue — Division of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Apply for a new Colorado driver license or renew an existing one through the DMV.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Colorado resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Proof of Colorado residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver license services",
+        "value": "https://dmv.colorado.gov/newcard"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services",
+        "url": "https://dmv.colorado.gov/newcard"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.colorado.gov/newcard"
+    ]
+  },
+  {
+    "id": "st-co-vehicle-registration",
+    "name": "Colorado Vehicle Registration & Title",
+    "agency": "Colorado Department of Revenue — Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Renew your vehicle registration online through myDMV, at a kiosk, or at your county motor vehicle office.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Colorado resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Colorado driver license",
+      "Proof of insurance",
+      "Emissions inspection when required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Registration services",
+        "value": "https://dmv.colorado.gov/registration"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "303.205.5600"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew registration online",
+        "url": "https://dmv.colorado.gov/registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle type and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.colorado.gov/registration"
+    ]
+  },
+  {
+    "id": "st-co-medicaid",
+    "name": "Health First Colorado & Child Health Plan Plus (CHP+)",
+    "agency": "Colorado Department of Health Care Policy & Financing (HCPF)",
+    "category": "Health",
+    "description": "Health First Colorado is Colorado's Medicaid program, with CHP+ covering children and pregnant people; both provide low-cost or free health coverage.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Colorado resident",
+      "Income within program limits or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program information",
+        "value": "https://www.healthfirstcolorado.gov/is-there-an-open-enrollment-period-for-health-first-colorado/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Learn about enrollment",
+        "url": "https://www.healthfirstcolorado.gov/is-there-an-open-enrollment-period-for-health-first-colorado/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.healthfirstcolorado.gov/is-there-an-open-enrollment-period-for-health-first-colorado/"
+    ]
+  },
+  {
+    "id": "st-co-snap",
+    "name": "Colorado SNAP",
+    "agency": "Colorado Department of Human Services",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through Colorado's PEAK online benefits portal.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Colorado resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply on PEAK",
+        "value": "https://colorado.gov/PEAK"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-536-5298"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on PEAK",
+        "url": "https://colorado.gov/PEAK"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://colorado.gov/PEAK"
+    ]
+  },
+  {
+    "id": "st-co-unemployment-insurance",
+    "name": "Colorado Unemployment Insurance — File a Claim",
+    "agency": "Colorado Department of Labor and Employment (CDLE)",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits if you lost work through no fault of your own.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Start a claim",
+        "value": "https://cdle.colorado.gov/ui/claimants/start-a-claim"
+      },
+      {
+        "kind": "phone",
+        "label": "Denver metro",
+        "value": "303-318-9000"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-388-5515"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://cdle.colorado.gov/ui/claimants/start-a-claim"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cdle.colorado.gov/ui/claimants/start-a-claim"
+    ]
+  },
+  {
+    "id": "st-co-voter-registration",
+    "name": "Colorado Voter Registration",
+    "agency": "Colorado Secretary of State",
+    "category": "Civic Participation",
+    "description": "Register to vote online at GoVoteColorado. Register by October 26, 2026 to receive a mail ballot for the general election; in-person registration is available through 7 p.m. on Election Day (2026-11-03).",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Colorado resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for a mail ballot — 2026 general election",
+        "date": "2026-10-26",
+        "note": "In-person registration continues through 7 p.m. on Election Day, 2026-11-03"
+      }
+    ],
+    "prerequisites": [
+      "Colorado driver license or ID number, or last four digits of SSN for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote",
+        "value": "https://www.GoVoteColorado.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://www.GoVoteColorado.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.GoVoteColorado.gov/"
+    ]
+  },
+  {
+    "id": "st-co-business-registration",
+    "name": "Colorado Business Registration / LLC Formation",
+    "agency": "Colorado Secretary of State",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity online through the Secretary of State's business filing system.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a Colorado address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Colorado address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File a business document",
+        "value": "https://www.sos.state.co.us/biz/FileDoc.do"
+      },
+      {
+        "kind": "phone",
+        "label": "Business division",
+        "value": "303-894-2200"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online",
+        "url": "https://www.sos.state.co.us/biz/FileDoc.do"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.state.co.us/biz/FileDoc.do"
+    ]
+  },
+  {
+    "id": "st-co-tax-filing",
+    "name": "Colorado Individual Income Tax Filing",
+    "agency": "Colorado Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Colorado individual income tax return for free through the Department of Revenue's Revenue Online portal.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Colorado resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File online (Revenue Online)",
+        "value": "https://tax.colorado.gov/training/file-individual-income-tax-online"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online",
+        "url": "https://tax.colorado.gov/training/file-individual-income-tax-online"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.colorado.gov/training/file-individual-income-tax-online"
+    ]
+  },
+  {
+    "id": "st-co-professional-licensing",
+    "name": "Colorado Professional & Occupational Licensing",
+    "agency": "Colorado Department of Regulatory Agencies — Division of Professions and Occupations",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional or occupational license through DORA's online licensing system.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Licensing portal",
+        "value": "https://apps2.colorado.gov/DORA/licensing/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Licensing services online",
+        "url": "https://apps2.colorado.gov/DORA/licensing/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apps2.colorado.gov/DORA/licensing/"
+    ]
+  },
+  {
+    "id": "st-co-birth-certificate",
+    "name": "Colorado Birth Certificate",
+    "agency": "Colorado Department of Public Health and Environment (CDPHE) — Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Colorado birth certificate online, by mail, or in person at the Denver office.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vital records",
+        "value": "https://cdphe.colorado.gov/vitalrecords"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "866-632-2604"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "866-300-8540"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order options",
+        "url": "https://cdphe.colorado.gov/vitalrecords"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fee per certificate — see the CDPHE fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cdphe.colorado.gov/vitalrecords"
+    ]
+  },
+  {
+    "id": "st-co-tanf",
+    "name": "Colorado Works (Colorado TANF)",
+    "agency": "Colorado Department of Human Services (CDHS)",
+    "category": "Jobs & Benefits",
+    "description": "Colorado Works provides temporary cash assistance and employment support to eligible families with children.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Colorado resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Colorado Works",
+        "value": "https://cdhs.colorado.gov/colorado-works"
+      },
+      {
+        "kind": "phone",
+        "label": "CDHS",
+        "value": "303-866-5700"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Colorado Works information",
+        "url": "https://cdhs.colorado.gov/colorado-works"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cdhs.colorado.gov/colorado-works"
+    ]
+  },
+  {
+    "id": "st-co-parks-pass",
+    "name": "Colorado State Parks Passes",
+    "agency": "Colorado Parks and Wildlife (CPW)",
+    "category": "Parks & Recreation",
+    "description": "The Keep Colorado Wild pass ($29/yr, added to your vehicle registration) covers entry to all Colorado state parks. Daily entry is also available.",
+    "scope": {
+      "state": "CO",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting Colorado state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Parks passes",
+        "value": "https://cpw.state.co.us/parks-passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Parks pass options",
+        "url": "https://cpw.state.co.us/parks-passes"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$29/year (Keep Colorado Wild); daily $10 resident / $15 out-of-state",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cpw.state.co.us/parks-passes"
+    ]
+  },
+  {
+    "id": "st-ct-drivers-license",
+    "name": "Connecticut Driver License — New & Renewal",
+    "agency": "Connecticut Department of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Apply for a new Connecticut driver license or renew an existing one through the DMV. A standard six-year renewal costs $72.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Connecticut residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV services",
+        "value": "https://portal.ct.gov/dmv/"
+      },
+      {
+        "kind": "web",
+        "label": "DMV fee schedule",
+        "value": "https://portal.ct.gov/dmv/resources/dmv-fees"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services",
+        "url": "https://portal.ct.gov/dmv/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$72 for a 6-year renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/dmv/",
+      "https://portal.ct.gov/dmv/resources/dmv-fees"
+    ]
+  },
+  {
+    "id": "st-ct-vehicle-registration",
+    "name": "Connecticut Vehicle Registration & Title",
+    "agency": "Connecticut Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Renew your vehicle registration online or at a DMV office. Bring proof of insurance and proof that local property taxes are paid.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Connecticut resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Connecticut driver license",
+      "Proof of insurance",
+      "Proof of paid property taxes"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Renew registration",
+        "value": "https://portal.ct.gov/dmv/vehicle-services/renew-vehicle-registration"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "(860) 263-5700"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew registration online",
+        "url": "https://portal.ct.gov/dmv/vehicle-services/renew-vehicle-registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/dmv/vehicle-services/renew-vehicle-registration"
+    ]
+  },
+  {
+    "id": "st-ct-medicaid",
+    "name": "HUSKY Health (Connecticut Medicaid)",
+    "agency": "Connecticut Department of Social Services (DSS)",
+    "category": "Health",
+    "description": "HUSKY Health is Connecticut's Medicaid and CHIP program, providing health coverage for children, parents, pregnant women, seniors, and people with disabilities.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut resident",
+      "Income within program limits or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HUSKY Health",
+        "value": "https://www.huskyhealthct.org/"
+      },
+      {
+        "kind": "phone",
+        "label": "HUSKY Health",
+        "value": "1-855-805-4325"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-855-626-6632"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "HUSKY Health information",
+        "url": "https://www.huskyhealthct.org/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free or low-cost for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.huskyhealthct.org/"
+    ]
+  },
+  {
+    "id": "st-ct-snap",
+    "name": "Connecticut SNAP",
+    "agency": "Connecticut Department of Social Services (DSS)",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through the Connecticut Department of Social Services.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for SNAP",
+        "value": "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-855-626-6632"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP",
+        "url": "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP/Apply"
+    ]
+  },
+  {
+    "id": "st-ct-unemployment-insurance",
+    "name": "Connecticut Unemployment Insurance — File a Claim",
+    "agency": "Connecticut Department of Labor (CTDOL)",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits through the ReEmployCT system.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File for unemployment (ReEmployCT)",
+        "value": "https://portal.ct.gov/DOLUI"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://portal.ct.gov/DOLUI"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/DOLUI"
+    ]
+  },
+  {
+    "id": "st-ct-voter-registration",
+    "name": "Connecticut Voter Registration",
+    "agency": "Connecticut Secretary of the State",
+    "category": "Civic Participation",
+    "description": "Register to vote online with the Secretary of the State. Same-day registration is also available on Election Day at designated locations.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Connecticut resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Connecticut driver license or ID number for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register to vote online",
+        "value": "https://voterregistration.ct.gov/OLVR/welcome.do"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://voterregistration.ct.gov/OLVR/welcome.do"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://voterregistration.ct.gov/OLVR/welcome.do"
+    ]
+  },
+  {
+    "id": "st-ct-business-registration",
+    "name": "Connecticut Business Registration / LLC Formation",
+    "agency": "Connecticut Secretary of the State",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity through Concord, the Secretary of the State's online business portal.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a Connecticut address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Connecticut address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Concord business portal",
+        "value": "https://www.concord-sots.ct.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity",
+        "url": "https://www.concord-sots.ct.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.concord-sots.ct.gov/"
+    ]
+  },
+  {
+    "id": "st-ct-tax-filing",
+    "name": "Connecticut Individual Income Tax Filing (myconneCT)",
+    "agency": "Connecticut Department of Revenue Services (DRS)",
+    "category": "Money & Taxes",
+    "description": "File your Connecticut individual income tax return through myconneCT, the Department of Revenue Services' online portal.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myconneCT",
+        "value": "https://portal.ct.gov/drs-myconnect"
+      },
+      {
+        "kind": "phone",
+        "label": "Refund status",
+        "value": "1-800-382-9463"
+      },
+      {
+        "kind": "phone",
+        "label": "DRS",
+        "value": "860-297-5962"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File on myconneCT",
+        "url": "https://portal.ct.gov/drs-myconnect"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/drs-myconnect"
+    ]
+  },
+  {
+    "id": "st-ct-professional-licensing",
+    "name": "Connecticut Professional Licensing (eLicense)",
+    "agency": "Connecticut Department of Consumer Protection",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify an occupational or professional license through the eLicense portal. Note: the Department of Public Health handles health-practitioner licenses separately.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "eLicense portal",
+        "value": "https://www.elicense.ct.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "Licensing portal info",
+        "value": "https://portal.ct.gov/dcp/knowledge-base/articles/faqs/find-the-dcp-licensing-portal"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "eLicense online services",
+        "url": "https://www.elicense.ct.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.elicense.ct.gov/",
+      "https://portal.ct.gov/dcp/knowledge-base/articles/faqs/find-the-dcp-licensing-portal"
+    ]
+  },
+  {
+    "id": "st-ct-birth-certificate",
+    "name": "Connecticut Birth Certificate",
+    "agency": "Connecticut Department of Public Health — Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Connecticut birth certificate from the state Vital Records office or the town clerk where the birth occurred. Records less than 100 years old are confidential and limited to eligible requestors.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Birth certificates",
+        "value": "https://portal.ct.gov/dph/vital-records/birth-certificates"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ordering information",
+        "url": "https://portal.ct.gov/dph/vital-records/birth-certificates"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$30 per copy from the state office",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/dph/vital-records/birth-certificates"
+    ]
+  },
+  {
+    "id": "st-ct-tanf",
+    "name": "Temporary Family Assistance (TFA)",
+    "agency": "Connecticut Department of Social Services (DSS)",
+    "category": "Jobs & Benefits",
+    "description": "Connecticut's Temporary Family Assistance program — the state's TANF program — provides monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Cash assistance",
+        "value": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Cash assistance information",
+        "url": "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/dss/find-benefits-and-support/cash-assistance"
+    ]
+  },
+  {
+    "id": "st-ct-parks-pass",
+    "name": "Connecticut Passport to the Parks",
+    "agency": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+    "category": "Parks & Recreation",
+    "description": "Vehicles with Connecticut plates park free at all state parks and forests. The $8 annual Passport fee is built into vehicle registration renewals ($24 for a three-year registration).",
+    "scope": {
+      "state": "CT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Connecticut-registered vehicle owners"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Passport to the Parks",
+        "value": "https://portal.ct.gov/DEEP/State-Parks/Passport-to-the-Parks"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Passport to the Parks",
+        "url": "https://portal.ct.gov/DEEP/State-Parks/Passport-to-the-Parks"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$8 per year (built into vehicle registration)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://portal.ct.gov/DEEP/State-Parks/Passport-to-the-Parks"
+    ]
+  },
+  {
+    "id": "st-dc-drivers-license",
+    "name": "DC Driver License — New & Renewal",
+    "agency": "District of Columbia Department of Motor Vehicles (DMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new DC driver license or renew an existing one, including REAL ID credentials, through the DC DMV.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of DC residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver license services",
+        "value": "https://dmv.dc.gov/node/1119192"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services",
+        "url": "https://dmv.dc.gov/node/1119192"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.dc.gov/node/1119192"
+    ]
+  },
+  {
+    "id": "st-dc-vehicle-registration",
+    "name": "DC Vehicle Registration & Title",
+    "agency": "District of Columbia Department of Motor Vehicles (DMV)",
+    "category": "Transportation",
+    "description": "Renew your DC vehicle registration online or by mail; new vehicle registrations require an in-person DMV visit.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a DC resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "DC driver license",
+      "Proof of insurance",
+      "Vehicle title"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV services",
+        "value": "https://dmv.dc.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "(202) 737-4404"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online",
+        "url": "https://dmv.dc.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.dc.gov/"
+    ]
+  },
+  {
+    "id": "st-dc-medicaid",
+    "name": "DC Medicaid",
+    "agency": "DC Department of Health Care Finance (DHCF)",
+    "category": "Health",
+    "description": "DC Medicaid provides free or low-cost health coverage for eligible District residents.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC resident",
+      "Income within program limits or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Medicaid services",
+        "value": "https://dhcf.dc.gov/service/medicaid"
+      },
+      {
+        "kind": "phone",
+        "label": "DHCF",
+        "value": "(202) 727-5355"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Medicaid information",
+        "url": "https://dhcf.dc.gov/service/medicaid"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhcf.dc.gov/service/medicaid"
+    ]
+  },
+  {
+    "id": "st-dc-snap",
+    "name": "DC SNAP",
+    "agency": "DC Department of Human Services — Economic Security Administration",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through the DC Department of Human Services.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public benefits",
+        "value": "https://dhs.dc.gov/page/public-benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS",
+        "value": "(202) 727-5355"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits",
+        "url": "https://dhs.dc.gov/page/public-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhs.dc.gov/page/public-benefits"
+    ]
+  },
+  {
+    "id": "st-dc-unemployment-insurance",
+    "name": "DC Unemployment Insurance — File a Claim",
+    "agency": "DC Department of Employment Services (DOES)",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits online. Identity is verified through ID.me.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for benefits",
+        "value": "https://unemployment.dc.gov/page/apply-benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "DOES",
+        "value": "(202) 724-7000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://unemployment.dc.gov/page/apply-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://unemployment.dc.gov/page/apply-benefits"
+    ]
+  },
+  {
+    "id": "st-dc-voter-registration",
+    "name": "DC Voter Registration",
+    "agency": "DC Board of Elections",
+    "category": "Civic Participation",
+    "description": "Register to vote online with the DC Board of Elections. Same-day registration is available during early voting and on Election Day.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "DC resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "DC driver license or ID number, or last four digits of SSN for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Register or update registration",
+        "value": "https://dcboe.org/voters/register-to-vote/register-update-voter-registration"
+      },
+      {
+        "kind": "phone",
+        "label": "Board of Elections",
+        "value": "(202) 727-2525"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://dcboe.org/voters/register-to-vote/register-update-voter-registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dcboe.org/voters/register-to-vote/register-update-voter-registration"
+    ]
+  },
+  {
+    "id": "st-dc-business-registration",
+    "name": "DC Business Registration / LLC Formation",
+    "agency": "DC Department of Licensing and Consumer Protection — Corporations Division",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity through CorpOnline (requires an AccessDC account). LLC Articles of Organization (Form DLC-1) cost about $99.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on District records",
+      "Registered agent with a DC address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and DC address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CorpOnline",
+        "value": "https://corponline.dlcp.dc.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File on CorpOnline",
+        "url": "https://corponline.dlcp.dc.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "About $99 for LLC Articles of Organization (Form DLC-1)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://corponline.dlcp.dc.gov"
+    ]
+  },
+  {
+    "id": "st-dc-tax-filing",
+    "name": "DC Individual Income Tax Filing (MyTax)",
+    "agency": "DC Office of Tax and Revenue (OTR)",
+    "category": "Money & Taxes",
+    "description": "File your District individual income tax return through MyTax, the Office of Tax and Revenue's online portal.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyTax",
+        "value": "https://OTR.CFO.DC.GOV/page/mytaxdcgov"
+      },
+      {
+        "kind": "web",
+        "label": "MyTax portal",
+        "value": "https://mytax.dc.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "OTR",
+        "value": "202-727-4829 (202-727-4TAX)"
+      },
+      {
+        "kind": "phone",
+        "label": "e-Services",
+        "value": "(202) 759-1946"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File on MyTax",
+        "url": "https://mytax.dc.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://OTR.CFO.DC.GOV/page/mytaxdcgov",
+      "https://mytax.dc.gov/"
+    ]
+  },
+  {
+    "id": "st-dc-professional-licensing",
+    "name": "DC Professional Licensing (OPL)",
+    "agency": "DC Department of Licensing and Consumer Protection — Office of Professional Licensing",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional license through the Office of Professional Licensing, covering more than 125 non-health license categories.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Professional licensing",
+        "value": "https://dlcp.dc.gov/node/1614311"
+      },
+      {
+        "kind": "phone",
+        "label": "DLCP",
+        "value": "(202) 671-4500"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Licensing information",
+        "url": "https://dlcp.dc.gov/node/1614311"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dlcp.dc.gov/node/1614311"
+    ]
+  },
+  {
+    "id": "st-dc-birth-certificate",
+    "name": "DC Birth Certificate",
+    "agency": "DC Health — Vital Records Division",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a DC birth certificate online, by mail, or in person. Walk-up requests can be issued the same day; phone orders go through VitalChek.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vital records",
+        "value": "https://dchealth.dc.gov/vital-records"
+      },
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "202-442-9303"
+      },
+      {
+        "kind": "phone",
+        "label": "VitalChek phone orders",
+        "value": "1-877-572-6332"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order options",
+        "url": "https://dchealth.dc.gov/vital-records"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$23 per birth certificate plus VitalChek processing fees",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dchealth.dc.gov/vital-records"
+    ]
+  },
+  {
+    "id": "st-dc-tanf",
+    "name": "DC TANF",
+    "agency": "DC Department of Human Services",
+    "category": "Jobs & Benefits",
+    "description": "DC's TANF program provides temporary monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public benefits",
+        "value": "https://dhs.dc.gov/page/public-benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS",
+        "value": "(202) 727-5355"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits",
+        "url": "https://dhs.dc.gov/page/public-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhs.dc.gov/page/public-benefits"
+    ]
+  },
+  {
+    "id": "st-dc-parks-pass",
+    "name": "DC Department of Parks and Recreation (DPR) Programs",
+    "agency": "DC Department of Parks and Recreation (DPR)",
+    "category": "Parks & Recreation",
+    "description": "DC has no statewide parks pass; DPR is the District's flagship recreation agency, running seasonal program registration for pools, sports, camps, and classes.",
+    "scope": {
+      "state": "DC",
+      "level": "state"
+    },
+    "eligibility": [
+      "DC residents and visitors"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Program registration",
+        "value": "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+      },
+      {
+        "kind": "phone",
+        "label": "DPR",
+        "value": "(202) 673-7647"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPR program registration",
+        "url": "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by program; many are free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dpr.dc.gov/release/bowser-administration-opens-registration-spring-programs"
+    ]
+  },
+  {
+    "id": "st-de-drivers-license",
+    "name": "Delaware Driver License — New & Renewal",
+    "agency": "Delaware Division of Motor Vehicles (DMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Delaware driver license or renew an existing Class D license or ID card online through a secure MyDMV account.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Delaware resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Delaware residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV driver services",
+        "value": "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+      },
+      {
+        "kind": "web",
+        "label": "DMV home",
+        "value": "https://www.dmv.de.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services",
+        "url": "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://services.dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals",
+      "https://www.dmv.de.gov/"
+    ]
+  },
+  {
+    "id": "st-de-vehicle-registration",
+    "name": "Delaware Vehicle Registration & Title",
+    "agency": "Delaware Division of Motor Vehicles (DMV)",
+    "category": "Transportation",
+    "description": "Renew your vehicle registration online, by mail, by phone, or in person — the DMV offers more than 20 online transactions through myDMV.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Delaware resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Delaware driver license",
+      "Proof of Delaware insurance",
+      "Current registration card",
+      "Odometer mileage"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DMV online services",
+        "value": "https://www.dmv.de.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DMV online services",
+        "url": "https://www.dmv.de.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dmv.de.gov/"
+    ]
+  },
+  {
+    "id": "st-de-medicaid",
+    "name": "Delaware Medicaid",
+    "agency": "Delaware Department of Health and Social Services (DHSS)",
+    "category": "Health",
+    "description": "Delaware Medicaid provides health coverage for eligible low-income residents, including children, pregnant women, seniors, and people with disabilities.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Delaware resident",
+      "Low-income household or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (ASSIST)",
+        "value": "https://assist.dhss.delaware.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-866-843-7212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "st-de-snap",
+    "name": "Delaware SNAP",
+    "agency": "Delaware Department of Health and Social Services (DHSS)",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through Delaware's ASSIST online benefits portal.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Delaware resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (ASSIST)",
+        "value": "https://assist.dhss.delaware.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-866-843-7212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "st-de-unemployment-insurance",
+    "name": "Delaware Unemployment Insurance — File a Claim",
+    "agency": "Delaware Department of Labor — Division of Unemployment Insurance",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits if you lost work through no fault of your own.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Claimant services",
+        "value": "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+      },
+      {
+        "kind": "phone",
+        "label": "UI",
+        "value": "302-761-6637"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-services/"
+    ]
+  },
+  {
+    "id": "st-de-voter-registration",
+    "name": "Delaware Voter Registration",
+    "agency": "Delaware Department of Elections",
+    "category": "Civic Participation",
+    "description": "Register to vote online through Delaware's iVote portal. For the 2026-11-03 general election, registration closes Saturday, October 10, 2026 at 11:59 p.m.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Delaware resident",
+      "Age 18 or older by the next general election"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the 2026-11-03 general election",
+        "date": "2026-10-10",
+        "note": "Online registration closes at 11:59 p.m.; paper applications must be postmarked by the same date"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "iVote voter portal",
+        "value": "https://ivote.de.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Voter FAQ",
+        "value": "https://de.gov/voterfaq"
+      },
+      {
+        "kind": "web",
+        "label": "Elections home",
+        "value": "https://elections.delaware.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register on iVote",
+        "url": "https://ivote.de.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ivote.de.gov",
+      "https://news.delaware.gov/2026/10/07/voting-alert-2026-general-election-voter-registration-deadline-is-saturday-october-10-2026-at-1159-p-m/"
+    ]
+  },
+  {
+    "id": "st-de-business-registration",
+    "name": "Delaware Business Registration / LLC Formation",
+    "agency": "Delaware Secretary of State — Division of Corporations",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity with Delaware's Division of Corporations.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a Delaware address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Delaware address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of Corporations",
+        "value": "https://corp.delaware.gov/contact"
+      },
+      {
+        "kind": "phone",
+        "label": "Corporations (option 2)",
+        "value": "302-739-3073"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Corporations division",
+        "url": "https://corp.delaware.gov/contact"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://corp.delaware.gov/contact"
+    ]
+  },
+  {
+    "id": "st-de-tax-filing",
+    "name": "Delaware Individual Income Tax Filing",
+    "agency": "Delaware Division of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Delaware individual income tax return through the Division of Revenue's online services.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Delaware resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of Revenue",
+        "value": "https://tax.delaware.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Revenue",
+        "value": "302-577-8200"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Tax services online",
+        "url": "https://tax.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.delaware.gov/"
+    ]
+  },
+  {
+    "id": "st-de-professional-licensing",
+    "name": "Delaware Professional Licensing (DELPROS)",
+    "agency": "Delaware Department of State — Division of Professional Regulation",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional license through DELPROS (Delaware Professional Regulation Online Services), covering dozens of boards and commissions.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Professional Regulation",
+        "value": "https://dpr.delaware.gov"
+      },
+      {
+        "kind": "email",
+        "label": "Customer service",
+        "value": "customerservice.dpr@delaware.gov"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "Cannon Building, 861 Silver Lake Blvd., Suite 203, Dover, DE 19904-2467"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DELPROS online services",
+        "url": "https://dpr.delaware.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type (all processing fees non-refundable)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dpr.delaware.gov"
+    ]
+  },
+  {
+    "id": "st-de-birth-certificate",
+    "name": "Delaware Birth Certificate",
+    "agency": "Delaware Department of Health and Social Services — Office of Vital Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Delaware birth certificate in person at offices in Newark, Dover, or Georgetown, by mail, or online through GoCertificates or VitalChek. Photo ID is required.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vital Statistics",
+        "value": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/"
+      },
+      {
+        "kind": "phone",
+        "label": "Central office (Dover)",
+        "value": "302-744-4549"
+      },
+      {
+        "kind": "phone",
+        "label": "Newark",
+        "value": "302-283-7130"
+      },
+      {
+        "kind": "phone",
+        "label": "Georgetown",
+        "value": "302-515-3190"
+      },
+      {
+        "kind": "in-person",
+        "label": "Offices",
+        "value": "258 Chapman Rd, Newark; 805 River Rd, Dover; 546 S. Bedford St, Georgetown"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ordering information",
+        "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 per copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/"
+    ]
+  },
+  {
+    "id": "st-de-tanf",
+    "name": "Delaware TANF",
+    "agency": "Delaware Department of Health and Social Services (DHSS)",
+    "category": "Jobs & Benefits",
+    "description": "Delaware's TANF program provides temporary monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Delaware resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (ASSIST)",
+        "value": "https://assist.dhss.delaware.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-866-843-7212"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on ASSIST",
+        "url": "https://assist.dhss.delaware.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://assist.dhss.delaware.gov/"
+    ]
+  },
+  {
+    "id": "st-de-parks-pass",
+    "name": "Delaware State Parks Annual Pass",
+    "agency": "Delaware Department of Natural Resources and Environmental Control — Division of Parks and Recreation",
+    "category": "Parks & Recreation",
+    "description": "Annual passes cover day-use entry to Delaware's 17 state parks. Buy online or at park offices; daily fees also apply for inland ($5 DE-registered / $10 out-of-state) and beach ($10 / $20) parks.",
+    "scope": {
+      "state": "DE",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting Delaware state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Passes, permits and fees",
+        "value": "https://www.destateparks.com/fee-proposal/"
+      },
+      {
+        "kind": "web",
+        "label": "Buy a pass",
+        "value": "https://www.destateparks.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "2026 fees and passes",
+        "url": "https://www.destateparks.com/fee-proposal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50/year (Delaware-registered vehicles) or $100/year (out-of-state); lifetime pass $150 for DE residents 65+",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.destateparks.com/fee-proposal/",
+      "https://news.delaware.gov/2025/12/02/2026-delaware-state-parks-passes-and-permits-go-on-sale-dec-9/"
+    ]
+  },
+  {
+    "id": "st-fl-drivers-license",
+    "name": "Florida Driver License — New & Renewal",
+    "agency": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Florida driver license or renew an existing one through the MyDMV Portal. A standard Class E renewal costs $48 plus a $2 convenience fee online.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Florida resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Florida residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyDMV Portal",
+        "value": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      },
+      {
+        "kind": "phone",
+        "label": "FLHSMV",
+        "value": "(850) 617-2000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "MyDMV Portal",
+        "url": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$48 Class E renewal (+$2 online convenience fee)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+    ]
+  },
+  {
+    "id": "st-fl-vehicle-registration",
+    "name": "Florida Vehicle Registration & Title",
+    "agency": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)",
+    "category": "Transportation",
+    "description": "Renew your vehicle, vessel, or mobile home registration for one or two years online through the MyDMV Portal, or visit your county tax collector's office.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Florida resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Florida driver license",
+      "Proof of Florida insurance",
+      "VIN"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyDMV Portal",
+        "value": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      },
+      {
+        "kind": "phone",
+        "label": "FLHSMV",
+        "value": "(850) 617-2000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online",
+        "url": "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://flhsmv.gov/motorist-modernization/mydmvportal/"
+    ]
+  },
+  {
+    "id": "st-fl-medicaid",
+    "name": "Florida Medicaid",
+    "agency": "Florida Agency for Health Care Administration",
+    "category": "Health",
+    "description": "Florida Medicaid provides health coverage for eligible low-income residents, including children, pregnant women, seniors, and people with disabilities.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Florida resident",
+      "Low-income household or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public assistance (MyFLFamilies)",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Public assistance information",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "st-fl-snap",
+    "name": "Florida SNAP",
+    "agency": "Florida Department of Children and Families (DCF)",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through Florida's MyFLFamilies public assistance portal.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Florida resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public assistance (MyFLFamilies)",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for assistance",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "st-fl-unemployment-insurance",
+    "name": "Florida Reemployment Assistance — File a Claim",
+    "agency": "FloridaCommerce (Florida Department of Commerce)",
+    "category": "Jobs & Benefits",
+    "description": "File a new reemployment assistance claim or request benefit payments if you lost work through no fault of your own.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for benefits",
+        "value": "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits"
+    ]
+  },
+  {
+    "id": "st-fl-voter-registration",
+    "name": "Florida Voter Registration",
+    "agency": "Florida Department of State — Division of Elections",
+    "category": "Civic Participation",
+    "description": "Register to vote online at RegisterToVoteFlorida.gov using your Florida driver license or ID and the last four digits of your Social Security number. The registration deadline for the 2026-11-03 general election is 2026-10-05.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Florida resident",
+      "Age 18 or older by Election Day (pre-register at 16)"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the 2026-11-03 general election",
+        "date": "2026-10-05",
+        "note": "Florida's book-closing deadline"
+      }
+    ],
+    "prerequisites": [
+      "Florida driver license or ID number and last four digits of SSN for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://registertovoteflorida.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://registertovoteflorida.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://registertovoteflorida.gov/"
+    ]
+  },
+  {
+    "id": "st-fl-business-registration",
+    "name": "Florida Business Registration / LLC Formation (Sunbiz)",
+    "agency": "Florida Department of State — Division of Corporations",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity through Sunbiz, the Division of Corporations' online filing system.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name distinguishable on state records",
+      "Registered agent with a Florida address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Florida address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Sunbiz",
+        "value": "https://dos.fl.gov/sunbiz/"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of Corporations",
+        "value": "850-245-6051"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Sunbiz online filing",
+        "url": "https://dos.fl.gov/sunbiz/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$125 LLC Articles of Organization",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dos.fl.gov/sunbiz/"
+    ]
+  },
+  {
+    "id": "st-fl-tax-filing",
+    "name": "Florida State Tax — No Individual Income Tax",
+    "agency": "Florida Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Florida does not levy an individual income tax — there is no state income tax return to file. The Department of Revenue handles corporate income tax, sales and use tax, and property tax matters.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Florida resident — no individual income tax filing required"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal tax return for federal obligations only"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Department of Revenue",
+        "value": "https://floridarevenue.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Florida Department of Revenue",
+        "url": "https://floridarevenue.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "No individual income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://floridarevenue.com"
+    ]
+  },
+  {
+    "id": "st-fl-professional-licensing",
+    "name": "Florida Professional Licensing (DBPR)",
+    "agency": "Florida Department of Business and Professional Regulation (DBPR)",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, verify, or file a complaint about a professional license through MyFloridaLicense, DBPR's official online services portal.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyFloridaLicense",
+        "value": "https://www.myfloridalicense.com"
+      },
+      {
+        "kind": "phone",
+        "label": "Customer Contact Center",
+        "value": "850.487.1395"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply or manage a license",
+        "url": "https://www.myfloridalicense.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.myfloridalicense.com"
+    ]
+  },
+  {
+    "id": "st-fl-birth-certificate",
+    "name": "Florida Birth Certificate",
+    "agency": "Florida Department of Health — Bureau of Vital Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Florida birth certificate online through VitalChek (the Department's authorized vendor), by mail, or in person at a county health department. Records before 1930 and sealed records are handled by the Bureau of Vital Statistics in Jacksonville.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application form"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Birth certificates (DOH)",
+        "value": "https://Broward.floridahealth.gov/certificates/birth-certificates/"
+      },
+      {
+        "kind": "phone",
+        "label": "Broward vital statistics",
+        "value": "954-467-4413"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ordering options",
+        "url": "https://Broward.floridahealth.gov/certificates/birth-certificates/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by county office (typically $12–$20 per certificate)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://Broward.floridahealth.gov/certificates/birth-certificates/"
+    ]
+  },
+  {
+    "id": "st-fl-tanf",
+    "name": "Florida Temporary Cash Assistance (TCA)",
+    "agency": "Florida Department of Children and Families (DCF)",
+    "category": "Jobs & Benefits",
+    "description": "Florida's Temporary Cash Assistance program — the state's TANF program — provides temporary monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Florida resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public assistance (MyFLFamilies)",
+        "value": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for assistance",
+        "url": "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://prod.myflfamilies.com/services/public-assistance/additional-resources-and-services/ess-forms"
+    ]
+  },
+  {
+    "id": "st-fl-parks-pass",
+    "name": "Florida State Parks Annual Pass",
+    "agency": "Florida Department of Environmental Protection — Florida State Parks",
+    "category": "Parks & Recreation",
+    "description": "Annual passes cover day-use entry to Florida's 175 state parks. Individual passes cover one named passholder; Family passes cover up to eight people.",
+    "scope": {
+      "state": "FL",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting Florida state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Annual pass information",
+        "value": "https://www.floridastateparks.org/learn/florida-state-parks-annual-pass"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Annual pass options",
+        "url": "https://www.floridastateparks.org/learn/florida-state-parks-annual-pass"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$60/year (Individual) or $120/year (Family)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.floridastateparks.org/learn/florida-state-parks-annual-pass"
+    ]
+  },
+  {
+    "id": "st-ga-drivers-license",
+    "name": "Georgia Driver License — New & Renewal",
+    "agency": "Georgia Department of Driver Services (DDS)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Georgia driver license or renew an existing one through DDS online services.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Georgia resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Social Security number",
+      "Two proofs of Georgia residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Driver license online services",
+        "value": "https://dds.georgia.gov/your-georgia-drivers-license/online-services"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services",
+        "url": "https://dds.georgia.gov/your-georgia-drivers-license/online-services"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dds.georgia.gov/your-georgia-drivers-license/online-services"
+    ]
+  },
+  {
+    "id": "st-ga-vehicle-registration",
+    "name": "Georgia Vehicle Registration & Title",
+    "agency": "Georgia Department of Revenue — Motor Vehicle Division",
+    "category": "Transportation",
+    "description": "Renew your vehicle registration online through DRIVES e-Services (in participating counties) or at your county tag office.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Georgia resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Georgia driver license",
+      "Proof of Georgia liability insurance",
+      "License plate or VIN number",
+      "Emissions inspection when required"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Renew vehicle registration",
+        "value": "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/renew-vehicle-registration"
+      },
+      {
+        "kind": "phone",
+        "label": "Motor Vehicle Division",
+        "value": "1-855-406-5221"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online (DRIVES)",
+        "url": "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/renew-vehicle-registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle type and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/renew-vehicle-registration"
+    ]
+  },
+  {
+    "id": "st-ga-medicaid",
+    "name": "Georgia Medicaid",
+    "agency": "Georgia Department of Community Health",
+    "category": "Health",
+    "description": "Georgia Medicaid provides health coverage for eligible low-income residents. Apply online through the Georgia Gateway portal.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Georgia resident",
+      "Low-income household or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (Georgia Gateway)",
+        "value": "https://gateway.ga.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-877-423-4746"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Georgia Gateway",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://gateway.ga.gov"
+    ]
+  },
+  {
+    "id": "st-ga-snap",
+    "name": "Georgia SNAP",
+    "agency": "Georgia Division of Family & Children Services (DFCS)",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits online through the Georgia Gateway portal.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Georgia resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (Georgia Gateway)",
+        "value": "https://gateway.ga.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-877-423-4746"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply on Georgia Gateway",
+        "url": "https://gateway.ga.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://gateway.ga.gov"
+    ]
+  },
+  {
+    "id": "st-ga-unemployment-insurance",
+    "name": "Georgia Unemployment Insurance — File a Claim",
+    "agency": "Georgia Department of Labor",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim or certify for weekly benefits if you lost work through no fault of your own.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File a new claim",
+        "value": "https://georgia.gov/file-new-unemployment-insurance-claim"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://georgia.gov/file-new-unemployment-insurance-claim"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://georgia.gov/file-new-unemployment-insurance-claim"
+    ]
+  },
+  {
+    "id": "st-ga-voter-registration",
+    "name": "Georgia Voter Registration",
+    "agency": "Georgia Secretary of State",
+    "category": "Civic Participation",
+    "description": "Register to vote or update your registration online through the Secretary of State's online registration system. Check your status anytime on My Voter Page. The registration deadline for the 2026-11-03 general election is 2026-10-05.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Georgia resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the 2026-11-03 general election",
+        "date": "2026-10-05",
+        "note": "Georgia closes registration 30 days before the election"
+      }
+    ],
+    "prerequisites": [
+      "Georgia driver license or ID number for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "My Voter Page",
+        "value": "https://mvp.sos.ga.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Online registration",
+        "value": "https://mvp.sos.ga.gov/s/olvr-home"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://mvp.sos.ga.gov/s/olvr-home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mvp.sos.ga.gov",
+      "https://mvp.sos.ga.gov/s/olvr-home"
+    ]
+  },
+  {
+    "id": "st-ga-business-registration",
+    "name": "Georgia Business Registration / LLC Formation",
+    "agency": "Georgia Secretary of State — Corporations Division",
+    "category": "Business",
+    "description": "Form an LLC or register a business entity with the Georgia Secretary of State's Corporations Division.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a Georgia address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Georgia address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Corporations division",
+        "value": "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office"
+      },
+      {
+        "kind": "phone",
+        "label": "Corporations",
+        "value": "404-656-2817"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Corporations division",
+        "url": "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.Ga.Gov/corporations-division-georgia-secretary-states-office"
+    ]
+  },
+  {
+    "id": "st-ga-tax-filing",
+    "name": "Georgia Individual Income Tax Filing (Georgia Tax Center)",
+    "agency": "Georgia Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Manage your Georgia individual income taxes through the Georgia Tax Center (GTC), the Department of Revenue's secure online portal — check refunds, make payments, and manage your account.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Georgia resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Georgia Tax Center",
+        "value": "https://gtc.dor.ga.gov"
+      },
+      {
+        "kind": "web",
+        "label": "GTC help",
+        "value": "https://dor.georgia.gov/georgiataxcenterhelp"
+      },
+      {
+        "kind": "phone",
+        "label": "Customer Contact Center",
+        "value": "1-877-423-6711"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Georgia Tax Center",
+        "url": "https://gtc.dor.ga.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file online; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://gtc.dor.ga.gov",
+      "https://dor.georgia.gov/introduction-gtc-faq"
+    ]
+  },
+  {
+    "id": "st-ga-professional-licensing",
+    "name": "Georgia Professional Licensing (GOALS)",
+    "agency": "Georgia Secretary of State — Professional Licensing Boards Division",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional license through GOALS, the Professional Licensing Boards Division's online system covering about 220 license types across 42 boards.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Licensing division",
+        "value": "https://sos.ga.gov/licensing"
+      },
+      {
+        "kind": "phone",
+        "label": "Licensing division",
+        "value": "(478) 207-2440"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-866-888-1308"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "237 Coliseum Drive, Macon, GA 31217"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Licensing services (GOALS)",
+        "url": "https://sos.ga.gov/licensing"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.ga.gov/licensing"
+    ]
+  },
+  {
+    "id": "st-ga-birth-certificate",
+    "name": "Georgia Birth Certificate",
+    "agency": "Georgia Department of Public Health — State Office of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Georgia birth certificate online through ROVER (the state's online service), by mail, or in person at the State Office of Vital Records or any county vital records office.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible relative or representative"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Order a certificate online",
+        "value": "https://dph.georgia.gov/order-certificate-online"
+      },
+      {
+        "kind": "phone",
+        "label": "DPH",
+        "value": "(404) 657-2700"
+      },
+      {
+        "kind": "in-person",
+        "label": "State office",
+        "value": "1680 Phoenix Boulevard, Suite 100, Atlanta, GA 30349"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order online (ROVER)",
+        "url": "https://dph.georgia.gov/order-certificate-online"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 per certified copy plus $8 processing (online)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dph.georgia.gov/order-certificate-online",
+      "https://georgia.gov/request-vital-records"
+    ]
+  },
+  {
+    "id": "st-ga-tanf",
+    "name": "Georgia TANF",
+    "agency": "Georgia Division of Family & Children Services (DFCS)",
+    "category": "Jobs & Benefits",
+    "description": "Georgia's TANF program provides temporary monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Georgia resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "TANF services",
+        "value": "https://dfcs.georgia.gov/services/temporary-assistance-needy-families"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "877-423-4746"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TANF information",
+        "url": "https://dfcs.georgia.gov/services/temporary-assistance-needy-families"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfcs.georgia.gov/services/temporary-assistance-needy-families"
+    ]
+  },
+  {
+    "id": "st-ga-parks-pass",
+    "name": "Georgia State Parks Annual ParkPass",
+    "agency": "Georgia Department of Natural Resources — State Parks & Historic Sites Division",
+    "category": "Parks & Recreation",
+    "description": "The $70 Annual ParkPass covers parking at more than 40 Georgia state parks for 12 months from purchase. Discounted passes are available in person for seniors 62+ (50% off) and active military/veterans (25% off).",
+    "scope": {
+      "state": "GA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone visiting Georgia state parks"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ParkPass",
+        "value": "https://gastateparks.org/ParkPass"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy an Annual ParkPass",
+        "url": "https://gastateparks.org/ParkPass"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$70/year; daily parking $10",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://gastateparks.org/ParkPass"
+    ]
+  },
+  {
+    "id": "st-hi-drivers-license",
+    "name": "Hawaii Driver License — New & Renewal",
+    "agency": "County driver licensing offices (administered by Hawaii's four counties); Hawaii Department of Transportation info",
+    "category": "IDs & Records",
+    "description": "Hawaii has no statewide DMV — driver licenses are issued by each county (Honolulu, Maui, Hawaii, Kauai). REAL ID (STAR) cards require documentary proof of legal name, date of birth, Social Security number, legal presence, and Hawaii address.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii resident",
+      "Legal presence in the U.S."
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of legal name and date of birth",
+      "Proof of Social Security number",
+      "Proof of legal presence",
+      "Proof of Hawaii principal residence"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HDOT driver license info",
+        "value": "https://hidot.hawaii.gov/driverslicense/"
+      },
+      {
+        "kind": "phone",
+        "label": "Honolulu",
+        "value": "(808) 768-9100"
+      },
+      {
+        "kind": "phone",
+        "label": "Maui",
+        "value": "(808) 270-7363"
+      },
+      {
+        "kind": "phone",
+        "label": "Hawaii County",
+        "value": "(808) 961-2222"
+      },
+      {
+        "kind": "phone",
+        "label": "Kauai",
+        "value": "(808) 241-4242"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County office info (HDOT)",
+        "url": "https://hidot.hawaii.gov/driverslicense/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by license type and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hidot.hawaii.gov/driverslicense/"
+    ]
+  },
+  {
+    "id": "st-hi-vehicle-registration",
+    "name": "Hawaii Vehicle Registration & Title",
+    "agency": "County governments (administered by Hawaii's four counties); Hawaii Department of Transportation info",
+    "category": "Transportation",
+    "description": "Hawaii has no statewide DMV — vehicle registration is managed by each county government. All four counties offer registration renewals by mail and online; Honolulu and Hawaii County also offer DMV NOW kiosks.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vehicle owned or leased by a Hawaii resident"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "County driver license or ID",
+      "Proof of Hawaii insurance",
+      "Safety check certificate"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "HDOT registration info",
+        "value": "https://hidot.hawaii.gov/highways/motorcycle/motor-vehicle-registration/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "County registration info",
+        "url": "https://hidot.hawaii.gov/highways/motorcycle/motor-vehicle-registration/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Varies by vehicle weight and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hidot.hawaii.gov/highways/motorcycle/motor-vehicle-registration/"
+    ]
+  },
+  {
+    "id": "st-hi-medicaid",
+    "name": "Med-QUEST (Hawaii Medicaid)",
+    "agency": "Hawaii Department of Human Services — Med-QUEST Division",
+    "category": "Health",
+    "description": "Med-QUEST is Hawaii's Medicaid program, providing health coverage for eligible low-income residents.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii resident",
+      "Low-income household or qualifying category"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply (MyBenefits)",
+        "value": "https://medical.mybenefits.hawaii.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-316-8005"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Med-QUEST",
+        "url": "https://medical.mybenefits.hawaii.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible members",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://medical.mybenefits.hawaii.gov"
+    ]
+  },
+  {
+    "id": "st-hi-snap",
+    "name": "Hawaii SNAP",
+    "agency": "Hawaii Department of Human Services",
+    "category": "Food & Nutrition",
+    "description": "Apply for SNAP food benefits through the Hawaii Department of Human Services' public assistance portal.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii resident",
+      "Household income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of household income"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for assistance",
+        "value": "https://pais.dhs.hawaii.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-855-643-1643"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online",
+        "url": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible households",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://pais.dhs.hawaii.gov/"
+    ]
+  },
+  {
+    "id": "st-hi-unemployment-insurance",
+    "name": "Hawaii Unemployment Insurance — File a Claim",
+    "agency": "Hawaii Department of Labor and Industrial Relations (DLIR)",
+    "category": "Jobs & Benefits",
+    "description": "File a new unemployment claim online if you lost work through no fault of your own.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Unemployed or working reduced hours",
+      "Earned qualifying wages in the base period"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates worked"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "File a claim",
+        "value": "https://huiclaims.hawaii.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Oahu",
+        "value": "808-586-8970"
+      },
+      {
+        "kind": "phone",
+        "label": "Neighbor islands",
+        "value": "808-974-4086"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://huiclaims.hawaii.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free — benefits based on past wages",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://huiclaims.hawaii.gov/"
+    ]
+  },
+  {
+    "id": "st-hi-voter-registration",
+    "name": "Hawaii Voter Registration",
+    "agency": "Hawaii Office of Elections",
+    "category": "Civic Participation",
+    "description": "Register to vote online at olvr.hawaii.gov using a Hawaii driver license or state ID and Social Security number. Hawaii votes entirely by mail; for the general election, online/mail registration closes October 26, 2026.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Hawaii resident",
+      "Age 18 or older by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline for the general election",
+        "date": "2026-10-26",
+        "note": "Online and mail registration close; Hawaii votes by mail"
+      }
+    ],
+    "prerequisites": [
+      "Hawaii driver license or state ID and Social Security number for online registration"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://olvr.hawaii.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "Registration info",
+        "value": "https://elections.hawaii.gov/register-to-vote/registration/"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of Elections",
+        "value": "(808) 453-8683"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "1-800-442-8683"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://olvr.hawaii.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://olvr.hawaii.gov/",
+      "https://elections.hawaii.gov/register-to-vote/registration/"
+    ]
+  },
+  {
+    "id": "st-hi-business-registration",
+    "name": "Hawaii Business Registration / LLC Formation (BREG)",
+    "agency": "Hawaii Department of Commerce and Consumer Affairs — Business Registration Division (BREG)",
+    "category": "Business",
+    "description": "Register a business entity or form an LLC with BREG. Filings can be done online through the Division's business registration portal.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Business name available on state records",
+      "Registered agent with a Hawaii address"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Hawaii address",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business Registration Division",
+        "value": "https://cca.hawaii.gov/breg/?p=662"
+      },
+      {
+        "kind": "phone",
+        "label": "BREG",
+        "value": "1-844-808-3222"
+      },
+      {
+        "kind": "email",
+        "label": "BREG",
+        "value": "breg@dcca.hawaii.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business registration",
+        "url": "https://cca.hawaii.gov/breg/?p=662"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cca.hawaii.gov/breg/?p=662"
+    ]
+  },
+  {
+    "id": "st-hi-tax-filing",
+    "name": "Hawaii Individual Income Tax Filing (Hawaii Tax Online)",
+    "agency": "Hawaii Department of Taxation",
+    "category": "Money & Taxes",
+    "description": "File your Hawaii individual income tax return (Form N-11 for residents) for free through Hawaii Tax Online, or e-file through commercial tax software.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii resident or part-year resident with taxable income"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Federal adjusted gross income",
+      "W-2s and 1099s"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Hawaii Tax Online",
+        "value": "https://hitax.hawaii.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Department of Taxation",
+        "value": "https://tax.hawaii.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Taxpayer Services",
+        "value": "(808) 587-4242"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Hawaii Tax Online",
+        "url": "https://hitax.hawaii.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to e-file Form N-11; tax owed varies",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hitax.hawaii.gov"
+    ]
+  },
+  {
+    "id": "st-hi-professional-licensing",
+    "name": "Hawaii Professional & Vocational Licensing (PVL)",
+    "agency": "Hawaii Department of Commerce and Consumer Affairs — Professional and Vocational Licensing Division",
+    "category": "Jobs & Benefits",
+    "description": "Apply for, renew, or verify a professional license through MyPVL, the Division's online licensing portal. About 92% of renewals are completed in MyPVL.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Meets the education, exam, and experience requirements of the relevant board"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Application fee",
+      "Exam or education documentation per board"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "PVL licensing",
+        "value": "https://cca.hawaii.gov/pvl"
+      },
+      {
+        "kind": "web",
+        "label": "MyPVL portal",
+        "value": "https://mypvl.dcca.hawaii.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Licensing branch",
+        "value": "(808) 586-3000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "PVL online services",
+        "url": "https://cca.hawaii.gov/pvl"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cca.hawaii.gov/pvl"
+    ]
+  },
+  {
+    "id": "st-hi-birth-certificate",
+    "name": "Hawaii Birth Certificate",
+    "agency": "Hawaii Department of Health — Office of Health Status Monitoring, Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Hawaii birth certificate online through the state's vitrec system (recommended), by mail, or in person at 1250 Punchbowl Street, Room 103, Honolulu. Government-issued photo ID is required.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Person named on the record or an eligible person with tangible interest"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Valid government-issued photo ID",
+      "Completed application"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vital records",
+        "value": "https://health.hawaii.gov/vitalrecords/birth-marriage-certificates/"
+      },
+      {
+        "kind": "web",
+        "label": "Online order (vitrec)",
+        "value": "https://vitrec.ehawaii.gov/vitalrecords/"
+      },
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "(808) 586-4539"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office",
+        "value": "1250 Punchbowl Street, Room 103, Honolulu (Mon–Fri, 7:45 a.m.–2:30 p.m.)"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order online",
+        "url": "https://vitrec.ehawaii.gov/vitalrecords/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 for the first copy, $4 per additional copy (+ $2.50 portal fee per order)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://health.hawaii.gov/vitalrecords/birth-marriage-certificates/"
+    ]
+  },
+  {
+    "id": "st-hi-tanf",
+    "name": "Hawaii TANF / TAONF",
+    "agency": "Hawaii Department of Human Services",
+    "category": "Jobs & Benefits",
+    "description": "Hawaii's TANF and TAONF (Temporary Assistance for Other Needy Families) programs provide temporary monthly cash assistance to eligible families with children.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii resident family with a dependent child",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income",
+      "Children's birth certificates"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for assistance",
+        "value": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online",
+        "url": "https://pais.dhs.hawaii.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for eligible families",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://pais.dhs.hawaii.gov/"
+    ]
+  },
+  {
+    "id": "st-hi-parks-pass",
+    "name": "Hawaii State Parks (DLNR Division of State Parks)",
+    "agency": "Hawaii Department of Land and Natural Resources — Division of State Parks",
+    "category": "Parks & Recreation",
+    "description": "Hawaii's 50 state parks have no statewide annual pass; Hawaii residents with a state ID are admitted free at parks that charge non-resident entry and parking fees. Several popular parks (e.g., Hāʻena, Diamond Head) require advance reservations for non-residents.",
+    "scope": {
+      "state": "HI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Hawaii residents admitted free with state ID; non-residents pay per-park fees"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Division of State Parks (Hāʻena park page)",
+        "value": "https://dlnr.hawaii.gov/dsp/parks/kauai/haena-state-park/?sa=X&ved=2ahUKEwjxmp6QjruGAxVUtMUCHddyDf4QyK4DegQIBBAt"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "State parks info",
+        "url": "https://dlnr.hawaii.gov/dsp/parks/kauai/haena-state-park/?sa=X&ved=2ahUKEwjxmp6QjruGAxVUtMUCHddyDf4QyK4DegQIBBAt"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free for Hawaii residents; non-resident entry/parking fees vary by park",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dlnr.hawaii.gov/dsp/parks/kauai/haena-state-park/?sa=X&ved=2ahUKEwjxmp6QjruGAxVUtMUCHddyDf4QyK4DegQIBBAt"
+    ]
+  }
+]

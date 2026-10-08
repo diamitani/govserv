@@ -1,0 +1,6285 @@
+[
+  {
+    "id": "st-il-drivers-license",
+    "name": "Illinois Driver's License \u2014 New & Renewal",
+    "agency": "Illinois Secretary of State",
+    "category": "IDs & Records",
+    "description": "Apply for a new Illinois driver's license or renew an existing one. Most renewals, replacements, and address changes can be completed online through the Secretary of State.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Illinois resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old (21+ for an unrestricted license)"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewal window",
+        "date": null,
+        "note": "You can renew up to one year before your license expires"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Illinois residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Two proofs of Illinois residency",
+      "Payment for applicable fees"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Illinois Secretary of State \u2014 driver services",
+        "value": "https://www.ilsos.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver services at ilsos.gov",
+        "url": "https://www.ilsos.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal and application fees vary by license type; see the fee schedule on ilsos.gov",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ilsos.gov"
+    ]
+  },
+  {
+    "id": "st-il-vehicle-registration",
+    "name": "Illinois Vehicle Registration & Title",
+    "agency": "Illinois Secretary of State",
+    "category": "IDs & Records",
+    "description": "Register a vehicle, renew license plates and stickers, or transfer a title in Illinois. Renewals can be done online; some counties require emissions testing.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Illinois",
+      "Valid Illinois auto insurance"
+    ],
+    "deadlines": [
+      {
+        "label": "Plate/sticker renewal",
+        "date": null,
+        "note": "Renew before your registration expiration date to avoid late fees"
+      }
+    ],
+    "prerequisites": [
+      "Illinois driver license or state ID",
+      "Valid Illinois auto insurance"
+    ],
+    "whatToBring": [
+      "Vehicle registration renewal notice",
+      "Proof of Illinois auto insurance",
+      "Vehicle title (for new registrations or title transfers)",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Illinois Secretary of State \u2014 vehicle services",
+        "value": "https://www.ilsos.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle services at ilsos.gov",
+        "url": "https://www.ilsos.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ilsos.gov"
+    ]
+  },
+  {
+    "id": "st-il-medicaid",
+    "name": "Illinois Medicaid (HealthChoice Illinois)",
+    "agency": "Illinois Department of Healthcare and Family Services (HFS)",
+    "category": "Health & Benefits",
+    "description": "Illinois Medicaid provides free or low-cost health coverage to eligible low-income residents through HealthChoice Illinois managed care plans. Apply online through the ABE portal.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Illinois resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Illinois residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Illinois residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for benefits (ABE portal)",
+        "value": "https://abe.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "HFS Health Benefits Hotline",
+        "value": "1-800-843-6154"
+      },
+      {
+        "kind": "phone",
+        "label": "HealthChoice Illinois",
+        "value": "1-800-226-0768"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online at abe.illinois.gov",
+        "url": "https://abe.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://abe.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-snap",
+    "name": "Illinois SNAP (Food Assistance)",
+    "agency": "Illinois Department of Human Services (DHS)",
+    "category": "Health & Benefits",
+    "description": "Illinois SNAP provides monthly benefits on an Illinois Link card to help eligible low-income households buy food. Apply online through the ABE portal.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Illinois resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Illinois residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Illinois residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for benefits (ABE portal)",
+        "value": "https://abe.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS Help Line",
+        "value": "1-800-843-6154"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online at abe.illinois.gov",
+        "url": "https://abe.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://abe.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-unemployment",
+    "name": "Illinois Unemployment Insurance \u2014 File a Claim",
+    "agency": "Illinois Department of Employment Security (IDES)",
+    "category": "Work & Business",
+    "description": "File for Illinois unemployment insurance benefits if you lost your job through no fault of your own. Claims are filed online and benefits require bi-weekly certification.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IDES online services",
+        "value": "https://ides.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "IDES claimant services",
+        "value": "1-800-244-5631"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim at ides.illinois.gov",
+        "url": "https://ides.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ides.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-voter-registration",
+    "name": "Illinois Voter Registration",
+    "agency": "Illinois State Board of Elections",
+    "category": "Civic & Community",
+    "description": "Register to vote or update your registration in Illinois. You can register online, by mail, or in person \u2014 and Illinois offers grace-period registration after the regular deadline.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Illinois resident for at least 30 days before the election",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Regular registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-18",
+        "note": "Online registration closes Oct 18; grace-period registration remains available at election authority offices through Election Day"
+      }
+    ],
+    "prerequisites": [
+      "Illinois driver license, state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Illinois driver license or state ID",
+      "Proof of address if registering in person during grace period"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://ova.elections.il.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "State Board of Elections",
+        "value": "217-782-4141"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://ova.elections.il.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ova.elections.il.gov"
+    ]
+  },
+  {
+    "id": "st-il-business-registration",
+    "name": "Illinois Business Registration / LLC Formation",
+    "agency": "Illinois Secretary of State \u2014 Business Services",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Illinois by filing Articles of Organization with the Secretary of State's Business Services division.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Illinois entities",
+      "Illinois registered agent with an Illinois address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Illinois registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Illinois address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business Services",
+        "value": "https://www.ilsos.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Business Services",
+        "value": "217-524-8008"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online with the Illinois Secretary of State",
+        "url": "https://www.ilsos.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$150 to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ilsos.gov"
+    ]
+  },
+  {
+    "id": "st-il-tax-filing",
+    "name": "Illinois Individual Income Tax Filing",
+    "agency": "Illinois Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Illinois does have a state individual income tax \u2014 a flat 4.95% rate on Illinois base income. File and pay for free through MyTax Illinois.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Illinois resident, part-year resident, or nonresident with Illinois-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Illinois individual income tax returns (IL-1040) are due April 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms",
+      "Prior-year Illinois return (for online account setup)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyTax Illinois",
+        "value": "https://mytax.illinois.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at MyTax Illinois",
+        "url": "https://mytax.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through MyTax Illinois",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mytax.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-professional-licensing",
+    "name": "Illinois Professional Licensing (IDFPR)",
+    "agency": "Illinois Department of Financial and Professional Regulation (IDFPR)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Illinois \u2014 from nursing and real estate to cosmetology and engineering \u2014 through IDFPR.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IDFPR online services",
+        "value": "https://idfpr.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "IDFPR",
+        "value": "1-888-473-4858"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply or renew at idfpr.illinois.gov",
+        "url": "https://idfpr.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://idfpr.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-birth-certificate",
+    "name": "Illinois Birth Certificate (Vital Records)",
+    "agency": "Illinois Department of Public Health \u2014 Division of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Illinois birth certificate from the Division of Vital Records. Processing takes about 12 weeks, so order early.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Illinois"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Division of Vital Records",
+        "value": "217-782-6554"
+      },
+      {
+        "kind": "in-person",
+        "label": "Vital Records office",
+        "value": "110 W Lawrence Ave, Springfield, IL"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Illinois vital records information",
+        "url": "https://www.ilsos.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10\u2013$15 per certified copy; $2 for each additional copy of the same record",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ilsos.gov"
+    ]
+  },
+  {
+    "id": "st-il-tanf",
+    "name": "Illinois TANF (Cash Assistance)",
+    "agency": "Illinois Department of Human Services (DHS)",
+    "category": "Health & Benefits",
+    "description": "Illinois TANF provides temporary monthly cash assistance to eligible low-income families with children. Apply online through the ABE portal.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Illinois resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Illinois residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Illinois residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Apply for benefits (ABE portal)",
+        "value": "https://abe.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "DHS Help Line",
+        "value": "1-800-843-6154"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply online at abe.illinois.gov",
+        "url": "https://abe.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://abe.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-il-parks-pass",
+    "name": "Illinois State Parks \u2014 Free Entry",
+    "agency": "Illinois Department of Natural Resources (DNR)",
+    "category": "Civic & Community",
+    "description": "Illinois state parks charge no entrance or parking fees \u2014 access is funded by a $2 surcharge on vehicle registration (SB 1566), so no pass is needed.",
+    "scope": {
+      "level": "state",
+      "state": "IL"
+    },
+    "eligibility": [
+      "Open to everyone \u2014 no pass or residency required"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Illinois DNR",
+        "value": "https://dnr.illinois.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Illinois DNR",
+        "value": "217-782-6302"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find an Illinois state park",
+        "url": "https://dnr.illinois.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free \u2014 no entrance fees",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dnr.illinois.gov"
+    ]
+  },
+  {
+    "id": "st-id-drivers-license",
+    "name": "Idaho Driver's License \u2014 New & Renewal",
+    "agency": "Idaho Transportation Department \u2014 Division of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Apply for a new Idaho driver's license or renew an existing one. Renew online for a $5 discount, or visit a county DMV office.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old (21+ for unrestricted license)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Idaho residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Idaho residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idaho DMV online services",
+        "value": "https://dmv.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho DMV",
+        "value": "208-584-4343"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online at dmv.idaho.gov",
+        "url": "https://dmv.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$35 for 4 years / $60 for 8 years ($5 discount when renewing online)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-vehicle-registration",
+    "name": "Idaho Vehicle Registration & Title",
+    "agency": "Idaho Transportation Department \u2014 Division of Motor Vehicles",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Idaho. Vehicle registration is handled through county DMV offices, with renewals available online.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Idaho",
+      "Valid Idaho auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Idaho driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Idaho auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idaho DMV online services",
+        "value": "https://dmv.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho DMV",
+        "value": "208-584-4343"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle services at dmv.idaho.gov",
+        "url": "https://dmv.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-medicaid",
+    "name": "Idaho Medicaid",
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "category": "Health & Benefits",
+    "description": "Idaho Medicaid provides free or low-cost health coverage to eligible low-income residents, including children, pregnant women, and people with disabilities. Apply through Idalink.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Idaho residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Idaho residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idalink self-service portal",
+        "value": "https://idalink.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho DHW",
+        "value": "1-877-456-1233"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through Idalink",
+        "url": "https://idalink.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://idalink.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-snap",
+    "name": "Idaho SNAP (Food Assistance)",
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "category": "Health & Benefits",
+    "description": "Idaho Food Assistance (SNAP) provides monthly benefits to help eligible low-income households buy food. Apply online through Idalink.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Idaho residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Idaho residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idalink self-service portal",
+        "value": "https://idalink.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho DHW",
+        "value": "1-877-456-1233"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through Idalink",
+        "url": "https://idalink.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://idalink.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-unemployment",
+    "name": "Idaho Unemployment Insurance \u2014 File a Claim",
+    "agency": "Idaho Department of Labor",
+    "category": "Work & Business",
+    "description": "File for Idaho unemployment insurance benefits if you lost your job through no fault of your own. Apply online and file weekly claims to keep benefits coming.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idaho Department of Labor \u2014 unemployment",
+        "value": "https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho Department of Labor",
+        "value": "208-332-8942"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to apply for unemployment benefits",
+        "url": "https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/"
+    ]
+  },
+  {
+    "id": "st-id-voter-registration",
+    "name": "Idaho Voter Registration",
+    "agency": "Idaho Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Idaho online, by mail, or in person \u2014 and Idaho allows voter registration on Election Day at your polling place.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Idaho resident for at least 30 days before the election",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Online registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-23",
+        "note": "Register online by Oct 23; Idaho also allows registration on Election Day at your polling place"
+      }
+    ],
+    "prerequisites": [
+      "Idaho driver license or state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Idaho driver license or state ID",
+      "Proof of address if registering on Election Day"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VoteIdaho \u2014 voter registration",
+        "value": "https://voteidaho.gov/voter-registration/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote at voteidaho.gov",
+        "url": "https://voteidaho.gov/voter-registration/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://voteidaho.gov/voter-registration/"
+    ]
+  },
+  {
+    "id": "st-id-business-registration",
+    "name": "Idaho Business Registration / LLC Formation",
+    "agency": "Idaho Secretary of State",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Idaho by filing with the Secretary of State through the SOSBiz online portal.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Idaho entities",
+      "Idaho registered agent with an Idaho address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Idaho registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Idaho address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SOSBiz business filings",
+        "value": "https://sosbiz.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho Secretary of State",
+        "value": "208-334-2301"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online with SOSBiz",
+        "url": "https://sosbiz.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sosbiz.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-tax-filing",
+    "name": "Idaho Individual Income Tax Filing",
+    "agency": "Idaho State Tax Commission",
+    "category": "Money & Taxes",
+    "description": "Idaho does have a state individual income tax. File and pay for free through the Tax Commission's FreeFile options.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident, part-year resident, or nonresident with Idaho-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Idaho individual income tax returns due April 15, 2026; automatic extension to Oct 15, 2026 for filing (not for paying)"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FreeFile",
+        "value": "https://tax.idaho.gov/freefile"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho State Tax Commission",
+        "value": "208-334-7660"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-972-7660"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "FreeFile at tax.idaho.gov",
+        "url": "https://tax.idaho.gov/freefile"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through FreeFile",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.idaho.gov/freefile"
+    ]
+  },
+  {
+    "id": "st-id-professional-licensing",
+    "name": "Idaho Professional Licensing (DOPL)",
+    "agency": "Idaho Division of Occupational and Professional Licenses (DOPL)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Idaho \u2014 from nursing and real estate to cosmetology and contracting \u2014 through DOPL.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DOPL online services",
+        "value": "https://dopl.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "DOPL",
+        "value": "208-334-3233"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at dopl.idaho.gov",
+        "url": "https://dopl.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dopl.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-birth-certificate",
+    "name": "Idaho Birth Certificate (Vital Records)",
+    "agency": "Idaho Department of Health and Welfare \u2014 Bureau of Vital Records and Health Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Idaho birth certificate from the Bureau of Vital Records and Health Statistics.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Idaho"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Order a birth certificate",
+        "value": "https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/ordering-birth-certificate"
+      },
+      {
+        "kind": "phone",
+        "label": "Bureau of Vital Records",
+        "value": "208-334-5980"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "PO Box 83720, Boise, ID 83720-0036"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Ordering a birth certificate",
+        "url": "https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/ordering-birth-certificate"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$16 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/ordering-birth-certificate"
+    ]
+  },
+  {
+    "id": "st-id-tanf",
+    "name": "Idaho TANF (TAFI \u2014 Temporary Assistance for Families in Idaho)",
+    "agency": "Idaho Department of Health and Welfare (DHW)",
+    "category": "Health & Benefits",
+    "description": "Idaho's TANF program, Temporary Assistance for Families in Idaho (TAFI), provides temporary monthly cash assistance (up to $309/month) to eligible low-income families with children, with a 24-month lifetime limit.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Idaho resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Idaho residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Idaho residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Idalink self-service portal",
+        "value": "https://idalink.idaho.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Idaho DHW",
+        "value": "1-877-456-1233"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through Idalink",
+        "url": "https://idalink.idaho.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://idalink.idaho.gov"
+    ]
+  },
+  {
+    "id": "st-id-parks-pass",
+    "name": "Idaho State Parks Passport",
+    "agency": "Idaho Department of Parks and Recreation",
+    "category": "Civic & Community",
+    "description": "The Idaho State Parks Passport gives you a year of day-use access to all Idaho state parks for just $10 when you add it to your annual vehicle registration.",
+    "scope": {
+      "level": "state",
+      "state": "ID"
+    },
+    "eligibility": [
+      "Available to anyone registering a vehicle in Idaho"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Idaho vehicle registration"
+    ],
+    "whatToBring": [
+      "Vehicle registration information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "State Parks Passport info",
+        "value": "https://parksandrecreation.idaho.gov/idaho-state-parks-passport/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Idaho State Parks Passport",
+        "url": "https://parksandrecreation.idaho.gov/idaho-state-parks-passport/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 per year when added to your vehicle registration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://parksandrecreation.idaho.gov/idaho-state-parks-passport/"
+    ]
+  },
+  {
+    "id": "st-in-drivers-license",
+    "name": "Indiana Driver's License \u2014 New & Renewal",
+    "agency": "Indiana Bureau of Motor Vehicles (BMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Indiana driver's license or renew an existing one. Most renewals and replacements can be completed online through myBMV.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Indiana resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Indiana residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Indiana residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myBMV online services",
+        "value": "https://www.mybmv.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Online services at mybmv.com",
+        "url": "https://www.mybmv.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal and application fees vary by credential type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mybmv.com"
+    ]
+  },
+  {
+    "id": "st-in-vehicle-registration",
+    "name": "Indiana Vehicle Registration & Title",
+    "agency": "Indiana Bureau of Motor Vehicles (BMV)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Indiana. Renew registrations online through myBMV or at a BMV branch or self-service kiosk.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Indiana",
+      "Valid Indiana auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Indiana driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Indiana auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myBMV online services",
+        "value": "https://www.mybmv.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle services at mybmv.com",
+        "url": "https://www.mybmv.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mybmv.com"
+    ]
+  },
+  {
+    "id": "st-in-medicaid",
+    "name": "Indiana Medicaid (Hoosier Healthwise & HIP)",
+    "agency": "Indiana Family and Social Services Administration (FSSA)",
+    "category": "Health & Benefits",
+    "description": "Indiana Medicaid \u2014 Hoosier Healthwise and the Healthy Indiana Plan (HIP) \u2014 provides free or low-cost health coverage to eligible low-income residents. Apply through the FSSA Benefits Portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Indiana resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Indiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Indiana residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FSSA Benefits Portal",
+        "value": "https://fssabenefits.in.gov/bp/"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of Family Resources",
+        "value": "800-403-0864"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the FSSA Benefits Portal",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "st-in-snap",
+    "name": "Indiana SNAP (Food Assistance)",
+    "agency": "Indiana Family and Social Services Administration (FSSA)",
+    "category": "Health & Benefits",
+    "description": "Indiana SNAP provides monthly benefits to help eligible low-income households buy food. Apply online through the FSSA Benefits Portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Indiana resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Indiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Indiana residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FSSA Benefits Portal",
+        "value": "https://fssabenefits.in.gov/bp/"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of Family Resources",
+        "value": "800-403-0864"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the FSSA Benefits Portal",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "st-in-unemployment",
+    "name": "Indiana Unemployment Insurance \u2014 File a Claim",
+    "agency": "Indiana Department of Workforce Development (DWD)",
+    "category": "Work & Business",
+    "description": "File for Indiana unemployment insurance benefits if you lost your job through no fault of your own. Claims are filed through the Uplink online system.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Uplink claimant portal",
+        "value": "https://uplink.in.gov/CSS/CSSLogon.htm"
+      },
+      {
+        "kind": "phone",
+        "label": "DWD unemployment",
+        "value": "1-800-891-6499"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File through Uplink",
+        "url": "https://uplink.in.gov/CSS/CSSLogon.htm"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://uplink.in.gov/CSS/CSSLogon.htm"
+    ]
+  },
+  {
+    "id": "st-in-voter-registration",
+    "name": "Indiana Voter Registration",
+    "agency": "Indiana Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Indiana online, by mail, or in person. Check your registration status and polling place through the Indiana Voters portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Indiana resident for at least 30 days before the election",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-05",
+        "note": "Register by Oct 5 to vote in the Nov 3 general election"
+      }
+    ],
+    "prerequisites": [
+      "Indiana driver license, state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Indiana driver license or state ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Indiana Voters portal",
+        "value": "https://indianavoters.in.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Hoosier Voter Hotline (1-866-IN-1-VOTE)",
+        "value": "1-866-461-8683"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at indianavoters.in.gov",
+        "url": "https://indianavoters.in.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://indianavoters.in.gov"
+    ]
+  },
+  {
+    "id": "st-in-business-registration",
+    "name": "Indiana Business Registration / LLC Formation (INBiz)",
+    "agency": "Indiana Secretary of State",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Indiana by filing with the Secretary of State through INBiz \u2014 $95 online, $100 by mail.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Indiana entities",
+      "Indiana registered agent with an Indiana address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Indiana registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Indiana address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "INBiz business filings",
+        "value": "https://inbiz.in.gov/business-filings/registration"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with INBiz",
+        "url": "https://inbiz.in.gov/business-filings/registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$95 online / $100 by mail to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://inbiz.in.gov/business-filings/registration"
+    ]
+  },
+  {
+    "id": "st-in-tax-filing",
+    "name": "Indiana Individual Income Tax Filing",
+    "agency": "Indiana Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Indiana does have a state individual income tax. File and pay for free through the Department of Revenue's INTIME portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Indiana resident, part-year resident, or nonresident with Indiana-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Indiana individual income tax returns due April 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "INTIME online services",
+        "value": "https://intime.dor.in.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Indiana Department of Revenue",
+        "value": "317-232-2240"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-457-8283"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with INTIME",
+        "url": "https://intime.dor.in.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through INTIME",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://intime.dor.in.gov"
+    ]
+  },
+  {
+    "id": "st-in-professional-licensing",
+    "name": "Indiana Professional Licensing (IPLA)",
+    "agency": "Indiana Professional Licensing Agency (IPLA)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Indiana \u2014 from nursing and real estate to cosmetology and contracting \u2014 through IPLA's MyLicense One portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyLicense One portal",
+        "value": "https://mylicense.in.gov/eGov/ML1PLA.html"
+      },
+      {
+        "kind": "phone",
+        "label": "IPLA",
+        "value": "317-234-3022"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through MyLicense One",
+        "url": "https://mylicense.in.gov/eGov/ML1PLA.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mylicense.in.gov/eGov/ML1PLA.html"
+    ]
+  },
+  {
+    "id": "st-in-birth-certificate",
+    "name": "Indiana Birth Certificate (Vital Records)",
+    "agency": "Indiana Department of Health \u2014 Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Indiana birth certificate from the Department of Health's Vital Records office.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Indiana"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "IDOH Vital Records",
+        "value": "https://www.in.gov/health/vital-records/"
+      },
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "317-233-2700"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital records information",
+        "url": "https://www.in.gov/health/vital-records/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.in.gov/health/vital-records/"
+    ]
+  },
+  {
+    "id": "st-in-tanf",
+    "name": "Indiana TANF (Cash Assistance)",
+    "agency": "Indiana Family and Social Services Administration (FSSA)",
+    "category": "Health & Benefits",
+    "description": "Indiana TANF provides temporary monthly cash assistance to eligible low-income families with children. Apply online through the FSSA Benefits Portal.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Indiana resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Indiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Indiana residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "FSSA Benefits Portal",
+        "value": "https://fssabenefits.in.gov/bp/"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of Family Resources",
+        "value": "800-403-0864"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the FSSA Benefits Portal",
+        "url": "https://fssabenefits.in.gov/bp/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://fssabenefits.in.gov/bp/"
+    ]
+  },
+  {
+    "id": "st-in-parks-pass",
+    "name": "Indiana State Parks Annual Entrance Pass",
+    "agency": "Indiana Department of Natural Resources (DNR)",
+    "category": "Civic & Community",
+    "description": "The Indiana State Parks annual entrance pass gives you a year of unlimited day-use access to all Indiana state park properties \u2014 $50 for residents, $70 for nonresidents.",
+    "scope": {
+      "level": "state",
+      "state": "IN"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Indiana state parks",
+        "value": "https://stateparks.in.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a pass at shopINstateparks.com",
+        "url": "https://www.shopinstateparks.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50/year resident / $70/year nonresident",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://stateparks.in.gov"
+    ]
+  },
+  {
+    "id": "st-ia-drivers-license",
+    "name": "Iowa Driver's License \u2014 New & Renewal",
+    "agency": "Iowa Department of Transportation (Iowa DOT)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Iowa driver's license or renew an existing one. Online renewal is available only through myMVD; first-time licenses require an in-person visit.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Iowa residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Iowa residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myMVD online services",
+        "value": "https://mymvd.iowadot.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa DOT",
+        "value": "515-239-1101"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online at mymvd.iowadot.gov",
+        "url": "https://mymvd.iowadot.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal and application fees vary by credential type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mymvd.iowadot.gov"
+    ]
+  },
+  {
+    "id": "st-ia-vehicle-registration",
+    "name": "Iowa Vehicle Registration & Title",
+    "agency": "Iowa Department of Transportation (Iowa DOT)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Iowa. County treasurer offices handle titling and registration, with renewals available online through myMVD.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Iowa",
+      "Valid Iowa auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Iowa driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Iowa auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myMVD online services",
+        "value": "https://mymvd.iowadot.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa DOT",
+        "value": "515-239-1101"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle services at mymvd.iowadot.gov",
+        "url": "https://mymvd.iowadot.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mymvd.iowadot.gov"
+    ]
+  },
+  {
+    "id": "st-ia-medicaid",
+    "name": "Iowa Medicaid",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Health & Benefits",
+    "description": "Iowa Medicaid provides free or low-cost health coverage to eligible low-income residents. Apply online through the Iowa HHS benefits portal.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Iowa residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Iowa residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS benefits portal",
+        "value": "https://hhsservices.iowa.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa HHS",
+        "value": "877-347-5678"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa HHS (alternate)",
+        "value": "855-889-7985"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the Iowa HHS benefits portal",
+        "url": "https://hhsservices.iowa.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hhsservices.iowa.gov/"
+    ]
+  },
+  {
+    "id": "st-ia-snap",
+    "name": "Iowa SNAP (Food Assistance)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Health & Benefits",
+    "description": "Iowa Food Assistance (SNAP) provides monthly benefits to help eligible low-income households buy food. Apply online through the Iowa HHS benefits portal.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Iowa residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Iowa residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS benefits portal",
+        "value": "https://hhsservices.iowa.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa HHS",
+        "value": "1-877-347-5678"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the Iowa HHS benefits portal",
+        "url": "https://hhsservices.iowa.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hhsservices.iowa.gov/"
+    ]
+  },
+  {
+    "id": "st-ia-unemployment",
+    "name": "Iowa Unemployment Insurance \u2014 File a Claim",
+    "agency": "Iowa Workforce Development",
+    "category": "Work & Business",
+    "description": "File for Iowa unemployment insurance benefits if you lost your job through no fault of your own. All claims are filed online at iowaworks.gov.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa Workforce Development \u2014 file a claim",
+        "value": "https://iowaworks.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim at iowaworks.gov",
+        "url": "https://iowaworks.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://iowaworks.gov"
+    ]
+  },
+  {
+    "id": "st-ia-voter-registration",
+    "name": "Iowa Voter Registration",
+    "agency": "Iowa Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Iowa online, by mail, or in person \u2014 and Iowa allows voter registration on Election Day at your polling place.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Iowa resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Online/mail registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-19",
+        "note": "Register online or by mail by Oct 19; Iowa also allows registration on Election Day at your polling place"
+      }
+    ],
+    "prerequisites": [
+      "Iowa driver license, state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Iowa driver license or state ID",
+      "Proof of address if registering on Election Day"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VoterReady Iowa",
+        "value": "https://voterready.iowa.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa Secretary of State",
+        "value": "515-281-0145"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at voterready.iowa.gov",
+        "url": "https://voterready.iowa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://voterready.iowa.gov"
+    ]
+  },
+  {
+    "id": "st-ia-business-registration",
+    "name": "Iowa Business Registration / LLC Formation",
+    "agency": "Iowa Secretary of State \u2014 Business Services",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Iowa by filing with the Secretary of State's Business Services division, including the online Fast Track Filing system.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Iowa entities",
+      "Iowa registered agent with an Iowa address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Iowa registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Iowa address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa SOS business services",
+        "value": "https://sos.iowa.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa Secretary of State",
+        "value": "515-281-5204"
+      },
+      {
+        "kind": "email",
+        "label": "Business services email",
+        "value": "sos@sos.iowa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business services at sos.iowa.gov",
+        "url": "https://sos.iowa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Filing fees vary by entity type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.iowa.gov"
+    ]
+  },
+  {
+    "id": "st-ia-tax-filing",
+    "name": "Iowa Individual Income Tax Filing",
+    "agency": "Iowa Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Iowa does have a state individual income tax. File and pay through GovConnectIowa, the Department of Revenue's online tax portal.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa resident, part-year resident, or nonresident with Iowa-source income"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GovConnectIowa",
+        "value": "https://tax.iowa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at tax.iowa.gov (GovConnectIowa)",
+        "url": "https://tax.iowa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through GovConnectIowa",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.iowa.gov"
+    ]
+  },
+  {
+    "id": "st-ia-professional-licensing",
+    "name": "Iowa Professional Licensing (DIAL)",
+    "agency": "Iowa Department of Inspections, Appeals, & Licensing (DIAL)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Iowa \u2014 from nursing and real estate to cosmetology and contracting \u2014 through the Department of Inspections, Appeals, & Licensing.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DIAL online services",
+        "value": "https://dial.iowa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at dial.iowa.gov",
+        "url": "https://dial.iowa.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession (typically around $120 application fee)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dial.iowa.gov"
+    ]
+  },
+  {
+    "id": "st-ia-birth-certificate",
+    "name": "Iowa Birth Certificate (Vital Records)",
+    "agency": "Iowa Department of Health and Human Services \u2014 Bureau of Health Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of an Iowa birth certificate from the Bureau of Health Statistics.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Iowa"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS vital records",
+        "value": "https://hhs.iowa.gov/family-community/vital-records"
+      },
+      {
+        "kind": "phone",
+        "label": "Bureau of Health Statistics",
+        "value": "515-281-4944"
+      },
+      {
+        "kind": "email",
+        "label": "Vital records email",
+        "value": "vitalrecords@hhs.iowa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital records information",
+        "url": "https://hhs.iowa.gov/family-community/vital-records"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "About $20 per certified copy (online via VitalChek)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hhs.iowa.gov/family-community/vital-records"
+    ]
+  },
+  {
+    "id": "st-ia-tanf",
+    "name": "Iowa TANF (Family Investment Program \u2014 FIP)",
+    "agency": "Iowa Department of Health and Human Services (Iowa HHS)",
+    "category": "Health & Benefits",
+    "description": "Iowa's TANF program, the Family Investment Program (FIP), provides temporary monthly cash assistance to eligible low-income families with children. Apply through the Iowa HHS benefits portal.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Iowa resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Iowa residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Iowa residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa HHS benefits portal",
+        "value": "https://hhsservices.iowa.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa HHS",
+        "value": "877-347-5678"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through the Iowa HHS benefits portal",
+        "url": "https://hhsservices.iowa.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://hhsservices.iowa.gov/"
+    ]
+  },
+  {
+    "id": "st-ia-parks-pass",
+    "name": "Iowa State Parks \u2014 Free Entry & Camping Reservations",
+    "agency": "Iowa Department of Natural Resources (DNR)",
+    "category": "Civic & Community",
+    "description": "Iowa state parks are free to enter. Reserve campsites, cabins, and shelters online or by phone.",
+    "scope": {
+      "level": "state",
+      "state": "IA"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Iowa state parks",
+        "value": "https://www.iowadnr.gov/stateparks"
+      },
+      {
+        "kind": "phone",
+        "label": "Campsite reservations",
+        "value": "877-427-2757"
+      },
+      {
+        "kind": "phone",
+        "label": "Iowa DNR",
+        "value": "515-725-8200"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Reserve a campsite",
+        "url": "https://www.iowastateparks.reserveamerica.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free park entry; campsite and facility fees vary",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.iowadnr.gov/stateparks"
+    ]
+  },
+  {
+    "id": "st-ks-drivers-license",
+    "name": "Kansas Driver's License \u2014 New & Renewal",
+    "agency": "Kansas Department of Revenue \u2014 Division of Vehicles",
+    "category": "IDs & Records",
+    "description": "Apply for a new Kansas driver's license or renew an existing one. Drivers ages 21\u201364 can renew online through iKan; others visit a driver license station.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Kansas resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old (21+ for unrestricted license)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Kansas residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Kansas residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "iKan online services",
+        "value": "https://ikan.ks.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew online with iKan",
+        "url": "https://ikan.ks.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$26 for a 6-year license renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ikan.ks.gov/"
+    ]
+  },
+  {
+    "id": "st-ks-vehicle-registration",
+    "name": "Kansas Vehicle Registration & Title",
+    "agency": "Kansas Department of Revenue \u2014 Division of Vehicles",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Kansas. County treasurer offices handle titling and registration, with tag renewals available online through iKan or Kansas WebTags.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Kansas",
+      "Valid Kansas auto insurance"
+    ],
+    "deadlines": [
+      {
+        "label": "Tag renewal",
+        "date": null,
+        "note": "Tags expire the last day of your renewal month; online renewals get a 10-day grace period while the new decal arrives"
+      }
+    ],
+    "prerequisites": [
+      "Kansas driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Kansas auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "iKan online services",
+        "value": "https://ikan.ks.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew tags online with iKan",
+        "url": "https://ikan.ks.gov/"
+      },
+      {
+        "label": "Kansas WebTags",
+        "url": "https://www.kswebtags.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ikan.ks.gov/",
+      "https://www.kswebtags.org"
+    ]
+  },
+  {
+    "id": "st-ks-medicaid",
+    "name": "Kansas Medicaid (KanCare)",
+    "agency": "Kansas Department of Health and Environment (KDHE) \u2014 KanCare",
+    "category": "Health & Benefits",
+    "description": "Kansas's Medicaid program is called KanCare. It provides free or low-cost health coverage to eligible low-income residents, including children, pregnant women, and people with disabilities.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Kansas resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kansas residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kansas residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KanCare",
+        "value": "https://www.kancare.ks.gov/home"
+      },
+      {
+        "kind": "phone",
+        "label": "KanCare Clearinghouse",
+        "value": "1-800-792-4884"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for KanCare",
+        "url": "https://www.kancare.ks.gov/home"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.kancare.ks.gov/home"
+    ]
+  },
+  {
+    "id": "st-ks-snap",
+    "name": "Kansas SNAP (Food Assistance)",
+    "agency": "Kansas Department for Children and Families (DCF)",
+    "category": "Health & Benefits",
+    "description": "Kansas Food Assistance (SNAP) provides monthly benefits to help eligible low-income households buy food. Apply online through Kansas DCF.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Kansas resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kansas residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kansas residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas DCF",
+        "value": "https://www.dcf.ks.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "DCF Benefits Assistance",
+        "value": "1-888-369-4777"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at dcf.ks.gov",
+        "url": "https://www.dcf.ks.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dcf.ks.gov"
+    ]
+  },
+  {
+    "id": "st-ks-unemployment",
+    "name": "Kansas Unemployment Insurance \u2014 File a Claim",
+    "agency": "Kansas Department of Labor (KDOL)",
+    "category": "Work & Business",
+    "description": "File for Kansas unemployment insurance benefits if you lost your job through no fault of your own. Create an account at KansasUI.gov to file and manage your claim.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KansasUI.gov",
+        "value": "https://www.kansasui.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "KDOL unemployment",
+        "value": "785-575-1460"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-292-6333"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Create an account at KansasUI.gov",
+        "url": "https://www.kansasui.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.kansasui.gov/"
+    ]
+  },
+  {
+    "id": "st-ks-voter-registration",
+    "name": "Kansas Voter Registration",
+    "agency": "Kansas Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Kansas online at Vote Kansas, by mail, or in person at your county election office.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Kansas resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-13",
+        "note": "Register by Oct 13 to vote in the Nov 3 general election; advance voting begins Oct 14"
+      }
+    ],
+    "prerequisites": [
+      "Kansas driver license, state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Kansas driver license or state ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vote Kansas",
+        "value": "https://www.votekansas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at votekansas.gov",
+        "url": "https://www.votekansas.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.votekansas.gov",
+      "https://kssos.org/elections/important-election-dates.html"
+    ]
+  },
+  {
+    "id": "st-ks-business-registration",
+    "name": "Kansas Business Registration / LLC Formation",
+    "agency": "Kansas Secretary of State",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Kansas by filing Articles of Organization with the Secretary of State \u2014 $160 online, $165 by mail.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Kansas entities",
+      "Kansas resident agent with a Kansas address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Kansas resident agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Resident agent name and Kansas address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SOS business services",
+        "value": "https://www.sos.ks.gov/businesses/registera-business.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register a business online",
+        "url": "https://www.sos.ks.gov/businesses/registera-business.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$160 online / $165 by mail to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.ks.gov/businesses/registera-business.html"
+    ]
+  },
+  {
+    "id": "st-ks-tax-filing",
+    "name": "Kansas Individual Income Tax Filing",
+    "agency": "Kansas Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Kansas does have a state individual income tax (graduated rates). File for free with KS WebFile, the Department of Revenue's online filing application.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Kansas resident, part-year resident, or nonresident with Kansas-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual filing",
+        "date": null,
+        "note": "Kansas individual income tax returns are filed annually \u2014 check KDOR for the current-year due date"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KS WebFile",
+        "value": "https://ksrevenue.gov/iiwebfile.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File free with KS WebFile",
+        "url": "https://ksrevenue.gov/iiwebfile.html"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through KS WebFile",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ksrevenue.gov/iiwebfile.html"
+    ]
+  },
+  {
+    "id": "st-ks-professional-licensing",
+    "name": "Kansas Professional Licensing (Board of Nursing)",
+    "agency": "Kansas Board of Nursing",
+    "category": "Work & Business",
+    "description": "Kansas has no single unified licensing portal \u2014 boards operate independently. The Kansas Board of Nursing, one of the state's largest licensing boards, handles RN, LPN, and advanced practice nursing licenses through its My Portal.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Varies by license type (nursing education and exam requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Nursing education and passing NCLEX scores for initial licensure"
+    ],
+    "whatToBring": [
+      "License number and personal information",
+      "Continuing education documentation (for renewal)",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas Board of Nursing \u2014 My Portal",
+        "value": "https://ksbn.kansas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "My Portal at ksbn.kansas.gov",
+        "url": "https://ksbn.kansas.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$85 for active RN/LPN license renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ksbn.kansas.gov"
+    ]
+  },
+  {
+    "id": "st-ks-birth-certificate",
+    "name": "Kansas Birth Certificate (Vital Records)",
+    "agency": "Kansas Department of Health and Environment \u2014 Office of Vital Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Kansas birth certificate from the KDHE Office of Vital Statistics \u2014 walk in, by mail, by phone, online via VitalChek, or through the iKan mobile app.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Kansas (state records go back to July 1911)"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KDHE birth certificates",
+        "value": "https://www.kdhe.ks.gov/1186/Birth-Certificate"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of Vital Statistics",
+        "value": "785-296-1400"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office address",
+        "value": "1000 SW Jackson Street, Suite 120, Topeka, KS 66612-2221"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birth certificate information",
+        "url": "https://www.kdhe.ks.gov/1186/Birth-Certificate"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$20 per certified copy (plus $15 expedited service fee via VitalChek)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.kdhe.ks.gov/1186/Birth-Certificate"
+    ]
+  },
+  {
+    "id": "st-ks-tanf",
+    "name": "Kansas TANF Cash Assistance",
+    "agency": "Kansas Department for Children and Families (DCF)",
+    "category": "Health & Benefits",
+    "description": "Kansas TANF Cash Assistance provides temporary monthly cash benefits to eligible low-income families with children, paired with work-focused services. Apply online through Kansas DCF.",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Kansas resident",
+      "Family with a dependent child",
+      "Income and asset limits apply; adults participate in approved work activities"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kansas residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kansas residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas DCF",
+        "value": "https://www.dcf.ks.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "DCF Benefits Assistance",
+        "value": "1-888-369-4777"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at dcf.ks.gov",
+        "url": "https://www.dcf.ks.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dcf.ks.gov"
+    ]
+  },
+  {
+    "id": "st-ks-parks-pass",
+    "name": "Kansas State Park Annual Vehicle Permit",
+    "agency": "Kansas Department of Wildlife and Parks (KDWP)",
+    "category": "Civic & Community",
+    "description": "A Kansas state park annual vehicle permit gives you a year of unlimited entry to all Kansas state parks \u2014 $25 for the 2026 calendar year (higher fees take effect Nov 1, 2026).",
+    "scope": {
+      "level": "state",
+      "state": "KS"
+    },
+    "eligibility": [
+      "Open to everyone; senior/disabled discount for Kansas residents"
+    ],
+    "deadlines": [
+      {
+        "label": "New fee schedule takes effect",
+        "date": "2026-11-01",
+        "note": "Higher vehicle permit fees (e.g., $40 annual) begin Nov 1, 2026"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kansas Department of Wildlife and Parks",
+        "value": "https://www.ksoutdoors.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Kansas state parks (ksoutdoors.gov)",
+        "url": "https://www.ksoutdoors.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$25 annual vehicle permit ($13.75 senior/disabled Kansas residents)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.ksoutdoors.gov"
+    ]
+  },
+  {
+    "id": "st-ky-drivers-license",
+    "name": "Kentucky Driver's License \u2014 New & Renewal",
+    "agency": "Kentucky Transportation Cabinet (KYTC) \u2014 Division of Driver Licensing",
+    "category": "IDs & Records",
+    "description": "Apply for a new Kentucky driver's license or renew an existing one. Since 2020 licensing moved from circuit court clerks to KYTC's regional offices; renew online via MyDrive if your name and address haven't changed, or book an appointment at drive.ky.gov.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Kentucky resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Kentucky residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Kentucky residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Drive Kentucky",
+        "value": "https://drive.ky.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "KYTC",
+        "value": "502-564-1257"
+      },
+      {
+        "kind": "in-person",
+        "label": "KYTC headquarters",
+        "value": "200 Mero St, Frankfort, KY 40622"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver licensing at drive.ky.gov",
+        "url": "https://drive.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal fees vary by credential type and length",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://drive.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-vehicle-registration",
+    "name": "Kentucky Vehicle Registration & Title",
+    "agency": "Kentucky Transportation Cabinet (KYTC)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Kentucky. County clerk offices handle titling and registration; renewals are available online. Renew in your birth month each year.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Kentucky",
+      "Valid Kentucky auto insurance"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew in your birth month each year; handle titling and registration through your county clerk's office"
+      }
+    ],
+    "prerequisites": [
+      "Kentucky driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Kentucky auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Drive Kentucky",
+        "value": "https://drive.ky.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "KYTC",
+        "value": "502-564-1257"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew registration online",
+        "url": "https://secure.kentucky.gov/kytc/renewal"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://drive.ky.gov",
+      "https://secure.kentucky.gov/kytc/renewal"
+    ]
+  },
+  {
+    "id": "st-ky-medicaid",
+    "name": "Kentucky Medicaid",
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS) \u2014 Department for Medicaid Services",
+    "category": "Health & Benefits",
+    "description": "Kentucky Medicaid provides free or low-cost health coverage to eligible low-income residents. Apply online through kynect benefits, by phone, or at a local DCBS office.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Kentucky resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kentucky residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kentucky residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "kynect benefits",
+        "value": "https://kynect.ky.gov/benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "kynect",
+        "value": "1-855-306-8959"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at kynect.ky.gov/benefits",
+        "url": "https://kynect.ky.gov/benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://kynect.ky.gov/benefits"
+    ]
+  },
+  {
+    "id": "st-ky-snap",
+    "name": "Kentucky SNAP (Food Assistance)",
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS)",
+    "category": "Health & Benefits",
+    "description": "Kentucky SNAP provides monthly benefits to help eligible low-income households buy food. Apply online through kynect benefits \u2014 one application covers Medicaid, SNAP, and KTAP.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Kentucky resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kentucky residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kentucky residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "kynect benefits",
+        "value": "https://kynect.ky.gov/benefits"
+      },
+      {
+        "kind": "phone",
+        "label": "kynect",
+        "value": "1-855-306-8959"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at kynect.ky.gov/benefits",
+        "url": "https://kynect.ky.gov/benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://kynect.ky.gov/benefits"
+    ]
+  },
+  {
+    "id": "st-ky-unemployment",
+    "name": "Kentucky Unemployment Insurance \u2014 File a Claim",
+    "agency": "Kentucky Career Center \u2014 Office of Unemployment Insurance",
+    "category": "Work & Business",
+    "description": "File for Kentucky unemployment insurance benefits if you lost your job through no fault of your own. File your initial claim online at kcc.ky.gov or by phone.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned at least $1,500 in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kentucky Career Center",
+        "value": "https://kcc.ky.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "UI assistance line (M\u2013F 7:30am\u20135:30pm ET)",
+        "value": "502-875-0442"
+      },
+      {
+        "kind": "phone",
+        "label": "Continued claims (toll-free)",
+        "value": "1-877-369-5984"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online at kcc.ky.gov",
+        "url": "https://kcc.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://kcc.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-voter-registration",
+    "name": "Kentucky Voter Registration",
+    "agency": "Kentucky State Board of Elections",
+    "category": "Civic & Community",
+    "description": "Register to vote in Kentucky online at GoVoteKY, by mail, or in person at your county clerk's office.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Kentucky resident for at least 28 days before the election",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-05",
+        "note": "Register online by 4 p.m. local time Oct 5; mailed registrations must be postmarked by Oct 5"
+      }
+    ],
+    "prerequisites": [
+      "Kentucky driver license or state ID to complete the online application"
+    ],
+    "whatToBring": [
+      "Kentucky driver license or state ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GoVoteKY \u2014 voter services",
+        "value": "https://govote.ky.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at govote.ky.gov",
+        "url": "https://govote.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://govote.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-business-registration",
+    "name": "Kentucky Business Registration / LLC Formation",
+    "agency": "Kentucky Secretary of State",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Kentucky by filing with the Secretary of State through FastTrack \u2014 a $40 filing fee for LLCs.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Kentucky entities",
+      "Kentucky registered agent with a Kentucky address"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual report due",
+        "date": "2026-06-30",
+        "note": "Annual reports are due January 1 \u2013 June 30 each year"
+      }
+    ],
+    "prerequisites": [
+      "Chosen business name",
+      "Kentucky registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Kentucky address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SOS online services",
+        "value": "https://web.sos.ky.gov/ofx/timeline?id=52"
+      },
+      {
+        "kind": "phone",
+        "label": "Secretary of State",
+        "value": "502-564-3490"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "PO Box 718, Frankfort, KY 40602"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online with FastTrack",
+        "url": "https://web.sos.ky.gov/ofx/timeline?id=52"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$40 to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://web.sos.ky.gov/ofx/timeline?id=52"
+    ]
+  },
+  {
+    "id": "st-ky-tax-filing",
+    "name": "Kentucky Individual Income Tax Filing",
+    "agency": "Kentucky Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Kentucky does have a state individual income tax \u2014 a flat 4% rate. File for free with KY File, the Department of Revenue's online filing system.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Kentucky resident, part-year resident, or nonresident with Kentucky-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Kentucky individual income tax returns due April 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kentucky Department of Revenue",
+        "value": "https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx"
+      },
+      {
+        "kind": "phone",
+        "label": "Department of Revenue",
+        "value": "502-564-4581"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File free with KY File",
+        "url": "https://filetaxes.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file with KY File",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx",
+      "https://filetaxes.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-professional-licensing",
+    "name": "Kentucky Professional Licensing (Public Protection Cabinet)",
+    "agency": "Kentucky Public Protection Cabinet \u2014 Department of Professional Licensing",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Kentucky \u2014 from real estate and nursing to cosmetology and engineering \u2014 through the Public Protection Cabinet's online services.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Public Protection Cabinet",
+        "value": "https://ppc.ky.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "PPC",
+        "value": "502-564-5525"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply or renew online (PPC)",
+        "url": "https://ppc.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ppc.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-birth-certificate",
+    "name": "Kentucky Birth Certificate (Vital Records)",
+    "agency": "Kentucky Cabinet for Health and Family Services \u2014 Office of Vital Statistics",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Kentucky birth certificate from the Office of Vital Statistics \u2014 by mail, in person (same-day service 8:00 AM\u20133:30 PM), or online/by phone through VitalChek.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Kentucky"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CHFS \u2014 vital statistics",
+        "value": "https://chfs.ky.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of Vital Statistics",
+        "value": "502-564-4212"
+      },
+      {
+        "kind": "phone",
+        "label": "VitalChek",
+        "value": "800-241-8322"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "275 E Main St 1E-A, Frankfort, KY 40621"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "CHFS Office of Vital Statistics",
+        "url": "https://chfs.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 per certified copy (plus VitalChek fees for online/phone orders)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://chfs.ky.gov"
+    ]
+  },
+  {
+    "id": "st-ky-tanf",
+    "name": "Kentucky TANF (KTAP \u2014 Kentucky Transitional Assistance Program)",
+    "agency": "Kentucky Cabinet for Health and Family Services (CHFS)",
+    "category": "Health & Benefits",
+    "description": "Kentucky's TANF program, the Kentucky Transitional Assistance Program (KTAP), provides financial and medical assistance to needy dependent children and their parents or caretaker relatives, with a 60-month lifetime limit. Apply through kynect benefits, by phone, or at a DCBS office.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Kentucky resident",
+      "Parent or caretaker relative of a child under 18 (19 if in school)",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Kentucky residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Kentucky residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "KTAP program page",
+        "value": "https://chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx"
+      },
+      {
+        "kind": "phone",
+        "label": "DCBS Call Services",
+        "value": "855-306-8959"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at kynect.ky.gov/benefits",
+        "url": "https://kynect.ky.gov/benefits"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx"
+    ]
+  },
+  {
+    "id": "st-ky-parks-pass",
+    "name": "Kentucky State Parks \u2014 Free Admission",
+    "agency": "Kentucky State Parks",
+    "category": "Civic & Community",
+    "description": "Kentucky State Parks charge no general admission fee, so there is no annual pass to buy \u2014 fees apply only to camping, lodging, and attractions.",
+    "scope": {
+      "level": "state",
+      "state": "KY"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Kentucky State Parks",
+        "value": "https://parks.ky.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Plan your visit at parks.ky.gov",
+        "url": "https://parks.ky.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free general admission \u2014 no annual pass",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://parks.ky.gov"
+    ]
+  },
+  {
+    "id": "st-la-drivers-license",
+    "name": "Louisiana Driver's License \u2014 New & Renewal",
+    "agency": "Louisiana Office of Motor Vehicles (OMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Louisiana driver's license or renew an existing one. Renew online through ExpressLane or visit an OMV office.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewal window",
+        "date": null,
+        "note": "Renew up to 180 days ahead at an OMV office or 90 days ahead online"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Louisiana residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Louisiana residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ExpressLane online services",
+        "value": "https://expresslane.la.gov/omv/RenewDL"
+      },
+      {
+        "kind": "phone",
+        "label": "Louisiana OMV",
+        "value": "225-925-6146"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew your driver license online",
+        "url": "https://expresslane.la.gov/omv/RenewDL"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal fees vary by license type and duration",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://expresslane.la.gov/omv/RenewDL"
+    ]
+  },
+  {
+    "id": "st-la-vehicle-registration",
+    "name": "Louisiana Vehicle Registration & Title",
+    "agency": "Louisiana Office of Motor Vehicles (OMV)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Louisiana through the Office of Motor Vehicles, with renewals available online through ExpressLane.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Louisiana",
+      "Valid Louisiana auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Louisiana driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Louisiana auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ExpressLane online services",
+        "value": "https://expresslane.la.gov/omv/RenewDL"
+      },
+      {
+        "kind": "phone",
+        "label": "Louisiana OMV",
+        "value": "225-925-6146"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OMV online services (ExpressLane)",
+        "url": "https://expresslane.la.gov/omv/RenewDL"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://expresslane.la.gov/omv/RenewDL"
+    ]
+  },
+  {
+    "id": "st-la-medicaid",
+    "name": "Louisiana Medicaid (Healthy Louisiana)",
+    "agency": "Louisiana Department of Health (LDH) \u2014 Healthy Louisiana",
+    "category": "Health & Benefits",
+    "description": "Louisiana's Medicaid program, Healthy Louisiana, provides free or low-cost health coverage to eligible low-income residents. Apply online through MyMedicaid.la.gov.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Louisiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Louisiana residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MyMedicaid.la.gov",
+        "value": "https://mymedicaid.la.gov"
+      },
+      {
+        "kind": "web",
+        "label": "LDH Medicaid",
+        "value": "https://ldh.la.gov/medicaid"
+      },
+      {
+        "kind": "phone",
+        "label": "Medicaid hotline",
+        "value": "1-888-342-6207"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through MyMedicaid.la.gov",
+        "url": "https://mymedicaid.la.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mymedicaid.la.gov",
+      "https://ldh.la.gov/medicaid"
+    ]
+  },
+  {
+    "id": "st-la-snap",
+    "name": "Louisiana SNAP (Food Assistance)",
+    "agency": "Louisiana Department of Children and Family Services (DCFS)",
+    "category": "Health & Benefits",
+    "description": "Louisiana SNAP and FITAP (TANF) benefits are applied for together through DCFS's CAF\u00c9 self-service portal \u2014 one application covers food and cash assistance.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Louisiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Louisiana residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CAF\u00c9 self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      },
+      {
+        "kind": "phone",
+        "label": "DCFS",
+        "value": "1-888-524-3578"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through CAF\u00c9 self-service",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "st-la-unemployment",
+    "name": "Louisiana Unemployment Insurance \u2014 File a Claim",
+    "agency": "Louisiana Workforce Commission (LWC)",
+    "category": "Work & Business",
+    "description": "File for Louisiana unemployment insurance benefits if you lost your job through no fault of your own. File and manage your claim through the HiRE portal.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Louisiana HiRE portal",
+        "value": "https://www.louisianaworks.net/hire"
+      },
+      {
+        "kind": "phone",
+        "label": "LWC",
+        "value": "1-866-783-5567"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File through HiRE",
+        "url": "https://www.louisianaworks.net/hire"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.louisianaworks.net/hire"
+    ]
+  },
+  {
+    "id": "st-la-voter-registration",
+    "name": "Louisiana Voter Registration (GeauxVote)",
+    "agency": "Louisiana Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Louisiana online through GeauxVote, by mail, or in person at your parish registrar of voters office.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Louisiana resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "In-person/mail registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-05",
+        "note": "Register by Oct 5 in person or by mail"
+      },
+      {
+        "label": "Online registration deadline (GeauxVote)",
+        "date": "2026-10-13",
+        "note": "Register online through GeauxVote by Oct 13"
+      }
+    ],
+    "prerequisites": [
+      "Louisiana driver license or state ID (for online registration)"
+    ],
+    "whatToBring": [
+      "Louisiana driver license or state ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GeauxVote voter portal",
+        "value": "https://voterportal.sos.la.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Elections hotline",
+        "value": "1-800-883-2805"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register at GeauxVote",
+        "url": "https://voterportal.sos.la.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://voterportal.sos.la.gov"
+    ]
+  },
+  {
+    "id": "st-la-business-registration",
+    "name": "Louisiana Business Registration / LLC Formation (geauxBIZ)",
+    "agency": "Louisiana Secretary of State",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Louisiana by filing with the Secretary of State through geauxBIZ \u2014 $100 to form an LLC under the current fee schedule.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Louisiana entities",
+      "Louisiana registered agent with a Louisiana address"
+    ],
+    "deadlines": [
+      {
+        "label": "Annual report",
+        "date": null,
+        "note": "Annual reports are due on the LLC's anniversary each year"
+      }
+    ],
+    "prerequisites": [
+      "Chosen business name",
+      "Louisiana registered agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Registered agent name and Louisiana address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "geauxBIZ business filings",
+        "value": "https://geauxbiz.sos.la.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Commercial Division",
+        "value": "225-922-2880"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with geauxBIZ",
+        "url": "https://geauxbiz.sos.la.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 to form an LLC; $35 annual report (fees changed Oct 1, 2026 per Act 921)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://geauxbiz.sos.la.gov"
+    ]
+  },
+  {
+    "id": "st-la-tax-filing",
+    "name": "Louisiana Individual Income Tax Filing",
+    "agency": "Louisiana Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Louisiana does have a state individual income tax \u2014 a flat 3% rate. File and pay through LaTAP, the Department of Revenue's online portal.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident, part-year resident, or nonresident with Louisiana-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-05-15",
+        "note": "2025 Louisiana individual income tax returns due May 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LaTAP online services",
+        "value": "https://www.revenue.louisiana.gov/LaTAP"
+      },
+      {
+        "kind": "phone",
+        "label": "Louisiana Department of Revenue",
+        "value": "855-307-3893"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with LaTAP",
+        "url": "https://www.revenue.louisiana.gov/LaTAP"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through LaTAP",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.revenue.louisiana.gov/LaTAP"
+    ]
+  },
+  {
+    "id": "st-la-professional-licensing",
+    "name": "Louisiana Professional Licensing (LSBME)",
+    "agency": "Louisiana State Board of Medical Examiners (LSBME)",
+    "category": "Work & Business",
+    "description": "Louisiana has no single unified licensing portal \u2014 boards operate independently. The Louisiana State Board of Medical Examiners, one of the state's major licensing boards, handles physician licensing through its LaMED DashBoard.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "LSBME",
+        "value": "https://lsbme.la.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "LSBME",
+        "value": "504-568-6820"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "LaMED DashBoard at lsbme.la.gov",
+        "url": "https://lsbme.la.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://lsbme.la.gov"
+    ]
+  },
+  {
+    "id": "st-la-birth-certificate",
+    "name": "Louisiana Birth Certificate (Vital Records)",
+    "agency": "Louisiana Department of Health \u2014 Vital Records Registry",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Louisiana birth certificate from the LDH Vital Records Registry \u2014 online, by phone through VitalChek, or by mail.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Louisiana"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Order birth records",
+        "value": "https://ldh.la.gov/page/how-to-order-birth-records"
+      },
+      {
+        "kind": "phone",
+        "label": "VitalChek",
+        "value": "1-877-605-8562"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "PO Box 60630, New Orleans, LA 70160"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "How to order birth records",
+        "url": "https://ldh.la.gov/page/how-to-order-birth-records"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 per certified copy (plus a $0.50 state charge)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://ldh.la.gov/page/how-to-order-birth-records"
+    ]
+  },
+  {
+    "id": "st-la-tanf",
+    "name": "Louisiana TANF (FITAP \u2014 Family Independence Temporary Assistance Program)",
+    "agency": "Louisiana Department of Children and Family Services (DCFS)",
+    "category": "Health & Benefits",
+    "description": "Louisiana's TANF program, FITAP (Family Independence Temporary Assistance Program), provides temporary monthly cash assistance to eligible low-income families with children. Apply through CAF\u00c9 \u2014 one application covers FITAP, SNAP, and KCSP.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Louisiana resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Louisiana residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Louisiana residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "CAF\u00c9 self-service portal",
+        "value": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      },
+      {
+        "kind": "phone",
+        "label": "DCFS",
+        "value": "1-888-524-3578"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply through CAF\u00c9 self-service",
+        "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController"
+    ]
+  },
+  {
+    "id": "st-la-parks-pass",
+    "name": "Louisiana State Parks Annual Pass",
+    "agency": "Louisiana Office of State Parks \u2014 Department of Culture, Recreation & Tourism",
+    "category": "Civic & Community",
+    "description": "The Louisiana State Parks annual park pass gives you a year of access to state park sites \u2014 $100 for the annual pass.",
+    "scope": {
+      "level": "state",
+      "state": "LA"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Louisiana State Parks",
+        "value": "https://www.lastateparks.com/fees-and-facilities"
+      },
+      {
+        "kind": "phone",
+        "label": "Office of State Parks",
+        "value": "225-342-8111"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Park fees and facilities",
+        "url": "https://www.lastateparks.com/fees-and-facilities"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 annual park pass",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.lastateparks.com/fees-and-facilities"
+    ]
+  },
+  {
+    "id": "st-me-drivers-license",
+    "name": "Maine Driver's License \u2014 New & Renewal",
+    "agency": "Maine Bureau of Motor Vehicles (BMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Maine driver's license or renew an existing one. Renew online through the BMV's online services or visit a BMV office.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Maine resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Maine residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Maine residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "BMV online services",
+        "value": "https://apps1.web.maine.gov/online/bmv/dlr_v2/"
+      },
+      {
+        "kind": "phone",
+        "label": "Maine BMV",
+        "value": "207-624-9000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew your license online",
+        "url": "https://apps1.web.maine.gov/online/bmv/dlr_v2/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Renewal fees vary by credential type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apps1.web.maine.gov/online/bmv/dlr_v2/"
+    ]
+  },
+  {
+    "id": "st-me-vehicle-registration",
+    "name": "Maine Vehicle Registration & Title",
+    "agency": "Maine Bureau of Motor Vehicles (BMV)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Maine. Renew registrations online through Rapid Renewal; pay municipal excise tax at your town office.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Maine",
+      "Valid Maine auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maine driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Maine auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Rapid Renewal",
+        "value": "https://apps1.web.maine.gov/online/bmv/rapid-renewal/"
+      },
+      {
+        "kind": "phone",
+        "label": "Maine BMV",
+        "value": "207-624-9000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew with Rapid Renewal",
+        "url": "https://apps1.web.maine.gov/online/bmv/rapid-renewal/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type (plus municipal excise tax)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://apps1.web.maine.gov/online/bmv/rapid-renewal/"
+    ]
+  },
+  {
+    "id": "st-me-medicaid",
+    "name": "Maine Medicaid (MaineCare)",
+    "agency": "Maine Department of Health and Human Services \u2014 Office for Family Independence (OFI)",
+    "category": "Health & Benefits",
+    "description": "Maine's Medicaid program is called MaineCare. It provides free or low-cost health coverage to eligible low-income residents. Apply online through My Maine Connection.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Maine resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maine residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maine residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "My Maine Connection",
+        "value": "https://www.mymaineconnection.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "OFI",
+        "value": "1-855-797-4357"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at My Maine Connection",
+        "url": "https://www.mymaineconnection.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mymaineconnection.gov"
+    ]
+  },
+  {
+    "id": "st-me-snap",
+    "name": "Maine SNAP (Food Supplement)",
+    "agency": "Maine Department of Health and Human Services \u2014 Office for Family Independence (OFI)",
+    "category": "Health & Benefits",
+    "description": "Maine's SNAP program \u2014 the Supplemental Nutrition Assistance Program (also called Food Supplement) \u2014 provides monthly benefits to help eligible low-income households buy food. Apply through My Maine Connection.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Maine resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [
+      {
+        "label": "ABAWD time-limit period",
+        "date": null,
+        "note": "A new 36-month ABAWD time-limit period began Oct 1, 2026 (runs through Sept 30, 2029)"
+      }
+    ],
+    "prerequisites": [
+      "Maine residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maine residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SNAP information (DHHS)",
+        "value": "https://www.maine.gov/dhhs/ofi/programs-services/food-supplement"
+      },
+      {
+        "kind": "phone",
+        "label": "OFI",
+        "value": "1-855-797-4357"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at My Maine Connection",
+        "url": "https://www.mymaineconnection.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.maine.gov/dhhs/ofi/programs-services/food-supplement"
+    ]
+  },
+  {
+    "id": "st-me-unemployment",
+    "name": "Maine Unemployment Insurance \u2014 File a Claim",
+    "agency": "Maine Department of Labor",
+    "category": "Work & Business",
+    "description": "File for Maine unemployment insurance benefits if you lost your job through no fault of your own. File and manage your claim through ReEmployME.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "ReEmployME portal",
+        "value": "https://reemployme.maine.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Maine Department of Labor",
+        "value": "1-800-593-7660"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File through ReEmployME",
+        "url": "https://reemployme.maine.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://reemployme.maine.gov/"
+    ]
+  },
+  {
+    "id": "st-me-voter-registration",
+    "name": "Maine Voter Registration",
+    "agency": "Maine Secretary of State",
+    "category": "Civic & Community",
+    "description": "Register to vote in Maine online, through the BMV, by mail, or in person \u2014 and Maine allows same-day voter registration on Election Day.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Maine resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Online registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-13",
+        "note": "Register online by 5 p.m. Oct 13; through BMV by Oct 27; Maine also allows same-day registration on Election Day Nov 3"
+      }
+    ],
+    "prerequisites": [
+      "Maine driver license or state ID (for online registration)"
+    ],
+    "whatToBring": [
+      "Maine driver license or state ID",
+      "Proof of address if registering on Election Day"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://registertovote.sos.maine.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Elections Division",
+        "value": "207-624-7650"
+      },
+      {
+        "kind": "email",
+        "label": "Elections email",
+        "value": "cec.elections@maine.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://registertovote.sos.maine.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://registertovote.sos.maine.gov/"
+    ]
+  },
+  {
+    "id": "st-me-tax-filing",
+    "name": "Maine Individual Income Tax Filing",
+    "agency": "Maine Revenue Services",
+    "category": "Money & Taxes",
+    "description": "Maine does have a state individual income tax \u2014 graduated rates from 5.80% to 7.15% for 2026. File through the Maine Tax Portal.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Maine resident, part-year resident, or nonresident with Maine-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Maine individual income tax returns due April 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maine Tax Portal",
+        "value": "https://revenue.maine.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Maine Revenue Services",
+        "value": "207-624-9784"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at the Maine Tax Portal",
+        "url": "https://revenue.maine.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through the Maine Tax Portal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://revenue.maine.gov"
+    ]
+  },
+  {
+    "id": "st-me-professional-licensing",
+    "name": "Maine Professional Licensing (OPOR)",
+    "agency": "Maine Department of Professional and Financial Regulation \u2014 Office of Professional and Occupational Regulation (OPOR)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Maine \u2014 from nursing and real estate to cosmetology and engineering \u2014 through OPOR's online ALMS licensing system.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Professional licensing",
+        "value": "https://www.maine.gov/pfr/professionallicensing"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Online licensing (ALMS)",
+        "url": "https://www.maine.gov/pfr/professionallicensing"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.maine.gov/pfr/professionallicensing"
+    ]
+  },
+  {
+    "id": "st-me-birth-certificate",
+    "name": "Maine Birth Certificate (Vital Records)",
+    "agency": "Maine Department of Health and Human Services \u2014 Maine CDC, Division of Data, Research, and Vital Statistics (DRVS)",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Maine birth certificate from the Maine CDC's Division of Data, Research, and Vital Statistics \u2014 by mail, in person, or online/by phone through VitalChek.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Maine"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maine CDC vital records",
+        "value": "https://www.maine.gov/dhhs/mecdc/public-health-systems/data-research/vital-records/"
+      },
+      {
+        "kind": "phone",
+        "label": "DRVS",
+        "value": "207-287-3181"
+      },
+      {
+        "kind": "phone",
+        "label": "VitalChek",
+        "value": "1-877-523-2659"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "11 State House Station, Augusta, ME 04333-0011"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Maine CDC vital records",
+        "url": "https://www.maine.gov/dhhs/mecdc/public-health-systems/data-research/vital-records/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$15 per certified copy ($6 each additional); $10 non-certified",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.maine.gov/dhhs/mecdc/public-health-systems/data-research/vital-records/"
+    ]
+  },
+  {
+    "id": "st-me-tanf",
+    "name": "Maine TANF (Cash Assistance)",
+    "agency": "Maine Department of Health and Human Services \u2014 Office for Family Independence (OFI)",
+    "category": "Health & Benefits",
+    "description": "Maine TANF provides temporary monthly cash assistance to eligible low-income families with children. Apply online through My Maine Connection.",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Maine resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maine residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maine residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "My Maine Connection",
+        "value": "https://www.mymaineconnection.gov/benefits/s/?language=en_US"
+      },
+      {
+        "kind": "phone",
+        "label": "OFI",
+        "value": "1-855-797-4357"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at My Maine Connection",
+        "url": "https://www.mymaineconnection.gov/benefits/s/?language=en_US"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mymaineconnection.gov/benefits/s/?language=en_US"
+    ]
+  },
+  {
+    "id": "st-me-parks-pass",
+    "name": "Maine State Parks Annual Pass",
+    "agency": "Maine Department of Agriculture, Conservation and Forestry \u2014 Bureau of Parks and Lands",
+    "category": "Civic & Community",
+    "description": "Maine state park passes give you a season of day-use access to Maine's state parks \u2014 $105 for a vehicle season pass ($55 individual, $45 for seniors 65+).",
+    "scope": {
+      "level": "state",
+      "state": "ME"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Park passes and fees",
+        "value": "http://www.maine.gov/dacf/parks/park_passes_fees_rules/annual_passes.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Annual park passes",
+        "url": "https://www.maine.gov/dacf/parks/park_passes_fees_rules/annual_passes.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$105 vehicle season pass ($55 individual; $45 senior 65+)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.maine.gov/dacf/parks/park_passes_fees_rules/annual_passes.shtml"
+    ]
+  },
+  {
+    "id": "st-md-drivers-license",
+    "name": "Maryland Driver's License \u2014 New & Renewal",
+    "agency": "Maryland Motor Vehicle Administration (MVA)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Maryland driver's license or renew an existing one. Renew online through myMVA or visit an MVA office.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Maryland resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Maryland residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Maryland residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myMVA online services",
+        "value": "https://mva.maryland.gov/licenses-ids/renew-license-or-id"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland MVA",
+        "value": "410-768-7000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew your license or ID online (myMVA)",
+        "url": "https://mva.maryland.gov/licenses-ids/renew-license-or-id"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$72 for an 8-year renewal",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mva.maryland.gov/licenses-ids/renew-license-or-id"
+    ]
+  },
+  {
+    "id": "st-md-vehicle-registration",
+    "name": "Maryland Vehicle Registration & Title",
+    "agency": "Maryland Motor Vehicle Administration (MVA)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Maryland. Renew registrations online through myMVA with 1-, 2-, or 3-year terms.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Maryland",
+      "Valid Maryland auto insurance"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maryland driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Maryland auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MVA title and registration",
+        "value": "https://mva.maryland.gov/title-registration/renew-registration"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland MVA",
+        "value": "410-768-7000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew your registration online",
+        "url": "https://mva.maryland.gov/title-registration/renew-registration"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary; 1-, 2-, and 3-year registration terms",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mva.maryland.gov/title-registration/renew-registration"
+    ]
+  },
+  {
+    "id": "st-md-medicaid",
+    "name": "Maryland Medicaid (Medical Assistance)",
+    "agency": "Maryland Health Connection",
+    "category": "Health & Benefits",
+    "description": "Maryland Medical Assistance (Medicaid) provides free or low-cost health coverage to eligible low-income residents. Apply online through Maryland Health Connection.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Maryland resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maryland residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maryland residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maryland Health Connection",
+        "value": "https://www.marylandhealthconnection.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland Health Connection",
+        "value": "1-855-642-8572"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at marylandhealthconnection.gov",
+        "url": "https://www.marylandhealthconnection.gov/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.marylandhealthconnection.gov/"
+    ]
+  },
+  {
+    "id": "st-md-snap",
+    "name": "Maryland SNAP (Food Supplement Program)",
+    "agency": "Maryland Department of Human Services (DHS)",
+    "category": "Health & Benefits",
+    "description": "Maryland's Food Supplement Program (SNAP) provides monthly benefits to help eligible low-income households buy food. Apply online at MarylandBenefits.gov (formerly MyMDTHINK).",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Maryland resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maryland residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maryland residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DHS SNAP program page",
+        "value": "https://dhs.maryland.gov/snap-program/"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland DHS",
+        "value": "1-800-332-6347"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at MarylandBenefits.gov",
+        "url": "https://www.marylandbenefits.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhs.maryland.gov/snap-program/"
+    ]
+  },
+  {
+    "id": "st-md-unemployment",
+    "name": "Maryland Unemployment Insurance \u2014 File a Claim",
+    "agency": "Maryland Department of Labor",
+    "category": "Work & Business",
+    "description": "File for Maryland unemployment insurance benefits if you lost your job through no fault of your own. File and manage your claim through BEACON.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "BEACON claimant portal",
+        "value": "https://beacon.labor.maryland.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland Department of Labor",
+        "value": "667-207-6520"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File through BEACON",
+        "url": "https://beacon.labor.maryland.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://beacon.labor.maryland.gov"
+    ]
+  },
+  {
+    "id": "st-md-voter-registration",
+    "name": "Maryland Voter Registration",
+    "agency": "Maryland State Board of Elections",
+    "category": "Civic & Community",
+    "description": "Register to vote in Maryland online, by mail, or in person \u2014 and Maryland offers same-day registration during early voting and on Election Day.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Maryland resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-13",
+        "note": "Register by 11:59 p.m. Oct 13; same-day registration is also available during early voting (Oct 22\u201329) and on Election Day Nov 3"
+      }
+    ],
+    "prerequisites": [
+      "Maryland driver license, state ID, or the last four digits of your Social Security number (for online registration)"
+    ],
+    "whatToBring": [
+      "Maryland driver license or state ID",
+      "Proof of address if registering same-day"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+    ]
+  },
+  {
+    "id": "st-md-business-registration",
+    "name": "Maryland Business Registration / LLC Formation",
+    "agency": "Maryland State Department of Assessments and Taxation (SDAT)",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Maryland by filing with the State Department of Assessments and Taxation through Maryland Business Express \u2014 $100 for an LLC.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Maryland entities",
+      "Maryland resident agent with a Maryland address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Maryland resident agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Resident agent name and Maryland address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maryland Business Express",
+        "value": "https://egov.maryland.gov/BusinessExpress"
+      },
+      {
+        "kind": "in-person",
+        "label": "SDAT office",
+        "value": "301 W Preston St, Baltimore, MD 21201"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with Maryland Business Express",
+        "url": "https://egov.maryland.gov/BusinessExpress"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$100 to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://egov.maryland.gov/BusinessExpress"
+    ]
+  },
+  {
+    "id": "st-md-tax-filing",
+    "name": "Maryland Individual Income Tax Filing",
+    "agency": "Comptroller of Maryland",
+    "category": "Money & Taxes",
+    "description": "Maryland does have a state individual income tax. File for free through Maryland Tax Connect, the Comptroller's online filing portal (launched September 1, replacing the legacy and iFile systems).",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Maryland resident, part-year resident, or nonresident with Maryland-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Maryland individual income tax returns due April 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Maryland Tax Connect / tax info",
+        "value": "https://www.marylandtaxes.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Comptroller (1-800-MD-TAXES)",
+        "value": "800-638-2937"
+      },
+      {
+        "kind": "email",
+        "label": "Tax help email",
+        "value": "taxhelp@marylandtaxes.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at marylandtaxes.gov",
+        "url": "https://www.marylandtaxes.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to file through Maryland Tax Connect",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.marylandtaxes.gov"
+    ]
+  },
+  {
+    "id": "st-md-professional-licensing",
+    "name": "Maryland Professional Licensing (DOL)",
+    "agency": "Maryland Department of Labor \u2014 Division of Occupational and Professional Licensing",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Maryland \u2014 from nursing and real estate to cosmetology and engineering \u2014 through the Division of Occupational and Professional Licensing's electronic licensing system.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Occupational and professional licensing",
+        "value": "https://www.labor.md.gov/license/oplic.shtml"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Electronic licensing and online forms",
+        "url": "https://www.labor.md.gov/license/oplic.shtml"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.labor.md.gov/license/oplic.shtml"
+    ]
+  },
+  {
+    "id": "st-md-birth-certificate",
+    "name": "Maryland Birth Certificate (Vital Records)",
+    "agency": "Maryland Department of Health \u2014 Division of Vital Records",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Maryland birth certificate from the Division of Vital Records \u2014 online, by mail, or in person.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Maryland"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Order a birth certificate",
+        "value": "https://health.maryland.gov/vsa/pages/birth.aspx"
+      },
+      {
+        "kind": "phone",
+        "label": "Division of Vital Records",
+        "value": "410-764-3038"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free",
+        "value": "800-832-3277"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "PO Box 68760, Baltimore, MD 21215-0036"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a birth certificate",
+        "url": "https://health.maryland.gov/vsa/pages/birth.aspx"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$10 per certified copy ($13 internet processing fee; $20 expedited)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://health.maryland.gov/vsa/pages/birth.aspx"
+    ]
+  },
+  {
+    "id": "st-md-tanf",
+    "name": "Maryland TANF (Temporary Cash Assistance \u2014 TCA)",
+    "agency": "Maryland Department of Human Services (DHS)",
+    "category": "Health & Benefits",
+    "description": "Maryland's TANF program, Temporary Cash Assistance (TCA), provides temporary monthly cash assistance to eligible low-income families with children. Apply online at MarylandBenefits.gov.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Maryland resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Maryland residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Maryland residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MarylandBenefits.gov",
+        "value": "https://www.marylandbenefits.gov"
+      },
+      {
+        "kind": "phone",
+        "label": "Maryland DHS",
+        "value": "1-800-332-6347"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at MarylandBenefits.gov",
+        "url": "https://www.marylandbenefits.gov"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.marylandbenefits.gov"
+    ]
+  },
+  {
+    "id": "st-md-parks-pass",
+    "name": "Maryland State Park & Trail Passport",
+    "agency": "Maryland Department of Natural Resources (DNR)",
+    "category": "Civic & Community",
+    "description": "The Maryland Annual State Park & Trail Passport gives you a year of day-use access to Maryland state parks \u2014 $75 for residents, $100 for nonresidents, valid for one year from the month of purchase.",
+    "scope": {
+      "level": "state",
+      "state": "MD"
+    },
+    "eligibility": [
+      "Open to everyone"
+    ],
+    "deadlines": [],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DNR online store",
+        "value": "https://www.shopdnr.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a pass at the DNR online store",
+        "url": "https://www.shopdnr.com"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$75/year resident / $100/year nonresident (Annual State Park & Trail Passport)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.shopdnr.com"
+    ]
+  },
+  {
+    "id": "st-ma-drivers-license",
+    "name": "Massachusetts Driver's License \u2014 New & Renewal",
+    "agency": "Massachusetts Department of Transportation \u2014 Registry of Motor Vehicles (RMV)",
+    "category": "IDs & Records",
+    "description": "Apply for a new Massachusetts driver's license or renew an existing one. Most renewals can be completed online through the myRMV Online Service Center (a MyMassGov account is required).",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts resident",
+      "U.S. citizen or lawful presence",
+      "At least 16 years old"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Social Security number",
+      "Massachusetts residency"
+    ],
+    "whatToBring": [
+      "Proof of identity (e.g., birth certificate or passport)",
+      "Proof of Social Security number",
+      "Proof of Massachusetts residency",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myRMV Online Service Center",
+        "value": "https://www.Mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license"
+      },
+      {
+        "kind": "phone",
+        "label": "RMV Contact Center",
+        "value": "857-368-8000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew your license online",
+        "url": "https://www.Mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$50 to renew a REAL ID or standard driver's license",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.Mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license"
+    ]
+  },
+  {
+    "id": "st-ma-vehicle-registration",
+    "name": "Massachusetts Vehicle Registration & Title",
+    "agency": "Massachusetts Department of Transportation \u2014 Registry of Motor Vehicles (RMV)",
+    "category": "IDs & Records",
+    "description": "Register and title your vehicle in Massachusetts. Renew registrations online through the myRMV Online Service Center.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Vehicle owned or leased in Massachusetts",
+      "Valid Massachusetts auto insurance"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "The RMV sends reminders 6\u20138 weeks before your registration expires; allow at least 10 days to receive your registration and decals by mail"
+      }
+    ],
+    "prerequisites": [
+      "Massachusetts driver license or state ID"
+    ],
+    "whatToBring": [
+      "Current registration or title",
+      "Proof of Massachusetts auto insurance",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "myRMV Online Service Center",
+        "value": "https://atlas-myrmv.massdot.state.ma.us/myrmv/_/"
+      },
+      {
+        "kind": "phone",
+        "label": "RMV Contact Center",
+        "value": "857-368-8000"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "myRMV Online Service Center",
+        "url": "https://atlas-myrmv.massdot.state.ma.us/myrmv/_/"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by vehicle type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://atlas-myrmv.massdot.state.ma.us/myrmv/_/"
+    ]
+  },
+  {
+    "id": "st-ma-medicaid",
+    "name": "Massachusetts Medicaid (MassHealth)",
+    "agency": "Executive Office of Health and Human Services \u2014 MassHealth (Office of Medicaid)",
+    "category": "Health & Benefits",
+    "description": "MassHealth \u2014 Massachusetts's Medicaid program \u2014 provides free or low-cost health coverage to eligible low-income residents. Apply online through the Health Connector, by phone, or by mail.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Massachusetts residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Massachusetts residency",
+      "Proof of income",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "MA Health Connector",
+        "value": "https://www.mahealthconnector.org"
+      },
+      {
+        "kind": "phone",
+        "label": "MassHealth Customer Service",
+        "value": "1-800-841-2900"
+      },
+      {
+        "kind": "phone",
+        "label": "TTY",
+        "value": "1-800-497-4648"
+      },
+      {
+        "kind": "in-person",
+        "label": "Mailing address",
+        "value": "Health Insurance Processing Center, PO Box 4405, Taunton, MA 02780"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at MAhealthconnector.org",
+        "url": "https://www.mahealthconnector.org"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mahealthconnector.org"
+    ]
+  },
+  {
+    "id": "st-ma-snap",
+    "name": "Massachusetts SNAP (Food Assistance)",
+    "agency": "Massachusetts Department of Transitional Assistance (DTA)",
+    "category": "Health & Benefits",
+    "description": "Massachusetts SNAP provides monthly benefits on an EBT card to help eligible low-income households buy food. Apply online at DTA Connect (about 20 minutes), by phone, or at a local DTA office.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts resident",
+      "U.S. citizen or qualifying immigrant",
+      "Income within program limits"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Massachusetts residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Massachusetts residency",
+      "Proof of income and expenses",
+      "Social Security numbers for household members"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DTA Connect",
+        "value": "https://dtaconnect.eohhs.mass.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "DTA Assistance Line",
+        "value": "877-382-2363"
+      },
+      {
+        "kind": "phone",
+        "label": "Project Bread FoodSource Hotline",
+        "value": "1-800-645-8333"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at DTA Connect",
+        "url": "https://dtaconnect.eohhs.mass.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Chinese",
+      "Vietnamese"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dtaconnect.eohhs.mass.gov/"
+    ]
+  },
+  {
+    "id": "st-ma-unemployment",
+    "name": "Massachusetts Unemployment Insurance \u2014 File a Claim",
+    "agency": "Massachusetts Department of Unemployment Assistance (DUA)",
+    "category": "Work & Business",
+    "description": "File for Massachusetts unemployment insurance benefits if you lost your job through no fault of your own. File online through UI Online (requires a MyMassGov account) or by phone through the TeleClaim Center.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Unemployed through no fault of your own",
+      "Earned sufficient wages in the base period",
+      "Able and available to work"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Work history and wage information",
+      "Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employment history (employers, dates, wages)",
+      "Reason for separation from your last job"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DUA \u2014 UI Online",
+        "value": "https://www.mass.gov/dua"
+      },
+      {
+        "kind": "phone",
+        "label": "UI TeleClaim Center",
+        "value": "877-626-6800"
+      },
+      {
+        "kind": "phone",
+        "label": "TeleCert (weekly claims)",
+        "value": "617-626-6338"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File at mass.gov/dua (UI Online)",
+        "url": "https://www.mass.gov/dua"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Cantonese"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mass.gov/dua"
+    ]
+  },
+  {
+    "id": "st-ma-voter-registration",
+    "name": "Massachusetts Voter Registration",
+    "agency": "Massachusetts Secretary of the Commonwealth \u2014 Elections Division",
+    "category": "Civic & Community",
+    "description": "Register to vote in Massachusetts online (with a driver's license or state ID), by mail, or in person at your local election office.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "U.S. citizen",
+      "Massachusetts resident",
+      "At least 18 years old by Election Day"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline (Nov 3, 2026 election)",
+        "date": "2026-10-24",
+        "note": "Register by Oct 24; Massachusetts does not offer same-day voter registration"
+      }
+    ],
+    "prerequisites": [
+      "Massachusetts driver license or state ID (for online registration)"
+    ],
+    "whatToBring": [
+      "Massachusetts driver license or state ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register"
+      },
+      {
+        "kind": "phone",
+        "label": "Elections Division",
+        "value": "1-800-392-6090"
+      },
+      {
+        "kind": "email",
+        "label": "Elections email",
+        "value": "cis@sec.state.ma.us"
+      },
+      {
+        "kind": "in-person",
+        "label": "Secretary of the Commonwealth",
+        "value": "1 Ashburton Place, Boston, MA 02108"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register online",
+        "url": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register"
+    ]
+  },
+  {
+    "id": "st-ma-business-registration",
+    "name": "Massachusetts Business Registration / LLC Formation",
+    "agency": "Massachusetts Secretary of the Commonwealth \u2014 Corporations Division",
+    "category": "Work & Business",
+    "description": "Form an LLC or other business entity in Massachusetts by filing a Certificate of Organization with the Secretary of the Commonwealth's Corporations Division \u2014 $500 for an LLC.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Business name distinguishable from existing Massachusetts entities",
+      "Massachusetts resident agent with a Massachusetts address"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Chosen business name",
+      "Massachusetts resident agent"
+    ],
+    "whatToBring": [
+      "LLC name and principal address",
+      "Resident agent name and Massachusetts address",
+      "Organizer information",
+      "Filing fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "SOS online filing",
+        "value": "https://corp.sec.state.ma.us/corpweb/loginsystem/ListNewFilings.aspx?FilingMethod=I"
+      },
+      {
+        "kind": "phone",
+        "label": "Secretary of the Commonwealth",
+        "value": "1-800-392-6090"
+      },
+      {
+        "kind": "in-person",
+        "label": "Corporations Division",
+        "value": "One Ashburton Place, 17th Floor, Boston, MA 02108"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File online (Certificate of Organization)",
+        "url": "https://corp.sec.state.ma.us/corpweb/loginsystem/ListNewFilings.aspx?FilingMethod=I"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$500 to form an LLC",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://corp.sec.state.ma.us/corpweb/loginsystem/ListNewFilings.aspx?FilingMethod=I"
+    ]
+  },
+  {
+    "id": "st-ma-tax-filing",
+    "name": "Massachusetts Individual Income Tax Filing",
+    "agency": "Massachusetts Department of Revenue (DOR)",
+    "category": "Money & Taxes",
+    "description": "Massachusetts does have a state individual income tax \u2014 a flat 5% rate. Qualifying full-year residents can e-file for free with MassTaxConnect.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts resident, part-year resident, or nonresident with Massachusetts-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "2025 tax return due",
+        "date": "2026-04-15",
+        "note": "2025 Massachusetts individual income tax returns due April 15, 2026; extension filers due Oct 15, 2026"
+      }
+    ],
+    "prerequisites": [
+      "Federal tax return information",
+      "W-2s and 1099s"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Federal return (1040) and schedules",
+      "W-2 and 1099 forms"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "E-file information",
+        "value": "https://www.mass.gov/info-details/e-file-and-pay-your-ma-personal-income-taxes"
+      },
+      {
+        "kind": "phone",
+        "label": "DOR",
+        "value": "617-887-6367"
+      },
+      {
+        "kind": "phone",
+        "label": "Toll-free (in Massachusetts)",
+        "value": "800-392-6089"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "E-file your MA personal income taxes",
+        "url": "https://www.mass.gov/info-details/e-file-and-pay-your-ma-personal-income-taxes"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Free to e-file with MassTaxConnect if you qualify",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mass.gov/info-details/e-file-and-pay-your-ma-personal-income-taxes"
+    ]
+  },
+  {
+    "id": "st-ma-professional-licensing",
+    "name": "Massachusetts Professional Licensing (DOL / eLIPSE)",
+    "agency": "Massachusetts Division of Occupational Licensure (DOL)",
+    "category": "Work & Business",
+    "description": "Apply for, renew, or look up a professional license in Massachusetts \u2014 from electricians and plumbers to real estate and cosmetology \u2014 through the Division of Occupational Licensure's new eLIPSE platform (boards transitioning in phases since 2025).",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Varies by profession (education, exam, and experience requirements)"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Meet the profession-specific education and exam requirements"
+    ],
+    "whatToBring": [
+      "Proof of education and training",
+      "Exam scores (if applicable)",
+      "Proof of identity",
+      "Application fee payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Renew a license or permit",
+        "value": "https://www.mass.gov/info-details/renew-a-license-or-permit"
+      },
+      {
+        "kind": "phone",
+        "label": "DOL Welcome Center (9am\u20135pm)",
+        "value": "617-701-8895"
+      },
+      {
+        "kind": "in-person",
+        "label": "DOL Welcome Center",
+        "value": "One Federal Street, Suite 600, Boston, MA 02110"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Renew a license or permit (eLIPSE)",
+        "url": "https://www.mass.gov/info-details/renew-a-license-or-permit"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mass.gov/info-details/renew-a-license-or-permit"
+    ]
+  },
+  {
+    "id": "st-ma-birth-certificate",
+    "name": "Massachusetts Birth Certificate (Vital Records)",
+    "agency": "Massachusetts Department of Public Health \u2014 Registry of Vital Records and Statistics (RVRS)",
+    "category": "IDs & Records",
+    "description": "Order a certified copy of a Massachusetts birth certificate from the Registry of Vital Records and Statistics \u2014 by mail, in person, or online/by phone.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "The person named on the record, a parent, legal guardian, or other eligible requester"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "The birth occurred in Massachusetts"
+    ],
+    "whatToBring": [
+      "Full name on the birth certificate",
+      "Date and place of birth",
+      "Parents' names",
+      "Government-issued photo ID of the requester",
+      "Payment"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Registry of Vital Records and Statistics",
+        "value": "https://www.mass.gov/dph/rvrs"
+      },
+      {
+        "kind": "phone",
+        "label": "RVRS",
+        "value": "617-740-2600"
+      },
+      {
+        "kind": "in-person",
+        "label": "Office address",
+        "value": "150 Mount Vernon Street, 1st Floor, Dorchester, MA 02125-3105"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Mail-order application form (PDF)",
+        "url": "https://www.mass.gov/doc/vital-records-mail-order-form/download"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$32 per certified copy by mail ($20 in person; $42 expedited)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mass.gov/doc/vital-records-mail-order-form/download"
+    ]
+  },
+  {
+    "id": "st-ma-tanf",
+    "name": "Massachusetts TANF (TAFDC)",
+    "agency": "Massachusetts Department of Transitional Assistance (DTA)",
+    "category": "Health & Benefits",
+    "description": "Massachusetts's TANF program, TAFDC (Transitional Aid to Families with Dependent Children), gives caregivers and their children two cash payments per month plus MassHealth coverage, child care access, and education and training programs. Apply at DTA Connect \u2014 an online TAFDC application also counts as a SNAP application.",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts resident",
+      "Family with a dependent child",
+      "Income and asset limits apply"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Massachusetts residency",
+      "Income and household information"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Massachusetts residency",
+      "Proof of income and expenses",
+      "Children's birth certificates or proof of relationship"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "DTA Connect",
+        "value": "https://dtaconnect.eohhs.mass.gov/"
+      },
+      {
+        "kind": "phone",
+        "label": "DTA Assistance Line",
+        "value": "877-382-2363"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply at DTA Connect",
+        "url": "https://dtaconnect.eohhs.mass.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Chinese",
+      "Vietnamese"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dtaconnect.eohhs.mass.gov/"
+    ]
+  },
+  {
+    "id": "st-ma-parks-pass",
+    "name": "Massachusetts State Parks Annual Parking Pass",
+    "agency": "Massachusetts Department of Conservation and Recreation (DCR)",
+    "category": "Civic & Community",
+    "description": "The DCR Annual Parking Pass lets you park at most Massachusetts state parks that charge daily parking fees \u2014 $60 per calendar year, available to Massachusetts residents only (license and plates must be Massachusetts-registered).",
+    "scope": {
+      "level": "state",
+      "state": "MA"
+    },
+    "eligibility": [
+      "Massachusetts driver license and Massachusetts-registered vehicle"
+    ],
+    "deadlines": [],
+    "prerequisites": [
+      "Massachusetts driver license and Massachusetts license plate"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Annual Parking Pass info",
+        "value": "https://www.mass.gov/how-to/purchase-an-annual-parking-pass-for-massachusetts-state-parks"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Purchase an Annual Parking Pass",
+        "url": "https://www.mass.gov/how-to/purchase-an-annual-parking-pass-for-massachusetts-state-parks"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "cost": "$60 annual parking pass (Massachusetts residents only)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.mass.gov/how-to/purchase-an-annual-parking-pass-for-massachusetts-state-parks"
+    ]
+  }
+]

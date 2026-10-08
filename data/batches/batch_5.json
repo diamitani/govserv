@@ -1,0 +1,6079 @@
+[
+  {
+    "id": "st-tn-drivers-license",
+    "name": "Tennessee Driver License & ID — New & Renewal",
+    "agency": "Tennessee Department of Safety & Homeland Security — Driver Services",
+    "category": "Transportation",
+    "description": "Get a new driver license, renew an existing one, or get a state photo ID through the Department of Safety & Homeland Security's Driver Services.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Tennessee residents age 16 and older for a driver license",
+      "Proof of U.S. citizenship or lawful presence",
+      "Two proofs of Tennessee residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person; licenses are valid for 8 years"
+      }
+    ],
+    "prerequisites": [
+      "Valid Social Security number",
+      "Primary and secondary proof of identity"
+    ],
+    "whatToBring": [
+      "Proof of identity (birth certificate, passport)",
+      "Proof of Tennessee residency (two documents)",
+      "Social Security number documentation"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Driver Services",
+        "value": "866-903-7357"
+      },
+      {
+        "kind": "web",
+        "label": "Renew or schedule online",
+        "value": "https://dl.safety.tn.gov/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Online renewal and appointments",
+        "url": "https://dl.safety.tn.gov/"
+      },
+      {
+        "label": "Driver Services information",
+        "url": "https://www.tn.gov/safety"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license class — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/safety"
+    ]
+  },
+  {
+    "id": "st-tn-vehicle-registration",
+    "name": "Tennessee Vehicle Registration & Title",
+    "agency": "Tennessee Department of Revenue — Title & Registration",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Tennessee through your county clerk's office, with the Department of Revenue handling titles and registration policy.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles registered in Tennessee",
+      "New Tennessee residents must register within 30 days"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or at your county clerk's office"
+      }
+    ],
+    "prerequisites": [
+      "Vehicle title or ownership documents",
+      "Proof of identity and Tennessee address"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Title & Registration help",
+        "value": "888-871-3171"
+      },
+      {
+        "kind": "web",
+        "label": "Revenue — Vehicle title and registration",
+        "value": "https://www.tn.gov/revenue"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Title & registration information",
+        "url": "https://www.tn.gov/revenue"
+      },
+      {
+        "label": "Renew registration online",
+        "url": "https://www.tn.gov/revenue"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/revenue"
+    ]
+  },
+  {
+    "id": "st-tn-medicaid",
+    "name": "TennCare — Tennessee Medicaid",
+    "agency": "Tennessee Division of TennCare",
+    "category": "Healthcare",
+    "description": "TennCare is Tennessee's Medicaid program, providing health coverage to eligible low-income families, children, pregnant women, and people with disabilities.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Tennessee residents with low income",
+      "Children, pregnant women, parents/caretakers, and people who are elderly, blind, or disabled"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime; coverage starts based on eligibility date"
+      }
+    ],
+    "prerequisites": [
+      "Income at or below program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers for household members",
+      "Proof of income",
+      "Proof of Tennessee residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TennCare Connect",
+        "value": "855-259-0701"
+      },
+      {
+        "kind": "web",
+        "label": "TennCare Connect",
+        "value": "https://tenncareconnect.tn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for TennCare online",
+        "url": "https://tenncareconnect.tn.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tenncareconnect.tn.gov",
+      "https://www.tn.gov/humanservices/medicaid.html"
+    ]
+  },
+  {
+    "id": "st-tn-snap",
+    "name": "Tennessee SNAP (Supplemental Nutrition Assistance Program)",
+    "agency": "Tennessee Department of Human Services",
+    "category": "Food",
+    "description": "Tennessee's SNAP provides monthly food benefits on an EBT card to eligible low-income households; apply through the One DHS Customer Portal.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Tennessee residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime; benefits start from the application date if eligible"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits",
+      "Valid Social Security numbers for applicants"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Assistance Service Center",
+        "value": "1-866-311-4287"
+      },
+      {
+        "kind": "web",
+        "label": "One DHS Customer Portal",
+        "value": "https://onedhs.tn.gov/csp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP online",
+        "url": "https://onedhs.tn.gov/csp"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap.html"
+    ]
+  },
+  {
+    "id": "st-tn-unemployment",
+    "name": "Tennessee Unemployment Insurance — File a Claim",
+    "agency": "Tennessee Department of Labor & Workforce Development",
+    "category": "Employment",
+    "description": "File for unemployment benefits and certify weekly claims online through Jobs4TN if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly certification",
+        "date": null,
+        "note": "Certify each week to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient recent wages in covered employment",
+      "Valid Social Security number"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names, addresses, and dates of work for the last 18 months",
+      "Bank account info for direct deposit"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI help desk",
+        "value": "844-224-5818"
+      },
+      {
+        "kind": "web",
+        "label": "Jobs4TN",
+        "value": "https://www.jobs4tn.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim on Jobs4TN",
+        "url": "https://www.jobs4tn.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.jobs4tn.gov",
+      "https://www.tn.gov/workforce.html"
+    ]
+  },
+  {
+    "id": "st-tn-voter-registration",
+    "name": "Tennessee Voter Registration — GoVoteTN",
+    "agency": "Tennessee Secretary of State — Division of Elections",
+    "category": "Legal Aid",
+    "description": "Register to vote or update your registration online through GoVoteTN; you must register 30 days before an election to vote in it.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Tennessee residents",
+      "Age 18 by the date of the next election",
+      "Not convicted of a disqualifying felony (or rights restored)"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline — Nov 3, 2026 general election",
+        "date": "2026-10-05",
+        "note": "Must register 30 days before each election"
+      }
+    ],
+    "prerequisites": [
+      "Valid Tennessee driver's license or photo ID number for online registration"
+    ],
+    "whatToBring": [
+      "Tennessee driver's license or ID number (for online registration)",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "GoVoteTN online registration",
+        "value": "https://ovr.govote.tn.gov"
+      },
+      {
+        "kind": "web",
+        "label": "GoVoteTN election info",
+        "value": "https://govotetn.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://ovr.govote.tn.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://govotetn.com",
+      "https://sos.tn.gov/elections"
+    ]
+  },
+  {
+    "id": "st-tn-business-registration",
+    "name": "Tennessee Business Registration / LLC Formation",
+    "agency": "Tennessee Secretary of State",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Tennessee Secretary of State through the TNCaB online portal.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Tennessee",
+      "Registered agent with a Tennessee street address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online; processing times vary"
+      }
+    ],
+    "prerequisites": [
+      "Unique business name",
+      "Registered agent and office address"
+    ],
+    "whatToBring": [
+      "Chosen business name",
+      "Registered agent name and Tennessee address",
+      "Names and addresses of organizers/members"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Services",
+        "value": "615-741-2286"
+      },
+      {
+        "kind": "web",
+        "label": "TNCaB portal",
+        "value": "https://tncab.tnsos.gov/portal"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity online (TNCaB)",
+        "url": "https://tncab.tnsos.gov/portal"
+      },
+      {
+        "label": "Secretary of State business services",
+        "url": "https://sos.tn.gov/business"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $50 per member, minimum $300",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.tn.gov/business",
+      "https://tncab.tnsos.gov/portal"
+    ]
+  },
+  {
+    "id": "st-tn-tax-filing",
+    "name": "Tennessee Taxes — No Individual Income Tax",
+    "agency": "Tennessee Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Tennessee has no individual income tax — the Hall tax on interest and dividends was fully repealed effective January 1, 2021. Residents file only a federal return; the Department of Revenue handles business, sales, and franchise taxes.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "All Tennessee residents — no individual income tax return required"
+    ],
+    "deadlines": [
+      {
+        "label": "Individual income tax",
+        "date": null,
+        "note": "None — no filing required"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Tennessee Department of Revenue",
+        "value": "https://www.tn.gov/revenue"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Department of Revenue — business and other taxes",
+        "url": "https://www.tn.gov/revenue"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No individual income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/revenue"
+    ]
+  },
+  {
+    "id": "st-tn-professional-licensing",
+    "name": "Tennessee Professional Licensing — Regulatory Boards",
+    "agency": "Tennessee Department of Commerce & Insurance — Division of Regulatory Boards",
+    "category": "Employment",
+    "description": "Apply for, renew, and verify professional licenses (contractors, cosmetology, real estate, and 26 regulatory programs) through the Division of Regulatory Boards.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in Tennessee",
+      "Varies by board: education, exam, and experience requirements"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by profession"
+      }
+    ],
+    "prerequisites": [
+      "Meet the specific board's education and exam requirements",
+      "Fees per profession"
+    ],
+    "whatToBring": [
+      "Education transcripts and exam scores",
+      "Proof of experience where required",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "License search and application portal",
+        "value": "https://licenses.app.tn.gov/licenses"
+      },
+      {
+        "kind": "web",
+        "label": "Commerce & Insurance",
+        "value": "https://www.tn.gov/commerce.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find and apply for a license",
+        "url": "https://licenses.app.tn.gov/licenses"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/commerce/our-divisions.html"
+    ]
+  },
+  {
+    "id": "st-tn-birth-certificate",
+    "name": "Tennessee Birth Certificate — Office of Vital Records",
+    "agency": "Tennessee Department of Health — Office of Vital Records",
+    "category": "Healthcare",
+    "description": "Order certified copies of Tennessee birth certificates from the Office of Vital Records in Nashville, online, by mail, or at most county health departments.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Immediate family members with a direct interest"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow processing and mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Tennessee"
+    ],
+    "whatToBring": [
+      "Valid government-issued photo ID with signature",
+      "Completed application",
+      "Payment ($15 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Office of Vital Records",
+        "value": "615-741-1763"
+      },
+      {
+        "kind": "web",
+        "label": "Vital Records",
+        "value": "https://www.tn.gov/health/vr"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order vital records",
+        "url": "https://www.tn.gov/health/vr"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$15 per certified copy (long form)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/health/vr"
+    ]
+  },
+  {
+    "id": "st-tn-tanf",
+    "name": "Families First — Tennessee TANF Cash Assistance",
+    "agency": "Tennessee Department of Human Services",
+    "category": "Money & Taxes",
+    "description": "Families First is Tennessee's TANF program, providing temporary cash assistance and work support to eligible low-income families with children; apply through the One DHS Customer Portal.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children under 18 (or 19 if in school)",
+      "Tennessee residents; 60-month lifetime limit"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support",
+      "Income and asset limits"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's birth certificates or Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Family Assistance Service Center",
+        "value": "1-866-311-4287"
+      },
+      {
+        "kind": "web",
+        "label": "One DHS Customer Portal",
+        "value": "https://onedhs.tn.gov/csp"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Families First online",
+        "url": "https://onedhs.tn.gov/csp"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tn.gov/humanservices/for-families/families-first-tanf.html"
+    ]
+  },
+  {
+    "id": "st-tn-parks",
+    "name": "Tennessee State Parks — Free Entry",
+    "agency": "Tennessee Department of Environment & Conservation — Tennessee State Parks",
+    "category": "Outdoors",
+    "description": "All 57 Tennessee State Parks are free to enter — no access fee is charged. Hiking and enjoying the parks is always free; reserve campsites and cabins online.",
+    "scope": {
+      "state": "TN",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — parks are open to the public year-round"
+    ],
+    "deadlines": [
+      {
+        "label": "Day visits",
+        "date": null,
+        "note": "No reservation needed for free day use"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Tennessee State Parks",
+        "value": "https://tnstateparks.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a park and reserve camping",
+        "url": "https://tnstateparks.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free entry; camping and lodging fees apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tnstateparks.com/about/frequently-asked-questions"
+    ]
+  },
+  {
+    "id": "st-tx-drivers-license",
+    "name": "Texas Driver License — New & Renewal",
+    "agency": "Texas Department of Public Safety",
+    "category": "Transportation",
+    "description": "Get a new Texas driver license, renew, or replace one through the Texas Department of Public Safety; most renewals can be done online via Texas.gov.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Texas residents age 16 and older for a driver license",
+      "Proof of identity, residency, and lawful presence"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by phone, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of Texas residency (two documents)"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Social Security number",
+      "Two proofs of Texas residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DPS customer service",
+        "value": "1-866-357-3639"
+      },
+      {
+        "kind": "web",
+        "label": "Texas DPS — Driver License",
+        "value": "https://www.dps.texas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services (DPS)",
+        "url": "https://www.dps.texas.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dps.texas.gov"
+    ]
+  },
+  {
+    "id": "st-tx-vehicle-registration",
+    "name": "Texas Vehicle Registration & Title",
+    "agency": "Texas Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Texas through your county tax assessor-collector's office; the TxDMV handles titles, plates, and registration policy.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Texas",
+      "New residents must register within 30 days"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person at your county tax office"
+      }
+    ],
+    "prerequisites": [
+      "Texas vehicle inspection (where required)",
+      "Proof of liability insurance"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID",
+      "Inspection report"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TxDMV",
+        "value": "1-888-368-4689"
+      },
+      {
+        "kind": "web",
+        "label": "Texas DMV",
+        "value": "https://www.txdmv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle registration & titling",
+        "url": "https://www.txdmv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.txdmv.gov"
+    ]
+  },
+  {
+    "id": "st-tx-medicaid",
+    "name": "Texas Medicaid — Health and Human Services",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Healthcare",
+    "description": "Texas Medicaid provides health coverage to eligible low-income Texans — children, pregnant women, parents, and people with disabilities; apply through Your Texas Benefits.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Texas residents with low income",
+      "Children, pregnant women, parents/caretakers, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Texas residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "2-1-1 Texas / Your Texas Benefits",
+        "value": "877-541-7905"
+      },
+      {
+        "kind": "web",
+        "label": "Your Texas Benefits",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits online",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yourtexasbenefits.com",
+      "https://www.hhs.texas.gov/services/health/medicaid-chip"
+    ]
+  },
+  {
+    "id": "st-tx-snap",
+    "name": "Texas SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Food",
+    "description": "Texas SNAP provides monthly food benefits on the Lone Star Card to eligible low-income households; apply through Your Texas Benefits.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Texas residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime; benefits date from the application date if eligible"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "2-1-1 Texas / Your Texas Benefits",
+        "value": "877-541-7905"
+      },
+      {
+        "kind": "web",
+        "label": "Your Texas Benefits",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP online",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yourtexasbenefits.com",
+      "https://www.hhs.texas.gov/services/food/snap"
+    ]
+  },
+  {
+    "id": "st-tx-unemployment",
+    "name": "Texas Unemployment Insurance — File a Claim",
+    "agency": "Texas Workforce Commission",
+    "category": "Employment",
+    "description": "Apply for unemployment benefits online through TWC's Unemployment Benefits Services if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Payment requests",
+        "date": null,
+        "note": "Request payment every two weeks"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Texas employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if not a U.S. citizen"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TWC Tele-Center",
+        "value": "800-939-6631"
+      },
+      {
+        "kind": "web",
+        "label": "TWC — Apply for benefits",
+        "value": "https://www.twc.texas.gov/services/apply-benefits"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for unemployment benefits",
+        "url": "https://www.twc.texas.gov/services/apply-benefits"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.twc.texas.gov/services/apply-benefits"
+    ]
+  },
+  {
+    "id": "st-tx-voter-registration",
+    "name": "Texas Voter Registration — VoteTexas",
+    "agency": "Texas Secretary of State",
+    "category": "Legal Aid",
+    "description": "Register to vote in Texas through VoteTexas.gov; registration must be completed 30 days before an election.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Texas residents",
+      "Age 18 by Election Day",
+      "Not finally convicted of a felony (or rights restored)",
+      "Not declared mentally incapacitated"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline — Nov 3, 2026 general election",
+        "date": "2026-10-05",
+        "note": "Must register 30 days before each election"
+      }
+    ],
+    "prerequisites": [
+      "Texas driver's license or ID number, or last four of SSN"
+    ],
+    "whatToBring": [
+      "Texas DL/ID number or SSN",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Voter hotline",
+        "value": "1-800-252-VOTE"
+      },
+      {
+        "kind": "web",
+        "label": "VoteTexas.gov",
+        "value": "https://www.votetexas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote (VoteTexas.gov)",
+        "url": "https://www.votetexas.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.votetexas.gov",
+      "https://www.sos.state.tx.us/elections/index.shtml"
+    ]
+  },
+  {
+    "id": "st-tx-business-registration",
+    "name": "Texas Business Registration / LLC Formation",
+    "agency": "Texas Secretary of State",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Texas Secretary of State through the SOSPortal online filing system.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Texas",
+      "Registered agent with a Texas address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online; standard processing times apply"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent and office"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Texas address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Texas Secretary of State",
+        "value": "https://www.sos.state.tx.us"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Texas Secretary of State — Business filings",
+        "url": "https://www.sos.state.tx.us"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $300 (Certificate of Formation, Form 205)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.state.tx.us/corp/forms_boc.shtml"
+    ]
+  },
+  {
+    "id": "st-tx-tax-filing",
+    "name": "Texas Taxes — No Individual Income Tax",
+    "agency": "Texas Comptroller of Public Accounts",
+    "category": "Money & Taxes",
+    "description": "Texas has no individual income tax — it is prohibited by the state constitution (Proposition 4, 2019). Residents file only a federal return; the Comptroller administers sales, franchise, and other state taxes.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "All Texas residents — no individual income tax return required"
+    ],
+    "deadlines": [
+      {
+        "label": "Individual income tax",
+        "date": null,
+        "note": "None — no filing required"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Texas Comptroller",
+        "value": "https://comptroller.texas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Comptroller — taxes and filings",
+        "url": "https://comptroller.texas.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No individual income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://comptroller.texas.gov"
+    ]
+  },
+  {
+    "id": "st-tx-professional-licensing",
+    "name": "Texas Professional Licensing — TDLR",
+    "agency": "Texas Department of Licensing and Regulation",
+    "category": "Employment",
+    "description": "TDLR licenses and regulates dozens of Texas occupations — electricians, cosmetologists, HVAC, tow operators, and more; apply and renew online.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in TDLR-regulated trades",
+      "Education, exam, and experience requirements vary by license type"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by license type"
+      }
+    ],
+    "prerequisites": [
+      "Meet the specific license requirements",
+      "Fees per license type"
+    ],
+    "whatToBring": [
+      "Education and exam documentation",
+      "Application fee",
+      "Criminal history disclosure if required"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TDLR customer service",
+        "value": "800-803-9202"
+      },
+      {
+        "kind": "web",
+        "label": "TDLR",
+        "value": "https://www.tdlr.texas.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "TDLR licenses — apply and renew",
+        "url": "https://www.tdlr.texas.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by license type",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tdlr.texas.gov"
+    ]
+  },
+  {
+    "id": "st-tx-birth-certificate",
+    "name": "Texas Birth Certificate — Vital Statistics",
+    "agency": "Texas Department of State Health Services — Vital Statistics",
+    "category": "Healthcare",
+    "description": "Order certified copies of Texas birth certificates from DSHS Vital Statistics online through Texas.gov, by mail, or in person in Austin.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate (if 18+)",
+      "Immediate family members or legal representatives"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — online orders typically processed within 10–15 business days"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Texas"
+    ],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application (notarized for mail requests)",
+      "Payment ($22 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Statistics",
+        "value": "1-888-963-7111"
+      },
+      {
+        "kind": "web",
+        "label": "DSHS Vital Statistics",
+        "value": "https://www.dshs.texas.gov/vital-statistics/birth-records"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birth records — order info",
+        "url": "https://www.dshs.texas.gov/vital-statistics/birth-records"
+      },
+      {
+        "label": "Order online (dshs.texas.gov/order)",
+        "url": "https://www.dshs.texas.gov/order"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$22 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dshs.texas.gov/vital-statistics/birth-records"
+    ]
+  },
+  {
+    "id": "st-tx-tanf",
+    "name": "Texas TANF — Temporary Assistance for Needy Families",
+    "agency": "Texas Health and Human Services Commission",
+    "category": "Money & Taxes",
+    "description": "Texas TANF provides temporary cash assistance to eligible low-income families with children; apply through Your Texas Benefits.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children under 18",
+      "Texas residents; time limits apply"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "2-1-1 Texas / Your Texas Benefits",
+        "value": "877-541-7905"
+      },
+      {
+        "kind": "web",
+        "label": "Your Texas Benefits",
+        "value": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for TANF online",
+        "url": "https://www.yourtexasbenefits.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.yourtexasbenefits.com",
+      "https://www.hhs.texas.gov/services/financial/cash/tanf"
+    ]
+  },
+  {
+    "id": "st-tx-parks",
+    "name": "Texas State Parks Pass",
+    "agency": "Texas Parks & Wildlife Department",
+    "category": "Outdoors",
+    "description": "The Texas State Parks Pass gives one year of unlimited free entry to 88+ state parks for the pass holder and guests, plus camping and store discounts.",
+    "scope": {
+      "state": "TX",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — passes available to residents and nonresidents"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass validity",
+        "date": null,
+        "note": "Good for one year from purchase"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "TPWD Customer Service Center",
+        "value": "512-389-8900"
+      },
+      {
+        "kind": "web",
+        "label": "Park passes",
+        "value": "https://tpwd.texas.gov/state-parks/park-information/passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Park pass details and purchase",
+        "url": "https://tpwd.texas.gov/state-parks/park-information/passes"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$70 per year (second pass at same address $25)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tpwd.texas.gov/state-parks/park-information/passes"
+    ]
+  },
+  {
+    "id": "st-ut-drivers-license",
+    "name": "Utah Driver License & ID — New & Renewal",
+    "agency": "Utah Driver License Division",
+    "category": "Transportation",
+    "description": "Get a new Utah driver license, renew, or get a state ID card through the Driver License Division; most renewals can be done online.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Utah residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and Utah residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of Utah address"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Two proofs of Utah residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Driver License Division",
+        "value": "801-965-4437"
+      },
+      {
+        "kind": "web",
+        "label": "Online renewal",
+        "value": "https://secure.utah.gov/dlr/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver License Division",
+        "url": "https://dld.utah.gov"
+      },
+      {
+        "label": "Renew a driver license online",
+        "url": "https://secure.utah.gov/dlr/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dld.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-vehicle-registration",
+    "name": "Utah Vehicle Registration & Title",
+    "agency": "Utah State Tax Commission — Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Utah through the Division of Motor Vehicles; renew registration online.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Utah",
+      "New residents must register promptly"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance",
+      "Safety/emissions inspection where required"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "801-297-7780"
+      },
+      {
+        "kind": "web",
+        "label": "Online renewal (REX)",
+        "value": "https://rex.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DMV — registration and titling",
+        "url": "https://dmv.utah.gov"
+      },
+      {
+        "label": "Renew registration online",
+        "url": "https://rex.utah.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type, age, and county",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-medicaid",
+    "name": "Utah Medicaid",
+    "agency": "Utah Department of Workforce Services",
+    "category": "Healthcare",
+    "description": "Utah Medicaid provides health coverage to eligible low-income Utahns — families, children, pregnant women, and people with disabilities; apply through myCase.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Utah residents with low income",
+      "Children, pregnant women, parents, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Utah residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "myCase benefits portal",
+        "value": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits (myCase)",
+        "url": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://jobs.utah.gov/mycase",
+      "https://medicaid.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-snap",
+    "name": "Utah SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Utah Department of Workforce Services",
+    "category": "Food",
+    "description": "Utah SNAP provides monthly food benefits to eligible low-income households; apply and manage benefits through myCase.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Utah residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "myCase benefits portal",
+        "value": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP (myCase)",
+        "url": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://jobs.utah.gov/mycase"
+    ]
+  },
+  {
+    "id": "st-ut-unemployment",
+    "name": "Utah Unemployment Insurance — File a Claim",
+    "agency": "Utah Department of Workforce Services",
+    "category": "Employment",
+    "description": "File for unemployment benefits through DWS's 'my Unemployment' online system if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Utah employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI claims",
+        "value": "801-526-4400"
+      },
+      {
+        "kind": "web",
+        "label": "DWS — Unemployment Insurance",
+        "value": "https://jobs.utah.gov/ui/home/initialclaims.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://jobs.utah.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://jobs.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-voter-registration",
+    "name": "Utah Voter Registration — vote.utah.gov",
+    "agency": "Office of the Lieutenant Governor — Elections",
+    "category": "Legal Aid",
+    "description": "Register to vote or update your registration online through vote.utah.gov; Utah also offers Election Day registration.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Utah residents",
+      "Age 18 by the general election",
+      "Not currently incarcerated for a felony"
+    ],
+    "deadlines": [
+      {
+        "label": "Online/mail deadline — Nov 3, 2026 general election",
+        "date": "2026-10-23",
+        "note": "Register by Oct 23, 2026; Election Day registration also available"
+      }
+    ],
+    "prerequisites": [
+      "Utah driver's license or ID number, or last four of SSN, for online registration"
+    ],
+    "whatToBring": [
+      "Utah DL/ID number or SSN",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "vote.utah.gov",
+        "value": "https://vote.utah.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://secure.utah.gov/voterreg/index.html"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://secure.utah.gov/voterreg"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://vote.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-business-registration",
+    "name": "Utah Business Registration / LLC Formation",
+    "agency": "Utah Division of Corporations & Commercial Code",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Utah Division of Corporations through its online Business Registration System (UtahID required).",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Utah",
+      "Registered agent with a Utah address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Utah address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Corporations — business registration",
+        "value": "https://corporations.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business Registration System",
+        "url": "https://corporations.utah.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by entity type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://corporations.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-tax-filing",
+    "name": "Utah Individual Income Tax Filing",
+    "agency": "Utah State Tax Commission",
+    "category": "Money & Taxes",
+    "description": "File your Utah individual income tax return with the State Tax Commission; e-file through approved software or the Tax Commission's online services.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Utah residents and part-year residents with Utah income",
+      "Nonresidents with Utah-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Return due date",
+        "date": null,
+        "note": "April 15 for calendar-year filers (federal deadline rules generally apply)"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal return",
+      "W-2s and income documents"
+    ],
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Federal return information",
+      "Utah residency details"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Taxpayer Services",
+        "value": "801-297-2200"
+      },
+      {
+        "kind": "web",
+        "label": "Utah income tax",
+        "value": "https://incometax.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File Utah income tax",
+        "url": "https://incometax.utah.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to file with the state; software fees may apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://incometax.utah.gov",
+      "https://tax.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-professional-licensing",
+    "name": "Utah Professional Licensing — DOPL",
+    "agency": "Utah Division of Occupational & Professional Licensing",
+    "category": "Employment",
+    "description": "DOPL licenses dozens of Utah professions — nurses, contractors, cosmetologists, and more; apply online with a UtahID.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in DOPL-regulated occupations",
+      "Education, exam, and experience requirements vary by profession"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by profession"
+      }
+    ],
+    "prerequisites": [
+      "Meet the specific profession's requirements",
+      "Fees per profession"
+    ],
+    "whatToBring": [
+      "Education transcripts and exam scores",
+      "Fingerprint/background check where required",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOPL",
+        "value": "801-530-6628"
+      },
+      {
+        "kind": "web",
+        "label": "DOPL",
+        "value": "https://dopl.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DOPL — apply for a license",
+        "url": "https://dopl.utah.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dopl.utah.gov",
+      "https://commerce.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-birth-certificate",
+    "name": "Utah Birth Certificate — Vital Records",
+    "agency": "Utah Department of Health and Human Services — Office of Vital Records and Statistics",
+    "category": "Healthcare",
+    "description": "Order certified copies of Utah birth certificates online through the Office of Vital Records and Statistics.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Immediate family members, legal guardians, or legal representatives"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow processing and mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Utah"
+    ],
+    "whatToBring": [
+      "Valid photo ID",
+      "Proof of relationship if required",
+      "Payment ($22 for search including one certified copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Utah Vital Records",
+        "value": "https://vitalrecords.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a birth certificate",
+        "url": "https://vitalrecords.utah.gov/how-to-get-started/get-a-copy-of-a-certificate"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$22 search fee includes one certified copy; additional copies $10 each",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://vitalrecords.utah.gov"
+    ]
+  },
+  {
+    "id": "st-ut-tanf",
+    "name": "Family Employment Program (FEP) — Utah TANF",
+    "agency": "Utah Department of Workforce Services",
+    "category": "Money & Taxes",
+    "description": "The Family Employment Program (FEP) is Utah's TANF program, providing temporary cash assistance and employment help to low-income families with children; apply through myCase.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "Utah residents; participation in employment activities required"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work participation requirements"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DWS",
+        "value": "1-866-435-7414"
+      },
+      {
+        "kind": "web",
+        "label": "myCase benefits portal",
+        "value": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for FEP (myCase)",
+        "url": "https://jobs.utah.gov/mycase"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://jobs.utah.gov/mycase",
+      "https://jobs.utah.gov/edo/stateplans/tanfstateplan.pdf"
+    ]
+  },
+  {
+    "id": "st-ut-parks",
+    "name": "Utah State Parks Annual Pass",
+    "agency": "Utah Division of State Parks",
+    "category": "Outdoors",
+    "description": "The Utah State Parks Annual Pass gives Utah residents a year of day-use entry to all state parks; buy online or at a park visitor center.",
+    "scope": {
+      "state": "UT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Utah residents (annual pass is residents-only)"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass validity",
+        "date": null,
+        "note": "Good for one year; day-use entry only, camping not included"
+      }
+    ],
+    "prerequisites": [
+      "Utah residency"
+    ],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "State Parks",
+        "value": "801-538-7220"
+      },
+      {
+        "kind": "web",
+        "label": "Utah State Parks",
+        "value": "https://stateparks.utah.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy an annual pass online",
+        "url": "https://parkspass.utah.gov/annual"
+      },
+      {
+        "label": "Park fees and pass info",
+        "url": "https://stateparks.utah.gov/parks/dead-horse-point/park-fees/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$125 per year ($65 senior, Utah residents only)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://stateparks.utah.gov"
+    ]
+  },
+  {
+    "id": "st-vt-drivers-license",
+    "name": "Vermont Driver License & ID — New & Renewal",
+    "agency": "Vermont Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Get a new Vermont driver license, renew, or get a non-driver ID through the Vermont DMV; renewals and many transactions are available through mydmv.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vermont residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and Vermont residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of Vermont address"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Proof of Vermont residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont DMV",
+        "value": "802-828-2000"
+      },
+      {
+        "kind": "web",
+        "label": "mydmv online services",
+        "value": "https://mydmv.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont DMV",
+        "url": "https://dmv.vermont.gov"
+      },
+      {
+        "label": "mydmv — renew online",
+        "url": "https://mydmv.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.vermont.gov"
+    ]
+  },
+  {
+    "id": "st-vt-vehicle-registration",
+    "name": "Vermont Vehicle Registration & Title",
+    "agency": "Vermont Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Vermont through the DMV; renew registration online through mydmv.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Vermont",
+      "New residents must register promptly"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance",
+      "Vehicle inspection where required"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont DMV",
+        "value": "802-828-2000"
+      },
+      {
+        "kind": "web",
+        "label": "mydmv online services",
+        "value": "https://mydmv.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vermont DMV — registration",
+        "url": "https://dmv.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.vermont.gov"
+    ]
+  },
+  {
+    "id": "st-vt-medicaid",
+    "name": "Vermont Medicaid — Vermont Health Connect",
+    "agency": "State of Vermont — Department of Vermont Health Access",
+    "category": "Healthcare",
+    "description": "Vermont Medicaid provides health coverage to eligible low-income Vermonters; apply through Vermont Health Connect or myBenefits.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vermont residents with low income",
+      "Children, pregnant women, parents, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Vermont residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vermont Health Connect / myBenefits",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits",
+        "value": "https://mybenefits.vt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits (myBenefits)",
+        "url": "https://mybenefits.vt.gov"
+      },
+      {
+        "label": "Vermont Health Connect",
+        "url": "https://www.vermonthealthconnect.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mybenefits.vt.gov",
+      "https://www.vermonthealthconnect.gov"
+    ]
+  },
+  {
+    "id": "st-vt-snap",
+    "name": "3SquaresVT — Vermont SNAP",
+    "agency": "Vermont Agency of Human Services — Department for Children and Families",
+    "category": "Food",
+    "description": "3SquaresVT is Vermont's SNAP program, providing monthly food benefits to eligible low-income households; apply through myBenefits.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vermont residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits",
+        "value": "https://mybenefits.vt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for 3SquaresVT (myBenefits)",
+        "url": "https://mybenefits.vt.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mybenefits.vt.gov"
+    ]
+  },
+  {
+    "id": "st-vt-unemployment",
+    "name": "Vermont Unemployment Insurance — File a Claim",
+    "agency": "Vermont Department of Labor",
+    "category": "Employment",
+    "description": "File for unemployment benefits online through the Vermont Department of Labor's claimant portal if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Vermont employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI claimant assistance",
+        "value": "1-877-214-3330"
+      },
+      {
+        "kind": "web",
+        "label": "Claimant portal",
+        "value": "https://labor.ui.vermont.gov/UI/Claimant"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://labor.ui.vermont.gov/UI/Claimant"
+      },
+      {
+        "label": "Vermont Department of Labor",
+        "url": "https://labor.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://labor.vermont.gov"
+    ]
+  },
+  {
+    "id": "st-vt-voter-registration",
+    "name": "Vermont Voter Registration",
+    "agency": "Vermont Secretary of State — Elections Division",
+    "category": "Legal Aid",
+    "description": "Register to vote online through Vermont's online voter registration system; Vermont offers same-day registration at the polls.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Vermont residents",
+      "Age 18 by Election Day (17 for primaries if 18 by general)",
+      "Oath or affirmation of eligibility"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration",
+        "date": null,
+        "note": "Register online in advance or same-day at your polling place on Election Day"
+      }
+    ],
+    "prerequisites": [
+      "Vermont driver's license number or last four of SSN for online registration"
+    ],
+    "whatToBring": [
+      "Vermont DL/ID number or SSN",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://olvr.vermont.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Secretary of State — Elections",
+        "value": "https://sos.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://olvr.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.vermont.gov"
+    ]
+  },
+  {
+    "id": "st-vt-business-registration",
+    "name": "Vermont Business Registration / LLC Formation",
+    "agency": "Vermont Secretary of State — Business Services",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Vermont Secretary of State through the bizfilings online portal.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Vermont",
+      "Registered agent with a Vermont address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Vermont address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Business services",
+        "value": "https://sos.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity (bizfilings)",
+        "url": "https://bizfilings.vermont.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $155",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.vermont.gov/business-services"
+    ]
+  },
+  {
+    "id": "st-vt-tax-filing",
+    "name": "Vermont Individual Income Tax Filing",
+    "agency": "Vermont Department of Taxes",
+    "category": "Money & Taxes",
+    "description": "File your Vermont individual income tax return (Form IN-111) with the Department of Taxes through the myVTax online portal or approved e-file software.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Vermont residents and part-year residents with Vermont income",
+      "Nonresidents with Vermont-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Return due date",
+        "date": null,
+        "note": "April 15 for calendar-year filers"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal return",
+      "W-2s and income documents"
+    ],
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Federal return information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Department of Taxes",
+        "value": "https://tax.vermont.gov"
+      },
+      {
+        "kind": "web",
+        "label": "myVTax portal",
+        "value": "https://myvtax.vermont.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File and pay (myVTax)",
+        "url": "https://myvtax.vermont.gov"
+      },
+      {
+        "label": "Department of Taxes — file and pay info",
+        "url": "https://tax.vermont.gov/business/file-and-pay"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to file with the state; software fees may apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.vermont.gov/business/file-and-pay"
+    ]
+  },
+  {
+    "id": "st-vt-professional-licensing",
+    "name": "Vermont Professional Licensing — Office of Professional Regulation",
+    "agency": "Vermont Secretary of State — Office of Professional Regulation",
+    "category": "Employment",
+    "description": "OPR licenses Vermont's professions — nursing, social work, real estate, and more; apply through the online licensing system.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in Vermont",
+      "Education, exam, and experience requirements vary by profession"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by profession"
+      }
+    ],
+    "prerequisites": [
+      "Meet the specific profession's requirements",
+      "Fees per profession"
+    ],
+    "whatToBring": [
+      "Education transcripts and exam scores",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "OPR",
+        "value": "802-828-1505"
+      },
+      {
+        "kind": "web",
+        "label": "OPR",
+        "value": "https://sos.vermont.gov/opr"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "OPR — professional licensing",
+        "url": "https://sos.vermont.gov/opr"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.vermont.gov/opr"
+    ]
+  },
+  {
+    "id": "st-vt-birth-certificate",
+    "name": "Vermont Birth Certificate — Vital Records",
+    "agency": "Vermont Department of Health — Vital Records",
+    "category": "Healthcare",
+    "description": "Order certified copies of Vermont birth certificates online, by mail, or in person from the Department of Health Vital Records office or any town clerk.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Immediate family members with a direct interest"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — online orders carry a $2 processing fee"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Vermont"
+    ],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application",
+      "Payment ($10 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "802-863-7275"
+      },
+      {
+        "kind": "web",
+        "label": "Order vital records",
+        "value": "https://healthvermont.gov/stats/vital-records/order-vital-records"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order vital records",
+        "url": "https://healthvermont.gov/stats/vital-records/order-vital-records"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$10 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://healthvermont.gov/stats/vital-records/order-vital-records"
+    ]
+  },
+  {
+    "id": "st-vt-tanf",
+    "name": "Reach Up — Vermont TANF Cash Assistance",
+    "agency": "Vermont Agency of Human Services — Department for Children and Families",
+    "category": "Money & Taxes",
+    "description": "Reach Up is Vermont's TANF program, providing cash assistance and work support to eligible low-income families with children; apply through myBenefits.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "Vermont residents; participation in work activities required"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Benefits Service Center",
+        "value": "1-800-479-6151"
+      },
+      {
+        "kind": "web",
+        "label": "myBenefits",
+        "value": "https://mybenefits.vt.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Reach Up (myBenefits)",
+        "url": "https://mybenefits.vt.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://mybenefits.vt.gov"
+    ]
+  },
+  {
+    "id": "st-vt-parks",
+    "name": "Vermont State Parks — Season Vehicle Pass",
+    "agency": "Vermont Department of Forests, Parks and Recreation — Vermont State Parks",
+    "category": "Outdoors",
+    "description": "The Season Vehicle Pass gives unlimited day-use entry to any Vermont state park all season for up to 8 people in one vehicle; buy online, by phone, or at parks.",
+    "scope": {
+      "state": "VT",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — passes available to residents and nonresidents"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass season",
+        "date": null,
+        "note": "Valid for the park season (mid-May through mid-October)"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Central Reservation Call Center",
+        "value": "1-888-409-7579"
+      },
+      {
+        "kind": "web",
+        "label": "Day use and passes",
+        "value": "https://www.vtstateparks.com/day-use"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a vehicle season pass",
+        "url": "https://www.vtstateparks.com/day-use"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$105 season vehicle pass ($65 for a second vehicle in the same household)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.vtstateparks.com/day-use"
+    ]
+  },
+  {
+    "id": "st-va-drivers-license",
+    "name": "Virginia Driver License & ID — New & Renewal",
+    "agency": "Virginia Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Get a new Virginia driver license, renew, or get a state ID card through the Virginia DMV; renew online or in person.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Virginia residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and Virginia residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Two proofs of Virginia residency"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Two proofs of Virginia residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Virginia DMV",
+        "value": "https://www.dmv.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver license services (DMV)",
+        "url": "https://www.dmv.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dmv.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-vehicle-registration",
+    "name": "Virginia Vehicle Registration & Title",
+    "agency": "Virginia Department of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Virginia through the DMV; renew registration online, by mail, or in person.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Virginia",
+      "New residents must register within 30 days"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance",
+      "Safety/emissions inspection where required"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Virginia DMV",
+        "value": "https://www.dmv.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle registration (DMV)",
+        "url": "https://www.dmv.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dmv.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-medicaid",
+    "name": "Cover Virginia — Virginia Medicaid",
+    "agency": "Virginia Department of Medical Assistance Services",
+    "category": "Healthcare",
+    "description": "Cover Virginia is Virginia's Medicaid program, providing health coverage to eligible low-income adults, children, pregnant women, and people with disabilities.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Virginia residents with low income",
+      "Adults, children, pregnant women, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Virginia residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Cover Virginia",
+        "value": "1-855-242-8282"
+      },
+      {
+        "kind": "web",
+        "label": "Cover Virginia",
+        "value": "https://coverva.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for coverage",
+        "url": "https://coverva.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://coverva.org"
+    ]
+  },
+  {
+    "id": "st-va-snap",
+    "name": "Virginia SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Virginia Department of Social Services",
+    "category": "Food",
+    "description": "Virginia SNAP provides monthly food benefits to eligible low-income households; apply through CommonHelp.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Virginia residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VDSS",
+        "value": "1-855-635-4370"
+      },
+      {
+        "kind": "web",
+        "label": "CommonHelp",
+        "value": "https://commonhelp.virginia.gov/access/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP (CommonHelp)",
+        "url": "https://commonhelp.virginia.gov/access/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://commonhelp.virginia.gov/access/"
+    ]
+  },
+  {
+    "id": "st-va-unemployment",
+    "name": "Virginia Unemployment Insurance — File a Claim",
+    "agency": "Virginia Employment Commission",
+    "category": "Employment",
+    "description": "File for unemployment benefits online through the VEC's UI Direct system if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Virginia employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VEC customer contact center",
+        "value": "1-866-832-2363"
+      },
+      {
+        "kind": "web",
+        "label": "UI Direct claimant portal",
+        "value": "https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim (UI Direct)",
+        "url": "https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm"
+      },
+      {
+        "label": "Virginia Employment Commission",
+        "url": "https://www.vec.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.vec.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-voter-registration",
+    "name": "Virginia Voter Registration",
+    "agency": "Virginia Department of Elections",
+    "category": "Legal Aid",
+    "description": "Register to vote or update your registration online; Virginia offers same-day registration during early voting and on Election Day.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Virginia residents",
+      "Age 18 by the general election",
+      "Not currently incarcerated for a felony (rights restoration rules apply)"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration",
+        "date": null,
+        "note": "Register online in advance or same-day during early voting and on Election Day"
+      }
+    ],
+    "prerequisites": [
+      "Virginia driver's license or ID number, or last four of SSN, for online registration"
+    ],
+    "whatToBring": [
+      "Virginia DL/ID number or SSN",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://vote.elections.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://vote.elections.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.elections.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-business-registration",
+    "name": "Virginia Business Registration / LLC Formation",
+    "agency": "Virginia State Corporation Commission",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Virginia State Corporation Commission through the CIS online filing system.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Virginia",
+      "Registered agent with a Virginia address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Virginia address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SCC Clerk's Office",
+        "value": "804-371-9733"
+      },
+      {
+        "kind": "web",
+        "label": "CIS online filing",
+        "value": "https://cis.scc.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity (CIS)",
+        "url": "https://cis.scc.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $100 (Articles of Organization)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://cis.scc.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-tax-filing",
+    "name": "Virginia Individual Income Tax Filing",
+    "agency": "Virginia Department of Taxation",
+    "category": "Money & Taxes",
+    "description": "File your Virginia individual income tax return (Form 760) with the Department of Taxation using iFile, the free online filing service, or approved e-file software.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Virginia residents and part-year residents with Virginia income",
+      "Nonresidents with Virginia-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Return due date",
+        "date": "2027-05-01",
+        "note": "Virginia returns are due May 1 each year"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal return",
+      "W-2s and income documents"
+    ],
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Federal return information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Customer Services",
+        "value": "804-367-8031"
+      },
+      {
+        "kind": "web",
+        "label": "Virginia Tax",
+        "value": "https://www.tax.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File with Virginia Tax (iFile)",
+        "url": "https://www.tax.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free via iFile; software fees may apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.tax.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-professional-licensing",
+    "name": "Virginia Professional Licensing — DPOR",
+    "agency": "Virginia Department of Professional and Occupational Regulation",
+    "category": "Employment",
+    "description": "DPOR licenses Virginia's contractors, real estate agents, cosmetologists, tradesmen, and more; apply and renew online.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in DPOR-regulated occupations",
+      "Education, exam, and experience requirements vary by board"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by board"
+      }
+    ],
+    "prerequisites": [
+      "Meet the specific board's requirements",
+      "Fees per profession"
+    ],
+    "whatToBring": [
+      "Education and exam documentation",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DPOR",
+        "value": "804-367-8506"
+      },
+      {
+        "kind": "web",
+        "label": "DPOR",
+        "value": "https://www.dpor.virginia.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "DPOR — licenses and boards",
+        "url": "https://www.dpor.virginia.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dpor.virginia.gov"
+    ]
+  },
+  {
+    "id": "st-va-birth-certificate",
+    "name": "Virginia Birth Certificate — Vital Records",
+    "agency": "Virginia Department of Health — Office of Vital Records",
+    "category": "Healthcare",
+    "description": "Order certified copies of Virginia birth certificates from the Office of Vital Records in Richmond, local health departments, or select DMV offices; apply online.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Immediate family members with valid ID"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow processing and mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Virginia"
+    ],
+    "whatToBring": [
+      "Valid photo ID",
+      "Completed application",
+      "Payment ($15 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records call center",
+        "value": "804-662-6200"
+      },
+      {
+        "kind": "web",
+        "label": "VDH Vital Records",
+        "value": "https://www.vdh.virginia.gov/vital-records/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital Records — applications",
+        "url": "https://www.vdh.virginia.gov/vital-records/"
+      },
+      {
+        "label": "Apply online for a vital record",
+        "url": "https://www.vdh.virginia.gov/vital-records/applications-for-a-vital-record/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$15 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.vdh.virginia.gov/vital-records/"
+    ]
+  },
+  {
+    "id": "st-va-tanf",
+    "name": "Virginia TANF — Temporary Assistance for Needy Families",
+    "agency": "Virginia Department of Social Services",
+    "category": "Money & Taxes",
+    "description": "Virginia TANF provides temporary cash assistance to eligible low-income families with children; apply through CommonHelp.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "Virginia residents; work participation requirements apply"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "VDSS",
+        "value": "1-855-635-4370"
+      },
+      {
+        "kind": "web",
+        "label": "CommonHelp",
+        "value": "https://commonhelp.virginia.gov/access/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for TANF (CommonHelp)",
+        "url": "https://commonhelp.virginia.gov/access/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://commonhelp.virginia.gov/access/"
+    ]
+  },
+  {
+    "id": "st-va-parks",
+    "name": "Virginia State Parks — Annual Passes",
+    "agency": "Virginia Department of Conservation and Recreation — Virginia State Parks",
+    "category": "Outdoors",
+    "description": "Virginia State Parks annual passes cover standard day-use admission and parking at state parks; buy online, at a park, or by phone.",
+    "scope": {
+      "state": "VA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — passes available to residents and nonresidents"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass validity",
+        "date": null,
+        "note": "Good for one year from purchase"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Virginia State Parks reservations",
+        "value": "1-800-933-7275"
+      },
+      {
+        "kind": "web",
+        "label": "Annual passes",
+        "value": "https://www.dcr.virginia.gov/state-parks/passes"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Annual pass info and purchase",
+        "url": "https://www.dcr.virginia.gov/state-parks/passes"
+      },
+      {
+        "label": "Reserve and buy online",
+        "url": "https://reservevaparks.com/web"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Annual passes available — confirm current pricing on the passes page",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dcr.virginia.gov/state-parks/passes"
+    ]
+  },
+  {
+    "id": "st-wa-drivers-license",
+    "name": "Washington Driver License & ID — New & Renewal",
+    "agency": "Washington State Department of Licensing",
+    "category": "Transportation",
+    "description": "Get a new Washington driver license, renew, or get a state ID card through the Department of Licensing; renew online.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Washington residents age 16 and older for a driver license",
+      "Proof of identity, residency, and lawful presence"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number (if issued)",
+      "Proof of Washington address"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of Washington residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOL",
+        "value": "360-902-3900"
+      },
+      {
+        "kind": "web",
+        "label": "WA Department of Licensing",
+        "value": "https://www.dol.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver licenses (DOL)",
+        "url": "https://www.dol.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dol.wa.gov"
+    ]
+  },
+  {
+    "id": "st-wa-vehicle-registration",
+    "name": "Washington Vehicle Registration & Title",
+    "agency": "Washington State Department of Licensing",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Washington through the Department of Licensing or a local vehicle licensing office; renew online.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Washington",
+      "New residents must register within 30 days"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance (for operation)",
+      "Emissions inspection where required"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DOL",
+        "value": "360-902-3900"
+      },
+      {
+        "kind": "web",
+        "label": "WA Department of Licensing",
+        "value": "https://www.dol.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle registration (DOL)",
+        "url": "https://www.dol.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dol.wa.gov"
+    ]
+  },
+  {
+    "id": "st-wa-medicaid",
+    "name": "Apple Health — Washington Medicaid",
+    "agency": "Washington Health Care Authority",
+    "category": "Healthcare",
+    "description": "Apple Health is Washington's Medicaid program, providing free or low-cost health coverage to eligible Washingtonians; apply through Washington Healthplanfinder.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Washington residents with low income",
+      "Children, pregnant women, parents, adults, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Washington residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Healthplanfinder customer support",
+        "value": "1-855-923-4633"
+      },
+      {
+        "kind": "web",
+        "label": "Washington Healthplanfinder",
+        "value": "https://www.wahealthplanfinder.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Apple Health",
+        "url": "https://www.wahealthplanfinder.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.wahealthplanfinder.org",
+      "https://www.hca.wa.gov/apple-health"
+    ]
+  },
+  {
+    "id": "st-wa-snap",
+    "name": "Basic Food — Washington SNAP",
+    "agency": "Washington State Department of Social and Health Services",
+    "category": "Food",
+    "description": "Basic Food is Washington's SNAP program, providing monthly food benefits to eligible low-income households; apply through Washington Connection.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Washington residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSHS",
+        "value": "877-501-2233"
+      },
+      {
+        "kind": "web",
+        "label": "Washington Connection",
+        "value": "https://www.washingtonconnection.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for Basic Food (Washington Connection)",
+        "url": "https://www.washingtonconnection.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.washingtonconnection.org"
+    ]
+  },
+  {
+    "id": "st-wa-unemployment",
+    "name": "Washington Unemployment Insurance — File a Claim",
+    "agency": "Washington State Employment Security Department",
+    "category": "Employment",
+    "description": "File for unemployment benefits online through the Employment Security Department if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Washington employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ESD claims center",
+        "value": "800-318-6022"
+      },
+      {
+        "kind": "web",
+        "label": "SecureAccess Washington — ESD",
+        "value": "https://secure.esd.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a claim online",
+        "url": "https://secure.esd.wa.gov"
+      },
+      {
+        "label": "Employment Security Department",
+        "url": "https://esd.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://esd.wa.gov"
+    ]
+  },
+  {
+    "id": "st-wa-voter-registration",
+    "name": "Washington Voter Registration — VoteWA",
+    "agency": "Washington Secretary of State — Elections Division",
+    "category": "Legal Aid",
+    "description": "Register to vote online through VoteWA.gov; Washington offers in-person registration up to 8 p.m. on Election Day.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Washington residents",
+      "Age 18 by Election Day",
+      "Not currently incarcerated for a felony"
+    ],
+    "deadlines": [
+      {
+        "label": "Online/mail deadline — Nov 3, 2026 general election",
+        "date": "2026-10-26",
+        "note": "In-person registration available until 8 p.m. on Election Day"
+      }
+    ],
+    "prerequisites": [
+      "Washington driver's license or ID number, or last four of SSN, for online registration"
+    ],
+    "whatToBring": [
+      "Washington DL/ID number or SSN",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "VoteWA — Secretary of State Elections",
+        "value": "https://www.sos.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote (VoteWA)",
+        "url": "https://www.sos.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.wa.gov"
+    ]
+  },
+  {
+    "id": "st-wa-business-registration",
+    "name": "Washington Business Registration / LLC Formation",
+    "agency": "Washington Secretary of State",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Washington Secretary of State's Corporations & Charities Division online.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Washington",
+      "Registered agent with a Washington address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online; initial report due within 120 days of formation"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Washington address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Corporations Division",
+        "value": "360-753-7115"
+      },
+      {
+        "kind": "web",
+        "label": "Secretary of State",
+        "value": "https://www.sos.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Business entity filing",
+        "url": "https://www.sos.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC Certificate of Formation: $200 online / $180 paper; initial report within 120 days",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.wa.gov/corporations-charities"
+    ]
+  },
+  {
+    "id": "st-wa-tax-filing",
+    "name": "Washington Taxes — No Individual Income Tax",
+    "agency": "Washington State Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Washington has no personal income tax. Residents file only a federal return; the Department of Revenue administers business, sales, and excise taxes.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "All Washington residents — no individual income tax return required"
+    ],
+    "deadlines": [
+      {
+        "label": "Individual income tax",
+        "date": null,
+        "note": "None — no filing required"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Department of Revenue",
+        "value": "https://dor.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Department of Revenue",
+        "url": "https://dor.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No individual income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dor.wa.gov/ru/node/429"
+    ]
+  },
+  {
+    "id": "st-wa-professional-licensing",
+    "name": "Washington Professional Licensing — DOL",
+    "agency": "Washington State Department of Licensing — Professional & Business Licensing",
+    "category": "Employment",
+    "description": "Apply for, renew, and manage professional licenses (cosmetology, real estate, architects, and more) through the DOL Professional and Business Licensing system.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in DOL-regulated occupations",
+      "Education, exam, and experience requirements vary by profession"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply online by profession"
+      }
+    ],
+    "prerequisites": [
+      "SecureAccess Washington (SAW) account",
+      "Meet the specific profession's requirements",
+      "Fees per profession"
+    ],
+    "whatToBring": [
+      "Education and exam documentation",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Professional & Business Licensing portal",
+        "value": "https://professions.dol.wa.gov"
+      },
+      {
+        "kind": "web",
+        "label": "WA Department of Licensing",
+        "value": "https://www.dol.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for a professional license",
+        "url": "https://professions.dol.wa.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by profession",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dol.wa.gov"
+    ]
+  },
+  {
+    "id": "st-wa-birth-certificate",
+    "name": "Washington Birth Certificate — Vital Records",
+    "agency": "Washington State Department of Health — Center for Health Statistics",
+    "category": "Healthcare",
+    "description": "Order certified copies of Washington birth certificates online or by phone through VitalChek, by mail, or in person at a local health department.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Qualified family members or legal representatives"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — VitalChek orders shipped within 3–7 business days; mail takes 6–8 weeks"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Washington"
+    ],
+    "whatToBring": [
+      "Valid government-issued ID",
+      "Proof of qualifying relationship",
+      "Payment ($25 certificate fee)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Order by phone (VitalChek)",
+        "value": "1-866-687-1464"
+      },
+      {
+        "kind": "web",
+        "label": "DOH Vital Records",
+        "value": "https://doh.wa.gov/licenses-permits-and-certificates/vital-records"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Order a vital record",
+        "url": "https://doh.wa.gov/licenses-permits-and-certificates/vital-records/ordering-vital-record"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$25 certificate fee (plus vendor fees online)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://doh.wa.gov/licenses-permits-and-certificates/vital-records"
+    ]
+  },
+  {
+    "id": "st-wa-tanf",
+    "name": "WorkFirst TANF — Washington Cash Assistance",
+    "agency": "Washington State Department of Social and Health Services",
+    "category": "Money & Taxes",
+    "description": "WorkFirst is Washington's TANF program, providing temporary cash assistance and employment support to eligible low-income families; apply through Washington Connection.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "Washington residents; participation in WorkFirst activities required"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSHS",
+        "value": "877-501-2233"
+      },
+      {
+        "kind": "web",
+        "label": "Washington Connection",
+        "value": "https://www.washingtonconnection.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for TANF (Washington Connection)",
+        "url": "https://www.washingtonconnection.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.washingtonconnection.org"
+    ]
+  },
+  {
+    "id": "st-wa-parks",
+    "name": "Washington Discover Pass",
+    "agency": "Washington State Parks and Recreation Commission",
+    "category": "Outdoors",
+    "description": "The Discover Pass is required to park on state lands managed by State Parks, DNR, and Fish & Wildlife; buy an annual or day-use pass online or at retail locations.",
+    "scope": {
+      "state": "WA",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — passes available to residents and nonresidents"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass validity",
+        "date": null,
+        "note": "Annual pass good for one year from purchase"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Discover Pass store",
+        "value": "https://store.discoverpass.wa.gov/"
+      },
+      {
+        "kind": "web",
+        "label": "Washington State Parks",
+        "value": "https://parks.wa.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a Discover Pass",
+        "url": "https://store.discoverpass.wa.gov/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$45 annual pass (price increased Oct 1, 2025); $10 day-use pass",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://parks.wa.gov",
+      "https://store.discoverpass.wa.gov/"
+    ]
+  },
+  {
+    "id": "st-wv-drivers-license",
+    "name": "West Virginia Driver License & ID — New & Renewal",
+    "agency": "West Virginia Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Get a new West Virginia driver license, renew, or get a state ID card through the Division of Motor Vehicles; use the online self-service portal.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "West Virginia residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and West Virginia residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of West Virginia address"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Proof of West Virginia residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "1-800-642-9066"
+      },
+      {
+        "kind": "web",
+        "label": "DMV self-service portal",
+        "value": "https://apps.wv.gov/DMV/selfservice"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV DMV",
+        "url": "https://dmv.wv.gov"
+      },
+      {
+        "label": "Online self-service",
+        "url": "https://apps.wv.gov/DMV/selfservice"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-vehicle-registration",
+    "name": "West Virginia Vehicle Registration & Title",
+    "agency": "West Virginia Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in West Virginia through the Division of Motor Vehicles; renew registration through the online self-service portal.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in West Virginia",
+      "New residents must register promptly"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DMV",
+        "value": "1-800-642-9066"
+      },
+      {
+        "kind": "web",
+        "label": "DMV self-service portal",
+        "value": "https://apps.wv.gov/DMV/selfservice"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WV DMV — registration",
+        "url": "https://dmv.wv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dmv.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-medicaid",
+    "name": "West Virginia Medicaid",
+    "agency": "West Virginia Department of Human Services — Bureau for Medical Services",
+    "category": "Healthcare",
+    "description": "West Virginia Medicaid provides health coverage to eligible low-income residents — families, children, pregnant women, and people with disabilities; apply through WV PATH.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "West Virginia residents with low income",
+      "Children, pregnant women, parents, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of West Virginia residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS Customer Service",
+        "value": "1-877-716-1212"
+      },
+      {
+        "kind": "web",
+        "label": "WV PATH",
+        "value": "https://wvpath.wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits (WV PATH)",
+        "url": "https://wvpath.wv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wvpath.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-snap",
+    "name": "West Virginia SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "West Virginia Department of Human Services",
+    "category": "Food",
+    "description": "West Virginia SNAP provides monthly food benefits to eligible low-income households; apply through WV PATH.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "West Virginia residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS Customer Service",
+        "value": "1-877-716-1212"
+      },
+      {
+        "kind": "web",
+        "label": "WV PATH",
+        "value": "https://wvpath.wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for SNAP (WV PATH)",
+        "url": "https://wvpath.wv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wvpath.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-unemployment",
+    "name": "West Virginia Unemployment Insurance — File a Claim",
+    "agency": "WorkForce West Virginia",
+    "category": "Employment",
+    "description": "File for unemployment benefits online through WorkForce West Virginia if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered West Virginia employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WorkForce WV",
+        "value": "1-800-252-JOBS"
+      },
+      {
+        "kind": "web",
+        "label": "File a claim",
+        "value": "https://uc.workforcewv.org"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://uc.workforcewv.org"
+      },
+      {
+        "label": "WorkForce West Virginia",
+        "url": "https://workforcewv.org"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://workforcewv.org"
+    ]
+  },
+  {
+    "id": "st-wv-voter-registration",
+    "name": "West Virginia Voter Registration — GoVoteWV",
+    "agency": "West Virginia Secretary of State — Elections Division",
+    "category": "Legal Aid",
+    "description": "Register to vote online through the Secretary of State's voter registration portal; registration closes 21 days before each election.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are West Virginia residents",
+      "Age 18 by the general election",
+      "Not currently under a disqualifying conviction"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline",
+        "date": null,
+        "note": "21 days before each election"
+      }
+    ],
+    "prerequisites": [
+      "West Virginia driver's license or ID number for online registration"
+    ],
+    "whatToBring": [
+      "West Virginia DL/ID number",
+      "Date of birth"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Elections Division",
+        "value": "304-558-6000"
+      },
+      {
+        "kind": "web",
+        "label": "Online voter registration",
+        "value": "https://ovr.sos.wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote online",
+        "url": "https://ovr.sos.wv.gov"
+      },
+      {
+        "label": "WV Secretary of State — Elections",
+        "url": "https://www.sos.wv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.sos.wv.gov/elections/Pages/GoVoteWV.aspx"
+    ]
+  },
+  {
+    "id": "st-wv-business-registration",
+    "name": "West Virginia Business Registration / LLC Formation",
+    "agency": "West Virginia Secretary of State",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the West Virginia Secretary of State through the Business4WV online portal.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in West Virginia",
+      "Registered agent with a West Virginia address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and West Virginia address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business & Licensing",
+        "value": "304-558-8000"
+      },
+      {
+        "kind": "web",
+        "label": "Business4WV portal",
+        "value": "https://business4wv.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity (Business4WV)",
+        "url": "https://business4wv.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by entity type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://business4wv.com"
+    ]
+  },
+  {
+    "id": "st-wv-tax-filing",
+    "name": "West Virginia Individual Income Tax Filing",
+    "agency": "West Virginia State Tax Department",
+    "category": "Money & Taxes",
+    "description": "File your West Virginia individual income tax return (Form IT-140) with the State Tax Department through the MyTaxes portal or approved e-file software.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "West Virginia residents and part-year residents with West Virginia income",
+      "Nonresidents with West Virginia-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Return due date",
+        "date": null,
+        "note": "April 15 for calendar-year filers"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal return",
+      "W-2s and income documents"
+    ],
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Federal return information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Taxpayer Services",
+        "value": "304-558-3333"
+      },
+      {
+        "kind": "web",
+        "label": "State Tax Department",
+        "value": "https://tax.wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File taxes (tax.wv.gov)",
+        "url": "https://tax.wv.gov"
+      },
+      {
+        "label": "MyTaxes portal",
+        "url": "https://mytaxes.wvtax.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to file with the state; software fees may apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://tax.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-birth-certificate",
+    "name": "West Virginia Birth Certificate — Vital Registration",
+    "agency": "West Virginia Department of Health — Vital Registration Office",
+    "category": "Healthcare",
+    "description": "Order certified copies of West Virginia birth certificates by mail from the Vital Registration Office in Charleston.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "The registrant (18+)",
+      "Parents, spouse, children, siblings, grandparents, or legal guardian"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow processing and mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in West Virginia"
+    ],
+    "whatToBring": [
+      "Valid photo ID (or two secondary documents)",
+      "Completed application",
+      "Payment ($12 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Registration information line",
+        "value": "304-558-2931"
+      },
+      {
+        "kind": "web",
+        "label": "Vital Registration application form",
+        "value": "https://dhhr.wv.gov/HSC/forms/Documents/birthfm26.pdf"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Birth certificate application (PDF)",
+        "url": "https://dhhr.wv.gov/HSC/forms/Documents/birthfm26.pdf"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$12 per certified copy",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dhhr.wv.gov/HSC/forms/Documents/birthfm26.pdf",
+      "https://www.cdc.gov/nchs/w2w/west_virginia.htm"
+    ]
+  },
+  {
+    "id": "st-wv-tanf",
+    "name": "WV WORKS — West Virginia TANF",
+    "agency": "West Virginia Department of Human Services",
+    "category": "Money & Taxes",
+    "description": "WV WORKS is West Virginia's TANF program, providing temporary cash assistance and work support to eligible low-income families; apply through WV PATH.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "West Virginia residents; work participation requirements apply"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DoHS Customer Service",
+        "value": "1-877-716-1212"
+      },
+      {
+        "kind": "web",
+        "label": "WV PATH",
+        "value": "https://wvpath.wv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for WV WORKS (WV PATH)",
+        "url": "https://wvpath.wv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wvpath.wv.gov"
+    ]
+  },
+  {
+    "id": "st-wv-parks",
+    "name": "West Virginia State Parks",
+    "agency": "West Virginia Division of Natural Resources — West Virginia State Parks",
+    "category": "Outdoors",
+    "description": "West Virginia State Parks span resort parks, campgrounds, and historic sites statewide; reserve campsites and lodging online and buy golf season passes for resort courses.",
+    "scope": {
+      "state": "WV",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — parks open to residents and nonresidents"
+    ],
+    "deadlines": [
+      {
+        "label": "Reservations",
+        "date": null,
+        "note": "Reserve campsites and shelters online, up to one year in advance"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "WV State Parks reservations",
+        "value": "1-833-WVPARKS"
+      },
+      {
+        "kind": "web",
+        "label": "West Virginia State Parks",
+        "value": "https://wvstateparks.com"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "West Virginia State Parks",
+        "url": "https://wvstateparks.com"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Day use generally free; camping, lodging, and golf fees apply (golf season passes $399–$709)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wvstateparks.com"
+    ]
+  },
+  {
+    "id": "st-wi-drivers-license",
+    "name": "Wisconsin Driver License & ID — New & Renewal",
+    "agency": "Wisconsin Department of Transportation — Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Get a new Wisconsin driver license, renew, or get a state ID card through the Wisconsin DMV; renew online.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wisconsin residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and Wisconsin residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of Wisconsin address"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Proof of Wisconsin residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Wisconsin DMV",
+        "value": "https://wisconsindmv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Driver licenses (Wisconsin DMV)",
+        "url": "https://wisconsindmv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wisconsindmv.gov",
+      "https://wisconsindot.gov"
+    ]
+  },
+  {
+    "id": "st-wi-vehicle-registration",
+    "name": "Wisconsin Vehicle Registration & Title",
+    "agency": "Wisconsin Department of Transportation — Division of Motor Vehicles",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Wisconsin through the DMV; renew registration online, by mail, or in person.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Wisconsin",
+      "New residents must register promptly"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance (for operation)"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Wisconsin DMV",
+        "value": "https://wisconsindmv.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vehicle registration (Wisconsin DMV)",
+        "url": "https://wisconsindmv.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wisconsindmv.gov"
+    ]
+  },
+  {
+    "id": "st-wi-medicaid",
+    "name": "BadgerCare Plus — Wisconsin Medicaid",
+    "agency": "Wisconsin Department of Health Services",
+    "category": "Healthcare",
+    "description": "BadgerCare Plus is Wisconsin's Medicaid program, providing health coverage to eligible low-income children, adults, and families; apply through ACCESS.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wisconsin residents with low income",
+      "Children, parents, caretakers, and adults without dependent children"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Wisconsin residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ACCESS / ForwardHealth",
+        "value": "800-362-3002"
+      },
+      {
+        "kind": "web",
+        "label": "ACCESS",
+        "value": "https://access.wisconsin.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for benefits (ACCESS)",
+        "url": "https://access.wisconsin.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://access.wisconsin.gov"
+    ]
+  },
+  {
+    "id": "st-wi-snap",
+    "name": "FoodShare — Wisconsin SNAP",
+    "agency": "Wisconsin Department of Health Services",
+    "category": "Food",
+    "description": "FoodShare is Wisconsin's SNAP program, providing monthly food benefits to eligible low-income households; apply through ACCESS.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wisconsin residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "ACCESS / ForwardHealth",
+        "value": "800-362-3002"
+      },
+      {
+        "kind": "web",
+        "label": "ACCESS",
+        "value": "https://access.wisconsin.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for FoodShare (ACCESS)",
+        "url": "https://access.wisconsin.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://access.wisconsin.gov"
+    ]
+  },
+  {
+    "id": "st-wi-unemployment",
+    "name": "Wisconsin Unemployment Insurance — File a Claim",
+    "agency": "Wisconsin Department of Workforce Development",
+    "category": "Employment",
+    "description": "Apply for unemployment benefits online through DWD and file weekly claims through the claimant portal.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Wisconsin employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Help Center",
+        "value": "414-435-7069"
+      },
+      {
+        "kind": "web",
+        "label": "Apply for benefits",
+        "value": "https://dwd.wisconsin.gov/uiben/apply/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for unemployment benefits",
+        "url": "https://dwd.wisconsin.gov/uiben/apply/"
+      },
+      {
+        "label": "Weekly claim filing portal",
+        "url": "https://my.unemployment.wisconsin.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dwd.wisconsin.gov/uiben/apply/"
+    ]
+  },
+  {
+    "id": "st-wi-voter-registration",
+    "name": "Wisconsin Voter Registration — MyVote",
+    "agency": "Wisconsin Elections Commission",
+    "category": "Legal Aid",
+    "description": "Register to vote online through MyVote.wi.gov or in person; Wisconsin offers same-day registration at the polls on Election Day.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are Wisconsin residents",
+      "Age 18 by Election Day",
+      "Not currently serving a felony sentence"
+    ],
+    "deadlines": [
+      {
+        "label": "Online registration",
+        "date": null,
+        "note": "Available up to 20 days before each election; same-day registration at the polls on Election Day"
+      }
+    ],
+    "prerequisites": [
+      "Wisconsin driver's license or ID number for online registration",
+      "Proof of residence for in-person registration"
+    ],
+    "whatToBring": [
+      "Wisconsin DL/ID number (for online registration)",
+      "Proof of residence (for same-day registration)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Voter helpline",
+        "value": "866-VOTE-WIS"
+      },
+      {
+        "kind": "web",
+        "label": "MyVote Wisconsin",
+        "value": "https://myvote.wi.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Register to vote (MyVote)",
+        "url": "https://myvote.wi.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://myvote.wi.gov"
+    ]
+  },
+  {
+    "id": "st-wi-business-registration",
+    "name": "Wisconsin Business Registration / LLC Formation",
+    "agency": "Wisconsin Department of Financial Institutions",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Wisconsin DFI through its online corporate formation portal.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Wisconsin",
+      "Registered agent with a Wisconsin address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Wisconsin address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DFI Corporations",
+        "value": "608-261-7577"
+      },
+      {
+        "kind": "web",
+        "label": "Online corporate formation",
+        "value": "https://dfi.wi.gov/apps/CorpFormation"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Form a business entity online",
+        "url": "https://dfi.wi.gov/apps/CorpFormation"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $130 online / $170 paper",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfi.wi.gov/apps/CorpFormation"
+    ]
+  },
+  {
+    "id": "st-wi-tax-filing",
+    "name": "Wisconsin Individual Income Tax Filing",
+    "agency": "Wisconsin Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "File your Wisconsin individual income tax return (Form 1) with the Department of Revenue through WI e-file or approved tax software.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wisconsin residents and part-year residents with Wisconsin income",
+      "Nonresidents with Wisconsin-source income"
+    ],
+    "deadlines": [
+      {
+        "label": "Return due date",
+        "date": null,
+        "note": "April 15 for calendar-year filers"
+      }
+    ],
+    "prerequisites": [
+      "Completed federal return",
+      "W-2s and income documents"
+    ],
+    "whatToBring": [
+      "W-2s and 1099s",
+      "Federal return information"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Department of Revenue",
+        "value": "https://www.revenue.wi.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wisconsin Department of Revenue",
+        "url": "https://www.revenue.wi.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free to file with the state; software fees may apply",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.revenue.wi.gov"
+    ]
+  },
+  {
+    "id": "st-wi-professional-licensing",
+    "name": "Wisconsin Professional Licensing — DSPS LicensE",
+    "agency": "Wisconsin Department of Safety and Professional Services",
+    "category": "Employment",
+    "description": "Apply for, renew, and manage professional credentials — health, business, and trades — through DSPS's LicensE self-guided online platform.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Professionals seeking licensure in Wisconsin",
+      "Education, exam, and experience requirements vary by credential"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — all applications made through LicensE"
+      }
+    ],
+    "prerequisites": [
+      "LicensE account",
+      "Meet the specific credential's requirements",
+      "Fees per credential"
+    ],
+    "whatToBring": [
+      "Education and exam documentation",
+      "Application fee"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DSPS",
+        "value": "608-266-2112"
+      },
+      {
+        "kind": "web",
+        "label": "LicensE portal",
+        "value": "https://license.wi.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Apply for a license (LicensE)",
+        "url": "https://license.wi.gov"
+      },
+      {
+        "label": "DSPS",
+        "url": "https://dsps.wi.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by credential",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dsps.wi.gov"
+    ]
+  },
+  {
+    "id": "st-wi-birth-certificate",
+    "name": "Wisconsin Birth Certificate — Vital Records",
+    "agency": "Wisconsin Department of Health Services — Vital Records",
+    "category": "Healthcare",
+    "description": "Order certified copies of Wisconsin birth certificates from the State Vital Records Office in Madison by mail, or from the local Register of Deeds.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "People with a direct and tangible interest in the record",
+      "The person named on the certificate, immediate family, or legal representatives"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow up to 2 weeks plus mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Wisconsin"
+    ],
+    "whatToBring": [
+      "Valid photo ID (copy for mail requests)",
+      "Completed application",
+      "Payment ($20 per copy)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Records",
+        "value": "608-266-1373"
+      },
+      {
+        "kind": "web",
+        "label": "Wisconsin Vital Records",
+        "value": "https://www.dhs.wisconsin.gov/vitalrecords"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital Records services",
+        "url": "https://www.dhs.wisconsin.gov/vitalrecords"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$20 per certified copy (additional copies $3 each when ordered together)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://www.dhs.wisconsin.gov/vitalrecords"
+    ]
+  },
+  {
+    "id": "st-wi-tanf",
+    "name": "Wisconsin Works (W-2) — Wisconsin TANF",
+    "agency": "Wisconsin Department of Children and Families",
+    "category": "Money & Taxes",
+    "description": "Wisconsin Works (W-2) is Wisconsin's TANF program, providing cash assistance and employment support to eligible low-income parents; apply by contacting your local W-2 agency.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income parents with minor children",
+      "Wisconsin residents; work participation requirements apply"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — contact your local W-2 agency to apply"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "DCF / ACCESS",
+        "value": "800-362-3002"
+      },
+      {
+        "kind": "web",
+        "label": "ACCESS",
+        "value": "https://access.wisconsin.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Find a local W-2 agency (ACCESS)",
+        "url": "https://access.wisconsin.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://access.wisconsin.gov",
+      "https://dcf.wisconsin.gov/w2"
+    ]
+  },
+  {
+    "id": "st-wi-parks",
+    "name": "Wisconsin State Park Vehicle Admission Pass",
+    "agency": "Wisconsin Department of Natural Resources",
+    "category": "Outdoors",
+    "description": "A 12-month vehicle admission pass gives a year of access to 60+ Wisconsin state parks, forests, and recreation areas; buy online, at properties, or at DNR service centers.",
+    "scope": {
+      "state": "WI",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — resident and nonresident passes available"
+    ],
+    "deadlines": [
+      {
+        "label": "Pass validity",
+        "date": null,
+        "note": "Valid for 12 months from the time of purchase"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Vehicle admission passes",
+        "value": "https://dnr.wisconsin.gov/topic/parks/admission"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Buy a vehicle admission pass",
+        "url": "https://dnr.wisconsin.gov/topic/parks/admission"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$28 for Wisconsin residents ($50 nonresident); $13 senior resident",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dnr.wisconsin.gov/topic/parks/admission"
+    ]
+  },
+  {
+    "id": "st-wy-drivers-license",
+    "name": "Wyoming Driver License & ID — New & Renewal",
+    "agency": "Wyoming Department of Transportation — Driver Services",
+    "category": "Transportation",
+    "description": "Get a new Wyoming driver license, renew, or get a state ID card through WYDOT Driver Services; renew online through the one.wyo portal.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wyoming residents age 16 and older for a driver license",
+      "Proof of identity, lawful presence, and Wyoming residency"
+    ],
+    "deadlines": [
+      {
+        "label": "Renewals",
+        "date": null,
+        "note": "Renew online, by mail, or in person"
+      }
+    ],
+    "prerequisites": [
+      "Social Security number",
+      "Proof of Wyoming address"
+    ],
+    "whatToBring": [
+      "Proof of identity and lawful presence",
+      "Social Security number",
+      "Proof of Wyoming residency"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WYDOT Driver Services",
+        "value": "https://dot.state.wy.us/driverservices"
+      },
+      {
+        "kind": "web",
+        "label": "Online services (one.wyo)",
+        "value": "https://mvds.onewyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WYDOT Driver Services",
+        "url": "https://dot.state.wy.us/driverservices"
+      },
+      {
+        "label": "Renew online",
+        "url": "https://mvds.onewyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee varies by license type — see current fee schedule",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dot.state.wy.us/driverservices"
+    ]
+  },
+  {
+    "id": "st-wy-vehicle-registration",
+    "name": "Wyoming Vehicle Registration & Title",
+    "agency": "Wyoming Department of Transportation",
+    "category": "Transportation",
+    "description": "Register and title vehicles in Wyoming through WYDOT; renew registration through county treasurers or online services.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Owners of vehicles operated in Wyoming",
+      "New residents must register promptly"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration renewal",
+        "date": null,
+        "note": "Renew online, by mail, or in person at your county treasurer"
+      }
+    ],
+    "prerequisites": [
+      "Proof of insurance"
+    ],
+    "whatToBring": [
+      "Vehicle title or previous registration",
+      "Proof of insurance",
+      "Valid photo ID"
+    ],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "WYDOT Driver Services / Motor Vehicle",
+        "value": "https://dot.state.wy.us/driverservices"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "WYDOT Driver Services",
+        "url": "https://dot.state.wy.us/driverservices"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fees vary by vehicle type and weight",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dot.state.wy.us/driverservices"
+    ]
+  },
+  {
+    "id": "st-wy-medicaid",
+    "name": "Wyoming Medicaid",
+    "agency": "Wyoming Department of Health — Division of Healthcare Financing",
+    "category": "Healthcare",
+    "description": "Wyoming Medicaid provides health coverage to eligible low-income residents — families, children, pregnant women, and people with disabilities.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wyoming residents with low income",
+      "Children, pregnant women, parents, people with disabilities"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply anytime"
+      }
+    ],
+    "prerequisites": [
+      "Income within program limits",
+      "U.S. citizenship or qualified immigration status"
+    ],
+    "whatToBring": [
+      "Social Security numbers",
+      "Proof of income",
+      "Proof of Wyoming residency"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Wyoming Medicaid",
+        "value": "855-294-2127"
+      },
+      {
+        "kind": "web",
+        "label": "Wyoming Medicaid",
+        "value": "https://health.wyo.gov/healthcarefin/medicaid/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wyoming Medicaid",
+        "url": "https://health.wyo.gov/healthcarefin/medicaid/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://health.wyo.gov/healthcarefin/medicaid/"
+    ]
+  },
+  {
+    "id": "st-wy-snap",
+    "name": "Wyoming SNAP — Supplemental Nutrition Assistance Program",
+    "agency": "Wyoming Department of Family Services",
+    "category": "Food",
+    "description": "Wyoming SNAP provides monthly food benefits to eligible low-income households; applications are paper-based — request one from your local DFS office.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Wyoming residents with low income and limited resources",
+      "U.S. citizens or certain qualified non-citizens"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — request a paper application from a local DFS office"
+      }
+    ],
+    "prerequisites": [
+      "Countable income within program limits"
+    ],
+    "whatToBring": [
+      "Proof of identity",
+      "Proof of income and expenses",
+      "Social Security numbers"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "SNAP interview line",
+        "value": "1-307-777-8550"
+      },
+      {
+        "kind": "email",
+        "label": "SNAP email",
+        "value": "snappowerservice@wyo.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Department of Family Services",
+        "value": "https://dfs.wyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Department of Family Services",
+        "url": "https://dfs.wyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfs.wyo.gov"
+    ]
+  },
+  {
+    "id": "st-wy-unemployment",
+    "name": "Wyoming Unemployment Insurance — File a Claim",
+    "agency": "Wyoming Department of Workforce Services",
+    "category": "Employment",
+    "description": "File for unemployment benefits online through the Wyoming UI claims system if you lost your job through no fault of your own.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Workers who lost jobs through no fault of their own",
+      "Able, available, and actively seeking work"
+    ],
+    "deadlines": [
+      {
+        "label": "Initial claim",
+        "date": null,
+        "note": "File as soon as you become unemployed"
+      },
+      {
+        "label": "Weekly claims",
+        "date": null,
+        "note": "File weekly to receive payment"
+      }
+    ],
+    "prerequisites": [
+      "Sufficient past wages in covered Wyoming employment"
+    ],
+    "whatToBring": [
+      "Social Security number",
+      "Employer names and dates of work",
+      "Alien registration number if applicable"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "UI Claims Center",
+        "value": "307-473-3789"
+      },
+      {
+        "kind": "web",
+        "label": "File a claim (WYUI)",
+        "value": "https://wyui.wyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File an unemployment claim",
+        "url": "https://wyui.wyo.gov"
+      },
+      {
+        "label": "Workforce Services",
+        "url": "https://dws.wyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dws.wyo.gov"
+    ]
+  },
+  {
+    "id": "st-wy-voter-registration",
+    "name": "Wyoming Voter Registration",
+    "agency": "Wyoming Secretary of State — Elections Division",
+    "category": "Legal Aid",
+    "description": "Register to vote in person at your county clerk's office, by mail with a notarized form, or on Election Day at your polling place; Wyoming has no online voter registration.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "U.S. citizens who are bona fide Wyoming residents for at least 30 days before the election",
+      "Age 18 by Election Day",
+      "Not currently incarcerated for a felony"
+    ],
+    "deadlines": [
+      {
+        "label": "Registration deadline — Nov 3, 2026 general election",
+        "date": "2026-10-20",
+        "note": "Register 14 days before each election; Election Day registration available"
+      }
+    ],
+    "prerequisites": [
+      "Proof of Wyoming residency and U.S. citizenship",
+      "Wyoming driver's license preferred"
+    ],
+    "whatToBring": [
+      "Wyoming driver's license or other acceptable ID",
+      "Proof of residency and citizenship"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Elections Division",
+        "value": "307-777-7378"
+      },
+      {
+        "kind": "web",
+        "label": "Registering to vote",
+        "value": "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Registering to vote (SOS)",
+        "url": "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx"
+    ]
+  },
+  {
+    "id": "st-wy-business-registration",
+    "name": "Wyoming Business Registration / LLC Formation",
+    "agency": "Wyoming Secretary of State",
+    "category": "Small Business",
+    "description": "Form an LLC or other business entity with the Wyoming Secretary of State through the Wyoming Business Center (WyoBiz) online portal.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Anyone forming a business entity in Wyoming",
+      "Registered agent with a Wyoming address"
+    ],
+    "deadlines": [
+      {
+        "label": "Formation",
+        "date": null,
+        "note": "File online"
+      }
+    ],
+    "prerequisites": [
+      "Unique entity name",
+      "Registered agent"
+    ],
+    "whatToBring": [
+      "Business name",
+      "Registered agent name and Wyoming address",
+      "Organizer information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Business Division",
+        "value": "307-777-7311"
+      },
+      {
+        "kind": "web",
+        "label": "WyoBiz portal",
+        "value": "https://wyobiz.wyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "File a business entity (WyoBiz)",
+        "url": "https://wyobiz.wyo.gov"
+      },
+      {
+        "label": "Wyoming Secretary of State — Business",
+        "url": "https://sos.wyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "LLC filing: $100 (Articles of Organization)",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wyobiz.wyo.gov",
+      "https://sos.wyo.gov"
+    ]
+  },
+  {
+    "id": "st-wy-tax-filing",
+    "name": "Wyoming Taxes — No Individual Income Tax",
+    "agency": "Wyoming Department of Revenue",
+    "category": "Money & Taxes",
+    "description": "Wyoming has no individual income tax. Residents file only a federal return; the Department of Revenue administers sales, use, property, and severance taxes.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "All Wyoming residents — no individual income tax return required"
+    ],
+    "deadlines": [
+      {
+        "label": "Individual income tax",
+        "date": null,
+        "note": "None — no filing required"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Department of Revenue",
+        "value": "https://revenue.wyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Department of Revenue",
+        "url": "https://revenue.wyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "No individual income tax",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://revenue.wyo.gov"
+    ]
+  },
+  {
+    "id": "st-wy-birth-certificate",
+    "name": "Wyoming Birth Certificate — Vital Statistics Services",
+    "agency": "Wyoming Department of Health — Vital Statistics Services",
+    "category": "Healthcare",
+    "description": "Order certified copies of Wyoming birth certificates by mail from Vital Statistics Services in Cheyenne, or in person at the Hathaway Building.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "The person named on the certificate",
+      "Immediate family members or legal representatives"
+    ],
+    "deadlines": [
+      {
+        "label": "Requests",
+        "date": null,
+        "note": "Rolling — allow processing and mail time"
+      }
+    ],
+    "prerequisites": [
+      "Birth occurred in Wyoming"
+    ],
+    "whatToBring": [
+      "Legible copy of current state-issued ID or passport with signature",
+      "Completed application",
+      "Payment (check or money order)"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "Vital Statistics Services",
+        "value": "307-777-7591"
+      },
+      {
+        "kind": "web",
+        "label": "Vital Statistics Services",
+        "value": "https://health.wyo.gov/admin/vitalstatistics/"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Vital Statistics Services",
+        "url": "https://health.wyo.gov/admin/vitalstatistics/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Fee per certified copy — confirm current fee on the application",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://health.wyo.gov/admin/vitalstatistics/",
+      "https://www.cdc.gov/nchs/w2w/Wyoming.htm"
+    ]
+  },
+  {
+    "id": "st-wy-tanf",
+    "name": "POWER — Wyoming TANF Cash Assistance",
+    "agency": "Wyoming Department of Family Services",
+    "category": "Money & Taxes",
+    "description": "POWER (Personal Opportunities with Employment Responsibilities) is Wyoming's TANF program, providing temporary cash assistance to eligible low-income families; apply at your local DFS office.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Low-income families with children",
+      "Wyoming residents; work participation requirements apply"
+    ],
+    "deadlines": [
+      {
+        "label": "Applications",
+        "date": null,
+        "note": "Rolling — apply at your local DFS office"
+      }
+    ],
+    "prerequisites": [
+      "Cooperation with work requirements and child support"
+    ],
+    "whatToBring": [
+      "Proof of identity and residency",
+      "Proof of income",
+      "Children's information"
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "label": "POWER/SNAP interview line",
+        "value": "1-307-777-8550"
+      },
+      {
+        "kind": "web",
+        "label": "Department of Family Services",
+        "value": "https://dfs.wyo.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Department of Family Services",
+        "url": "https://dfs.wyo.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "Free",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://dfs.wyo.gov"
+    ]
+  },
+  {
+    "id": "st-wy-parks",
+    "name": "Wyoming State Parks — Annual Day-Use Permit",
+    "agency": "Wyoming Division of State Parks, Historic Sites and Trails",
+    "category": "Outdoors",
+    "description": "The annual day-use permit gives a calendar year of day-use access to Wyoming state parks and historic sites; buy online or at selling-agent locations.",
+    "scope": {
+      "state": "WY",
+      "level": "state"
+    },
+    "eligibility": [
+      "Everyone — resident and nonresident permits available"
+    ],
+    "deadlines": [
+      {
+        "label": "Permit validity",
+        "date": null,
+        "note": "Good for the calendar year; day use only, camping not included"
+      }
+    ],
+    "prerequisites": [],
+    "whatToBring": [],
+    "contacts": [
+      {
+        "kind": "web",
+        "label": "Wyoming State Parks",
+        "value": "https://wyoparks.wyo.gov"
+      },
+      {
+        "kind": "web",
+        "label": "Buy permits (reserve.wyoming.gov)",
+        "value": "https://reserve.wyoming.gov"
+      }
+    ],
+    "applyLinks": [
+      {
+        "label": "Wyoming State Parks",
+        "url": "https://wyoparks.wyo.gov"
+      },
+      {
+        "label": "Buy permits and reserve",
+        "url": "https://reserve.wyoming.gov"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "cost": "$48 resident / $96 nonresident annual day-use permit",
+    "verifiedAt": "2026-10-08",
+    "sources": [
+      "https://wyoparks.wyo.gov"
+    ]
+  }
+]

@@ -1,0 +1,1323 @@
+[
+ {
+  "id": "st-ak-drivers-license",
+  "name": "Alaska Driver License — New & Renewal",
+  "agency": "Alaska Division of Motor Vehicles",
+  "category": "IDs & Records",
+  "description": "Apply for a new Alaska driver license or renew an existing one. The Division of Motor Vehicles issues standard and REAL ID-compliant credentials at all office locations; many renewals, replacements, and address changes can be done online without an office visit.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Alaska resident applying for a first license, transferring an out-of-state license, or renewing an expiring license",
+   "Renew online if age 22 or older with no change in personal information and the last renewal was not by mail",
+   "REAL ID (Arizona Travel-ID-equivalent) requires in-person visit with identity and residency documents"
+  ],
+  "deadlines": [
+   {
+    "label": "Renewal",
+    "date": null,
+    "note": "Rolling — renew before the expiration date shown on your license; a temporary paper license is issued while the card mails in 2–4 weeks"
+   }
+  ],
+  "prerequisites": [
+   "Proof of identity, legal presence, and Alaska residency (birth certificate or passport plus two Alaska residency documents for REAL ID)",
+   "Pass vision, knowledge, and road tests for a first-time license",
+   "Surrender any valid out-of-state driver license"
+  ],
+  "whatToBring": [
+   "Primary identity document (U.S. birth certificate, passport, or immigration documents)",
+   "Social Security number",
+   "Proof of Alaska residential address",
+   "Payment for the license fee"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "DMV headquarters (Mon–Fri, 8:30 AM–4:30 PM AKT)",
+    "value": "(907) 269-5551"
+   },
+   {
+    "kind": "web",
+    "label": "DMV home and online services",
+    "value": "https://dmv.alaska.gov/home/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "DMV online services (renewals, replacements, appointments)",
+    "url": "https://dmv.alaska.gov/home/"
+   },
+   {
+    "label": "Renew your Alaska driver license",
+    "url": "https://dmv.alaska.gov/credential-services/renew-your-alaska-driver-license/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "$20 standard license (fees vary by license type and endorsements)",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://dmv.alaska.gov/home/", "https://dmv.alaska.gov/credential-services/renew-your-alaska-driver-license/"]
+ },
+ {
+  "id": "st-ak-vehicle-registration",
+  "name": "Alaska Vehicle Registration & Title",
+  "agency": "Alaska Division of Motor Vehicles",
+  "category": "Transportation",
+  "description": "Register a vehicle and transfer a title in Alaska. Registration renewals for vehicles already titled in the owner's name can be done online; new purchases and title transfers require an application for title and registration with supporting documents.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Vehicle owner registering a vehicle in Alaska",
+   "Buyer of a new or used vehicle (dealer must apply for title transfer within 30 days of purchase)",
+   "Alaska residents age 65+ may register one personal vehicle fee-free (senior exemption)"
+  ],
+  "deadlines": [
+   {
+    "label": "Registration renewal",
+    "date": null,
+    "note": "Rolling — renew before the expiration date on your registration; biennial registration options vary by vehicle type"
+   }
+  ],
+  "prerequisites": [
+   "Alaska-titled vehicle in your name for online renewal",
+   "Application for Title & Registration (Form 812) for new registrations and title transfers",
+   "VIN inspection where required"
+  ],
+  "whatToBring": [
+   "Vehicle title or Manufacturer's Certificate of Origin",
+   "Lien information if the vehicle is financed",
+   "Proof of insurance",
+   "Payment for registration and title fees"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "DMV headquarters (Mon–Fri, 8:30 AM–4:30 PM AKT)",
+    "value": "(907) 269-5551"
+   },
+   {
+    "kind": "web",
+    "label": "DMV home and online services",
+    "value": "https://dmv.alaska.gov/home/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "DMV online services (renew registration, update address)",
+    "url": "https://dmv.alaska.gov/home/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Varies by vehicle type and registration period; seniors 65+ exempt on one vehicle",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://dmv.alaska.gov/home/", "https://dmv.alaska.gov/vehicle-services/registration-for-seniors/"]
+ },
+ {
+  "id": "st-ak-medicaid",
+  "name": "DenaliCare — Alaska Medicaid",
+  "agency": "Alaska Department of Health, Division of Public Assistance",
+  "category": "Healthcare",
+  "description": "DenaliCare is Alaska's Medicaid program, providing free or low-cost health coverage to eligible low-income adults, children, pregnant women, seniors, and people with disabilities. Apply through the Alaska Connect portal or HealthCare.gov.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Alaska resident meeting income guidelines for the coverage category (MAGI Medicaid, aged/blind/disabled, Denali KidCare, long-term care)",
+   "U.S. citizen, national, or qualified non-citizen",
+   "Processing generally takes up to 30 days after a complete application"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — apply anytime; benefits can begin once eligibility is determined"
+   }
+  ],
+  "prerequisites": [
+   "Alaska residency",
+   "Meet the income and household-size rules for the coverage group"
+  ],
+  "whatToBring": [
+   "Social Security numbers for applicants",
+   "Proof of Alaska residency",
+   "Proof of income (pay stubs, benefit letters)",
+   "Immigration documents if not a U.S. citizen"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Division of Public Assistance Virtual Contact Center",
+    "value": "1-800-478-7778"
+   },
+   {
+    "kind": "web",
+    "label": "Division of Public Assistance services",
+    "value": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply via Alaska Connect portal (all categories)",
+    "url": "https://alaskaconnect.ilinx.com/"
+   },
+   {
+    "label": "Apply at HealthCare.gov (income-based MAGI Medicaid)",
+    "url": "https://www.healthcare.gov/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/"]
+ },
+ {
+  "id": "st-ak-snap",
+  "name": "Supplemental Nutrition Assistance Program (SNAP) — Alaska",
+  "agency": "Alaska Department of Health, Division of Public Assistance",
+  "category": "Food",
+  "description": "SNAP helps eligible low-income households buy food, with benefits loaded monthly onto the Alaska Quest EBT card. Households relying substantially on subsistence hunting and fishing can also use benefits for gear like nets, hooks, rods, and harpoons.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Household income within SNAP gross and net income limits for household size",
+   "Alaska resident; citizenship or eligible immigration status required for members receiving benefits",
+   "Able-bodied adults without dependents may face work/time-limit rules",
+   "Households with very low income or resources may qualify for expedited service within 7 days"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — apply anytime; expedited cases decided within 7 days"
+   }
+  ],
+  "prerequisites": [
+   "Complete an application and eligibility interview",
+   "Provide income, resource, and household verification"
+  ],
+  "whatToBring": [
+   "Photo ID and Social Security numbers",
+   "Pay stubs or employer statements for the last 30 days",
+   "Rent/mortgage receipts and utility (including heating) bills",
+   "Bank statements and medical expense statements if applicable"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Division of Public Assistance Virtual Contact Center",
+    "value": "1-800-478-7778"
+   },
+   {
+    "kind": "web",
+    "label": "Division of Public Assistance services",
+    "value": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply for SNAP via Alaska Connect",
+    "url": "https://alaskaconnect.ilinx.com/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/", "http://dpaweb.hss.state.ak.us/e-forms/pdf/FSP-313.pdf"]
+ },
+ {
+  "id": "st-ak-unemployment",
+  "name": "Alaska Unemployment Insurance — File a Claim",
+  "agency": "Alaska Department of Labor and Workforce Development, Division of Employment and Training Services",
+  "category": "Employment",
+  "description": "File for Alaska unemployment insurance benefits if you lost work through no fault of your own. First-time claims must be filed by phone with a claim center; renewals, weekly certifications, and payment status are available online through myAlaska.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Earned wages in work covered by Alaska UI law during the base period",
+   "Unemployed through no fault of your own (layoff, reduction in hours, or qualifying separation)",
+   "Able, available, and actively seeking full-time work",
+   "Registered for work with the Alaska Employment Service or your union"
+  ],
+  "deadlines": [
+   {
+    "label": "Filing",
+    "date": null,
+    "note": "File in the first week employment stops or hours are reduced; file weekly claims on schedule to keep benefits"
+   }
+  ],
+  "prerequisites": [
+   "Sufficient covered wages in the base period",
+   "File a new or reopened claim (first-time filers must call a claim center)",
+   "Register for work and complete required work-search activities"
+  ],
+  "whatToBring": [
+   "Full legal name and Social Security number",
+   "Work authorization if not a U.S. citizen or resident",
+   "Employer names, addresses, and dates of employment for the last 18 months",
+   "Reason for separation from each employer"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Anchorage UI Claim Center",
+    "value": "(907) 269-4700"
+   },
+   {
+    "kind": "phone",
+    "label": "Juneau / outside Alaska UI Claim Center",
+    "value": "(907) 465-5552"
+   },
+   {
+    "kind": "phone",
+    "label": "Fairbanks UI Claim Center",
+    "value": "(907) 451-2871"
+   },
+   {
+    "kind": "phone",
+    "label": "Toll-free (areas with underserved broadband)",
+    "value": "1-888-252-2557"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "File unemployment benefits online (myAlaska)",
+    "url": "https://my.alaska.gov/"
+   },
+   {
+    "label": "Alaska UI claimant information",
+    "url": "https://labor.alaska.gov/unemployment/home.htm"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://labor.alaska.gov/unemployment/call-centers.htm"]
+ },
+ {
+  "id": "st-ak-voter-registration",
+  "name": "Alaska Voter Registration",
+  "agency": "Alaska Division of Elections",
+  "category": "Civic Participation",
+  "description": "Register to vote or update your registration in Alaska. Residents are automatically registered to vote when they apply for the Permanent Fund Dividend (PFD) and have 30 days to opt out. Online registration requires a current Alaska driver license or state ID.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "U.S. citizen and Alaska resident",
+   "At least 18 years old (or within 90 days of 18th birthday to register)",
+   "Resident of the state and election district for at least 30 days before voting",
+   "Not disqualified by a felony conviction involving moral turpitude unless voting rights restored"
+  ],
+  "deadlines": [
+   {
+    "label": "Registration cutoff",
+    "date": null,
+    "note": "Register or update registration at least 30 days before an election; PFD applicants are auto-registered unless they opt out within 30 days"
+   }
+  ],
+  "prerequisites": [
+   "Current Alaska driver license or state ID to register online",
+   "Proof of Alaska residency when initially registering from outside the state",
+   "Cancel any voter registration in another state"
+  ],
+  "whatToBring": [
+   "Alaska driver license or state ID",
+   "For paper registration: copy of driver license, state ID, passport, or birth certificate",
+   "Proof of Alaska residency if registering from outside the state (e.g., hunting/fishing license, LES, employment proof)"
+  ],
+  "contacts": [
+   {
+    "kind": "web",
+    "label": "Division of Elections — voter information",
+    "value": "https://www.elections.alaska.gov/voter-information/"
+   },
+   {
+    "kind": "web",
+    "label": "Division of Elections home",
+    "value": "https://www.elections.alaska.gov/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Register or update voter registration",
+    "url": "https://www.elections.alaska.gov/voter-information/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.elections.alaska.gov/voter-information/"]
+ }
+,
+ {
+  "id": "st-ak-business-registration",
+  "name": "Alaska Business Registration — LLC & Corporation Formation",
+  "agency": "Alaska Division of Corporations, Business and Professional Licensing — Corporations Section",
+  "category": "Small Business",
+  "description": "Form an LLC, corporation, or other business entity in Alaska through the Corporations Section. File articles of organization or incorporation online or by mail, and keep the entity in good standing with biennial reports.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Any person forming a domestic entity or registering a foreign entity to do business in Alaska",
+   "Entity name must be distinguishable from existing Alaska entities",
+   "Every corporation and LLC must maintain a registered agent with a street address in Alaska"
+  ],
+  "deadlines": [
+   {
+    "label": "Filing",
+    "date": null,
+    "note": "Rolling — file before transacting business; biennial reports due every two years"
+   }
+  ],
+  "prerequisites": [
+   "Distinguishable business name (search the corporations database first)",
+   "Registered agent with an Alaska street address",
+   "Articles of organization (LLC) or incorporation (corporation)"
+  ],
+  "whatToBring": [
+   "Proposed entity name and NAICS business activity codes",
+   "Registered agent name and Alaska street address",
+   "Names and addresses of organizers, members, or directors",
+   "Payment for the filing fee"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Corporations Section",
+    "value": "(907) 465-2550"
+   },
+   {
+    "kind": "email",
+    "label": "Corporations Section email",
+    "value": "corporations@alaska.gov"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Create or file for a new entity (Corporations Section)",
+    "url": "https://www.commerce.alaska.gov/web/cbpl/Corporations"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "$250 to form an LLC; biennial report $100",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.commerce.alaska.gov/web/cbpl/Corporations"]
+ },
+ {
+  "id": "st-ak-tax-filing",
+  "name": "Alaska State Taxes — No Individual Income Tax",
+  "agency": "Alaska Department of Revenue, Tax Division",
+  "category": "Money & Taxes",
+  "description": "Alaska has no individual income tax and no statewide sales tax — individuals file only federal returns. The Tax Division administers business taxes (including a graduated corporate income tax for C corporations with Alaska-source income), and cities and boroughs may levy local sales taxes.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Individuals: no state income tax return required regardless of income",
+   "Businesses: corporate income tax applies to C corporations with Alaska-source income",
+   "Remote sellers meeting economic nexus thresholds must collect applicable local sales taxes"
+  ],
+  "deadlines": [
+   {
+    "label": "Individual filing",
+    "date": null,
+    "note": "No state individual return to file — file your federal return by the IRS deadline; check city/borough local tax deadlines if you run a business"
+   }
+  ],
+  "prerequisites": [
+   "No registration needed for individuals — there is nothing to file with the state",
+   "Businesses register for applicable tax types through Revenue Online"
+  ],
+  "whatToBring": [
+   "For federal filing: W-2s, 1099s, and federal records",
+   "Proof of Alaska residency for programs like the PFD if needed",
+   "Business filers: federal return copies, estimated payment records, local sales tax registrations"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Tax Division, Juneau (main)",
+    "value": "(907) 465-2320"
+   },
+   {
+    "kind": "phone",
+    "label": "Tax Division, Anchorage",
+    "value": "(907) 269-6620"
+   },
+   {
+    "kind": "web",
+    "label": "Alaska Tax Division",
+    "value": "https://tax.alaska.gov/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Alaska Tax Division (business tax filing via Revenue Online)",
+    "url": "https://tax.alaska.gov/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "No individual income tax to file; business tax fees vary by tax type",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://tax.alaska.gov/"]
+ },
+ {
+  "id": "st-ak-professional-licensing",
+  "name": "Alaska Professional Licensing — MY LICENSE Portal",
+  "agency": "Alaska Division of Corporations, Business and Professional Licensing",
+  "category": "Employment",
+  "description": "Alaska's central licensing portal for more than 40 professions — nursing, real estate, construction contractors, barbers, engineers, medical, and more. Use the MY LICENSE self-service portal (with a myAlaska account) to apply, renew, update contact information, and print license certificates.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Applicants meeting the education, examination, and experience requirements of the specific board or program",
+   "Licensees renewing before expiration (no grace period — lapsed licenses cannot be used to practice)",
+   "Out-of-state applicants may qualify for licensure by endorsement or credential depending on the profession"
+  ],
+  "deadlines": [
+   {
+    "label": "Renewal",
+    "date": null,
+    "note": "Rolling — renew by the expiration date on your license; renewal schedules vary by profession (e.g., nursing renews in even-numbered years)"
+   }
+  ],
+  "prerequisites": [
+   "myAlaska account linked to your license via the MY LICENSE portal",
+   "Meet board-specific education and examination requirements",
+   "Professional fitness (background) disclosure where required"
+  ],
+  "whatToBring": [
+   "myAlaska login credentials",
+   "License number and web authorization code to link an existing license",
+   "Education transcripts, exam scores, and work verification per board requirements",
+   "Payment for application and license fees"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Professional Licensing main line",
+    "value": "(907) 465-2550"
+   },
+   {
+    "kind": "email",
+    "label": "Professional Licensing email",
+    "value": "license@alaska.gov"
+   },
+   {
+    "kind": "web",
+    "label": "Professional licensing portal",
+    "value": "https://professionallicense.alaska.gov/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Professional licensing portal and MY LICENSE",
+    "url": "https://professionallicense.alaska.gov/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Varies by profession and board (application, license, and renewal fees)",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://professionallicense.alaska.gov/", "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/RenewalInstructions.aspx"]
+ },
+ {
+  "id": "st-ak-birth-certificate",
+  "name": "Alaska Birth Certificate — Vital Records",
+  "agency": "Alaska Department of Health, Bureau of Vital Statistics",
+  "category": "IDs & Records",
+  "description": "Order a certified copy of an Alaska birth certificate from the Bureau of Vital Statistics. Request by mail or fax, in person in Anchorage, Fairbanks, or Juneau, or online through VitalChek for expedited service.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "The person named on the record, a parent, legal representative with documentation, or an entitled party",
+   "Only the person named, parents, or legal representatives may order; others must show legal entitlement",
+   "State office holds records back to the 1890s (many events before 1930 were never registered)"
+  ],
+  "deadlines": [
+   {
+    "label": "Orders",
+    "date": null,
+    "note": "Rolling — regular mail orders processed in about 2–3 weeks; expedited (fax) orders in about 3 business days; heirloom certificates in 4–6 weeks"
+   }
+  ],
+  "prerequisites": [
+   "Completed birth certificate request form with original signature",
+   "Copy of the applicant's photo ID (or notarized signature)",
+   "Proof of relationship or legal documentation if ordering for someone other than yourself or your child"
+  ],
+  "whatToBring": [
+   "Signed request form",
+   "Copy of government-issued photo ID (enlarge and lighten for readability)",
+   "Proof of relationship if applicable",
+   "Payment (check or money order for mail; cash accepted for walk-in only)"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Bureau of Vital Statistics",
+    "value": "(907) 465-3391"
+   },
+   {
+    "kind": "web",
+    "label": "Alaska Vital Records",
+    "value": "https://health.alaska.gov/dph/VitalStats/Documents/birth/birth_form.pdf"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Order expedited birth certificate through VitalChek",
+    "url": "https://www.vitalchek.com/"
+   },
+   {
+    "label": "Alaska birth certificate request form (PDF)",
+    "url": "https://health.alaska.gov/dph/VitalStats/Documents/birth/birth_form.pdf"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "$30 first certified copy; $25 each additional copy of the same record; heirloom certificates $55",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://health.alaska.gov/dph/VitalStats/Documents/birth/birth_form.pdf"]
+ },
+ {
+  "id": "st-ak-atap",
+  "name": "Alaska Temporary Assistance Program (ATAP) — TANF",
+  "agency": "Alaska Department of Health, Division of Public Assistance",
+  "category": "Family & Childcare",
+  "description": "ATAP is Alaska's TANF program, providing monthly cash assistance to eligible low-income families with children to meet basic needs. Benefits are paid on the Alaska Quest EBT card, and adults are connected to work and training activities.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Families with dependent children and household income within ATAP limits",
+   "Alaska resident; U.S. citizen, national, or qualified non-citizen",
+   "Adults must cooperate with work requirements, child support enforcement, and the Personal Responsibility Plan",
+   "Federal 60-month lifetime limit on cash benefits applies (with exemptions)"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — benefit start date is generally the date a completed application page is received"
+   }
+  ],
+  "prerequisites": [
+   "Complete an application and eligibility interview with a Division of Public Assistance caseworker",
+   "Provide identity, income, residency, and household verification"
+  ],
+  "whatToBring": [
+   "Photo ID and Social Security cards for applicant and children",
+   "Proof of income (pay stubs, unemployment statements)",
+   "Proof of Alaska residency (lease, utility bills)",
+   "Birth certificates for dependent children"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Division of Public Assistance Virtual Contact Center",
+    "value": "1-800-478-7778"
+   },
+   {
+    "kind": "web",
+    "label": "Division of Public Assistance services",
+    "value": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply for ATAP via Alaska Connect",
+    "url": "https://alaskaconnect.ilinx.com/"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/", "https://alaskabar.org/youth/family-life/accessing-public-benefits/atap/"]
+ },
+ {
+  "id": "st-ak-state-parks",
+  "name": "Alaska State Parks — Annual Parking Pass & Camping",
+  "agency": "Alaska Department of Natural Resources, Division of Parks and Outdoor Recreation",
+  "category": "Parks & Recreation",
+  "description": "Alaska State Parks charges no general entry fee; instead, day-use parking areas and boat launches use fee decals, and campgrounds charge nightly fees. An annual day-use parking pass covers a calendar year of parking at most parks; disabled veterans get a free multi-year camping pass.",
+  "scope": {"state": "AK", "level": "state"},
+  "eligibility": [
+   "Open to everyone — passes sold at Public Information Centers, ranger stations, and online",
+   "Disabled veterans with a service-connected disability qualify for a free 5-year camping pass",
+   "No senior discount is offered for park passes"
+  ],
+  "deadlines": [
+   {
+    "label": "Passes",
+    "date": null,
+    "note": "Annual passes are valid for the calendar year; buy anytime. Some reservable cabins and campsites book on a rolling 3-month window"
+   }
+  ],
+  "prerequisites": [
+   "None to visit; pass required for day-use parking where fees apply",
+   "Campsite and cabin reservations through the Alaska State Parks reservation system (new system launched Oct 1, 2026)"
+  ],
+  "whatToBring": [
+   "Annual parking decal affixed to the lower driver-side windshield",
+   "Boat launch decal affixed to the trailer tongue for boat launches",
+   "Disabled veterans: proof of service-connected disability for the free camping pass"
+  ],
+  "contacts": [
+   {
+    "kind": "web",
+    "label": "Alaska State Parks passes",
+    "value": "https://dnr.alaska.gov/parks/passes"
+   },
+   {
+    "kind": "web",
+    "label": "Alaska State Parks passes and fees",
+    "value": "https://dnr.alaska.gov/parks/passes"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Buy annual parking and boat launch passes",
+    "url": "https://dnr.alaska.gov/parks/passes"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "$60 annual day-use parking pass; $150 boat launch pass; disabled veteran camping pass free; camping $15–$20/night",
+  "verifiedAt": "2026-10-08",
+  "sources": ["http://dnr.alaska.gov/parks/asp/fees.htm", "http://dnr.alaska.gov/parks/faq.htm"]
+ }
+,
+ {
+  "id": "st-az-drivers-license",
+  "name": "Arizona Driver License — New & Renewal",
+  "agency": "Arizona Department of Transportation, Motor Vehicle Division (ADOT MVD)",
+  "category": "IDs & Records",
+  "description": "Apply for a new Arizona driver license, renew, or replace one through ADOT's Motor Vehicle Division. Most services — renewals, replacements, address updates — are handled online through a free AZ MVD Now account; first-time licenses and Travel ID (REAL ID) applications require an office visit.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Arizona resident age 16+ for a Class D license (instruction permits from 15 years 6 months)",
+   "New residents must obtain an Arizona license and register vehicles promptly after establishing residency",
+   "Travel ID (REAL ID-compliant) requires an in-person visit with identity and residency documents"
+  ],
+  "deadlines": [
+   {
+    "label": "Renewal",
+    "date": null,
+    "note": "Rolling — renew before expiration; eligible renewals can be completed online via AZ MVD Now"
+   }
+  ],
+  "prerequisites": [
+   "Proof of identity, legal presence, and Arizona residency for first-time and Travel ID applications",
+   "Pass vision, knowledge, and road skills tests for a first license",
+   "Activated AZ MVD Now account (free) for online services"
+  ],
+  "whatToBring": [
+   "Primary identity document (U.S. birth certificate, passport, or immigration documents)",
+   "Social Security number",
+   "Two documents proving Arizona residency (for Travel ID)",
+   "Payment for applicable fees"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "MVD customer service (Mon–Fri, 8 AM–5 PM)",
+    "value": "602-255-0072"
+   },
+   {
+    "kind": "web",
+    "label": "ADOT Motor Vehicle Division",
+    "value": "https://azdot.gov/mvd"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "AZ MVD Now — official online portal (renew, replace, appointments)",
+    "url": "https://azmvdnow.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Varies by license type and duration",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://azmvdnow.gov/", "https://azdot.gov/vehicle-services-faq"]
+ },
+ {
+  "id": "st-az-vehicle-registration",
+  "name": "Arizona Vehicle Registration & Title",
+  "agency": "Arizona Department of Transportation, Motor Vehicle Division (ADOT MVD)",
+  "category": "Transportation",
+  "description": "Register a vehicle and transfer a title in Arizona. Renewals, duplicate registrations, sold notices, and electronic title transfers are available through AZ MVD Now; first-time registrations and out-of-state title transfers may require an inspection at an MVD or authorized third-party office.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Vehicle owner registering in Arizona; Arizona requires proof of insurance from an authorized company",
+   "Seller and buyer complete title transfer (electronic transfer available for eligible titles)",
+   "Five-year registration option available for qualifying vehicles outside emissions areas"
+  ],
+  "deadlines": [
+   {
+    "label": "Registration renewal",
+    "date": null,
+    "note": "Rolling — renew before expiration; 1-, 2-, and 5-year options depending on vehicle and location"
+   }
+  ],
+  "prerequisites": [
+   "Arizona liability insurance in effect",
+   "Title or registration documents; emissions compliance in Phoenix and Tucson metro areas",
+   "Level I VIN inspection for certain out-of-state or rebuilt vehicles (free at MVD offices)"
+  ],
+  "whatToBring": [
+   "Vehicle title or current registration",
+   "Proof of Arizona insurance",
+   "Lienholder information if financed",
+   "Payment for registration fees and vehicle license tax"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "MVD customer service (Mon–Fri, 8 AM–5 PM)",
+    "value": "602-255-0072"
+   },
+   {
+    "kind": "web",
+    "label": "MVD vehicle services FAQ",
+    "value": "https://azdot.gov/vehicle-services-faq"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "AZ MVD Now — renew registration, transfer title, sold notice",
+    "url": "https://azmvdnow.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Varies by vehicle value, age, and registration period; title fee $4",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://azmvdnow.gov/", "https://azdot.gov/vehicle-services-faq"]
+ },
+ {
+  "id": "st-az-medicaid",
+  "name": "AHCCCS — Arizona Medicaid",
+  "agency": "Arizona Health Care Cost Containment System (AHCCCS)",
+  "category": "Healthcare",
+  "description": "AHCCCS is Arizona's Medicaid program, covering low-income adults (including under Medicaid expansion), children, pregnant women, seniors, and people with disabilities. Apply through the Health-e-Arizona Plus portal, by phone, or in person at a DES office.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Arizona resident meeting income guidelines for the coverage category (including ACA expansion adults)",
+   "U.S. citizen, national, or qualified non-citizen",
+   "Seniors, blind, and disabled applicants may also apply by mail to the AHCCCS Medical Assistance Specialty Programs office"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — apply anytime; report income, address, or household changes within 10 days"
+   }
+  ],
+  "prerequisites": [
+   "Arizona residency",
+   "Meet income limits for the applicable eligibility group"
+  ],
+  "whatToBring": [
+   "Proof of age (birth certificate or driver license)",
+   "Social Security card",
+   "Pay stubs and documentation of other income",
+   "Bank or investment account statements (for aged/blind/disabled categories)",
+   "Proof of citizenship or legal resident status"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "HEAplus / DES customer service (Mon–Fri, 8 AM–5 PM)",
+    "value": "1-855-432-7587"
+   },
+   {
+    "kind": "web",
+    "label": "Health-e-Arizona Plus portal",
+    "value": "https://www.healthearizonaplus.gov/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply for AHCCCS at Health-e-Arizona Plus",
+    "url": "https://www.healthearizonaplus.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.healthearizonaplus.gov/", "https://des.az.gov/node/84"]
+ },
+ {
+  "id": "st-az-snap",
+  "name": "Nutrition Assistance (SNAP) — Arizona",
+  "agency": "Arizona Department of Economic Security, Family Assistance Administration",
+  "category": "Food",
+  "description": "Nutrition Assistance is Arizona's name for SNAP, helping eligible low-income households buy food with monthly benefits on an EBT card. Apply through Health-e-Arizona Plus; households with little or no money may qualify for emergency benefits within 7 days.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Household income within Nutrition Assistance gross and net income limits",
+   "Arizona resident; citizenship or eligible immigration status for members receiving benefits",
+   "Able-bodied adults without dependents may face work/time-limit rules",
+   "Emergency benefits available within 7 days for households with very low income or resources"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — apply anytime; report changes by the 10th of the month following the change"
+   }
+  ],
+  "prerequisites": [
+   "Complete an application and eligibility interview",
+   "Provide income, resource, and household verification"
+  ],
+  "whatToBring": [
+   "Photo ID and Social Security numbers for household members",
+   "Proof of income for the last two months (pay stubs, benefit letters)",
+   "Bank or credit union statements for the most recent month",
+   "Rent/mortgage and utility bills for the most recent month"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "DES Nutrition, Cash, and Medical Assistance",
+    "value": "1-855-432-7587"
+   },
+   {
+    "kind": "web",
+    "label": "DES contact and program numbers",
+    "value": "https://des.az.gov/node/4100"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply for Nutrition Assistance at Health-e-Arizona Plus",
+    "url": "https://www.healthearizonaplus.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.healthearizonaplus.gov/", "https://des.az.gov/node/4100"]
+ },
+ {
+  "id": "st-az-unemployment",
+  "name": "Arizona Unemployment Insurance — File a Claim",
+  "agency": "Arizona Department of Economic Security — Unemployment Insurance Benefits",
+  "category": "Employment",
+  "description": "File for Arizona unemployment insurance benefits through azui.com if you lost work through no fault of your own. Open or reopen a claim online, then file weekly claims and track payment status through the claimant portal.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Earned sufficient wages from an employer who paid unemployment tax (at least 390 times the Arizona minimum wage in the highest quarter, with the other three quarters totaling at least half of that)",
+   "Separated from the last job for a nondisqualifying reason",
+   "Registered for work with Arizona Job Connection",
+   "Able, available, and actively seeking suitable work"
+  ],
+  "deadlines": [
+   {
+    "label": "Filing",
+    "date": null,
+    "note": "File in the first week employment stops or hours are reduced; file weekly claims on schedule to keep benefits"
+   }
+  ],
+  "prerequisites": [
+   "Meet the wage requirements established by law",
+   "Open or reopen a claim online at azui.com (or visit a DES Employment Service office without internet access)",
+   "Set up a 4-digit PIN for claim and payment status access"
+  ],
+  "whatToBring": [
+   "Social Security number",
+   "Employer names, addresses, and dates of employment for the last 18 months",
+   "Reason for separation from each employer",
+   "Alien Registration Card if not a U.S. citizen"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "UI Benefits Call Center (toll-free)",
+    "value": "1-877-600-2722"
+   },
+   {
+    "kind": "phone",
+    "label": "UI Benefits Call Center, Phoenix",
+    "value": "(602) 364-2722"
+   },
+   {
+    "kind": "phone",
+    "label": "UI Benefits Call Center, Tucson",
+    "value": "(520) 791-2722"
+   },
+   {
+    "kind": "web",
+    "label": "Contact Arizona UI Benefits",
+    "value": "https://des.az.gov/services/employment/unemployment-individual/contact-AZUI"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "File a UI claim at azui.com",
+    "url": "https://www.azui.com/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://des.az.gov/services/employment/unemployment-individual/contact-AZUI", "https://des.az.gov/node/84"]
+ },
+ {
+  "id": "st-az-voter-registration",
+  "name": "Arizona Voter Registration",
+  "agency": "Arizona Secretary of State",
+  "category": "Civic Participation",
+  "description": "Register to vote or update your registration in Arizona. Arizona requires documentary proof of citizenship to vote a full ballot (all federal, state, county, and local races); without it you can register as a federal-only voter. Register online through AZ MVD Now with an Arizona driver license or ID.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "U.S. citizen and Arizona resident of the county listed on registration",
+   "At least 18 years old by the date of the next regular general election",
+   "Not convicted of a felony without restored civil rights; not adjudicated incapacitated",
+   "Documentary proof of citizenship required for a full ballot (state form); federal form requires attestation under penalty of perjury"
+  ],
+  "deadlines": [
+   {
+    "label": "Registration cutoff",
+    "date": null,
+    "note": "Register at least 29 days before an election; no same-day registration in Arizona"
+   }
+  ],
+  "prerequisites": [
+   "Arizona driver license or non-operating ID for online registration via AZ MVD Now EZ Voter Registration",
+   "Proof of citizenship (AZ license/ID number, tribal ID, naturalization certificate, passport, or birth certificate with name documentation) for a full ballot"
+  ],
+  "whatToBring": [
+   "Arizona driver license or ID number",
+   "Proof of citizenship documents if registering by mail (do not send originals)",
+   "Current residential and mailing addresses"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Elections information line",
+    "value": "1-877-THE-VOTE"
+   },
+   {
+    "kind": "web",
+    "label": "Registering to vote — Arizona Secretary of State",
+    "value": "https://azsos.gov/elections/voters/registering-vote"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Register to vote (Secretary of State)",
+    "url": "https://azsos.gov/elections/voters/registering-vote"
+   },
+   {
+    "label": "AZ MVD Now EZ Voter Registration",
+    "url": "https://azmvdnow.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://azsos.gov/elections/voters/registering-vote", "https://azsos.gov/elections/voters/registration-requirements"]
+ }
+,
+ {
+  "id": "st-az-business-registration",
+  "name": "Arizona Business Registration — LLC & Corporation Formation",
+  "agency": "Arizona Corporation Commission, Corporations Division",
+  "category": "Small Business",
+  "description": "Form an LLC or corporation in Arizona through the Corporation Commission's Corporations Division. The legacy eCorp portal was retired in January 2026 and replaced by Arizona Business Connect; start at the Corporations Division page to file articles of organization or incorporation online.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Any person forming a domestic entity or registering a foreign entity to transact business in Arizona",
+   "Entity name must be distinguishable from existing Arizona entities",
+   "Every corporation and LLC must maintain a statutory agent with a physical street address in Arizona"
+  ],
+  "deadlines": [
+   {
+    "label": "Filing",
+    "date": null,
+    "note": "Rolling — file before transacting business; annual reports due on the anniversary of incorporation"
+   }
+  ],
+  "prerequisites": [
+   "Distinguishable business name (search the entity database first)",
+   "Statutory agent with an Arizona street address who accepts the appointment",
+   "Articles of organization (LLC) or incorporation (corporation)"
+  ],
+  "whatToBring": [
+   "Proposed entity name",
+   "Statutory agent name, Arizona street address, and signed acceptance",
+   "Member or manager structure information (LLC)",
+   "Payment for the filing fee"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Corporations Division",
+    "value": "(602) 542-3026"
+   },
+   {
+    "kind": "email",
+    "label": "Corporations Division email",
+    "value": "answers@azcc.gov"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Corporations Division — start or change a business",
+    "url": "https://azcc.gov/corporations"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "$50 to file articles of organization for an LLC (regular processing)",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://azcc.gov/corporations", "https://ecorp.azcc.gov/"]
+ },
+ {
+  "id": "st-az-tax-filing",
+  "name": "Arizona Individual Income Tax — File with ADOR",
+  "agency": "Arizona Department of Revenue",
+  "category": "Money & Taxes",
+  "description": "File and pay Arizona individual income tax through the Department of Revenue. Arizona has a flat individual income tax; file and pay online through AZTaxes.gov, where you can also track refunds, make estimated payments, and arrange payments without registering.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Arizona residents, part-year residents, and nonresidents with Arizona-source income meeting filing thresholds",
+   "Single filers generally must file if Arizona adjusted gross income or gross income meets the thresholds on Form 140 instructions"
+  ],
+  "deadlines": [
+   {
+    "label": "Individual return",
+    "date": null,
+    "note": "Generally due April 15 (follows the federal deadline); estimated payments due quarterly"
+   }
+  ],
+  "prerequisites": [
+   "Complete your federal return first (Arizona starts from federal adjusted gross income)",
+   "AZTaxes.gov account for managing filings (not required for one-time estimated, extension, or liability payments)"
+  ],
+  "whatToBring": [
+   "Social Security number and filing status",
+   "W-2s, 1099s, and federal return",
+   "Records of estimated payments and withholding",
+   "Bank account information for direct deposit or ACH payment"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Individual taxpayer assistance (Mon–Fri, 8 AM–5 PM MST)",
+    "value": "(602) 255-3381"
+   },
+   {
+    "kind": "web",
+    "label": "Arizona Department of Revenue",
+    "value": "https://www.azdor.gov/"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "AZTaxes.gov — file, pay, and check refund status",
+    "url": "https://aztaxes.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free to file and pay online (2.2% convenience fee with $2 minimum for credit/debit card payments)",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://aztaxes.gov/", "https://www.azdor.gov/", "https://aztaxes.gov/Home/FAQ"]
+ },
+ {
+  "id": "st-az-professional-licensing",
+  "name": "Arizona Registrar of Contractors — Contractor Licensing",
+  "agency": "Arizona Registrar of Contractors",
+  "category": "Employment",
+  "description": "Arizona's largest occupational licensing agency: the Registrar of Contractors licenses residential and commercial contractors. Arizona has no single central portal for all professions — most professions (nursing, real estate, medical, cosmetology) are licensed through their own boards; Arizona's universal licensing law also lets many out-of-state licensees apply by endorsement.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Contractors performing work over the statutory minimum must hold an ROC license in the proper classification",
+   "Qualifying party must pass the business management and trade exams (via PSI) unless waived",
+   "Background check, bond, and applicable fees required with the application"
+  ],
+  "deadlines": [
+   {
+    "label": "Licensing",
+    "date": null,
+    "note": "Rolling — apply before contracting; licenses renew on a two-year cycle"
+   }
+  ],
+  "prerequisites": [
+   "Qualifying party meeting experience requirements for the license classification",
+   "Passed Statutes & Rules and trade exams (or approved waiver)",
+   "Background check through the Registrar's vendor and contractor's bond"
+  ],
+  "whatToBring": [
+   "Completed license application package for the business entity type",
+   "Government-issued ID for the qualifying party and listed individuals",
+   "Background check receipt number",
+   "Proof of bond and payment for application and license fees"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "ROC customer service, Phoenix (Mon–Fri, 8:30 AM–4:30 PM)",
+    "value": "(602) 542-1525"
+   },
+   {
+    "kind": "phone",
+    "label": "ROC toll-free (within Arizona)",
+    "value": "1-877-692-9762"
+   },
+   {
+    "kind": "web",
+    "label": "Arizona Registrar of Contractors",
+    "value": "https://roc.az.gov/general-information"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Applying for a contractor license (forms and instructions)",
+    "url": "https://roc.az.gov/general-information"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Varies by classification (application fee plus license fee; e.g., residential specialty totals include a recovery fund assessment)",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://roc.az.gov/general-information"]
+ },
+ {
+  "id": "st-az-birth-certificate",
+  "name": "Arizona Birth Certificate — Vital Records",
+  "agency": "Arizona Department of Health Services, Office of Vital Records",
+  "category": "IDs & Records",
+  "description": "Order a certified copy of an Arizona birth certificate from the state Office of Vital Records. Apply by mail with the official request form, in person at county vital records offices, or online through VitalChek for expedited service. The state office no longer offers same-day walk-in issuance.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "The person named on the record, a parent, or an entitled party with proof of relationship",
+   "State office holds records for births since July 1909 (abstracts of earlier county-filed records)",
+   "County health department vital records offices can issue certified copies for same-day walk-in service"
+  ],
+  "deadlines": [
+   {
+    "label": "Orders",
+    "date": null,
+    "note": "Rolling — allow mailing and processing time; expedited service available through VitalChek"
+   }
+  ],
+  "prerequisites": [
+   "Completed application with original signature",
+   "Copy of government photo ID (front and back) or notarized signature",
+   "Proof of relationship if ordering for someone other than yourself"
+  ],
+  "whatToBring": [
+   "Signed request form",
+   "Copy of valid signed government photo ID",
+   "Proof of relationship (birth certificate, court documents, marriage certificate) if applicable",
+   "Money order or cashier's check payable to Bureau of Vital Records (no personal checks); self-addressed stamped envelope"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "Office of Vital Records",
+    "value": "602-364-1300"
+   },
+   {
+    "kind": "web",
+    "label": "Arizona Office of Vital Records",
+    "value": "https://www.azdhs.gov/licensing/vital-records/index.php"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Order expedited birth certificate through VitalChek",
+    "url": "https://www.vitalchek.com/"
+   },
+   {
+    "label": "Birth certificate application form (PDF)",
+    "url": "https://www.azdhs.gov/documents/vital-records/application-certificate-birth.pdf"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "$20 per certified copy; corrections/amendments $30",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.azdhs.gov/licensing/vital-records/index.php", "http://www.cdc.gov/nchs/w2w/arizona.htm"]
+ },
+ {
+  "id": "st-az-tanf",
+  "name": "Cash Assistance (TANF) — Arizona",
+  "agency": "Arizona Department of Economic Security, Family Assistance Administration",
+  "category": "Family & Childcare",
+  "description": "Cash Assistance is Arizona's TANF program, providing temporary monthly cash benefits to eligible low-income families with dependent children. Benefits are deposited on the QUEST EBT card; adults must sign a Personal Responsibility Agreement covering work participation, child support cooperation, and school requirements.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Needy Arizona family with a dependent child (parent or non-parent relative head of household)",
+   "Countable income below the payment standard for the assistance unit",
+   "Arizona residency; citizenship or qualified non-citizen status",
+   "Adults limited to 12 Arizona months of Cash Assistance unless exempt or extended"
+  ],
+  "deadlines": [
+   {
+    "label": "Applications",
+    "date": null,
+    "note": "Rolling — apply anytime; a decision is made no later than 45 days after application"
+   }
+  ],
+  "prerequisites": [
+   "Complete an application and eligibility interview (phone or in-person at a DES office)",
+   "Sign the Personal Responsibility Agreement before payments begin",
+   "Cooperate with child support enforcement and Jobs Program participation"
+  ],
+  "whatToBring": [
+   "Photo ID and Social Security numbers for people applying",
+   "Proof of income for the last two months",
+   "Bank or credit union statement for the most recent month",
+   "Rent/mortgage and utility bills; children's birth certificates",
+   "Information about the children's other parent for child support"
+  ],
+  "contacts": [
+   {
+    "kind": "phone",
+    "label": "DES Cash, Nutrition, and Medical Assistance",
+    "value": "1-855-432-7587"
+   },
+   {
+    "kind": "web",
+    "label": "DES contact and program numbers",
+    "value": "https://des.az.gov/node/4100"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Apply for Cash Assistance at Health-e-Arizona Plus",
+    "url": "https://www.healthearizonaplus.gov/"
+   }
+  ],
+  "languages": ["English", "Spanish"],
+  "cost": "Free",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://www.healthearizonaplus.gov/", "https://des.az.gov/node/4100"]
+ },
+ {
+  "id": "st-az-state-parks",
+  "name": "Arizona State Parks — Annual Pass",
+  "agency": "Arizona State Parks and Trails",
+  "category": "Parks & Recreation",
+  "description": "Arizona State Parks and Trails operates more than 30 parks and natural areas on visitor fees alone. A single annual pass (raised to $200 effective February 25, 2025) covers day-use entry for up to four adults in one vehicle at all parks for one year with no restrictions.",
+  "scope": {"state": "AZ", "level": "state"},
+  "eligibility": [
+   "Open to everyone — annual pass admits up to four adults in a single vehicle",
+   "Pass valid for one year from purchase at all Arizona state parks",
+   "Does not cover camping fees, cave tours, or special programs"
+  ],
+  "deadlines": [
+   {
+    "label": "Pass",
+    "date": null,
+    "note": "Rolling — valid for one year from purchase"
+   }
+  ],
+  "prerequisites": [
+   "None — buy the pass online or at a park entrance station"
+  ],
+  "whatToBring": [
+   "Annual pass displayed or presented at park entry",
+   "Separate payment for camping ($25–$50/night) and tours where applicable"
+  ],
+  "contacts": [
+   {
+    "kind": "web",
+    "label": "Arizona State Parks fee schedule and annual pass",
+    "value": "https://azstateparks.com/fee-schedule"
+   }
+  ],
+  "applyLinks": [
+   {
+    "label": "Annual pass and fee schedule",
+    "url": "https://azstateparks.com/fee-schedule"
+   }
+  ],
+  "languages": ["English"],
+  "cost": "$200 annual pass (up to 4 adults per vehicle, all parks, one year); day use $5–$30; camping $25–$50/night",
+  "verifiedAt": "2026-10-08",
+  "sources": ["https://azstateparks.com/fee-schedule", "https://azstateparks.com/press/fees-increase-at-arizona-state-parks-and-trails-to-support-park-operations"]
+ }
+]
